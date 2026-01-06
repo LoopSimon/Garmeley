@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Nation Entries\"  ",
@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:Cartography  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.1,
-  "nodeSizeMultiplier": 1.19739583333333,
-  "lineSizeMultiplier": 2.55,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.7125,
+  "lineSizeMultiplier": 1.50364583333333,
   "collapse-forces": false,
-  "centerStrength": 0.666666666666667,
-  "repelStrength": 8.85416666666667,
-  "linkStrength": 0.458333333333333,
-  "linkDistance": 123,
-  "scale": 0.9999999999999983,
+  "centerStrength": 0.583333333333333,
+  "repelStrength": 8.33333333333333,
+  "linkStrength": 1,
+  "linkDistance": 57,
+  "scale": 0.36288736930121035,
   "close": true
 }

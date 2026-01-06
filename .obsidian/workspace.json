@@ -11,14 +11,10 @@
             "id": "7f3f582016fdbdb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nation Entries/Historical Realms/Wermia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wermia"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nation Entries/Historical Realms/Wermia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wermia"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nation Entries/Historical Realms/Wermia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wermia"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,20 +150,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nation Entries/Historical Realms/Wermia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Wermia"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3b19f339dda9b26a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,37 +190,42 @@
   },
   "active": "7f3f582016fdbdb2",
   "lastOpenFiles": [
-    "Nation Entries/Grevenna.md",
-    "Timeline/Complete Timeline.md",
-    "Nation Entries/Historical Realms/Cyraclion.md",
-    "Nation Entries/Reanport.md",
-    "Nation Entries/Pintrixaz.md",
-    "Nation Entries/Tizin-Kol.md",
-    "Nation Entries/Xer-Kol.md",
-    "Nation Entries/Avdan-Kol.md",
-    "Nation Entries/Ogul-Vosko.md",
-    "Nation Entries/Jeledo.md",
-    "Nation Entries/Historical Realms/Rean.md",
-    "Nation Entries/Historical Realms/Baeling Empire.md",
-    "Nation Entries/Historical Realms/Wermia.md",
-    "Nation Entries/Historical Realms/Urland.md",
-    "Nation Entries/Historical Realms",
-    "Nation Entries/Historical Realms/Rakh.md",
+    "Politics/International Treaties/Treaty of Danipol.md",
     "Nation Entries/Jahul Cyclor.md",
-    "Nation Entries/Qahori.md",
-    "Nation Entries/Paper Cities.md",
-    "Nation Entries/Yokosch.md",
-    "Nation Entries/Pravazik.md",
-    "Nation Entries/Blijgrat.md",
-    "Nation Entries/Baeling.md",
-    "Nation Entries/Ott.md",
-    "Nation Entries/Battvia.md",
-    "Nation Entries/Gelmsburg.md",
-    "Nation Entries/Eldmar.md",
-    "Politics",
+    "Culture & Religion/Organisations/Excavators Guild of Butera.md",
+    "Politics/International Treaties/Treaty of Uhl.md",
+    "Nation Entries/Reanport.md",
+    "Politics/Garmian Civil War.md",
     "Untitled.canvas",
-    "Arcanum Obscuriae",
+    "Politics/Wars of Baeling Succession.md",
+    "Politics/International Treaties/Wermian Accords.md",
+    "Politics/Great Eastern War.md",
+    "Politics/Situation in the Paper Cities.md",
+    "Politics/International Treaties/Treaty of Kulum.md",
+    "Politics/International Treaties",
+    "Politics/International Treaties.md",
+    "Culture & Religion/Organisations/Karajal School of Insight.md",
+    "Untitled.md",
+    "Untitled 1.canvas",
+    "Culture & Religion/Organisations.md",
+    "Culture & Religion/Organisations/The Order of the Silver Wheel.md",
+    "Culture & Religion/Organisations/Vrieman Bank of Uhl.md",
+    "Culture & Religion/Organisations/The Ottian Syndicate.md",
+    "Culture & Religion/Organisations/Korsfall College.md",
+    "Culture & Religion/Organisations/Church of Iztaw.md",
+    "Culture & Religion/Organisations/Kherovan Inquisition.md",
+    "Culture & Religion/Organisations",
+    "Nation Entries/Iz-Almadus.md",
     "Untitled.base",
+    "Cartography/Globus.md",
+    "Cartography/Inara.md",
+    "Cartography/Untitled.canvas",
+    "Nation Entries/Historical Realms/Wermia.md",
+    "Cartography",
+    "Nation Entries/Grevenna.md",
+    "Nation Entries/Historical Realms",
+    "Politics",
+    "Arcanum Obscuriae",
     "Culture & Religion",
     "Timeline",
     "Nation Entries"
