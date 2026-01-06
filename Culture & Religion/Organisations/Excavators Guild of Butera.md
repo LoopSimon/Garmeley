@@ -1,4 +1,4 @@
-[[Paper Cities]] [[Rakh]]
+[[Paper Cities]] [[Rakh]] [[Cyraclion]]
 Founded at the end of the 6th century in Battvia as a support group and supply center for adventurers looking to venture into the Ruins of Ancient Rakh after the Great Expedition.
 
 Over years the Headquarters of the Guild were officially established on the island-city of Butera and grew into an academic institution, responsible for almost all ventures deep within the Wastes and beyond.
