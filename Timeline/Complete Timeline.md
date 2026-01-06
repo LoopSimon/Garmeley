@@ -104,6 +104,8 @@ Age of Silver
 - Wars of Storm (170PA
     
 - Death of Heljad the Giantslayer (176PA
+
+- Unification of Cevolis (180PA
     
 - Ptamon finishes “The Elemental Essence” (199PA
     
