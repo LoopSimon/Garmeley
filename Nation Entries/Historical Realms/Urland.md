@@ -4,7 +4,7 @@ Heraldic Symbol: The Golden Urien Gryphon
 
 Head of State: N/A
 
-Primary Religion: [[Kindly Lords]] [[Gethricism]]
+Primary Religion: [[Turvik Paganism]]
 Primary Culture: Urien
 Capital: Gelmsburg
 

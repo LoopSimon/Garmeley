@@ -7,12 +7,12 @@ Heraldic Symbol: White Unicorn on blue ground
 Head of State: King Miskomir IV 
 
 Primary Religion: [[Gethricism]]  
-Primary Culture: Vihiri
+Primary Culture: Vihri Human
 
 Capital: Zavlech
 
 Official Language: High Vihri
 
-Preceded by: Vihrmen Tribes
+Preceded by: [[Vihrmen Federation]]
 
 **
