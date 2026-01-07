@@ -1,4 +1,4 @@
-[[Blijgrat]] [[Meadrath]] [[Weadland]]
+
 
 Government: Magocracy
 
@@ -6,7 +6,7 @@ Heraldic Symbol: Auguran Triangle
 
 Head of State: N/A
 
-Primary Religion: Auguran [[Starworship]]
+Primary Religion: [[Augurism]]
 Primary Culture: Meadi
 Capital: Jera
 

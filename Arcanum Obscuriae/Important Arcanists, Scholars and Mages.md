@@ -34,8 +34,12 @@ Avero of the Eightfolds
 
 Jurahim al Biad
 	Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
-	Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Agression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
-
+	Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
+	
+Meynar of Jorrenstead
+	An incredibly successful Garmian Historian who is widely recognized for his efforts to preserve and rediscover ancient Urien and Garmian History.
+	His most famous work being undoubtably the "Historiae Uriorum", as published in 819PA.
+	
 Ahrmiz Saceren
 	Better known as the infamous Necromancer Ahrmiz the Conjurer, this Kherovan Wizard ruled over the now ruined city of Kulum in the 9th century, although he was killed by brave adventurers his Cult has spread wide across Ilrakhan and rumours are well alive that he may attempt to reclaim life on the material Plane again.
 
