@@ -6,7 +6,7 @@ Indeed, Karajal as an Academic is one of the greatest in a line of greats, a sch
 
 Kwarzimi rejected the established Rakhian models of Conflux-dependency as declared by Phiodales of Mizk, an author and mage in the latter days of ancient [[Rakh]].
 
-The greatest minds, usually but not exclusively [[Elf|elven]], of the Continent gather in the Grey Tower of Alparaz, the highest spire of the School, and delve deep into the knowledge of their forebearers.
+The greatest minds, usually but not exclusively [[Elf|elven]], of the Continent gather in the Grey Tower of Alparaz, the highest spire of the School, and delve deep into the knowledge of their fore bearers.
 
 Indeed so revered and respected is this house of learning, that it largely remains untouched by the political influence of the Sultan and has even openly voiced dissonance with decisions of the Palace in Jiravid without any official reprimand.
 
