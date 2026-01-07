@@ -230,6 +230,7 @@ Age of Steel
 - Emergence of the Twin Kingdoms of Ott (670PA
     
 - Avero of the Eightfolds finishes “De venenis eorumque remediis” (677PA
+- Baeling Resurgence (684PA)
     
 - Rise of Khan Jigallor in Nirydia (689PA
     
@@ -241,7 +242,7 @@ Age of Steel
     
 - Uhl is granted Independence by Vormil I (716PA
     
-- Baeling Conquest of Hangs Horn (720PA
+- Baeling reconquest of Hags Horn (720PA
     
 - 1st War of Elbae Aggression  (750PA
     
