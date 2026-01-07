@@ -279,6 +279,7 @@ Age of Steel
     3rd War of Elbae Aggression ends (814PA
     
 - Treaty of Danipol (815PA
+- Meynar of Jorrensteads "Historiae Uriorum" is published (819PA)
     
 - Fall of Kulum (820PA
     
