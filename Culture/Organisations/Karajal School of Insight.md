@@ -12,4 +12,4 @@ Indeed so revered and respected is this house of learning, that it largely remai
 
 The School has stood in relatively close contact with the researchers at Patwin Towers in Garmeley even when the Duchy fought the Sultanate during the Wars of Aggression.
 
-It is said that the wearers of the Star of Karajal, the mark of graduates of all disciplines, is seen by many nobles and academics as a sign of great renown that could open many a door, and is sought after with even more desire than similar status symbols by the [[Korsfall College]] or [[Ottian Academies]].
+It is said that the wearers of the Star of Karajal, the mark of graduates of all disciplines, is seen by many nobles and academics as a sign of great renown that could open many a door, and is sought after with even more desire than similar status symbols by the [[Korsfall College]] or  [[The Ottian Syndicate]] .
