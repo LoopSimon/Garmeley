@@ -2,71 +2,67 @@
 
 The following describes the Metaphysical Understanding of our Plane by the Korsfall College of Astronomy and Magicks, in accordance with the ethical views of the Wermian Accords.
 
-  
-  
+***
 
-Chapter I: Planar Theory
+**Chapter I: Planar Theory**
 
 Our own Plane of existence, describes not only the physical space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all arcane energies.
 
 In the following Introduction we will cover modern day Planar and Leygrid Theory, absolute and conditional Fluxbridges as well as Confluxes.
 
-According to Wulfrick the Elder, who compiled Rakhian Recoveries after the Great Discovery in his Theorem Arcanum and is widely seen as the Father of modern Arcane Theory, our Plane (Alrahani in the Rahki language of old) is connected to at least 6 major, and multitudes of minor and sub- planes of energy, in what he calls Fluxbridges.
+According to Wulfrick the Elder, who compiled Rakhian Recoveries after the Great Discovery in his Theorem Arcanum and is widely seen as the Father of modern Arcane Theory, our Plane (Alrahani in the Rahki language of old) is connected to at least 6 major, and multitudes of minor and sub-planes of energy, in what he calls **Fluxbridges**.
 
-These Fluxbridges are best imagined as rivers of planar energy flowing in interplanar space, that can access our own plane in what can be categorized as 2 major ways:
+These *Fluxbridges* are best imagined as rivers of planar energy flowing in inter-planar space, that can access our own plane in what can be categorised as 2 major ways:
 
-First an absolute or colloquially “pure” Fluxbridge, that represents a constant “open” flowing of planar energy into our plane, and second, a conditional or “impure” Fluxbridge that represents a potential access point to planar energy.
+First an absolute or colloquially “pure” ***Fluxbridge***, that represents a constant “open” flowing of planar energy into our plane, and second, a conditional or “impure” ***Fluxbridge*** that represents a potential access point to planar energy.
 
-These are best described in the Image of an everflowing and uncontrollable Waterfall and a regulated and potentially controllable Valve.
+These are best described in the Image of an ever flowing and uncontrollable *waterfall* and a regulated and potentially controllable *valve*.
+
+*** 
 
 The 4 Major Planes as described in the Theorem Arcanum are:  
-The Positive Plane  
-The Negative Plane  
-The Chaotic Plane
+* The Positive Plane  
+* The Negative Plane  
+* The Chaotic Plane
+* The Stagnant Plane
 
-The Stagnant Plane
+Even though now widely dismissed by modern academia, Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.
 
-Even though now widely dismissed by modern academia, Wulfrick broadly categorizes the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.
+All Sub-planes are defined by their reliance on one of these Major Planes to access our own Plane, or in turn our reliance on one of these Major Planes to access them.
 
-All Subplanes are defined by their reliance on one of these Major Planes to access our own Plane, or in turn our reliance on one of these Major Planes to access them.
+***
 
-  
-  
-
-Chapter 2: Basic Leygrid Theory and Nomenclature
+**Chapter 2: Basic Leygrid Theory and Nomenclature**
 
 Aside from the aforementioned understanding of our planar reality, it is important to comprehend the makeup of our own planes underlying Leygrid.
 
-Every particle of matter of our plane holds an amount of weight, representing a fixpoint on a grid pulled between the four major planes. In its most basic form the casting of any work of magic, be it absolute or conditional, is nothing more than the tugging and stringing of tens, hundreds or even thousands of Leypoints on this Grid to first create a Fluxbridge and then fill it with intent, a process often referred to as “weaving” a Spell.
+Every particle of matter of our plane holds an amount of weight, representing a fixed point on a grid pulled between the four major planes. In its most basic form the casting of any work of magic, be it absolute or conditional, is nothing more than the tugging and stringing of tens, hundreds or even thousands of Leypoints on this Grid to first create a Fluxbridge and then fill it with intent, a process often referred to as “weaving” a Spell.
 
 Modern understanding of the Leygrid as such derives from the rejection of the old Rakhian Model by the elven mage Kwarzimi of Corbai who rejected the Conflux-Dependency Model of Rakhian Scholars like Phiodales of Mizk.
 
-  
-  
-  
-  
-  
+***
 
-Chapter 3: The Absolute Fluxbridge
+**Chapter 3: The Absolute Fluxbridge**
 
 While not outright impossible or without example, the creation of absolute Fluxbridges is incredibly difficult and strictly forbidden in accordance with the Wermian Accords, partially due to the academic consensus that it is virtually impossible to control the energies of one.
 
-Perhaps the most infamous example of an absolute Flixbridge in history is the Crimson Rubric, responsible for the Demonic Incursions in Wermia and the Rift to the Abyssal Subplane, or perhaps the Paragon-Husks of the ancient Elfs.
+Perhaps the most infamous example of an absolute Fluxbridge in history is the Crimson Rubric, responsible for the Demonic Incursions in Wermia and the Rift to the Abyssal sub-plane, or perhaps the Paragon-Husks of the ancient elves.
 
-  
-Chapter 4: The Conditional Fluxbridge
+***
 
-The common way for any Wielder of Magic to defy the physics and boundaries of our world is the creation and control of the conditional fluxbridge by ways of manipulating one or multiple Leypoints.
+**Chapter 4: The Conditional Fluxbridge**
 
-The most popular way to achieve this, is the invoking of a memorized set of Leypoints to activate a magical Artifact, which then in turn can manipulate a vastly larger amounts of Leypoints alone either the “Arcane Axis” (between the Chaotic and Stagnant Plane) or the “Divine Axis” (between the Positive and Negative Plane).
+The common way for any Wielder of Magic to defy the physics and boundaries of our world is the creation and control of the conditional Fluxbridge by ways of manipulating one or multiple Leypoints.
 
-While the first image that comes to our mind at the mention of a magical Artifact, might be a Staff or a ring, the research in the field of Artificery (the creation, maintenance, and manipulation of magical Artifacts) has shown us that the more we learn, the more we discover we don't know yet. So while examples can certainly be Imbued Swords, Rings, Wands or Staffs, artifacts of varying power can also be found as tattoos or even more abstract in the invoking of an oath or the singing of a song.
+The most popular way to achieve this, is the invoking of a memorised set of Leypoints to activate a magical artifact, which then in turn can manipulate a vastly larger amounts of Leypoints along either the “Arcane Axis” (between the Chaotic and Stagnant Plane) or the “Divine Axis” (between the Positive and Negative Plane).
+
+While the first image that comes to our mind at the mention of a magical artifact , might be a staff or a ring, the research in the field of artificery (the creation, maintenance, and manipulation of magical artifacts) has shown us that the more we learn, the more we discover we don't know yet. So while examples can certainly be Imbued Swords, Rings, Wands or Staffs, artifacts of varying power can also be found as tattoos or even more abstract in the invoking of an oath or the singing of a song.
 
 The reluctance of the brilliant minds in Ott to share discoveries and methods they claim to have over the effortless creation and change of artifacts is in this sense a true academic tragedy.
 
 The power of an artifact can be measured in two ways, first the amount of Leypoints it is able to manipulate and second the range of control it allows over said Manipulation. An Ottian Ring of Power might therefore allow an attuned Wearer to summon a ring of fire around him, creating a relatively powerful arcane effect, but perhaps not give the wearer greater control over technically smaller feats, like conjuring a drop of water.
 
-Any activation of an Artifact usually requires attunement, although certain specially crafted artifacts can be finetuned to such a detailed degree, that they automatically activate under certain conditions. Attunement is categorically defined by once understanding of the Arcane or Divine Axis, therefore a wielder of magic able to effortlessly use artifacts on both axes is almost unheard of.
+Any activation of an artifact usually requires attunement, although certain specially crafted artifacts can be fine tuned to such a detailed degree, that they automatically activate under certain conditions. Attunement is categorically defined by ones understanding of the Arcane or Divine Axis, therefore a wielder of magic able to effortlessly use artifacts on both axes is almost unheard of.
 
 Non-Artifact-Casters, also known as Trueborn mages, are incredibly rare to find in the modern age, they act as living artifacts and can innately see and manipulate Leypoints.
 
@@ -78,9 +74,10 @@ A simple historiographic view is that there is no decline in trueborn mages, but
 
 The Akkalian Theory on the other side hypothesizes the creation of an absolute fluxbridge during the Eruption of Mount Al-Akka to such a titanic extent, that it fundamentally and permanently changed the way Fluxbridges can access our plane. As most accords of trueborn mages are attributed to times prior to or closely after the Eruption it stands to reason that the event had at least some sort of effect on the birth of trueborn mages.
 
-  
+***
 
-Chapter 5: Magical Conflux
+**Chapter 5: Magical Conflux**
+
 
 Described visually and emotionally in the accounts of trueborn mages as an “Ebbing and Flowing” of the Intensity with which they perceive Leypoints, a Conflux is a Phenomenon that occurs every 3104 Solar Days, or every 1st day of a Rakhian Calendar.
 
@@ -89,33 +86,33 @@ The closer a caster is to a Confluence, the easier they will usually find to acc
 The research into the connection of Astronomic Phenomena, regarding our own planet as well as the bodies of Sun and Moon surrounding us, and the ability to exactly predict a Conflux is known as Conflux Theory. Conflux Theory is even less agreed upon and more speculative than the aforementioned dispute around trueborn decline, while at the same time represents the most ancient research even conducted by old Rakh.
 
   
-  
+  ***
   
 
-Chapter 6: Realmatic Theory
+**Chapter 6: Realmatic Theory**
 
 While Planar Energy, accessed by absolute and conditional Fluxbridges, is the only true source of activation energy for magical casting as far as we know, this is only true in theory.
 
-Alrahani itself can be divided into multiple realms of existence, primarily the material realm and the spiritual realm although it is heavily theorized that other realms exist within our own plane of existence such as the colloquially termed “astral realm” of projection.
+Alrahani itself can be divided into multiple realms of existence, primarily the material realm and the spiritual realm although it is heavily theorised that other realms exist within our own plane of existence such as the colloquially termed “astral realm” of projection.
 
 Traversal between realms is usually only possibly on a physical sense with usage of tremendous planar energy but there are those beings, broadly classified as Spirits who exist primarily within the spiritual Realm as well as creatures or entities that exist in haptic forms in more than 1 realm of existence, such as the Fey. 
 
-It is generally assumed that the existence of cross-realm entities, be it living or unliving creatures and objects, requires a “natural” absolute fluxbridge that is inherent in said cross-realm entity, however this does clash with the still largely accepted Primal-Conflux-Theory.
+It is generally assumed that the existence of cross-realm entities, be it living or unliving creatures and objects, requires a “natural” absolute Fluxbridge that is inherent in said cross-realm entity, however this does clash with the still largely accepted Primal-Conflux-Theory.
 
 Primal-Conflux-Theory assumes the model of the planes as ever shifting and moving on a universal scale, and posits that our own plane initially did not stand in contact with any other plane of existence until the event of a primal or initial conflux.
 
 However research into the aforementioned cross-realm entities have modern day scholars largely rejecting Primal-Conflux-Theory as outdated and obscure science.
 
   
-  
+***  
 
-Chapter 7: Aberrational Fluxbridges
+**Chapter 7: Aberrational Fluxbridges**
 
 Should the theory behind spell and application be solid and technical enough, it is possible to create aberrational Fluxbridges that follow certain conditions and patterns regarding their activation and behaviour.
 
 The most common example in our world is the ever present common curse and boon; usually the former to the woe of many a mortal. 
 
-It is extremely difficult to classify these Fluxbridges as either absolute or conditional as this can easily vary between different spells although a complex behaving absolute fluxbridge is an extremely dangerous and rare work of magic, an infamous example is the Fellcurse of Ahrmiz.
+It is extremely difficult to classify these Fluxbridges as either absolute or conditional as this can easily vary between different spells although a complex behaving absolute Fluxbridge is an extremely dangerous and rare work of magic, an infamous example is the Fellcurse of Ahrmiz.
 
   
 
