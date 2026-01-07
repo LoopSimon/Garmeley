@@ -1,7 +1,8 @@
-**
 
+<div class=grid-2x2>
+<div class="grid-item span-col-2">
 Languages of the World
-
+</div>
 
   
 
@@ -244,13 +245,4 @@ Aboleth
 
 The mind-warping whispers of the unfathomable horrors of the deepest and darkest corners of the world.
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-**
+</div>
