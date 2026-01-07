@@ -1,4 +1,4 @@
-[[Orc]]
+[[Orc]] [[Qalmyr Faith]]
 **
 
 Government: Tribal Federation
