@@ -82,7 +82,7 @@ Precursor Language to High Meadi during the times of the Auguri dominion.
 
 Smallfolk Languages (can all reasonable understand each other somewhat)
 
-Old Gnomish Symbolspeek
+Old Gnomish Symbolspeak
 
 A non-verbal Language that is still used within gnomish craftsmanship but almost entirely lost to the world outside of various Ottian Scholars.
 

@@ -1,13 +1,13 @@
-[[Goblinoid]]
+[[Goblinoid]] [[Underlands]] [[Goblin Fetishism]]
 
-Government: 
+Government: Goblin elective Autocracy
 
 Heraldic Symbol: 
 
 Head of State: 
-Primary Religion: 
-Primary Culture: 
-Capital: 
-Official Language:
+Primary Religion: Goblin Fetishism
+Primary Culture: Mitimgari Goblin
+Capital: Mitimgar
+Official Language: Undergob
 
 Preceded by: 
