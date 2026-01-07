@@ -3,7 +3,7 @@
 
 Founded in the Year 585PA, as a response to the findings of the Great Expedition in Rakh, 
 this institution is under the direct control of the Patriarch of Kher as the head of the Kethric denomination.
-
+The symbol of the Inquisition is the All-Seeying Eye of Truth engulfed in the Flames of Kethric.
 
 
 The Inquisition bemoans the Wermian Accords as the main agreement to regulate Magic, as it is in their words “a near 400 year old document that could not fathom the cruel ingenuity to come”, and is officially tasked with enforcing Magical Law within Kher itself.
