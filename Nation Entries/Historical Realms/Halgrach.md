@@ -10,4 +10,4 @@ Capital: Halgrach
 
 Official Language: Grachy
 
-Preceded by: 
+Preceded by: Grachi Tribes
