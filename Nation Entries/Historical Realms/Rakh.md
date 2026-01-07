@@ -6,7 +6,7 @@ Heraldic Symbol: Winged Serpent with Wolfhead
 
 Head of State: N/A
 
-Primary Religion: [[Rakhian Pantheon]]
+Primary Religion: [[Rakhian Mythology]]
 Primary Culture: Rakhian  
 Capital: Rakh
 

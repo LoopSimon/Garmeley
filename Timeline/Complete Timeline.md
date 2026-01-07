@@ -16,6 +16,7 @@ Antiquity (largely approximated)
 - Eruption of Al-Kortop (1210BA 450EC)
     
 - Destruction of the Jiravid Dynasty (970BA, 690EC)
+- First records of Palmunian Cities east of the Cloudscratchers (965PA
     
 - Rise of the Alparid Dynasty (956BA
     
