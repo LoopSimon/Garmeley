@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nation Entries/Historical Realms/Wermia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Wermia"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nation Entries/Historical Realms/Wermia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Wermia"
             }
           },
           {
@@ -150,16 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nation Entries/Historical Realms/Wermia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Wermia"
             }
           },
           {
-            "id": "3b19f339dda9b26a",
+            "id": "eff7cb13f1bc2c51",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -173,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,46 +190,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f3f582016fdbdb2",
+  "active": "2d30baf79ffe7c7b",
   "lastOpenFiles": [
-    "Politics/International Treaties/Treaty of Danipol.md",
-    "Nation Entries/Jahul Cyclor.md",
-    "Culture & Religion/Organisations/Excavators Guild of Butera.md",
-    "Politics/International Treaties/Treaty of Uhl.md",
-    "Nation Entries/Reanport.md",
-    "Politics/Garmian Civil War.md",
-    "Untitled.canvas",
+    "Timeline/Untitled.base",
+    "Timeline/Untitled.canvas",
+    "Timeline/Complete Timeline.md",
+    "Nation Entries/Vihr.md",
+    "Culture & Religion/Organisations/Church of Iztaw.md",
+    "Culture & Religion/Calendars.md",
+    "Culture & Religion/Civilized Races.md",
+    "Culture & Religion/Gethricism.md",
+    "Nation Entries/Historical Realms/Wermia.md",
     "Politics/Wars of Baeling Succession.md",
     "Politics/International Treaties/Wermian Accords.md",
-    "Politics/Great Eastern War.md",
-    "Politics/Situation in the Paper Cities.md",
+    "Politics/International Treaties/Treaty of Uhl.md",
     "Politics/International Treaties/Treaty of Kulum.md",
+    "Politics/International Treaties/Treaty of Danipol.md",
     "Politics/International Treaties",
-    "Politics/International Treaties.md",
-    "Culture & Religion/Organisations/Karajal School of Insight.md",
-    "Untitled.md",
-    "Untitled 1.canvas",
-    "Culture & Religion/Organisations.md",
-    "Culture & Religion/Organisations/The Order of the Silver Wheel.md",
     "Culture & Religion/Organisations/Vrieman Bank of Uhl.md",
     "Culture & Religion/Organisations/The Ottian Syndicate.md",
+    "Culture & Religion/Organisations/The Order of the Silver Wheel.md",
     "Culture & Religion/Organisations/Korsfall College.md",
-    "Culture & Religion/Organisations/Church of Iztaw.md",
     "Culture & Religion/Organisations/Kherovan Inquisition.md",
+    "Culture & Religion/Organisations/Karajal School of Insight.md",
+    "Culture & Religion/Organisations/Excavators Guild of Butera.md",
     "Culture & Religion/Organisations",
-    "Nation Entries/Iz-Almadus.md",
-    "Untitled.base",
-    "Cartography/Globus.md",
     "Cartography/Inara.md",
-    "Cartography/Untitled.canvas",
-    "Nation Entries/Historical Realms/Wermia.md",
+    "Cartography/Globus.md",
     "Cartography",
     "Nation Entries/Grevenna.md",
+    "Nation Entries/Historical Realms/Cyraclion.md",
+    "Nation Entries/Reanport.md",
+    "Nation Entries/Pintrixaz.md",
     "Nation Entries/Historical Realms",
     "Politics",
+    "Untitled.canvas",
     "Arcanum Obscuriae",
+    "Untitled.base",
     "Culture & Religion",
-    "Timeline",
-    "Nation Entries"
+    "Timeline"
   ]
 }
