@@ -1,4 +1,4 @@
-[[Grevenna]][[Elbae]][[Hainach]][[Reanport]]
+[[Grevenna]][[Elbae]][[Hainach]][[Reanport]][[Garmeley]] [[Vihr]][[Grachy]]
 
 Signed by the Participants of the 3rd war of Danipol, more commonly known as the 3rd war of Elbae Agression.
 Signators:
