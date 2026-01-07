@@ -26,12 +26,12 @@
 	Author of the "Theorem Arcanum", Wulfrick is widely seen as the figurehead of human Arcane Scholarship and Excellence, his residence and rectorship at Korsfall College and the policies instituted by him,  are largely responsible for the Dominance of the Institution in the realm of Magical Research up until the modern days.
 ***
 **Markur of the many Eyes**
-	 A succesfull student of Korsfall, Markur became a devout Gethrist during the aftermath of the War of Trout and Drake and is said to have worked many wonders travelling the lands and using his powers for good.
+	 A successful student of Korsfall, Markur became a devout Gethric during the aftermath of the War of Trout and Drake and is said to have worked many wonders travelling the lands and using his powers for good.
 	 Gifted in both Arcane and Divine Casting, he was  declared a saint by the Gethric Church after his death and is still worshipped prominently in the Western Lands, although just like Tronos not accepted by the Kethricists of Kherova.
 	 
 ***
 **Avero of the Eightfolds**
-	A half-elven scholar at Patwin Tower in modern day Garmeley, Averos most well known work, De venenis eorumque remediis is an attempt to reconcile Elven and Human Magical and Mathematical Research with Divine Practice.
+	A half-elven scholar at Patwin Tower in modern day Garmeley, Averos most well known work, "De venenis eorumque remediis" is an attempt to reconcile Elven and Human Magical and Mathematical Research with Divine Practice.
 ***
 **Jurahim al Biad**
 	Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
@@ -48,7 +48,7 @@
 	This Cevoli Arcanist is most infamous for his rejections of not only Eastern Gethricism but also Trinicist teachings that have led to a greater anti-gethric movement within the academic community, infiltrating even prominent Institutions like Korsfall College.
 ***
 **Pavo of Alban**
-	A Meadi Wizard and the youngest Rector in the history of Korsfall College, he is known as one of the if not the single greatest Magical Authority alive among non-elven Pracitioners, he resides in he Tower of Alban in southern Meadrath.
+	A Meadi Wizard and the youngest Rector in the history of Korsfall College, he is known as one of the if not the single greatest Magical Authority alive among non-elven Practitioners, he resides in he Tower of Alban in southern Meadrath.
 ***
 **Korman van Schipwig**
-	A Weadi Mage and Scholar, famous for his work "The Fractal Bridge", in wich he describes a potential semi-permanent Fluxbridge.
+	A Weadi Mage and Scholar, famous for his work "The Fractal Bridge", in which he describes a potential semi-permanent Fluxbridge.
