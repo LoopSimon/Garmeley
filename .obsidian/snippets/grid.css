@@ -1,0 +1,22 @@
+.grid-2x2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.grid-item {
+    background-color: var(--bg1);
+    border: 1px solid var(--tx3);
+    border-radius: 8px;
+    padding: 1rem;
+    height: 100%;
+}
+
+.span-col-2 {
+    grid-column: span 2;
+}
+
+.span-row-2 {
+    grid-row: span 2;
+}
