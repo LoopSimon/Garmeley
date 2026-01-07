@@ -134,6 +134,7 @@ Age of Silver
 - Elves settle Qa and name it Il-Haena (310PA
     
 - Death and Awakening of the last Paragon, Irimaa Anhur (321PA
+- Sultan Lizun declares the Doctrine of  Elbae Exceptionalism (329
     
 - Ardol of the House of Gismar forms the Kingdom of Gisvale (330PA
     
