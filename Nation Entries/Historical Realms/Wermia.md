@@ -2,7 +2,7 @@
 
 Government: Feudal Monarchy
 
-Heraldic Symbol: Crowned Raven
+Heraldic Symbol: Crowned Raven on Blue Ground
 
 Head of State: N/A
 

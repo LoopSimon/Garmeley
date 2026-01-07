@@ -70,9 +70,13 @@ High Meadi
 
 The national Language of Meadrath.
 
-Weali
+Weadi
 
 Spoken by the Blijgrater citizens of the Trinwood slopes.
+
+Old Meadi
+
+Precursor Language to High Meadi during the times of the Auguri dominion.
 
   
 
