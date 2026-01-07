@@ -1,10 +1,10 @@
 **
 
-Government: 
+Government: Hereditary Duchy
 
-Heraldic Symbol: 
+Heraldic Symbol: Burning Grapes
 
-Head of State: 
+Head of State: Duke Ramiro II Ucarraz
 
 Primary Religion: Trinicism
 Primary Culture: Cevoli Human  

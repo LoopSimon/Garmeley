@@ -1,4 +1,4 @@
-
+[[Spawn of Cyraclion]]
 [[Cyraclion]]
 Government: Theocracy
 
@@ -6,10 +6,10 @@ Heraldic Symbol: Eye looking upon the heavens
 
 Head of State: Yurkym, First Seer
 
-Primary Religion: K`ragi Starworship  
-Primary Culture: K`ragi Cyclops  
+Primary Religion: Kragi Starworship  
+Primary Culture: Kragi Cyclops  
 Capital: Kustur
 
-Official Language: K`ragi
+Official Language: Kragi
 
 Preceded by: Old Cyraclion

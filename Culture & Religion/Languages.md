@@ -98,6 +98,10 @@ Mistspire Dwarvish
 
 Spoken by the Dwarves of the Mistspire Mountains.
 
+Beheran Dwarvish
+
+Spoken by the Dwarves of the Beheran Mountains.
+
 Halfling Dialects
 
 Spoken by the various Halfling Communities mostly found west of Meadrath.
@@ -151,7 +155,7 @@ Spoken by the Ukioll peoples in and south of the Eldveil
 
 Miscellaneous Inhuman Languages
 
-K`ragi
+Kragi
 
 Spoken by the Cyclopi of lost Cyraclion.
 
