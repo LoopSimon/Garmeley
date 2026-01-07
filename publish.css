@@ -200,7 +200,7 @@ https://github.com/rose-pine/rose-pine-theme
 
 .grid-2x2 {
 	display: grid;
-	grid-template-colums: repeat(2, 1fr);
+	grid-template-columns: repeat(2, 1fr);
 	gap: 1rem;
 	grid-auto-rows: minmax(100px, auto);
 }
