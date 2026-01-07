@@ -1,12 +1,12 @@
-[[Goblinoid]] [[Cult of the Darksun]] [[Underlands]]
+  [[Underlands]]
 
 Government: Theocracy
 
 Heraldic Symbol: The Darksun
 
 Head of State: Darkchild Ogana the Eyeless
-Primary Religion: Darksun Cult
-Primary Culture: Fogori Goblin
+Primary Religion: Cult of the Darksun]]
+Primary Culture: Fogori [[Goblinoid]]
 Capital: Fogorix
 Official Language: Undergob
 
