@@ -1,80 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "iztaw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Nation Entries\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Culture & Religion\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Timeline  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"Arcanum Obscuriae\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "path:Politics  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Nation Entries/Historical Realms\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:Cartography  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    }
-  ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1.8,
-  "nodeSizeMultiplier": 3.33994954427083,
-  "lineSizeMultiplier": 5,
-  "collapse-forces": false,
-<<<<<<< HEAD
-  "centerStrength": 0.362630208333333,
-  "repelStrength": 11.9124348958333,
-  "linkStrength": 0.684163411458333,
-  "linkDistance": 179,
-  "scale": 0.3823010968769972,
-=======
-  "centerStrength": 0.583333333333333,
-  "repelStrength": 8.33333333333333,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 57,
-  "scale": 0.7132754626224383,
->>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
+  "linkDistance": 250,
+  "scale": 1,
   "close": true
 }
