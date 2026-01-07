@@ -13,10 +13,14 @@ However due to the good relationship with Vihr and Grevenna that Kher keeps, as 
 In reality most stories around Kher Inquisitors or “Witchfinders” as they are known outside the eastern country are not nearly as negative as one would believe, while stories of them ripping away children from parents or burning citizens on a pyre exist, they are usually paired with reports of the Inquisitors genuinely helping commonfolk, detaining and hunting down aberrations or pacifying rogue and criminal casters.
 
 
-The Treaty of Kulum, signed by most nations on the continent as a result of the rise and fall of Ahrmiz Saceren, commonly known as Ahrmiz the Conjurer, gave Kherovan Inquisitors international legal authority to apprehend remnants of the Cult, a practice that is often criticised by local lords and authorities as well abused by individual agents of the Inquisition that use it as an opportunity to enact secret missions and witchhunts across the Continent.
+The Treaty of Kulum, signed by most nations on the continent as a result of the rise and fall of Ahrmiz Saceren, commonly known as Ahrmiz the Conjurer, gave Kherovan Inquisitors international legal authority to apprehend remnants of the Cult, a practice that is often criticised by local lords and authorities as well abused by individual agents of the Inquisition that use it as an opportunity to enact secret missions and witch-hunts across the Continent.
 
 The Seat of the Inquisition is the Capital city of Kher, at the Silent Monastery, it is organized in 9 Tribunals each with their own hierarchies, tasks and histories.
 Each Tribunal serves under a High Inquisitor who all sit on the High Inquisitorial Council that heads the Organization and is itself only subject to the will of the Patriarch of Kher.
+The Inquisitorial Hierarchy within the Tribunals consists of one High Inquisitor, the Inquisitors of the Tribunals itself over all Tribunals combined totalling at about 300, the Acolytes of the Tribunals that seek to ascend to the rank of Inquisitor themselves and can range between Tribunals from a mere dozen to over a hundred in number and below them the Inquisitorial Personal that totals easily over a thousand and consists of soldiers, clerks, writers, envoys and many more aides.
+
+
+
 The Tribunals are as of 922PA:
 
 The Tribunal of the Marble Script, concerned with religious peace and the persecution of heretics and heathens within Kherova. Founded in 585PA.
