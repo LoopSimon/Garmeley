@@ -50,12 +50,14 @@ Antiquity (largely approximated)
 - Battle of Alma-Naxis (151BA
     
 - End of Beherian Campaigns (145BA
+- Rise of the Augur (142BA
     
 - Pehk Tribes are first encountered in the modern Grachhyll (132PA
     
 - Ylva tames Fagnir (102BA
     
 - Gunrsbridge is finished by the great Giants of the North ( 90BA
+- Battle of Gisfurt (88BA
     
 - Subjugation of Pilvia (79BA
     
@@ -104,6 +106,8 @@ Age of Silver
 - Wars of Storm (170PA
     
 - Death of Heljad the Giantslayer (176PA
+
+- Unification of Cevolis (180PA
     
 - Ptamon finishes “The Elemental Essence” (199PA
     
@@ -114,6 +118,7 @@ Age of Silver
 - Founding of the Gethrian Church (240PA
     
 - Vihiri Wars of Unifications begin (241PA
+- Fall of the Auguri Dominion (260PA
     
 - Daban-Kol and Kher unite, Day of Brothers (262PA
     
@@ -122,6 +127,7 @@ Age of Silver
 - Qahori sailors map the entire Beheran Coast (280PA
     
 - Conversion of Kher (284PA
+- Pieter the Rich becomes Lord of Weadland (290PA)
     
 - Unification of the Grachian Princedom (299PA
     
@@ -170,6 +176,7 @@ Age of Silver
 - Wermian Accords (536PA
     
 - 2nd Great Underwar begins (540PA
+- Baeling Conquest of Weadland (549PA)
     
 
   

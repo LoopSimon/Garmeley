@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f3f582016fdbdb2",
+            "id": "1b07990691279f7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Politics/Garmian Civil War.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Garmian Civil War"
             }
           }
         ]
@@ -90,7 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Nation Entries/Historical Realms/Wermia.md",
+=======
+                "file": "Politics/Garmian Civil War.md",
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +108,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Wermia"
+=======
+              "title": "Backlinks for Garmian Civil War"
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
             }
           },
           {
@@ -109,12 +121,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Nation Entries/Historical Realms/Wermia.md",
+=======
+                "file": "Politics/Garmian Civil War.md",
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Wermia"
+=======
+              "title": "Outgoing links from Garmian Civil War"
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
             }
           },
           {
@@ -152,13 +172,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Nation Entries/Historical Realms/Wermia.md",
+=======
+                "file": "Politics/Garmian Civil War.md",
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Wermia"
+=======
+              "title": "Outline of Garmian Civil War"
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
             }
           },
           {
@@ -176,7 +204,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
+=======
+    "width": 200
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +219,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+<<<<<<< HEAD
       "bases:Create new base": false
     }
   },
@@ -222,6 +255,49 @@
     "Nation Entries/Historical Realms/Cyraclion.md",
     "Nation Entries/Reanport.md",
     "Nation Entries/Pintrixaz.md",
+=======
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "1b07990691279f7d",
+  "lastOpenFiles": [
+    "Timeline/Complete Timeline.md",
+    "Culture & Religion/Races/Human.md",
+    "Untitled.canvas",
+    "Culture & Religion/Languages.md",
+    "Culture & Religion/Calendars.md",
+    "Culture & Religion/Gethricism.md",
+    "Nation Entries/Baeling.md",
+    "Nation Entries/Avdan-Kol.md",
+    "Nation Entries/Tizin-Kol.md",
+    "Nation Entries/Battvia.md",
+    "Nation Entries/Blijgrat.md",
+    "Nation Entries/Elbae.md",
+    "Nation Entries/Eldmar.md",
+    "Nation Entries/Garmeley.md",
+    "Nation Entries/Gelmsburg.md",
+    "Nation Entries/Grachy.md",
+    "Nation Entries/Grevenna.md",
+    "Nation Entries/Hainach.md",
+    "Nation Entries/Iz-Almadus.md",
+    "Nation Entries/Jahul Cyclor.md",
+    "Nation Entries/Jeledo.md",
+    "Nation Entries/Meadrath.md",
+    "Nation Entries/Kherova.md",
+    "Nation Entries/Juelfluk.md",
+    "Nation Entries/Xer-Kol.md",
+    "Nation Entries/Vihr.md",
+    "Nation Entries/Ogul-Vosko.md",
+    "Culture & Religion/Races",
+    "Politics/International Treaties",
+    "Untitled 1.canvas",
+    "Culture & Religion/Organisations",
+    "Untitled.base",
+    "Cartography/Untitled.canvas",
+    "Cartography",
+>>>>>>> e73ccbb60ddd23fd5849fff09f54db641bfd71ce
     "Nation Entries/Historical Realms",
     "Politics",
     "Untitled.canvas",
