@@ -20,3 +20,21 @@
 .span-row-2 {
     grid-row: span 2;
 }
+
+@media (max-width: 750px){
+    .grid-2x2{
+        grid-template-columns: 1fr !important;
+        gap: 0.5rem !important;
+    }
+
+    .grid-item{
+        height: auto !important;
+        padding: 0.5rem !important;
+    }
+
+    .span-col-2,
+    .span-row-2 {
+        grid-column: auto / auto !important;
+        grid-row: auto / auto !important;
+    }
+}
