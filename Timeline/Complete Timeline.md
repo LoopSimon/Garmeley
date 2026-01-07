@@ -97,7 +97,7 @@ Age of Silver
     
 - Reani Wars of Unification (112PA
     
-- Grach of Trazlov sails the Iron Claw and settles the eastern Bank (124PA
+- Fidor of Trazlov sails the Iron Claw and settles the eastern Bank (124PA
     
 - Battle at the Yevan River(156PA
     
