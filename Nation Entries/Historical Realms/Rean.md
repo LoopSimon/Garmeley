@@ -4,7 +4,7 @@ Heraldic Symbol:
 
 Head of State: N/A
 
-Primary Religion: 
+Primary Religion: [[Kindly Lords]]
 Primary Culture: 
 Capital: 
 

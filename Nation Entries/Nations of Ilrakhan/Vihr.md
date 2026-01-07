@@ -6,7 +6,7 @@ Heraldic Symbol: White Unicorn on blue ground
 
 Head of State: King Miskomir IV 
 
-Primary Religion: Gethricis  
+Primary Religion: [[Gethricism]]  
 Primary Culture: Vihiri
 
 Capital: Zavlech

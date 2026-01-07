@@ -5,7 +5,7 @@ Government: Feudal Monarchy
 Heraldic Symbol: 3 Seagulls
 
 Head of State: Queen Madeley IV  
-Primary Religion: Gethricism  
+Primary Religion: [[Gethricism]]  
 Primary Culture: Jueli Human  
 Capital: Juelrup
 

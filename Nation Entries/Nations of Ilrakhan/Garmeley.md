@@ -7,7 +7,7 @@ The Duchy of Garmeley
 Government: Feudal Monarchy
 
 Head of State: Duchess Agnes I  
-Primary Religion: Kindly Lords  
+Primary Religion: [[Kindly Lords]]
 Primary Culture: Garmian Human  
 Capital: Redflow
 

@@ -6,7 +6,7 @@ Heraldic Symbol: Auguran Triangle
 
 Head of State: N/A
 
-Primary Religion: Auguran Starworship
+Primary Religion: Auguran [[Starworship]]
 Primary Culture: Meadi
 Capital: Jera
 

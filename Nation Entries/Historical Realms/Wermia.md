@@ -6,8 +6,8 @@ Heraldic Symbol: Crowned Raven on Blue Ground
 
 Head of State: N/A
 
-Primary Religion: Wermian Pantheon  
-Primary Culture:Wermian Human  
+Primary Religion: [[Wermian Pantheon]]
+Primary Culture: Wermian Human  
 Capital: Werm
 
 Official Language: Wermian Vihri

@@ -5,7 +5,7 @@ Government: Feudal Monarchy
 Heraldic Symbol: Badger eating a Snake
 
 Head of State: Grand Lord Caroman I  
-Primary Religion: Gethricism  
+Primary Religion: [[Gethricism]]  
 Primary Culture: Pilvian Human  
 Capital: Houlsprings
 
