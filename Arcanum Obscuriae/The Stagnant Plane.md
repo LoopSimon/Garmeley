@@ -1,0 +1,1 @@
+The Stagnant Plane lies on the so called "Arcane Axis" opposite the [[The Chaotic Plane]].

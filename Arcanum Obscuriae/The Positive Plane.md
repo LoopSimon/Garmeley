@@ -1,0 +1,1 @@
+The Positive Plane lies on the so called "Divine Axis" opposite the [[The Negative Plane]].
