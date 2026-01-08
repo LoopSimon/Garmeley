@@ -97,7 +97,7 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Age of Steel</h3>
         <div class="timeline-list">
-            <div class="timeline-item" data-date="580PA"><a href=></a>>Great Expedition</div>
+            <div class="timeline-item" data-date="580PA">Great Expedition</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmud</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Meadland becomes King of Gisvale</div>
