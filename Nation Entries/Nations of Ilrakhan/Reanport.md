@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Republic of Reanport</h4>
+    <h4 class="wiki-header">Reanport Republic</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Maritime Republic</span>

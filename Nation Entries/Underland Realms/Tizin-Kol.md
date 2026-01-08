@@ -1,6 +1,6 @@
 [[Deepfolk]] [[Underlands]]
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Tizin-Kol</h4>
+    <h4 class="wiki-header">Hold of Tizin-Kol</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Clan Oligarchy</span>

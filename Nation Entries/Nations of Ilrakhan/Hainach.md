@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Hainach</h4>
+    <h4 class="wiki-header">Princedom of Hainach</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Elective Absolute Monarchy</span>

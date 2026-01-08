@@ -1,1 +1,1 @@
-[[The Positive Plane]] [[Basic Magical Theory]]
+The Negative Plane lies on the so called "Divine Axis" opposite the [[The Positive Plane]].

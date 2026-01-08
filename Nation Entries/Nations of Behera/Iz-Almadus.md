@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Iz-Almadus</h4>
+    <h4 class="wiki-header">Emirate of Iz-Almadus</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Absolute Monarchy</span>

@@ -1,7 +1,7 @@
 [[Merfolk]] [[Elbae]]
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">New Qatir</h4>
+    <h4 class="wiki-header">Qahori Federation</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Tribal Federation</span>

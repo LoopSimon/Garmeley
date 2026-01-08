@@ -1,7 +1,7 @@
 [[Deepfolk]] [[Underlands]]
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Ogul-Vosko</h4>
+    <h4 class="wiki-header">Hold of Ogul-Vosko</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Clan Oligarchy</span>
