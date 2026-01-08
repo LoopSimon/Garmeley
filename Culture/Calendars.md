@@ -6,11 +6,10 @@ The Common Solar Calendar is accepted and used in the Subcontinent of Ilrakhan a
 
   
 
-The Rahkian Calendar is no longer in wide use anywhere but remains relevant primarily in Academic Circles as it dates the year as 3104 Solar Days, that being the time between 2 Confluxes. It dates its Year 0 to the founding of the Great City of Rahk.
+The [[Rakh]]ian Calendar is no longer in wide use anywhere but remains relevant primarily in Academic Circles as it dates the year as 3104 Solar Days, that being the time between 2 Confluxes. It dates its Year 0 to the founding of the Great City of Rahk.
 
   
 
-The Elbae Calendar is a fixed Calendar Dividing the Year into 400 days, consisting of 4 seasons of 90 days and an intercalary month of 40 days that are treated as outside the year proper. Current understanding of the earliest development of the Elbae Calendar is unclear 22but likely relates to discoveries regarding the heliacal rising of the star Malham during the early first Jirahid Dynasty.
-
-It is Commonly used in lands on the Behra and Nyrid Subcontinents.
+The Elbae Calendar is a fixed Calendar Dividing the Year into 400 days, consisting of 4 seasons of 90 days and an intercalary month of 40 days that are treated as outside the year proper. Current understanding of the earliest development of the [[Elbae]] Calendar is unclear 22but likely relates to discoveries regarding the heliacal rising of the star [[Malham]] during the early first Jirahid Dynasty.
+It is Commonly used in lands on the Beheran Subcontinent.
 
