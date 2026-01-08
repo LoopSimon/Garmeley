@@ -70,4 +70,4 @@
 
 <h4>House of Szinmo (501PA - 692PA)</h4>
 <p>After the Zav senior line died out in 501, Vihr came under the rule of the Duke of Szievek, Kasimir of House Szinmo, a Junior Branch of the House of Zav.   </p>
-<h4>House of Ralpia (692PA - present)</h4><p> With the end of the House of Szinmo the last remnants of the royal line of Zav had died out. During the Great Assembly of 692, </p>
+<h4>House of Ralpia (692PA - present)</h4><p> With the end of the House of Szinmo the last remnants of the royal line of Zav had died out. During the Great Assembly of 692, the assembled feudal nobility under the Honoured Assembly as well as the gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov and the most senior noble of the realm, as King Miskomir III of Vihr and Wermia. This would also be the first official claim to the Lands of Wermia by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated Region for years up to this point.</p>
