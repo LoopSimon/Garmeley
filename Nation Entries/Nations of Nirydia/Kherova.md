@@ -66,7 +66,7 @@ The Dwarven Hold of Daban-Kol makes up for a vast majority of the dwarvish popul
   
   
 
-Religion (see the entry on Kethricism)
+Religion, see [[Kethricism]]
 
   
 
