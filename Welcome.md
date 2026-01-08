@@ -1,8 +1,8 @@
 <div class="grid-2x2">
 <div class="grid-item">
 <h2>Welcome to the Lands of Inara</h2>
-<p>The known World in the year 922 PA, focused on the regions of Ilrakhan, Behera and Nirydia.
-This World was made for  Pathfinder 1E Games and is currently being developed, feel free to explore!
+<p>World was made for  Pathfinder 1E Games and is currently being developed, feel free to explore!
+As this world is constantly under development, some articles may still be awaiting construction or maintenance, but we will get to them in due time, if you'd like to contribute in any way please let me know.
 If you are a player in one of the games and worried about spoilers, you can always ping me and double check about a certain page.
 </p>
 </div>
