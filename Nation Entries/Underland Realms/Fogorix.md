@@ -1,13 +1,33 @@
   [[Underlands]]
-
-Government: Theocracy
-
-Heraldic Symbol: The Darksun
-
-Head of State: Darkchild Ogana the Eyeless
-Primary Religion: [[Cult of the Darksun]]
-Primary Culture: Fogori [[Goblinoid]]
-Capital: Fogorix
-Official Language: Undergob
-
-Preceded by: 
+<div class="wiki-infobox">
+    <h4 class="wiki-header">Fogorix</h4>
+    <div class="wiki-row">
+        <strong>Government</strong>
+        <span>Theocracy</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Head of State</strong>
+        <span>Darkchild Ogana the Eyeless</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Capital</strong>
+        <span>Fogorix</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Heraldic Symbol</strong>
+        <span>The Darksun</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Primary Religion</strong>
+        <span>Cult of the Darksun</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Primary Culture</strong>
+        <span>Fogori Goblinoid</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Official Language</strong>
+        <span>Undergob</span>
+    </div>
+</div>

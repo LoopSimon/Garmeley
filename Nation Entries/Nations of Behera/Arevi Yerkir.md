@@ -1,47 +1,67 @@
-Government: Tribal Theocracy
+<div class="wiki-infobox">
+    <h4 class="wiki-header">Arevi Yerkir</h4>
+    <div class="wiki-row">
+        <strong>Government</strong>
+        <span>Tribal Theocracy</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Head of State</strong>
+        <span>N/A (Tribal Leaders)</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Capital</strong>
+        <span>N/A (Semi-nomadic)</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Heraldic Symbol</strong>
+        <span>N/A</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Primary Religion</strong>
+        <a href="Arevi Shamanism" class="internal-link">Arevi Shamanism</a>
+    </div>
+    <div class="wiki-row">
+        <strong>Primary Culture</strong>
+        <span>Arevi <a href="Human" class="internal-link">Human</a></span>
+    </div>
+    <div class="wiki-row">
+        <strong>Official Language</strong>
+        <span>Arevi</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Preceded by</strong>
+        <span>N/A</span>
+    </div>
+</div>
 
-Heraldic Symbol: N/A
+<p>The <b>Arevi</b> are an ancient, semi-nomadic people inhabiting <b>Arevi Yerkir</b>, the foothills of the <b>Cloudscratchers</b>. Known as masterful horsemen and fierce protectors of their sacred lands, they have remained in a state of perpetual conflict with the <a href="Elbae" class="internal-link">Elbae Sultanate</a> for generations.</p>
 
-Head of State: n/A
+<hr class="wiki-hr">
+<h2>History</h2>
 
-Primary Religion: [[Arevi Shamanism]]
-Primary Culture: Arevi Human
-Capital: N/A
+<h3>The Ancient Bloodline</h3>
+<p>The Arevi claim an unbroken lineage from before the <b>Eruption of Al-Akka</b>. Oral tradition speaks of a <b>Sun Spirit</b> that guided them to Arevi Yerkir, teaching them to survive the harsh environment before tasking them with the eternal protection of the land. This divine mandate makes them view any foreign settlement as a desecration of holy ground.</p>
 
-Official Language: Arevi
+<h3>The Elven Conflict</h3>
+<p>While initial contact with Elven explorers was peaceful, the subsequent attempt by Elven settlers to claim the lush western hills sparked a horrific war. After the Arevi butchered a settlement and sent back thirty blinded survivors as a warning, the Elven response was a campaign of extermination.</p>
 
-Preceded by: N/A
+<p>The Arevi survived by uniting under the <b>Arrajnord</b>, a legendary figure who led a guerrilla campaign in the hills. Though they staved off annihilation, much of their eastern territory was lost to the Sultanate, fueling a blood-feud that persists to the modern day.</p>
 
-History
+<hr class="wiki-hr">
+<h2>Culture & Demographics</h2>
 
-Chapter 1: The Arevi
+<p>Arevi society is a product of the harsh <b>Berberan Desert</b> and mountain slopes. Their survival depends on communal strength rather than individual ambition.</p>
 
-  
+<ul>
+    <li><b>Meritocracy:</b> There is no room for incompetence; leaders are chosen based on their ability to ensure the tribe's survival.</li>
+    <li><b>Gender Roles:</b> Virtually non-existent in combat and labor roles; the necessity of supernatural strength and survival skills overrides traditional biological distinctions.</li>
+    <li><b>Economy:</b> They lack currency, relying entirely on <b>bartering</b>. Taking what is needed for the tribe's survival is not seen as theft, but as necessity.</li>
+    <li><b>Horse Mastery:</b> Since stealing their first mounts from the Elves, the Arevi have become the premier horse breeders of the region, utilizing the unique soil of their hills to raise hardy, war-capable steeds.</li>
+</ul>
 
-The Arevi are an ancient people, with unbroken bloodlines descending from before the eruption of Al-Akka. They have lived in the land they call Arevi Yerkir for as long as anybody can remember, and they are mentioned in the oldest of Elven documents. They are a semi nomadic people and have traditionally settled the foothills of the Cloudscratchers to the most western stretches of what is now the Elbae Sultanate. 
-
-Arevi Oral tradition tells of a myth that long ago they were guided to this land by a divine figure, a spirit of the sun. This spirit was both a protector who destroyed those who prevented the Arevi on the way to Arevi Yerkir and a nurturer who healed those who were injured on the journey and then further taught them how to live in their new lands. After a generation the spirit bid them farewell, and told them to protect their land from any who dare to desecrate it, for it was sacred, and they were its chosen protectors. The Arevi to this day take this duty extremely seriously, and it was one of the main drivers of their conflict with the  [[Elbae]]Sultanate.
-
- Arevi history is almost entirely passed down orally, and amongst themselves there are many differences. They do have a system of hieroglyphic writing, but it is viewed as taboo to write about their history. That which is written down is almost entirely done so by outsiders. 
-
-Due to the harsh environment in which they find themselves in, they are a harsh people. The Elves would describe them as warlike, stubborn, barbaric, raiders, who would always rather spill blood than solve issues diplomatically. While this is partially true, particularly in the warlike and stubborn categories, that is mostly due to their interactions with the elves who have conquered a portion of their holy land. The Arevi are much more than simple stubborn barbarian tribes. 
-
-They are traders, excellent riders and horse breeders, hospitable people, and they value charity and community, for one cannot survive in Arevi Yerkir by themselves. Arevi Yerkir is a harsh land which has shaped the Arevi themselves. 
-
-  
-
-Chapter 2: General History of the Arevi
-
-The first documented encounter with the Arevi was by an elven expedition west of the lands controlled by (Insert whatever shitty elven dynasty was around.) The elves came as explorers and not warriors and were warmly received by the Arevi. The elves spent a few days with the Arevi tribe they encountered before leaving back for their homeland. The second documented encounter was far more violent. Years had passed before the next encounter, when a group of elves, seeking new lands to settle, encountered the westernmost lands of the Arevi, lush green hills which marked the last truly hospitable lands before the Berberan Desert. They established a settlement there, not far from the source of the great river that feeds the Great City of Jiravid. Once they were discovered by the Arevi however, things went bad quickly. 
-
-The Arevi tribe nearby demanded that they tear down the settlement at once, and leave this land never to return. The elves refused and it quickly spiraled into a conflict. The elves had far superior weaponry and armor, and destroyed the tribe. The survivors fled and informed the nearby tribes. Never before had these tribes united under a common cause, but with their holy land under threat, they would make history. The largest force assembled by the Arevi up to that date descended upon the settlement and butchered it to the last man. Only 30 elves, all women and children were allowed to leave, all of them blinded and tied to the elf in front of them. The lead elf had only one eye taken, so she may lead them home in warning of the consequences of settling Arevi Yerkir. Though the expedition was not sanctioned by the elven government, nonetheless it sparked a great outrage in the elven people, and a great host was assembled. 
-
-The Arevi were confident that such a warning would deter any further incursions into their land. They were wrong. Within two years a great elven army marched into the forests and hills of eastern Arevi Yerkir and butchered every tribe they could find, and scorched and burned the very land itself. The elves led a campaign of extermination against the Arevi, and the Arevi were unprepared. Once again they united against a common foe, and  almost every tribe united under a figure known as Arrajnord. This figure led a masterful guerilla campaign in the hills of Arevi Yerkir, which slowly sapped the elves of their strength until they declared their war complete. While the Arevi staved off total annihilation, they had lost a large part of their land and many tribes were destroyed. With new elven settlements being established in what had been lost, they could not reclaim their land. And so began a conflict which has lasted for generations. 
-
-The Arevi have overtime become masterful horsemen, with the first horses stolen from elven settlements. The soil of their land is perfectly suited for raising the hardy creatures. They also began to focus less so on fighting each other over petty conflicts, though those still occur, and have focused their efforts on their feud with the elves. Generally not much else is known about Arevi history as Arevi elven contact makes up most of their known history.
-
-Chapter 3: Arevi Culture
-
-Now, with all of that known we can dive more into depth into the Arevi and their lives. As stated before the Arevi are a product of their environment. Individualism in Arevi culture is frowned upon. Community is valued above all else. Only with others is it possible to survive in the lands which they live in. The Arevi have no currency, and bartering is commonplace. If bartering is refused, and whatever service or thing would serve the greater purpose of the tribe, it is taken. This is the most common cause of conflict between the Arevi. 
-
-The Arevi are meritocratic. There is little room for incompetence in their society. Incompetence can cause the death of a whole tribe. There is also very little in the ways of gender roles. Woman generally are viewed as better at raising the children and are biologically weaker, but in a world where one can become supernaturally strong, and in a place where that strength is needed, they are not looked down upon.
+<hr class="wiki-hr">
+<h2>Religion</h2>
+<small><i>see <a href="Arevi Shamanism" class="internal-link">Arevi Shamanism</a></i></small>
+<p>Arevi faith is centered on the <b>Spirit of the Sun</b> and the spirits of the land. Their history is rarely written down due to a cultural <b>taboo</b> against recording history in their hieroglyphic script, leaving their past to be preserved by the voices of their shamans.</p>

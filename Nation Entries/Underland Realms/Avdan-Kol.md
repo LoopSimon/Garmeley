@@ -1,15 +1,35 @@
 [[Deepfolk]] [[Underlands]]
 
-Government: Theocracy
-
-Heraldic Symbol: Rune of Avdan-Kol
-
-Head of State: Ashlord Zubiri Iroste
-Primary Religion: Gods of Forge and Fire 
-Primary Culture: Beheran Dwarven
-Capital: Avdan-Kol
-
-Official Language: Beheran Dwarvish
-
-Preceded by: N/A
+<div class="wiki-infobox">
+    <h4 class="wiki-header">Avdan-Kol</h4>
+    <div class="wiki-row">
+        <strong>Government</strong>
+        <span>Theocracy</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Head of State</strong>
+        <span>Ashlord Zubiri Iroste</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Capital</strong>
+        <span>Avdan-Kol</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Heraldic Symbol</strong>
+        <span>Rune of Avdan-Kol</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Primary Religion</strong>
+        <span>Gods of Forge and Fire</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Primary Culture</strong>
+        <span>Beheran Dwarven</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Official Language</strong>
+        <span>Beheran Dwarvish</span>
+    </div>
+</div>
 
