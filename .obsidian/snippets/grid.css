@@ -444,7 +444,22 @@ https://github.com/rose-pine/rose-pine-theme
 }
 
 /* =========================================
-   6. RESPONSIVE / MOBILE
+   6. REMOVE DEFAULT OBSIDIAN HEADER UNDERLINES
+   ========================================= */
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+    border-bottom: none !important;
+}
+
+h1, h2 {
+    border-bottom: none !important;
+}
+
+/* =========================================
+   7. RESPONSIVE / MOBILE
    ========================================= */
 @media (max-width: 900px){
     .grid-2x2 {
