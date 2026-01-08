@@ -2,14 +2,12 @@
 <div class=grid-2x2>
 	<div class="grid-item">
 	<h3>Vihri Languages</h3>
-		<h4>Vihri</h4>
+		<h4><a href="Vihr" class="internal-link">Vihri</a></h4>
 		<p>National Language of Vihr and the clerical language of Gethricism</p>
-		<h4>
-		Grachi
-		</h4>
+		<h4><a href="Grachy" class="internal-link">Grachi</a></h4>
 		<p>National Language of Grachy</p>
 	
-		<h4>Wermian</h4>
+		<h4><a href="Wermia" class="internal-link">Wermian</a></h4>
 		
 		Spoken still in various Wermian villages in modern day Vihr
 	</div>
@@ -22,6 +20,7 @@
 	<h4>Lower Urien</h4>
 	
 		<p>Not just a dialect but now a distinct tongue, the language spoken in Uhl and north of Gelmsburg.</p>
+		
 	  </div>
 	  
 	  <div class="grid-item">
@@ -159,60 +158,60 @@
 		</div>
 	</div>
   
-
-Exotic and lost Languages  
-(cannot be learned by conventional manners, need good reason to have these)
-
-Rakhi
-
-Language of the lost Empire of Rakh, usually only spoken by scholars.
-
-Cyracli
-
-Language of the Torn City, almost no one in the known world speaks this.
-
-Giantspeak
-
-Language of the Giants of the North, only spoken by various druids and scholars in far Grachy and beyond.
-
-  
-
-Draconic
-
-While there are no actual reliable records of communication with Dragons, various dragon cults of Trykkerog and Meadland used to commune in this tongue, which is now exclusively spoken by scholars.
-
-Abyssal
-
-The “Forbidden Tongue” used to commune with Demons and Fiends of the Chaotic Plane, colloquially referred to as the Abyss.
-
-Protean
-
-Spoken by the mysterious residents and entities of the Stagnant Plane.
-
-Celestial
-
-Spoken by Spirits of the Positive Plane, there are few divine scholars that fluently speak this language but its script is used in various ancient religions.
-
-Deadspeak
-
-Spoken by necromancers and invaders from the Negative Plane.
-
-  
-
-Druidic
-
-Spoken by the various druidic circles of the world, some say it is impossible for one to learn this language that is not accepted within a circle.
-
-Sylvan
-
-The language of the Fey and various other Spirits of the material and spiritual realm.
-
-Mertongue
-
-Spoken by the mysterious residents of the Ocean Floors and the Merfolk of the vast Seas, sometimes by Qahori Seafairers.
-
-Aboleth
-
-The mind-warping whispers of the unfathomable horrors of the deepest and darkest corners of the world.
-
+	<div class="grid-item span-col-2">
+		<div class=dual-column-grid>
+			<div class="v-center">
+			<h3>Exotic and lost Languages </h3>
+			
+			<h4>Rakhi</h4>
+			
+				<p>Language of the lost Empire of Rakh, usually only spoken by scholars.</p>
+			
+			<h4>Cyracli</h4>
+			
+				<p>Language of the Torn City, almost no one in the known world speaks this.</p>
+			
+			<h4>Giantspeak</h4>
+			
+				<p>Language of the Giants of the North, only spoken by various druids and scholars in far Grachy and beyond.</p>
+			
+			<h4>Draconic</h4>
+			
+				<p>While there are no actual reliable records of communication with Dragons, various dragon cults of Trykkerog and Meadland used to commune in this tongue, which is now exclusively spoken by scholars.</p>
+			
+			<h4>Abyssal</h4>
+			
+				<p>The “Forbidden Tongue” used to commune with Demons and Fiends of the Chaotic Plane, colloquially referred to as the Abyss.</p>
+			
+			<h4>Protean</h4>
+			
+				<p>Spoken by the mysterious residents and entities of the Stagnant Plane.</p>
+			</div>
+			<div class="v-center">
+			<h4>Celestial</h4>
+			
+				<p>Spoken by Spirits of the Positive Plane, there are few divine scholars that fluently speak this language but its script is used in various ancient religions.</p>
+			
+			<h4>Deadspeak</h4>
+			
+				<p>Spoken by necromancers and invaders from the Negative Plane.</p>
+			
+			<h4>Druidic</h4>
+			
+				<p>Spoken by the various druidic circles of the world, some say it is impossible for one to learn this language that is not accepted within a circle.</p>
+			
+			<h4>Sylvan</h4>
+			
+				<p>The language of the Fey and various other Spirits of the material and spiritual realm.</p>
+			
+			<h4>Mertongue</h4>
+			
+				<p>Spoken by the mysterious residents of the Ocean Floors and the Merfolk of the vast Seas, sometimes by Qahori Seafairers.</p>
+			
+			<h4>Aboleth</h4>
+			
+				<p>The mind-warping whispers of the unfathomable horrors of the deepest and darkest corners of the world.</p>
+			</div>
+		</div>
+	</div>
 </div>

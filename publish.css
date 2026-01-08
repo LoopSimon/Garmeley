@@ -293,6 +293,66 @@ https://github.com/rose-pine/rose-pine-theme
     page-break-inside: avoid;
 }
 
+.wiki-infobox {
+    float: right;
+    clear: right; 
+    
+    width: 300px;
+    margin: 0 0 1rem 1.5rem;
+    
+    background-color: var(--bg1);
+    border: 1px solid var(--tx3);
+    padding: 1rem;
+    border-radius: 6px;
+    font-size: 0.9em;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.wiki-infobox h4 {
+    margin-top: 0 !important;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.wiki-image {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 0.75rem;
+    display: block;
+    object-fit: cover;
+}
+
+.wiki-header {
+    margin-top: 0 !important;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--tx3);
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.wiki-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.4rem;
+	border-bottom: none !important;
+    padding-bottom: 0.2rem;
+}
+
+.wiki-row:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.wiki-hr {
+    border: 0;
+    height: 1px;
+    background: var(--tx3);
+    margin: 0.5rem 0;
+    opacity: 0.5;
+}
+
 @media (max-width: 900px){
     .grid-2x2{
         grid-template-columns: 1fr !important;
@@ -320,5 +380,11 @@ https://github.com/rose-pine/rose-pine-theme
     .span-row-2 {
         grid-column: auto / auto !important;
         grid-row: auto / auto !important;
+    }
+
+	.wiki-infobox {
+        float: none;
+        width: 100%;
+        margin: 1rem 0;
     }
 }
