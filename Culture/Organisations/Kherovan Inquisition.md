@@ -29,7 +29,7 @@ The Tribunal of the Final Peace, tasked with the protection of burial rites and 
 
 The Tribunal of the Open Face, the diplomatic arm of the Inquisition formed as delegations to the offices of trinicist and gethricist Institutions and Courts in foreign countries. Founded in 585PA.
 
-The Tribunal of Nirydia, experts in Kobolds Magic and Guardians of the East, working closely with the Eastern Fortresses. Founded in 585PA.
+The Tribunal of Nirydia, experts in [[Kobold Shamanism]], [[Kobold]] Magic and Guardians of the East, working closely with the Eastern Fortresses. Founded in 585PA.
 
 The Tribunal of the Clear Soul, Hunters of Wizards and Arcanists within Kherova that do not fall under the jurisdiction of the Tribunal of the Final Peace, although these often collaborate. 
 Founded in 585PA.
