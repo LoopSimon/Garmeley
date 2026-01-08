@@ -35,3 +35,5 @@
         <a href="Urland" class="internal-link">Urland</a>
     </div>
 </div>
+
+<p> One of the petty Kingdoms claiming to be the one true successor of the historical great Realm of [[Urland]], the Domain of Eldmar stretches throughout the Eld Valley, between the Trollback Mountains, the Ironwood and western banks of the Eld River. Historically ruled by the Queens of House Eldmar, they remain the weakest of the Urien minors.</p>

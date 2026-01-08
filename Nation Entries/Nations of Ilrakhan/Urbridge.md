@@ -1,20 +1,20 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Kingdom of Gelmsburg</h4>
+    <h4 class="wiki-header">Kingdom of Urbridge</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>King Klovis I of Gelm</span>
+        <span>King Gorlan V of Urbridge</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Gelmsburg</span>
+        <span>Urbridge</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Crowned Urland Gryphon</span>
+        <span>Gryphon carrying a Lance</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -35,5 +35,3 @@
         <a href="Urland" class="internal-link">Urland</a>
     </div>
 </div>
-
-<p> In Gelmsburg, the old Capital of [[Urland]], rule the Gelmish Kings, at least militarily speaking the most powerful of the petty Kings and Queens of the Urien successor states. Gelmsburg stretches from Turv and the Urhills in the North all the way to the Redwood in the south, encompassing the Gelmsgrove and most of the Field of Tears as well. Together with the southern Knights of [[Urbridge]] it represents the main bulwar against the warring[[Hobgoblin Tribes]] east of the Trinmo. </p>
