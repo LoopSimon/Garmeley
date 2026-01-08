@@ -181,9 +181,9 @@
 			
 			<h4>Abyssal</h4>
 			
-				<p>The “Forbidden Tongue” used to commune with Demons and Fiends of the Chaotic Plane, colloquially referred to as the Abyss.</p>
+				<p>The “Forbidden Tongue” used to commune with Daemons, Proteans and Fiends of the Chaotic Plane, colloquially referred to as the Abyss.</p>
 			
-			<h4>Protean</h4>
+			<h4>Aeor</h4>
 			
 				<p>Spoken by the mysterious residents and entities of the Stagnant Plane.</p>
 			</div>
@@ -194,7 +194,7 @@
 			
 			<h4>Deadspeak</h4>
 			
-				<p>Spoken by necromancers and invaders from the Negative Plane.</p>
+				<p>Spoken by necromancers and invaders from the Negative Plane such as the Kytoni.</p>
 			
 			<h4>Druidic</h4>
 			
