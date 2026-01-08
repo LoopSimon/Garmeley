@@ -8,7 +8,7 @@ Arishi is believed to control the weather and growth of crops, devotees sacrific
 The Lesser deities of the Yari include Ihisa the Earth, Gianor the Sun and Aleac the Sea.
 The Naga of southern Behera are believed to be the cursed children of Aleac, found unworthy to worship Arishi.
 
-The Yari Faith is practiced in local shrines, that vary in importance called Hicui, who can be found along the Jungles of Behera, usually build around a sacred place or object of worship with an associated legend and cult.
+The Yari Faith is practiced in local shrines, that vary in importance called Hicui, who can be found along the Jungles of Behera, usually build around a sacred place or object of worship with an associated legend and Cult.
 
 The three Greatest Shrines are those to Ihisa in Yokosch, Aleac in Niztapur and Arishi in the holy City of Yar-Arishi.
 
