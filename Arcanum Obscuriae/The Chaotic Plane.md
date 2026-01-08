@@ -1,1 +1,1 @@
-The Chaotic Plane lies on the so called "Arcane Axis" opposite the [[The Stagnant Plane]], it is often referred to as the Abyss outside of Academic Circles, and the origin of [[Demon]]kind.
+The Chaotic Plane lies on the so called "Arcane Axis" opposite the [[The Stagnant Plane]], it is often referred to as the Abyss outside of Academic Circles, and the origin of [[Daemon]]kind.
