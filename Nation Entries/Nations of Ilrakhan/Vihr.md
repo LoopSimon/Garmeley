@@ -63,3 +63,5 @@
 
 <hr class="wiki-hr">
 <h3>History</h3>
+
+<p>Lorem Ipsum</p>
