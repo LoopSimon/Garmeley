@@ -1,6 +1,6 @@
 
 
-The following describes the Metaphysical Understanding of our Plane by the Korsfall College of Astronomy and Magicks, in accordance with the ethical views of the Wermian Accords.
+The following describes the Metaphysical Understanding of our Plane by the [[Korsfall College]] of Astronomy and Magicks, in accordance with the ethical views of the [[Wermian Accords]].
 
 ***
 
@@ -21,10 +21,10 @@ These are best described in the Image of an ever flowing and uncontrollable *wat
 *** 
 
 The 4 Major Planes as described in the Theorem Arcanum are:  
-* The Positive Plane  
-* The Negative Plane  
-* The Chaotic Plane
-* The Stagnant Plane
+* [[The Positive Plane]]
+* [[The Negative Plane]]
+* [[The Chaotic Plane]]
+* [[The Stagnant Plane]]
 
 Even though now widely dismissed by modern academia, Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.
 
@@ -93,7 +93,7 @@ The research into the connection of Astronomic Phenomena, regarding our own plan
 
 While Planar Energy, accessed by absolute and conditional Fluxbridges, is the only true source of activation energy for magical casting as far as we know, this is only true in theory.
 
-Alrahani itself can be divided into multiple realms of existence, primarily the material realm and the spiritual realm although it is heavily theorised that other realms exist within our own plane of existence such as the colloquially termed “astral realm” of projection.
+Alrahani itself can be divided into multiple realms of existence, primarily the [[The Material Realm]] and the [[The Spiritual Realm]]  although it is heavily theorised that other realms exist within our own plane of existence such as the colloquially termed [[Astral Realm]] of projection.
 
 Traversal between realms is usually only possibly on a physical sense with usage of tremendous planar energy but there are those beings, broadly classified as Spirits who exist primarily within the spiritual Realm as well as creatures or entities that exist in haptic forms in more than 1 realm of existence, such as the Fey. 
 
