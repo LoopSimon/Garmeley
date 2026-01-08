@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Republic of Blijgrat</h4>
+    <h4 class="wiki-header">Blijgrat League</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Confederal Parliamentary Republic</span>

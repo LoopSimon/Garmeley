@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Juelrup</h4>
+    <h4 class="wiki-header">Jueli Kingdom</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>

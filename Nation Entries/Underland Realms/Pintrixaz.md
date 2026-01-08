@@ -1,7 +1,7 @@
  [[Underlands]] 
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Pintrixaz</h4>
+    <h4 class="wiki-header">Hive City of Pintrixaz</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Goblin Elective Autocracy</span>

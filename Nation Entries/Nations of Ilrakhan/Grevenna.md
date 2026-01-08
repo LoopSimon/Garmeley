@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Grevenna</h4>
+    <h4 class="wiki-header">Lordship of Grevenna</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>

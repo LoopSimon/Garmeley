@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Cyraclion</h4>
+    <h4 class="wiki-header">Cyraclion City States</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>League of City States</span>

@@ -1,6 +1,6 @@
 [[Underlands]]
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Mitimgar</h4>
+    <h4 class="wiki-header">Hive City of Mitimgar</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Goblin elective Autocracy</span>

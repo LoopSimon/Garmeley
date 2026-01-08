@@ -1,5 +1,5 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Yokosch</h4>
+    <h4 class="wiki-header">Great City of Yokosch</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>
