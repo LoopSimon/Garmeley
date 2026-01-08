@@ -224,7 +224,16 @@ https://github.com/rose-pine/rose-pine-theme
     display: grid !important;
     align-content: center !important;
 }
-
+.span-col-2-single-block {
+    grid-column: span 2;
+    display: flex !important; 
+    flex-direction: column !important;
+    justify-content: start !important;
+    align-items: stretch !important;
+    margin-top: 0 !important;
+    padding: 1.5rem !important;
+    height: auto !important;
+}
 .span-row-2 {
     grid-row: span 2;
 }
@@ -351,6 +360,20 @@ https://github.com/rose-pine/rose-pine-theme
     background: var(--tx3);
     margin: 0.5rem 0;
     opacity: 0.5;
+}
+
+.grid-item ul {
+    margin-left: -1rem;
+    padding-left: 0;
+    margin-top: 0.5rem;
+}
+.grid-item li {
+    margin-bottom: 0.25rem;
+    color: var(--text-normal);
+}
+
+.grid-item li::marker {
+    color: var(--tx3);
 }
 
 @media (max-width: 900px){
