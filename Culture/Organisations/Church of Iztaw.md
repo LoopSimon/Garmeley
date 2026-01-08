@@ -1,4 +1,4 @@
-[[Gethricism|Gethric]] Clergy of Iztaw
+[[Gethricism|Gethric]] Clergy of Iztaw, the Head of the Gethrist Church which has canonized almost all [[Gethric Saints]] in History.
 
 Representing the oldest denomination of Gethricism, the Clerics and Priests of Iztaw are present in Chapels and Churches around the modern world.
 

@@ -67,7 +67,7 @@
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
             <div class="timeline-item" data-date="290PA">Pieter the Rich becomes Lord of Weadland</div>
-            <div class="timeline-item" data-date="299PA">Unification of the Grachian Princedom</div>
+            <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
