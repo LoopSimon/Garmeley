@@ -4,7 +4,7 @@ Government: Elective Monarchy
 
 Heraldic Symbol: 2 Towers 
 
-Head of State: Tashmimut Zuma  
+Head of State: Highlord Tashmimut Zuma  
 Primary Religion: Gods of Fire and Forge  
 Primary Culture: Kortopi Dwarves and Gnomes  
 Capital: Twin Cities of Ott
