@@ -9,4 +9,4 @@ Capital: None (de jure), Schipwig (de facto)
 
 Official Language: Weadi
 
-Preceded by: Auguri Dominion, Weadland, Baeling Empire
+Preceded by: [[Weadland]]
