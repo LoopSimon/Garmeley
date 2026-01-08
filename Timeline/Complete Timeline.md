@@ -124,6 +124,7 @@
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
+            <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>

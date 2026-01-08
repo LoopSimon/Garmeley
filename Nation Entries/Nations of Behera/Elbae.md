@@ -35,3 +35,4 @@
         <span>Elven Dynasties</span>
     </div>
 </div>
+<p>The Elbae Sultanate, named after the ruling Dynasty is the largest elven Realm in the World, controlling the vast majority of Il-Haena, most of the eastern Coast of Behera and the Drow  [[Underlands]] directly, as well as exerting significant political influence throughout its subjects, like the Tributary of [[Hainach]] or the [[Iz-Almadus]] Emirate. Its past has been marked by imperialist ambitions across Behera, Ilrakhan and Nirydia.</p>

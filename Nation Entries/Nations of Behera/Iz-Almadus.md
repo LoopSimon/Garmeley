@@ -35,3 +35,5 @@
         <span>Colony of the <a href="Elbae" class="internal-link">Elbae</a> Sultanate</span>
     </div>
 </div>
+
+<p>The Emirate of Iz-Almadus began as a colony of the Elbae Sultanate in the 6th century PA. a Green Oasis on the Beheran Coast, nestled into the protective Ilkiztis Mountains the City of Almadin has become a sprawling Port City connected even to the Drowrealm of the Underlands. It was officially granted autonomy and the status of Emirate by the Sultan in the year 709PA. </p>

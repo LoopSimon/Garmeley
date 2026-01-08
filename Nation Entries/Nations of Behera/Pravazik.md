@@ -43,3 +43,5 @@
         <span>N/A</span>
     </div>
 </div>
+
+<p> The Empire of Pravazik is one of the most populated nation states not just in Behera but all of Inara, although in modern days its influence is restricted to West of the Smaragd Sea.<br> Few trade flows out of the Jungle Empire, but reports of[[Orc]]ish and [[Elbae]] Sailors in the mythical Port of Niztapur have reached even the human nations of Ilrakhan. </p>

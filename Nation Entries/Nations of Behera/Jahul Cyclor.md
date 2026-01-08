@@ -35,3 +35,5 @@
         <a href="Cyraclion" class="internal-link">Old Cyraclion</a>
     </div>
 </div>
+
+<p>An ancient people, the mutated ogres of the Kragi are referred to as Cyclopi: taller, smarter and one-eyed compared to their Tallfolk Cousins yes but perhaps more importantly noticeably more keen on civilization building. These mutations are undoubtably a consequence of the close proximity of the Kragi to the ruins of Cyraclion, in perhaps a similar fashion as the Satyr Clans across the Strait of Ithar. <br> They contend themselves with observing the Stars from stone towers, but reports of wars with both Satyr invaders as well as aggressions from the eastward [[Gnoll Realms]] underline their military prowess. </p>
