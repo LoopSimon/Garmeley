@@ -1,4 +1,4 @@
-[[Kherova]] [[Gethricism]]
+[[Kherova]] [[Kethricism]]
 
 
 Founded in the Year 585PA, as a response to the findings of the Great Expedition in Rakh, 

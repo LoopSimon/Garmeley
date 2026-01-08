@@ -2,7 +2,7 @@ Kherovian Gethricism / Khethricism
 
   
 
-The Patriarch of Kher does not formally bow to the Great Bishop at Iztaw and this denomination is almost entirely regional within the kherovan Khatrym.
+The Patriarch of Kher does not formally bow to the Great Bishop at Iztaw and this denomination is almost entirely regional within the Khatrym of [[Kherova]].
 
 A country of men and dwarf alike, naturalistic spirit worship quickly made way to the fast spread of the Gethric Faith, ,the deeply ingrained cultural hatred of the kherovans for arcane magic quickly latched on to the Demon slaying Gethric, for was it not Wermian Arcanists who summoned these terrible creatures in their grand Rubric?
 

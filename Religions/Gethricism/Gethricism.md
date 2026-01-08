@@ -1,6 +1,6 @@
 
 
-Gethricism
+[[Kethricism]] [[Trinicism]]
 
   
 
