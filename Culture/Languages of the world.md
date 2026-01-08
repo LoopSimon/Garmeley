@@ -54,7 +54,7 @@
 	<div class="grid-item span-col-2">
 		<div class ="dual-column-grid">
 			<div class="v-center">
-			<h3>Elvish Languages</h3>
+			<h3><a href="Elf" class="internal-link">Elvish</a> Languages</h3>
 			
 				<h4>High Elvish</h4>
 					<p>The Current dominant Language in the Elbae Sultanat.</p>
@@ -107,7 +107,7 @@
 		</div>
 	</div>
 	<div class="grid-item span-col-2">
-		<h3>Goblin Languages</h3>
+		<h3><a href="Goblinoid" class="internal-link">Goblinoid</a> Languages</h3>
 		<h4>Undergob</h4>
 		<p>Spoken by the Goblins living in the Goblin Hive Cities of the Underlands.</p>
 		<h4>Overgob</h4>
