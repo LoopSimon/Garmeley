@@ -16,8 +16,8 @@ Inara:
 			Length: ca. 600 mil / 960 km
 			Height: ca. 450 mil / 725 km
 	Nirydia
-			Length: ca. 2750 mil / 4400 km
-			Height: ca. 1950 mil / 3150 km
+			
+			
 	
 
 Aislig
