@@ -1,1 +1,1 @@
-The Positive Plane lies on the so called "Divine Axis" opposite the [[The Negative Plane]].
+The Positive Plane lies on the so called "Divine Axis" opposite the [[The Negative Plane]], Outsiders of this Plane are referred to as [[Celestial]]s.
