@@ -2,7 +2,7 @@
 
 Important Calendars of the known world  
   
-The Common Solar Calendar is accepted and used in the Vihri and Ilrahkian Subcontinents and dates its Year 0 to the Eruption of Al-Akka during the End times of the Rahkian Empire. It counts a Year as 400 Days, with 10 Months of 40 days every Year.
+The Common Solar Calendar is accepted and used in the Subcontinent of Ilrakhan and dates its Year 0 to the Eruption of Al-Akka during the End times of the Rahkian Empire. It counts a Year as 400 Days, with 10 Months of 40 days every Year.
 
   
 

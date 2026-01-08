@@ -1,3 +1,5 @@
+orbited by [[The first Moon]] and [[The second Moon]]
+
 ca. 50 km equatorial circumference
 
 Inara:
