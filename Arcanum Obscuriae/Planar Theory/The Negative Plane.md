@@ -1,1 +1,1 @@
-The Negative Plane lies on the so called "Divine Axis" opposite the [[The Positive Plane]].
+The Negative Plane lies on the so called "Divine Axis" opposite the [[The Positive Plane]], Outsiders of this Plane are referred to as [[Kyton]]i.
