@@ -9,5 +9,6 @@ state-controlled entity and allow the citizens of their own countries to attempt
 With only regional Authorities and a much more progressive outlook, Trinicism may have produced less miracle workers and divine leaders, but if often heralded as a Faith for truly everyone, that celebrates merit and equality over right of birth.
 
 Vows here often include attempts at change and reflection of one or one's environment, ambitions and dreams.
+Trinicists accept most [[Gethric Saints]] with the notable exception of Andre of Trydlew who is seen arguably as more controversial than figures like Markur or Tronos are in the Traditions of Kethricism.
 
 ![[Trinfurt_conclave.jpg]]
