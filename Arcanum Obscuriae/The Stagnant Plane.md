@@ -1,1 +1,1 @@
-The Stagnant Plane lies on the so called "Arcane Axis" opposite the [[The Chaotic Plane]].
+The Stagnant Plane lies on the so called "Arcane Axis" opposite the [[The Chaotic Plane]], it is the home of the beings known as [[Aeon]]s.
