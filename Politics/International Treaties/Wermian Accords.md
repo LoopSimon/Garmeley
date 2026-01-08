@@ -1,6 +1,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Wermian Accords</h4>
-    Signatories:
+    <strong>Signatories:</strong>
+	<hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
         The Khat of <a href="Kherova">Kherova</a><br>
         The Patriarch of Kher and Head of <a href="Kethricism">Kethricism</a><br>
@@ -22,7 +23,7 @@
     </div>
 </div>
 
-<p>A set of rules and restrictions regarding Magical Practice instated roughly 300 years after the <a href="Wermia">Wermia</a>n Incursions, referencing them as an example of the havoc and destruction unchecked magic can wreak upon the material Plane.
+<p>A set of rules and restrictions regarding Magical Practice instated roughly 300 years after the <a href="Wermia">Wermian</a> Incursions, referencing them as an example of the havoc and destruction unchecked magic can wreak upon the material Plane.
 Primarily enforced by at first only Followers of <a href="Gethricism">Gethricism</a> but later virtually all nations on Ilrakhan.</p>
 
 <hr class="wiki-hr">
