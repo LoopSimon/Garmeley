@@ -1,6 +1,3 @@
-
-
-
 <div class="wiki-infobox">
     <h4 class="wiki-header">Treaty of Danipol</h4>
     
