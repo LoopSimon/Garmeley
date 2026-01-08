@@ -5,7 +5,7 @@ Government: Feudal Monarchy
 Heraldic Symbol: Tower of Yokosch
 
 Head of State: The 15th Tazamosh 
-Primary Religion: [[Yari Pantheon]]
+Primary Religion: [[Yari Faith]]
 Primary Culture: Yokosch Vanara
 Capital: Yokosch
 

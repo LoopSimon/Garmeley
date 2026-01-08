@@ -9,7 +9,7 @@ Government: Absolute Monarchy
 Heraldic Symbol: Gauntlet breaking a Wand
 
 Head of State: Khat Tiblin IX  
-Primary Religion: Khethric [[Gethricism]]
+Primary Religion: [[Kethricism]]
 Primary Culture: Kher Human, Kher Dwarven  
 Capital: Kher
 
@@ -121,7 +121,7 @@ However, Rakhian accounts of conflicts at the border with their ancient empire i
   
 
 Perhaps the most infamous recorded event is the rise of the Sorcerer Merzigal, in the northern city of Alahmid, who is said to have extended his life by making sacrifices to monstrous entities, engaging freely in Hemomancy and consulting with demons.  
-The details of his eventual demise at the hands of heroes is sadly lost to us as the Kherovan Inquisition has largely purged public knowledge of the time after destroying and salting the remnants of Alahmid in the 5th century.
+The details of his eventual demise at the hands of heroes is sadly lost to us as the [[Kherovan Inquisition]] has largely purged public knowledge of the time after destroying and salting the remnants of Alahmid in the 5th century.
 
   
   
@@ -134,7 +134,7 @@ This lose alliance of city-states agreed to help the friendly dwarves of Daban-K
 
   
 
-During the days of the Gethric Mission, the people of Kherova adopted the principles of the Religion but incorporated cultural and religious beliefs of their own into the philosophy and rejected the authority of a foreign Clergy in Iztaw, instead referring to the first Bishops of Kher as the Patriarch and head of Church, causing the birth of Kethricist belief; over the centuries the two denominations would drift apart further and further, leading to a declaration of full independence from the Vihri Church in 471PA.
+During the days of the Gethric Mission, the people of Kherova adopted the principles of the Religion but incorporated cultural and religious beliefs of their own into the philosophy and rejected the authority of a foreign Clergy in Iztaw, instead referring to the first Bishops of Kher as the Patriarch and head of Church, causing the birth of Kethricist belief; over the centuries the two denominations would drift apart further and further, leading to a declaration of full independence from the Vihri Church in 471PA and the foundation of what is now known as [[Kethricism]].
 
 This division was largely caused due to the radical views of Kherovia on arcane practice in opposition to the accepting views of the Iztaw Clergy on the matter;
 

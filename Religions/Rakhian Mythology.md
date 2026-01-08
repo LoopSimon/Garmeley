@@ -1,5 +1,5 @@
 Though drawing on ancient [[Palmunia]]n religion, the religion of the Rakhians retains noticeable elements of reconstructed [[Turvik Paganism]] as well, as theorized by Meynar of Jorrenstead (ca. 819PA) in his "Historiae Uriorum".
-For example, Kolohoz the Old Guide and his travels along the roads beyond in the Rakhian mythos resemble the tasks  and the description of Heagur in Turvik mythology, although it is unclear wich tradition may have influenced the other, if at all.
+For example, Kolohoz the Old Guide and his travels along the roads beyond in the Rakhian mythos resemble the tasks  and the description of Heagur in Turvik mythology, although it is unclear which tradition may have influenced the other, if at all.
 
 The liminal figure mediating between the intimately connected worlds of gods and mankind within Rakhian belief was the Emperor and Priest, in a ritual described on Rakhian tables it is described that Izmarid, the Great Serpent of Change has entrusted to the Emperor the land and his household so that he may protect it in Izmarids stead.
 The Rakhians did not perform regularly scheduled ceremonies to appease the gods, but instead conducted rituals in answer to hard times or to mark occasions, myth and ritual were closely related, as many rituals were based on myth, and often involved performing the stories themselves in a religious performance.

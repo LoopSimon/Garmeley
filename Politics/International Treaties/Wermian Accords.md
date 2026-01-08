@@ -1,1 +1,1 @@
-[[Wermia]] [[Basic Magical Theory]]
+[[Wermia]] [[Basic Magical Theory]] [[Gethricism]]

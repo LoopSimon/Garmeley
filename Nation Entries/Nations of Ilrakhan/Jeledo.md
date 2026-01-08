@@ -6,7 +6,7 @@ Heraldic Symbol: Burning Grapes
 
 Head of State: Duke Ramiro II Ucarraz
 
-Primary Religion: Trinicist [[Gethricism]]
+Primary Religion: [[Trinicism]]
 Primary Culture: Cevoli Human  
 Capital: Jeledo
 
