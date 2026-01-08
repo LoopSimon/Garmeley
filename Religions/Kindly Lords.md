@@ -4,7 +4,11 @@
 Introduction:
 
 Traditional spiritual practices and beliefs of Garmian and Reani people are based on a type of animism, polytheism and what modern gethric scholars may consider shamanism due to early practices.
-Today the specific cults of the so called Kindly Lords, are only worshipped to a large scale in the Duchy of [[Garmeley]] , the Princedom of [[Hainach]] and in the major cities surrounding these realms, such as the formally independant Republic of [[Reanport]], although the Kindly Lords are not persecuted against per se in the Urien Lands, major differences and conflicts within [[Eldmar]] and  [[Trinvale]] have arisen from the fact that large minorities in these regions actively reject [[Gethricism]]in favour of the Kindly Lords.
+
+In essence the faith describes the practice of the Garmian and Reani Cultures, to seek out, 
+worship and commune with power entities of the [[The Spiritual Realm]], that manifest themselves as representations of the Environment.
+
+Today the specific cults of the so called Kindly Lords, are only worshipped to a large scale in the Duchy of [[Garmeley]] , the Princedom of [[Hainach]] and in the major cities surrounding these realms, such as the formally independent Republic of [[Reanport]], although the Kindly Lords are not persecuted against per se in the Urien Lands, major differences and conflicts within [[Eldmar]] and  [[Trinvale]] have arisen from the fact that large minorities in these regions actively reject [[Gethricism]]in favour of the Kindly Lords.
 
 The religious traditions associated with the Kindly Lords and more generic Spirit Worship can vary considerably from region to region in Inara, but the Faith in the Kindly Lords specifically describes the practice of worshipping naturalistic spirits as individual deities, notably different from classical Pantheon worship such as the [[Rakhian Mythology]] or the [[Yari Faith]] in the sense that the Kindly Lords physically manifested entities within the world that become objects of worship, rather than the other way around.
 While the specific deities worshipped vary by region and over time, underlying this are broad similarities in both deities and a basic religious homogeneity among Garmian, Reani and Urien peoples.
