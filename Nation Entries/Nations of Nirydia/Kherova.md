@@ -9,7 +9,7 @@ Government: Absolute Monarchy
 Heraldic Symbol: Gauntlet breaking a Wand
 
 Head of State: Khat Tiblin IX  
-Primary Religion: Khethric [[Gethricism]]
+Primary Religion: [[Kethricism]]
 Primary Culture: Kher Human, Kher Dwarven  
 Capital: Kher
 

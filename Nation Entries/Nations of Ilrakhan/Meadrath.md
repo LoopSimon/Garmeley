@@ -5,7 +5,7 @@ Government: Absolute Monarchy
 Heraldric Symbol: Black Dragon on green ground
 
 Head of State: Queen Gisela V  
-Primary Religion: Trinicist [[Gethricism]]
+Primary Religion: [[Trinicism]]
 Primary Culture: Meadi Human  
 Capital: Korsfall
 
