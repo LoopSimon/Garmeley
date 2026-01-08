@@ -66,7 +66,7 @@ The Dwarven Hold of Daban-Kol makes up for a vast majority of the dwarvish popul
   
   
 
-Religion (see the entry on Kethricism)
+Religion, see [[Kethricism]]
 
   
 
@@ -136,7 +136,7 @@ This lose alliance of city-states agreed to help the friendly dwarves of Daban-K
 
 During the days of the Gethric Mission, the people of Kherova adopted the principles of the Religion but incorporated cultural and religious beliefs of their own into the philosophy and rejected the authority of a foreign Clergy in Iztaw, instead referring to the first Bishops of Kher as the Patriarch and head of Church, causing the birth of Kethricist belief; over the centuries the two denominations would drift apart further and further, leading to a declaration of full independence from the Vihri Church in 471PA and the foundation of what is now known as [[Kethricism]].
 
-This division was largely caused due to the radical views of Kherovia on arcane practice in opposition to the accepting views of the Iztaw Clergy on the matter;
+This division was largely caused due to the radical views of Kherova on arcane practice in opposition to the accepting views of the Iztaw Clergy on the matter;
 
 Long had Arcane Magic been labelled as unnatural and occult, especially after the tyranny of Merzigal of Alahmid and subsequent bans and persecution of “occultists” as these dangerous individuals were called.
 
@@ -149,11 +149,11 @@ After the destruction of the orcish tribes of Qa and their exodus to the Qahori 
 
 When the elven Sultanat attacked Grevenna in what is now known as the 1st War of Elbae in 750PA, Kherovan forces joined in the defensive coalition together with the nations of Vihr and Grachy to defend their neighbour.
 
-After the conclusion of the war and the defeat of the Sultanat, Kherova gained international renown for its fierce warriors and extremely useful anti-magical expertise against the magical supremacy of the sultanat.
+After the conclusion of the war and the defeat of the Sultanate, Kherova gained international renown for its fierce warriors and extremely useful anti-magical expertise against the magical supremacy of the Sultanate.
 
-Thirty years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the kobold Khans of Nirydia had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherovia to strike the eastern cities in 782PA.
+Thirty years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the [[Kobold]] Khans of Nirydia had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherova to strike the eastern cities in 782PA.
 
-Jigallors Horde devastated eastern Kherovia, destroying the Fortress Cities of Adsal and Iblis, laying waste to Dalkil and laying siege to Erbil, one of the three jewels of Kherova.
+Jigallors Horde devastated eastern Kherova, destroying the Fortress Cities of Adsal and Iblis, laying waste to Dalkil and laying siege to Erbil, one of the three jewels of Kherova.
 
 The Invaders were beaten back, the siege relieved and Jigallor fell during the Battle of Erbil, however the sudden retreat of the extremely valuable kherovan forces spelled Doom for Grevenna, and was largely responsible for the loss of the 2nd War of Elbae Aggression leading to hostilities and enmity between Grevenna and Kherova to this date. 
 
@@ -167,7 +167,7 @@ In the Year 820PA the centuries old port City of Kulum, access point to Pilvian 
 
 His cult renounced the Kethricist principles and more or less enslaved the city, abusing a Crisis of government in Kher.
 
-Ahrmiz ruled Kulum with fear but also a promise of worldly power, gathering a surprising amount of followers around him; it was only due to a party of brave heroes and the actions of the empowered Kherovian Inquisition that what remained of Kulum could be freed, and although the Cult itself split apart and survived only in hiding, rumours of Ahrmiz`s promised resurrection through occult means still persist.
+Ahrmiz ruled Kulum with fear but also a promise of worldly power, gathering a surprising amount of followers around him; it was only due to a party of brave heroes and the actions of the empowered Kherovan Inquisition that what remained of Kulum could be freed, and although the Cult itself split apart and survived only in hiding, rumours of Ahrmiz`s promised resurrection through occult means still persist.
 
 The Inquisition ruled the city lost to the lingering curses and the Kherovan Government sponsored the settlement of New Kulum which grew rapidly in the last century.
 

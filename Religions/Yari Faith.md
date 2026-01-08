@@ -1,4 +1,5 @@
 In the Lands of the Smaragd Sea, the Moon deity Arishi is the greatest divine being, believed to be more powerful than the sun, as the moon appeared by night and day.
+She is notably exclusively associated with [[The first Moon]].
 Arishi is believed to control the weather and growth of crops, devotees sacrifice animals, birds and sentient creatures to the Moon god, in extreme cases even their own children whom they believed would become deified.
 
 The Lesser deities of the Yari include Ihisa the Earth, Gianor the Sun and Aleac the Sea.
