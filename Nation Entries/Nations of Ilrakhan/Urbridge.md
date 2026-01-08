@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Gryphon carrying a Lance</span>
+        <span>Knight on Gryphonback</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
