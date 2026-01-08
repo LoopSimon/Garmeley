@@ -95,7 +95,7 @@ While Planar Energy, accessed by absolute and conditional Fluxbridges, is the on
 
 Alrahani itself can be divided into multiple realms of existence, primarily the [[The Material Realm]] and the [[The Spiritual Realm]]  although it is heavily theorised that other realms exist within our own plane of existence such as the colloquially termed [[Astral Realm]] of projection.
 
-Traversal between realms is usually only possibly on a physical sense with usage of tremendous planar energy but there are those beings, broadly classified as Spirits who exist primarily within the spiritual Realm as well as creatures or entities that exist in haptic forms in more than 1 realm of existence, such as the Fey. 
+Traversal between realms is usually only possibly on a physical sense with usage of tremendous planar energy but there are those beings, broadly classified as Spirits who exist primarily within the spiritual Realm as well as creatures or entities that exist in haptic forms in more than 1 realm of existence, such as the [[Fey]]. 
 
 It is generally assumed that the existence of cross-realm entities, be it living or unliving creatures and objects, requires a “natural” absolute Fluxbridge that is inherent in said cross-realm entity, however this does clash with the still largely accepted Primal-Conflux-Theory.
 
