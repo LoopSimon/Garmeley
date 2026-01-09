@@ -36,4 +36,4 @@
     </div>
 </div>
 
-<p> </p>
+<p>The Lords and Ladies of Juelrup Castle have controlled the lands and seas of the Malksbay and the Giants Steps for centuries, even though besieged by the Kings of the[[Baeling]] to the west and the Ice Trolls of [[Trykkerog]] to the north, these adventurous sailors have carved a rich nation out of the unforgiving lands of the North.</p>
