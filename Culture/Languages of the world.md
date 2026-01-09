@@ -131,6 +131,8 @@
 				<p>Spoken by the various peoples of Trykkerog.</p>
 			<h4>Ukioll</h4>
 				<p>Spoken by the Ukioll peoples in and south of the Eldveil<p>
+			<h4>Locni</h4>
+				<p>Spoken by the Locni peoples west of the Lowstep Hills <p>
 			</div>
 		</div>
 	</div>
