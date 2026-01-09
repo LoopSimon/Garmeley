@@ -1,4 +1,4 @@
-[[Battvia]] [[Paper Cities]]
+[[Battvia]] [[Paper Cities]] [[Mercenary Culture]]
 **
 
 The Landscape of the Paper Cities and Battvia, in the fall of 922PA
