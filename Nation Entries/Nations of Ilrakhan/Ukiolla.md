@@ -35,3 +35,5 @@
         <a href="Giantsrul" class="internal-link">Giantsrul</a>
     </div>
 </div>
+
+<p>The Principalities of Ukiolla are deeply connected to the old traditions of the Pekhi tribes and the lands of the Aeldveil. Ukiolla has been engaged in constant conflict with its southern neighbour in Grachy but enjoys a healthy relationship with goblin traders from the Mistspires and the[[Juelfluk]] Sailors.  </p>

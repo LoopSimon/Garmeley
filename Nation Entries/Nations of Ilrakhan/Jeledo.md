@@ -35,3 +35,5 @@
         <a href="Cevolis" class="internal-link">Kingdom of Cevolis</a>
     </div>
 </div>
+
+<p> The Duchy used to be directly under the control of the the [[Cevolis]] Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Dukes of Jeledo would reject  [[Battvia]]n authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
