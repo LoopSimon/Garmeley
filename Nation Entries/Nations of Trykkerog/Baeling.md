@@ -35,4 +35,4 @@
     </div>
 </div>
 
-<p> </p>
+<p> The Baeling Kingdom derives its name from the near mythical House of Baeling that ruled the Baeling Empire since the 5th century. Although in constantly dispute and conflict with the neighbouring powers of [[Trykkerog]] such as [[Wars of Baeling Succession]] with the Lords of Juelfluk, it is nevertheless the undisputed strongest power on the northern Continent stretching feven across the Bay to the city of Jallbreg. </p>

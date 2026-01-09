@@ -82,7 +82,7 @@
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
-            <div class="timeline-item" data-date="465PA">Valund of Alsebyn forms the Kingdom of Baeling</div>
+            <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribess of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
