@@ -1,0 +1,2 @@
+Introduction:
+Within Planar Theory the astral Realm represents the mostly theoretical Space within spaces, that allows for the physical and spiritual to travel between the different planes of existence.
