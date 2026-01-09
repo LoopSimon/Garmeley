@@ -34,3 +34,5 @@
         <strong>Preceded by</strong>
     </div>
 </div>
+
+<p>Cimfon is a Locni Kingdom that first appeared at the turn of the 5th century, based in western Ilrakhan they have remained isolated and only stand in contact with the Cevoli of [[Jeledo]] and the people of western [[Meadrath]]. </p>
