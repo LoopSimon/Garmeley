@@ -6,7 +6,7 @@ Introduction:
 Traditional spiritual practices and beliefs of Garmian and Reani people are based on a type of animism, polytheism and what modern gethric scholars may consider shamanism due to early practices.
 
 In essence the faith describes the practice of the Garmian and Reani Cultures, to seek out, 
-worship and commune with power entities of the [[The Spiritual Realm]], that manifest themselves as representations of the Environment.
+worship and commune with power entities of the [[Spiritual Realm]], that manifest themselves as representations of the Environment.
 
 Today the specific cults of the so called Kindly Lords, are only worshipped to a large scale in the Duchy of [[Garmeley]] , the Princedom of [[Hainach]] and in the major cities surrounding these realms, such as the formally independent Republic of [[Reanport]], although the Kindly Lords are not persecuted against per se in the Urien Lands, major differences and conflicts within [[Eldmar]] and  [[Trinvale]] have arisen from the fact that large minorities in these regions actively reject [[Gethricism]]in favour of the Kindly Lords.
 

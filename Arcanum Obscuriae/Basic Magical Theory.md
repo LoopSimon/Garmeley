@@ -93,7 +93,7 @@ The research into the connection of Astronomic Phenomena, regarding our own plan
 
 While Planar Energy, accessed by absolute and conditional Fluxbridges, is the only true source of activation energy for magical casting as far as we know, this is only true in theory.
 
-Alrahani itself can be divided into multiple realms of existence, primarily the [[The Material Realm]] and the [[The Spiritual Realm]]  although it is heavily theorised that other realms exist within our own plane of existence such as the colloquially termed [[Astral Realm]] of projection.
+Alrahani itself can be divided into multiple realms of existence, primarily the [[Material Realm]] and the [[Spiritual Realm]]  although it is heavily theorised that other realms exist within our own plane of existence such as the colloquially termed [[Astral Realm]] of projection.
 
 Traversal between realms is usually only possibly on a physical sense with usage of tremendous planar energy but there are those beings, broadly classified as Spirits who exist primarily within the spiritual Realm as well as creatures or entities that exist in haptic forms in more than 1 realm of existence, such as the [[Fey]]. 
 
