@@ -53,7 +53,8 @@
 <hr class="wiki-hr">
 <h2>Religion</h2>
 <small><i>see <a href="Gethricism" class="internal-link">Gethricism</a></i></small>
-
+<p>Intrinsically linked with the origin of the Gethric Faith and its later denominations, Vihr is arguably one of the most religious countries on Inara, where Gethric belief remains a strong part of the national identity and the High-Bishop of Iztaw is often more revered then the King himself.</p>
+<p> </p>
 <hr class="wiki-hr">
 <h2>Politics</h2>
 <p>The Kingdom of Vihr is ruled by the Kings in Zavlech, currently Miskomir IV of House Ralpia and has been since its founding in the middle of the 3rd century PA.</p>
