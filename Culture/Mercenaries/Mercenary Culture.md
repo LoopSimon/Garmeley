@@ -1,1 +1,1 @@
-[[Sons of Kasimir]]
+[[Sons of Kasimir]] [[Scarlet Eagle Band]]
