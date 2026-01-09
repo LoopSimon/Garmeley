@@ -33,3 +33,5 @@
     </div>
 </div>
 
+<p> As the most isolated of the Inaran Holds, Avdal-Kol has lost almost all contact with its northern cousins; be it exchange on the surface or in the Underlands. <br>
+Instead the Dwarves of the Beheran Mountains find themselves threatened on all sides: on the Surface the martial Gnolls in the West and expansionist Beastfolk to the South have tried more than once to break its Gates while the Drow of the Elbae Underlands present a different kind of threat altogether.</p>
