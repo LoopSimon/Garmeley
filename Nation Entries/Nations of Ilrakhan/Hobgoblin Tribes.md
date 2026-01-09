@@ -35,3 +35,5 @@
         <span>N/A</span>
     </div>
 </div>
+
+<p> The many warring Tribes the peaceful Goblins larger Cousins have settles the lands of the East [[Urland]] around lake Felwin. Their days of Union and grand conquest long gone, this society of warriors and fighters has not given birth to a great Leader since the days of Uzra the Black during the last days of the 7th century. Hated by the realms of men, their only allies remain the Ogre clans of the mountain slopes, that enjoy the trade of slaves with the brutish .[[Goblinoid]]s  </p>

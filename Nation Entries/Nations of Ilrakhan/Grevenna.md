@@ -38,3 +38,5 @@
         </span>
     </div>
 </div>
+
+<p>One of the smaller realms on the stage of Ilrakhan, Grevenna sits between the Giants of the Vihri Kingdom and the elven Sultanate. The recent decades have not been kind to the men of the Pilv as the opening of the Horad Isthmus a the end of the Elbae Wars would render its land routes from Reanport and Grevenna to the Pilvian Gulf far less profitable than the newly established maritime path.</p>

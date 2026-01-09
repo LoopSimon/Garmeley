@@ -38,3 +38,4 @@
         </span>
     </div>
 </div>
+<p> Nestled against the slopes of the Cloudscratchers lies the Princedom of Hainach, one of the last remnants of what was once the old Kingdom of [[Rean]]. Now a tributary of the Sultanate and forced to open its gates to elven influences, a surprising upswing within the border realm has taken place and the Princedom is now the only settled nation actively attempting to reclaim parts of the Wasteland of Rakh. </p>
