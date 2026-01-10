@@ -1,4 +1,4 @@
-[[Gethricism|Gethric]] Clergy of Iztaw, the Head of the Gethrist Church which has canonized almost all [[Gethric Saints]] in History.
+[[Gethricism|Gethric]] Clergy of Iztaw, the Head of the Gethrist Church which has canonized almost all [[Gethric Saints]] in History; Its Head is the High-Bishop, currently the blessed Orthel II.
 
 Representing the oldest denomination of Gethricism, the Clerics and Priests of Iztaw are present in Chapels and Churches around the modern world.
 
