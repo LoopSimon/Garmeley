@@ -22,7 +22,6 @@
         The Queen of <a href="Eldmar">Eldmar</a><br>
     </div>
 </div>
-
 <p>A set of rules and restrictions regarding Magical Practice instated roughly 300 years after the <a href="Wermia">Wermian</a> Incursions, referencing them as an example of the havoc and destruction unchecked magic can wreak upon the material Plane.
 Primarily enforced by at first only Followers of <a href="Gethricism">Gethricism</a> but later virtually all nations on Ilrakhan.</p>
 
