@@ -1,12 +1,12 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Kingdom of Urbridge</h4>
+    <h4 class="wiki-header">Lordship of Urbridge</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Feudal Monarchy</span>
+        <span>Hereditary Stratocracy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>King Gorlan V of Urbridge</span>
+        <span>Lord-Protector Gorlan V Goodwind </span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -36,4 +36,4 @@
     </div>
 </div>
 
-<p>Surrounded on all sides by either Urien Rivals or the vile [[Hobgoblin Tribes]], the men and women of Urbridge follow the knightly exmaple of the legendary Hero Dorian, one of the [[Gethric Saints]] religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of [[Gelmsburg]]. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. </p>
+<p>Surrounded on all sides by either Urien Rivals or the vile [[Hobgoblin Tribes]], the men and women of Urbridge follow the knightly example of the legendary Hero Dorian, one of the [[Gethric Saints]] religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of [[Gelmsburg]]. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. </p>
