@@ -2,9 +2,9 @@
 
 Kobold Shamanistic beliefs and practices vary between the different cultural denominations of the Nirydian Kobold, notably changing drastically between the mountain tribes of the north, the southern Khaganates or the cities of the eastern Kobolds.
 
-Across most  cultures however, Shamans and people filling similar roles to those performed by shamans among Kobolds, such as fortune-telling, magical rites (primarily weather based) and finding lost objects, are leaders and magical authorities within their communities.
+Across most cultures however, Shamans and people filling similar roles to those performed by shamans among Kobolds, such as fortune-telling, magical rites (primarily weather based) and finding lost objects, are leaders and magical authorities within their communities.
 
-Shamans in Kobold Culture usually tend to be born with physical anomalies such as a surplus of arms , legs or eyes, or even to greater extend secondary heads, the famous Rhoka, a character of the [[Kherova]]n Myth Ralond and Reana, is said to have possessed 3 heads, likely not an exaggerated detail.
+Shamans in Kobold Culture usually tend to be born with physical anomalies such as a surplus of arms , legs or eyes, or even to greater extend secondary heads, the famous Rhoka, a character of the [[Kherova|Kherovan]] Myth Ralond and Reana, is said to have possessed 3 heads, likely not an exaggerated detail.
 
 Soul-Dualism within Kobold Shamanism:
 
