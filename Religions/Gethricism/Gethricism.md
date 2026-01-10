@@ -1,18 +1,6 @@
-
-
 [[Kethricism]] [[Trinicism]]
 
-  
-
-
-  
-  
-  
-
-Central Belief
-
-  
-  
+### Central Belief
 
 Gethricism promises self-fulfilment and realization in power and wisdom, through hard work, and honesty with oneself and one's environment.
 
@@ -24,15 +12,8 @@ The Oaths and Tenants itself are almost always more important than their content
 
 A Central theme of Gethricism is also the rejection of other creator deities or all-powerful gods, instead they rejoice in the worship of the figures in history believed to have led truly holy and principled lives, the Prophets, who they believe to reside as immortal sages in the Homestead Beyond.
 
-Major Values encouraged to uphold are natural order and hierarchy, as the King rules the Peasant, so does the Father the Son, and the Fox the Hare; progressive and revolutionary ideas are often rejected or looked upon warily by traditional Gethrists. A strong sense of order and lawful customs, and a deep respect for both family, ancestor and the dead are taught within the Abbeys and Chapels of the Church, who itself officially canonizes [[Gethric Saints]] and Blessed peoples with utmost care.
-
-  
-  
-
-Origin of the Faith
-
-  
-  
+Major Values encouraged to uphold are natural order and hierarchy, as the King rules the Peasant, so does the Father the Son, and the Fox the Hare; progressive and revolutionary ideas are often rejected or looked upon warily by traditional Gethrists. A strong sense of order and lawful customs, and a deep respect for both family, ancestor and the dead are taught within the Abbeys and Chapels of the Church, who itself officially canonises [[Gethric Saints]] and Blessed peoples with utmost care.
+### Origin of the Faith
 
 It was in 240 PA, that Gethric of Iztaw slew the Daemon Lord Koribael, head of the Ashen Legions and ended the Wermian Incursions.
 
@@ -46,9 +27,7 @@ Over the following decades and centuries, Gethricism spread like wildfire throug
 
 The White Book, a collection of quotes, saying, prayers and oaths by the earliest Church-Fathers, as compiled by the Saint Rodymir of Voblag, is a symbol of the academic aspect of the Faith, as many hermits, priests, clerics and bishops have devoted themselves solely to the study of self-enlightenment through Gethricism.
 
-High Gethricism and its denominations
-
-  
+### High Gethricism and its denominations
 
 The oldest and still most widespread form of Gethricism, puts additional value into the literal transcriptions of the Prophets and his Brotherhoods words, often taking literal and perhaps somewhat outdated meanings from them.
 
@@ -60,7 +39,7 @@ Knightly and Monastic Traditions are also deeply ingrained within the Church, of
 
 Vows are usually celebrated as lifelong commitments and sometimes even written down and worn as signs of Fervour and Belief.
 
-The Great Schism, also known as the Gethric Schism, occurred as a result of the Conclave of Trinfurt in 764PA, resulting in many of the western churches less dependant on Iztaw to reorganize in a decentralized denomination, widely referred to as [[Trinicism]], named after Trinfurt itself.
+The Great Schism, also known as the Gethric Schism, occurred as a result of the Conclave of Trinfurt in 764PA, resulting in many of the western churches less dependant on Iztaw to reorganise in a decentralised denomination, widely referred to as [[Trinicism]], named after Trinfurt itself.
 
 The Kherovan declaration of 471PA, sometimes referred to as the Kherovan Schism, was much less divisive and caused almost no rift within the greater Gethric community of the time and today, as Kheri practices and customs were already very different and foreign to the Vihri Gethric Tradition.
 The Kherovan denomination is often referred to as [[Kethricism]], and the Prophet Gethric as Kethric.
