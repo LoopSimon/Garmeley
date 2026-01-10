@@ -46,7 +46,8 @@
 <small><i>see <a href="Trinicism" class="internal-link">Trinicism</a></i></small>
 <p>The vast majority of the population follows the decentralized and diverse local Churches of the Trinicist Faith, strongest in the Lands around the Trinmo and Gisvale, for it was at Trinfurt on the western border of the Kingdom that the Great Schism between the Gethric and Trinicist Church occurred at the end of the 6th century. <br> Further west, small communities and specific social demographics in the larger cities still practice [[Augurism]] while almost no remnants of pre-Gethric belief such as [[Turvik Paganism]] are found east of Korsfall.</p>
 <h2>Politics</h2>
-<p> </p>
+<p> The Kingdom of Meadrath is one of the most important political entities on Inara and the Nucleus of the "Meadi Empire" encompassing a sphere of influence stretching from Trinvale and Uhl, the Weadlands and central Meadrath all the way to the Halfling Freelands to the west. <br> The political nexus of all these nations inevitably is the Korsfall Court in the Kingdoms Capital that is dominated by the Royal Congress, a Council of dignitaries of the three estates that advises the Monarch on matters of economic, national and international policy. <br>
+The so called "Meadi Empire" as it is referred to colloquially, describes the various minor or major nations and cities ruled directly or indirectly by the decisions of the Royal Court, this architecture of dependency and alliances is often referred to as the Fulmer-System, named after High-Chancellor Odrick von Fulmer who was instrumental in the creation and organization of the modern day Royal Congress.</p>
 
 
 <h2>History</h2>
