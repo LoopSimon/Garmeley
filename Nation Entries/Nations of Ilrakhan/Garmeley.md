@@ -47,7 +47,7 @@
 
 <hr class="wiki-hr">
 <h3>Geography</h3>
-<p>Garmeley borders the minor Urlandi Kingdoms of <a href="Trinvale" class="internal-link">Calmbrook</a> and Niedmer in the North-West, the Kingdom of Gethria in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the Trollback Mountains.</p>
+<p>Garmeley borders the minor Urlandi Realms of <a href="Trinvale" class="internal-link">Trinvale</a>, Eldmar and Urbrdige in the North-West, the Kingdom of Vihr in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the Trollback Mountains.</p>
 
 <p>The nation is defined by its rivers, notably the <b>Melm</b> and the <b>Trinmo</b> (the largest river in the known world), which flows into Lake Forr. The <b>Garmian Planes</b> in the south represent the lowest and most arable elevation of the country, while the <b>Thull</b> river serves as the major economic trade route.</p>
 
@@ -55,7 +55,7 @@
 <h3>Politics</h3>
 <p>The Duchy is ruled through <b>absolute cognatic primogeniture</b>. Since the transition from a Kingdom to a Duchy, power has become less centralized, with feudal lords enjoying significant autonomy. The primary nobility form the <b>Council of Lords</b>, including the Counts of Melmbirth, Forrington, Tewkford, and Sunminster.</p>
 
-<p>Garmeley maintains strong alliances with <a href="Trinvale" class="internal-link">Calmbrook</a>, <a href="Hainach" class="internal-link">Hainach</a>, and <a href="Gelmsburg" class="internal-link">Gelmsburg</a>, and acts as the official <b>Defender of the City of Reanport</b>. The <b>College of Patwin Tower</b> regulates magical affairs, adhering to the <a href="Wermian Accords" class="internal-link">Wermian Accords</a>.</p>
+<p>Garmeley maintains strong alliances with <a href="Trinvale" class="internal-link">Trinvale</a>, <a href="Hainach" class="internal-link">Hainach</a>, and <a href="Urbridge" class="internal-link">Urbridge</a>, and acts as the official <b>Defender of the City of Reanport</b>. The <b>College of Patwin Tower</b> regulates magical affairs, adhering to the <a href="Wermian Accords" class="internal-link">Wermian Accords</a>.</p>
 
 <hr class="wiki-hr">
 <h3>Demographics</h3>
