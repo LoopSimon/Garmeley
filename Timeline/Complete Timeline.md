@@ -163,7 +163,9 @@
             <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
             <div class="timeline-item" data-date="870PA">Pavo of Alban erects his Tower</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
-            <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the Kherovan Inquisition</div>
+            <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
+            Kherovan Inquisition</div>
+            <div class="timeline-item" data-date="895PA">Odrick von Fulmer is elected High-Chancellor of Meadrath</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
