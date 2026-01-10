@@ -1,7 +1,7 @@
-Turvik Paganism or just Turvik religion refers to the religious beliefs and ritual practices of the Proto-Urien, Wermian, Vihri and Grachi peoples of Urland before their Gethric Conversion.
+Turvik Paganism or just Turvik religion refers to the religious beliefs and ritual practices of the proto-Urien, Wermian, Vihri and Grachi peoples of Urland before their Gethric Conversion.
 
-Widely accepted to have originated in the lands of the Trinmo Bank, local development of the ancient turvik religion, especially in southern Urland, was likely influenced by neighbouring Rakhian peoples, contributing to local ethnogenesis.
-Turvik religion and mythology is widely considered by scholars to be more conservative than other Pre-Gethric Inaran traditions, as turvik religion remained widely practiced for centuries.
+Widely accepted to have originated in the lands of the Trinmo Bank, local development of the ancient Turvik religion, especially in southern Urland, was likely influenced by neighbouring Rakhian peoples, contributing to local ethnogenesis.
+Turvik religion and mythology is widely considered by scholars to be more conservative than other pre-Gethric Inaran traditions, as turvik religion remained widely practiced for centuries.
 
 Turvik Paganism survived for a long time in the Kingdoms of  [[Wermia]], [[Urland]] and the[[Vihrmen Federation]] but has been largely eradicated and replaced by [[Gethricism]] following the Wermian Incursions.
 
