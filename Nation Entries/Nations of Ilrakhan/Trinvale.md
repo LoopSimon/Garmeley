@@ -39,5 +39,6 @@
  <h2>People of Interest</h2>
  Rimond of Niedrest
 	Lord of the Trinvale Republic, Citykeeper of Niedrest
+	
 Gregor Redsight
 	Archmage of Greenstone Tower

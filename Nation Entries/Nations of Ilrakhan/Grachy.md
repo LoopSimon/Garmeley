@@ -42,6 +42,7 @@
 <h2>People of Interest</h2>
 
 Ilja Zemov
-	Balgram of Grachy in his 2nd Term.
+	Balgram of Grachy in his 2nd Term
+	
 Vlad of House Kulyat
 	Baron of Kulyat

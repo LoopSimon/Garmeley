@@ -82,13 +82,18 @@
 <h2>People of Interest</h2>
 Misklomir, third of his Name of House Ralpia
 	King of Vihr
+	
 Vaszco of House Ralpia
 	Crown Prince of Vihr, Duke of Trazlov
+	
 Katerina of House Szinmo
 	Duchess of Szievek
+	
 Orthel, second of his Name
 	High-Bishop of Iztaw and Head of the Gethric Church
+	
 Dorman of the White Sea
 	Master of the Silver Wheel
+	
 Zenislaw 
 	Lord-Knight of the Silver-Wheel
