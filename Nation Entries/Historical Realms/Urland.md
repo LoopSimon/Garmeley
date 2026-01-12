@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>The Golden Urien Gryphon</span>
+        <span>The Golden Urien Gryphon, later combined with the Trout of House Vehrling</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

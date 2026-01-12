@@ -92,7 +92,7 @@
 <p>After the destruction of the orcish tribes of <a href="Wermia" class="internal-link">Wermia</a> (specifically the tribes of Qa) and their exodus to the <a href="Qahori" class="internal-link">Qahori</a> Archipelago south of the Kurini Mountain range, Kherova has taken a largely friendly and sympathetic stance to the newly established <a href="Qahori" class="internal-link">Qahori Federation</a>.</p>
 
 <hr class="wiki-hr">
-<h3>Wars of Elbaean agression</h3>
+<h3>Wars of Elbaea agression</h3>
 <p>When the elven <a href="Elbae" class="internal-link">Sultanat</a> attacked <a href="Grevenna" class="internal-link">Grevenna</a> in what is now known as the 1st War of Elbae in 750PA, Kherovan forces joined in the defensive coalition together with the nations of <a href="Vihr" class="internal-link">Vihr</a> and <a href="Grachy" class="internal-link">Grachy</a> to defend their neighbour.</p>
 <p>After the conclusion of the war and the defeat of the Sultanate, Kherova gained international renown for its fierce warriors and extremely useful anti-magical expertise against the magical supremacy of the Sultanate.</p>
 <p>Thirty years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the <a href="Kobold" class="internal-link">Kobold</a> Khans of <a href="Nirydia" class="internal-link">Nirydia</a> had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherova to strike the eastern cities in 782PA.</p>

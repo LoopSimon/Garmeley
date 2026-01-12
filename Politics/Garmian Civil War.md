@@ -1,5 +1,8 @@
 [[Garmeley]] [[Hainach]] [[Vihr]] [[Eldmar]] [[Trinvale]] 
 
+Ongoing conflict within Garmeley, including the realms of Vihr, Eldmar, Trinvale, Hainach and Urbridge. 
+Started 922 PA
+
 **Potential Spoilers**
 
 Duchess Agnes died during the Midsummer Festival of 922 PA as a result of Jonek Two-Tongues Prison break, the infamous Sorcerer was later hunted down and brought to justice by brave adventurers.

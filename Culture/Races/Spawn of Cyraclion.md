@@ -1,3 +1,0 @@
-Satyr
-
-Cyclopi

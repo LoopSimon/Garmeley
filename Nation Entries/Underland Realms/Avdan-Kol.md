@@ -1,4 +1,4 @@
-[[Deepfolk]] [[Underlands]]
+[[Dwarf]] [[Underlands]]
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Avdan-Kol</h4>

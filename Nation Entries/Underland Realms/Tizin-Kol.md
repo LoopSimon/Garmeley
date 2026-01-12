@@ -1,4 +1,4 @@
-[[Deepfolk]] [[Underlands]]
+[[Dwarf]] [[Underlands]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Tizin-Kol</h4>
     <div class="wiki-row">
