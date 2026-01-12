@@ -36,3 +36,7 @@
     </div>
 </div>
 <p> The weadi cities north of the Trinwood have united in a free and liberal Republic, faced with the historic thread of Raiders and Invaders from across the Bloody Sea and the dominant might of the Kingdom of[[Meadrath]], only in unity, with ingenuity, shrewd mercantilism and elegant diplomacy can this League of Cities hope to survive as an autonomous Home for the Weadi peoples.</p>
+
+<h2>People of Interest</h2>
+Jan van de Spiegel
+	Stadholder of Schipwig and Leader-Elect of the Blijgrat League

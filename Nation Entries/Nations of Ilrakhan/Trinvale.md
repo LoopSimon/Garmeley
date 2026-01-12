@@ -36,3 +36,8 @@
     </div>
 </div>
  <p> The Trinvale Republic is situated at the southern foot of the mighty Kortopi and easily the richest and most prosperous of all the  [[Urland]]er Successor states, due to its position at the Pass of  [[Ogul-Vosko]] it is the main way through with trade from[[Battvia]]and the  [[Paper Cities]] flows into rich [[Garmeley]] and the other Towns and Cities of Urland.</p>
+ <h2>People of Interest</h2>
+ Rimond of Niedrest
+	Lord of the Trinvale Republic, Citykeeper of Niedrest
+Gregor Redsight
+	Archmage of Greenstone Tower

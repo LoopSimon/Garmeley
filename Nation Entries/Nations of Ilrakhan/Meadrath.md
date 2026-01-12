@@ -52,3 +52,18 @@ The so called "Meadi Empire" as it is referred to colloquially, describes the va
 
 <h2>History</h2>
 <p> </p>
+
+<h2>People of Interest</h2>
+
+Gisela, fifth of her name of House Orvan
+	Queen of Meadrath
+Odrick von Fulmer
+	High-Chancellor of Meadrath, Count of Fulmer
+Felix of Praum
+	King-Consort of Meadrath, Marshall of the Kingdom
+Thomar of Whisperhill
+	Dean of Korsfall College
+Kasper von Kran
+	Duke of Gisvale
+Pavo of Alban
+	Archmage of Alban Tower
