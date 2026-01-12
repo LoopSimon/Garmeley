@@ -6,7 +6,7 @@ Series of Conflicts between the [[Elbae]] Sultanate and the Reani Coalition
 *750PA-762PA*
 
 Sultanate: Elbae Sultanate, Emirate of [[Iz-Almadus]]
-Reani Coalition: Lordship of  [[Grevenna]], Khatrym of  [[Kherova]], Princedom of [[Hainach]], Kingdom fo [[Vihr]]
+Reani Coalition: Lordship of  [[Grevenna]], Khatrym of  [[Kherova]], Princedom of [[Hainach]], Kingdom of [[Vihr]]
 
 Result: Elbae retreat behind the Horad.
 
