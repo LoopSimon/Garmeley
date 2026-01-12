@@ -1,2 +1,8 @@
 Conflict between the serene Kingdom of Battvia and the Paper Cities.
-792-800
+*Date:* 792PA - 800PA
+
+*Location:* East-Battvia
+
+*Result:*
+
+*Territorial Changes:*

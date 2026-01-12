@@ -1,5 +1,14 @@
 [[Baeling]] [[Juelfluk]]
 
+*Date:  684PA - ongoing
+
+
+*Location:* Trykkerog, Torn Sea
+
+*Result:*
+
+*Territorial Changes:*
+
 A series of armed conflicts between the Remnants of the Baeling Empire of Trykkerog, the Kingdom of Juelfluk and Baeling.
 
 With the Fall of the Baeling Empire in 590PA, the House of Juelfluk under Rossgi I had declared its hegemony over the lands and peoples of the Malksbay soon after in 617PA.

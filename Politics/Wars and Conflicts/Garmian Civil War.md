@@ -1,7 +1,16 @@
 [[Garmeley]] [[Hainach]] [[Vihr]] [[Eldmar]] [[Trinvale]] 
 
 Ongoing conflict within Garmeley, including the realms of Vihr, Eldmar, Trinvale, Hainach and Urbridge. 
-Started 922 PA
+
+*Date: 922PA- ongoing
+
+
+*Location:* Garmeley, Southern Urland
+
+*Result:*
+
+*Territorial Changes:*
+
 
 **Potential Spoilers**
 

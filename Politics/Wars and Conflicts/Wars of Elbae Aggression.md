@@ -1,6 +1,14 @@
-Series of Conflicts between the [[Elbae]] Sultanate and the Reani Coalition
+Series of Conflicts between the [[Elbae]] Sultanate and the Reani Coalition, warfare took place primarily around the Stormy Stormy Sea and the Pilvian Gulf.
+*
 
-750PA - 815PA
+*Date: *750PA - 815PA*
+
+
+*Location:* Hainach, Grevenna, Stormy Sea, Pilvian Gulf, Horad Isthmus
+
+*Result:* 
+
+*Territorial Changes:*
 
 ### **First War of Elbae Aggression**
 *750PA-762PA*

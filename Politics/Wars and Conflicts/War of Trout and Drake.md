@@ -1,3 +1,11 @@
 War between the Kingdom of Meadrath and the Kingdom of Urland
+*
 
-631PA - 634PA
+*Date: *631PA - 642PA*
+
+
+*Location:* Gisvale, Northern Urland
+
+*Result:*
+
+*Territorial Changes:*

@@ -1,2 +1,10 @@
 Conflict between the Kingdoms of Vihr and Meadrath, including several of their respective dependencies.
-851 PA - 876 PA
+
+*Date: 851 PA - 876 PA
+
+
+*Location:* Northern Urland, Torn Sea
+
+*Result:*
+
+*Territorial Changes:*
