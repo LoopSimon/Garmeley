@@ -5,6 +5,6 @@ Conflict between the Kingdoms of Halgrach and Vihr.
 
 *Location:* Vihr, Grachy, Torn Sea
 
-*Result:*
+*Result:* Vihri Victory, End of the Kingdom of Halgrach
 
 *Territorial Changes:*

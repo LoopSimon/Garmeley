@@ -6,6 +6,6 @@ War between the Kingdom of Meadrath and the Kingdom of Urland
 
 *Location:* Gisvale, Northern Urland
 
-*Result:*
+*Result:* Meadi Victory
 
-*Territorial Changes:*
+*Territorial Changes:* Urland cedes the County of Trinvale to Meadrath

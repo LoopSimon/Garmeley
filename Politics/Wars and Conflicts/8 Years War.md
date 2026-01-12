@@ -5,7 +5,7 @@ Conflict between the Kingdoms of [[Vihr]] and [[Garmeley]]
 
 *Location:* Trollback Mountains
 
-*Result:*
+*Result:* Garmish Victory
 
 *Territorial Changes:*
 

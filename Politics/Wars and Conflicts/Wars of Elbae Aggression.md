@@ -6,7 +6,7 @@ Series of Conflicts between the [[Elbae]] Sultanate and the Reani Coalition, war
 
 *Location:* Hainach, Grevenna, Stormy Sea, Pilvian Gulf, Horad Isthmus
 
-*Result:* 
+*Result:* [[Treaty of Danipol]]
 
 *Territorial Changes:*
 
@@ -35,4 +35,4 @@ Result: Subjugation of Hainach.
 Sultanate: Elbae Sultante, Emirate of Iz-Almadus, Princedom of Hainach
 Reani Coalition: Lordship of Grevenna, Kingdom of Vihr, Duchy of Garmeley
 
-Result: [[Treaty of Danipol]].
+Result: Treaty of Danipol

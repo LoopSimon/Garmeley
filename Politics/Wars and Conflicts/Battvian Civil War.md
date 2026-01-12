@@ -3,6 +3,6 @@ Conflict between the serene Kingdom of Battvia and the Paper Cities.
 
 *Location:* East-Battvia
 
-*Result:*
+*Result:* Paper-City Victory, Battvia loses 
 
 *Territorial Changes:*

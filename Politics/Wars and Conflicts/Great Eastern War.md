@@ -6,7 +6,7 @@
 
 *Location:* Grachy, Ukiolla, Torn Sea
 
-*Result:*
+*Result:* 
 
 *Territorial Changes:*
 

@@ -5,6 +5,6 @@ Conflict between the Kingdoms of Vihr and Meadrath, including several of their r
 
 *Location:* Northern Urland, Torn Sea
 
-*Result:*
+*Result:* [[Treaty of Uhl]]
 
-*Territorial Changes:*
+*Territorial Changes:* 
