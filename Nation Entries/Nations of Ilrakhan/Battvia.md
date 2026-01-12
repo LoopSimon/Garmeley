@@ -43,3 +43,13 @@
 %%
 [[Jeledo]]
 %%
+<h2>People of Interest</h2>
+Canto, first of his Name of House di Battvia
+	Prince of Battvia
+
+Sandra, first of her Name of House di Vorel
+	Contessa of Vorella
+	
+Rivel di Poca
+	Archmage of Ciravelli Tower
+	

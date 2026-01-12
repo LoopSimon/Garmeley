@@ -5,3 +5,5 @@ The Eldveil, a stretch of dense Forest between Ukiolla and the Waekajokull, is s
 Traditional Aeldcult Practice is generally considered to be Animism.
 The Pehki belief that all significant objects, like rocks animals or plants, possess a soul, and from western perspective, traditional Pehki belifs include a multitude of spirits as mentioned above.
 Pehki traditional beliefs and practices commonly emphasizes veneration of the dead and of animal spirits. The relationship with the local animals that sustain the people, such as bears, whales and reindeer, are very important within the Aeldcult.
+
+The office of the First Druid is often as respected as that of the Grand Prince of Ukiolla if not more, it is currently held by Tarja Roglender and acts as the official representative of the veil with the Pehki people.

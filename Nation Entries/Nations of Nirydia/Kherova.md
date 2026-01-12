@@ -107,3 +107,25 @@
 <p>Ahrmiz ruled Kulum with fear but also a promise of worldly power, gathering a surprising amount of followers around him; it was only due to a party of brave heroes and the actions of the empowered <a href="Kherovan Inquisition" class="internal-link">Kherovan Inquisition</a> that what remained of Kulum could be freed, and although the Cult itself split apart and survived only in hiding, rumours of Ahrmiz's promised resurrection through occult means still persist.</p>
 <p>The Inquisition ruled the city lost to the lingering curses and the Kherovan Government sponsored the settlement of New Kulum which grew rapidly in the last century.</p>
 <p>The <a href="Treaty of Kulum" class="internal-link">Treaty of Kulum</a>, signed as a result of this crisis by most nations on the continent, gave Kherovan Inquisitors international legal authority to apprehend remnants of the Cult, a practice that is often criticised by local lords and authorities as well abused by individual agents of the Inquisition that use it as an opportunity to enact secret missions and witch-hunts across the Continent.</p>
+<h2>People of Interest</h2>
+Tiblin, ninth of his name of House Kher
+	Khat of Kherova, Lord of Kher
+	
+Yalgin Korez
+	Akaz of Dabal-Kol
+	
+Viktrik, first of his name
+	Patriarch of Kher, Head of the the Kethric Church
+	
+Mara of House Zigrati 
+	Lady of Kairos, Spear of the Cities
+	
+Irman of House Erbil
+	Lord of Erbil
+	
+Zazobea of House Iblisi
+	Castellan of Fort Iblis
+	
+Uzdlin of House Adsal
+	Castellan of Fort Adsal, Shield of the Cities
+	

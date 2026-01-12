@@ -1,3 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Jeledo</h4>
     <div class="wiki-row">
@@ -6,7 +41,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Duke Ramiro II Ucarraz</span>
+        <span>Duc Ramiro II Ucarraz</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -36,4 +71,7 @@
     </div>
 </div>
 
-<p> The Duchy used to be directly undfginning of the 6th century, the Dukes of Jeledo would reject  [[Battvia]]n authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
+<p> The Duchy used to be directly under the control of the the [[Cevolis]] Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Dukes of Jeledo would reject  [[Battvia]]n authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
+<h2>People of Interest</h2>
+Ramiro, second of his Name of House Ucarraz
+	Duc of Jeledo

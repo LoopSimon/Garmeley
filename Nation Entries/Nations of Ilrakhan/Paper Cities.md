@@ -39,3 +39,9 @@
     </div>
 </div>
 <p> See the [[Situation in the Paper Cities]]  </p>
+<h2>People of Interest</h2>
+Livius Grimo
+	Lord-Mayor of Albesan, Master-Printer of Albesan
+
+The Baker
+	Crimelord of Ligoggia
