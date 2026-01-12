@@ -1,4 +1,4 @@
-Conflict between the Kingdoms of Halgrach and Vihr.
+Belligerents: The Kingdoms of Halgrach and Vihr.
 
 *Date:  822 PA - 835 PA 
 
@@ -6,5 +6,3 @@ Conflict between the Kingdoms of Halgrach and Vihr.
 *Location:* Vihr, Grachy, Torn Sea
 
 *Result:* Vihri Victory, End of the Kingdom of Halgrach
-
-*Territorial Changes:*

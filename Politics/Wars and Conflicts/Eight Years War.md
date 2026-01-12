@@ -1,4 +1,4 @@
-Conflict between the Kingdoms of [[Vihr]] and [[Garmeley]] 
+Belligerents: The Kingdoms of [[Vihr]] and [[Garmeley]] 
 
 *Date: *644PA - 650PA
 
@@ -7,6 +7,5 @@ Conflict between the Kingdoms of [[Vihr]] and [[Garmeley]]
 
 *Result:* Garmish Victory
 
-*Territorial Changes:*
 
 

@@ -1,5 +1,5 @@
-[[Grachy]] [[Ukiolla]]
 
+Belligerents:  [[Grachy]] [[Ukiolla]]
 
 *Date: 846 - ongoing
 
@@ -7,8 +7,6 @@
 *Location:* Grachy, Ukiolla, Torn Sea
 
 *Result:* 
-
-*Territorial Changes:*
 
 
 The Great Eastern War is a series of conflicts between the Republic of Grachy (formerly the Kingdom of Halgrach) an the Principality of Ukiolla that has lasted for over 100 years and is still ongoing.

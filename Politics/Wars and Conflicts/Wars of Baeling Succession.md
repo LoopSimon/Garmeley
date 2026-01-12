@@ -1,4 +1,4 @@
-[[Baeling]] [[Juelfluk]]
+Belligerents: Kingdoms of [[Baeling]] and [[Juelfluk]]
 
 *Date:  684PA - ongoing
 
@@ -7,7 +7,6 @@
 
 *Result:*
 
-*Territorial Changes:*
 
 A series of armed conflicts between the Remnants of the Baeling Empire of Trykkerog, the Kingdom of Juelfluk and Baeling.
 
