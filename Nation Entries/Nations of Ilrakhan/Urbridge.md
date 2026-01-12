@@ -1,3 +1,7 @@
+%%
+[[Gethricism]]
+%%
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Lordship of Urbridge</h4>
     <div class="wiki-row">

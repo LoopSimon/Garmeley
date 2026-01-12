@@ -1,6 +1,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Treaty of Kulum</h4>
-    Signatories:
+    <strong>Signatories:</strong>
+	<hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
         The Khat of <a href="Kherova">Kherova</a><br>
         The Patriarch of Kher and Head of <a href="Kethricism">Kethricism</a><br>
