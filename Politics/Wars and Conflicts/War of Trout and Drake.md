@@ -1,4 +1,4 @@
-*Belligerents:  The Kingdoms of Meadrath and Urland
+*Belligerents:  The Kingdoms of  [[Meadrath]] and [[Urland]]
 
 Date: *631PA - 642PA*
 
