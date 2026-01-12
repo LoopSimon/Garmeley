@@ -76,7 +76,7 @@
 
 <h2>People of Interest</h2>
 
- Agnes, first of her name of 
+ Agnes, first of her name of House Redflow
 	 late Duchess of House Garm
 	 
 Coster of House Melmo
