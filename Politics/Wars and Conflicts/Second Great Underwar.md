@@ -1,4 +1,4 @@
-Belligerents:
+Belligerents: [[Avdan-Kol]], [[Elbae]] Sultanate
 
 Date: 540PA - 
 
