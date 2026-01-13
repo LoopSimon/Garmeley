@@ -1,6 +1,6 @@
 Belligerents: [[Urland]] [[Hobgoblin Tribes]]
 
-Date: 681PA -696PA 
+Date: 681PA - 696PA 
 
 Location: Western Urland
 
