@@ -45,4 +45,7 @@ The Kherovan declaration of 471PA, sometimes referred to as the Kherovan Schism,
 The Kherovan denomination is often referred to as [[Kethricism]], and the Prophet Gethric as Kethric.
 
 
+### Liturgy
 
+Among the great number of churches numerous liturgical rites exists which reflect the regional and historical variety within the Gethric Faith.
+The principal Gethric Mass, also known as the the Divine Mass, is the principle Liturgy of the Gethric Church, the kethric Patriarchate has its own rites, while liturgy in the western Trinicist churches vary greatly.
