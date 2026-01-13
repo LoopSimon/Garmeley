@@ -1,4 +1,4 @@
-
+The brightest Star of the Princess-Constellation.
 
 Malham, known as the North Star, sits more or less directly above the Worlds northern Pole along its rotational axis, due to its vicinity to it, it traces a very small circle over a rotation and will always stay roughly in the same place of the sky.
 Therefore it is a reliable way for sailors to find the direction of north.

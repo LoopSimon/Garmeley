@@ -1,0 +1,1 @@
+The brightest star of the Coin-Constellation.
