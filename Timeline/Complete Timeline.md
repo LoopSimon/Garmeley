@@ -51,6 +51,7 @@
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
+            <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
             <div class="timeline-item" data-date="162PA">Kwarzimi of Corbaik creates the Leypoint Model</div>
             <div class="timeline-item" data-date="170PA">Wars of Storm</div>
