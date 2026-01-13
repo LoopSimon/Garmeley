@@ -1,13 +1,13 @@
-[[Dwarf]] [[Underlands]]
+[[Dwarf]] [[Underlands]] [[Kherova]]
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Hold of Xer-Kol</h4>
+    <h4 class="wiki-header">Hold of Daban-Kol</h4>
     <div class="wiki-row">
         <strong>Government:</strong>
         <span>Dwarven Akazate</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Akaz Ziril Oxotor</span>
+        <span>Akaz Nokean Urilin </span>
     </div>
     <div class="wiki-row">
         <strong>Capital:</strong>
@@ -15,19 +15,19 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Rune of Oxotor</span>
+        <span>Rune of Kethric</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Gods of Forge and Fire</span>
+        <span>Kethricism</span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Trollback Dwarven</span>
+        <span>Mistspire Dwarven</span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Trollback Dwarvish</span>
+        <span>Mistspire Dwarvish</span>
     </div>
 </div>

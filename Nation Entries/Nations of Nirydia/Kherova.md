@@ -65,7 +65,9 @@
 <p>The Khat of Kherova has always been a descendant of the legendary Hero Khariel, who slew the Wyrm Thamira and married her half-dragon daughter in the events of the legendary poem, “The fated journey of Khariel”.</p>
 <p>The largest power struggle within the country is that of the Akaz of <a href="Daban-Kol" class="internal-link">Daban-Kol</a> and the Patriarch of Kher, so the conflict at the foot of the Throne between dwarves and Clergy.</p>
 <p>This has stemmed largely from the divide between the fully integrated kheri dwarves of the country, and the more isolated citizens and population of Daban-Kol, especially as the current Patriarch Vitrik I is himself a dwarf who has made no secret of his disapproval of the semi autonomous status of the Hold.</p>
-<p>The largest noble houses of Kherova enjoy an immense amount of power and leeway, namely the of Erbil, Zigrati, Iblisi and Adsali with especially the Zigrati making up the largest opposition to the crown due to a dormant and mostly ignored claim to the Throne itself.</p>
+<p>The greatest noble houses of Kherova enjoy an immense amount of power and leeway, namely the of Erbil, Zigrati, Iblisi and Adsali with especially the Zigrati making up the largest opposition to the crown due to a dormant and mostly ignored claim to the Throne itself.</p>
+
+<p>Sharing their roots as well as close cultural and religious ties with each other, the southern Principality of  [[Azuvke]] has always been the closest ally to the Khatrym and ever since the destruction of Kulum has enjoyed a great influx of trade from Kherova as it is now being used as the Khatrysm greatest Port, at least until New Kulum has been expanded.</p>
 
 <hr class="wiki-hr">
 <h3>History</h3>
