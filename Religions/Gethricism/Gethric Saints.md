@@ -14,7 +14,8 @@
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
-            <p>The Founder of the Faith and Hero of Iztaw, worshiped as the True Prophet and given a higher reverence than even the other saints of the Church.</p>
+            <p>The Founder of the Faith and Hero of Iztaw, worshiped as the True Prophet and given a higher reverence than even the other saints of the Church.
+            Gethric is said to have been born in Wermia, but is often portrayed as a vihri farmer in clerical art. </p>
         </div>
     </div>
     <div class="grid-item-uncentered span-col-2">
@@ -32,7 +33,7 @@
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
-            <p>A friend and companion of Gethric in life, Volboris founded the Iztaw Clergy and the Church as an Institution.</p>
+            <p>A friend and companion of Gethric in life, Volboris founded the Iztaw Clergy and the Church as an Institution. He was the first High-Bishop of the Church and is responsible for the majority of the Divine Liturgy.</p>
         </div>
     </div>
     <div class=grid-item-uncentered>
@@ -149,7 +150,7 @@
         </div>
         <div class=wiki-row>
             <strong>Domains</strong>
-            <span>Earth, Luck, Artifice</span>
+            <span>Earth, Artifice</span>
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
@@ -267,6 +268,42 @@
         <hr class=wiki-hr>
         <div class=wiki-row>
             <p>A Kherovan Hedge-Knight of the mid 5th century, he is the main character in the infamous Kherovan poem “Ralond and Reana”. His pilgrimage and adventure deep into the Kobold ridden lands of Nirydia and the desolation of Thamiras Rest are historical and accounted for in the poem. He despises lies and his silver Rhoka Vulgslasher was said to burn bright when malicious deceit was told around him.</p>
+        </div>
+    </div>
+	    <div class=grid-item-uncentered>
+        <div class=wiki-header>
+            <h4>Igor the Humble</h4>
+        </div>
+        <div class=wiki-row>
+            <strong>Domains</strong>
+            <span>Luck</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
+            <strong>Favoured Weapon</strong>
+            <span>Longspear</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
+            <p>Born the son of  Grachy Farmer, Igor rose to prominence due to his martial exploits fighting against the fae and druids of Ukiolla.</p>
+        </div>
+    </div>
+	    <div class=grid-item-uncentered>
+        <div class=wiki-header>
+            <h4>Palus Gnome-friend</h4>
+        </div>
+        <div class=wiki-row>
+            <strong>Domains</strong>
+            <span>Rune, Erosion</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
+            <strong>Favoured Weapon</strong>
+            <span>Bardiche</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
+            <p>An Urien Scholar and priest that studied with Gnomish communities and spread the Gethric Faith within their culture, especially favoured in the Trinicist Regions.</p>
         </div>
     </div>
 </div>

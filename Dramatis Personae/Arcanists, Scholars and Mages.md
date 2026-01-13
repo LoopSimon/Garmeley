@@ -38,6 +38,13 @@ Even for elven standards this Wizard lived a remarkably long life, dying at the 
 
 Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ***
+### Palus Gnome-Friend
+An Urien Scholar and priest that studied with Gnomish communities, while primarily a theologian interested in the exchange of spiritualism between human and gnomish culture, he opened a wider door for arcanists and academics within their society.
+***
+### Jurahim al Biad
+Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
+
+Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ### **Meynar of Jorrenstead**
 A renowned Garmian Scholar that contributed immensely to the understanding of Proto-Urien and Rakhian Culture and History. 
 Most famous for his 819PA Work "Historiae Uriorum".
