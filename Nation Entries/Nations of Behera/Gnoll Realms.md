@@ -1,3 +1,6 @@
+%%
+[[Gnoll]] [[Kaladi Mysticim]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Gnoll Realms</h4>
     <div class="wiki-row">

@@ -1,3 +1,6 @@
+%%
+[[Starworship]] [[Cyclopi]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jahul Cyclor</h4>
     <div class="wiki-row">

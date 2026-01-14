@@ -1,3 +1,6 @@
+%%
+[[Elven Paragonworship]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elbae Sultanate</h4>
     <div class="wiki-row">

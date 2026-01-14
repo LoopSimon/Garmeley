@@ -1,3 +1,6 @@
+%%
+[[Yari Faith]][[Beastfolk]][[Pravazik]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Great City of Yokosch</h4>
     <div class="wiki-row">
