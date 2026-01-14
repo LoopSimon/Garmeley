@@ -1,3 +1,4 @@
+[[Augurism]]
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
     <div class="wiki-row">
@@ -35,6 +36,6 @@
     </div>
 </div>
 
-<p>Cimfon is a Locni Kingdom that first appeared at the turn of the 5th century, based in western Ilrakhan they have remained isolated and only stand in contact with the Cevoli of [[Jeledo]] and the people of western [[Meadrath]]. </p>
+<p>Cimfon is a Locni Kingdom that first appeared at the turn of the 5th century, based in western Ilrakhan they have remained isolated and only stand in contact with the Cevoli of <a href="Jeledo" class="internal-link">Jeledo</a> and the people of western <a href="Meadrath" class="internal-link">Meadrath</a>. </p>
 <h2>People of Interest</h2>Ednyr, third of his Name of House Prawyl
 	Mael of the Cimfon

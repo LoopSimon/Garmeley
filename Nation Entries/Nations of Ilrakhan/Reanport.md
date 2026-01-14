@@ -1,3 +1,7 @@
+%%
+[[Gethricism]]
+[[Kindly Lords]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Reanport Republic</h4>
     <div class="wiki-row">
@@ -38,6 +42,6 @@
     </div>
 </div>
 
-<p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the [[Treaty of Danipol]] and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus.  </p><h2>People of Interest</h2>
+<p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the <a href="Treaty of Danipol" class="internal-link">Danipol Treaty</a> and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus.  </p><h2>People of Interest</h2>
 Nikisa Sorgo
 	Rector of Reansport

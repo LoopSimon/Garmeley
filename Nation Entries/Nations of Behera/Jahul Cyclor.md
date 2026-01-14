@@ -23,7 +23,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kragi Cyclops (<a href="Spawn of Cyraclion" class="internal-link">Spawn of Cyraclion</a>)</span>
+        <span>Kragi <a href="Cyclopi" class="internal-link">Cyclopi</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -36,7 +36,7 @@
     </div>
 </div>
 
-<p>An ancient people, the mutated ogres of the Kragi are referred to as Cyclopi: taller, smarter and one-eyed compared to their Tallfolk Cousins yes but perhaps more importantly noticeably more keen on civilization building. These mutations are undoubtably a consequence of the close proximity of the Kragi to the ruins of Cyraclion, in perhaps a similar fashion as the Satyr Clans across the Strait of Ithar. <br> They contend themselves with observing the Stars from stone towers, but reports of wars with both Satyr invaders as well as aggressions from the eastward [[Gnoll Realms]] underline their military prowess. </p>
+<p>An ancient people, the mutated <a href="Ogre" class="internal-link">Ogre</a> of the Kragi are referred to as Cyclopi: taller, smarter and one-eyed compared to their Tallfolk Cousins yes but perhaps more importantly noticeably more keen on civilization building. These mutations are undoubtably a consequence of the close proximity of the Kragi to the ruins of Cyraclion, in perhaps a similar fashion as the Satyr Clans across the Strait of Ithar. <br> They contend themselves with observing the Stars from stone towers, but reports of wars with both Satyr invaders as well as aggressions from the eastward <a href="Gnoll Realms" class="internal-link">Gnolls</a> underline their military prowess. </p>
 <h2>People of Interest</h2>
 Yurkym First Seer of Kragi
 	The Lord of the Jahul Cyclor

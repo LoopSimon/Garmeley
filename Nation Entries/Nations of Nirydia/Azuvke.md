@@ -35,7 +35,7 @@
         <span>Kheri city states</span>
     </div>
 </div>
-<p> The Principality of Azuvke is a Kheri realm in the southern party of Western Nirydia, at the delta of the Osmahr River. It represents the last remaining independent city state of the pre-Kherovan age of Cities. The country is closely allied with the Khatrym of  [[Kherova]].</p>
+<p> The Principality of Azuvke is a Kheri realm in the southern party of Western Nirydia, at the delta of the Osmahr River. It represents the last remaining independent city state of the pre-Kherovan age of Cities. The country is closely allied with the <a href="Kherova" class="internal-link">Kherovan Khatrym</a>.</p>
 
 
 ## People of Interest

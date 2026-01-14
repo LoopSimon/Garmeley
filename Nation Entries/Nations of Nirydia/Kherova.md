@@ -36,7 +36,7 @@
     </div>
 </div>
 
-<p>In the far east lie the lands of Kherova around the grand lake Kher. The last bulwark of the so called civilized world, the people of Kherova have long kept to themselves and value tradition, honesty and hard work. An oddity in the grande stage of the Continent, Kherova is the only country in the world where <a href="Human" class="internal-link">humans</a> and <a href="Deepfolk" class="internal-link">dwarves</a> coexist in every place of society in a synallagma that predates most of history.</p>
+<p>In the far east lie the lands of Kherova around the grand lake Kher. The last bulwark of the so called civilized world, the people of Kherova have long kept to themselves and value tradition, honesty and hard work. An oddity in the grande stage of the Continent, Kherova is the only country in the world where <a href="Human" class="internal-link">humans</a> and <a href="dwarf" class="internal-link">dwarves</a> coexist in every place of society in a synallagma that predates most of history.</p>
 
 <hr class="wiki-hr">
 <h3>Geography</h3>

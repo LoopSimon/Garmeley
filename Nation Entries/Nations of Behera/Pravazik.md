@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<p> The Empire of Pravazik is one of the most populated nation states not just in Behera but all of Inara, although in modern days its influence is restricted to West of the Smaragd Sea.<br> Few trade flows out of the Jungle Empire, but reports of[[Orc]]ish and [[Elbae]] Sailors in the mythical Port of Niztapur have reached even the human nations of Ilrakhan. </p>
+<p> The Empire of Pravazik is one of the most populated nation states not just in Behera but all of Inara, although in modern days its influence is restricted to West of the Smaragd Sea.<br> Few trade flows out of the Jungle Empire, but reports of <a href="Orc" class="internal-link">qahori</a> and <a href="Elbae" class="internal-link">elbae</a> Sailors in the mythical Port of Niztapur have reached even the human nations of Ilrakhan. </p>
 <h2>People of Interest</h2>
-Dhukra the Fallen Tear
+Dhukra the Fallen Tear,
 	Ninth Empress of the Pravazik

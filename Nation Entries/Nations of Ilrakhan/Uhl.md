@@ -1,3 +1,6 @@
+%%
+[[Gethricism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Uhl</h4>
     <div class="wiki-row">
@@ -40,7 +43,7 @@
     </div>
 </div>
 
-<p> The Free City of Uhl, once part of the now fallen realm of [[Urland]], is a Trading City on the Gullsong Sea and one of the "three great Ports" alongside Sallesand and Trazlov. </p> 
+<p> The Free City of Uhl, once part of the now fallen realm of <a href="Urland" class="internal-link">Urland</a>, is a Trading City on the Gullsong Sea and one of the "three great Ports" alongside Sallesand and Trazlov. </p> 
 <h2>People of Interest</h2>
 Benedict Beywill
 	Lord-Mayor of Uhl

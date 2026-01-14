@@ -1,3 +1,6 @@
+%%
+[[Trinicism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Blijgrat League</h4>
     <div class="wiki-row">
@@ -35,7 +38,7 @@
         <a href="Weadland" class="internal-link">Kingdom of Weadland</a> 
     </div>
 </div>
-<p> The weadi cities north of the Trinwood have united in a free and liberal Republic, faced with the historic thread of Raiders and Invaders from across the Bloody Sea and the dominant might of the Kingdom of[[Meadrath]], only in unity, with ingenuity, shrewd mercantilism and elegant diplomacy can this League of Cities hope to survive as an autonomous Home for the Weadi peoples.</p>
+<p> The weadi cities north of the Trinwood have united in a free and liberal Republic, faced with the historic thread of Raiders and Invaders from across the Bloody Sea and the dominant might of the Kingdom of <a href="Meadrath" class="internal-link">Meadrath</a> only in unity, with ingenuity, shrewd mercantilism and elegant diplomacy can this League of Cities hope to survive as an autonomous Home for the Weadi peoples.</p>
 
 <h2>People of Interest</h2>
 Jan van de Spiegel

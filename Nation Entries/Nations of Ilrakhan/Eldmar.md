@@ -1,3 +1,6 @@
+%%
+[[Gethricism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Eldmar</h4>
     <div class="wiki-row">
@@ -36,7 +39,7 @@
     </div>
 </div>
 
-<p> One of the petty Kingdoms claiming to be the one true successor of the historical great Realm of [[Urland]], the Domain of Eldmar stretches throughout the Eld Valley, between the Trollback Mountains, the Ironwood and western banks of the Eld River. Historically ruled by the Queens of House Eldmar, they remain the weakest of the Urien minors.</p>
+<p> One of the petty Kingdoms claiming to be the one true successor of the historical great Realm of <a href="Urland" class="internal-link">Urland</a>, the Domain of Eldmar stretches throughout the Eld Valley, between the Trollback Mountains, the Ironwood and western banks of the Eld River. Historically ruled by the Queens of House Eldmar, they remain the weakest of the Urien minors.</p>
 <h2>People of Interest</h2>
 Moira, third of her Name of House Eldmar
 	Queen in Eldmar

@@ -1,3 +1,6 @@
+%%
+[[Trinicism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Paper Cities</h4>
     <div class="wiki-row">
@@ -38,7 +41,7 @@
         </span>
     </div>
 </div>
-<p> See the [[Situation in the Paper Cities]]  </p>
+<p> See the <a href="Situation in the Paper Cities" class="internal-link">Situation in the Paper Cities</a> </p>
 <h2>People of Interest</h2>
 Livius Grimo
 	Lord-Mayor of Albesan, Master-Printer of Albesan
