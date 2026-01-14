@@ -1,3 +1,4 @@
+[[Rakhian Mythology]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Rakhian Empire</h4>
     <div class="wiki-row">

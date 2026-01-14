@@ -1,4 +1,6 @@
-[[Merfolk]] [[Elbae]]
+%%
+[[Qalmyr]] [[Merfolk]] [[Elbae]]
+%%
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Qahori Federation</h4>

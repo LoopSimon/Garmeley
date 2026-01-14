@@ -1,4 +1,4 @@
-[[Dwarf]] [[Underlands]]
+[[Dwarf]] [[Underlands]] [[Gods of Forge and Fire]]
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Ogul-Vosko</h4>

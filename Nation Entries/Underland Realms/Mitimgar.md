@@ -1,4 +1,4 @@
-[[Underlands]]
+[[Underlands]] [[Goblin Mysticism]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hive City of Mitimgar</h4>
     <div class="wiki-row">

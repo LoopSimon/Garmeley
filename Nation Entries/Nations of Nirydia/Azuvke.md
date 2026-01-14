@@ -1,3 +1,6 @@
+%%
+[[Kethricism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Principality of Azuvke</h4>
     <div class="wiki-row">

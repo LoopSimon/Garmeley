@@ -1,3 +1,6 @@
+%%
+[[Gethricism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jueli Kingdom</h4>
     <div class="wiki-row">

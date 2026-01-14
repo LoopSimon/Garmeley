@@ -1,4 +1,4 @@
-[[Dwarf]] [[Underlands]] [[Kherova]]
+[[Dwarf]] [[Underlands]] [[Kherova]] [[Kethricism]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Daban-Kol</h4>
     <div class="wiki-row">
