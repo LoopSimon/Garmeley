@@ -66,9 +66,22 @@ The mighty Diedrick would rule Gisvale until his death when his son Ringil, who 
 Tibors son, a boy called Gismar, now grown up and with children of his own, had spend the last 2 decades rallying loyalists and allies to his banner and would now, with the Lord of Korsfall at his side, dare to make a bid for the Throne in Giselstatt.
 The following conflict is known to history as <a href="War of Trout and Drake" class="internal-link">The War of Trout and Drake</a> and last for over three decades. At its end, Giselstatt was conquered, the line of Diedrik extinguished and the Dragon Banner of Gismar raised in supreme victory, but not without its costs. Tens of thousands had died and the vast majority of the rich farmlands and fields of the Gisvale been devastated, Gismar himself as well as his sons had died in battle and only his daughter Liara remained.</p>
 <p>And so it was that on the even of Fall, in 664PA, Liara of the House of Gismar would marry Gunther of the House of Kor, the Lord of Korsfall and her fathers strongest supporter.
-Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. To cement the Union of the two realms their firstborn son, Giselher would be crowned as the first King of Meadrath, the unified Lands of his ancestors.</p>
+Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. To cement the Union of the two realms their firstborn son, Gildher would be crowned as the first King of Meadrath, the unified Lands of his ancestors.</p>
+<h3>Gisela I & the Rise of Trinicism</h3>
+<p>In the year 704PA, Gisela of House Kor would be crowned Queen Gisela I of Meadrath, after the death of her father, Gildher II. Her reign lasted for over 68 years and usher in an age of prosperity and progress for the meadi people that would leave the Kingdom as one of the premier powers of the Inaran continent. During her formative years as a young monarch, Gisela succesfully confronted rebellious vassals and was guided by her mother, the late Queen-Mother Margaret of Jera.</p>
+<p>Gisela instigated significant reforms in the meadi legal system, creating a royal judiciary and institutions of appeal to the court directly, while abolishing trials by ordeal, to institute her new legal reforms and administer the country more effectively, she established the office of the bailiff.
+Giselas expanded upon the work of her father and grandfather and would further sponsor and expand the  <a href="Korsfall College" class="internal-link">College at Korsfall</a> and earn a reputation as a fair, judicious and scholarly Ruler across Ilrakhan.
+</p>
+<p>A few years after the outbreak of <a href="Wars of Elbae Aggression" class="internal-link">first Elbae War</a> the High-Bishop of <a href="Church of Iztaw" class="internal-link">Iztaw</a> woudl declare the Gethric Progroms, a series of mandates to banish and persecute elves and half-elves across all lands of the devout. This would cause great uproar within many regional Churches, especially around northern Urland and in the western regions of Meadrath and Cevolis where the Clergy of Iztaw had long been viewed as either corrupt politicians or petty servants of the Kings of <a href="Vihr" class="internal-link">Vihr</a>. In response to the Bull, many Bishops of the Church would gather at Trinfurt in 764 PA and debate for months the divine justice of not only such a progrom but also the role of the bishop, the view on the arcane and divine and the Hierarchy within the clergy.
+When Knights of the <a href="The Order of the Silver Wheel" class="internal-link">Order of the Silver Wheel</a> would attempts to forcefully disband the Gathering, Gisela supported local guards and adventurers that defended the priests successfully. The Great Schism between the east and the west that would occur and later lead to the Trinicist denomination of Gethric belief is a direct consequence of the Conclave.<p>
 
-<p> </p>
+<h3>The Meadi Empire</h3>
+In the later years of the 9th century, Meadraths influence had only grown and it was now considered one of the "Great Three Powers" alongside the beheran Sultantate and the Vihri Kingdom. 
+The late Queen Gisela IV, of the Kor Junior Branch of Orvan, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 895PA.
+While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Sallesand, Blijgrat, the Halfling Freelands and various other nominally fully independent nations.
+
+
+
 
 <h2>People of Interest</h2>
 

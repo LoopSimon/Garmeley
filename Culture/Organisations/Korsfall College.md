@@ -3,7 +3,7 @@
 Introduction
 
 The Korsfall College of Astronomy and Magicks is the largest place of academic research and education into Arcane and Divine Magic, and home to the great Wulfrick-Observatory.
-The current Dean of Korsfall College is the Half-Elf Thomar of Whisperhill.
+The current Dean of Korsfall College is the Half-Elf Thomar of Whisperhill, it was founded in the year 556PA.
 
 Despite these somewhat harsh practices, the College is an Institution of great renown and respect far beyond the borders of Meadrath, Alumni are sometimes sent to the courts of nobility in advisory positions, primarily in the lands of Battvia, Garmeley, Hainach, Urland.
 
