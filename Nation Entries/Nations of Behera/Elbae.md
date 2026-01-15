@@ -38,7 +38,7 @@
         <span>Elven Dynasties</span>
     </div>
 </div>
-<p>The Elbae Sultanate, named after the ruling Dynasty is the largest elven Realm in the World, controlling the vast majority of Il-Haena, most of the eastern Coast of Behera and the Drow  <a href="Underlands" class="internal-link">Underlands</a> directly, as well as exerting significant political influence throughout its subjects, like the Tributary of <a href="Hainach" class="internal-link">Hainach</a> or the <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a> Emirate. Its past has been marked by imperialist ambitions across Behera, Ilrakhan and Nirydia.</p>
+<p>The Elbae Sultanate, named after the ruling Dynasty is the largest elven Realm in the World, controlling the vast majority of Il-Haena, most of the eastern Coast of Behera and the Drow  <a href="Underlands" class="internal-link">Underlands</a> directly, as well as exerting significant political influence throughout its subjects, like the Tributary of <a href="Hainach" class="internal-link">Hainach</a> or the <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a> Emirate. Its past has been marked by imperialist ambitions across Behera, Ilrakhan and Nirydia. The capital of the Sultanate, Jiravid, is one of the largest cities in the known world with a population of ca 140.000 citizens.</p>
 
 <h2>Economy</h2>
 <p> The basis of the Elbae Sultanates economy is founded in mercantilism theory, stressing maximizing the trade inside the large country and trying to weaken international rivals, this basic mercantilist Theory was also largely imposed upon the Sultanates colonies.</p>

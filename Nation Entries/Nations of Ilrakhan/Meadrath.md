@@ -39,7 +39,8 @@
     </div>
 </div>
 
-<p> Dominated by two mighty Rivers, the Mead in the west and the Trinmo to the east, the lands of the Meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world.</p>
+<p> Dominated by two mighty Rivers, the Mead in the west and the Trinmo to the east, the lands of the Meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world. The capital of Meadrath, Korsfall, is one of the largest cities in the known world with a population of ca 110.000 citizens.</p>
+
 <h2>Geography</h2>
 <p> Most of Meadrath lies in the North-Ilrakhani Plain, with flat terrain crossed by watercourses such as the Trinmo and Mead, wetlands and marshy conditions are found close to the with <a href="Blijgrat" class="internal-link">Blijgrat</a> and along the Bloody Coast. </p>
 <h2>Demographics</h2>

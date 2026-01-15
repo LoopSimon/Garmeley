@@ -73,6 +73,7 @@
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
+            <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
             <div class="timeline-item" data-date="360PA">Giants retreat beyond Waelajokull</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>

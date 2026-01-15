@@ -41,7 +41,7 @@
         </span>
     </div>
 </div>
-<p> See the <a href="Situation in the Paper Cities" class="internal-link">Situation in the Paper Cities</a> </p>
+<p> See the <a href="Situation in the Paper Cities" class="internal-link">Situation in the Paper Cities</a> The city of Albesan is one of the largest cities in the known world with a population of ca 110.000 citizens.</p>
 <h2>People of Interest</h2>
 Livius Grimo
 	Lord-Mayor of Albesan, Master-Printer of Albesan
