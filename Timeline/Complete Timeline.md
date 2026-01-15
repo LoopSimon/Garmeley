@@ -168,9 +168,11 @@
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
             <div class="timeline-item" data-date="870PA">Pavo of Alban erects his Tower</div>
+            <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
+            <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
             <div class="timeline-item" data-date="895PA">Odrick von Fulmer is elected High-Chancellor of Meadrath</div>
         </div>
     </div>
