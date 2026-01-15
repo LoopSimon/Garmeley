@@ -54,6 +54,20 @@ The so called "Meadi Empire" as it is referred to colloquially, describes the va
 
 
 <h2>History</h2>
+
+<h3>Gisvale & Korsfall</h3>
+<p>The History of the meadi after the fall of the <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a> in 260PA is one of two kingdoms.
+The Kingdom of Gisvale was formed by Ardol I of House of Gismar, a descendant of the legendary hero Gismar that was said to have slain the Black <a href="Dragon" class="internal-link">Dragon Heximar.</a> The Kings of the Gisvale ruled from Giselstatt along the mighty Trinmo and were known for their close cultural association to northern  Urland, most prominently shown in their worship of the <a href="Turvik Paganism" class="internal-link">Turvik Gods.</a> Even in the days before the Fall of the Auguri, this difference in faith clearly differentiated the people of the Gisvale from their meadi and weadi cousins.</p>
+<p>Unlike Gisvale, the Realm of Korsfall was very much a direct continuation of the Auguri Dominion. The earliest known record of a "Lord of all Meadi in Korsfall" is the figure of Torvald the Tall, an Auguri general that likely took power soon after 260PA and most of this early history of Korsfall describes their repeated conflicts and wars with the eastern people of the Locni Valley. The people of Korsfall very much continued the Auguri traditions, such as their reverence for medicae, scholars and mages, but of course no longer practiced religious rites as the Arrival of Gethricism had played a large part in the fall of the Dominion.</p>
+
+<h3>The Fall and Rise of the House of Gismar</h3>
+<p>At the dusk of the 6th century Tibor II, the then King of Gisvale, was betrayed and supplanted by Diedrik of Meadland, the Lord of Wormill, Tibors children would flee first to Weadland but be rejected in fear of war by the King of Schipwig and only found refuge at Korsfall Keep.
+The mighty Diedrick would rule Gisvale until his death when his son Ringil, who had married an urien Princess would succeed him in 622PA. 
+Tibors son, a boy called Gismar, now grown up and with children of his own, had spend the last 2 decades rallying loyalists and allies to his banner and would now, with the Lord of Korsfall at his side, dare to make a bid for the Throne in Giselstatt.
+The following conflict is known to history as <a href="War of Trout and Drake" class="internal-link">The War of Trout and Drake</a> and last for over three decades. At its end, Giselstatt was conquered, the line of Diedrik extinguished and the Dragon Banner of Gismar raised in supreme victory, but not without its costs. Tens of thousands had died and the vast majority of the rich farmlands and fields of the Gisvale been devastated, Gismar himself as well as his sons had died in battle and only his daughter Liara remained.</p>
+<p>And so it was that on the even of Fall, in 664PA, Liara of the House of Gismar would marry Gunther of the House of Kor, the Lord of Korsfall and her fathers strongest supporter.
+Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. To cement the Union of the two realms their firstborn son, Giselher would be crowned as the first King of Meadrath, the unified Lands of his ancestors.</p>
+
 <p> </p>
 
 <h2>People of Interest</h2>

@@ -48,6 +48,7 @@
 [[Jeledo]]
 %%
 <h2>People of Interest</h2>
+
 Canto, first of his Name of House di Battvia
 	Prince of Battvia
 

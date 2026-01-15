@@ -39,5 +39,6 @@
     </div>
 </div>
 <p>The Elbae Sultanate, named after the ruling Dynasty is the largest elven Realm in the World, controlling the vast majority of Il-Haena, most of the eastern Coast of Behera and the Drow  <a href="Underlands" class="internal-link">Underlands</a> directly, as well as exerting significant political influence throughout its subjects, like the Tributary of <a href="Hainach" class="internal-link">Hainach</a> or the <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a> Emirate. Its past has been marked by imperialist ambitions across Behera, Ilrakhan and Nirydia.</p>
-<h2>People of Interest</h2>Fasmer Elbae, 2nd of his name.
+<h2>People of Interest</h2>
+Fasmer Elbae, 2nd of his name.
 	Sultan of the Elbae Sultanate

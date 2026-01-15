@@ -41,5 +41,6 @@
 
 <p> Once part of the <a href="Pravazik" class="internal-link">Pravazik</a> Empire , the great Tazamosch led his people to independence in the year 687PA. Almost exclusively populated by the simian Vanara, they fervently worship the Yari Goddess Ihisa and believe she shall one day awaken and lift their holy city into the next world. Yokosch has been invaded multiple times by the <a href="Gnoll Realms" class="internal-link">Gnolls</a>to its north but remains unbroken to this day.</p>
 <h2>People of Interest</h2>
+
 The Fifteenth
 	The 14th sucessor of the Tazamosh of Yokosch

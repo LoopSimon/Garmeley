@@ -4,7 +4,7 @@ A list of known Dragons
 ***Heximar***
 	known as "the Unlit" due to his black scales, descended the central Kortopi's in the late 3rd century BA. 
 	After devastating the Meadi Highlands, modern day [[Meadrath]], he was supposedly slain by the Hero Gismar, 
-	founder of the House of Gis that would continue to rule the Gisvale for centuries.
+	founder of the House of Gismar that would continue to rule the Gisvale for centuries.
 
 ***Fagnir***
 	mythical Dragon of [[Trykkerog]] mentioned in the Saga of Ylva.

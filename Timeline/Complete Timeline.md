@@ -10,7 +10,7 @@
             <div class="timeline-item" data-date="970BA">Destruction of the Jiravid Dynasty</div>
             <div class="timeline-item" data-date="965PA">First records of Palmunian Cities east of the Cloudscratchers</div>
             <div class="timeline-item" data-date="956BA">Rise of the Alparid Dynasty</div>
-            <div class="timeline-item" data-date="885BA">The Founding of Kher</div>
+            <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
             <div class="timeline-item" data-date="602BA">Veilcurse is seen for the first time</div>
@@ -62,7 +62,7 @@
             <div class="timeline-item" data-date="236PA">2nd Wermian Incursion</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
-            <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion</div>
+            <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
             <div class="timeline-item" data-date="276PA">Heximar the Unlit is slain by Gismar</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
@@ -98,6 +98,7 @@
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
+            <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -122,9 +123,9 @@
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris founds the Princedom of Hainach</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
-            <div class="timeline-item" data-date="664PA">Coronation of Gildher I and Unification of Meadrath</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
+            <div class="timeline-item" data-date="674PA">Coronation of Gildher I and Unification of Meadrath</div>
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="681PA">Hobgoblin Invasion</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>

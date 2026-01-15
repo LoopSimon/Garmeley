@@ -1,5 +1,5 @@
 The Cousins and close relatives of Dwarves, Gnomefolk dislike the underground and prefer to live under the sun and moon of the world instead.  
-As opposed to their dwarvish relatives, they can barely grow a beard and are even smaller at an average 4ft. While reaching the same lifespan of about 150 years.
+As opposed to their [[Dwarf]] relatives, they can barely grow a beard and are even smaller at an average 4ft. While reaching the same lifespan of about 150 years.
 
 Outside of the City of Ott, there are almost no larger settlements of just gnomes, who instead prefer to found families in the communities of elves and humans, often seen in Gnomish Ghettos in the larger Metropolis of the world.
 

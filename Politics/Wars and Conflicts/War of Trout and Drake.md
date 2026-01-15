@@ -1,6 +1,6 @@
 *Belligerents:  The Kingdoms of  [[Meadrath]] and [[Urland]]
 
-Date: *631PA - 642PA*
+Date: *631PA - 664PA*
 
 
 *Location:* Gisvale, Northern Urland

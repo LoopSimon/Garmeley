@@ -83,6 +83,7 @@
 <p>With the end of the House of Szinmo, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir III of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
 
 <h2>People of Interest</h2>
+
 Misklomir, third of his Name of House Ralpia
 	King of Vihr
 	

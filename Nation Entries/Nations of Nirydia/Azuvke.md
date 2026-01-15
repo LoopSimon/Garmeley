@@ -41,7 +41,7 @@
 <p> The Principality of Azuvke is a Kheri realm in the southern party of Western Nirydia, at the delta of the Osmahr River. It represents the last remaining independent city state of the pre-Kherovan age of Cities. The country is closely allied with the <a href="Kherova" class="internal-link">Kherovan Khatrym</a>.</p>
 
 
-## People of Interest
+<h2>People of Interest</h2>
 
 Asan, first of his Name of House Tzilagon
 	Prince of Azuvke 

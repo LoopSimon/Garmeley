@@ -42,5 +42,6 @@
 <p> In Gelmsburg, the old Capital of [<a href="Urland" class="internal-link">Urland</a>, rule the Gelmish Kings, at least militarily speaking the most powerful of the petty Kings and Queens of the Urien successor states. Gelmsburg stretches from Turv and the Urhills in the North all the way to the Redwood in the south, encompassing the Gelmsgrove and most of the Field of Tears as well. Together with the southern Knights of <a href="Urbridge" class="internal-link">Urbridge</a> it represents the main bulwark against the warring <a href="Hobgoblin Tribes" class="internal-link">Hobgoblins</a> east of the Trinmo. </p>
 
 <h2>People of Interest</h2>
+
 Klovis, first of his name of House Gelm
 	King in Gelmsburg

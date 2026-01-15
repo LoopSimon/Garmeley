@@ -43,6 +43,7 @@
 </div>
 <p> Nestled against the slopes of the Cloudscratchers lies the Princedom of Hainach, one of the last remnants of what was once the old Kingdom of <a href="Rean" class="internal-link">Rean</a>. Now a tributary of the Sultanate and forced to open its gates to elven influences, a surprising upswing within the border realm has taken place and the Princedom is now the only settled nation actively attempting to reclaim parts of the Wasteland of <a href="Rakh" class="internal-link">Rakh</a>. </p>
 <h2>People of Interest</h2>
+
 Miriam, 2nd of her Name of House Pikris
 	Prince of Hainach
 	
