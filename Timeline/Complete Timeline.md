@@ -131,6 +131,7 @@
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
+            <div class="timeline-item" data-date="691PA">Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
