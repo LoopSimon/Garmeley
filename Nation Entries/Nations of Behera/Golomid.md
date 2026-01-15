@@ -27,7 +27,7 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Seatongue</span>
+        <span>Mertongue</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
