@@ -134,6 +134,9 @@
 			<h4>Locni</h4>
 				<p>Spoken by the Locni peoples west of the Lowstep Hills <p>
 			</div>
+			<h4>Yorgosi</h4>
+				<p>Spoken by the Yorgosi of West Behera, south of Almadus <p>
+			</div>
 		</div>
 	</div>
 	<div class="grid-item span-col-2">
