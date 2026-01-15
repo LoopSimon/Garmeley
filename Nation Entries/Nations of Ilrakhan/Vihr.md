@@ -52,6 +52,10 @@
 <p>Vihr is the largest nation on <a href="Ilrakhan" class="internal-link">Ilrakhan</a>, as far as population is concerned, and primarily made up of a Vihri <a href="Human" class="internal-link">Human</a> Majority, with <a href="Wermia" class="internal-link">Wermian</a>, <a href="Rean" class="internal-link">Reani</a> and <a href="Grachy" class="internal-link">Grachi</a> Human making up sizeable minorities and are higher than usual population of <a href="Deepfolk" class="internal-link">Dwarves</a> within the settlements bordering the friendly Holds of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a> and <a href="Xer-Kol" class="internal-link">Xer-Kol</a>.</p>
 <p>Gnomish and Halfling minorities are present but rare within the country.</p>
 <p>There are almost no <a href="Elf" class="internal-link">elven</a> or half-elven citizens present within the Kingdom, largely due to the Gethric Progoms of the 9th century.</p>
+<h2>Economy</h2>
+<p>The economy in Vihr is still fundamentally agricultural, institutions such as serfdom were superimposed during the Silver Age on an existing system of open fields and mature, well-established towns involved in international trade, over the following centuries, the vihri economy kept growing but underwent large changes concerning economic dislocation in urban and extraction economies, such as the birth of the Silverslach Trade.
+By the end of the 7th century Vihr had an economy dominated by rented farms and a thriving community of guilds, merchants and smaller companies controlled by the gentry and burgers.</p>
+<p>Trazlov in northern Vihr is home to the Headquarters of the <a href="The Alchemists Guild" class="internal-link">Men of Glass</a>, the international Guild of Alchemists, and one of the "three great Ports" alongside Sallesand and Uhl. </p>
 
 <hr class="wiki-hr">
 <h2>Religion</h2>

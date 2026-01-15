@@ -44,7 +44,8 @@
 <p> Most of Meadrath lies in the North-Ilrakhani Plain, with flat terrain crossed by watercourses such as the Trinmo and Mead, wetlands and marshy conditions are found close to the with <a href="Blijgrat" class="internal-link">Blijgrat</a> and along the Bloody Coast. </p>
 <h2>Demographics</h2>
 <p>The Majority population in Meadrath is made up of Meadi and Weadi human, with Urien Human, Half-elfs, Gnomes and Halflings making up the largest minorities. While some Trykkerogi have settled and assimilated in the northern coastal towns, they remain a small minority. <br> The traditionally lax and welcoming attitude of the Meadi Kings and Queens, in combination with the stellar reputation of the <a href="Korsfall College" class="internal-link">Korsfall College</a>, has lead to a larger than average percentage of Arcane practitioners in Meadrath, rivaled essentially only by the <a href="Elbae" class="internal-link">Elbae Sultanate.</a> </p>
-
+<h2>Economy</h2>
+<p></p>
 <h2>Religion</h2>
 <small><i>see <a href="Trinicism" class="internal-link">Trinicism</a></i></small>
 <p>The vast majority of the population follows the decentralized and diverse local Churches of the Trinicist Faith, strongest in the Lands around the Trinmo and Gisvale, for it was at Trinfurt on the western border of the Kingdom that the Great Schism between the Gethric and Trinicist Church occurred at the end of the 6th century. <br> Further west, small communities and specific social demographics in the larger cities still practice <a href="Augurism" class="internal-link">Augurism</a> while almost no remnants of pre-Gethric belief such as <a href="Turvik Paganism" class="internal-link">Turvik Cults</a> can be found east of Korsfall.</p>
