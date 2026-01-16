@@ -56,7 +56,12 @@ On the flipside, many beaver and bear pelts of great refine are exported alongsi
 Nevertheless, the land provides for the pehki and sevhki that care for it, as Ukiolla is perhaps the only country in the known world where the relationship between state and clergy, or in this case the druidic circles of <a href="Aeldcult" class="internal-link">the Aeldcult</a>, has resulted in a real positive for the agricultural economy of the country: famines are almost non existent within Ukiolla, the lands around the Asza are unnaturally fertile and warm, especially for the climate, and the animals are fertile and healthy. 
 <h2>Religion</h2>
 <small><i>see <a href="Aeldcult" class="internal-link">the Aeldcult</a></i></small>
+Initial attempts of converting the Pehki and Sevhki peoples to Gethricism in the 4th century failed quickly due to the deep roots of the Aeldcult within the smallest social structures of the tribes and later wars with the predominantly Gethric Grachi only proofed to bolster the internal resistance against this foreign faith, which became unanimous with the symbol fo the southern invaders that had taken the land of the pehki.
+The first druid of the Aeld, is a position that is almost as influential as the Prince within the greater cultural context of Ukiolla and she is traditionally married to the Halontsaari monarch, giving him legitimacy among his people and reinforcing the "Great Promise", the task to protect the lands of the Eldveil from southern heathens.
+
+
 <h2>Politics</h2>
+<p><p>
 <h2>History</h2>
 <h2>People of Interest</h2>
 
