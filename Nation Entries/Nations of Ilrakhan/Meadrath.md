@@ -71,8 +71,8 @@ The Kingdom of Gisvale was formed by Ardol I of House of Gismar, a descendant of
 <h3>The Fall and Rise of the House of Gismar</h3>
 <p>At the dusk of the 6th century Tibor II, the then King of Gisvale, was betrayed and supplanted by Diedrik of Meadland, the Lord of Wormill, Tibors children would flee first to Weadland but be rejected in fear of war by the King of Schipwig and only found refuge at Korsfall Keep.
 The mighty Diedrick would rule Gisvale until his death when his son Ringil, who had married an urien Princess would succeed him in 622PA. 
-Tibors son, a boy called Gismar, now grown up and with children of his own, had spend the last 2 decades rallying loyalists and allies to his banner and would now, with the Lord of Korsfall at his side, dare to make a bid for the Throne in Giselstatt.
-The following conflict is known to history as <a href="War of Trout and Drake" class="internal-link">The War of Trout and Drake</a> and last for over three decades. At its end, Giselstatt was conquered, the line of Diedrik extinguished and the Dragon Banner of Gismar raised in supreme victory, but not without its costs. Tens of thousands had died and the vast majority of the rich farmlands and fields of the Gisvale been devastated, Gismar himself as well as his sons had died in battle and only his daughter Liara remained.</p>
+Tibors son, a boy called Giselher, now grown up and with children of his own, had spend the last 2 decades rallying loyalists and allies to his banner and would now, with the Lord of Korsfall at his side, dare to make a bid for the Throne in Giselstatt.
+The following conflict is known to history as <a href="War of Trout and Drake" class="internal-link">The War of Trout and Drake</a> and last for over three decades. At its end, Giselstatt was conquered, the line of Diedrik extinguished and the Dragon Banner of Gismar raised in supreme victory, but not without its costs. Tens of thousands had died and the vast majority of the rich farmlands and fields of the Gisvale been devastated, Giselher himself as well as his sons had died in battle and only his daughter Liara remained.</p>
 <p>And so it was that on the even of Fall, in 664PA, Liara of the House of Gismar would marry Gunther of the House of Kor, the Lord of Korsfall and her fathers strongest supporter.
 Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. To cement the Union of the two realms their firstborn son, Gildher would be crowned as the first King of Meadrath, the unified Lands of his ancestors.</p>
 <h3>Gisela I & the Rise of Trinicism</h3>
@@ -91,7 +91,9 @@ While on paper a merely internal body of administration and efficiency, in essen
 
 
 
-<h2>People of Interest</h2>
+<h1>People of Interest</h1>
+
+<h3>Modern Day</h3>
 
 Gisela, fifth of her name of House Orvan
 	Queen of Meadrath
@@ -110,3 +112,38 @@ Kasper von Kran
 	
 Pavo of Alban
 	Archmage of Alban Tower
+
+<h3>Historic</h3>
+Gismar the Hero
+	Mythical Hero of Gisvale, Slayer of Heximar the Unlit
+
+Ardol I of Gismar
+	First King of Gisvale
+
+Torvald the Tall
+	General of the Auguri, first Lord of Korsfall
+
+Diedrick "the Usurper" of Meadland
+	King of Gisvale
+
+Ringil I of Meadland
+	King of Gisvale, son of Diedrick during the War of Trout and Drake
+
+Tibor II "the Feeble" of Gismar
+	King of Gisvale in the late 6th century
+
+Giselher "the uncrowned" of Gismar
+	Son of Tibor, Prince of Giselstatt during the War of Trout and Drake
+
+Liara I of Gismar
+	Daughter of Tibor, last Queen of Gisvale 
+
+Gunther II of Kor
+	King of Korsfall during the War of Trout and Drake
+
+Gildher I of Kor
+	Son if Gunther II of Kor and Liara I of Gismar,
+	First King of Meadrath
+	
+Gisela "the good" II of Kor
+	Queen of Meadrath during the first half of the 8th century
