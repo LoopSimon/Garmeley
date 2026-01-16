@@ -57,6 +57,10 @@
 By the end of the 7th century Vihr had an economy dominated by rented farms and a thriving community of guilds, merchants and smaller companies controlled by the gentry and burgers.</p>
 <p>Trazlov in northern Vihr is home to the Headquarters of the <a href="The Alchemists Guild" class="internal-link">Men of Glass</a>, the international Guild of Alchemists, and one of the "three great Ports" alongside Sallesand and Uhl. </p>
 
+<p>A major factor in the rise of the merchant class in Vihr, is the labour shortage caused by the Wolfsplague of the early 910s. The drastic reduction in the peasant population meant that surviving peasants could demand higher wages from nobles and royals. This shift in labour supply and demand dynamics provides more opportunities for merchants and trades in the gethric kingdom to succeed.</p>
+
+<p>As the merchant class in Vihr gains prominence, the wealth gap between different social classes also begins to narrow; this shift reshaped the social and economic landscapes of modern Vihr, allowing for a more dynamic and fluid society. The rise of the burgher class during this period not only changed the way people worked and traded but also had a profound impact on the overall structure of all eastern Ilrakhan.</p>
+
 <hr class="wiki-hr">
 <h2>Religion</h2>
 <small><i>see <a href="Gethricism" class="internal-link">Gethricism</a></i></small>
