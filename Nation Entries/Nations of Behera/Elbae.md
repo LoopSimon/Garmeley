@@ -1,5 +1,6 @@
 %%
 [[Elven Paragonworship]]
+[[Rulers of the Beheran Elves]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elbae Sultanate</h4>
@@ -46,6 +47,13 @@
 <p>Exports increased significantly during the Modern Age, especially within the Elbae Sphere of influence, mostly privately owned companies traded with the colonies in Il-Haena, Nirydia and southern Behera.  The <a href="Grand Ziflis Company" class="internal-link">Grand Ziflix Company</a>, brought together the Sultanates leading overseas merchants in a regulated company during the middle 8th century in the nature of a guild. Its members main business was the export of cloth, and the import of a large range of foreign exotic goods. To increase beheran merchants involvement involvement in elbae trade, in 876PA a trade agreement was signed in Jiravid between the Sultanate and the <a href="Yorgos" class="internal-link">Yorgosi Marival</a>, Yorgosi merchants received privileges to carry out commercial activities within the sultanate, which in turn gained easier access to exotic beheran goods and their large gold exports.</p>
 
 <p>The 10th century is shaping up to be a prosperous one for the elven State, as entrepreneurs extend the range of their business around the globe, the Headmaster of the Grand Ziflis Company Usval al Hamon had boasted about it "We are the most naturally diligent nation in the world, Vast trade, mighty wealth, rich manufactures and universal correspondence have been constant companions of Elbaes industrious citizens!" </p>
+<h1>History</h1>
+<h3>The Rise of Elbae</h3>
+<h3>The Rise of Elbae</h3>
+<h3>Lizun the Fair & the Paragon cult</h3>
+<h3>The Conquest of Il-Haena</h3>
+<h3>Arbalas Wars</h3>
+<h3>The Modern Sultanate</h3>
 <h2>People of Interest</h2>
 Fasmer Elbae, 2nd of his name.
 

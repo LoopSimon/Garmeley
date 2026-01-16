@@ -5,23 +5,24 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Antiquity (largely approximated)</h3>
         <div class="timeline-list">
-            <div class="timeline-item" data-date="1660BA">Jir unites the Tomb Cities of Behera</div>
+            <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
-            <div class="timeline-item" data-date="970BA">Destruction of the Jiravid Dynasty</div>
+            <div class="timeline-item" data-date="1170BA">Destruction of the Jiravid Dynasty</div>
+            <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="965PA">First records of Palmunian Cities east of the Cloudscratchers</div>
-            <div class="timeline-item" data-date="956BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
-            <div class="timeline-item" data-date="602BA">Veilcurse is seen for the first time</div>
-            <div class="timeline-item" data-date="570BA">End of the Alparid Dynasty</div>
-            <div class="timeline-item" data-date="568BA">Rise of the Menter Dynasty</div>
+            <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
+            <div class="timeline-item" data-date="621BA">End of the Alparid Dynasty</div>
+            <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
+            <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
+            <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="282BA">Rise of the Cyclopi</div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
-            <div class="timeline-item" data-date="268BA">Beginning of the Menter Dynasty</div>
-            <div class="timeline-item" data-date="255BA">Menter Wars of Conquest begin</div>
+            <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
             <div class="timeline-item" data-date="151BA">Battle of Alma-Naxis</div>
@@ -36,7 +37,7 @@
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Gnolls at Mogoris</div>
             <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka</div>
-            <div class="timeline-item" data-date="0PA">End of the Empire of Rahk and Dissolution of the Menter Dynasty</div>
+            <div class="timeline-item" data-date="0PA">End of the Empire of Rahk and Dissolution of the Meter Dynasty</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -110,7 +111,7 @@
             <div class="timeline-item" data-date="587PA">Destruction of Alahmud</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Meadland becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
-            <div class="timeline-item" data-date="800PA">First mention of the Kingdom of Cimfon</div>
+            <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
