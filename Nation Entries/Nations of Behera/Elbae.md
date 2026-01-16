@@ -48,6 +48,7 @@
 
 <p>The 10th century is shaping up to be a prosperous one for the elven State, as entrepreneurs extend the range of their business around the globe, the Headmaster of the Grand Ziflis Company Usval al Hamon had boasted about it "We are the most naturally diligent nation in the world, Vast trade, mighty wealth, rich manufactures and universal correspondence have been constant companions of Elbaes industrious citizens!" </p>
 <h1>History</h1>
+<small><i>see <a href="Rulers of the Beheran Elves" class="internal-link">Rulers of the Beheran Elves</a></i></small>
 <h3>The Rise of Elbae</h3>
 <h3>The Rise of Elbae</h3>
 <h3>Lizun the Fair & the Paragon cult</h3>
