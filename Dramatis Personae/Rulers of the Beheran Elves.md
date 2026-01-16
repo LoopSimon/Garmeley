@@ -1,3 +1,6 @@
+<p>Epitaths of the individual Rulers are not included in this list.</p>
+<p>This list accounts for the honorary year of mourning as the last year of the previous rulers reign </p>
+
 <h3>The Jiravid Dynasty</h3>
 <small>1760BA - 1170BA<small>
 <p>Jir I, 1760BA - 1629BA</p>
