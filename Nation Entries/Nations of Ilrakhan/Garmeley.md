@@ -61,7 +61,7 @@
 
 <hr class="wiki-hr">
 <h3>Demographics</h3>
-<p>The population is estimated at <b>2.4 million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (31k). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly 29k citizens and remains under Garmian protection.</p>
+<p>The population is estimated at <b>million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly  citizens and remains under Garmian protection.</p> 
 
 <ul>
     <li><b>Humans:</b> Garmian majority, with Urian and Hainachi minorities.</li>
