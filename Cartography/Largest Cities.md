@@ -18,9 +18,9 @@ Albesan: 90000
 
 Battvia: 100000
 
-Trazlov: 60000
+Trazlov: 70000
 
-Halgrach: 70000
+Halgrach: 75000
 
 Meterzand: 30000
 

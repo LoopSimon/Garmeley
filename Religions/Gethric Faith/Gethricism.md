@@ -1,5 +1,8 @@
 [[Kethricism]] [[Trinicism]]
 
+The dominant Faith in Ilrakhan, Gethricist Practice is founded on the writings of Gethric's Companions, the Church fathers, of whom some are revered as Saints. It is split into three major denominations, Gethricism, also known as High-Gethricism, [[Kethricism]] and [[Trinicism]].
+Important Holidays include the Silver Procession, a week of celebrations held in the first month of the year and the Day of the Prophet, which is celebrated at the end of Summer.
+
 ### Central Belief
 
 Gethricism promises self-fulfilment and realization in power and wisdom, through hard work, and honesty with oneself and one's environment.
@@ -49,3 +52,6 @@ The Kherovan denomination is often referred to as [[Kethricism]], and the Prophe
 
 Among the great number of churches numerous liturgical rites exists which reflect the regional and historical variety within the Gethric Faith.
 The principal Gethric Mass, also known as the the Divine Mass, is the principle Liturgy of the Gethric Church, the kethric Patriarchate has its own rites, while liturgy in the western Trinicist churches vary greatly.
+
+Statues are widespread among all denominations, although most prominently venerated in Kherova.
+ 

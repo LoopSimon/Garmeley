@@ -1,3 +1,6 @@
+<p>The different denominations of the Gethric Faith worship many Saints, statues of these are widespread among all denominations, although most prominently venerated in Kherova. </p>
+
+
 <div class=grid-2x2>
     <div class="grid-item-uncentered span-col-2">
         <div class=wiki-header>
