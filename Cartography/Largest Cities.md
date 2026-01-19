@@ -14,7 +14,7 @@ Uhl: 130000
 
 Kher: 55000
 
-Albesan: 15000
+Albesan: 90000
 
 Battvia: 100000
 
