@@ -1,4 +1,4 @@
-[[Kethricism]] [[Trinicism]]
+
 
 The dominant Faith in Ilrakhan, Gethricist Practice is founded on the writings of Gethric's Companions, the Church fathers, of whom some are revered as Saints. It is split into three major denominations, Gethricism, also known as High-Gethricism, [[Kethricism]] and [[Trinicism]].
 Important Holidays include the Silver Procession, a week of celebrations held in the first month of the year and the Day of the Prophet, which is celebrated at the end of Summer.
