@@ -16,6 +16,8 @@ Kher: 55000
 
 Albesan: 90000
 
+Duol Rabad: 30000
+
 Battvia: 100000
 
 Trazlov: 70000
