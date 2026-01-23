@@ -3,7 +3,7 @@
 %%
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Lordship of Urbridge</h4>
+    <h4 class="wiki-header">Order of Urbridge</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Hereditary Stratocracy</span>

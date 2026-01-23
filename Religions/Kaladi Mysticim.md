@@ -6,7 +6,7 @@ Popular Kaladi include:
 1. Barxu, 
 	the kaladi associated with sexuality, fertiliy, water and love. 
 	She is the patron Kaladi of the river Barxonses River along wich the majority of Gnolls live in the modern age. 
-	It is said Barxu was a wise shaman in her life that led her people to the rich riverlands west of the Kneebreaker mountains.
+	It is said Barxu was a wise shaman in her life that led her people to the rich riverlands west of the Barxuni mountains, named after her.
 
 2. Jibey
 	the kaladi associated with order, divine rule and power.
