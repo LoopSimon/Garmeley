@@ -5,11 +5,11 @@
     <h4 class="wiki-header">Hobgoblin Tribes</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Warring Tribes, Stratocratic</span>
+        <span>Stratocratic Federation</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>N/A</span>
+        <span>The Overboss</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
