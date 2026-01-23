@@ -92,11 +92,14 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 
 <h2>People of Interest</h2>
 
-Misklomir, third of his Name of House Ralpia
+Miskomir, third of his Name of House Ralpia
 	King of Vihr
 	
 Vaszco of House Ralpia
 	Crown Prince of Vihr, Duke of Trazlov
+	
+Jakub of House Ralpia
+	Prince of Vihr, Master of the Order of the Unicorn
 	
 Katerina of House Szinmo
 	Duchess of Szievek
