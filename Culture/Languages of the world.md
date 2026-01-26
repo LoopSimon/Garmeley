@@ -55,11 +55,13 @@
 			<div class="v-center">
 			<h3><a href="Elf" class="internal-link">Elvish</a> Languages</h3>
 			
-				<h4>High Elvish</h4>
+				<h4>Beheran Elvish</h4>
 					<p>The Current dominant Language in the Elbae Sultanat.</p>
 					
-				<h4>Under Elvish</h4>
+				<h4>Deep Elvish</h4>
 					<p>Spoken by the Deepelves or Drow of the Underlands beneath the surface</p>
+				<h4>Northern Elvish</h4>
+					<p>Spoken by the Elves of Rogyn</p>
 			</div>
 			
 			<div class="v-center">
@@ -132,10 +134,11 @@
 			<h4>Ukioll</h4>
 				<p>Spoken by the Ukioll peoples in and south of the Eldveil<p>
 			<h4>Locni</h4>
-				<p>Spoken by the Locni peoples west of the Lowstep Hills <p>
-			</div>
+				<p>Spoken by the Locni peoples west of the Lowstep Hills </p>
+			<h4>Othiri</h4>
+				<p>Spoken by the Othir of Western Ilrakhan</p>
 			<h4>Yorgosi</h4>
-				<p>Spoken by the Yorgosi of West Behera, south of Almadus <p>
+				<p>Spoken by the Yorgosi of West Behera, south of Almadus </p>
 			</div>
 		</div>
 	</div>

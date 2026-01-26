@@ -31,7 +31,7 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Elvish</span>
+        <span>Beheran Elvish</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
