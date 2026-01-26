@@ -99,7 +99,7 @@ Vaszco of House Ralpia
 	Crown Prince of Vihr, Duke of Trazlov
 	
 Jakub of House Ralpia
-	Prince of Vihr, Master of the Order of the Unicorn
+	Prince of Vihr, Knight of the Order of the Unicorn
 	
 Katerina of House Szinmo
 	Duchess of Szievek

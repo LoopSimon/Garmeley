@@ -52,7 +52,7 @@ Countess Nadya of Dimglade
 Lord Kylian, Castellan of Redflow Keep
 Lord-Mayor Gustav of Jorrenstead
 
-Prince Jakub of Vihr, Master of the Order of the Unicorn
+Prince Jakub of Vihr, Knight of the Order of the Unicorn
 
 Queen Moira of Eldmar
 

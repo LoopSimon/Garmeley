@@ -36,22 +36,22 @@
 
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Duchy of Jeledo</h4>
+    <h4 class="wiki-header">Duchy of Turpador</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Hereditary Duchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Duc Ramiro II Ucarraz</span>
+        <span>Duccessa Alina I Sevir</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Jeledo</span>
+        <span>Vilgao</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Burning Grapes</span>
+        <span>Crowned Anchor</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -73,7 +73,7 @@
     </div>
 </div>
 
-<p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of Jeledo and <a href="Turpador" class="internal-link">Turpador</a> would reject  <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
+<p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of <a href="Jeledo" class="internal-link">Jeledo</a> and Turpador would reject <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. </p>
 <h2>People of Interest</h2>
-Ramiro, second of his Name of House Ucarraz
-	Duc of Jeledo
+Alina, first of her Name of House Sevir
+	Ducessa of Turpador

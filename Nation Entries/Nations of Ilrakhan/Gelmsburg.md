@@ -45,3 +45,6 @@
 
 Klovis, first of his name of House Gelm
 	King in Gelmsburg
+
+Talion "the Green Prince" of House Gelm
+	Prince of Gelmsburg
