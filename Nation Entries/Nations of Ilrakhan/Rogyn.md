@@ -1,3 +1,8 @@
+%%
+[[Minruism]]
+%%
+
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elfrealm of Rogyn</h4>
     <div class="wiki-row">
@@ -19,7 +24,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Aeldcult class="internal-link">Minruism</a>
+        <a href="Minruism" class="internal-link">Minruism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
