@@ -1,0 +1,1 @@
+Ilonism, also known as "The Cult of the Wheel" is a polytheistic Faith that worshiped the so called "divine Wheel", the three goods that make up the spans of this wheel are Agmor, Welmo and Ruxis, representing the past, the present and the future.
