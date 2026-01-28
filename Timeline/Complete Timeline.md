@@ -54,10 +54,12 @@
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
+            <div class="timeline-item" data-date="185PA">Auguri Invasion of Thirdonis begins</div>
             <div class="timeline-item" data-date="162PA">Kwarzimi of Corbaik creates the Leypoint Model</div>
             <div class="timeline-item" data-date="170PA">Wars of Storm</div>
             <div class="timeline-item" data-date="176PA">Death of Heljad the Giantslayer</div>
             <div class="timeline-item" data-date="180PA">Unification of Cevolis</div>
+            <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
             <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
             <div class="timeline-item" data-date="205PA">1st Wermian Incursion</div>
             <div class="timeline-item" data-date="236PA">2nd Wermian Incursion</div>
@@ -87,6 +89,7 @@
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribess of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
+            <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
@@ -94,6 +97,7 @@
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>
             <div class="timeline-item" data-date="517PA">Baeling Empire is declared, conversion of Trykkerog</div>
+            <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol ends</div>
             <div class="timeline-item" data-date="519PA">Antigor of Kisnau declares Grevennen Independence</div>
             <div class="timeline-item" data-date="521PA">Destruction of Qa, end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
@@ -119,6 +123,7 @@
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
+            <div class="timeline-item" data-date="629PA">Fall of Thirabnir</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
@@ -138,6 +143,8 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
+            <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
+            <div class="timeline-item" data-date="713PA">Lissvalley cities unite</div>
             <div class="timeline-item" data-date="716PA">Uhl is granted Independence by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
@@ -185,6 +192,7 @@
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
+            <div class="timeline-item" data-date="907PA">Tourney at Mitrad</div>
             <div class="timeline-item" data-date="908PA">Treaty of Kulum</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
