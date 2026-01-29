@@ -37,7 +37,7 @@
         </span>
     </div>
 </div>
-<p> The Golomid Empire stretches out across the Risen Reef and the southern coast of Il-Haena and across the seafloor below. Its crustacean citizens are extremely isolationist and rarely seek out contact with other species of the surface, although they entertain a reasonably amicable relationship with the seafarers of the <a href="Elbae" class="internal-link">Sultanate</a> and the <a href="Qahori" class="internal-link">Qahori Federation</a>.</p>
+<p> The Golomid Empire stretches out across the Risen Reef and the southern coast of Il-Haena and the seafloor below. Its crustacean citizens are extremely isolationist and rarely seek out contact with other species of the surface, although they entertain a reasonably amicable relationship with the seafarers of the <a href="Elbae" class="internal-link">Sultanate</a> and the <a href="Qahori" class="internal-link">Qahori Federation</a>.</p>
 <p>Important People</p>
 Cuorastes 
 

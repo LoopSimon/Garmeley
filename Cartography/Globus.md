@@ -1,6 +1,6 @@
 orbited by [[The first Moon]] and [[The second Moon]]
 
-ca. 50 km equatorial circumference
+ca. 50.000 km equatorial circumference
 
 Inara:
 	Ilrakh 
