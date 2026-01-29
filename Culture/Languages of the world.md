@@ -216,6 +216,10 @@
 			
 				<p>Spoken by the mysterious residents of the Ocean Floors and the Merfolk of the vast Seas, sometimes by Qahori Seafairers.</p>
 			
+			<h4>Mogyir</h4>
+			
+				<p>Spoken by the isolationist residents of the Drizan peninsular .</p>
+			
 			<h4>Aboleth</h4>
 			
 				<p>The mind-warping whispers of the unfathomable horrors of the deepest and darkest corners of the world.</p>
