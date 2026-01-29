@@ -5,7 +5,7 @@ Tsurugism is deeply connected with the Mogyri practice of Shroom-bonding and can
 
 Named after the Prophet Lhatsi, adherents to this school of Tsurigism believe in the existence of a "Greater Will" who's vision and influence is communicated with the Mogyri through frequent use.
 Lhatsurgic Doctrine frequently values the Fungi over its carrier.
-Followers of Lhatsi tend to organize more in settled and hierarchical communities.
+Followers of Lhatsi tend to organize more in settled and hierarchical communities, the larges of wich is the temple city of Yl-Lhatsi founded at the place of her enlightenment at lake Tsolha. 
 
 ## Ancient Tsurigism
 

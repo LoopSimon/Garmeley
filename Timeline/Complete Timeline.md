@@ -15,6 +15,7 @@
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
             <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
             <div class="timeline-item" data-date="621BA">End of the Alparid Dynasty</div>
+            <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>

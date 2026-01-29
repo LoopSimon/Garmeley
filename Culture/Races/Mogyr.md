@@ -10,5 +10,9 @@ Within hours of being born a Mogyri receives, usually by a parent or guardian, t
 Due to the fact that a shroom can only be given by one willing to sacrifice a part of their own, the shroom of a parent or caretaker tends to be passed on to their offspring.
 This has resulted in important bloodlines being born and extinguished by matter of shroombonding, as well as prestige and social standing being influenced by the origin of ones bonded shroom.
 
+A bonded shroom lives in symbiosis with ones carrier, receiving energy from their body and surroundings while continuing to grow over the lifespan of the carrier.
+In exchange the Shroom acts as a reservoir of energy, hormones and nutrients that can be activated by either organism under extreme stress to boost physical attributes and organic functions of the carrier.
+Hallucinogenic effects are likely also part of this outpouring of energy that is colloquially known as Shroom-boosting. 
+
 Following the nature of shroom bonding as a core axis of all aspects of Mogyri life, those without a shroom are almost unilaterally rejected and shunned from society. 
 The only two major ways to lose ones shroom are ritualistic punishment for the graves of crimes and magical means of ending a bond. There are known cases of children being born without someone willing to give them a shroom, sometimes outcasts for social reasons such as bastards within the higher houses of the Yl-Lhatsi society. 
