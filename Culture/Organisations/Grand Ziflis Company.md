@@ -11,3 +11,5 @@
 It currently enjoys no fees to trading merchants in the ports of Reanport, Azuvke, Thulmouth, Edgral and new Kulum in exchange for privileges to the local nobilities. Its second largest outpost after Ziflis is at Almadin where almost the entire trade from nations such as the <a href="Yorgos" class="internal-link">Yorgosi Marival</a> or the <a href="Pravazik" class="internal-link">Empire of Pravazik</a> flows into the Sultanate and greater Ilrakhan.</p>
 
 <p>The Company is currently led by Headmaster Usval al Hamon and employs houndreds of individual merchants and multiple regional governors and is playing a large role in the colonization of southern Behera and Il-Haena.</p>
+
+<p>The most important goods imported into Behera and Ilrakhan by the GZC in modern days, are undoubtably Coffee from the <a href="Qarzi" class="internal-link">Kingdom of the Qarzi</a> and Spices from Far Nirydia.</p>
