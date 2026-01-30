@@ -1,4 +1,4 @@
-The Mogyri of southern Nirydia are a race of humanoid creatures that live in the jungles of the Drizan Peninsula.
+The Mogyri of southern Nirydia are a race of humanoid creatures that live in the jungles of the Drizan Peninsula, most under the [[Yl-Lhatsi]] Temple.
 They tend to be extremely xenophobic and isolationist, mostly owed from a desire to protect their biome and the Fungi carried on their backs.
 This symbiotic relationship between Mogyr and Fungi, also known as Shroom-bonding, is almost entirely exclusive to the Mogyr but has been observed in other races (there are reports of [[Qalmyr]]i Sailors undergoing bonding though the process is usually described as agonizing).
 Mogyr tend to grow up to 7 or 8 ft tall, however most adult members of the race live out their days on all fours, protecting and exposing their shroom-infested backs to the skies.
