@@ -54,4 +54,4 @@ Among the great number of churches numerous liturgical rites exists which reflec
 The principal Gethric Mass, also known as the the Divine Mass, is the principle Liturgy of the Gethric Church, the kethric Patriarchate has its own rites, while liturgy in the western Trinicist churches vary greatly.
 
 Statues are widespread among all denominations, although most prominently venerated in Kherova.
- 
+

@@ -1,4 +1,4 @@
-[[Dwarf]] [[Underlands]] [[Gods of Forge and Fire]]
+[[Dwarf]] [[Underlands]] [[Terem-Zal]]
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Twin Cities of Ott</h4>

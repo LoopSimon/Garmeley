@@ -1,4 +1,4 @@
-[[Dwarf]] [[Underlands]] [[Gods of Forge and Fire]] [[Cimfon]]
+[[Dwarf]] [[Underlands]] [[Terem-Zal]] [[Cimfon]]
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Sulbra-Kol</h4>
