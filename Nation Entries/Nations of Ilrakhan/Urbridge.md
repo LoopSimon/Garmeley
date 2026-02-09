@@ -41,3 +41,10 @@
 </div>
 
 <p>Surrounded on all sides by either Urien Rivals or the vile [[Hobgoblin Tribes]], the men and women of Urbridge follow the knightly example of the legendary Hero Dorian, one of the [[Gethric Saints]] religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of [[Gelmsburg]]. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. </p>
+<<<<<<< HEAD
+=======
+
+<h2>People of Interest</h2>
+Gorlan, fifth of his name of House Goodwind
+	Lord-Protector of Urbridge, Master of the Knights of the Gryphon
+>>>>>>> 83108ed1863a70c8140f1f16f33f08a1b81c8b9e

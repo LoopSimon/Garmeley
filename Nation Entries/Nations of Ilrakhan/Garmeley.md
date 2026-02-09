@@ -45,6 +45,8 @@
 
 <p>With the death of King Ahlef II at the <b>Battle of Greyfields</b> (648PA), the line of Alfin ended. The successor, Tyla of Aldale, chose to reject the crown and instead proclaim herself <b>Duchess of Garmeley</b> to prevent a fatal civil war. Under the subsequent rule of Dukes Albrecht V, Eadwin II, and the current <b>Duchess Agnes I</b>, the land has enjoyed over a century of peace.</p>
 
+<small><i>see <a href="Garmian Civil War" class="internal-link">Garmian Civil War</a></i></small>
+
 <hr class="wiki-hr">
 <h3>Geography</h3>
 <p>Garmeley borders the minor Urlandi Realms of <a href="Trinvale" class="internal-link">Trinvale</a>, Eldmar and Urbrdige in the North-West, the Kingdom of Vihr in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the Trollback Mountains.</p>
@@ -71,3 +73,35 @@
 <h3>Religion</h3>
 <small><i>see <a href="Kindly Lords" class="internal-link">Kindly Lords</a></i></small>
 <p>The state religion is the worship of the <b>Kindly Lords of Glade and River</b>, overseen by the Leafpriests of Sunminster. While the <a href="Gods of Forge and Fire" class="internal-link">Gods of Forge and Fire</a> are respected, <a href="Gethricism" class="internal-link">Gethric</a> communities are merely tolerated for diplomatic reasons. Small <a href="Elf" class="internal-link">Elven</a> minorities continue to uphold the faith of the Paragons of <a href="Elbae" class="internal-link">Elbae</a>.</p>
+
+<h2>People of Interest</h2>
+
+ Agnes, first of her name of House Redflow
+	 late Duchess of House Garm
+	 
+Coster of House Melmo
+	 Lord of Melmbirth, leader of the Green Banner League
+	 
+Hinek of House Forrington
+	Count of Forrington, leader of the Garmish Alliance
+	
+Mirosh Gocar
+	Leafpriest of Sunminster, undeclared
+	
+Gustav Aichel
+	Lord-Mayor of Jorrenstead, declared for the Green Banner League
+	
+Kylian Brezina
+	Castellan of Redflow Keep, declared for the Green Banner League
+	
+Nadya of House Celak
+	Countess of Dimglade, declared for the Green Banner League
+	
+Roderick of House Jiric
+	Count of Aldale, declared for the Garmish Alliance
+	
+Elric of House Thul
+	Count of Thulmouth, declared for the Garmish Alliance
+	
+Vaelon Divis
+	Archmage of Patwin Tower, declared for the Garmish Alliance

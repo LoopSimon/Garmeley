@@ -39,7 +39,20 @@
 </div>
 
 <p> The largest successor state of the Kingdom of Cevolis, the Land of Battvia is one of rich farmlands and endless coasts, but the history of the Cevoli people is marked by constant infighting and wars. Pressed against the Kortopi mountains, Battvia has lost virtually all control over the rich Paper Cities of the Bay of Butera, and is involved in a century long rivalry with the Duchy of [[Jeledo]] that is is slowly but surely losing.</p>
+<<<<<<< HEAD
 
 %%
 [[Jeledo]]
 %%
+=======
+<h2>People of Interest</h2>
+Canto, first of his Name of House di Battvia
+	Prince of Battvia
+
+Sandra, first of her Name of House di Vorel
+	Contessa of Vorella
+	
+Rivel di Poca
+	Archmage of Ciravelli Tower
+	
+>>>>>>> 83108ed1863a70c8140f1f16f33f08a1b81c8b9e

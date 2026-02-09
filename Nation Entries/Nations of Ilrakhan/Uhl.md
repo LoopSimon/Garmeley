@@ -39,3 +39,9 @@
         </span>
     </div>
 </div>
+<h2>People of Interest</h2>
+Benedict Beywill
+	Lord-Mayor of Uhl
+	
+Martin Vrieman
+	Head of the Vrieman bank, Grand burgher of Uhl

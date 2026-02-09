@@ -13,4 +13,4 @@ The Wind god Kirnek, depicted as a Man with the upper body of an eagle, his wors
 
 Kolohoz the Old Guide, a Psychopomp figure as mentioned above, was described as a severely overweight and senile naked man that moved upon a flying platform of stone.
 
-Chimar the Sun Hunter, is theorised to be a representation of the later Emperor of Rakh and is seen as an amalgamation of the rulers of the great Empire, depicted as an armoured warrior with burning eyes. 
+Chimar the Sun Hunter, is theorised to be a representation of the later Emperors of Rakh and is seen as an amalgamation of the rulers of the great Empire, depicted as an armoured warrior with burning eyes. 

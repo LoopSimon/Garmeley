@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Reansport</span>
+        <span>Reanport</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -38,4 +38,6 @@
     </div>
 </div>
 
-<p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the [[Treaty of Danipol]] and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus.  </p>
+<p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the [[Treaty of Danipol]] and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus.  </p><h2>People of Interest</h2>
+Nikisa Sorgo
+	Rector of Reansport
