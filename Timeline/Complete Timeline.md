@@ -122,6 +122,7 @@
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
+            <div class="timeline-item" data-date="599PA">Larkomas writes the "Essence of Rakh"</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
             <div class="timeline-item" data-date="629PA">Fall of Thirabnir</div>

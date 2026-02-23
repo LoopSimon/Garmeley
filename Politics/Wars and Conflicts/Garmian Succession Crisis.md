@@ -33,7 +33,7 @@ The rich and traditionally spirit-worshipping South, is supported primarily by t
 Count Hynek of Forrington, Heir-Appearent to the Duchy of Garmeley
 Count Elric of Thulmouth
 Count Miklas of Koltree
- Countess Ryvena of Trinbrook
+Countess Ryvena of Tringlen
  Baron Roderick of Aldale
 Archmage Kynis of Patin Tower
 

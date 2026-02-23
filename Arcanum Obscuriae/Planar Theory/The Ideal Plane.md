@@ -1,0 +1,3 @@
+The Ideal Plane lies on the so called "Formative Axis" opposite the [[The Concrete Plane]].
+The existence of the Concrete and Ideal Plane was first theorized by the Gnomish Mage Larkomas as a result of his expeditions within the Wastelands of Rakh and the Ruins of Tarsus and is part of his "Syntropical Model" of the Eruption of Al-Akka in the year 0 AA.
+The ideal Plane exists as the absolute and true nature of an objects form on the material and spiritual realm.
