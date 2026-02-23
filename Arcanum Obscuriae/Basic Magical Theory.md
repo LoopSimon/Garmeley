@@ -30,6 +30,12 @@ Even though now widely dismissed by modern academia, Wulfrick broadly categories
 
 All Sub-planes are defined by their reliance on one of these Major Planes to access our own Plane, or in turn our reliance on one of these Major Planes to access them.
 
+Larkomas of Ott theorized the existence of a third, "formative" Axis, flowing between 2 additional Major Planes:
+* [[The Ideal Plane]]
+* [[The Concrete Plane]]
+
+It is the official stance of the Korsfall Rectorum to advise scepticism in regards to Larkomas Theory, which should be viewed with caution under a lens of historicity, if at all.
+
 ***
 
 **Chapter 2: Basic Leygrid Theory and Nomenclature**
