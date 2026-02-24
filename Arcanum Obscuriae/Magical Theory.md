@@ -11,6 +11,9 @@
 <h4>Realmatic Exchange and the Harlinic Model<h4>
 
 <p>Named after its discoverer Harlini, a vihri Mage of the 9th century, Harlinic Space describes the semi-permeable space between the Spiritual and Material Realm and how the two forces of Consciousness and Harmony Push against each other within it. This Realmatic Model was mainly developed as a Result of Planar-Force-Theory becoming more publicly accepted as will be discussed further below. Harlini describes the constant ebb and flow in both directions of observable energy as "Realmatic Exchange" and posits that it is the driving activation force of the Dulmic Gates that allow traversal between the Realms.</p>
+</div>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/harlinic.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 
 <h4>The Astral Realm</h4> 
 <p>The Astral Realm describes a semi-physical and immaterial space as a third Realm within realmatic Theory. Notably it is largely defined by not existing inbetween the Harlinic Space between the Material and Spiritual Realm and is best envisioned as "sorrounding environment" that exists as a layer above the Material Realm. It was proven to exist by the elven Wizard Carassa al-Kael and is infamously utilized by illegal teleportation spells, although many types of conjuration and scrying magicks access it as well. </p>
@@ -30,6 +33,9 @@
 - [[The Stagnant Plane]]
 
 <p>Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.</p>
+</div>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/harlin.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h4>Four Axis Theory</h4>
 <p> Larkomas of Ott theorized the existence of a third, "formative" Axis, and a fourth "continual" Axis flowing between 4 additional Major Planes:</p>
 
@@ -51,10 +57,16 @@
 - Entropy
 
 <p>Izrafur noticed how many of the stronger Forces had attractions to two of the major Planes on the four Magical Axis and, combining this with the classification of major and lesser influence of different Forces on either the Spiritual or the Material Realm, he came up with the Four-Axis-Model. </p>
+</div>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/fouraxis.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 
 <h4>Fundamentalism and the Hierarchical Model</h4>
 <p>Fundamentalist Theory describes the differentiation of  the Formative and Continual Axis from the Arcane and Divine Axis respectively. Describing the former two as "fundamental" and ever permeating the Spiritual, Material and Arcane realms while the Arcane and Divine were semi-permeating and stood also under the influence of the Fundamental.
 This Theory views Planar relationships in a hierarchy and is therefore named the "Hierarchical Model". It is still accepted as the best approximation we have for Planar relativism and used to this day.</p>
+</div>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/hierarchy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h4>Vilkins Universal Model</h4>
 <p>The grevennan Sorcerer Vilkin sought to combine the Hierarchical Model of Planar Relativism with our astronomical understanding of the observable universe. In this so called "universal Model" he posits the entire cosmos exists within the Space-Time Grid of the Continual Axis on the Material Realm and on the Harmonic-Consciousness Grid of the Formative Axis on the Spiritual Realm at the Same Time. While the Major Planes of Chaos, Stagnancy(also often referred to as "Order"), Positive and Negative are exist upon both Grids in Material and Spiritual Space as well. This is based upon the existence of planar creatures such as Daemons or Celestials that hail from an individual Plane but exist there and here within the Material Realm. </p>
 <p>Within this Model, the Fundamental Planes act more like axis of their own that are linked together, described just as the Continual and Formative Grids. Furthermore this leads Vilkin to believe that the Material Realm exists entirely on the Continual Grid while the Spiritual Realm exists entirely on the Formative Grid.</p>
