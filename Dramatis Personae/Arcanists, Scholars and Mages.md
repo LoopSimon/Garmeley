@@ -11,7 +11,7 @@ The infamous "Great Sculptor", a Kherovan Arcanist that ruled the City of Alahmi
  Also known as the Father of modern Elven Magic, his largest contribution was undisputably the creation of the Leypoint model that is still studied as widely accurate almost 800 years later.
 ***
 ### **Ptamon**
-An elven Sorcerer and Scholar that lived  in the 2nd and 3rd centuries PA, his most widely recognized work is "The elemental Essence" which describes and categorizes different methods of magical casting, primarily the difference between trueborn and learned mages.
+An elven Sorcerer and Scholar that lived  in the 2nd and 3rd centuries PA, his most widely recognized work is "The elemental Essence" which describes and categorizes different methods of magical casting, primarily the difference between trueborn and learned mages, but he is also the author of "Ptamons Key" a model describing Planar relativism.
 ***
 ### **Tronos of the Veil**
 A Gethric Arcanist and Necromancer during the 4th century PA. Although declared a saint for his contributions to the divine Gethric Truth shortly after his death, over the centuries he has become more and more controversial within the Church, being outright rejected by the Kethricists of Kherova.
