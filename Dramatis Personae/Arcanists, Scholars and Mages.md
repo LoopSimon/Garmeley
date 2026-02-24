@@ -22,12 +22,15 @@ The greatest Student of Kwarzimi, the elf Karajal founded the Karajal School of 
 ### **Galiatar Inkfingers**
  A meadi human in the early 7th century PA, Galiatars translated vast archives of elven research into the Meadi tongue and later became the leading figure in rakhian translations of recovered findings during the Great Expedition and its successors.
 ***
+### **Wulfrick the Elder**
+Author of the "Theorem Arcanum", Wulfrick is widely seen as the figurehead of human Arcane Scholarship and Excellence, his residence and rectorship at Korsfall College and the policies instituted by him,  are largely responsible for the Dominance of the Institution in the realm of Magical Research up until the modern days.
+***
 ### **Larkomas of Ott**
 A gnomish Philosopher and Wizard, he first theorized the existence of a third fundamental Axis existing between a Plane of the Ideal and the Concrete, regarding the true essence of any given object. His theories remain largely obscure to this day within wider magical academia.
 His most popular work, "the Essence of Rakh" ascribes the fall of the rakhian empire and current state of the wasteland to a shift on this axis.
 ***
-### **Wulfrick the Elder**
-Author of the "Theorem Arcanum", Wulfrick is widely seen as the figurehead of human Arcane Scholarship and Excellence, his residence and rectorship at Korsfall College and the policies instituted by him,  are largely responsible for the Dominance of the Institution in the realm of Magical Research up until the modern days.
+### **Izrafur of Mereskis**
+An elven Arcanist that expanded upon Larkomas works and created the Four-Axis-Model as well as the classifications of Planar Forces.
 ***
 ### **Markur of the many Eyes**
 A successful student of Korsfall, Markur became a devout Gethric during the aftermath of the War of Trout and Drake and is said to have worked many wonders travelling the lands and using his powers for good.

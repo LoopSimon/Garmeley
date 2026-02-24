@@ -22,14 +22,35 @@
 <h4>Introduction to basic Planar Theory</h4>
 <p>Our own Plane of existence, describes not only the physical and spiritual space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all outer-realm energies. According to Wulfrick the Elder, who compiled Rakhian Recoveries after the Great Discovery in his Theorem Arcanum and is widely seen as the Father of modern human Arcane Theory, our Plane ("Alrahani" in the Rahki language of old, interchangeably used with "Inara") is connected to at least 6 major, and multitudes of minor and sub-planes of energy, in what he calls Fluxbridges (see below).</p>
 <h4>The Two-Axis-Model</h4>
-<p> The 4 Major Planes as described in the Theorem Arcanum are:  
-- The Positive Plane
-- The Negative Plane
-- The Chaotic Plane
-- The Stagnant Plane
- Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.</p>
-<h4>The Four-Axis-Model</h4>
-<h4>Planar Forces</h4>
+<p> The 4 Major Planes as described in the Theorem Arcanum are:  </p>
+
+- The positive Plane
+- The negative Plane
+- The chaotic Plane
+- The stagnant Plane
+
+<p>Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.</p>
+<h4>Four Axis Theory</h4>
+<p> Larkomas of Ott theorized the existence of a third, "formative" Axis, and a fourth "continual" Axis flowing between 4 additional Major Planes:</p>
+
+- The ideal Plane
+- The concrete Plane
+- The temporal Plane
+- The diastic Plane
+
+<h4>Intent, Planar Forces and the Four-Axis-Model</h4>
+<p>Building upon Larkomas` Differentiations between the Planes, Izrafur of Mereskis theorized that planar energies were directed by Intent, in the form of what he dubbed "Planar Force". He noticed singular Planes accessing multiple planar forces and how different Planes would also access the same Force, as well as a clear distinguishment between stronger and weaker Planar Force and Intent when channelled into different Realms via Fluxbridge. Izrafur names the observable stronger Planar forces as such:</p>
+
+- Harmony
+- Consciousness
+- Light
+- Dark
+- Life
+- Death
+- Syntropy
+- Entropy
+
+<p>Izrafur noticed how many of the stronger Forces had attractions to two of the major Planes on the four Magical Axis and, combining this with the classification of major and lesser influence of different Forces on either the Spiritual or the Material Realm, he came up with the Four-Axis-Model. </p>
 <h4>Fundamentalism and the Hierarchical Model</h4>
 <h4>The Universal Model</h4>
 
