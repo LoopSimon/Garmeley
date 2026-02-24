@@ -182,6 +182,7 @@
             <div class="timeline-item" data-date="870PA">Pavo of Alban erects his Tower</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
+            <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>

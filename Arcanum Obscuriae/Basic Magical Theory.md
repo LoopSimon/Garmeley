@@ -103,7 +103,7 @@ Alrahani itself can be divided into multiple realms of existence, primarily the 
 
 Traversal between realms is usually only possibly on a physical sense with usage of tremendous planar energy but there are those beings, broadly classified as Spirits who exist primarily within the spiritual Realm as well as creatures or entities that exist in haptic forms in more than 1 realm of existence, such as the [[Fey]]. 
 
-It is generally assumed that the existence of cross-realm entities, be it living or unliving creatures and objects, requires a “natural” absolute Fluxbridge that is inherent in said cross-realm entity, however this does clash with the still largely accepted Primal-Conflux-Theory.
+t iIs generally assumed that the existence of cross-realm entities, be it living or unliving creatures and objects, requires a “natural” absolute Fluxbridge that is inherent in said cross-realm entity, however this does clash with the still largely accepted Primal-Conflux-Theory.
 
 Primal-Conflux-Theory assumes the model of the planes as ever shifting and moving on a universal scale, and posits that our own plane initially did not stand in contact with any other plane of existence until the event of a primal or initial conflux.
 
