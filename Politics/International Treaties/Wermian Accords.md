@@ -33,7 +33,7 @@ The Accords ban the practice, teaching or preservation of the following:
 <li>Any spell, charm or curse of the School of Necromancy.</li>
 <li>Spells, charms or curses that influence, invade or alter another's mind.</li>
 <li>Spells, charms or curses that create gateways through the material realm, be that to other planes of existence or the spiritual realm, including instantaneous transposition via teleportation magic.</li>
-<li>The Creation of Absolute Fluxbridges, as understood by <a href="Basic Magical Theory">Basic Magical Theory</a>.</li>
+<li>The Creation of Absolute Fluxbridges, as understood by <a href="Magical Theory"> Magical Theory</a>.</li>
 </ul>
 </p>
 <p>Signators of the Wermian Accords also agree to control and oversee the training and schooling of practitioners of the Arcane and Divine Disciplines of Magic, as well as to take active steps to eradicate rogue mages or other practitioners of magic outside of their control that may break or threaten to break the guidelines set by the Accords.</p>

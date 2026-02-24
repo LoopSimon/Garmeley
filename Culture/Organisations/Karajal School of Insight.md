@@ -1,4 +1,4 @@
-[[Elbae]] [[Basic Magical Theory]]
+[[Elbae]] [[Magical Theory]]
 
 Named after the **Great Mage Karajal of Alparaz**(304PA-581PA), this Institution represents not only the modern nexus of magical research, but also is a symbol of the historical dominance the [[Behera|Beheran]] [[Elf|Elves]] have held in the higher Sciences of Mathematics, Magic and Astronomy.
 

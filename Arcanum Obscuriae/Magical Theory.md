@@ -1,3 +1,10 @@
+%%
+[[Material Realm]]
+[[Astral Realm]]
+[[Spiritual Realm]]
+[[The Veilcurse]]
+[[Arcanists, Scholars and Mages]]
+%%
 *This text is written from an Ilrakhi perspective and fully acknowledges and bemoans the lack of access to Nirydian Magical Studies and historical discoveries.*
 *With that in mind, the following will be a short introduction into the Metaphysical understanding of Existence throughout history by the modern [[Korsfall College]] of Astronomy and Magicks, in accordance with the ethical views of the [[Wermian Accords]].*
 ***

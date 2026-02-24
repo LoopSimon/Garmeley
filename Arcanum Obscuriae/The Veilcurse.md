@@ -1,4 +1,4 @@
-The Veilcurse, within the terminology of [[Basic Magical Theory]]vaguely generalizes a phenomenon that occurs to the summoners of planar energies when creating a Fluxbridge, also known as Spellcasters.
+The Veilcurse, within the terminology of [[Magical Theory]] vaguely generalizes a phenomenon that occurs to the summoners of planar energies when creating a Fluxbridge, also known as Spellcasters.
 It describes the loss of ones own connection to the planar energies of the world when channelling powerful energies without sufficient preparation, resulting in an instant overwhelming of the caster, usually accompanied by mental fracture and physical mutation of the flesh.
 
 
