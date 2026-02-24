@@ -96,5 +96,10 @@ The closer a caster is to a Confluence, the easier they will usually find to acc
 
 <p>With the advent of Harlinic Space as an accepted Model of the relationship between Realms, Magical Conflux seems to compress the Harmonic and Conscious Force within it, allowing for easier traversal through the realms via Dulmic Gates.</p>
 
-<p>The research into the connection of Astronomic Phenomena, regarding our own planet as well as the bodies of Sun and Moon surrounding us, and the ability to exactly predict a Conflux is known as Conflux Theory. Conflux Theory is even less agreed upon and more speculative than the aforementioned dispute around trueborn decline, while at the same time represents the most ancient research even conducted by old Rakh. Modern day scholars attribute Magical Conflux as a phenomena to the natural flow of planar force o the Continual Axis.</p>
+<p>The research into the connection of Astronomic Phenomena, regarding our own planet as well as the bodies of Sun and Moon surrounding us, and the ability to exactly predict a Conflux is known as Conflux Theory. Conflux Theory is even less agreed upon and more speculative than the aforementioned dispute around trueborn decline, while at the same time represents the most ancient research even conducted by old Rakh. Modern day scholars attribute Magical Conflux as a phenomena to the natural flow of planar force on the Continual Axis when in contact with the Formative Axis.</p>
 <h4>Primal Conflux Theory</h4>
+<p>It is generally assumed that the existence of cross-realm entities, be it living or unliving creatures and objects, requires a “natural” absolute Fluxbridge that is inherent in said cross-realm entity, however this does clash with the still largely accepted Primal-Conflux-Theory.
+
+Primal-Conflux-Theory assumes the model of the planes as ever shifting and moving on a universal scale, and posits that our own plane initially did not stand in contact with any other plane of existence until the event of a primal or initial conflux, akin to an origin point of the observable universe.
+
+However research into the aforementioned cross-realm entities have modern day scholars largely rejecting the idea of natural Fluxbridges as outdated and obscure science </p>
