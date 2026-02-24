@@ -31,6 +31,12 @@
 <h2>Chapter 2: Planar Theory</h2>
 <h4>Introduction to basic Planar Theory</h4>
 <p>Our own Plane of existence, describes not only the physical and spiritual space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all outer-realm energies. According to Wulfrick the Elder, who compiled Rakhian Recoveries after the Great Discovery in his Theorem Arcanum and is widely seen as the Father of modern human Arcane Theory, our Plane ("Alrahani" in the Rahki language of old, interchangeably used with "Inara") is connected to at least 6 major, and multitudes of minor and sub-planes of energy, in what he calls Fluxbridges (see below).</p>
+<h4>Ptamos Elemental Model</h4>
+<p>The elf Ptamon developed the so called "Elemental Model" which divides the world into 10 fundamental states of energy that are individually linked to each other, with four existing on the arcane axis , four on the divine and two within constant synallagma.
+While now largely seen as archaic this model and view of Planar relativism was used for almost a millenia by arcanists and scholars and many theories and discoveries thereafter were developed upon its basis that are still regarded as accurate tot his date.
+Linear Power and flow of energy is an important theme within elven culture and astronomy, and the symbolism of the connected "snake like" fixpoints seen here can also be found within elven religious images.</p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/ptamon.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h4>The Two-Axis-Model</h4>
 <p> The 4 Major Planes as described in the Theorem Arcanum are:  </p>
 
