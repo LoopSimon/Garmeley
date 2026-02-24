@@ -28,4 +28,5 @@
 <h4>The absolute Fluxbridge</h4>
 <h4>Leygrid Theory</h4>
 <h4>The Leyprism Model</h4>
+<h4>Magical Conflux</h4>
 <h4>Primal Conflux Theory</h4>
