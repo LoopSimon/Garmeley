@@ -57,6 +57,7 @@
 This Theory views Planar relationships in a hierarchy and is therefore named the "Hierarchical Model". It is still accepted as the best approximation we have for Planar relativism and used to this day.</p>
 <h4>Vilkins Universal Model</h4>
 <p>The grevennan Sorcerer Vilkin sought to combine the Hierarchical Model of Planar Relativism with our astronomical understanding of the observable universe. In this so called "universal Model" he posits the entire cosmos exists within the Space-Time Grid of the Continual Axis on the Material Realm and on the Harmonic-Consciousness Grid of the Formative Axis on the Spiritual Realm at the Same Time. While the Major Planes of Chaos, Stagnancy(also often referred to as "Order"), Positive and Negative are exist upon both Grids in Material and Spiritual Space as well. This is based upon the existence of planar creatures such as Daemons or Celestials that hail from an individual Plane but exist there and here within the Material Realm. </p>
+<p>Within this Model, the Fundamental Planes act more like axis of their own that are linked together, described just as the Continual and Formative Grids. Furthermore this leads Vilkin to believe that the Material Realm exists entirely on the Continual Grid while the Spiritual Realm exists entirely on the Formative Grid.</p>
 <p>Vilkin further theorizes that our own Plane of exitance is not necessarily different than the known Major Planes, with the exception that as far as known to us, we do not project native planar energy into another Plane on an Axis of our own. </p>
 
 ***
