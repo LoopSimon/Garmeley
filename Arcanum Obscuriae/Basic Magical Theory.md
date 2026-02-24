@@ -6,7 +6,7 @@ The following describes the Metaphysical Understanding of our Plane by the [[Kor
 
 **Chapter I: Planar Theory**
 
-Our own Plane of existence, describes not only the physical space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all arcane energies.
+Our own Plane of existence, describes not only the physical space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all outer-realm energies.
 
 In the following Introduction we will cover modern day Planar and Leygrid Theory, absolute and conditional Fluxbridges as well as Confluxes.
 

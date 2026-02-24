@@ -16,13 +16,24 @@
 <p>The Astral Realm describes a semi-physical and immaterial space as a third Realm within realmatic Theory. Notably it is largely defined by not existing inbetween the Harlinic Space between the Material and Spiritual Realm and is best envisioned as "sorrounding environment" that exists as a layer above the Material Realm. It was proven to exist by the elven Wizard Carassa al-Kael and is infamously utilized by illegal teleportation spells, although many types of conjuration and scrying magicks access it as well. </p>
 
 
+
+***
 <h2>Chapter 2: Planar Theory</h2>
+<h4>Introduction to basic Planar Theory</h4>
+<p>Our own Plane of existence, describes not only the physical and spiritual space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all outer-realm energies. According to Wulfrick the Elder, who compiled Rakhian Recoveries after the Great Discovery in his Theorem Arcanum and is widely seen as the Father of modern human Arcane Theory, our Plane ("Alrahani" in the Rahki language of old, interchangeably used with "Inara") is connected to at least 6 major, and multitudes of minor and sub-planes of energy, in what he calls Fluxbridges (see below).</p>
 <h4>The Two-Axis-Model</h4>
+<p> The 4 Major Planes as described in the Theorem Arcanum are:  
+- The Positive Plane
+- The Negative Plane
+- The Chaotic Plane
+- The Stagnant Plane
+ Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.</p>
 <h4>The Four-Axis-Model</h4>
 <h4>Planar Forces</h4>
 <h4>Fundamentalism and the Hierarchical Model</h4>
 <h4>The Universal Model</h4>
 
+***
 <h2>Chapter 3: Magic & Planar Energy</h2>
 <h4>The conditional Fluxbridge</h4>
 <h4>The absolute Fluxbridge</h4>
