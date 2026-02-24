@@ -122,6 +122,8 @@ The Akkalian Theory on the other side hypothesizes the creation of an absolute f
 <p>Developed by Jevana of Leston, the Leyprism Model, similarly to the Harlinic Mode in regards to Realmatic Theory, applies the distinction between Plane and Planar Force to the standing Leygrid Model.
 She posits that rather than a grid, it is much more apt to consider a Fluxbridge as a prism, that sits between two compressing forces.
 As an axis can only be consciously accessed on its entire spectrum, rather than exclusively from a single planar endpoint, this so called "Leyprism" can be seen as the adjustable key that directs planar energy into the material and spiritual realm.</p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/prism.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <p>In her work "Empathetic Power", she further posits that certain forces are more or less volatile in control, as well as rich in converted planar energy, depending on wether or not they are channeled into the spiritual or material realm. Due to her extremely limited experimentation within the spiritual, this remains largely theoretical within her works and can be seen  as an acknowledgement of Harlinis contemporary discoveries.</p>
 <h4>Magical Conflux</h4>
 <p>Described visually and emotionally in the accounts of trueborn mages as an “Ebbing and Flowing” of the Intensity with which they perceive Leypoints, a Conflux is a Phenomenon that occurs every 3104 Solar Days, or every 1st day of a Rakhian Calendar.
