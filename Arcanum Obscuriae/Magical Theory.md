@@ -24,17 +24,17 @@
 <h4>The Two-Axis-Model</h4>
 <p> The 4 Major Planes as described in the Theorem Arcanum are:  </p>
 
-- The positive Plane
-- The negative Plane
-- The chaotic Plane
-- The stagnant Plane
+- [[The Positive Plane]]
+- [[The Negative Plane]]
+- [[The Chaotic Plane]]
+- [[The Stagnant Plane]]
 
 <p>Wulfrick broadly categories the Manipulation of the Positive and Negative Planes as “Divine” Magic, and opposes this with the Manipulation of the Chaotic and Stagnant Planes as “Arcane” Magic.</p>
 <h4>Four Axis Theory</h4>
 <p> Larkomas of Ott theorized the existence of a third, "formative" Axis, and a fourth "continual" Axis flowing between 4 additional Major Planes:</p>
 
-- The ideal Plane
-- The concrete Plane
+- [[The Ideal Plane]]
+- [[The Concrete Plane]]
 - The temporal Plane
 - The diastic Plane
 
@@ -51,14 +51,50 @@
 - Entropy
 
 <p>Izrafur noticed how many of the stronger Forces had attractions to two of the major Planes on the four Magical Axis and, combining this with the classification of major and lesser influence of different Forces on either the Spiritual or the Material Realm, he came up with the Four-Axis-Model. </p>
+
 <h4>Fundamentalism and the Hierarchical Model</h4>
-<h4>The Universal Model</h4>
+<p>Fundamentalist Theory describes the differentiation of  the Formative and Continual Axis from the Arcane and Divine Axis respectively. Describing the former two as "fundamental" and ever permeating the Spiritual, Material and Arcane realms while the Arcane and Divine were semi-permeating and stood also under the influence of the Fundamental.
+This Theory views Planar relationships in a hierarchy and is therefore named the "Hierarchical Model". It is still accepted as the best approximation we have for Planar relativism and used to this day.</p>
+<h4>Vilkins Universal Model</h4>
 
 ***
 <h2>Chapter 3: Magic & Planar Energy</h2>
-<h4>The conditional Fluxbridge</h4>
 <h4>The absolute Fluxbridge</h4>
-<h4>Leygrid Theory</h4>
+<p>While not outright impossible or without example, the creation of absolute Fluxbridges is incredibly difficult and strictly forbidden in accordance with the Wermian Accords, partially due to the academic consensus that it is virtually impossible to control the energies of one.</p>
+
+<p>Perhaps the most infamous example of an absolute Fluxbridge in history is the Crimson Rubric, responsible for the Demonic Incursions in Wermia and the Rift to the Abyssal sub-plane, or perhaps the Paragon-Husks of the ancient elves.</p>
+<h4>The conditional Fluxbridge and Artifacts</h4>
+<p>The common way for any Wielder of Magic to defy the physics and boundaries of our world is the creation and control of the conditional Fluxbridge by ways of manipulating one or multiple Leypoints (see further below) upon a Planar Axis. </p>
+<p>The most popular way to achieve this, is the invoking of a memorised set of Leypoints to activate a magical artifact, which then in turn can manipulate a vastly larger amounts of Leypoints along either the “Arcane Axis” (between the Chaotic and Stagnant Plane) or the “Divine Axis” (between the Positive and Negative Plane). The Manipulation of the Fundamental Planes on the two Fundamental Axis is almost impossibly with contemporary research in mind and usually occurs as a by product of Arcane or Divine casting, as both methods share planar forces with the fundamental Planes. </p>
+<h4>The aberrational Fluxbridge</h4>
+<p>Should the theory behind spell and application be solid and technical enough, it is possible to create aberrational Fluxbridges that follow certain conditions and patterns regarding their activation and behaviour.
+
+The most common example in our world is the ever present common curse and boon; usually the former to the woe of many a mortal. 
+
+It is extremely difficult to classify these Fluxbridges as either absolute or conditional as this can easily vary between different spells although a complex behaving absolute Fluxbridge is an extremely dangerous and rare work of magic, an infamous example is the Necrocurse of Ahrmiz.</p>
+<h4>Artifact Creation and Classification</h4>
+<p>While the first image that comes to our mind at the mention of a magical artifact , might be a staff or a ring, the research in the field of artificery (the creation, maintenance, and manipulation of magical artifacts) has shown us that the more we learn, the more we discover we don't know yet. So while examples can certainly be Imbued Swords, Rings, Wands or Staffs, artifacts of varying power can also be found as tattoos or even more abstract in the invoking of an oath or the singing of a song. The reluctance of the brilliant minds in Ott to share discoveries and methods they claim to have over the effortless creation and change of artifacts is in this sense a true academic tragedy.</p>
+<p>The power of an artifact can be measured in two ways, first the amount of Leypoints it is able to manipulate and second the range of control it allows over said Manipulation. An Ottian Ring of Power might therefore allow an attuned Wearer to summon a ring of fire around him, creating a relatively powerful arcane effect, but perhaps not give the wearer greater control over technically smaller feats, like conjuring a drop of water.</p>
+<h4>Attunement and Trueborn Casting</h4>
+<p>Any activation of an artifact usually requires attunement, although certain specially crafted artifacts can be fine tuned to such a detailed degree, that they automatically activate under certain conditions. Attunement is categorically defined by ones understanding of the Arcane or Divine Axis, therefore a wielder of magic able to effortlessly use artifacts on both axes is almost unheard of.
+Non-Artifact-Casters, also known as Trueborn mages, are incredibly rare to find in the modern age, they act as living artifacts and can innately see and manipulate Leypoints.</p>
+<p>While not the focus of this introductory article, I would be remiss to not point out the academic disputes as to why this is the case.
+
+A simple historiographic view is that there is no decline in trueborn mages, but reports of historical trueborn mages are wildly exaggerated due to the unreliability of historical accounts and the commonly found lack of magical knowledge in the authors of such sources.
+
+The Akkalian Theory on the other side hypothesizes the creation of an absolute fluxbridge during the Eruption of Mount Al-Akka to such a titanic extent, that it fundamentally and permanently changed the way Fluxbridges can access our plane. As most accords of trueborn mages are attributed to times prior to or closely after the Eruption it stands to reason that the event had at least some sort of effect on the birth of trueborn mages.</p>
+<h4>Leypoints and the Leygrid Theory</h4>
+<p>A Leypoint is a singular node in space that pierces realmatic barriers existing on all three realms at once, acting as an "access point" for planar energies. Leygrid Theory posits that all of the universe exists on a Grid of these nodes whose creation has been a mystery to this day. </p>
 <h4>The Leyprism Model</h4>
+<p>Developed by Jevana of Leston, the Leyprism Model, similarly to the Harlinic Mode in regards to Realmatic Theory, applies the distinction between Plane and Planar Force to the standing Leygrid Model.
+She posits that rather than a grid, it is much more apt to consider a Fluxbridge as a prism, that sits between two compressing forces.
+As an axis can only be consciously accessed on its entire spectrum, rather than exclusively from a single planar endpoint, this so called "Leyprism" can be seen as the adjustable key that directs planar energy into the material and spiritual realm.</p>
+<p>In her work "Empathetic Power", she further posits that certain forces are more or less volatile in control, as well as rich in converted planar energy, depending on wether or not they are channeled into the spiritual or material realm. Due to her extremely limited experimentation within the spiritual, this remains largely theoretical within her works and can be seen  as an acknowledgement of Harlinis contemporary discoveries.</p>
 <h4>Magical Conflux</h4>
+<p>Described visually and emotionally in the accounts of trueborn mages as an “Ebbing and Flowing” of the Intensity with which they perceive Leypoints, a Conflux is a Phenomenon that occurs every 3104 Solar Days, or every 1st day of a Rakhian Calendar.
+The closer a caster is to a Confluence, the easier they will usually find to access, regulate and manipulate Fluxbridges and Planar Energy in our physical plane.</p>
+
+<p>With the advent of Harlinic Space as an accepted Model of the relationship between Realms, Magical Conflux seems to compress the Harmonic and Conscious Force within it, allowing for easier traversal through the realms via Dulmic Gates.</p>
+
+<p>The research into the connection of Astronomic Phenomena, regarding our own planet as well as the bodies of Sun and Moon surrounding us, and the ability to exactly predict a Conflux is known as Conflux Theory. Conflux Theory is even less agreed upon and more speculative than the aforementioned dispute around trueborn decline, while at the same time represents the most ancient research even conducted by old Rakh. Modern day scholars attribute Magical Conflux as a phenomena to the natural flow of planar force o the Continual Axis.</p>
 <h4>Primal Conflux Theory</h4>
