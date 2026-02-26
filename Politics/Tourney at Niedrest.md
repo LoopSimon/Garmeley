@@ -23,7 +23,7 @@ Daigo di Morella, Sir Knight of Battvia
 
 Faztan Trollspawn, Knight-Errant of Uhl
 
-Sibilla of Pikris, First Sword of Pikris
+Sybilla of Pikris, First Sword of Pikris
 
 
 
