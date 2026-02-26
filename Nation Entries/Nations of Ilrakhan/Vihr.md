@@ -108,7 +108,11 @@ Orthel, second of his Name
 	High-Bishop of Iztaw and Head of the Gethric Church
 	
 Dorman of the White Sea
-	Master of the Silver Wheel
+	Master of the Order of the Unicorn
 	
-Zenislaw 
-	Lord-Knight of the Silver-Wheel
+Henrietta of House Try
+	Duchess of Orzebachi
+	
+Slivomir of House Tryd 
+	Paladin of the Silver-Wheel
+	

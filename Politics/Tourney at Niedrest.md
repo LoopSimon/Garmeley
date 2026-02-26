@@ -17,7 +17,7 @@ Robiro Tidebender, Swordmaster of House Caroman
 
 Jakub of House Ralpia, Prince of Vihr, Knight of the Order of the Unicorn
 
-Talion "Greenhair" of House Gelm, Prince of Gelmsburg, Knight of the Silver Wheel
+Talion "Greenhair" of House Gelm, Prince of Gelmsburg, Paladin of the Silver Wheel
 
 Daigo di Morella, Sir Knight of Battvia
 
