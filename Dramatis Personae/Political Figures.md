@@ -30,7 +30,7 @@ Moira, third of her Name of House Eldmar
 	Queen in Eldmar
 
 Rimond of Niedrest
-	Lord of the Trinvale Republic, Citykeeper of Niedrest
+	Lord of the Trinvale Republic, Citykeeper of [[Niedrest]]
 Gregor Redsight
 	Archmage of Greenstone Tower
 

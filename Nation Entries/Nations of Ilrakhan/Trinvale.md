@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Calmbrook</span>
+        <span><a href="Niedrest" class="internal-link">Niedrest</a></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

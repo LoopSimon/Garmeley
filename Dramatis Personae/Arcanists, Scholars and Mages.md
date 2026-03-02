@@ -40,10 +40,6 @@ Gifted in both Arcane and Divine Casting, he was  declared a saint by the Gethri
 ### **Avero of the Eightfolds**
 A half-elven scholar at Patwin Tower in modern day Garmeley, Averos most well known work, "De venenis eorumque remediis" is an attempt to reconcile Elven and Human Magical and Mathematical Research with Divine Practice.
 ***
-### **Jurahim al Biad**
-Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
-
-Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ***
 ### **Palus Gnome-Friend**
 An Urien Scholar and priest that studied with Gnomish communities, while primarily a theologian interested in the exchange of spiritualism between human and gnomish culture, he opened a wider door for arcanists and academics within their society.

@@ -1,4 +1,4 @@
-*To be held at the end of Winter on the behest of Lord Rimond of Niedrests 2nd Marriage*
+*To be held at the end of Winter on the behest of Lord Rimond of [[Niedrest]]s 2nd Marriage*
 
 
 This two week long celebration will offer fun and games to peasantry and nobility alike, culminating in a martial tourney of honourable knights from all across the realms.
