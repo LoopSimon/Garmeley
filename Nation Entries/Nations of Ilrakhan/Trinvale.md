@@ -9,7 +9,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Citykeeper Rimond of Niedrest</span>
+        <span>Citykeeper Rimond von Junkel</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
