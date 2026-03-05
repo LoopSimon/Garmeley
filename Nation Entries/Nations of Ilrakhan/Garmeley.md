@@ -43,7 +43,7 @@
 
 <p>After the Eruption of Al-Akka and the end of the Rakhian Empire, the native tribes of Garm rose up against the remaining Rakhian people in union with the newly formed Kingdom of <a href="Urland" class="internal-link">Urland</a>. Alfin I was crowned as the first Riverking of Garm in matrimony with the Nyad Zivalla and entered into the Old Pact, vowing to protect the Gladewood in exchange for the cooperation of the <a href="Kindly Lords" class="internal-link">Kindly Lords</a>.</p>
 
-<p>With the death of King Ahlef II at the <b>Battle of Greyfields</b> (648PA), the line of Alfin ended. The successor, Tyla of Aldale, chose to reject the crown and instead proclaim herself <b>Duchess of Garmeley</b> to prevent a fatal civil war. Under the subsequent rule of Dukes Albrecht V, Eadwin II, and the current <b>Duchess Agnes I</b>, the land has enjoyed over a century of peace.</p>
+<p>With the death of King Ahlef II during the <a href="Eight Years War" class="internal-link">Eight Years War</a> at the <b>Battle of Greyfields</b> (648PA), the line of Alfin ended. The successor, Tyla of Aldale, chose to reject the crown and instead proclaim herself <b>Duchess of Garmeley</b> to prevent a fatal civil war. Under the subsequent rule of Dukes Albrecht V, Eadwin II, and the current <b>Duchess Agnes I</b>, the land has enjoyed over a century of peace.</p>
 
 <small><i>see <a href="Garmian Civil War" class="internal-link">Garmian Civil War</a></i></small>
 
@@ -61,7 +61,7 @@
 
 <hr class="wiki-hr">
 <h3>Demographics</h3>
-<p>The population is estimated at <b>2.4 million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (31k). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly 29k citizens and remains under Garmian protection.</p>
+<p>The population is estimated at <b>million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly  citizens and remains under Garmian protection.</p> 
 
 <ul>
     <li><b>Humans:</b> Garmian majority, with Urian and Hainachi minorities.</li>

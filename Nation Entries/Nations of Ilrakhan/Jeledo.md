@@ -1,4 +1,6 @@
-
+%%
+[[Trinicism]]
+%%
 
 
 
@@ -72,6 +74,7 @@
 </div>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p> The Duchy used to be directly undfginning of the 6th century, the Dukes of Jeledo would reject  [[Battvia]]n authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
 =======
 <p> The Duchy used to be directly under the control of the the [[Cevolis]] Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Dukes of Jeledo would reject  [[Battvia]]n authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
@@ -79,3 +82,9 @@
 Ramiro, second of his Name of House Ucarraz
 	Duc of Jeledo
 >>>>>>> 83108ed1863a70c8140f1f16f33f08a1b81c8b9e
+=======
+<p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of Jeledo and <a href="Turpador" class="internal-link">Turpador</a> would reject  <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
+<h2>People of Interest</h2>
+Ramiro, second of his Name of House Ucarraz
+	Duc of Jeledo
+>>>>>>> 0dca44c4a35dae703f65a016de3fbc7f2a2506d9

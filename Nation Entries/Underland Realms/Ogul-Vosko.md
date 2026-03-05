@@ -1,4 +1,4 @@
-[[Deepfolk]] [[Underlands]]
+[[Dwarf]] [[Underlands]] [[Terem-Zal]]
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Ogul-Vosko</h4>

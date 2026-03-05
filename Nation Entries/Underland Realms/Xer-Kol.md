@@ -1,13 +1,13 @@
-[[Deepfolk]] [[Underlands]]
+[[Dwarf]] [[Underlands]] [[Terem-Zal]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Xer-Kol</h4>
     <div class="wiki-row">
         <strong>Government:</strong>
-        <span>Feudal Monarchy</span>
+        <span>Dwarven Akazate</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Highlord Ziril Oxotor</span>
+        <span>Akaz Ziril Oxotor</span>
     </div>
     <div class="wiki-row">
         <strong>Capital:</strong>

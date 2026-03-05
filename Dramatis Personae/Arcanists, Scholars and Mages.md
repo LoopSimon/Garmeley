@@ -38,12 +38,22 @@ Even for elven standards this Wizard lived a remarkably long life, dying at the 
 
 Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ***
+### Palus Gnome-Friend
+An Urien Scholar and priest that studied with Gnomish communities, while primarily a theologian interested in the exchange of spiritualism between human and gnomish culture, he opened a wider door for arcanists and academics within their society.
+***
+### Jurahim al Biad
+Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
+
+Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ### **Meynar of Jorrenstead**
 A renowned Garmian Scholar that contributed immensely to the understanding of Proto-Urien and Rakhian Culture and History. 
 Most famous for his 819PA Work "Historiae Uriorum".
 ***
 ### **Ahrmiz Saceren**
 Better known as the infamous Necromancer Ahrmiz the Conjurer, this Kherovan Wizard ruled over the now ruined city of Kulum in the 9th century, although he was killed by brave adventurers his Cult has spread wide across Ilrakhan and rumours are well alive that he may attempt to reclaim life on the material Plane again.
+***
+### **Alfred the Younger**
+The Bishop of Szivek during the later 9th century. Alfred was a progressive bishop for Gethricist standards and made efforts to connect the clerical communities of Vihr with the arcane scholars of the west. His works on the Arcane and Divine Axes are internationally respected and used for entry level education into magical theory. 
 ***
 ### **Viccolo di Molina**
 This Cevoli Arcanist is most infamous for his rejections of not only Eastern Gethricism but also Trinicist teachings that have led to a greater anti-gethric movement within the academic community, infiltrating even prominent Institutions like Korsfall College.

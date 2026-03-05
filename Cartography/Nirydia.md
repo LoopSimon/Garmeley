@@ -1,1 +1,3 @@
-[[Inara]]
+Nirydia is one of the three major continents on the [[Inara]]n continental area, it borders Ilrakhan at the Mistspires in the west.
+The Word Nirydia stems from the [[Qalmyr]] "Niryd" meaning Land of the Sun and is mostly used in Ilrakhan to describe the lands east of Kher, although in modern day Kherova as a country is viewed as part of Nirydia.
+The largest mountain range on Inara are the Mistspires, and its largest river is the Keragi.

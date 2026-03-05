@@ -1,3 +1,6 @@
+%%
+[[Gethricism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Vihr</h4>
     <div class="wiki-row">
@@ -36,7 +39,7 @@
     </div>
 </div>
 
-<p>One of the largest nations in not just <a href="Ilrakhan" class="internal-link">Ilrakhan</a> but all <a href="Inara" class="internal-link">Inara</a>, Vihr lays claim to the lands between Mistspires and Grachhyll in the East and the Trollback Mountains in the west while considering the former Lands of <a href="Wermia" class="internal-link">Wermia</a>, although largely uninhabitable, in the North, as well as southern end of the Vihri Expanse up until the Pilv River part of their domain.</p>
+<p>One of the largest nations in not just <a href="Ilrakhan" class="internal-link">Ilrakhan</a> but all <a href="Inara" class="internal-link">Inara</a>, Vihr lays claim to the lands between Mistspires and Grachhyll in the East and the Trollback Mountains in the west while considering the former Lands of <a href="Wermia" class="internal-link">Wermia</a>, although largely uninhabitable, in the North, as well as southern end of the Vihri Expanse up until the Pilv River part of their domain. The capital of Vihr, Zavlech, is one of the largest cities in the known world with a population of ca 125.000 citizens.</p>
 
 <hr class="wiki-hr">
 <h2>Geography</h2>
@@ -49,6 +52,14 @@
 <p>Vihr is the largest nation on <a href="Ilrakhan" class="internal-link">Ilrakhan</a>, as far as population is concerned, and primarily made up of a Vihri <a href="Human" class="internal-link">Human</a> Majority, with <a href="Wermia" class="internal-link">Wermian</a>, <a href="Rean" class="internal-link">Reani</a> and <a href="Grachy" class="internal-link">Grachi</a> Human making up sizeable minorities and are higher than usual population of <a href="Deepfolk" class="internal-link">Dwarves</a> within the settlements bordering the friendly Holds of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a> and <a href="Xer-Kol" class="internal-link">Xer-Kol</a>.</p>
 <p>Gnomish and Halfling minorities are present but rare within the country.</p>
 <p>There are almost no <a href="Elf" class="internal-link">elven</a> or half-elven citizens present within the Kingdom, largely due to the Gethric Progoms of the 9th century.</p>
+<h2>Economy</h2>
+<p>The economy in Vihr is still fundamentally agricultural, institutions such as serfdom were superimposed during the Silver Age on an existing system of open fields and mature, well-established towns involved in international trade, over the following centuries, the vihri economy kept growing but underwent large changes concerning economic dislocation in urban and extraction economies, such as the birth of the Silverslach Trade.
+By the end of the 7th century Vihr had an economy dominated by rented farms and a thriving community of guilds, merchants and smaller companies controlled by the gentry and burgers.</p>
+<p>Trazlov in northern Vihr is home to the Headquarters of the <a href="The Alchemists Guild" class="internal-link">Men of Glass</a>, the international Guild of Alchemists, and one of the "three great Ports" alongside Sallesand and Uhl. </p>
+
+<p>A major factor in the rise of the merchant class in Vihr, is the labour shortage caused by the Wolfsplague of the early 910s. The drastic reduction in the peasant population meant that surviving peasants could demand higher wages from nobles and royals. This shift in labour supply and demand dynamics provides more opportunities for merchants and trades in the gethric kingdom to succeed.</p>
+
+<p>As the merchant class in Vihr gains prominence, the wealth gap between different social classes also begins to narrow; this shift reshaped the social and economic landscapes of modern Vihr, allowing for a more dynamic and fluid society. The rise of the burgher class during this period not only changed the way people worked and traded but also had a profound impact on the overall structure of all eastern Ilrakhan.</p>
 
 <hr class="wiki-hr">
 <h2>Religion</h2>
@@ -80,11 +91,15 @@
 <p>With the end of the House of Szinmo, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir III of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
 
 <h2>People of Interest</h2>
-Misklomir, third of his Name of House Ralpia
+
+Miskomir, third of his Name of House Ralpia
 	King of Vihr
 	
 Vaszco of House Ralpia
 	Crown Prince of Vihr, Duke of Trazlov
+	
+Jakub of House Ralpia
+	Prince of Vihr, Knight of the Order of the Unicorn
 	
 Katerina of House Szinmo
 	Duchess of Szievek

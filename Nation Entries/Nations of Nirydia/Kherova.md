@@ -36,7 +36,7 @@
     </div>
 </div>
 
-<p>In the far east lie the lands of Kherova around the grand lake Kher. The last bulwark of the so called civilized world, the people of Kherova have long kept to themselves and value tradition, honesty and hard work. An oddity in the grande stage of the Continent, Kherova is the only country in the world where <a href="Human" class="internal-link">humans</a> and <a href="Deepfolk" class="internal-link">dwarves</a> coexist in every place of society in a synallagma that predates most of history.</p>
+<p>In the far east lie the lands of Kherova around the grand lake Kher. The last bulwark of the so called civilized world, the people of Kherova have long kept to themselves and value tradition, honesty and hard work. An oddity in the grande stage of the Continent, Kherova is the only country in the world where <a href="Human" class="internal-link">humans</a> and <a href="dwarf" class="internal-link">dwarves</a> coexist in every place of society in a synallagma that predates most of history.</p>
 
 <hr class="wiki-hr">
 <h3>Geography</h3>
@@ -65,7 +65,9 @@
 <p>The Khat of Kherova has always been a descendant of the legendary Hero Khariel, who slew the Wyrm Thamira and married her half-dragon daughter in the events of the legendary poem, “The fated journey of Khariel”.</p>
 <p>The largest power struggle within the country is that of the Akaz of <a href="Daban-Kol" class="internal-link">Daban-Kol</a> and the Patriarch of Kher, so the conflict at the foot of the Throne between dwarves and Clergy.</p>
 <p>This has stemmed largely from the divide between the fully integrated kheri dwarves of the country, and the more isolated citizens and population of Daban-Kol, especially as the current Patriarch Vitrik I is himself a dwarf who has made no secret of his disapproval of the semi autonomous status of the Hold.</p>
-<p>The largest noble houses of Kherova enjoy an immense amount of power and leeway, namely the of Erbil, Zigrati, Iblisi and Adsali with especially the Zigrati making up the largest opposition to the crown due to a dormant and mostly ignored claim to the Throne itself.</p>
+<p>The greatest noble houses of Kherova enjoy an immense amount of power and leeway, namely the of Erbil, Zigrati, Iblisi and Adsali with especially the Zigrati making up the largest opposition to the crown due to a dormant and mostly ignored claim to the Throne itself.</p>
+
+<p>Sharing their roots as well as close cultural and religious ties with each other, the southern Principality of  [[Azuvke]] has always been the closest ally to the Khatrym and ever since the destruction of Kulum has enjoyed a great influx of trade from Kherova as it is now being used as the Khatrysm greatest Port, at least until New Kulum has been expanded.</p>
 
 <hr class="wiki-hr">
 <h3>History</h3>
@@ -92,7 +94,7 @@
 <p>After the destruction of the orcish tribes of <a href="Wermia" class="internal-link">Wermia</a> (specifically the tribes of Qa) and their exodus to the <a href="Qahori" class="internal-link">Qahori</a> Archipelago south of the Kurini Mountain range, Kherova has taken a largely friendly and sympathetic stance to the newly established <a href="Qahori" class="internal-link">Qahori Federation</a>.</p>
 
 <hr class="wiki-hr">
-<h3>Wars of Elbaean agression</h3>
+<h3>Wars of Elbaea agression</h3>
 <p>When the elven <a href="Elbae" class="internal-link">Sultanat</a> attacked <a href="Grevenna" class="internal-link">Grevenna</a> in what is now known as the 1st War of Elbae in 750PA, Kherovan forces joined in the defensive coalition together with the nations of <a href="Vihr" class="internal-link">Vihr</a> and <a href="Grachy" class="internal-link">Grachy</a> to defend their neighbour.</p>
 <p>After the conclusion of the war and the defeat of the Sultanate, Kherova gained international renown for its fierce warriors and extremely useful anti-magical expertise against the magical supremacy of the Sultanate.</p>
 <p>Thirty years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the <a href="Kobold" class="internal-link">Kobold</a> Khans of <a href="Nirydia" class="internal-link">Nirydia</a> had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherova to strike the eastern cities in 782PA.</p>
@@ -108,6 +110,7 @@
 <p>The Inquisition ruled the city lost to the lingering curses and the Kherovan Government sponsored the settlement of New Kulum which grew rapidly in the last century.</p>
 <p>The <a href="Treaty of Kulum" class="internal-link">Treaty of Kulum</a>, signed as a result of this crisis by most nations on the continent, gave Kherovan Inquisitors international legal authority to apprehend remnants of the Cult, a practice that is often criticised by local lords and authorities as well abused by individual agents of the Inquisition that use it as an opportunity to enact secret missions and witch-hunts across the Continent.</p>
 <h2>People of Interest</h2>
+
 Tiblin, ninth of his name of House Kher
 	Khat of Kherova, Lord of Kher
 	

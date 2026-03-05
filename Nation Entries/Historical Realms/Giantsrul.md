@@ -23,7 +23,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span><a href="Giantkin" class="internal-link">Giantkin</a></span>
+        <span><a href="Giant" class="internal-link">Giantkin</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

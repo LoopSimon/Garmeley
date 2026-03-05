@@ -1,3 +1,6 @@
+%%
+[[Augurism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Auguri Dominion</h4>
     <div class="wiki-row">

@@ -1,3 +1,4 @@
+[[Auguri Dominion]][[Blijgrat]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Weadland</h4>
     <div class="wiki-row">
