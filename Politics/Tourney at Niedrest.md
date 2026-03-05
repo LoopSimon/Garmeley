@@ -3,27 +3,27 @@
 
 This two week long celebration will offer fun and games to peasantry and nobility alike, culminating in a martial tourney of honourable knights from all across the realms.
 
-Participants: 
+Notable celebrity Participants: 
 
-Gorlan of House Goodwind, Lord-Protector of Urbridge
+Gorlan of House Goodwind, Lord-Protector of Urbridge,
 
-Kaspar "The grey Fox" of House Vikter
+Kaspar "The grey Fox" of House Vikter,
 
-Etric "The young Fox" of House Vikter
+Etric "The young Fox" of House Vikter,
 
-Lena of Zavic, Knight-Errant of the Trinvale
+Lena of Zavic, Knight-Errant of the Trinvale,
 
-Robiro Tidebender, Swordmaster of House Caroman
+Robiro Tidebender, Swordmaster of House Caroman,
 
-Jakub of House Ralpia, Prince of Vihr, Knight of the Order of the Unicorn
+Jakub of House Ralpia, Prince of Vihr, Knight of the Order of the Unicorn,
 
-Talion "Greenhair" of House Gelm, Prince of Gelmsburg, Paladin of the Silver Wheel
+Talion "Greenhair" of House Gelm, Prince of Gelmsburg, Paladin of the Silver Wheel,
 
-Daigo di Morella, Sir Knight of Battvia
+Daigo di Morella, Sir Knight of Battvia,
 
-Faztan Trollspawn, Knight-Errant of Uhl
+Faztan Trollspawn, Knight-Errant of Uhl,
 
-Sybilla of Pikris, First Sword of Pikris
+Sybilla of Pikris, First Sword of Pikris,
 
 
 
