@@ -15,7 +15,6 @@ Kasper von Kran
 	Duke of Gisvale
 Pavo of Alban
 	Archmage of Alban Tower
-
 Jan van de Spiegel
 	Stadholder of Schipwig and Leader-Elect of the Blijgrat League
 

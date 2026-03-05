@@ -456,10 +456,53 @@ https://github.com/rose-pine/rose-pine-theme
 
 h1, h2 {
     border-bottom: none !important;
-}
 
 /* =========================================
-   7. RESPONSIVE / MOBILE
+   7. Battlebox
+   ========================================= */
+/* The main container for the battle stats */
+.battle-grid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important; /* Forces 2 equal columns */
+    width: 100%;
+    border-top: 1px solid var(--tx3);
+    margin-top: 0.5rem;
+}
+
+/* The headers (Belligerents, Commanders, etc.) */
+.battle-header {
+    grid-column: 1 / -1 !important; /* Spans ALL columns */
+    background-color: var(--bg2); /* Use a darker/lighter bg or a specific hex like #b0c4de for wiki-blue */
+    font-weight: bold;
+    text-align: center;
+    padding: 4px 0;
+    border-bottom: 1px solid var(--tx3);
+    font-size: 0.9em;
+}
+
+/* The Left Side (e.g., Allies) */
+.battle-col-left {
+    border-right: 1px solid var(--tx3); /* Vertical divider line */
+    padding: 8px;
+    font-size: 0.85em;
+    vertical-align: top;
+}
+
+/* The Right Side (e.g., Enemies) */
+.battle-col-right {
+    padding: 8px;
+    font-size: 0.85em;
+    vertical-align: top;
+}
+
+/* Fix for lists/links inside the box */
+.battle-col-left ul, .battle-col-right ul {
+    margin: 0; 
+    padding-left: 0; 
+    list-style: none;
+}
+/* =========================================
+   RESPONSIVE / MOBILE
    ========================================= */
 @media (max-width: 900px){
     .grid-2x2 {
