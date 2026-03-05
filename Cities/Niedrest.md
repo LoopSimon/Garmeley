@@ -59,37 +59,37 @@ Niedrest has a sizable population of Gnomish residents who almost exclusively re
 <p>The Office of Rector of the Academy is an important one simply owing to the institutions good regional reputation, but the Academy itself takes efforts to largely stay out of city politics, the office is currently held by Rector Anna of Beehill. </p>
 <p>The most influential Guilds within the City are the local branch of the Gnomish Syndicate, the Carpenters Guild as well as the Blacksmiths Guild, although numerous smaller communities and guilds exist within the city walls.</p>
 <h2>Districts</h2>
-<h4>Wellstone<h4>
+<h4>Wellstone</h4>
 <p>Located on the centre of the western bank and named for the limestone cobblestones that are meticulously scrubbed by guild apprentices, this is the centre of daily life for the bourgeoisie. The buildings here are tall, narrow, and made of stone (a requirement after the Great Fire a century ago). The air here smells of incense from the cathedral and roasting meats from high-end taverns. It houses the Guildhall of hammers, the headquarters of the Blacksmiths Guild. It is a fortress-like building where the sound of ceremonial anvils rings out every hour, as well as Frieda’s Plaza: The largest open space in the city, hosting the weekly Grand Market where only guild-certified goods can be sold. </p>
 
-<h4>Dunstreets<h4>
+<h4>Dunstreets</h4>
 <p>Lying on the Western side of the Dunbridge, this district never sleeps. It is a chaotic grid of inns, moneychangers, customs houses, and stables most notably the largest bank of the city, simply dubbed "The House of Numbers". Dunstreets caters to the constant flow of travellers crossing the river. The architecture is a mix of heavy stone warehouses and timber-framed boarding houses. Because of the traffic, it is the loudest part of the city, echoing with the clatter of wagon wheels and a dozen languages from Garmeley to Cevolis. It is home to the Tollgate, a massive archway blocking the entrance to Dunbridge where the City Keeper’s tax collectors aggressively inspect wagons and the infamous painted Lady, an inn popular with wealthy foreign merchants, known for serving imported Meadi and Cevoli wines.</p>
 
-<h4>Millwalk<h4>
+<h4>Millwalk</h4>
 <p>Found downstream on the Western Bank so waste flows away from the city centre, this is the industrial engine of Niedrest. The riverbank here is lined with massive waterwheels powering sawmills and gristmills. The air is thick with sawdust and the pungent, yeasty smell of fermentation. This is the domain of the Carpenters Guild and the major Breweries. The streets are often muddy and clogged with massive timber logs floated down from the forests, many timber yards are home in Millwalk but its most famous destination is undoubtably the Laughing Alley, a street lined entirely with breweries. The runoff channels here often froth with wasted yeast.</p>
 
-<h4>Highriver<h4>
+<h4>Highriver</h4>
 <p>On the elevated Eastern Bank, overlooking the river, the clean and quiet Highriver is constantly patrolled by private guards. This is where the old money, the Patricians, and the few nobles of the city reside. The streets are wide enough for carriages to pass without trouble. The houses are miniature palaces with walled gardens, effectively separating the wealthy from the stench of the unwashed masses across the river. Highriver is dominated by Consulate Row in its middle , where large manors rented out to permanent ambassadors and other foreign dignitaries, leading towards the Glass Palace.</p>
 
-<h4>The Gnomish Quarter<h4>
+<h4>The Gnomish Quarter</h4>
 <p>A walled-off section within the eastern bank, while technically a ghetto, it is the wealthiest square mile in the city. The Gnomes have built vertically; the streets are narrow and shadowed by buildings that loom five or six stories high, connected by sky-bridges. It is a place of ticking clockwork, gem-cutting, and artificery. The <a href="The Ottian Syndicate" class="internal-link">Syndicate</a> ensures the gates are locked at sundown, not to keep gnomes in, but to keep thieves out.</p>
 
-<h4>Eastcorners<h4>
+<h4>Eastcorners</h4>
 <p>South of Highriver, but within the cities walls, Eastcorners is a mostly residential district for middle class residents and foreign visitors, its home to the largest entrance into the city walls, the Sungate and contains a great multitude of houses, inns and locals alongside the High Road, leading up towards the Dunsbridge. The large bathhouses to the south of Eastcorners are the main attraction to the busy district and often receive rich visitors from all over the city, including Highbridge.</p>
 
-<h4>Littletoll<h4>
+<h4>Littletoll</h4>
 <p>At the southern edge of the city, near the land gates lies Littletoll. If Dunstreets is for international trade, Littletoll is for the locals. It is a working-class district of carters, mule-drivers, and laborers. The name comes from the "little toll" charged for hand-carts entering the city. It is dusty, utilitarian, and home to the city’s stables and houses the Wagoner's Square, where caravans assemble before heading south toward Calmbrook and beyond.</p>
 
-<h4>The Academic Quarter<h4>
+<h4>The Academic Quarter</h4>
 <p>In the Northwest of the city near the Academy itself lies this quieter district characterized by bookbinders, and scriptoriums. The population is younger, dominated by students of the Academy of Arts. It has a slightly rebellious streak, with pamphlets criticizing the Bishop or the City Keeper often found pasted to walls here. The most famous locals within the Quarter are the Ink-Pot, a tavern where students and professors debate philosophy until dawn as well as Lyras Treasure, a newly build coffeehouse that has become a unique attraction within the city. </p>
 
-<h4>The Warrens<h4>
+<h4>The Warrens</h4>
 <p> Pressed against the old northern walls lies the poorest district within Niedrest. A labyrinth of shanties and over-occupied tenements housing refugees from the Urien wars and the city's destitute. Sanitation is non-existent, and disease outbreaks usually start here. The City Watch rarely patrols deep inside the Warrens.</p>
 
-<h4>Hangman's Row<h4>
+<h4>Hangman's Row</h4>
 <p>This strip of land in the shadow of Pale Rock Castle is grim and sunless. It houses the executioner, the gravediggers, and the businesses that rely on the garrison (cheap brothels and gambling dens). It has a reputation for being haunted, though it’s mostly just dangerous due to the drunken soldiers and criminals.</p>
 
-<h4>Mudtown<h4>
+<h4>Mudtown</h4>
 <p>Often also referred to as "The Sprawl" this area is where the city has already outgrown their walls significantly and is a dirty, dangerous place for less than upstanding, shady businesses.</p>
 
 <h2>Main Sights</h2>
