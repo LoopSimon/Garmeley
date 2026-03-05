@@ -1,5 +1,5 @@
 [[Gethricism]] [[Wermia]]
-A paramilitary organisation founded by Gethric monks in 398PA looking to protect the pilgrimage to Iztaw throughout lost Wermia.
+A paramilitary organisation founded by Gethric monks in 398PA looking to protect the pilgrimage to Iztaw throughout lost Wermia. The Knights are led by a Grand-Master who tends to reside at their High Castle in Nurk and four Paladins representing the Highest ranking knights of the order.
 
 During the early days of Gethricism, these warrior monks would guard the roads from Urland to Iztaw, its Paladins wearing mighty silver wheels to smite any and all demonic aberration that may linger and lurk in the Desolation of Wermia. 
 
@@ -10,3 +10,13 @@ Ahead of the Schism of 764, the Order attempted to interfere and forcibly dissol
 Although their holy mandate is still the protection of the Pilgrims Path through Wermia, many Scions of the Silver Wheel roam the lands of the Ilrakhani and Vihir Subcontinents on the search for demons and heretics, often coming in conflict with local authorities and magistrates in doing so.
 
 Racial prejudice and radical Gethricism are still ever present within the order to this day, and many doubt their self described holy and good motives, seeing them as little more than a band of roaming strongmen that seeks ways to rebuild their lost power and glory.
+
+Notable members of the Knights of the Silver Wheel include:
+
+Fyor Ziminastrus, Grand Master of the Silver Wheel
+Rekha of Torring, Paladin of the Silver Wheel
+Talion of Gelm, Paladin of the Silver Wheel
+Zanislaw of Morset, Paladin of the Silver Wheel
+Slivomir of Tryd, Paladin of the Silver Wheel, 
+
+

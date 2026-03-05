@@ -9,11 +9,11 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Citykeeper Rimond of Niedrest</span>
+        <span>Citykeeper Rimond von Junkel</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Calmbrook</span>
+        <span><a href="Niedrest" class="internal-link">Niedrest</a></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

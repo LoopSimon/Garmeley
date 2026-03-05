@@ -122,6 +122,7 @@
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
+            <div class="timeline-item" data-date="599PA">Larkomas writes the "Essence of Rakh"</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
             <div class="timeline-item" data-date="629PA">Fall of Thirabnir</div>
@@ -177,9 +178,11 @@
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
+            <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="870PA">Pavo of Alban erects his Tower</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
+            <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
@@ -199,6 +202,7 @@
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
             <div class="timeline-item" data-date="919PA">Urien Post is established in Uhl</div>
             <div class="timeline-item" data-date="915PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
+            <div class="timeline-item" data-date="916PA">Battle of Modim Cave</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords</div>
             <div class="timeline-item" data-date="922PA">Death of Duchess Agnes of Garmeley</div>

@@ -11,7 +11,7 @@ The infamous "Great Sculptor", a Kherovan Arcanist that ruled the City of Alahmi
  Also known as the Father of modern Elven Magic, his largest contribution was undisputably the creation of the Leypoint model that is still studied as widely accurate almost 800 years later.
 ***
 ### **Ptamon**
-An elven Sorcerer and Scholar that lived  in the 2nd and 3rd centuries PA, his most widely recognized work is "The elemental Essence" which describes and categorizes different methods of magical casting, primarily the difference between trueborn and learned mages.
+An elven Sorcerer and Scholar that lived  in the 2nd and 3rd centuries PA, his most widely recognized work is "The elemental Essence" which describes and categorizes different methods of magical casting, primarily the difference between trueborn and learned mages, but he is also the author of "Ptamons Key" a model describing Planar relativism.
 ***
 ### **Tronos of the Veil**
 A Gethric Arcanist and Necromancer during the 4th century PA. Although declared a saint for his contributions to the divine Gethric Truth shortly after his death, over the centuries he has become more and more controversial within the Church, being outright rejected by the Kethricists of Kherova.
@@ -25,23 +25,26 @@ The greatest Student of Kwarzimi, the elf Karajal founded the Karajal School of 
 ### **Wulfrick the Elder**
 Author of the "Theorem Arcanum", Wulfrick is widely seen as the figurehead of human Arcane Scholarship and Excellence, his residence and rectorship at Korsfall College and the policies instituted by him,  are largely responsible for the Dominance of the Institution in the realm of Magical Research up until the modern days.
 ***
+### **Larkomas of Ott**
+A gnomish Philosopher and Wizard, he first theorized the existence of a third fundamental Axis existing between a Plane of the Ideal and the Concrete, regarding the true essence of any given object. His theories remain largely obscure to this day within wider magical academia.
+His most popular work, "the Essence of Rakh" ascribes the fall of the rakhian empire and current state of the wasteland to a shift on this axis.
+***
+### **Izrafur of Mereskis**
+An elven Arcanist that expanded upon Larkomas works and created the Four-Axis-Model as well as the classifications of Planar Forces.
+***
 ### **Markur of the many Eyes**
- A successful student of Korsfall, Markur became a devout Gethric during the aftermath of the War of Trout and Drake and is said to have worked many wonders travelling the lands and using his powers for good.
+A successful student of Korsfall, Markur became a devout Gethric during the aftermath of the War of Trout and Drake and is said to have worked many wonders travelling the lands and using his powers for good.
  
- Gifted in both Arcane and Divine Casting, he was  declared a saint by the Gethric Church after his death and is still worshipped prominently in the Western Lands, although just like Tronos not accepted by the Kethricists of Kherova.
+Gifted in both Arcane and Divine Casting, he was  declared a saint by the Gethric Church after his death and is still worshipped prominently in the Western Lands, although just like Tronos not accepted as a Saint by the Kethricists of Kherova.
 ***
 ### **Avero of the Eightfolds**
 A half-elven scholar at Patwin Tower in modern day Garmeley, Averos most well known work, "De venenis eorumque remediis" is an attempt to reconcile Elven and Human Magical and Mathematical Research with Divine Practice.
 ***
-### Jurahim al Biad
-Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
-
-Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ***
-### Palus Gnome-Friend
+### **Palus Gnome-Friend**
 An Urien Scholar and priest that studied with Gnomish communities, while primarily a theologian interested in the exchange of spiritualism between human and gnomish culture, he opened a wider door for arcanists and academics within their society.
 ***
-### Jurahim al Biad
+### **Jurahim al Biad**
 Even for elven standards this Wizard lived a remarkably long life, dying at the age of 372.
 
 Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
@@ -49,14 +52,24 @@ Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end 
 A renowned Garmian Scholar that contributed immensely to the understanding of Proto-Urien and Rakhian Culture and History. 
 Most famous for his 819PA Work "Historiae Uriorum".
 ***
+### **Zovac Harlini**
+A vihri Mage of the early 9th century, Harlini developed the so called "Harlinic Model" of the Realms and discovered the later coined "Harlinic Space" and how Planar Forces interact within it.
+***
 ### **Ahrmiz Saceren**
 Better known as the infamous Necromancer Ahrmiz the Conjurer, this Kherovan Wizard ruled over the now ruined city of Kulum in the 9th century, although he was killed by brave adventurers his Cult has spread wide across Ilrakhan and rumours are well alive that he may attempt to reclaim life on the material Plane again.
+***
+### **Jevana of Leston**
+A Urien Researcher mainly concerned with Leygrid Theory, she is most famous for developing the so called Leyprism-Model that seeks to improve upon classical Fluxbridge Theory and the elven Leygrid Model.
 ***
 ### **Alfred the Younger**
 The Bishop of Szivek during the later 9th century. Alfred was a progressive bishop for Gethricist standards and made efforts to connect the clerical communities of Vihr with the arcane scholars of the west. His works on the Arcane and Divine Axes are internationally respected and used for entry level education into magical theory. 
 ***
 ### **Viccolo di Molina**
 This Cevoli Arcanist is most infamous for his rejections of not only Eastern Gethricism but also Trinicist teachings that have led to a greater anti-gethric movement within the academic community, infiltrating even prominent Institutions like Korsfall College.
+***
+### **Carassa al-Kael**
+
+A Scion of the Alparaz School of Insight, this elven wizard is regarded as the greatest living elven Mage of our times. Her efforts in bringing elven, gnomish and human academies closer together are internationally applauded outside of elven politics but her discoveries in Realmatic Theory, such as proof of the existence of the Astral Realm have cemented her position in academic History.
 ***
 ### **Pavo of Alban**
 A Meadi Wizard and the youngest Rector in the history of Korsfall College, he is known as one of the if not the single greatest Magical Authority alive among non-elven Practitioners, he resides in he Tower of Alban in southern Meadrath.

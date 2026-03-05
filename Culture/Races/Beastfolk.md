@@ -1,9 +1,0 @@
-
-Ratfolk
-
-Harengon
-
-Tabaxi
-
-Vanara
-

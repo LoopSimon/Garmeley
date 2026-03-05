@@ -1,27 +1,29 @@
-*To be held at the end of Winter on the behest of Lord Rimond of Niedrests 2nd Marriage*
+*To be held at the end of Winter on the behest of Lord Rimond of [[Niedrest]]s 2nd Marriage*
 
 
-Participants: 
+This two week long celebration will offer fun and games to peasantry and nobility alike, culminating in a martial tourney of honourable knights from all across the realms.
 
-Gorlan of House Goodwind, Lord-Protector of Urbridge
+Notable celebrity Participants: 
 
-Kaspar "The grey Fox" of House Vikter
+Gorlan of House Goodwind, Lord-Protector of Urbridge,
 
-Etric "The young Fox" of House Vikter
+Kaspar "The grey Fox" of House Vikter,
 
-Lena of Zavic, Knight-Errant of the Trinvale
+Etric "The young Fox" of House Vikter,
 
-Robiro Tidebender, Swordmaster of House Caroman
+Lena of Zavic, Knight-Errant of the Trinvale,
 
-Jakub of House Ralpia, Prince of Vihr, Knight of the Order of the Unicorn
+Robiro Tidebender, Swordmaster of House Caroman,
 
-Talion "the Green Prince" of House Gelm, Prince of Gelmsburg, Knight of the Silver Wheel
+Jakub of House Ralpia, Prince of Vihr, Knight of the Order of the Unicorn,
 
-Daigo di Morella, Sir Knight of Battvia
+Talion "Greenhair" of House Gelm, Prince of Gelmsburg, Paladin of the Silver Wheel,
 
-Faztan Trollspawn, Knight-Errant of Uhl
+Daigo di Morella, Sir Knight of Battvia,
 
-Sibilla of Pikris, First Sword of Pikris
+Faztan Trollspawn, Knight-Errant of Uhl,
+
+Sybilla of Pikris, First Sword of Pikris,
 
 
 

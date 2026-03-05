@@ -150,6 +150,8 @@
 			Spoken by the Cyclopi of lost Cyraclion.
 			<h4>Qahori</h4>
 			Spoken by the Orcs of the Qahori Federation.
+			<h4>Gelfir</h4>
+			Spoken by the Shirin of the Twintail Empire.
 			<h4>Satyr</h4>
 			Spoken by the Satyrs of lost Cyraclion.
 			</div>
