@@ -78,6 +78,7 @@
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
+            <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
             <div class="timeline-item" data-date="360PA">Giants retreat beyond Waelajokull</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
@@ -167,6 +168,7 @@
             <div class="timeline-item" data-date="810PA">Kranvalley Flood</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad, 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
+            <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="819PA">Meynar of Jorrensteads "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum</div>
             <div class="timeline-item" data-date="822PA">Brothers War begins</div>
