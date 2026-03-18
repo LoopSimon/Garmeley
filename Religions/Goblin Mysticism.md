@@ -1,1 +1,1 @@
-Goblins believe in icons, 
+Goblins believe in icons.
