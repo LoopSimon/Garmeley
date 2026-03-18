@@ -124,6 +124,7 @@
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
             <div class="timeline-item" data-date="599PA">Larkomas writes the "Essence of Rakh"</div>
+            <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
             <div class="timeline-item" data-date="629PA">Fall of Thirabnir</div>
@@ -131,7 +132,7 @@
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
-            <div class="timeline-item" data-date="652PA">Theris I of Pikris founds the Princedom of Hainach</div>
+            <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>

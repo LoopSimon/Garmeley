@@ -61,7 +61,11 @@
 <p>Modern day Hainach is ruled by the Prince, a gender neutral title, of House Pikris who is still a direct descendant of Theris I. The title is notably a remnant of the Reani Kingdom and the circumstances of the countries foundation, see below.</p>
 <p>The Princedom is a Tributary of the Elbae Sultan, owing to its defeat at the end of the 2nd War of Elbae Aggression in 790 PA, but enjoys a largely independent status. It is exempt from paying any financial tribute and as mentioned above enjoys major economic and mercantile benefits from being within the Sultanates customs sphere. Instead it operates as a military border state between the Sultanate and Garmeley while also acting as the elven diplomatic representative in almost all of Ilrakhan. Elven military presence is small but somewhat noticeable and high ranking military officers of the Sultanate were granted overseer positions and minor noble titles and strongholds within Hainach following the war, although their consistent support of the ruling Dynasty rather at expense of the native nobility has made the often more trustworthy than the entrenched aristocracy.</p>
 <h2>History</h2>
-<h3>Foundation of Hainach</h3>
+<h3>Fall of Rean and Foundation of Hainach</h3>
+<p>The Fall of the Kingdom of Rean happend over centuries and is too extensive to go into at this place, but as one of its core territories and one of two remaining successor states to Rean, it is worth considering Hainachs situation during the later days of the Kingdom briefly.  Following the Rebellion of Antigor the Prince of Kisnau in the early 500s, the royal family at Edgral entered a period of succession crisis. The powerful Princes of Pikris, Reanport and Diniv supported different members of the du Rean dynasty following the death of King Sachmon in 530PA, leading to intense division and period of all out war between the three. </p>
+<p>The uprising of Reanport in 622 PA, lead to the death of Prince Alkas V of Reanport and every member of the royal family of du Rean, which had fled Edgril decades prior. While various pretenders were put forward later this is seen as the official end of the legitimate due Rean line and the Kingdom of Rean.</p>
+<p>The Princes of Pikris and Diniv declared independence shortly after the death of the Child-Queen Merlande III during the uprising as the most powerful aristocrats in western Rean and engaged in a brutal war of dominance against each other that would last for almost 3 decades.
+Theris I of Pikris succeeded his mother, Prince Theresa I, at the age of 22 and managed to end the war not through bloodshed, but rather diplomacy. The House of Diniv had been reduced to only a boy of the age 4 and the economic strain put upon both realms and their populace was unsustainable. In memory of the generations that had fallen in battle, the Regent of Diniv signed Peace with Theris, acknowledging him as Prince of all Hainach. In exchange the House of Diniv would be allowed to retain their title of Prince of Diniv and all its vassals. Thus Pikris and Diniv united and the Princedom of Hainach, named after the Reani word for "Home" was declared in 652 PA.</p>
 <h3>Elven Conquest</h3>
 <h3>Modern Day</h3>
 <h2>People of Interest</h2>
@@ -70,7 +74,7 @@ Miriam, 2nd of her Name of House Pikris
 	Prince of Hainach
 	
 Yorgos of House Diniv
-	Prince-Consort of Hainach, Baron of Diniv
+	Prince-Consort of Hainach, Prince of Diniv
 	
 Lantimor of House Pikris
 	Heir-Appearent of Hainach
