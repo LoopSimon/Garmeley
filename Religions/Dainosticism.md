@@ -6,7 +6,7 @@ Naturally such thinking quickly leads one down a rather absolute view of existen
 
 
 Classic Dainosticism asks, accepting the Sabaor as conceptually un-disprovable reality, what remains but the search for motive, for that is the nature of the very philosophy.
-If the "Great Sabaor", meaning the total denial of anything originating from outsides ones mind, truly exists, then what is motive behind his precise nature as ones specific perceived reality.
+If the "Great Sabaor", meaning the total denial of anything originating from outsides ones mind, truly exists, then what is the motive behind its precise nature as ones specific perceived reality.
 In other words, if reality is self made fiction, then why make specifically this reality?
 The answer to this question is referred to as the Dainos, and worshipped by the few true adherents to this philosophy that do not succumb to madness or suicidal tendencies in almost religious fashion.
 
