@@ -29,6 +29,6 @@ Following the destruction of the Horad Isthmus by the elven Wizard Jurahim al Bi
 <hr class=wiki-hr>
 <h3> Aftermath of the treaty</h3>
 <p>
-The <a href="Elbae" class="internal-link">Elbae</a> Sultan would relinquish his claim on the lands of <a href="Grevenna" class="internal-link">Grevenna</a> and the now destroyed Isthmus of Horad in exchange for the official recognition of the tributary status of the Princedom of <a href="Hainach" class="internal-link">Hainach</a> by the members of the Reani Coalition.
+The <a href="Elbae" class="internal-link">Elbae</a> Sultan would relinquish his claim on the lands of <a href="Grevenna" class="internal-link">Grevenna</a> and the now destroyed Isthmus of Horad in exchange for the official recognition of the eyalet status of the Princedom of <a href="Hainach" class="internal-link">Hainach</a> by the members of the Reani Coalition.
 In addition the Republic of <a href="Reanport" class="internal-link">Reanport</a> was to be granted the remains of the destroyed isthmus and the minor islands created by the spells devastation as long as it guaranteed free and safe passage to ships of all signatories.
 A major reason for the Peace was the newly created economic situation in the Stormy Sea, wich now had direct Sea access to the Eastern Ports through the Pilvian Gulf.</p>
