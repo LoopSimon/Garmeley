@@ -37,7 +37,7 @@ Countess Ryvena of Tringlen
  Baron Roderick of Aldale
 Archmage Kynis of Patin Tower
 
-Prince-Consort Yorgos, Baron of Diniv
+Prince-Regent Yorgos, Prince of Diniv
 Baroness Pigella of Avern
 
 Oleg of Zacin, General of the Trinvale
