@@ -39,4 +39,4 @@
     </div>
 </div>
 
-<p>The Temple of Yl-Lhatsi is the largest organized settlement of the Mogyri people of the Drizan Peninsula, sitting at the edge of Lake Tsolha. While nominally claiming authority over all Mogyri of the Region, in effect the Temples control is mostly restricted to its immediate surroundings and many rivalling noble bloodlines only swear allegiance to its authority in name. <br> The current Myomother, the highest office of the Temple, is Suolang of the Lingpa.</p>
+<p>The Temple of Yl-Lhatsi is the largest organized settlement of the Mogyri people of the Drizan Peninsula, sitting at the edge of Lake Tsolha. While nominally claiming authority over all Mogyri of the Region, in effect the Temples control is mostly restricted to its immediate surroundings and many rivalling noble bloodlines only swear allegiance to its authority in name. <br> The current Mycomother, the highest office of the Temple, is Suolang of the Lingpa.</p>
