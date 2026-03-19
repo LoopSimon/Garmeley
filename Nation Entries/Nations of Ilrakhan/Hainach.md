@@ -5,7 +5,7 @@
     <h4 class="wiki-header">Princedom of Hainach</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Elective Absolute Monarchy</span>
+        <span>Hereditary Absolute Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
