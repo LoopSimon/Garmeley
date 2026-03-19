@@ -85,6 +85,9 @@ Niedrest has a sizable population of Gnomish residents who almost exclusively re
 
 <h4>Eastcorners</h4>
 <p>South of Highriver, but within the cities walls, Eastcorners is a mostly residential district for middle class residents and foreign visitors, its home to the largest entrance into the city walls, the Sungate and contains a great multitude of houses, inns and locals alongside the High Road, leading up towards the Dunsbridge. The large bathhouses to the south of Eastcorners are the main attraction to the busy district and often receive rich visitors from all over the city, including Highbridge.</p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Eastbridge.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
+<small><i>A view on Eastcorners and the Glass Palace from Millwalk</i></small>
 
 <h4>Littletoll</h4>
 <p>At the southern edge of the city, near the land gates lies Littletoll. If Dunstreets is for international trade, Littletoll is for the locals. It is a working-class district of carters, mule-drivers, and laborers. The name comes from the "little toll" charged for hand-carts entering the city. It is dusty, utilitarian, and home to the city’s stables and houses the Wagoner's Square, where caravans assemble before heading south toward Calmbrook and beyond.</p>
