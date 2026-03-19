@@ -92,10 +92,10 @@ Yorgos of House Diniv
 	Prince-Regent of Hainach, Prince of Diniv
 	
 Lantimor of House Pikris
-	Heir-Appearent of Hainach
+	Heir-Appearent of Hainach, Brother to the Prince of Pikris
 	
 Sybilla of House Pikris
-	First Sword of Pikris
+	First Sword of Pikris, Aunt to the Prince of Pikris
 	
 Perfidia of House Sirdovis
 	Baroness of Edgral
