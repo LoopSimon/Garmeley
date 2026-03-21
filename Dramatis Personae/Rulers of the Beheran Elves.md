@@ -46,7 +46,11 @@
 <p>Merilas II, 149PA - 320PA</p>
 <p>Lizun I, 320PA - 424PA</p>
 <p>Irater I, 424PA - 489PA</p>
-<p>Irater II, 489PA - 655PA</p>
+<p>Irater II, 489PA - 470PA</p>
+<p>Bel-Heiros I, 470PA - 515PA</p>
+<p>Aselim I, 515PA - 591PA</p>
+<p>Bel-Heiros II, 591PA - 621PA</p>
+<p>Terhazid I, 621PA - 655PA</p>
 <p>Fasmer I, 655PA - 781PA</p>
 <p>Arbalas I, 781PA - 844PA</p>
 <p>Irater III, 844PA - 897PA</p>
