@@ -106,7 +106,9 @@
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
+            <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
+            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
