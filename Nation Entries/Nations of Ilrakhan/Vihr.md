@@ -72,6 +72,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <p> </p>
 <hr class="wiki-hr">
 <h2>Politics</h2>
+<small><i>see <a href="Rulers of Vihr" class="internal-link">The Rulers of Vihr</a></i></small>
 <p>The Kingdom of Vihr is ruled by the Kings in Zavlech, currently Miskomir IV of House Ralpia and has been since its founding in the middle of the 3rd century PA.</p>
 <p>The Power in Vihr is largely if not entirely in the hands of the <a href="Church of Iztaw" class="internal-link">Church of Iztaw</a> and the Aristocracy who are unified in the Honoured Assembly, an old institution with roots in Vihrmen tradition from before the foundation of the Kingdom. The Nobility, or Uzidcy, of Vihr is organized in lesser landholders and raised knights who often swear fealty to the Gris who in turn usually are subject under a Vadcy unified under the Vihri Throne. The Var, who rule the Vadcy and sit all within the Honoured Assembly, hold vast powers within their domains and are largely autonomous.</p>
 <p>Periods of Vihri History are often defined by the Kings relationship with the High-Bishop of Iztaw, and the silent power struggle between Iztaw and Zavlech.</p>
@@ -92,11 +93,11 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <p>After the Zav senior line died out in 501, Vihr came under the rule of the Duke of Szievek, Kasimir of House Szinmo, a Junior Branch of the House of Zav.</p>
 <h3>House of Worocek (562PA - 692PA)</h3>
 <h3>House of Ralpia (692PA - present)</h3>
-<p>With the end of the House of Worocek, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir III of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
+<p>With the end of the House of Worocek, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir II of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
 
 <h2>People of Interest</h2>
 
-Miskomir, third of his Name of House Ralpia
+Miskomir, fourth of his Name of House Ralpia
 	Ras of Vihr
 	
 Vaszco of House Ralpia

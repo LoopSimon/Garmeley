@@ -149,7 +149,7 @@
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">Lissvalley cities unite</div>
-            <div class="timeline-item" data-date="716PA">Uhl is granted Independence by Vormil I</div>
+            <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
