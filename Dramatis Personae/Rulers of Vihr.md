@@ -48,4 +48,3 @@
 <p>Jakub I "the Good" , 888PA - 910PA</p>
 <p>Miskomir IV, 910PA - current</p>
 
-<p>This list accounts for the honorary year of mourning as the last year of the previous rulers reign </p>
