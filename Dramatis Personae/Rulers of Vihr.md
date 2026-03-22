@@ -11,7 +11,7 @@
 <p>Viago IV, 351PA - 375PA</p>
 <p>Zervind II "Kneelgood", 375PA - 388PA</p>
 <p>Boris I "the Pious", 388PA - 407PA</p>
-<p>Jasper III "the Pious", 407PA - 438PA</p>
+<p>Jasper III, 407PA - 438PA</p>
 <p>Martis I, 438PA - 450PA</p>
 <p>Martis II, 450PA - 456PA</p>
 <p>Viago V "the Merry", 456PA - 489PA</p>
