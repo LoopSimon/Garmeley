@@ -87,12 +87,12 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <h3>House of Zav (241PA - 501PA)</h3>
 <p>The Tribe of Zav, lead by Viagos descendants, lived along the middle of the Tryda River and made up the largest ethnic group among Vihrmen during the first half of the Silver Age. It was only natural that with Viago I ascending to Kingship the city of Zavlech was made the formal Capital of the new Nation, replacing Tlokyemy as the centre of Vihrmen culture. This era was dominated by the spread of <a href="Gethricism" class="internal-link">Gethricism</a> and the conversion of not only the Vihrmen Lands, but also foreign entities, such as the Kherovan Khatrym, the Kingdom of Halgrach and the Kingdom of <a href="Rean" class="internal-link">Rean</a> to varying degrees of success.</p>
 
-<p>It quickly became apparent to the blooming feudal nobility that the clergy—and in particular the High Bishop of Iztaw—had risen to untold influence. In response the League of Lords was formed in 377PA, pressuring the Throne of Zavlech to concede on certain demands of representation, ending in 384PA with the creation of the Honoured Assembly.</p>
-<h3>House of Szinmo (501PA - 692PA)</h3>
+<p>It quickly became apparent to the blooming feudal nobility that the clergy—and in particular the High Bishop of Iztaw—had risen to untold influence after the ascension of the weak new king, Zervind II. In response the League of Lords was formed in 377PA, pressuring the Throne of Zavlech to concede on certain demands of representation, ending in 384PA with the creation of the Honoured Assembly.</p>
+<h3>House of Szinmo (501PA - 553PA)</h3>
 <p>After the Zav senior line died out in 501, Vihr came under the rule of the Duke of Szievek, Kasimir of House Szinmo, a Junior Branch of the House of Zav.</p>
-
+<h3>House of Worocek (562PA - 692PA)</h3>
 <h3>House of Ralpia (692PA - present)</h3>
-<p>With the end of the House of Szinmo, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir III of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
+<p>With the end of the House of Worocek, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir III of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
 
 <h2>People of Interest</h2>
 
