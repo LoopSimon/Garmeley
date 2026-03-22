@@ -38,7 +38,7 @@
 <p>Miskomir II, 692PA - 713PA</p>
 <p>Vormil I "Seaborn", 713PA - 742PA</p>
 <p>Jasper IV, 742PA - 753PA</p>
-<p>Miksomir III "the Black", 752PA - 778PA</p>
+<p>Miskomir III "the Black", 752PA - 778PA</p>
 <p>Orian I, 778PA - 786PA</p>
 <p>Vormil II, 786PA - 813PA</p>
 <p>Viago VII, 813PA - 822PA</p>
