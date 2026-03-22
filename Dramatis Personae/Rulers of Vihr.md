@@ -1,3 +1,5 @@
+<p>The Rasi of Vihr and Wermia</p>
+
 <h3>The Zav Dynasty</h3>
 <small>241PA - 501PA<small>
 <p>Viago I "Firespear", 241PA - 258PA</p>
@@ -46,3 +48,4 @@
 <p>Jakub I "the Good" , 888PA - 910PA</p>
 <p>Miskomir IV, 910PA - current</p>
 
+<p>This list accounts for the honorary year of mourning as the last year of the previous rulers reign </p>
