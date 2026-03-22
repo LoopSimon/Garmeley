@@ -2,14 +2,14 @@
 [[Gethricism]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Kingdom of Vihr</h4>
+    <h4 class="wiki-header">Rascy zi Vihr</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Absolute Monarchy</span>
+        <span>Hereditary Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>King Miskomir IV</span>
+        <span>Ras Miskomir IV</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -40,6 +40,10 @@
 </div>
 
 <p>One of the largest nations in not just <a href="Ilrakhan" class="internal-link">Ilrakhan</a> but all <a href="Inara" class="internal-link">Inara</a>, Vihr lays claim to the lands between Mistspires and Grachhyll in the East and the Trollback Mountains in the west while considering the former Lands of <a href="Wermia" class="internal-link">Wermia</a>, although largely uninhabitable, in the North, as well as southern end of the Vihri Expanse up until the Pilv River part of their domain. The capital of Vihr, Zavlech, is one of the largest cities in the known world with a population of ca 125.000 citizens.</p>
+
+<hr class="wiki-hr">
+<h2>Etymology</h2>
+<p>Rascy zi Vihr, in Urien literally the "Kingdom of the Vihr" or colloquially just Vihr is derived from the tribe of the vihrmen that organized in a greater federation in the Lands of the Lheva and Tryd River, vihrmen meaning literally "men of the horn" likely stemming from the unicorns of their homeland.</p>
 
 <hr class="wiki-hr">
 <h2>Geography</h2>
@@ -93,25 +97,37 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <h2>People of Interest</h2>
 
 Miskomir, third of his Name of House Ralpia
-	King of Vihr
+	Ras of Vihr
 	
 Vaszco of House Ralpia
-	Crown Prince of Vihr, Duke of Trazlov
+	Kisras of Vihr, Gri of Lovno
 	
 Jakub of House Ralpia
-	Prince of Vihr, Knight of the Order of the Unicorn
-	
-Katerina of House Szinmo
-	Duchess of Szievek
+	Kis of Vihr, Knight of the Order of the Unicorn
 	
 Orthel, second of his Name
-	High-Bishop of Iztaw and Head of the Gethric Church
+	Bisop of Iztaw and Head of the Gethric Church
 	
 Dorman of the White Sea
 	Master of the Order of the Unicorn
 	
 Henrietta of House Try
-	Duchess of Orzebachi
+	Var of Orzebachi
+	
+Katerina of House Szinmo
+	Var of Szievek
+	
+Osran of House Lawchlaw
+	Var of Trazlov
+	
+Michal of House Zrimiz
+	Var of Ibozka
+	
+Tadeuz of House Terjan
+	Var of Opuzna
+	
+Jan of House Martej
+	Var of Tlokyemy
 	
 Slivomir of House Tryd 
 	Paladin of the Silver-Wheel
