@@ -80,6 +80,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 
 <hr class="wiki-hr">
 <h2>History</h2>
+<small><i>see <a href="Rulers of Vihr" class="internal-link">The Rulers of Vihr</a></i></small>
 
 <h3>Unification Period</h3>
 <p>The history of the Vihr Kingdom is inevitably linked to the history of the Gethric Church.</p>
