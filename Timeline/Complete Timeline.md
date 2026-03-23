@@ -135,6 +135,7 @@
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
+            <div class="timeline-item" data-date="681PA">Fall of the Luchun Khaganate</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
