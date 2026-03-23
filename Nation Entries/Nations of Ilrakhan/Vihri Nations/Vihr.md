@@ -114,7 +114,7 @@ Dorman of the White Sea
 	Master of the Order of the Unicorn
 	
 Henrietta of House Tryn
-	Var of Levazci
+	Varina of Levazci
 	
 Katerina of House Szinmo
 	Varina of Szievek
