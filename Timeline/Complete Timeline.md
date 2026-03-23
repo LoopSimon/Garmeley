@@ -104,6 +104,7 @@
             <div class="timeline-item" data-date="521PA">Destruction of Qa, end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
+            <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
@@ -125,7 +126,7 @@
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
-            <div class="timeline-item" data-date="599PA">Larkomas writes the "Essence of Rakh"</div>
+            <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh"</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
@@ -135,7 +136,7 @@
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
-            <div class="timeline-item" data-date="681PA">Fall of the Luchun Khaganate</div>
+            <div class="timeline-item" data-date="681PA"> Battle of Verivale, End of the Luchun Khaganate</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
@@ -171,6 +172,7 @@
             <div class="timeline-item" data-date="803PA">Invention of Gunpowder</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="810PA">Kranvalley Flood</div>
+            <div class="timeline-item" data-date="811PA">Begin of the Keywars</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad, 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
