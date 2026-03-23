@@ -3,22 +3,22 @@
 [[Vihr]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Vadcy zi Szievek</h4>
+    <h4 class="wiki-header">Vadcy zi Tloky</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Vihri Vadcy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Varina Katerina</span>
+        <span>Var Jan</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Szievek</span>
+        <span>Tlokyemy</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>A Golden Bridge</span>
+        <span>A blue unicorn and sheep on white ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -40,4 +40,4 @@
     </div>
 </div>
 
-<p> Szievek is one of the major Vadcy within Vihr, controlling lands in the northern Expanse, it sits between Zavlech itself and the central Grachyll.</p>
+<p> Named after the Tlok River, Tloky is a Vadcy of Vihr that lies between the crownlands of Zavlech and the southern Trollback Mountains.</p>

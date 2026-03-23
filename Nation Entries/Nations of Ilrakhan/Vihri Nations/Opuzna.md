@@ -3,22 +3,22 @@
 [[Vihr]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Vadcy zi Szievek</h4>
+    <h4 class="wiki-header">Vadcy zi Opuzna</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Vihri Vadcy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Varina Katerina</span>
+        <span>Var Tadeuz</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Szievek</span>
+        <span>Opuzna</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>A Golden Bridge</span>
+        <span>Red and Black Unicorn</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -40,4 +40,4 @@
     </div>
 </div>
 
-<p> Szievek is one of the major Vadcy within Vihr, controlling lands in the northern Expanse, it sits between Zavlech itself and the central Grachyll.</p>
+<p> The geographically largest Vadcy of Vihr, Opuzna nominally controls the southern Expanse and the Ravenleaf Forest, which remains largely uninhabited. </p>

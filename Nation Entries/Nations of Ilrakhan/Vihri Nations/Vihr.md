@@ -129,7 +129,7 @@ Tadeuz of House Terjan
 	Var of Opuzna
 	
 Jan of House Martej
-	Var of Tlokyemy
+	Var of Tloky
 	
 Slivomir of House Tryd 
 	Paladin of the Silver-Wheel
