@@ -1,5 +1,7 @@
 %%
 [[Tsurigism]]
+[[Mogyr]]
+[[Mogyri Clans]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Temple of Yl-Lhatsi</h4>
