@@ -102,13 +102,16 @@ Miskomir, fourth of his Name of House Ralpia
 	Ras of Vihr
 	
 Vaszco of House Ralpia
-	Kisras of Vihr, Gri of Lovno
+	Kisras of Vihr, 
+	Gri of Lovno
 	
 Jakub of House Ralpia
-	Kis of Vihr, Knight of the Order of the Unicorn
+	Kis of Vihr, 
+	Knight of the Order of the Unicorn
 	
 Orthel, second of his Name
-	Bisop of Iztaw and Head of the Gethric Church
+	Bisop of Iztaw,
+	Head of the Gethric Church
 	
 Dorman of the White Sea
 	Master of the Order of the Unicorn
@@ -120,7 +123,11 @@ Katerina of House Szinmo
 	Varina of Szievek
 	
 Osran of House Lawchlaw
-	Var of Trazlov
+	Var of Trazlov,
+	Foreman of the Honoured Assembly
+	
+Zeslav of House Wogrov
+	Var of Rovgi
 	
 Michal of House Zrimiz
 	Var of Ibozka
@@ -130,6 +137,12 @@ Tadeuz of House Terjan
 	
 Jan of House Martej
 	Var of Tloky
+	
+Provim of House Sribo
+	Var of Selbia
+	
+Volboris of House Torry
+	Var of Torry
 	
 Slivomir of House Tryd 
 	Paladin of the Silver-Wheel
