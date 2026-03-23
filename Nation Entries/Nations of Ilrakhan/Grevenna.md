@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Badger eating a Snake</span>
+        <span>Armored Badger</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -45,5 +45,5 @@
 <p>One of the smaller realms on the stage of Ilrakhan, Grevenna sits between the Giants of the Vihri Kingdom and the elven Sultanate. The recent decades have not been kind to the men of the Pilv as the opening of the Horad Isthmus a the end of the <a href="Wars of Elbae Aggression" class="internal-link">Elbae Wars</a> would render its land routes from Reanport and Grevenna to the Pilvian Gulf far less profitable than the newly established maritime path.</p>
 <h2>People of Interest</h2>
 
-Caroman, first of his Name of House Caroman
+Caroman, first of his Name of House Rofea
 	Grand Lord of Grevenna
