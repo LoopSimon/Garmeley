@@ -10,6 +10,9 @@ A list of known Dragons
 	mythical Dragon of [[Trykkerog]] mentioned in the Saga of Ylva.
 
 ***Thamira***
-The Antagonist in *"The Fated Journey of Khariel"*, a Kherovan tale describing the real life figure of Khariel, likely dated to the Era of Cities in the history of [[Kherova]], Thamira's Rest, the rocky lands on the south-eastern slopes of the Mistspires, are named after this Wyrm.
-Attempts to reconstruct the origin of the tale have largely been hindered by the [[Kherovan Inquisition]]s lockdown of the Ruins of Alahmid, following the exploits of the Wizard Merzigal,
-but there are those who believe Thamira may not have been a Dragon at all, but instead perhaps a creation of the "Great Sculptor" or even an entity from beyond our Plane of existance.
+	The Antagonist in *"The Fated Journey of Khariel"*, a Kherovan tale describing the real life figure of Khariel, likely dated to the Era of Cities in the history of [[Kherova]], Thamira's Rest, the rocky lands on the south-eastern slopes of the Mistspires, are named after this Wyrm.
+	Attempts to reconstruct the origin of the tale have largely been hindered by the [[Kherovan Inquisition]]s lockdown of the Ruins of Alahmid, following the exploits of the Wizard Merzigal,
+	but there are those who believe Thamira may not have been a Dragon at all, but instead perhaps a creation of the "Great Sculptor" or even an entity from beyond our Plane of existance.
+
+***Noor-Rah***
+	also known as "the Wurm of Limsul", this entity is rumoured to live within the Limsul Peaks, worshipped by the Kobolds of [[Rha-Gis]] as their living God.
