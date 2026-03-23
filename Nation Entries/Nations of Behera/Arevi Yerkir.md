@@ -38,7 +38,7 @@
         <span>N/A</span>
     </div>
 </div>
-
+<small><i>this article was written by Dragon</i></small>
 <p>The <b>Arevi</b> are an ancient, semi-nomadic people inhabiting <b>Arevi Yerkir</b>, the foothills of the <b>Cloudscratchers</b>. Known as masterful horsemen and fierce protectors of their sacred lands, they have remained in a state of perpetual conflict with the <a href="Elbae" class="internal-link">Elbae Sultanate</a> for generations.</p>
 
 <hr class="wiki-hr">

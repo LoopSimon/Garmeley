@@ -1,4 +1,7 @@
+<small><i>this article was written by Tombo</i></small>
+<p>A brief overview over the twelve major Clans of the <a href="Mogyr" class="internal-link">Mogyri</a> organized under the <a href="Yl-Lhatsi" class="internal-link">Temple of Yl-Lhatsi</a></p>
 <h2>Hericium Erinaceus</h2>
 <h4>Culture</h4>
-
+<p>This clan is known for being the only clan that actively integrates with a shroom bonded humans and lives more outside of the marsh areas. they are known for animal husbandry being the only clan to keep large amounts of animals and herd cattle. being on the border they are accustomed to conflict with non mogyri peoples especially since bandits who would usually not enter the drizan peninsular proper are more willing to raid the flatter land that makes up most of their territory. the clan has a very notable accent among mogyri and have a pretty relaxed attitude to nobility with most nobles will live shoulder to shoulder with the common folk and are not afraid of getting their hands dirty with a hard days work. due to living with shroombonded humans for thousands of years they are very tolerant of non mogyri and have the most experience with safely shroombonding other races.</p>
 <h4>History</h4>
+<p>Towards the end of the wars of mycelium establishment the Hericium line intervened to help establish a peace deal securing themselves a place as a great clan. the other most notable moment in their history was the rise of Hericium Gaden to shogun and his conquest culminating in his victory over Luchun son of Luchun in a duel. Gaden is celebrated within the clan to this day despite his somewhat contreversial fall out of power, due to his sacrifice in the pileus conference.</p>
