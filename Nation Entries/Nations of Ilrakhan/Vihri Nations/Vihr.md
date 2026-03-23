@@ -113,11 +113,11 @@ Orthel, second of his Name
 Dorman of the White Sea
 	Master of the Order of the Unicorn
 	
-Henrietta of House Try
-	Var of Orzebachi
+Henrietta of House Tryn
+	Var of Levazci
 	
 Katerina of House Szinmo
-	Var of Szievek
+	Varina of Szievek
 	
 Osran of House Lawchlaw
 	Var of Trazlov
