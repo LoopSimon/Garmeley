@@ -1,25 +1,20 @@
 orbited by [[The first Moon]] and [[The second Moon]]
 
-ca. 50.000 km equatorial circumference
+48864 km equatorial circumference
 
 Inara:
-	Ilrakh 
-			Length: ca. 3600 mil / 5800 km
-			Height: ca. 2000 mil / 3200 km
-	Trykkerog
-			Length: ca. 1400 mil / 2200 km
-			Height: ca. 325 / 520 km
-	Behera 
-			Length: ca. 2500 mil / 4000 km
-			Height: ca. 2150 mil / 3450 km
-	Il-Haena
-			Length: ca. 600 mil / 960 km
-			Height: ca. 450 mil / 725 km
-	Nirydia
-			
-			
+	Made up of the continents of: Ilrakhan, Nirydia and Behera.
+		The large islands of Trykkerog, Durenni and Il-Haena are often considered as subcontinents on Inara.
 	
 
-Aislig
+Aislig, Peadyr and Bulug:
+	These three larger islands are found to the far west of Ilrakhan and sometimes referred to as a single continent, although they are distinct landmasses.
 
-Peadyr
+Eressa and Pagia:
+	Located within the south-western corner of your classical Ilrakhani Map, these 2 large islands are often referred to as the Eressian Continent.
+
+Sirena
+	After Inara, southern Sirena is the largest single landmass in the entire world, often referred to as the "New World", together with Bricea.
+
+Bricea:
+	 Far South of Behera and direct to the East of Sirena lies the continent of Bricea, often referred to as the "New World", together with Sirena.
