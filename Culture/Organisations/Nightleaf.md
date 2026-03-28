@@ -1,1 +1,3 @@
-The Nightleaf Ring of Assassins, often just referred to as "the Nightleaf" is an originally cevolian organisation of hired killers that engage in ritualistic practice in worship to Gizava, the ancient Cevolian Goddess of Sleep.
+The Nightleaf Ring of Assassins, often just referred to as "the Nightleaf" is an originally cevolian organisation of hired killers that engage in ritualistic practice in worship to Gizava, the ancient  Goddess of Sleep of the [[Cevolian Pantheon]].
+Currently the Organization is mainly active in [[Battvia]], [[Meadrath]], [[Paper Cities]] as well as [[Jeledo]] and [[Turpador]], although they are known to take on international contracts in greater Ilrakhan for the right customer.
+Their assassins tend to be women and often rely on alchemy and ambush tactics.
