@@ -1,0 +1,1 @@
+The Nightleaf Ring of Assassins, often just referred to as "the Nightleaf" is an originally cevolian organisation of hired killers that engage in ritualistic practice in worship to Gizava, the ancient Cevolian Goddess of Sleep.
