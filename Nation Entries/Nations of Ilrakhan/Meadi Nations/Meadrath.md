@@ -1,5 +1,7 @@
 %%
 [[Trinicism]]
+[[Gisvale]]
+[[Freelands]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Meadrath</h4>
@@ -65,7 +67,7 @@ The so called "Meadi Empire" as it is referred to colloquially, describes the va
 
 <h3>Gisvale & Korsfall</h3>
 <p>The History of the meadi after the fall of the <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a> in 260PA is one of two kingdoms.
-The Kingdom of Gisvale was formed by Ardol I of House of Gismar, a descendant of the legendary hero Gismar that was said to have slain the Black <a href="Dragon" class="internal-link">Dragon Heximar.</a> The Kings of the Gisvale ruled from Giselstatt along the mighty Trinmo and were known for their close cultural association to northern  Urland, most prominently shown in their worship of the <a href="Turvik Paganism" class="internal-link">Turvik Gods.</a> Even in the days before the Fall of the Auguri, this difference in faith clearly differentiated the people of the Gisvale from their meadi and weadi cousins.</p>
+The Kingdom of <a href="Gsivale" class="internal-link">Gisvale</a> was formed by Ardol I of House of Gismar, a descendant of the legendary hero Gismar that was said to have slain the Black <a href="Dragon" class="internal-link">Dragon Heximar.</a> The Kings of the Gisvale ruled from Giselstatt along the mighty Trinmo and were known for their close cultural association to northern  Urland, most prominently shown in their worship of the <a href="Turvik Paganism" class="internal-link">Turvik Gods.</a> Even in the days before the Fall of the Auguri, this difference in faith clearly differentiated the people of the Gisvale from their meadi and weadi cousins.</p>
 <p>Unlike Gisvale, the Realm of Korsfall was very much a direct continuation of the Auguri Dominion. The earliest known record of a "Lord of all Meadi in Korsfall" is the figure of Torvald the Tall, an Auguri general that likely took power soon after 260PA and most of this early history of Korsfall describes their repeated conflicts and wars with the eastern people of the Locni Valley. The people of Korsfall very much continued the Auguri traditions, such as their reverence for medicae, scholars and mages, but of course no longer practiced religious rites as the Arrival of Gethricism had played a large part in the fall of the Dominion.</p>
 
 <h3>The Fall and Rise of the House of Gismar</h3>
