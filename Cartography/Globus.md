@@ -1,6 +1,6 @@
 orbited by [[The first Moon]] and [[The second Moon]]
 
-48864 km equatorial circumference
+47890 km equatorial circumference
 
  [[Inara]]:
 	Made up of the continents of: Ilrakhan, Nirydia and Behera.
@@ -19,3 +19,7 @@ orbited by [[The first Moon]] and [[The second Moon]]
 
  [[Bricea]]:
 	 Far South of Behera and direct to the East of Sirena lies the continent of Bricea, often referred to as the "New World", together with Sirena.
+
+
+ [[Zefellis]]
+	 Often considered as the smallest continent if not by far the largest island on the Globe, Zefellis lies far in the northern hemisphere and its north is made up of uninhabitable frozen wastes.
