@@ -13,7 +13,7 @@ Cevoli: primarily the Cesteri, Battvian and Rasteri peoples
 
 Meadi: including High Meadi, Low Meadi, Gismen, and Hundi peoples
 
-Weadi: primarily the High Weadi, Kranmen and Greenfolk peoples
+Weadi: primarily the Weadmer, Kranmer, Gerdien and Greenfolk peoples
 
 Urien: primarily Eldien and Trinmen peoples
 
