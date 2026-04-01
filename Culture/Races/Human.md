@@ -17,7 +17,7 @@ Weadi: primarily the High Weadi, Kranmen and Greenfolk peoples
 
 Urien: primarily Eldien and Trinmen peoples
 
-Reani: primarily Edgrali, Thulmen and  
+Reani: primarily Edgrali, 
 
 Garmian: primarily the High Garmian, Lower Garmian and Melmen  
 
@@ -27,16 +27,17 @@ Asefi: primarily the Horadi, Hessefi and Asefi peoples
 
 Beheri: primarily the Beheri, Arevi, and Mogori tribes
 
-Palmunian: including the remnant tribes of Neo-Palmunis
+Palmunian: including the remnant tribes of Neo-Palmunis peoples
 
 Vihrmen: primarily the Trydzi, Opuzni, Tloky and Trazci peoples
 
-Grachy: primarily the Halgrachi, Hyllfolk and Giormen
+Grachy: primarily the Halgrachi, Hyllfolk and Giormen peoples
 
 Wermian: including the Old Wermian, Moormen and Morellian people
 
-Kheri: primarily the Lakiri, Azuvi, Kheri and Yevani
+Kheri: primarily the Lakiri, Azuvi, Kheri and Yevani peoples
 
-Beali: primarily the Lissari, Blue Beali, Red Beali and Golden Beali
+Beali: primarily the Blue Beali, Red Beali and Golden Beali peoples
 
+Othiri: primarily the Othiri, Lissari and Moreni peoples
 

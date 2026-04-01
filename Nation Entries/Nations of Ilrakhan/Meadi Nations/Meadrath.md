@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Queen Gisela V</span>
+        <span>Queen Gisela IV</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -32,7 +32,7 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>High Meadi, Urien</span>
+        <span>High Meadi</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -78,17 +78,22 @@ The following conflict is known to history as <a href="War of Trout and Drake" c
 <p>And so it was that on the even of Fall, in 664PA, Liara of the House of Gismar would marry Gunther of the House of Kor, the Lord of Korsfall and her fathers strongest supporter.
 Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. To cement the Union of the two realms their firstborn son, Gildher would be crowned as the first King of Meadrath, the unified Lands of his ancestors.</p>
 <h3>Gisela I & the Rise of Trinicism</h3>
-<p>In the year 704PA, Gisela of House Kor would be crowned Queen Gisela I of Meadrath, after the death of her father, Gildher II. Her reign lasted for over 68 years and usher in an age of prosperity and progress for the meadi people that would leave the Kingdom as one of the premier powers of the Inaran continent. During her formative years as a young monarch, Gisela succesfully confronted rebellious vassals and was guided by her mother, the late Queen-Mother Margaret of Jera.</p>
+<p>In the year 704PA, Gisela of House Kor would be crowned Queen Gisela II of Meadrath, after the death of her father, Gildher II. Her reign lasted for over 68 years and usher in an age of prosperity and progress for the meadi people that would leave the Kingdom as one of the premier powers of the Inaran continent. During her formative years as a young monarch, Gisela succesfully confronted rebellious vassals and was guided by her mother, the late Queen-Mother Margaret of Jera.</p>
 <p>Gisela instigated significant reforms in the meadi legal system, creating a royal judiciary and institutions of appeal to the court directly, while abolishing trials by ordeal, to institute her new legal reforms and administer the country more effectively, she established the office of the bailiff.
 Giselas expanded upon the work of her father and grandfather and would further sponsor and expand the  <a href="Korsfall College" class="internal-link">College at Korsfall</a> and earn a reputation as a fair, judicious and scholarly Ruler across Ilrakhan.
 </p>
 <p>A few years after the outbreak of <a href="Wars of Elbae Aggression" class="internal-link">first Elbae War</a> the High-Bishop of <a href="Church of Iztaw" class="internal-link">Iztaw</a> woudl declare the Gethric Progroms, a series of mandates to banish and persecute elves and half-elves across all lands of the devout. This would cause great uproar within many regional Churches, especially around northern Urland and in the western regions of Meadrath and Cevolis where the Clergy of Iztaw had long been viewed as either corrupt politicians or petty servants of the Kings of <a href="Vihr" class="internal-link">Vihr</a>. In response to the Bull, many Bishops of the Church would gather at Trinfurt in 764 PA and debate for months the divine justice of not only such a progrom but also the role of the bishop, the view on the arcane and divine and the Hierarchy within the clergy.
 When Knights of the <a href="The Order of the Silver Wheel" class="internal-link">Order of the Silver Wheel</a> would attempts to forcefully disband the Gathering, Gisela supported local guards and adventurers that defended the priests successfully. The Great Schism between the east and the west that would occur and later lead to the Trinicist denomination of Gethric belief is a direct consequence of the Conclave.<p>
 
+<h3>The Twins War & The Treaty of Leis</h3>
+<p>Following the Death of Queen Margaret I, the daughter of Gisela II in 779A, her two twin sons, Gildher and Kilean both put forward claims to the Meadi Throne. While Gildher was the older of the two, Kilean had been a successful commandant of armies, well connected within Meadi Nobility and as a knight cut a popular and dashing figure with the peasantry. Days before the coronation of Gildher, the twins elderly midwife was presented by Kileans supporters and testified that it was Kilean after all who had been delivered first and he was the rightful heir to the Throne.</p>
+
+<p>Although the claim was shady and weak, almost entirely dismissed by modern day historians, it was enough for Kilean to assemble a large faction of the country behind himself and declare that if his brother would not cede the throne to him he would take it by force, thus the later dubbed Twins war began in 780PA. The bloody conflict would last for 6 years until the death of Kileans firstborn son Gilmar following the battle of Leis, while Kileans faction was still belligerent and not broken, Gildher had unilaterally won the war and forced his brother to retreat beyond the Gisvale. If out of love for his twin and sorrow over the death of his nephew or simply to end the catastrophic war where meadi fought meadi, Gildher offered Kilean amicable terms at Leis and Peace was signed. Kilean would renounce his and his descendants claims on the throne of Meadrath in perpetuity and swear to defend Meadrath and her people and acknowledge the King of Meadrath as his superior. In return he would be made the Ruler of the newly established Archduchy of Gisvale and permitted to rule his lands independently. Thus Kilean became the ancestor of the von Kor Cadet House, the of Kil. </p>
+
 <h3>The Meadi Empire</h3>
 In the later years of the 9th century, Meadraths influence had only grown and it was now considered one of the "Great Three Powers" alongside the beheran Sultantate and the Vihri Kingdom. 
-The late Queen Gisela IV, of the Kor Junior Branch of Orvan, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 895PA.
-While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Sallesand, Blijgrat, the Halfling Freelands and various other nominally fully independent nations.
+The late Queen Gisela III von Kor, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 895PA.
+While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Lesmere, Gisvale, the Halfling Freelands and various other nominally fully independent nations.
 
 
 
@@ -97,7 +102,7 @@ While on paper a merely internal body of administration and efficiency, in essen
 
 <h3>Modern Day</h3>
 
-Gisela, fifth of her name of House Orvan
+Gisela, fourth of her name of House von Kor
 	Queen of Meadrath
 	
 Odrick von Fulmer
