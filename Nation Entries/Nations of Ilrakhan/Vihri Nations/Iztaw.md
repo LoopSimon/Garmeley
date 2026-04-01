@@ -40,3 +40,4 @@
         <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>, <a href="Wermia" class="internal-link">Wermia</a>
     </div>
 </div>
+<p>Iztaw rules over a conglomeration of territories in northern Vihr, largely autonomous within the greater Vihri Kingdom it is excempt from almost all obligations such as taxes and levies.</p>
