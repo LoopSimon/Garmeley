@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Jueli Human</span>
+        <span>Jueli <a href="Human">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

@@ -1,37 +1,36 @@
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Meadi Freelands</h4>
-    <div class="wiki-row">
+    <h4 class="wiki-header">Korringe of Vignasoya</h4> <div class="wiki-row">
         <strong>Government</strong>
-        <span>Peasent Republics</span>
+        <span>Feudal Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>N/A</span>
+        <span>Korre Jassvr V</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Yeghall</span>
+        <span>Mannelik</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Red Goat on Grey Ground</span>
+        <span>Black Wolfshead on white Ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Trinicism" class="internal-link">Trinicism</a>
+        <a href="Gethricism">Bykmali Paganism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Meadi <a href="Halfling" class="internal-link">Halfling</a></span>
+        <span>Skori <a href="Human">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Meadi Halfing</span>
+        <span>Old Bykmål</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
+        <span>N/A</span>
     </div>
 </div>

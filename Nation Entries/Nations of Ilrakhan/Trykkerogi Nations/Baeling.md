@@ -25,7 +25,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Olbellinge Human</span>
+        <span>Olbellinge <a href="Human">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
