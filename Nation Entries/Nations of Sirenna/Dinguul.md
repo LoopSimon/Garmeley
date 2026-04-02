@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Sirennan <a href="Cyclopi" class="internal-link">Gurita</a></span>
+        <span>Sirennan <a href="Gurita" class="internal-link">Gurita</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
