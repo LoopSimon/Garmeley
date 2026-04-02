@@ -5,15 +5,15 @@
     <h4 class="wiki-header">Grand Dinguul</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Elective Gerontocracy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span></span>
+        <span>N/A</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Ilkulu</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
