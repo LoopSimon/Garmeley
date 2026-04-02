@@ -1,4 +1,4 @@
-Belligerents: [[Urland]] [[Hobgoblin Tribes]]
+Belligerents: [[Urland]] [[Ak-Saray]]
 
 Date: 681PA - 696PA 
 
