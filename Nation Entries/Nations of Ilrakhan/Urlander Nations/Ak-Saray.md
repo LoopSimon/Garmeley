@@ -1,5 +1,6 @@
 %%
-
+[[Kaladi Mysticim]]
+[[Hobgoblin]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hobgoblin Tribes</h4>
@@ -9,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>The Overboss</span>
+        <span>Boss Tenzea</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -22,7 +23,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Kalady Mysticim" class="internal-link">Kaladi Mysticism</a>
+        <a href="Kaladi Mysticim" class="internal-link">Kaladi Mysticism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -39,4 +40,4 @@
     </div>
 </div>
 
-<p> The many warring Tribes the peaceful Goblins larger Cousins have settles the lands of the East <a href="Urland" class="internal-link">Urland</a> around lake Felwin. Their days of Union and grand conquest long gone, this society of warriors and fighters has not given birth to a great Leader since the days of Uzra the Black during the 9th century. Hated by the realms of men, their only allies remain the Ogre clans of the mountain slopes, that enjoy the trade of slaves with the brutish <a href="Hobgoblin Tribes" class="internal-link">Hobgoblins.</a>  </p>
+<p>The Ak-Saray is the overgob name for the Hobgoblin tribe of Tirbo that emerged in the 690s and conquered western Urland, leading to the downfall of the <a href="Urland" class="internal-link">Kingdom</a></p>
