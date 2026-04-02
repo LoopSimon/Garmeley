@@ -151,6 +151,7 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
+            <div class="timeline-item" data-date="710PA">The 4000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">Lissvalley cities unite</div>
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
@@ -168,6 +169,7 @@
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach, 2nd War of Elbae Aggression ends</div>
+            <div class="timeline-item" data-date="837PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="792PA">Battvian Civil War</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
@@ -184,7 +186,6 @@
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
-            <div class="timeline-item" data-date="837PA">Liberation of Zeeport</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>

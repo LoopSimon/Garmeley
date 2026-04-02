@@ -2,7 +2,7 @@
     <h4 class="wiki-header">Daigonis Xiguo</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Pagian Daigonis</span>
+        <span>Divine Empire</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

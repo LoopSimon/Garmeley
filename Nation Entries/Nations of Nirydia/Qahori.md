@@ -1,5 +1,5 @@
 %%
-[[Qalmyr]] [[Merfolk]] [[Elbae]]
+[[Qalmyr]] [[Krestasi]] [[Elbae]]
 %%
 
 <div class="wiki-infobox">

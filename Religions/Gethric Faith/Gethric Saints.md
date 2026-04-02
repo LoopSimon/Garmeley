@@ -252,7 +252,7 @@
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
-            <p>The only Saint canonized by the Bishop of Korsfall, the informal head of the Trinicist Faith, Yahrwick defeated the Trykkerogi Reaverlords and joined Zeeport to the Meadrathi Kingdom. He is rejected by the other two Gethric Denominations.</p>
+            <p>The only Saint canonized by the Bishop of Korsfall, the informal head of the Trinicist Faith, Yahrwick was a vigilante and "holy" pirate, who gained renown for his defense of the Reaver Invasion of Zeeport. He is rejected by the other two Gethric Denominations.</p>
         </div>
     </div>
     <div class="grid-item-uncentered span-col-2">
