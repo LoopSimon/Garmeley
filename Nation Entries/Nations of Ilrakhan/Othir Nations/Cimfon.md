@@ -20,7 +20,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Gethricism" class="internal-link">Augurism</a>
+        <a href="Augurism" class="internal-link">Augurism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -33,6 +33,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
+        <span> <a href="Thirdonis" class="internal-link">Thirdonis</a></span>
     </div>
 </div>
 
