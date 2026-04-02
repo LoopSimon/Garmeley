@@ -40,4 +40,4 @@
     </div>
 </div>
 
-<p>The Ak-Saray is the overgob name for the Hobgoblin tribe of Tirbo that emerged in the 690s and conquered western Urland, leading to the downfall of the <a href="Urland" class="internal-link">Kingdom</a></p>
+<p>The Ak-Saray is the overgob name for the Hobgoblin tribe of Tirbo that emerged in the 690s and conquered western Urland, leading to the downfall of the <a href="Urland" class="internal-link">Kingdom</a>. After conquering up to the western bank of the trinmo they settled the lands around Hadley Lake, which they called Lake Tirbo to honour their glorious Leader. Due to the Shroomfever and the following collapse of Urgil Cave prior to the Invasion, the Hobgoblins are essentially fully cut off from the rest of their people in the Mitimgar Cave network.</p>
