@@ -1,0 +1,4 @@
+Murwinism , derived from the Ilgur word for "Self", describes the religious and cultural practice of the [[Gurita]] of sub-Sirenna primarily found in the nation of [[Dinguul]].
+Due to their cyclical and often extremely long lifespans, the Gurita of Dinguul have developed the worship of their own ideal spiritual soul and identity, that endures Memnesence, the "death" of the self on a biological level.
+The longer the belief and the more concrete the image of any practitioner, the more likely is this "self-realized ideal" to take shape within the [[Spiritual Realm]]. There are extremely rare instances of these so called Ob-Murwi taking up enough form and power, usually due to a very popular and concrete image of a member of the faith, to impact the [[Material Realm]] akin to a minor Spirit. 
+In this sense the more metaphysical elements of Murwinism are somewhat similar to Ilrakhani Spirit worship.

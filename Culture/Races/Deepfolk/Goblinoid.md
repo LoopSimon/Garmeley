@@ -15,4 +15,3 @@ In reality, most goblins are sociable, friendly and very communal, accepting of 
 
   
 
-Hobgoblin
