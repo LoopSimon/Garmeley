@@ -5,7 +5,7 @@ In the Lands of the Smaragd Sea, the Moon deity Arishi is the greatest divine be
 She is notably exclusively associated with [[The first Moon]].
 Arishi is believed to control the weather and growth of crops, devotees sacrifice animals, birds and sentient creatures to the Moon god, in extreme cases even their own children whom they believed would become deified.
 
-The Lesser deities of the Yari include Ihisa the Earth, Gianor the Sun and Aleac the Sea.
+The Lesser deities of the Yari include Ihisa the Forest, Gianor the Sun and Aleac the Sea.
 The Naga of southern Behera are believed to be the cursed children of Aleac, found unworthy to worship Arishi.
 
 The Yari Faith is practiced in local shrines, that vary in importance called Hicui, who can be found along the Jungles of Behera, usually built around a sacred place or object of worship with an associated legend and Cult.
