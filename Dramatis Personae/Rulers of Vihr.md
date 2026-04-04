@@ -1,3 +1,6 @@
+%%
+[[Vihr]]
+%%
 <p>The Rasi of Vihr and Wermia</p>
 
 <h3>The Zav Dynasty</h3>

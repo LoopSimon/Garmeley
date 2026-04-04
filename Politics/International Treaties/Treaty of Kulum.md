@@ -1,3 +1,6 @@
+%%
+[[Kherova]] [[Magical Theory]] [[Kherovan Inquisition]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Treaty of Kulum</h4>
     <strong>Signatories:</strong>

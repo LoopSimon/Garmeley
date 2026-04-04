@@ -1,3 +1,6 @@
+%%
+[[Reanport]] [[Hainach]] [[Grevenna]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Rean</h4>
     <div class="wiki-row">
