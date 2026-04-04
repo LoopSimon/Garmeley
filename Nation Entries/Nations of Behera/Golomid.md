@@ -1,3 +1,6 @@
+%%
+[[Krestasi]] [[Great Elbae Golomid War]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Golomid Empire</h4>
     <div class="wiki-row">
@@ -23,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Golomi <a href="Merfolk" class="internal-link">Merfolk</a></span>
+        <span>Golomi <a href="Krestasi" class="internal-link">Krestasi</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
