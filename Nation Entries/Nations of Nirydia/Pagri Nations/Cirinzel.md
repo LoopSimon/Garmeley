@@ -1,8 +1,8 @@
 %%
-[[Pagrinism]]]]
+[[Pagrinism]] [[Human]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Mirel</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span></span>
@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Pagri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

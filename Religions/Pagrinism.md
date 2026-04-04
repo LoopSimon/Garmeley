@@ -1,0 +1,1 @@
+Pagrinism is a monotheistic religion that comprises the collective spiritual, cultural and legal traditions of the Pagri people of eastern Nirydia, it is the largest Faith on the subcontinent and a fervent faith that has many militant aspects.

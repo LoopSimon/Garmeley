@@ -1,37 +1,36 @@
 %%
-[[Lakalism]] [[Shirin]]
+[[Pagrinism]] [[Human]]
 %%
-
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Twintail Empire</h4>
+    <h4 class="wiki-header">Mirel</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Imperial Monarchy</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Imperator Yoroy XXI</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Bardrab</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Red Butterfly on Yellow Ground</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Lakalism</span>
+        <span><a href="Pagrinism" class="internal-link">Pagrinism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Gelfiri Shirin</span>
+        <span>Pagri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Gelfir</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

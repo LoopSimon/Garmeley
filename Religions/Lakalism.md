@@ -1,4 +1,4 @@
-A monotheistic Faith that believes in the god Lakal and divine symmetry, it is the state religion of the [[Twintail Empire]] of central Nirydia.
+A monotheistic Faith that believes in the god Lakal and divine symmetry, it is the state religion of the [[Twintail Imperium]] of central Nirydia.
 
 Lakalism honours symmetry and consonance within nature and culture, as expressed within their four aspects of Lakal: holy symbols that represent the forces through which their god works his wonders on the realm of mortals.
 Mathematics is a holy calling for many of the faith, and divine symbols can often express themselves as geometrical shapes or fractals.

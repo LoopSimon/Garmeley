@@ -1,8 +1,8 @@
 %%
-[[Pagrinism]]]]
+[[Pagrinism]] [[Shirin]] 
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Vigzil</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span></span>
@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Vigzil</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -26,15 +26,15 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Gelfiri <a href="Shirin" class="internal-link">Shirin</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Vigzi Gelfir</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span><a href="Twintail Imperium" class="internal-link">Twintail Imperium</a></span>
     </div>
 </div>

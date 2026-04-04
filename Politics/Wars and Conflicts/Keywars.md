@@ -1,1 +1,1 @@
-The Wars over the Keys of Lakal, fought between various factions of the [[Twintail Empire]] and later on the [[Gaal Empire]], dominating the history of modern far Nirydia.
+The Wars over the Keys of Lakal, fought between various factions of the [[Twintail Imperium]] and later on the [[Gaal Empire]], dominating the history of modern far Nirydia.
