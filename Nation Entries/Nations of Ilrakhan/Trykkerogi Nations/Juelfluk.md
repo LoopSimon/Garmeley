@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>3 Seagulls</span>
+        <span>White Seagull on Green Ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
