@@ -1,3 +1,4 @@
+[[Duol Rabad]][[Kobold]][[Kobold Shamanism]][[Orc]][[Qalmyr]]
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kareli Hierarchy</h4>
     <div class="wiki-row">

@@ -1,3 +1,6 @@
+%%
+[[Kobold]] [[Kobold Shamanism]] [[Kareli Hierarchy]] [[Kherova]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duol Khaganate</h4>
     <div class="wiki-row">

@@ -23,11 +23,11 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Qalmyr Faith</span>
+        <span><a href="Qalmyr" class="internal-link">Qalmyr Faith</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Qahori Orc</span>
+        <span><a href="Orc" class="internal-link">Qahori</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
