@@ -1,3 +1,6 @@
+%%
+[[Kherovan Inquisition]][[Kethricism]][[Dwarf]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Kherovan Khatrym</h4>
     <div class="wiki-row">
@@ -23,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kher Human and Kher Dwarven</span>
+        <span>Kheri <a href="Human" class="internal-link">Human</a>, Kheri <a href="Dwarf" class="internal-link">Dwarf</a>,Qahori <a href="Orc" class="internal-link">Orc</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

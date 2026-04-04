@@ -1,5 +1,5 @@
 %%
-[[Qalmyr]] [[Krestasi]] [[Elbae]] [[Qahori]]
+[[Qalmyr]] [[Krestasi]] [[Elbae]] [[Qahori]] [[Orc]]
 %%
 
 <div class="wiki-infobox">

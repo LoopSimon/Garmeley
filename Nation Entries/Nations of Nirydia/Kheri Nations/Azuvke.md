@@ -1,5 +1,5 @@
 %%
-[[Kethricism]]
+[[Kethricism]] [[Orc]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Principality of Azuvke</h4>
@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kher Human, Qahori <a href="Orc" class="internal-link">Orc</a>]</span>
+        <span>Kheri <a href="Human" class="internal-link">Human</a>, Qahori <a href="Orc" class="internal-link">Orc</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

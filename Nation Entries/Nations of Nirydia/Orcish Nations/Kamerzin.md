@@ -1,5 +1,5 @@
 %%
-[[Qalmyr]] [[Qarzi]] [[Qahori]]
+[[Qalmyr]] [[Qarzi]] [[Qahori]] [[Orc]]
 %%
 
 <div class="wiki-infobox">
