@@ -1,5 +1,5 @@
 %%
-[[Pagrinism]] [[Human]]
+[[Pagrinism]] 
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Mirel</h4>
