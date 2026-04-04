@@ -13,3 +13,6 @@ An important characteristic of a shamans "higher soul" is its ability to underta
 
 An element of western Kobold Shamanism is the belief of a shared soul, usually with an animal companion such as the Salamander Mounts of the Kobold Khaganates within the Nirydian Steppe.
 
+
+An elevated form of Kobold Shamanism, is the Dragonworship in [[Rha-Gis]], where the eternal being Noo-Rah has been accepted as the final form of all life.
+
