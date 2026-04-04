@@ -1,8 +1,8 @@
 %%
-[[Pagrinism]] [[Human]]
+[[Pagrinism]] 
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Mirel</h4>
+    <h4 class="wiki-header">Amani</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span></span>
