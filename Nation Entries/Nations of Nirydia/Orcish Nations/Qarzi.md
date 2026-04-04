@@ -3,14 +3,14 @@
 %%
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Qarzi Kingdom</h4>
+    <h4 class="wiki-header">Qarzi Elayat</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Kingdom</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>King Vahraman I</span>
+        <span>Sandimar Vahraman I</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>

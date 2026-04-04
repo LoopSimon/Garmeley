@@ -6,7 +6,7 @@
     <h4 class="wiki-header">Qahori Federation</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Tribal Federation</span>
+        <span>Maritime Federation</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
