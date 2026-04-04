@@ -39,5 +39,7 @@ Kheri: primarily the Lakiri, Azuvi, Kheri and Yevani peoples
 
 Beali: primarily the Blue Beali, Red Beali and Golden Beali peoples
 
+Pagri: including the Pagri, Ipiri, Tetesci and Ugyari peoples
+
 Othiri: primarily the Othiri, Lissari and Moreni peoples
 

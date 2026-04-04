@@ -1,5 +1,5 @@
 %%
-[[Krestasi]] [[Great Elbae Golomid War]]
+[[Krestasi]] [[Great Elbae Golomid War]][[Crustlords]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Golomid Empire</h4>
