@@ -1,5 +1,7 @@
 %%
 [[Gethricism]]
+[[Juelfluk]]
+[[Vignasoya]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Baeling Kingdom</h4> <div class="wiki-row">
