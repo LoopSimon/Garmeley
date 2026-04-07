@@ -25,11 +25,12 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Yorgosi <a href="Sunborn" class="internal-link">Sunborn</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
         <span>Durenni Gobnir</span>
+    </div>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

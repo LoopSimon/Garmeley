@@ -115,7 +115,7 @@ Thomar of Whisperhill
 	Dean of Korsfall College
 	
 Kasper von Kran
-	Duke of Gisvale
+	Duke of Lesmere
 	
 Pavo of Alban
 	Archmage of Alban Tower

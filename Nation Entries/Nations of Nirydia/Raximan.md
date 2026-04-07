@@ -8,15 +8,15 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span></span>
+        <span>Lord Rainer "the Enormous" Calgob</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Raximan</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Green Scorpion on Yellow Ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -25,7 +25,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Yorgosi <a href="Sunborn" class="internal-link">Sunborn</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

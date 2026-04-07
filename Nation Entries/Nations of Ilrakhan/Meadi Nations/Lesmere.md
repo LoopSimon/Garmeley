@@ -1,24 +1,25 @@
 %%
 [[Trinicism]]
 [[Meadrath]]
+[[Blijgrat]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Archduchy of Gisvale</h4>
+    <h4 class="wiki-header">Duchy of Lesmere</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Archduke Karel I</span>
+        <span>Duke Kaspar von Kran</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Giselstatt</span>
+        <span>Dellweid</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Black Hound on Red Ground</span>
+        <span>White Tree on Black Ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -27,7 +28,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Meadi <a href="Human" class="internal-link">Human</a></span>
+        <span>Weadi <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -39,5 +40,5 @@
         <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
     </div>
 </div>
-<p>It is impossible to tell the history of Meadrath without also telling the history of Gisvale, the rich farmlands around the bends of the Trinmo have seen great historic wars, Kings and Emperors and multiple civil wars, but always Giselstatt remained one of the most important cities on the subcontinent. Now the "Gate to Meadland" is ruled as an Archduchy under <a href="Meadrath" class="internal-link">Meadrath</a> and afforded a great amount of freedom, much to the dismay of its northern rival <a href="Lesmere" class="internal-link">Lesmere</a>.</p>
+<p> The Duchy of Lesmere, part of the informal Empire of <a href="Meadrath" class="internal-link">Meadrath</a> is a vassal of the Meadi realm and located in the Kranmoor and the southern Weadi Wetlands. Often in minor conflicts with both Schipwig and <a href="Gisvale" class="internal-link">Gisvale</a>, its the proud home of the Kranmer people who have ruled themselves, at least somewhat autonomously, since the days of the Auguri Dominion.</p>
 
