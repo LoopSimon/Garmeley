@@ -25,7 +25,9 @@ Pilvian: primarily the Grevian and Fredna peoples
 
 Asefi: primarily the Horadi, Hessefi and Asefi peoples
 
-Beheri: primarily the Beheri, Arevi, and Mogori tribes
+Beheri: primarily the Beheri, Arevi, and Mogori peoples
+
+Yorgosi: primarily the Yorgosi, Vendi and Zipivi tribes
 
 Palmunian: including the remnant tribes of Neo-Palmunis peoples
 
