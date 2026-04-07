@@ -14,6 +14,7 @@
             <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
             <div class="timeline-item" data-date="644BA">Genevi finds the Keystar north of the Ronra</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
+            <div class="timeline-item" data-date="624BA">Zuhurism is first practiced by the Pagri nomads of Nirydia</div>
             <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
             <div class="timeline-item" data-date="621BA">End of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
@@ -77,6 +78,7 @@
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
+            <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>

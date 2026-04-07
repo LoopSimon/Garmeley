@@ -1,5 +1,5 @@
 %%
-[[Pagrinism]] 
+[[Zuhurism]] 
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Nessos</h4>
