@@ -8,3 +8,5 @@ Notably while militant, Zuhurism rejects many forms of racist ideologies that ar
 Zuhurist teachings are codified within the Mandukh as a collection of religious laws, histories and teachings, sometimes referred to as the holy text or the manduki scriptures, named after Ineria Mandukh Gilraman who is often seen as the most important prophets within the religion and wrote the "Six ways", the largest section of the Mandukh that discusses the nature of the world and the soul.
 
 Zuhurists sometimes are referred to as Sun Worshippers or colloquially "Yellow Eyes" due to their practice of prayer where they always face the Sun, which is believed to be the home of Zuhur who will emerge from it during the final days and embrace his children, bringing those who served him faithfully to an eternal afterlives.
+
+The largest temple of the faith is the Vimgalab Monsis, a temple structure within the port city of [[Nessos]]
