@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Pagrinism" class="internal-link">Pagrinism</a></span>
+        <span><a href="Zuhurism" class="internal-link">Zuhirism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
