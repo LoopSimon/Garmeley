@@ -5,8 +5,10 @@ Originating in the early 7th century BA when the then nomadic Pagri were first k
 
 Notably while militant, Zuhurism rejects many forms of racist ideologies that are often inherit in similar traditions and while originally a human cult, is now practiced by a variety of species found on the subcontinent and beyond.
 
-Zuhurist teachings are codified within the Mandukh as a collection of religious laws, histories and teachings, sometimes referred to as the holy text or the manduki scriptures, named after Ineria Mandukh Gilraman who is often seen as the most important prophets within the religion and wrote the "Six ways", the largest section of the Mandukh that discusses the nature of the world and the soul.
+Zuhurist teachings are codified within the Mandukh as a collection of religious laws, histories and teachings, sometimes referred to as the holy text or the mandukhi scriptures, named after Ineria Mandukh Gilraman who is often seen as the most important prophets within the religion and wrote the "Six ways", the largest section of the Mandukh that discusses the nature of the world and the soul.
 
 Zuhurists sometimes are referred to as Sun Worshippers or colloquially "Yellow Eyes" due to their practice of prayer where they always face the Sun, which is believed to be the home of Zuhur who will emerge from it during the final days and embrace his children, bringing those who served him faithfully to an eternal afterlives.
+
+Pen Zuhur himself, a decidedly male figure, is often portrayed on paintings, statues or other imagery as a noble elder in long robes with either his eyes being replaced by suns or his entire head being the sun altogether.
 
 The largest temple of the faith is the Vimgalab Monsis, a temple structure within the port city of [[Nessos]]
