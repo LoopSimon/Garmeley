@@ -40,4 +40,4 @@
         <span>Kingdom of Tusul</span>
     </div>
 </div>
-<p> Once the independent Kingdom of Tusul, the lands of the Zipivi fell under the control of the <a href="Elbae" class="internal-link">Sultanate</a> following the </p>
+<p> Once the independent Kingdom of Tusul, the lands of the Zipivi fell under the control of the <a href="Elbae" class="internal-link">Sultanate</a> following the White wars of the mid 9th century. Now representing the inland traderoutes of the elven dominion with the Lands of Pravazik and Yorgos, it is under heavy military control by Sultanate forces and perhaps the only area were "elven opression" is an apt term, considering the harsh laws in place. The reason for the unusual hands on behaviour are the vibrant and dangerous terror cells and desert warriors still active within greater Tusul, as well as the assassination attempt on the Sultan himself that started the White Wars initially.</p>
