@@ -5,8 +5,8 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Antiquity (largely approximated)</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="2700BA">Agriculture develops in Ancient Hessef </div>
-	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Beheran Coast</div>
+	        <div class="timeline-item" data-date="5000BA">Agriculture develops in Ancient Palmuna </div>
+	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
 	        <div class="timeline-item" data-date="2300BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
 	        <div class="timeline-item" data-date="2121BA">Biadarkyr forms near the central Ajit River </div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
