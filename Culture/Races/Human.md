@@ -7,6 +7,8 @@ Nevertheless it is precisely in this incredible diversity of thought and body th
 
 Human cultural groups on Ilrakhan, Behera and Nirydia include:
 
+Ilrakhani:
+
 Bykmali: primarily the Olbellinge, Jueli and Skori people of Trykkerog.
 
 Cevoli: primarily the Cesteri, Battvian and Rasteri peoples
@@ -23,6 +25,19 @@ Garmian: primarily the High Garmian, Lower Garmian and Melmen
 
 Pilvian: primarily the Grevian and Fredna peoples
 
+Vihrmen: primarily the Trydzi, Opuzni, Tloky and Trazci peoples
+
+Grachy: primarily the Halgrachi, Hyllfolk and Giormen peoples
+
+Wermian: including the Old Wermian, Moormen and Morellian people
+
+Othiri: primarily the Othiri, Lissari and Moreni peoples
+
+Beali: primarily the Blue Beali, Red Beali and Golden Beali peoples
+
+
+Behera:
+
 Asefi: primarily the Horadi, Hessefi and Asefi peoples
 
 Beheri: primarily the Beheri, Arevi, and Mogori peoples
@@ -31,17 +46,13 @@ Yorgosi: primarily the Yorgosi, Vendi and Zipivi tribes
 
 Palmunian: including the remnant tribes of Neo-Palmunis peoples
 
-Vihrmen: primarily the Trydzi, Opuzni, Tloky and Trazci peoples
+Hurem: primarily the Upper Hurem, Lower Hurem and Usuni peoples
 
-Grachy: primarily the Halgrachi, Hyllfolk and Giormen peoples
 
-Wermian: including the Old Wermian, Moormen and Morellian people
+Nirydia:
 
 Kheri: primarily the Lakiri, Azuvi, Kheri and Yevani peoples
 
-Beali: primarily the Blue Beali, Red Beali and Golden Beali peoples
-
 Pagri: including the Pagri, Ipiri, Tetesci and Ugyari peoples
 
-Othiri: primarily the Othiri, Lissari and Moreni peoples
 
