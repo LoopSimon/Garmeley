@@ -8,7 +8,7 @@
     <h4 class="wiki-header">Free Barony of Grivil</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Syndicate Citystate</span>
+        <span>Syndicate Council</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

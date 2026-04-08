@@ -20,6 +20,7 @@
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
+            <div class="timeline-item" data-date="360BA">Shirin settle the Mondi Delta</div>
             <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
@@ -132,6 +133,7 @@
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
             <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh"</div>
+            <div class="timeline-item" data-date="620PA">First Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
@@ -139,6 +141,7 @@
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
+            <div class="timeline-item" data-date="645PA">Second Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
             <div class="timeline-item" data-date="681PA"> Battle of Verivale, End of the Luchun Khaganate</div>
@@ -155,6 +158,7 @@
             <div class="timeline-item" data-date="691PA">Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
+            <div class="timeline-item" data-date="701PA">Third Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
@@ -163,12 +167,14 @@
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
+            <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Gethrian Pogroms begin</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
+            <div class="timeline-item" data-date="777PA">Fifth Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova</div>
@@ -194,6 +200,7 @@
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
+            <div class="timeline-item" data-date="847PA">Grivil Council forms</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>

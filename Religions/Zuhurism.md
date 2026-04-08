@@ -11,4 +11,5 @@ Zuhurists sometimes are referred to as Sun Worshippers or colloquially "Yellow E
 
 Pen Zuhur himself, a decidedly male figure, is often portrayed on paintings, statues or other imagery as a noble elder in long robes with either his eyes being replaced by suns or his entire head being the sun altogether.
 
-The largest temple of the faith is the Vimgalab Monsis, a temple structure within the port city of [[Nessos]]
+ Zuhirism encourages pilgrimage and considers the Vimgalab Monsis, a temple structure within the port city of [[Nessos]], the Spring of Light in the Templi Heights, Hastermon Temple within Aman, as well as the Pagale Monastery on Lonely Peak as holy sights.
+ The security of pilgrim travel throughout these holy cites is often cited as a major concern leading to the ongoing [[Zuhiri Holy Wars]].
