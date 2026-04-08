@@ -1,4 +1,4 @@
-Often also referred to as "Pagrinism" is a monotheistic religion that comprises the collective spiritual, cultural and legal traditions of the Pagri people of eastern Nirydia, it is the largest Faith on the subcontinent and a fervent faith that has many militant aspects.
+Often also referred to as "Pagrinism" or in the southern dialect "Zuhirism" is a monotheistic religion that comprises the collective spiritual, cultural and legal traditions of the Pagri people of eastern Nirydia, it is the largest religion on the subcontinent and a fervent faith that has many militant aspects.
 
 Among the worlds oldest organized faiths, its adherents worship a benevolent and all-knowing deity known as Pen Zuhur, who is hailed as the supreme ruler of the universe.
 Originating in the early 7th century BA when the then nomadic Pagri were first known to worship Pen Zuhur, which in ancient Pagri literally translates to "Lord of all that exists", its worship developed into a more organised faith over the following centuries and is now a primary religion on the Nirydian subcontinent, with many nations and groups spreading the faith through war.
