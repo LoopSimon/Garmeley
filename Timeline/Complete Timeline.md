@@ -5,11 +5,21 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Antiquity (largely approximated)</h3>
         <div class="timeline-list">
+	        <div class="timeline-item" data-date="2700BA">Agriculture develops in Ancient Hessef </div>
+	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Beheran Coast</div>
+	        <div class="timeline-item" data-date="2300BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
+	        <div class="timeline-item" data-date="2121BA">Biadarkyr forms near the central Ajit River </div>
+	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
+	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
+	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
             <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
+            <div class="timeline-item" data-date="1695PA">First records of Palmunian Cities east of the Cloudscratchers</div>
+            <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
-            <div class="timeline-item" data-date="1170BA">Destruction of the Jiravid Dynasty</div>
+            <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
+	        <div class="timeline-item" data-date="1170BA">Destruction of the Jiravid Dynasty</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
-            <div class="timeline-item" data-date="965PA">First records of Palmunian Cities east of the Cloudscratchers</div>
+            <div class="timeline-item" data-date="996BA">Great Cyraclion invades Behera</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
             <div class="timeline-item" data-date="644BA">Genevi finds the Keystar north of the Ronra</div>
@@ -20,7 +30,7 @@
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
-            <div class="timeline-item" data-date="360BA">Shirin settle the Mondi Delta</div>
+            <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
@@ -115,6 +125,7 @@
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
+            <div class="timeline-item" data-date="561PA">Natan I becomes first Imperator of the Twintail</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
         </div>
     </div>
@@ -151,6 +162,7 @@
             <div class="timeline-item" data-date="674PA">Coronation of Gildher I and Unification of Meadrath</div>
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
+            <div class="timeline-item" data-date="680PA">Khulhki begins the Great Rebellion against the Twintail and Lakal</div>
             <div class="timeline-item" data-date="681PA">Hobgoblin Invasion</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
@@ -162,6 +174,7 @@
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
+            <div class="timeline-item" data-date="711PA">Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">Lissvalley cities unite</div>
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
@@ -170,7 +183,7 @@
             <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
-            <div class="timeline-item" data-date="763PA">Gethrian Pogroms begin</div>
+            <div class="timeline-item" data-date="763PA">Gethric Pogroms begin</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
@@ -204,6 +217,7 @@
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
+            <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="870PA">Pavo of Alban erects his Tower</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
@@ -218,7 +232,6 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Modern Age</h3>
         <div class="timeline-list">
-            <div class="timeline-item" data-date="901PA">Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
