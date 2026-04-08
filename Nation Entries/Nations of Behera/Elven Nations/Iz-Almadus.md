@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Riversnake</span>
+        <span>Quartered Serpent and Lighthouse</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
