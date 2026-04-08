@@ -42,7 +42,7 @@
     </div>
 </div>
 <p> Nestled against the slopes of the Cloudscratchers lies the Princedom of Hainach, one of the last remnants of what was once the old Kingdom of <a href="Rean" class="internal-link">Rean</a>. Now an Eyalet of the Sultanate and forced to open its gates to elven influences, the border realm is currently one of the only settled nation actively attempting to reclaim parts of the Wasteland of <a href="Rakh" class="internal-link">Rakh</a>. </p>
-<p>Hainach borders the Sultanate at the Mesovo River in east and the Duchy of Garmeley within the Vale of Rean, roughly along the hight of Nea Reanis.</p>
+<p>Hainach borders the Sultanate at the Mesovo River in east and the Duchy of Garmeley within the Vale of Rean, roughly along the height of Nea Reanis.</p>
 
 <h2>Geography</h2>
 <p>Smaller in size than its neighbours, Hainachs most notable topographical features are the Sakra Plains, the Adoccian Plateu, the Cloudscratcher Mountains and the Iza River. Hainach has a varied and cahgeable climate, which results from being positioned at the meeting point of the Stormy Sea, oceanic and continental air masses combined with the barrier effect of its mountains. The Continental influence, stronger during fall and winter, produces abundant snowfall, while the Oceanic influence increases during summer and produces hot and dry weather.</p>
