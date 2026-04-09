@@ -8,6 +8,7 @@
 [[Iastes]]
 [[Labella]]
 [[Balerey]]
+[[Girdineux]]
 %%
 
 A series of religious conflicts in eastern Nirydia concerning the Spread of [[Zuhurism]].
