@@ -40,7 +40,7 @@ Behera:
 
 Asefi: primarily the Horadi, Hessefi and Asefi peoples
 
-Beheri: primarily the Beheri, Arevi, and Mogori peoples
+Subnimbi: primarily the Mogori, Arevi, and Inori peoples
 
 Yorgosi: primarily the Yorgosi, Vendi and Zipivi tribes
 

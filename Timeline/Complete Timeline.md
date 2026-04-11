@@ -3,7 +3,7 @@
         <h2>A Broad Timeline of Major Historical Events</h2>
     </div>
     <div class="grid-item span-col-2-single-block">
-        <h3>Antiquity (largely approximated)</h3>
+        <h3>Ancient Times (largely approximated)</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="5000BA">Agriculture develops in Ancient Palmuna </div>
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
@@ -11,16 +11,23 @@
 	        <div class="timeline-item" data-date="2121BA">Biadarkyr forms near the central Ajit River </div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
+	        <div class="timeline-item" data-date="1845PA">First records of Palmunian Cities east of the Cloudscratchers</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
             <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
-            <div class="timeline-item" data-date="1695PA">First records of Palmunian Cities east of the Cloudscratchers</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
             <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
 	        <div class="timeline-item" data-date="1170BA">Destruction of the Jiravid Dynasty</div>
+        </div>
+    </div>
+	    <div class="grid-item span-col-2-single-block">
+	    <h3>Antiquity </h3>
+        <div class="timeline-list">
+	        <div class="timeline-item" data-date="1150BA">The Tragedy of Thileus is written</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="996BA">Great Cyraclion invades Behera</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
+            <div class="timeline-item" data-date="631BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
             <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
             <div class="timeline-item" data-date="644BA">Genevi finds the Keystar north of the Ronra</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
@@ -29,6 +36,7 @@
             <div class="timeline-item" data-date="621BA">End of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
+            <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
@@ -40,6 +48,7 @@
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
+            <div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
             <div class="timeline-item" data-date="151BA">Battle of Alma-Naxis</div>
             <div class="timeline-item" data-date="145BA">End of Beherian Campaigns</div>
             <div class="timeline-item" data-date="142BA">Rise of the Augur</div>
@@ -50,9 +59,8 @@
             <div class="timeline-item" data-date="79BA">Subjugation of Pilvia</div>
             <div class="timeline-item" data-date="71BA">Height of the Rahkian Empire</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
-            <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Gnolls at Mogoris</div>
-            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka</div>
-            <div class="timeline-item" data-date="0PA">End of the Empire of Rahk and Dissolution of the Meter Dynasty</div>
+            <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
+            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rahk, Rakhi Dissapearence and Dissolution of the Meter Dynasty</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -73,7 +81,7 @@
             <div class="timeline-item" data-date="162PA">Kwarzimi of Corbaik creates the Leypoint Model</div>
             <div class="timeline-item" data-date="170PA">Wars of Storm</div>
             <div class="timeline-item" data-date="176PA">Death of Heljad the Giantslayer</div>
-            <div class="timeline-item" data-date="180PA">Unification of Cevolis</div>
+            <div class="timeline-item" data-date="180PA">Re-Unification of Cevolis</div>
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
             <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
             <div class="timeline-item" data-date="205PA">1st Wermian Incursion</div>
