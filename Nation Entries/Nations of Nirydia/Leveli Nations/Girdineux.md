@@ -38,4 +38,4 @@
         <span></span>
     </div>
 </div>
-<p> In the </p>
+<p> Located north of Mondi River and in the Motherlands of central Nirydia, the Realm of Girdineux is one of the largest political entities on the continent, comparable to the Shirin of the Twinned Tail or the Gaal Empire of the East. Ruled by the enigmatic Council of Seven, the primarily Leveli population is fervently independant and exercises careful diplomacy to not get crushed in the tides of history.</p>
