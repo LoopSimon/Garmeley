@@ -6,8 +6,9 @@
         <h3>Age of Stone</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
-	        <div class="timeline-item" data-date="25000BA">Nawiunic Event</div>
-	        <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
+			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizun Jungle </div>
+	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
+		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
 	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
 	        <div class="timeline-item" data-date="11000BA">Approximate Beginning of the Diastic Reversal in Hykmar</div>
 	        <div class="timeline-item" data-date="10500BA">Diastic Reversal and Hykmari Collapse</div>
@@ -23,16 +24,20 @@
 	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
 	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large scale canal systems</div>
 	        <div class="timeline-item" data-date="4200BA">First known large-scale fish fermentation in southern Trykkerog</div>
+	        <div class="timeline-item" data-date="3900BA">First recorded Contact between Ikieni and Usuni Humans in West-Behera </div>
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
-	        <div class="timeline-item" data-date="2300BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
-	        <div class="timeline-item" data-date="2250BA">Earliest supposed date for the domestication of the horse</div>
+	        <div class="timeline-item" data-date="2500BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
+	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
+	        <div class="timeline-item" data-date="2410BA">Nangalith of Thirdonis is constructed</div>
 	        <div class="timeline-item" data-date="2200BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2121BA">Biadarkyr forms near the central Ajit River </div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
 	        <div class="timeline-item" data-date="1845PA">First records of Palmunian Cities east of the Cloudscratchers</div>
+	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
             <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
+            <div class="timeline-item" data-date="1980BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
             <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
@@ -43,10 +48,12 @@
 	    <h3>Age of Iron </h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="1150BA">The Tragedy of Thileus is written</div>
+	        <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="996BA">Great Cyraclion invades Behera</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="631BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
+	        <div class="timeline-item" data-date="640BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
             <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
             <div class="timeline-item" data-date="644BA">Genevi finds the Keystar north of the Ronra</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
@@ -56,6 +63,7 @@
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
+            <div class="timeline-item" data-date="600PA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
@@ -63,6 +71,7 @@
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="282BA">Rise of the Cyclopi</div>
+            <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
@@ -110,6 +119,7 @@
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
+            <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
             <div class="timeline-item" data-date="276PA">Heximar the Unlit is slain by Gismar</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
@@ -216,7 +226,7 @@
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
-            <div class="timeline-item" data-date="777PA">Fifth Zuhiri Holy War begins</div>
+            <div class="timeline-item" data-date="777PA">Fifth Zuhiri Holy War begins, Great Fire of Tesegith</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova</div>
