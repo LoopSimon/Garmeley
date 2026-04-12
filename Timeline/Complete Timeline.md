@@ -2,12 +2,31 @@
     <div class="grid-item span-col-2">
         <h2>A Broad Timeline of Major Historical Events</h2>
     </div>
+	  <div class="grid-item span-col-2-single-block">
+        <h3>Age of Stone</h3>
+        <div class="timeline-list">
+	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
+	        <div class="timeline-item" data-date="25000BA">Nawiunic Event</div>
+	        <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
+	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
+	        <div class="timeline-item" data-date="11000BA">Approximate Beginning of the Diastic Reversal in Hykmar</div>
+	        <div class="timeline-item" data-date="10500BA">Diastic Reversal and Hykmari Collapse</div>
+		    <div class="timeline-item" data-date="7000BA">Earliest supported date for the domestication of cattle </div>
+		    <div class="timeline-item" data-date="5900BA">Evidence for the settlement of Tyblas</div>
+        </div>
+    </div>  
     <div class="grid-item span-col-2-single-block">
         <h3>Age of Bronze</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="5000BA">Agriculture develops in Ancient Palmuna </div>
+	        <div class="timeline-item" data-date="5500BA">Agriculture develops in Ancient Palmuna </div>
+	        <div class="timeline-item" data-date="4900BA">Earliest supposed date for the domestication of the cat</div>
+	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
+	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large scale canal systems</div>
+	        <div class="timeline-item" data-date="4200BA">First known large-scale fish fermentation in southern Trykkerog</div>
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
 	        <div class="timeline-item" data-date="2300BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
+	        <div class="timeline-item" data-date="2250BA">Earliest supposed date for the domestication of the horse</div>
+	        <div class="timeline-item" data-date="2200BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2121BA">Biadarkyr forms near the central Ajit River </div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
