@@ -1,4 +1,4 @@
-[[Meadrath]] [[Magical Theory]]
+[[Meadrath]] [[Basic Magical Theory]]
 
 Introduction
 

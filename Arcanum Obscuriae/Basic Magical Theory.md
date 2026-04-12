@@ -2,7 +2,6 @@
 [[Material Realm]]
 [[Astral Realm]]
 [[Spiritual Realm]]
-[[The Veilcurse]]
 [[Arcanists, Scholars and Mages]]
 %%
 *This text is written from an Ilrakhi perspective and fully acknowledges and bemoans the lack of access to Nirydian Magical Studies and historical discoveries.*

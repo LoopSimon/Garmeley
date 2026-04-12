@@ -3,7 +3,7 @@
         <h2>A Broad Timeline of Major Historical Events</h2>
     </div>
     <div class="grid-item span-col-2-single-block">
-        <h3>Ancient Times (largely approximated)</h3>
+        <h3>Age of Bronze</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="5000BA">Agriculture develops in Ancient Palmuna </div>
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
@@ -21,7 +21,7 @@
         </div>
     </div>
 	    <div class="grid-item span-col-2-single-block">
-	    <h3>Antiquity </h3>
+	    <h3>Age of Iron </h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="1150BA">The Tragedy of Thileus is written</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
