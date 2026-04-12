@@ -163,6 +163,7 @@
             <div class="timeline-item" data-date="645PA">Second Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
+            <div class="timeline-item" data-date="668PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
             <div class="timeline-item" data-date="681PA"> Battle of Verivale, End of the Luchun Khaganate</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>

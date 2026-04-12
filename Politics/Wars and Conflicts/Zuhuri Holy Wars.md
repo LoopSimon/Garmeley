@@ -14,13 +14,13 @@
 A series of religious conflicts in eastern Nirydia concerning the Spread of [[Zuhurism]].
 
 
-### **First Zuhiri Holy War**
+### **First Zuhuri Holy War**
 620PA-629PA
 
 
 
 
-### **Second Zuhiri Holy War**
+### **Second Zuhuri Holy War**
 *645PA-651PA*
 
 
@@ -33,13 +33,13 @@ A series of religious conflicts in eastern Nirydia concerning the Spread of [[Zu
 
 
 
-### **Fourth Zuhiri Holy War**
+### **Fourth Zuhuri Holy War**
 *751PA-760PA*
 
 
 
 
-### **Fifth Zuhiri Holy War**
+### **Fifth Zuhuri Holy War**
 *777PA-792PA*
 
 

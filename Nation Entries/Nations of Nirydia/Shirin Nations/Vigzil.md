@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Vigzil</span>
+        <span>Si-Khulhki</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -38,3 +38,4 @@
         <span><a href="Twintail Imperium" class="internal-link">Twintail Imperium</a></span>
     </div>
 </div>
+<p>Following the Khulhki-Rebellion of the late 7th century PA, tens of thousands of Shirin Loyalists followed Timpo, Khulkis nephew, northwards into the tundra of Gellions Folly where they would proclaim a new nation of free Shirin, rejecting the oppressive Twintail and the worship of Lakal. Today Vigzil is a larger realm within northern Nirydia and has largely adopted Zuhuri traditions, still openly opposing the Imperium in all major conflicts on the international stage.</p>
