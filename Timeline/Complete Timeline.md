@@ -70,6 +70,7 @@
             <div class="timeline-item" data-date="29PA">Unification of Urland</div>
             <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat</div>
+            <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
             <div class="timeline-item" data-date="86PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification</div>
