@@ -1,5 +1,6 @@
 %%
 [[Zuhurism]] 
+[[Velvet Caravan]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Ruginë Principality</h4>
