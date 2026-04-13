@@ -10,7 +10,7 @@
     <h4 class="wiki-header">Zeprian Empire</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Dynastic Empire</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -18,11 +18,11 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Plavigrad</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Black Stags head in front of the Sun</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -43,4 +43,4 @@
         <span>Amani Federations</span>
     </div>
 </div>
-<p>The Zeprian Empire was a Gorati state that emerged from the Kingdom of Zepria, it was established in 676PA by Suzana the Cruel, who significantly expanded the Kingdom and proclaimed the Empire. During the reign of Suzana and her immediate heirs Zepria became one of the most powerful nations in Nirydia, stretching from the northern Drizun Peninsula to the Shirin of the <a href="Twintail Empire" class="internal-link">Twintail</a>. Its collapse almost 3 centuries later led to the formation of the modern day Amani Nation States.</p>
+<p>The Zeprian Empire was a Gorati state that emerged from the Kingdom of Zepria, it was established in 676PA by Suzana the Cruel, who significantly expanded the Kingdom and proclaimed the Empire. During the reign of Suzana and her immediate heirs Zepria became one of the most powerful nations in Nirydia, stretching from the northern Drizun Peninsula to the Shirin of the <a href="Twintail Imperium" class="internal-link">Twintail</a>. Its collapse almost 3 centuries later led to the formation of the modern day Amani Nation States.</p>

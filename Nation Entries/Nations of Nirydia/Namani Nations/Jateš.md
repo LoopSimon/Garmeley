@@ -13,11 +13,11 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Basnik</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Golden Chain surrounding an Olive Tree</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Bronze Ships wheel on Green Ground</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

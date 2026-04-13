@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Turtle under Laurels on Blue Ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

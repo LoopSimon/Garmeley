@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Blue Manticor on red and yellow striped ground </span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
