@@ -1,6 +1,7 @@
 %%
 [[Zuhurism]] 
 [[Velvet Caravan]]
+[[Kareli Hierarchy]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Ruginë Principality</h4>
