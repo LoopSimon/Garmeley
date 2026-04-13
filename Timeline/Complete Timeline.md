@@ -267,6 +267,7 @@
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously</div>
+            <div class="timeline-item" data-date="885PA">Splintering of Aman</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>

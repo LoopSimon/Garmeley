@@ -5,7 +5,7 @@
 [[Cirinzel]]
 [[Renessis]]
 [[Igpuri Dominion]]
-[[Iastes]]
+[[Jateš]]
 [[Labella]]
 [[Balerey]]
 [[Girdineux]]

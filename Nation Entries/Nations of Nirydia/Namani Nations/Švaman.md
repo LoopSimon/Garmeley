@@ -1,8 +1,8 @@
 %%
-[[Ilonism]]
+[[Zuhurism]] 
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Kingdom of Plazato</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span></span>
@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Sturias</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -22,19 +22,19 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Ilonism" class="internal-link">Ilonism</a></span>
+        <span><a href="Zuhurism" class="internal-link">Zuhirism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Leveli <a href="Human" class="internal-link">Human</a></span>
+        <span>Namani <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Yezepri</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span>Amani Federation</span>
     </div>
 </div>

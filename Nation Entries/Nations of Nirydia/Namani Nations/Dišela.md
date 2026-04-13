@@ -2,10 +2,10 @@
 [[Zuhurism]] 
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Amani</h4>
+    <h4 class="wiki-header">Republic of Dišela</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Maritime Republic</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -26,15 +26,15 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Pagri <a href="Human" class="internal-link">Human</a></span>
+        <span>Namani <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Yezepri</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span>Empire of Švaman</span>
     </div>
 </div>

@@ -57,4 +57,8 @@ Pagri: including the Pagri, Ipiri, Tetesci and Ugyari peoples
 
 Gefrenni: primarily the Baleri, Chiteu and Jeudegi peoples
 
+Namani: primarily the Zepri, Obmani,  and Dereski peoples
+
+
+
 
