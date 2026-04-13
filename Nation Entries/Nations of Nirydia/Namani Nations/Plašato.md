@@ -1,5 +1,7 @@
 %%
 [[Zuhurism]] 
+[[Cirinzel]]
+[[Zuhiri Holy Wars]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Plašato</h4>
@@ -13,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Rivno</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -38,3 +40,4 @@
         <span><a href="Zepria" class="internal-link">Zeprian Empire</a></span>
     </div>
 </div>
+<p>One of the largest nations in the region of Aman, the Kingdom of Plašato dominates the central region geographically, but is economically outshined by its neighbours to the south such as the <a href="Amlija" class="internal-link">Kingdom of Amlija</a> or the <a href="Dišela" class="internal-link">Republic of Dišela</a>. Plašato has been one of the major forces in the later <a href="Zuhiri Holy Wars" class="internal-link">Zuhiri Holy Wars</a> and is politically aligned with the northern pagri realms, such as <a href="Cirinzel" class="internal-link">Cirinzel</a>.</p>
