@@ -35,6 +35,6 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Zeprian Empire</span>
+        <span><a href="Zepria" class="internal-link">Zeprian Empire</a></span>
     </div>
 </div>

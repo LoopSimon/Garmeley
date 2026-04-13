@@ -5,7 +5,7 @@
     <h4 class="wiki-header">Republic of Dišela</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Maritime Republic</span>
+        <span>Aristocratic Maritime Republic</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Diprije</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -35,6 +35,14 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Zeprian Empire</span>
+        <span><a href="Zepria" class="internal-link">Zeprian Empire</a></span>
     </div>
 </div>
+<p>Dišela is an aristocratic maritime Republic centered on the city of Diprije on the Island of Zelarvo, in central Aman. It controls the entire Island as well as a number of coastal settlements and merchant towns in the Hyktamok and is one of the most commercially dominant political entities in all of Nirydia. The Republic has recently entered an era of decline, following the events of the <a href="Bruša" class="internal-link">Bruša</a> Emancipation.</p>
+
+
+
+
+
+
+

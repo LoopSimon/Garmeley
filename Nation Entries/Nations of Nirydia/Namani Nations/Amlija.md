@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Rashice</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -35,6 +35,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Zeprian Empire</span>
+        <span><a href="Zepria" class="internal-link">Zeprian Empire</a></span>
     </div>
 </div>
+<p> Located in the south of Aman, Amlija is a zuhirist Kingdom of the Zepri Gorati, that emerged after the fall of the <a href="Zepria" class="internal-link">Zeprian Empire</a>. The most populous and richest of the Amani Nations, it rivals the<a href="Plašato" class="internal-link">Kingdom of Plašato</a> for regional dominance and attracts the attention of many Zuhiri Pilgrims who seek to visit the holy site of Hastermon Temple.</p>

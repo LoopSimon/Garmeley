@@ -1,5 +1,6 @@
 %%
 [[Zuhurism]] 
+[[Dišela]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Bruša</h4>
@@ -38,3 +39,4 @@
         <span>Republic of Dišela</span>
     </div>
 </div>
+<p></p>
