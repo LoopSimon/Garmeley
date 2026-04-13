@@ -36,7 +36,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Republic of Dišela</span>
+        <span><a href="Dišela" class="internal-link">Republic of Dišela</a></span>
     </div>
 </div>
-<p></p>
+<p>Bruša is a city state located in the north of Sgar Isle and a former subject of the <a href="Dišela" class="internal-link">Dišela Republic</a>. Initially founded by refugees of the dominant <a href="Zepria" class="internal-link">Zeprian Empire</a>, it is now a young and emerging state that has positioned itself as a central port within the Hyklamok.  </p>
