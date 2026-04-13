@@ -1,5 +1,5 @@
 %%
-[[Gohor]]
+[[Xohor]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>

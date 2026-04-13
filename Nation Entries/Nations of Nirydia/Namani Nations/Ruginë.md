@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Namani <a href="Human" class="internal-link">Human</a></span>
+        <span>Gorati <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -35,6 +35,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Empire of Švaman</span>
+        <span>Zeprian Empire</span>
     </div>
 </div>
+<p>This landlocked country is located in the southern Limsul Peaks and part of the Aman Region, inhabited by the largely isolationist Opmani subculture of the Gorati, they exert influence over the <a href="Velvet Road" class="internal-link">Velvet Road</a> due to its strategic location at the southern mountain range. The country has a long and rich history that predates many of its larger neighbours to the east, as it was a national entity even prior to the days of the Zeprian Empire. </p>

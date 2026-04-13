@@ -63,6 +63,7 @@
             <div class="timeline-item" data-date="621BA">End of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
+            <div class="timeline-item" data-date="615BA">First records of Gorati cities</div>
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
             <div class="timeline-item" data-date="600PA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
@@ -131,6 +132,7 @@
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
+            <div class="timeline-item" data-date="325PA">First mention of the united Ruginë Principality</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
@@ -149,6 +151,7 @@
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
+            <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
@@ -227,6 +230,7 @@
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Gethric Pogroms begin</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
+            <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire</div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhiri Holy War begins, Great Fire of Tesegith</div>
@@ -267,7 +271,7 @@
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously</div>
-            <div class="timeline-item" data-date="885PA">Splintering of Aman</div>
+            <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>

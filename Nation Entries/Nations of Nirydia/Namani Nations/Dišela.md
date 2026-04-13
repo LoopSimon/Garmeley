@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Namani <a href="Human" class="internal-link">Human</a></span>
+        <span>Gorati <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -35,6 +35,6 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Empire of Švaman</span>
+        <span>Zeprian Empire</span>
     </div>
 </div>
