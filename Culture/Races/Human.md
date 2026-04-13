@@ -57,7 +57,7 @@ Pagri: including the Pagri, Ipiri, Tetesci and Ugyari peoples
 
 Gefrenni: primarily the Baleri, Chiteu and Jeudegi peoples
 
-Gorati: primarily the Zepri, Obmani, and Đereski peoples
+Gorati: primarily the Zepri, Opmani, and Đereski peoples
 
 
 

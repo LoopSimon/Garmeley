@@ -38,3 +38,4 @@
         <span><a href="Zepria" class="internal-link">Zeprian Empire</a></span>
     </div>
 </div>
+<p>The Duchy of Jateš is the northern most nation of Aman, having been under the control of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> as well as the <a href="Zepria" class="internal-link">Zeprian Empire</a> multiple times throughout history it is now fully independent in the modern day. Jateš is the home of the Đereski people, who are one of the smaller Gorati culture groups within Aman, alongside the dominant Zepri and the mountain dwelling Opmani. </p>
