@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span> Weadi, Meadi and Bykmali<a href="Merfolk" class="internal-link">Human</a></span>
+        <span> Weadi, Meadi and Bykmali <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

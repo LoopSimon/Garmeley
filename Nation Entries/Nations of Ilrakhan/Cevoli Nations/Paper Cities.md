@@ -41,7 +41,16 @@
         </span>
     </div>
 </div>
-<p> See the <a href="Situation in the Paper Cities" class="internal-link">Situation in the Paper Cities</a> The city of Albesan is one of the largest cities in the known world with a population of ca 110.000 citizens.</p>
+
+
+<h1>History</h1>
+<p>Almost 150 years ago, Prince Guido II “the Lame” of Battvia lost the lands of the Buteran Gulf and control over the three Cities in what is now known as the Battvian Civil war of 792 PA.
+
+Battvia had long been enjoying the influx of trade and travel into the Gulf from all over the Continent owed due to the discoveries of the Great Expedition into Rakh an the Monopoly of all such ventures held by the Buterian Guild and Guido's Grandfather, Prince Anselmo I, had signed the so called “Great Privilege” which granted the Cities of Battvia great autonomy and influence on national and local politics in exchange for increased taxation in the wake of the Great Expedition.
+
+When Guido refused to obey the wishes of the Cities as far as his marriage with the northern Meadrath was concerned, a right that was granted to the Grand Mayoral Council within the Great Privilege, and opted to marry a local noble instead the seeds for revolt were sown and soon after the Western Cities rose up in arms.
+
+The War lasted for 8 years and at the dawn of the 9th century, the royalist party relented and signed for Peace with the now nominally liberated Paper Cities, a name coined due to the enormous printing industry in Albesan.</p>
 <h2>People of Interest</h2>
 Livius Grimo
 	Lord-Mayor of Albesan, Master-Printer of Albesan

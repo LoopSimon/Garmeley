@@ -1,5 +1,9 @@
 %%
 [[Trinicism]]
+[[Jeledo]]
+[[Cevolis]]
+[[Turpador]]
+[[Paper Cities]]
 %%
 
 <div class="wiki-infobox">
@@ -42,20 +46,9 @@
     </div>
 </div>
 
-<<<<<<< HEAD
-<p> The largest successor state of the Kingdom of Cevolis, the Land of Battvia is one of rich farmlands and endless coasts, but the history of the Cevoli people is marked by constant infighting and wars. Pressed against the Kortopi mountains, Battvia has lost virtually all control over the rich Paper Cities of the Bay of Butera, and is involved in a century long rivalry with the Duchy of [[Jeledo]] that is is slowly but surely losing.</p>
-<<<<<<< HEAD
-=======
 <p> The largest successor state of the Kingdom of Cevolis, the Land of Battvia is one of rich farmlands and endless coasts, but the history of the Cevoli people is marked by constant infighting and wars. Pressed against the Kortopi mountains, Battvia has lost virtually all control over the rich Paper Cities of the Bay of Butera, and is involved in a century long rivalry with the Duchy of <a href="Jeledo" class="internal-link">Jeledo</a> that is is slowly but surely losing.</p>
->>>>>>> 0dca44c4a35dae703f65a016de3fbc7f2a2506d9
 
-%%
-[[Jeledo]]
-%%
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 0dca44c4a35dae703f65a016de3fbc7f2a2506d9
+
 <h2>People of Interest</h2>
 
 Canto, first of his Name of House di Battvia
@@ -67,7 +60,3 @@ Sandra, first of her Name of House di Vorel
 Rivel di Poca
 	Archmage of Ciravelli Tower
 	
-<<<<<<< HEAD
->>>>>>> 83108ed1863a70c8140f1f16f33f08a1b81c8b9e
-=======
->>>>>>> 0dca44c4a35dae703f65a016de3fbc7f2a2506d9
