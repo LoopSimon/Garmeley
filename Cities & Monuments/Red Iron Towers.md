@@ -2,6 +2,7 @@
 [[Twintail Imperium]]
 [[Peruxa]]
 [[Duol Rabad]]
+[[Niryd Steppe]]
 %%
 
 <p>The Red Iron Towers, sometimes referred to as "The Great Trench" or "The six Guardians" are a series of six towers installed at the north-eastern edge of the  <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a>. They cover  a distance of over 1200 km and are connected by a vast trench and tunnel network, essentially representing the border of the <a href="Twintail Imperium" class="internal-link">Imperium of the Twintail Shirin</a>, varying in height and size they are all stand around 650-700 metres tall.</p>
