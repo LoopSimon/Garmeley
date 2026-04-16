@@ -288,9 +288,10 @@
             <div class="timeline-item" data-date="908PA">Treaty of Kulum</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
-            <div class="timeline-item" data-date="919PA">Urien Post is established in Uhl</div>
-            <div class="timeline-item" data-date="915PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
-            <div class="timeline-item" data-date="916PA">Battle of Modim Cave</div>
+            <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World"</div>
+            <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl</div>
+            <div class="timeline-item" data-date="917PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
+            <div class="timeline-item" data-date="918PA">Battle of Modim Cave</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords</div>
             <div class="timeline-item" data-date="922PA">Death of Duchess Agnes of Garmeley</div>

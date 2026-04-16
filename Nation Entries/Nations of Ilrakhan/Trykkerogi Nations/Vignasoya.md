@@ -18,7 +18,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Gethricism">Bykmali Paganism</a>
+        <a href="Bykmali Paganism">Bykmali Paganism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
