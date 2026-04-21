@@ -243,6 +243,7 @@
             <div class="timeline-item" data-date="837PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="792PA">Battvian Civil War</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
+            <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
             <div class="timeline-item" data-date="803PA">Invention of Gunpowder</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
