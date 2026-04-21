@@ -30,16 +30,20 @@
 	        <div class="timeline-item" data-date="2500BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Thirdonis is constructed</div>
-	        <div class="timeline-item" data-date="2200BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
-	        <div class="timeline-item" data-date="2121BA">Biadarkyr forms near the central Ajit River </div>
+	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
+	        <div class="timeline-item" data-date="2250BA">First Record of Velori civilization in the Ud-Vendili Plain</div>
+	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
 	        <div class="timeline-item" data-date="1845PA">First records of Palmunian Cities east of the Cloudscratchers</div>
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
+	        <div class="timeline-item" data-date="1805BA">High Vendili political consolidation emerges</div>
             <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
-            <div class="timeline-item" data-date="1980BA">Dilgrange is built in northern Urland</div>
+            <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
+            <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
+            <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
             <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
 	        <div class="timeline-item" data-date="1170BA">Destruction of the Jiravid Dynasty</div>
@@ -49,6 +53,7 @@
 	    <h3>Age of Iron </h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="1150BA">The Tragedy of Thileus is written</div>
+	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
 	        <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="996BA">Great Cyraclion invades Behera</div>
