@@ -1,3 +1,7 @@
+%%
+[[Elbae]]
+[[Pravazik]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">High Vendil</h4>
     <div class="wiki-row">
