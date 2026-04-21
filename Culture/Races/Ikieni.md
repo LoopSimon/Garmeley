@@ -9,6 +9,11 @@ Once established within an organism a hive, often thereafter referred to as a co
 Fertilized eggs become female worker and enforcer Ikieni, while unfertilized eggs develop as males who generally retain almost no sentient and are coordinated by female Ikieni.
 Male "drones" usually represent around 98% of an Ikieni colony and primarily operate the organic matter of the colonies host, such as moving limbs, joints and maintain structural integrity at the behest of female worker Ikieni.
 
+During the early stage of a Goandi they can enter a process called the Prosinh which largely incapacitates them. This process describes the fertilization of a Goandi egg that will develop during the Prosinh into a young Goandi princess, a physiologically largely different organism resembling a large winged ant. These Goandi princesses leave their colonies almost immediately after hatching and usually survive for up to 3 months before finding their own host and establishing a colony. 
+The first colony such a princess establishes is referred to as their Toanh, usually in a mobile, self-sufficient and easy to control animal such as a badger, a fox or the like.
+Instinctively these young Goandi seek distance with their progenitor to increase their chance of survival, as all Goandi are naturally territorial and the Prosinh largely incapacitates the "mother" to prevent her from immediately ending her offspring's life.
+A Toanh is almost always discarded before the process of finding a more permanent host begins, usually a Goandi goes through between 15 and 50 Toanh that precede their finite colony.
+
 Ikieni development as a race is extremely stagnant as they essentially teach nothing to their offspring and superlatively hostile to each other, although have been able to integrate themselves in social communities and even larger civilizations to achieve a higher likelihood of survival.
 
 While extremely intelligent as is, Goandi are entirely motivated by individual self preservation and essentially never exhibit signs of empathy, although have sometimes shown signs of an absurdist form of humour and need for entertainment: usually observed as cruel and morbid manipulation of other sentient beings.
@@ -19,6 +24,6 @@ The oldest recorded Carong colony is theorized to have been over 4 centuries old
 Their lack of empathy is not owed to a lack of emotions, in fact Goandi and especially Carong grow to express their individualism in a variety of ways and cling to their life over all else.
 
 A greater majority of Ikieni can be encountered in the Jungles of Vinjira, at the south-western coast of Behera but tend to inhabit feral organisms and live shorter life's, in the deepest jungles of Vinjira no larger sentient species lives and these "primal" Goandi only compete with each other.
-Concerning more socially active Goandi, we can encounter them in far eastern Nirydia, on the islands of the Hyklamok, and within the Realms of the Gohori such as .[[Pervantes]], [[Pinh-Ub]] or even far [[Tilduren]].
+Concerning more socially active Goandi, we can encounter them in far eastern Nirydia, on the islands of the Hyklamok, and within the Realms of the Gohor such as [[Pervantes]], [[Pinh-Ub]] or even far [[Tilduren]].
 
 The Ikieni tend to rarely call attention to themselves on an international or larger cultural level due to their absolute individualism and rejection of homo-species communities, inter Ikieni bonds are essentially unheard of outside of short utilitarian arrangements.
