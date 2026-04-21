@@ -18,7 +18,7 @@ A Carongs colony often functions in a very energy efficient way and can appear a
 The oldest recorded Carong colony is theorized to have been over 4 centuries old at the time of its death and was inhabiting a Yorgosi Desert Giant.
 Their lack of empathy is not owed to a lack of emotions, in fact Goandi and especially Carong grow to express their individualism in a variety of ways and cling to their life over all else.
 
-A greater majority of Ikieni can be encountered in the Jungles of Vinjira, at the south-western coast of Behera but tend to inhabit feral organisms and live shorter lifes, in the deepest jungles of Vinjira no larger sentient species lives and these "primal" Goandi only compete with each other.
+A greater majority of Ikieni can be encountered in the Jungles of Vinjira, at the south-western coast of Behera but tend to inhabit feral organisms and live shorter life's, in the deepest jungles of Vinjira no larger sentient species lives and these "primal" Goandi only compete with each other.
 Concerning more socially active Goandi, we can encounter them in far eastern Nirydia, on the islands of the Hyklamok, and within the Realms of the Gohori such as .[[Pervantes]], [[Pinh-Ub]] or even far [[Tilduren]].
 
 The Ikieni tend to rarely call attention to themselves on an international or larger cultural level due to their absolute individualism and rejection of homo-species communities, inter Ikieni bonds are essentially unheard of outside of short utilitarian arrangements.
