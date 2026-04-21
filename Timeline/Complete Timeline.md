@@ -31,7 +31,7 @@
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Thirdonis is constructed</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
-	        <div class="timeline-item" data-date="2250BA">First Record of Velori civilization in the Ud-Vendili Plain</div>
+	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>

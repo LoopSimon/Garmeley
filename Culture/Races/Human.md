@@ -42,7 +42,7 @@ Asefi: primarily the Horadi, Hessefi and Asefi peoples
 
 Subnimbi: primarily the Mogori, Arevi, and Inori peoples
 
-Yorgosi: primarily the Yorgosi, Vendi and Zipivi tribes
+Yorgosi: primarily the Yorgosi, Vendi, Vendili and Zipivi peoples
 
 Palmunian: including the remnant tribes of Neo-Palmunis peoples
 
