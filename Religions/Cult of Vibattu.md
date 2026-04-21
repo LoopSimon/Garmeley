@@ -1,3 +1,9 @@
+%%
+[[Ikieni]]
+[[Turpador]]
+[[Jeledo]]
+[[Cevolian Pantheon]]
+%%
 <p>Literally meaning, "Cult of Battu", or "Divine Grace of Bhatu" in the cevoli translation, this religious cult describes the worship of the Bhatu: a mysterious figure of divine providence promising apotheosis to its followers in cyclical patterns. Often the Cult is seen as another offspring of the original cevoli <a href="Cevolian Pantheon" class="internal-link">Pantheon</a>  similar to relatively minor cults like the <a href="Cult of Tirea" class="internal-link">Tirean Cult</a>.</p>
 
 <p>In reality, the Cult of Vibattu, or in vocalized Ikieni the "Bhatu-Tinh", follows the ancient <a href="Ikieni" class="internal-link">Carong</a> Bhatu who has undergone an form of colonization even unique amongst the other members of her species. Whereas other Ikieni usually "commit" to a certain host body, also known as a colony, after a certain age Bhatu has developed a method to transfer herself between organisms. In her case the cults most devout member is colonized after being chosen as the divine reward. This practice is only possible due to the fact that Bhatus initial host and all thereafter retained consciousness after colonization and accessed the divine axis, to manipulate planar energy, therefore allowing the Carong to survive the process of transference.</p>
