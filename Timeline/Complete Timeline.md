@@ -31,12 +31,12 @@
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Thirdonis is constructed</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
-	        <div class="timeline-item" data-date="2280PA">Earliest evidence for the city of Palmunis</div>
+	        <div class="timeline-item" data-date="2280BA">Earliest evidence for the city of Palmunis</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
-	        <div class="timeline-item" data-date="1845PA">Gate of Palmunis is constructed</div>
+	        <div class="timeline-item" data-date="1845BA">Gate of Palmunis is constructed</div>
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
 	        <div class="timeline-item" data-date="1805BA">High Vendili political consolidation emerges</div>
@@ -72,7 +72,7 @@
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="615BA">First records of Gorati cities</div>
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
-            <div class="timeline-item" data-date="600PA">Rohu-Kobold Culture dominates western Nirydia</div>
+            <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="400BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
