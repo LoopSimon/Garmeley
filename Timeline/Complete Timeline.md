@@ -56,12 +56,13 @@
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
 	        <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
-            <div class="timeline-item" data-date="996BA">Great Cyraclion invades Behera</div>
+            <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
-            <div class="timeline-item" data-date="631BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
-	        <div class="timeline-item" data-date="640BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
-            <div class="timeline-item" data-date="655BA">The Founding of the Great City of Rahk</div>
-            <div class="timeline-item" data-date="644BA">Genevi finds the Keystar north of the Ronra</div>
+            <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rahk</div>
+            <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
+            <div class="timeline-item" data-date="670BA">Neyadastes writes the Codex Kynosis</div>
+	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
+            <div class="timeline-item" data-date="640BA">Genevi finds the Keystar north of the Ronra</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
             <div class="timeline-item" data-date="624BA">Zuhurism is first practiced by the Pagri nomads of Nirydia</div>
             <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
@@ -73,7 +74,7 @@
             <div class="timeline-item" data-date="600PA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
-            <div class="timeline-item" data-date="332BA">Fall of Cyraclion</div>
+            <div class="timeline-item" data-date="318BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
