@@ -77,6 +77,7 @@
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="400BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
+            <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
             <div class="timeline-item" data-date="318BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
@@ -114,6 +115,7 @@
             <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
             <div class="timeline-item" data-date="86PA">Rise of Merzigal in Kherova</div>
+            <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
@@ -141,7 +143,7 @@
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
-            <div class="timeline-item" data-date="311PA">Natan I becomes first Imperator of the Twintail</div>
+            <div class="timeline-item" data-date="311PA">Natan I becomes first Imperator of the Twintail, begin of the early Natan Period.</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="325PA">First mention of the united Ruginë Principality</div>
@@ -151,13 +153,16 @@
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
             <div class="timeline-item" data-date="360PA">Giants retreat beyond Waelajokull</div>
+            <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
             <div class="timeline-item" data-date="380PA">Kallevo I defeats Grachian Forces at Iorbridge and unifies Ukiolla</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
+            <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
+            <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribess of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
@@ -178,6 +183,7 @@
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
+            <div class="timeline-item" data-date="543PA">Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
@@ -194,6 +200,7 @@
             <div class="timeline-item" data-date="589PA">Diedrik of Meadland becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon</div>
+            <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
@@ -203,10 +210,12 @@
             <div class="timeline-item" data-date="620PA">First Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
-            <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
+            <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
+            Natan XXI "Ilseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
             <div class="timeline-item" data-date="629PA">Fall of Thirabnir</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
+            <div class="timeline-item" data-date="640PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="645PA">Second Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
@@ -226,6 +235,7 @@
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
             <div class="timeline-item" data-date="691PA">Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
+            <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="701PA">Third Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
