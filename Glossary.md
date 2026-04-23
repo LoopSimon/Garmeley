@@ -60,6 +60,7 @@
             <div class="timeline-item" data-date="Edros">Gas</div>
             <div class="timeline-item" data-date="Kymon">Sage</div>
             <div class="timeline-item" data-date="Til">Sky</div>
+            <div class="timeline-item" data-date="Andro">Automated</div>
         </div>
     </div>
 </div>
