@@ -239,6 +239,7 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="701PA">Third Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
+            <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="711PA">Timpo leads his people north and founds Vigzil</div>
@@ -250,6 +251,7 @@
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
+            <div class="timeline-item" data-date="760PA">Battle of Minea</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Gethric Pogroms begin</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
