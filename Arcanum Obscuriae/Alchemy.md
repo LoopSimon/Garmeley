@@ -21,6 +21,5 @@
 <p>Kynomeia: The transformation or infusion of planar energy into matter.</p>
 <p>Kynogma: The result of the Kynomeia.</p>
 <p>Ogma: The Potential and Effect of the energy turned matter.</p>
-<p>Kynogma: The result of the Kynomeia.</p>
 <p>Trygisis: The Conditions of the Ogmas release.</p>
 <p>Ribus: The degenerated matter remaining after the Ogmas release.</p>

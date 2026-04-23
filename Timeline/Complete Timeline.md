@@ -20,7 +20,7 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Age of Bronze</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="5500BA">Agriculture develops in Ancient Palmuna </div>
+	        <div class="timeline-item" data-date="5500BA">Agriculture develops in Ancient Behera </div>
 	        <div class="timeline-item" data-date="4900BA">Earliest supposed date for the domestication of the cat</div>
 	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
 	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large scale canal systems</div>
@@ -31,7 +31,7 @@
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Thirdonis is constructed</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
-	        <div class="timeline-item" data-date="2280PA">First records of Palmunian civlization east of the Cloudscratchers</div>
+	        <div class="timeline-item" data-date="2280PA">Earliest evidence for the city of Palmunis</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
@@ -55,8 +55,8 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="1150BA">The Tragedy of Thileus is written</div>
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
-	        <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
+            <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rahk</div>
@@ -106,6 +106,7 @@
         <div class="timeline-list">
             <div class="timeline-item" data-date="10PA">Burning Decade</div>
             <div class="timeline-item" data-date="29PA">Unification of Urland</div>
+            <div class="timeline-item" data-date="35PA">Great Pagri Migration Period in eastern Nirydia begins</div>
             <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat</div>
             <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
@@ -116,7 +117,8 @@
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
-            <div class="timeline-item" data-date="185PA">Auguri Invasion of Thirdonis begins</div>
+            <div class="timeline-item" data-date="159PA">Auguri Invasion of Thirdonis begins</div>
+            <div class="timeline-item" data-date="160PA">Great Pagri Migration Period in eastern Nirydia ends</div>
             <div class="timeline-item" data-date="162PA">Kwarzimi of Corbaik creates the Leypoint Model</div>
             <div class="timeline-item" data-date="170PA">Wars of Storm</div>
             <div class="timeline-item" data-date="176PA">Death of Heljad the Giantslayer</div>
