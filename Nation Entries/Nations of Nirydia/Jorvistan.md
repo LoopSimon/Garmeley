@@ -1,3 +1,4 @@
+[[Bigronism]]
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
     <div class="wiki-row">
@@ -19,7 +20,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span></span>
+        <span><a href="Bigronism" class="internal-link">Bigronism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
