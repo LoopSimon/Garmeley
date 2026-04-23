@@ -36,6 +36,7 @@
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
+	        <div class="timeline-item" data-date="1950BA">First true glass smelting occurs in Cyraclion</div>
 	        <div class="timeline-item" data-date="1845BA">Gate of Palmunis is constructed</div>
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
@@ -275,6 +276,7 @@
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate, White Wars begin in Behera</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
+            <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
@@ -294,6 +296,7 @@
         <h3>Modern Age</h3>
         <div class="timeline-list">
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
+            <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
             <div class="timeline-item" data-date="907PA">Tourney at Mitrad</div>
