@@ -141,6 +141,7 @@
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
+            <div class="timeline-item" data-date="311PA">Natan I becomes first Imperator of the Twintail</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="325PA">First mention of the united Ruginë Principality</div>
@@ -180,7 +181,7 @@
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
-            <div class="timeline-item" data-date="561PA">Natan I becomes first Imperator of the Twintail</div>
+            <div class="timeline-item" data-date="561PA">Shirin golden Age begins</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
         </div>
     </div>
@@ -235,6 +236,7 @@
             <div class="timeline-item" data-date="713PA">Lissvalley cities unite</div>
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
+            <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
