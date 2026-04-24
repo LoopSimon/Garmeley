@@ -163,6 +163,7 @@
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
+            <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribess of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
@@ -187,7 +188,6 @@
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
-            <div class="timeline-item" data-date="561PA">Shirin golden Age begins</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
         </div>
     </div>
@@ -270,7 +270,7 @@
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
-            <div class="timeline-item" data-date="803PA">Invention of Gunpowder</div>
+            <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="810PA">Kranvalley Flood</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars</div>
@@ -323,6 +323,7 @@
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords</div>
+            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world</div>
             <div class="timeline-item" data-date="922PA">Death of Duchess Agnes of Garmeley</div>
             <div class="timeline-item" data-date="922PA">Fairriver Incident</div>
             <div class="timeline-item" data-date="923PA">Tourney at Niedrest</div>
