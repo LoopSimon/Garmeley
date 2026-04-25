@@ -30,6 +30,12 @@ Over the following decades and centuries, Gethricism spread like wildfire throug
 
 The White Book, a collection of quotes, saying, prayers and oaths by the earliest Church-Fathers, as compiled by the Saint Rodymir of Voblag, is a symbol of the academic aspect of the Faith, as many hermits, priests, clerics and bishops have devoted themselves solely to the study of self-enlightenment through Gethricism.
 
+##### The tradition of Reaffirmation
+
+The process of Reaffirmation is an older practice within the faith, regardless of any specific denomination that used to be a widely undertaken tradition and has faded somewhat into obscurity in contemporary liturgy, for example it is almost entirely lost to Trinicist communities of today, whilst, especially for those of lower standing, Kethricists still practice Reaffirmation somewhat frequently.
+Reaffirmation describes the tradition of confiding your doubts, hopes and fears into a, often authoritarian, figure of the faith. One would describe ones figurative or often literal oath and ones personal feelings toward it regarding a specific situation or a more general worry. Usually these conversations are seen as somewhat spiritually healing and held as confidential between sheep and shepherd.
+The tradition of reaffirmation is arguably a relic of an older time but nonetheless protected as an institution by both the Patriarch of Kher and the High-Bisop of Iztaw, sometimes convicted criminals may be given a moment of solace in the especially devout communities before execution to convene with a father or priest in this manner.
+Usually due to the international nature of the faith, the traditional old Vihri phrase "Shepard i fear i have lost the path, can you help me find it again?" or its various translations can be used to initiate Reaffirmation, at least that is the traditional practice.
 ### High Gethricism and its denominations
 
 The oldest and still most widespread form of Gethricism, puts additional value into the literal transcriptions of the Prophets and his Brotherhoods words, often taking literal and perhaps somewhat outdated meanings from them.
