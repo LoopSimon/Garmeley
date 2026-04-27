@@ -1,5 +1,5 @@
 %%
-[[Yari Faith]][[Beastfolk]][[Pravazik]]
+[[Pravazik Pantheon]][[Beastfolk]][[Pravazik]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Great City of Yokosch</h4>

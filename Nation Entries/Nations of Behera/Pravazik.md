@@ -1,5 +1,5 @@
 %%
-[[Safir]][[Beastfolk]][[Yari Faith]]
+[[Safir]][[Beastfolk]][[Pravazik Pantheon]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Empire of Pravazik</h4>
