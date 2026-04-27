@@ -1,5 +1,5 @@
 
-The Yari members of this Pantheon are often theorised to be of [[Protean]] Nature or Origin, although there is no direct evidence outside of comparative observation.
+The [[Yari]] members of this Pantheon are often theorised to be of [[Protean]] Nature or Origin, although there is no direct evidence outside of comparative observation.
 
 In the Lands of the Smaragd Sea, the Moon deity Arishi is the greatest divine being, believed to be more powerful than the sun, as the moon appeared by night and day.
 She is notably exclusively associated with [[The first Moon]].
