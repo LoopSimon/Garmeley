@@ -18,5 +18,5 @@ A list of known Dragons
 	also known as "the Wurm of Limsul", this entity is rumoured to live within the Limsul Peaks, worshipped by the Kobolds of [[Rha-Gis]] as their living God.
 
 
-Kuruchi
-	Often associated with water this beast, said to possess seven heads, lives on one of the Aoke Islands south of Behera. It is sometimes spotted by the inhabitants of 
+***Kuruchi***
+	Often associated with water this beast, said to possess seven heads, lives on one of the Aoke Islands south of Behera. It is sometimes spotted by the inhabitants of Kian, south of Hanshi or by qamlyr sailors.
