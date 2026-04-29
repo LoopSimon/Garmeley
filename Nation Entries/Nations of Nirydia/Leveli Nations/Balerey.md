@@ -1,5 +1,5 @@
 %%
-[[Ilonism]]
+[[Faigin]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Ilonism" class="internal-link">Ilonism</a></span>
+        <span><a href="Faigin" class="internal-link">Faigin Church</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

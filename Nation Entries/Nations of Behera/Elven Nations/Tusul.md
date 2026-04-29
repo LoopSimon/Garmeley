@@ -2,6 +2,7 @@
 [[Elbae]]
 [[Pravazik]]
 [[Iz-Almadus]]
+[[Ilonism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Emirate of Tusul</h4>
@@ -24,7 +25,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Elven Paragonworship" class="internal-link">Elven Paragonworship</a>
+        <a href="Ilonism" class="internal-link">Ilonism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
