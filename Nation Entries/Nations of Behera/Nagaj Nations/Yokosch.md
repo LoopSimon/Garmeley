@@ -1,5 +1,5 @@
 %%
-[[Pravazik Pantheon]][[Beastfolk]][[Pravazik]]
+[[Pravazik]] [[Yari Cults]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Great City of Yokosch</h4>
@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Yari Faith" class="internal-link">Yari Faith</a>
+        <a href="Yari Cults" class="internal-link">Yari Cults</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

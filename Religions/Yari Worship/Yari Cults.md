@@ -1,0 +1,1 @@
+The [[Yari]] of Behera are often worshiped as patron deities, protecting communities geographically or culturally linked to their respective hincui, here is a list of the known major Yari Cults outside of the dominant [[Pravazik Pantheon]].
