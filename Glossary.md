@@ -63,4 +63,14 @@
             <div class="timeline-item" data-date="Andro">Automated</div>
         </div>
     </div>
+    <div class="grid-item">
+        <h3>Gnomish</h3>
+        <div class="timeline-list">
+	        <div class="timeline-item" data-date="Prosum">Artificery</div>
+		    <div class="timeline-item" data-date="Tiogum">Maintenance</div>
+            <div class="timeline-item" data-date="Vellum">Modulation</div>
+            <div class="timeline-item" data-date="Ixinum">Creation</div>
+            <div class="timeline-item" data-date="Ro">Energy</div>
+        </div>
+    </div>
 </div>
