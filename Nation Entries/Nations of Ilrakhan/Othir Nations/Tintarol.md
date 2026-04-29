@@ -1,3 +1,7 @@
+%%
+[[Augurism]]
+[[Thirdonis]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hobgoblin Tribes</h4>
     <div class="wiki-row">
