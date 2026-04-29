@@ -1,5 +1,7 @@
 %%
 [[Spiritual Realm]]
+[[Greater Spirit]]
+[[Yari]]
 %%
 <p>The Term Weaving generalizes all applications of realmatic Energy, as opposed to planar energy. </p>
 <p>The Existence of Dulmic Gates, is often cited as an example for the possibility of permanent Weaving, connecting the material and spiritual realm permanently, akin to a permanent Fluxbridge.</p>
