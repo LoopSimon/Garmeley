@@ -238,6 +238,7 @@
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
+            <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
             <div class="timeline-item" data-date="701PA">Third Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
