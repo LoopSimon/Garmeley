@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Niztapur</span>
+        <span>Yar-Arishi</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Yari Faith" class="internal-link">Yari Faith</a>
+        <a href="Pravazik Pantheon" class="internal-link">Pravazik Pantheon</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

@@ -1,3 +1,6 @@
+%%
+[[Ilonism]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Marival of Yorgos</h4>
     <div class="wiki-row">
@@ -19,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Yari Faith" class="internal-link">Yari Faith</a>
+        <a href="Ilonism" class="internal-link">Ilonism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

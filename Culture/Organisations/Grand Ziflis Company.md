@@ -1,8 +1,7 @@
 
 %%
 [[Elbae]]
-[[Yorgos]]
-[[Pravazik]]
+
 %%
 
 <p>A trading company founded in the City of Ziflis within the <a href="Elbae" class="internal-link">Sultante of Elbae</a>, during the middle 8th century, bringing together leading merchants in a regulated company in the nature of a guild. Its members main business was export of national goods such as cloth in exchange for a variety of foreign goods, trading in the Stormy Sea, the Ports of Nirydia, Il-Haena and southern Behera.</p>
