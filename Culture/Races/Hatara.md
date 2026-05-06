@@ -1,7 +1,8 @@
 %%
+[[Behera]]
 %%
 <h2>Physiology and Appearence</h2>
-<p>This humanoid species originates in the Xeremesi mountains and the Kaito Highlands of the Beheran continent. Hatara appear humanoid but possess several unique characteristics that differentiate them from the traditional Beheran human.</p>
+<p>This humanoid species originates in the Xeremesi mountains and the Kaito Highlands of the <a href="Behera">beheran</a> continent. Hatara appear humanoid but possess several unique characteristics that differentiate them from the traditional Beheran human.</p>
 <p>They own two sets of arms, two "upper" and two "lower" arms with six fingers on each of their four hands, as well as six toes on their two feet. A heavy and muscular tail stabilizes their enlarged and wide torso. Hatara are considerably heavier than an average human, not only owed due to their exceptionally wide frame but also an average height between 7 and 8 ft. Supporting their immense body is an additional set of lungs and an enlarged heart.</p>
 <p>A Hataras face is dominated by two distinct features: Their set of four eyes and their very wide but flat nose, they reach adulthood at the age of 12 and tend to live for around 75-85 years.</p>
 <p>Hatara posses a unique inner organ sitting behind their livers, known as the Golom which produces a fluid known as Go. Go is secreted through pores on the Hataras skin, causing them to be entirely hairless and their skin to take on a striking rose-red colour. Go hardens over time when in contact with oxygen and continues to do so over time, unless broken up immediately. This leads to certain parts of a Hatara forming an extremely durable horn-like barrier, as well as Hatara shedding and replenishing constantly during movement. Hardened Go is best imagined as durable and transparent wax. </p>

@@ -1,4 +1,7 @@
-<p>Gihkang are omnivorous animals mostly found in the jungles and grasslands of Behera. Gihkang are feared for their combative disposition and are active hunters, one of the few species on the entire Inaran continent that hunts humanoids. This species is most known for their unique keratine based shells that protect most elements of their bodies, unlike large turtles or other chelydridae however, a Gihkang possesses multiple shells that interlink in an armour like fashion.</p>
+%%
+[[Behera]]
+%%
+<p>Gihkang are omnivorous animals mostly found in the jungles and grasslands of <a href="Behera">Behera</a>. Gihkang are feared for their combative disposition and are active hunters, one of the few species on the entire Inaran continent that hunts humanoids. This species is most known for their unique keratine based shells that protect most elements of their bodies, unlike large turtles or other chelydridae however, a Gihkang possesses multiple shells that interlink in an armour like fashion.</p>
 
 <p>While male Gihkang tend to grow larger than their female counterparts, both average a lifespan of between 70 and 75 years, when moving upright on their hindlegs they stand at approximately 120-130 cm tall.</p>
 
