@@ -1,3 +1,6 @@
+%%
+[[Behera]] [[Cyraclion]] [[Artificery]] 
+%%
 <p>The Thurimoi or usually just "Clockwerk Towers" of West Behera are considered one of the great wonders of the World, dating back likely to pre-collapse <a href="Cyraclion" class="internal-link">cyracli</a> civilizations. They are build in areas of high and near constant seismic activity, and function as self-sufficient systems that absorb and transfer seismic energy.</p>
 <p>The region around the Chikari mountains is home to an ore named thurite, roughly translated to "song" in ancient cyracli. The ore possesses a unique quality as it is build up in an almost chamber like fashion and reverberates applied kinetic energy through itself and then out once more, creating essentially a delayed energy reverberation.</p>
 <p>The core invention at the heart of the Thurimoi, or "singing Towers" was the thuric resonator, an artifact in the ottian sense that requires kinetic energy of predetermined frequencies to activate, therefor creating what we now understand to be a conditional Fluxbridge. This Fluxbridge feeds into an extremely simplified prism that simply generates the same amount of kinetic energy.
