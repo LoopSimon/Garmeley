@@ -1,4 +1,4 @@
-Belligerents:  [[Elbae]] Sultanate and [[Nation Entries/Nations of Behera/Golomid]] Empire
+Belligerents:  [[Elbae]] Sultanate and [[Golomid]] Empire
 
 *Date: 871 PA - 893 PA
 
