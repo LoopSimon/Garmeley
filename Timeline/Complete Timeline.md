@@ -76,10 +76,10 @@
             <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
-            <div class="timeline-item" data-date="400BA">Pixos creates the "Heart of Pixos"</div>
+            <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
+            <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
-            <div class="timeline-item" data-date="318BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
