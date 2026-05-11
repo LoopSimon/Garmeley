@@ -14,7 +14,7 @@ orbited by [[The first Moon]] and [[The second Moon]]
  [[Eressa]]:
 	Located within the south-western corner of your classical Ilrakhani Map, the 2 large islands of Eressa and Pagia are often referred to as the Eressian Continent.
 
- [[Sirena]]:
+ [[Sirenna]]:
 	After Inara, southern Sirena is the largest single landmass in the entire world, often referred to as the "New World", together with Bricea.
 
  [[Bricea]]:
