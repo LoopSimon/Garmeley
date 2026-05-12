@@ -4,12 +4,12 @@
 
 **The Common Calendar**
   
-The Common Solar Calendar is accepted and used in the Subcontinent of Ilrakhan and dates its Year 0 to the Eruption of Al-Akka during the End times of the Rahkian Empire. It counts a Year as 400 Days, with 10 Months of 40 days every Year.
+The Common Solar Calendar is accepted and used in the Subcontinent of Ilrakhan and dates its Year 0 to the Eruption of Al-Akka during the End times of the Rakhian Empire. It counts a Year as 400 Days, with 10 Months of 40 days every Year.
 
   
 **The Rakhian Calendar**
 
-The [[Rakh]]ian Calendar is no longer in wide use anywhere but remains relevant primarily in Academic Circles as it dates the year as 3104 Solar Days, that being the time between 2 Confluxes. It dates its Year 0 to the founding of the Great City of Rahk and most of our knowledge regarding it stems from the Alwazattar Tablets, created by Phiodales of Mizk in the 1st Century BA.
+The [[Rakh]]ian Calendar is no longer in wide use anywhere but remains relevant primarily in Academic Circles as it dates the year as 3104 Solar Days, that being the time between 2 Confluxes. It dates its Year 0 to the founding of the Great City of Rakh and most of our knowledge regarding it stems from the Alwazattar Tablets, created by Phiodales of Mizk in the 1st Century BA.
 
 
 **The Elven Calendar**

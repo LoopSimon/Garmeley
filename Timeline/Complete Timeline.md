@@ -60,7 +60,7 @@
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
-            <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rahk</div>
+            <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
             <div class="timeline-item" data-date="670BA">Neyadastes writes the Codex Kynosis</div>
 	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
@@ -100,10 +100,10 @@
             <div class="timeline-item" data-date="90BA">Gunrsbridge is finished by the great Giants of the North</div>
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="79BA">Subjugation of Pilvia</div>
-            <div class="timeline-item" data-date="71BA">Height of the Rahkian Empire</div>
+            <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
-            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rahk, Rakhi Dissapearence and Dissolution of the Meter Dynasty</div>
+            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rakh, Rakhi Dissappearence and Dissolution of the Meter Dynasty</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
