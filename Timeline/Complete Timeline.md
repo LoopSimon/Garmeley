@@ -255,6 +255,7 @@
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
+            <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
@@ -275,7 +276,6 @@
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach, 2nd War of Elbae Aggression ends</div>
-            <div class="timeline-item" data-date="837PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="792PA">Battvian Civil War</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador</div>
