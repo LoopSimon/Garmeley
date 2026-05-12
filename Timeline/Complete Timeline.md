@@ -83,6 +83,7 @@
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
+            <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
             <div class="timeline-item" data-date="282BA">Rise of the Cyclopi</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
@@ -121,6 +122,7 @@
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
+            <div class="timeline-item" data-date="148PA">Barali Invasion of Drizun, Mogyri Shogunate takes power</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
             <div class="timeline-item" data-date="159PA">Auguri Invasion of Thirdonis begins</div>
             <div class="timeline-item" data-date="160PA">Great Pagri Migration Period in eastern Nirydia ends</div>
@@ -131,9 +133,11 @@
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
             <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
             <div class="timeline-item" data-date="205PA">1st Wermian Incursion</div>
+            <div class="timeline-item" data-date="219PA">Massacre of the Clan, Rise of the Ekazadi in Drizun</div>
             <div class="timeline-item" data-date="236PA">2nd Wermian Incursion</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
+            <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizun</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
@@ -221,8 +225,9 @@
             <div class="timeline-item" data-date="645PA">Second Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
+            <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
             <div class="timeline-item" data-date="668PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
-            <div class="timeline-item" data-date="681PA"> Battle of Verivale, End of the Luchun Khaganate</div>
+            <div class="timeline-item" data-date="671PA"> Battle of Verivale, End of the Luchun Khaganate</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
@@ -250,8 +255,10 @@
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
+            <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
+            <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
@@ -303,6 +310,7 @@
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
+            <div class="timeline-item" data-date="888PA">Treaty of Nzhun</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
