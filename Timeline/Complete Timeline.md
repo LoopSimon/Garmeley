@@ -341,7 +341,7 @@
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla, discovery of Sirenna, Sack of Sunminster</div>
             <div class="timeline-item" data-date="925PA">Battle of Jestrick Fields, Entusul Uprising is put down by Emir Zazir Brahmis</div>
             <div class="timeline-item" data-date="926PA">Di-Molina Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment, International Intervention in the Garmian Civil War</div>
-            <div class="timeline-item" data-date="927PA"></div>
+            <div class="timeline-item" data-date="927PA">Hynek of Forrington is assassinated</div>
         </div>
     </div>
 </div>
