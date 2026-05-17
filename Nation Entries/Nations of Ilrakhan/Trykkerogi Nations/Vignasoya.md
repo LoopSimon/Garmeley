@@ -34,3 +34,4 @@
         <span>N/A</span>
     </div>
 </div>
+<p>The oldest of the great three united nations of Trykkerog, Vignasoya is by far the least populous or economically dominant of the three, living in the harsh western lands and fjords. Resisting the great Gethric Conversion following the voyage of the prophet Melmer, the skori of Vignasoya have remained firm in their old traditions. They are proud warriors and seafairers, often fighting as warbands in foreign wars in the lands of Thirabnir.</p>
