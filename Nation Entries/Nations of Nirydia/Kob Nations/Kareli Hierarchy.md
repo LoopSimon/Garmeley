@@ -1,4 +1,4 @@
-[[Duol Rabad]][[Kobold]][[Kobold Shamanism]][[Orc]][[Qalmyr]]
+%%[[Duol Rabad]][[Kobold]][[Kobold Shamanism]][[Orc]][[Qalmyr]] %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kareli Hierarchy</h4>
     <div class="wiki-row">
@@ -36,3 +36,4 @@
         <span>Lushun Khaganate</span>
     </div>
 </div>
+<p>The Hierarchy formed a few years after the death of the legendary <a href="Mogyr" class="internal-link">mogyri</a> Conqueror Gaden, who broke Khaganate reign over the people of the southern ports but was unable to guarantee real lasting rule beyond his own lifetime in the region. A progressive and rich country, orcish, kobold and human majorities all call the Hierarchy their home in equal share, with the free port of Aznyr thriving as one of the most multi-cultural and prosperous cities in the known world, acting as the western gate between Ilrakhan and Nirydia on the other end of the <a href="Velvet Caravan" class="internal-link">Velvet Road</a>.</p>

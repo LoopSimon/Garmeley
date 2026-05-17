@@ -39,4 +39,4 @@
         <span>N/A</span>
     </div>
 </div>
-<p>The Woodland Realm of the Sorcerer Queen Sihir, also known as Sihilixar, is located within northern Nirydia and entirely populated by the native span><a href="Peruxa" class="internal-link">Nirydian Peruxa</a> and their servants. Pressed against the Ronra mountain range it is ruled from the Nest City of Barzún and organized in a strict autocracy under the ancient avian.</p>
+<p>The Woodland Realm of the Sorcerer Queen Sihir, also known as Sihilixar, is located within northern Nirydia and entirely populated by the native <a href="Peruxa" class="internal-link">Nirydian Peruxa</a> and their servants. Pressed against the Ronra mountain range it is ruled from the Nest City of Barzún and organized in a strict autocracy under the ancient avian.</p>

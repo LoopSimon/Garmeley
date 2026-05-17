@@ -31,10 +31,8 @@
         <strong>Official Language</strong>
         <span>Durenni Gobnir</span>
     </div>
-    </div>
-    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span></span>
     </div>
-</div>
+    </div>
