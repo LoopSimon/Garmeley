@@ -1,6 +1,6 @@
 Goblin
 
-Goblins are of small stature but great minds and a strong survival instinct, these dwellers of the underground are perhaps the only race in the world who has adapted to life in the darkness of the Underworld more than the Mountain loving Dwarves.
+Goblins are of small stature but with great minds and a strong survival instinct, these dwellers of the underground are perhaps the only race in the world who has adapted to life in the darkness of the Underworld more than the Mountain loving Dwarves.
 
 They tend to stand at around 3-5ft tall and can live for up to 120 years, extremely nimble and adaptable climbers, they can see without any issues in pitchblack darkness , as long as it's not of the magical kind.
 
