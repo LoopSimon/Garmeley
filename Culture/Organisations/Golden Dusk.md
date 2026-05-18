@@ -8,3 +8,5 @@
 
 <p>The leader of the Golden Dusk is the Grand Hierophant, traditionally seen as the spiritual leader of all beheran elfs. They reside in the Great Tomb of Paret at the ancient city of Biadarkyr. As the Grand Hierophants primary task is interpreting the will of the Paragons and spiritually leading the population, many duties of more political nature fall into the hands of the official envoy to the Sultan, the High-Priest of Jiravid. This office holds substantial political influence and power, being granted a permanent Seat on the Sultans Council and acting as the official interpreter and advisor in matters of the spiritual and cultural.</p>
 <p>In modern times, the Grand Hierophant is the drow-elf Ramira Ued al-Raban, while the office of the High-Priest of Jiravid is held by Rivil al-Faet.</p>
+
+<p>The Golden Dusk commands an array of scholars, guardians, priests and other more specialized agents and holds substantial financial assets within and outside of Elbae.</p>
