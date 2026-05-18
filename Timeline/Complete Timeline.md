@@ -167,6 +167,7 @@
             <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
+            <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>

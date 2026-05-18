@@ -1,4 +1,7 @@
-*Other relevant articles: [[Paper Cities]], [[Cyraclion]]*
+%%
+[[Cyraclion]]
+[[Paper Cities]]
+%%
 
 Founded at the end of the 6th century in [[Battvia]] as a support group and supply centre for adventurers looking to venture into the Ruins of Ancient [[Rakh]] after the Great Expedition.
 
