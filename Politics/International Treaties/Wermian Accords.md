@@ -32,6 +32,7 @@ The Accords ban the practice, teaching or preservation of the following:
 <ul>
 <li>Any spell, charm or curse of the School of Necromancy.</li>
 <li>Spells, charms or curses that influence, invade or alter another's mind.</li>
+<li>Spells or rituals to summon beings of intelligence and ability.</li>
 <li>Spells, charms or curses that create gateways through the material realm, be that to other planes of existence or the spiritual realm, including instantaneous transposition via teleportation magic.</li>
 <li>The Creation of Absolute Fluxbridges, as understood by <a href="Basic Magical Theory"> Magical Theory</a>.</li>
 </ul>
