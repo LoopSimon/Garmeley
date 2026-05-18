@@ -218,7 +218,7 @@
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
             Natan XXI "Ilseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
-            <div class="timeline-item" data-date="629PA">Fall of Thirabnir</div>
+            <div class="timeline-item" data-date="629PA">Fall of Thirdonis</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
             <div class="timeline-item" data-date="640PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
