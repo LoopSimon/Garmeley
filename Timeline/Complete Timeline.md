@@ -181,6 +181,7 @@
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>
+            <div class="timeline-item" data-date="512PA">Last sighting of Rasmur at Farsen Peak</div>
             <div class="timeline-item" data-date="516PA">Great Raalbrug Fire</div>
             <div class="timeline-item" data-date="517PA">Baeling Empire is declared, conversion of Trykkerog</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol ends</div>
