@@ -42,10 +42,22 @@
     </div>
 </div>
 <p> With the end of the Royal Line of Grach in the early 9th century PA, the influence of the feudal nobility within the Cities of Grachy had almost completed given way to the rich burgher class that emerged during the 7th and 8th century. A proud history and stern Gethric realm still, the young Republic has survived a long tale of struggles already, its wars with <a href="Vihr" class="internal-link">Vihr</a> to the east have left it without its oldest ally standing in the long conflict with the Pehki of <a href="Ukiolla" class="internal-link">Ukiolla</a>.</p>
+
+<h2>Geography</h2>
+<p>Grachy is located in southern and central Nostroya, on the eastern shores of the Torn Sea, its coastal regions possess a more maritime climate with cooler summers and milder winters, while northern and eastern parts of the country exhibit a more continental climate with warmer summers and harsher winters. </p>
+<p>Grachy is bordered by the Grachhyll in the south and the Mistspires in the East, it stretches as far north as the Stillwater River before the Ukiollan border begins. Forests dominate Grachy substantially but flatlands and farmlands are still to be found, especially within the central Gasyol Region of the country, a vast majority of the countries population lives in the southern coastal areas and around the Nida River.</p>
+
+<h2>Demographics</h2>
+<h2>Politics</h2>
+
+<p></p>
 <h2>People of Interest</h2>
 
 Ilja Zemov
 	Balgram of Grachy in his 2nd Term
+	
+Vasily Surovsky
+	Lord-General of the Republic
 	
 Vlad of House Kulyat
 	Baron of Kulyat
