@@ -1,5 +1,7 @@
 %%
 [[Gethricism]]
+[[Nostroya]]
+[[Ukiolla]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Grachy</h4>
