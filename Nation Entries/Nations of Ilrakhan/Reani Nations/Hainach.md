@@ -46,7 +46,8 @@
 
 <h2>Geography</h2>
 <p>Smaller in size than its neighbours, Hainachs most notable topographical features are the Sakra Plains, the Adoccian Plateu, the Cloudscratcher Mountains and the Iza River. Hainach has a varied and cahgeable climate, which results from being positioned at the meeting point of the Stormy Sea, oceanic and continental air masses combined with the barrier effect of its mountains. The Continental influence, stronger during fall and winter, produces abundant snowfall, while the Oceanic influence increases during summer and produces hot and dry weather.</p>
-
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hainach.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h2>Demographics</h2>
 <p>Hainach boasts the highest population of half-elves after the Sultanate itself, with them making up around 6% of the population. The Majority of its citizens are Reani Human at around 85% of the population, larger minorities other than half elves include beheran elves as well as garmian humans. </p>
 <h2>Economy</h2>
