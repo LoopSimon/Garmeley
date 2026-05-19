@@ -1,0 +1,1 @@
+<p>The Travlov Consortium for Free Trade, commonly just called the Consortrium is a commercial and defensive network of merchant guilds and trading ventures in the Torn Sea, that grew from Trazlov in the 7th century PA.</p>
