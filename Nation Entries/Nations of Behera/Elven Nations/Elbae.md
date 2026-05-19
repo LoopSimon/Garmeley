@@ -40,7 +40,8 @@
     </div>
 </div>
 <p>The Elbae Sultanate, named after the ruling Dynasty is the largest elven Realm in the World, controlling the vast majority of Il-Haena, most of the eastern Coast of Behera and the Drow  <a href="Underlands" class="internal-link">Underlands</a> directly, as well as exerting significant political influence throughout its subjects, like the  Eyalets of <a href="Hainach" class="internal-link">Hainach</a> and <a href="Qarzi" class="internal-link">Qarzi</a> or the <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a> Emirate. Its past has been marked by imperialist ambitions across Behera, Ilrakhan and Nirydia. The capital of the Sultanate, Jiravid, is one of the largest cities in the known world with a population of ca 140.000 citizens.</p>
-
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/northsultanate.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h2>Economy</h2>
 <p> The basis of the Elbae Sultanates economy is founded in mercantilism theory, stressing maximizing the trade inside the large country and trying to weaken international rivals, this basic mercantilist Theory was also largely imposed upon the Sultanates colonies.</p>
 <p>During the 8th and 9th century, owing to a scarcity of precious metals, the economy grew faster than the money supply of the period. Few coins were in circulation and instead most transactions were made on credit, the numerous debts were usually settled during so called "Balancings" held at convenient intervals, where reciprocal debts were cancelled and only the difference had to be paid with cash, overall coins formed less than 20% of all exchanges during the period.</p>

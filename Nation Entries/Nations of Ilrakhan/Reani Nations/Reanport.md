@@ -42,7 +42,10 @@
     </div>
 </div>
 
-<p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the <a href="Treaty of Danipol" class="internal-link">Danipol Treaty</a> and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus. A history of autonomy, trade and revolutions has lead to one of the most economically dominant but also socially equal countries in the known world.</p><h2>People of Interest</h2>
+<p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the <a href="Treaty of Danipol" class="internal-link">Danipol Treaty</a> and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus. A history of autonomy, trade and revolutions has lead to one of the most economically dominant but also socially equal countries in the known world.</p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Reanport.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
+<h2>People of Interest</h2>
 
 Nikisa Sorgo
 	Rector of Reansport
