@@ -222,6 +222,7 @@
             <div class="timeline-item" data-date="629PA">Fall of Thirdonis</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
+            <div class="timeline-item" data-date="639PA">Trazvlo Consortium is founded</div>
             <div class="timeline-item" data-date="640PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="645PA">Second Zuhiri Holy War begins</div>
