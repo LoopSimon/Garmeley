@@ -52,8 +52,8 @@
 <h2>Demographics</h2>
 <p>Grachy is dominated by the Grachy people, of vihrmen descent who make up around 82% of the countries total population. </p>
 <h2>Politics</h2>
-
-<p></p>
+<p>After its reformation out of the Kingdom of Halgrach, the Ushkyn Faction of Magnates, nobles and burghers assembled within the Blue Palace in Halgrach and declared the Holy Ushkyn Republic of Grachy, often simply referred to as Grachy or Grachy Republic.</p>
+<p>The Ushkyn is an old institution originating in the initial traders that sailed and settled across the Horn itself, literally meaning "peoples assembly" in Grachi. As an Institution it is present in almost all towns and cities in the country, and allows all dubush or "honoured people" of the community to partake and vote on certain issues and officials. Generally most burghers, nobles and respected landowners of higher standings are granted the rank of dubush,  although a large majority of commoners do not posses it.</p>
 <h2>People of Interest</h2>
 
 Ilja Zemov
