@@ -40,6 +40,8 @@
 </div>
 
 <p>The Principalities of Ukiolla are deeply connected to the old traditions of the Pekhi tribes and the lands of the Aeldveil. Ukiolla has been engaged in constant conflict with its southern neighbour in Grachy but enjoys a healthy relationship with goblin traders from the Mistspires and the <a href="Juelfluk" class="internal-link">Jueli</a> Sailors.  </p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ukiolla.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h2>Geography</h2>
 <p>Ukiolla lies east of the Torn Sea and South of the Eldveil, although many would consider the forest and the icy plains to its north part of the Principality.
 While the southern parts of Ukiolla are still predominantly agricultural, forest coverage gradually increases the further north and east the country stretches, around 50% of Ukiollas total land area is covered with forests. The countries dominant river, the Asza, is sourced from within the Mistspires and acts as an important economic waterway that connects the inland industries and settlements with the ports of the west.</p>

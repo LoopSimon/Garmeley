@@ -41,3 +41,5 @@
 </div>
 
 <p> Trazlov is one of the major Vadcy within Vihr and its most populated one. The Var of Trazlov has traditionally held the prestigious Office of Foreman of the Honoured Assembly. </p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/trazlov.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>

@@ -40,6 +40,8 @@
 </div>
 
 <p>The Lords and Ladies of Juelrup Castle have controlled the lands and seas of the Malksbay and the Giants Steps for centuries, even though besieged by the Kings of the <a href="Baeling" class="internal-link">Baeling</a> to the west and the Ice Trolls of <a href="Trykkerog" class="internal-link">Trykkerog</a> to the north, these adventurous sailors have carved a rich nation out of the unforgiving lands of the North.</p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/juelfluk.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
 <h2>People of Interest</h2>
 
 Madeley, fourth of her Name of House Juelrup
