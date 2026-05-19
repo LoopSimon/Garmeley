@@ -4,6 +4,8 @@ This Species live far longer lives than most mortals, with a common elf being ab
 Elves possess humanoid statue with noticeable differences, the largest one being their almost parchment like skin, extended wire like hair, massive eyes, and elongated hands and ears.
 They stop carrying children at a young age of around 30, which has historically led to various attempts of artificially growing their population through science and magic and a rather protective attitude to the younger generations within society.
 
+All Elves own an organ unique to their race, the Jawahr. A relatively small bean-shaped bulb that sits behind the Pelvis protected by its bone. The exact function and evolutionary necessity for it are unknown and research into this is essentially non existent in public circles, although the Jawahr takes a primary place along with heart, liver and brain during the process of Paragon-mummification.
+
 
 
 Beheran Elf
