@@ -54,6 +54,7 @@
 <h2>Politics</h2>
 <p>After its reformation out of the Kingdom of Halgrach, the Ushkyn Faction of Magnates, nobles and burghers assembled within the Blue Palace in Halgrach and declared the Holy Ushkyn Republic of Grachy, often simply referred to as Grachy or Grachy Republic.</p>
 <p>The Ushkyn is an old institution originating in the initial traders that sailed and settled across the Horn itself, literally meaning "peoples assembly" in Grachi. As an Institution it is present in almost all towns and cities in the country, and allows all dubush or "honoured people" of the community to partake and vote on certain issues and officials. Generally most burghers, nobles and respected landowners of higher standings are granted the rank of dubush,  although a large majority of commoners do not posses it.</p>
+<p>The Grand Ushkyn meets every year in Halgrach and is responsible for major decisions regarding the countries policies, internal and external, as well as the election of the Bagram who leads the country in most matters and acts as head of the Grand Ushkyn, currently the Bagram of Grachy is Ilja Zemov who had been elected to his 2nd term in 922PA. </p>
 <h2>People of Interest</h2>
 
 Ilja Zemov
