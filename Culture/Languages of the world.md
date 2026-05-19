@@ -11,6 +11,17 @@
 		
 		Spoken still in various Wermian villages in modern day Vihr
 	</div>
+	<div class="grid-item">
+	<h3>Beheran Languages</h3>
+		<h4>Asefi</h4>
+		<p>Language of the Horadi, Hessefi and Asefi human home to the modern day Sultanate</p>
+		<h4>Yorgos</h4>
+		<p>Language of the Yorgosi, Vendi, Vendili and Zipivi peoples in the eastern Desert</p>
+		<h4>Nimbi</h4>
+		<p>Language of the Mogori, Arevi, and Inori humans of the central Desert</p>
+		<h4>Hur</h4>
+		<p>Spoken by the Hurem and Usuni humans of the western Desert</p>
+	</div>
 	
 	<div class="grid-item">
 	<h3>Reani</h3>
