@@ -48,6 +48,7 @@
 <p>Grachy is bordered by the Grachhyll in the south and the Mistspires in the East, it stretches as far north as the Stillwater River before the Ukiollan border begins. Forests dominate Grachy substantially but flatlands and farmlands are still to be found, especially within the central Gasyol Region of the country, a vast majority of the countries population lives in the southern coastal areas and around the Nida River.</p>
 
 <h2>Demographics</h2>
+<p>Grachy is dominated by the Grachy people, of vihrmen descent who make up around 82% of the countries total population. </p>
 <h2>Politics</h2>
 
 <p></p>
