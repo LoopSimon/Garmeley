@@ -4,6 +4,8 @@
 [[Cyraclion]]
 %%
 <p>Alchemy, or often referred to in by the cyracli term "Kynosis" refers to the Infusion or Transformation of directed planar energy into matter, without the release of its potential, earliest records of this science go back as far as ancient <a href="Cyraclion" class="internal-link">Cyraclion</a>; although most cyracli knowledge has been lost to contemporary study many students of the field still refer by the processes under the original cyracli terms due to the usage of the same by the people of Rakh. As such the study of Kynosis is one of the most historied fields of science alongside the other natural sciences.</p>
+
+<p>As a concept, less so than a specific cultural tradition Alchemy is present almost all over the world and studied as a science similar to Magic, Maths or Medicine however many of the more advanced achievements of the ancient cyracli masters were lost to time during the Fall of Cyraclion and the end of Rakh, at least as far as Ilrakhani and Beheri Traditions are concerned.</p>
 <h3>The Basics of Kynosis</h3>
 <p>The Process of Alchemy can be described in its most elemental form in the following way:</p>
 <p>1. A temporary Fluxbridge is opened, channeling planar energy through a prism as one would when channelling a spell, this requires the same care and knowledge as a regular spell would.</p>
