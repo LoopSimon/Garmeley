@@ -5,4 +5,5 @@ Belligerents:  The Kingdoms of  [[Vihr]] and [[Meadrath]] , including several of
 
 *Location:* Northern Urland, Torn Sea
 
-*Result:* [[Treaty of Uhl]]
+*Result:* [[Treaty of Uhl]], [[Orenburg Pact]]
+

@@ -3,6 +3,7 @@
 [[Treaty of Uhl]]
 [[Korsfall College]]
 [[Karajal School of Insight]]
+[[War of Horn and Fang]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Orenburg Pact</h4>
