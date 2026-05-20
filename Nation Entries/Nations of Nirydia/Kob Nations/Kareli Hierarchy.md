@@ -1,4 +1,4 @@
-%%[[Duol Rabad]][[Kobold]][[Kobold Shamanism]][[Orc]][[Qalmyr]] %%
+%%[[Duol Rabad]][[Kobold]][[Kobold Shamanism]][[Orc]][[Qalmyr]] [[Yl-Lhatsi]]%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kareli Hierarchy</h4>
     <div class="wiki-row">
