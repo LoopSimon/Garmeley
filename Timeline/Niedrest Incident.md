@@ -2,8 +2,11 @@
 [[Niedrest]]
 [[Tourney at Niedrest]]
 [[Kherovan Inquisition]]
+[[Trinvale]]
+[[Kherova]]
+[[Tourney at Niedrest]]
 %%
-<p>In the February of 923PA, a series of events disrupted the peaceful live within the city of <a href="Niedrest" class="internal-link">Niedrest</a>on the dawn of spring. The exact persons involved, their motivations and their fate remain vastly unknown.</p>
+<p>In the February of 923PA, a series of events disrupted the peaceful live within the city of <a href="Niedrest" class="internal-link">Niedrest</a> on the dawn of spring. The exact persons involved, their motivations and their fate remain vastly unknown.</p>
 <p>During the <a href="Tourney at Niedrest" class="internal-link">Tournament</a> hosted in honour of Mayor von Junkels Marriage, the <a href="Kherova" class="internal-link">kherovan</a> Embassy hosted by an arms of the <a href="kherovan Inquisition" class="internal-link">Inquisition</a> was assaulted and its representatives murdered in the streets of Eastcorners, a wealthier part of the rich city on the eastern bank of the Trinmo. The entire staff of the Ambassador, a dwarven Inquisitor by the name of  Temzin, ended up dead in the streets or found as horribly disfigured corpses within Divin House, the kherovan Embassy itself.</p>
 <p>The cities guard worked in close cooperation with agents of the Gethric Church, specifically under the guidance of the eponymous St. Fredrics Cathedral to figure out who the culprits were and were able to conclude a party of perhaps hired specialists including a dwarf, a goblin, a half-orc as well has two humans and a mage of sorts were responsible for the killings.</p>
 <p>These details were corroborated by the staff of the Eastcorners Bathhouse where the same group staged a brutal attack on guests at the opportune timing of the highpoint of the Tourney itself, where the joust lead to many guards being stationed outside of the city walls. A total of six employees and two guests were killed as well as multiple members of staff and visitors injured, the use of terrible magicks described summoning unnatural fire and shadow deep within the Bathhouse hints at the groups proclivity for sorcery and could be related to their attack on the kherovans who have always condemned the liberal view of many countries on magical practice.</p>
