@@ -1,0 +1,43 @@
+%%
+[[Bilsworth]]
+[[Unliving]]
+%%
+<div class="wiki-infobox">
+    <h4 class="wiki-header">Kingdom of Spursley</h4>
+    <div class="wiki-row">
+        <strong>Government</strong>
+        <span>Feudal Monarchy</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Head of State</strong>
+        <span>N/A</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Capital</strong>
+        <span>Wanbree</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Heraldic Symbol</strong>
+        <span>Three Headed Lion</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Primary Religion</strong>
+        <a href="Doggerism" class="internal-link">Doggerism</a>
+    </div>
+    <div class="wiki-row">
+        <strong>Primary Culture</strong>
+        <span>Spurshey <a href="Human" class="internal-link">Human</a></span>
+    </div>
+    <div class="wiki-row">
+        <strong>Official Language</strong>
+        <span>Spurshey</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Preceded by</strong>
+        <span>
+            N/A
+        </span>
+    </div>
+</div>
