@@ -33,6 +33,8 @@ Wermian: including the Old Wermian, Moormen and Morellian people
 
 Othiri: primarily the Othiri, Lissari and Moreni peoples
 
+Nostroyan: the Pehki, Sehvki peoples as well as the remnants of the Roymer
+
 Beali: primarily the Blue Beali, Red Beali and Golden Beali peoples
 
 

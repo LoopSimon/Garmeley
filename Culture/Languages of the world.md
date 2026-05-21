@@ -132,8 +132,8 @@
 		<div class="dual-column-grid">
 			<div class="v-center">
 			<h3>Miscellaneous Human Languages</h3>
-			<h4>Arevi</h4>
-				<p>Spoken by the tribesmen of the Arevi Yerkir.</p>
+			<h4>Pehki</h4>
+				<p>Spoken by the Nostroyan natives, primarily the Sehvki, Pehki and Roymer peoples. </p>
 			<h4>Cevoli</h4>
 				<p>The National Language of Battvia and in the Paper Cities.</p>
 			<h4>Kheri</h4>
@@ -142,8 +142,6 @@
 			<div class="v-center">
 			<h4>Bykmål Dialects</h4>
 				<p>Spoken by the various peoples of Trykkerog.</p>
-			<h4>Ukioll</h4>
-				<p>Spoken by the Ukioll peoples in and south of the Eldveil<p>
 			<h4>Locni</h4>
 				<p>Spoken by the Locni peoples west of the Lowstep Hills </p>
 			<h4>Othiri</h4>
