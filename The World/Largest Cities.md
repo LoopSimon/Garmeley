@@ -1,3 +1,5 @@
+THIS ARTICLE IS OUT OF DATE
+
 The following is a list of the largest surface Cities in[[Ilrakhan]] , Northern Behera and Western Nirydia
 
 Korsfall: 160000
