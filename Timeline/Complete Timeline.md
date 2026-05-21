@@ -123,6 +123,7 @@
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="148PA">Barali Invasion of Drizun, Mogyri Shogunate takes power</div>
+            <div class="timeline-item" data-date="149PA">Giants retreat beyond Waelajokull</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
             <div class="timeline-item" data-date="159PA">Auguri Invasion of Thirdonis begins</div>
             <div class="timeline-item" data-date="160PA">Great Pagri Migration Period in eastern Nirydia ends</div>
@@ -157,7 +158,6 @@
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
-            <div class="timeline-item" data-date="360PA">Giants retreat beyond Waelajokull</div>
             <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
