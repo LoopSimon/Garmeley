@@ -14,7 +14,7 @@ The Cult itself is extremely decentralized and more of an overarching grouping, 
 <h2>Historic & Modern Day Politics within the Cult</h2>
 When the then First Druid of the Aeld, Asria Mikkavo, declared the Aeldcircle would remain neutral during the outbreak of the first war of 487PA between Roygviil and Halgrach, despite the call to arms from the roymer High Prince Usse the druids of the cult and the Principality of Ukiolla itself would stay their arms and not participate in the war.
 
-Many have severely coitized and disavowed both her decision and the Grand Prince for following her word, although bound by blood to the First Druid, and her exact motivations are unknown to us to this day outside the realm of speculation.
+Many have severely critized and disavowed both her decision and the Grand Prince for following her word, although bound by blood to the First Druid, and her exact motivations are unknown to us to this day outside the realm of speculation.
 Regardless, this passive stance caused the event only known to us as the Splintering of the Circles, where many druids rejected Mikkavos stance and abandoned the united circle, chief among them the various isolated groves in the south, not directly connected to the Veil. 
 Many of the druids of the splintered circles would join Roygviil and fight in the many wars of the following centuries against the grachian invaders, some to this day.
 

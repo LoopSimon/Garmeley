@@ -175,7 +175,7 @@
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
-            <div class="timeline-item" data-date="487PA">Grand Prince Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out.</div>
+            <div class="timeline-item" data-date="487PA">Grand Prince Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
