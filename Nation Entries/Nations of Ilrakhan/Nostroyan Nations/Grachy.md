@@ -3,6 +3,8 @@
 [[Nostroya]]
 [[Ukiolla]]
 [[Trazlov Consortium]]
+[[The Alchemists Guild]]
+[[Trazlov]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Grachy</h4>

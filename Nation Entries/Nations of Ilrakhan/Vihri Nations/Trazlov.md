@@ -40,6 +40,6 @@
     </div>
 </div>
 
-<p> Trazlov is one of the major Vadcy within Vihr and its most populated one. The Var of Trazlov has traditionally held the prestigious Office of Foreman of the Honoured Assembly. </p>
+<p> Trazlov is one of the major Vadcy within Vihr and its most populated one. The Var of Trazlov has traditionally held the prestigious Office of Foreman of the Honoured Assembly. A vast majorits of the Vadcys population resides within the city of Trazlov itself: sometimes referred to as "old Grach" due to its cultural ties with Grachy, at over 120000 inhabitants the port city is the largest city within the entire Country of Vihr, even exceeding the capital Zavlech.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/trazlov.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
