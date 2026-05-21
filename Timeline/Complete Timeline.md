@@ -175,10 +175,12 @@
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
+            <div class="timeline-item" data-date="487PA">Grand Prince Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out.</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
+            <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>
             <div class="timeline-item" data-date="512PA">Last sighting of Rasmur at Farsen Peak</div>
@@ -209,6 +211,7 @@
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
+            <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again, Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
@@ -242,6 +245,7 @@
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
+            <div class="timeline-item" data-date="690PA">Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
