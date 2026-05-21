@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Double-Bladed Axe</span>
+        <span>Axe on Fire</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
