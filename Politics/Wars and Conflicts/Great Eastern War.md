@@ -16,3 +16,6 @@ The Ukiollan Government later claimed  responsibility for the act and took Kulya
 Largely employing western Mercenary Bands such as the [[Sons of Kasimir]] , Grachy managed to reconquer the Castle after  1 1/2 years of fighting in 907PA.
 
 
+While the war may have officially started with the Burning of the Alltree almost a hundred years ago, many consider this to be simply an escalation of a conflict that had begun with the settlement of southern Nostroya by vihri colonists in 299PA, over 600 years ago.
+
+The ancient Principality of [[Roygviil]]  was first amicable with the precursors to the grachi people  but later on destroyed in bloody wars of conflict with the ever growing foreign population, it would not be amiss to call the Great Eastern War the result of over a half a millennia of conflict between the two cultures.

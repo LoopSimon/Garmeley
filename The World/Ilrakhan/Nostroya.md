@@ -3,6 +3,8 @@
 [[Ukiolla]]
 [[Grachy]]
 [[Giant]]
+[[Halgrach]]
+[[Roygviil]]
 %%
 <small><i>this article was written by Olle</i></small>
 <p>If you were to look on a map of Nostroya, and focus on an area that resembles small stones tumbling down the Mistspires towards the The Torn Sea, you would find the area known in Ukiolli known as Jättilkivi (Giants Boulders). This area is known in folklore and named for when one giant and a spirit who, ages ago, had a competition on who could toss a boulder into the sea. The devious Lempo, a malevolent spirit, challenged the Konung Otso, king of the giants and bears to a duel.</p>
