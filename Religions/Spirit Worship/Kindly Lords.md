@@ -36,9 +36,13 @@ A list of the known major Spirits and their domains of power and worship:
 
 - lmelmo, a spirit akin to a trickster deities, who is said to have left his domain, the River Melm, and been imprisoned in the mountain range of the Lock, in western Garmeley.
 
-- Yolwe the Swampsoul, a spirit worshipped primarily in eastern Hainach said to hold domain over the swamps, wetlands and banks around Edgral and the mouth of the Iza.
+- Yolwe the Swampsoul, a spirit worshipped primarily in eastern Hainach, she is said to hold domain over the swamps, wetlands and banks around Edgral and the mouth of the Iza.
 
-- The Stonefather, the patron deity of Hainach whose cult is strongest in the southern settlements along the mountain edges.
+- The Stonefather, the patron deity of Hainach whose cult is strongest in the southern settlements along the mountain edges. Associated with mining, power and meaning he is seen as a symbol of natural law and righteousness.
+
+- Stelios, worshipped primarily in eastern hainach and along its commercial hubs, but also in parts of southern Garmeley and often depicted as an elder man with scrolls and coins, he is the personification of diligence and hard work
+
+
 
 
 
