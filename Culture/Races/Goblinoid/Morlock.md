@@ -1,0 +1,3 @@
+Traditionally associated with the southern Underlands, morlocks are a race of goblinoids vaguely related to their [[Hobgoblin]], [[Sunborn]] and [[Goblinoid]] cousins, that as opposed to the surface loving sunborn is largely unable to exist on the surface world due to having adapted to a subterranean environment.
+
+They are famous for their enlarged eyes, grey skin, enlarged noses and wiry hair as well as their cultural affinity to  Arachnoids, even going so far as keeping them as companions, mounts and pets.
