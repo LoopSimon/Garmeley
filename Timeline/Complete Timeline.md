@@ -138,6 +138,7 @@
             <div class="timeline-item" data-date="236PA">2nd Wermian Incursion</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
+            <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizun</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
@@ -163,7 +164,7 @@
             <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
-            <div class="timeline-item" data-date="380PA">Kallevo I defeats Grachian Forces at Iorbridge and unifies Ukiolla</div>
+            <div class="timeline-item" data-date="380PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
@@ -173,11 +174,11 @@
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
-            <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribess of Melmers Bay</div>
+            <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribes of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
-            <div class="timeline-item" data-date="487PA">Grand Prince Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
+            <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
