@@ -63,10 +63,9 @@ Nevertheless, the land provides for the pehki and sevhki that care for it, as Uk
 <p>Initial attempts of converting the Pehki and Sevhki peoples to Gethricism in the 4th century failed quickly due to the deep roots of the Aeldcult within the smallest social structures of the tribes and later wars with the predominantly Gethric Grachi only proofed to bolster the internal resistance against this foreign faith, which became unanimous with the symbol fo the southern invaders that had taken the land of the pehki.
 The first druid of the Aeld, is a position that is almost as influential as the Prince within the greater cultural context of Ukiolla and she is traditionally married to the Halontsaari monarch, giving him legitimacy among his people and reinforcing the "Great Promise", the task to protect the lands of the Eldveil from southern heathens.</p>
 
-
-<h2>Politics</h2>
 <p><p>
 <h2>History</h2>
+<small><i>for a History of Nostroya until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
 <h2>People of Interest</h2>
 
 Kallevo, ninth of his Name of Clan Halontsaari

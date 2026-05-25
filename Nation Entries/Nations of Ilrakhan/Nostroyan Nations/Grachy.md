@@ -65,6 +65,8 @@
 <p>The Ushkyn is an old institution originating in the initial traders that sailed and settled across the Horn itself, literally meaning "peoples assembly" in Grachi. As an Institution it is present in almost all towns and cities in the country, and allows all dubush or "honoured people" of the community to partake and vote on certain issues and officials. Generally most burghers, nobles and respected landowners of higher standings are granted the rank of dubush,  although a large majority of commoners do not posses it.</p>
 <p>The Grand Ushkyn meets every year in Halgrach and is responsible for major decisions regarding the countries policies, internal and external, as well as the election of the Bagram who leads the country in most matters and acts as head of the Grand Ushkyn, currently the Bagram of Grachy is Ilja Zemov who had been elected to his 2nd term in 922PA. </p>
 <p>The Nobility of Grachy, often referred to as the Boyars still hold the vast majority of the power within the country, dominating the Ushkyn of a large amount of regions, during the Reformation of Grachy and the dissolution of the monarchy itself these lesser nobles actually gained power as the country became very decentralized and locally autonomous, as opposed to a more strict feudal structure of absolute rule from Halgrach. </p>
+<h2>History</h2>
+<small><i>for a History of Halgrach until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
 <h2>People of Interest</h2>
 
 Ilja Zemov
