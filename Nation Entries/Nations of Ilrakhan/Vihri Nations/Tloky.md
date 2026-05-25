@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Var Jan</span>
+        <span>Var Boleslav</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
