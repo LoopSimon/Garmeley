@@ -15,7 +15,7 @@ Said to have been the first civilization to develop agriculture and erect great 
 
 Drow
 
-The Drow, also known as Under-Elves of Dark-Elves, are the extremely closely related cousins of the Elves, their appearance changed from over two millennia of a live underground: Their skin is fair and pale, their eyes usually even larger than those of their surface kin and extremely sensitive to the sunlight.
+The Drow, also known as Under-Elves, are the extremely closely related cousins of the Elves, their appearance changed from over two millennia of a live underground: Their skin is fair and pale, their eyes usually even larger than those of their surface kin and extremely sensitive to the sunlight.
 
 The Drow are rarely seen above ground, but many serve in the Undercities of the Sultanat where the grand Mausoleums of the Surface reveal their true extent as giant resting places of worship for their fallen Paragons.
 
