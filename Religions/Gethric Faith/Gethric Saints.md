@@ -288,7 +288,7 @@
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
-            <p>Born the son of  Grachy Farmer, Igor rose to prominence due to his martial exploits fighting against the fae and druids of Ukiolla.</p>
+            <p>Born the son of  Grachy Farmer, Igor rose to prominence due to his martial exploits fighting against the fae and druids of Roygviil.</p>
         </div>
     </div>
 	    <div class=grid-item-uncentered>
