@@ -309,4 +309,22 @@
             <p>An Urien Scholar and priest that studied with Gnomish communities and spread the Gethric Faith within their culture, especially favoured in the Trinicist Regions.</p>
         </div>
     </div>
+	<div class="grid-item-uncentered span-col-2">
+        <div class=wiki-header>
+            <h4>Yelena of Dreva</h4>
+        </div>
+        <div class=wiki-row>
+            <strong>Domains</strong>
+            <span>Protection / Destruction</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
+            <strong>Favoured Weapon</strong>
+            <span>Lucerne</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
+            <p>Most famous for slaying the powerful Witch Bezelia who had secretly enslaved the people of Garal, Yelena was a hero during the 6th and 7th century PA. Her unyielding fury and unwillingness to tolerate innocents to suffer brought her into conflict with kings and princes but she was recognized as a heroic slayer of monsters and protector of the people by the church, following her death during the Reanport uprising. </p>
+        </div>
+    </div>
 </div>
