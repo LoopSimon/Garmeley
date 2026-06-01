@@ -1,4 +1,8 @@
-
+%%
+[[Trazlov]]
+[[The Ottian Syndicate]]
+[[Alchemy]]
+%%
 Also known as the "Men of Glass", this Guild was founded in the later 7th century in Trazlov.
 The group claims arcane knowledge of the physical composition of the world and controls most of the potion trade in Ilrakhan.
 Supposedly their founding goal had been to turn lesser metals or other substances into gold through non magical means, however this process never succeeded in any meaningful of provable way.

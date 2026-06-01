@@ -1,3 +1,7 @@
+%%
+[[Yl-Lhatsi]]
+[[Mogyr]]
+%%
 <small><i>this article was written by Tombo</i></small>
 <p>A brief overview over the twelve major Clans of the <a href="Mogyr" class="internal-link">Mogyri</a> organized under the <a href="Yl-Lhatsi" class="internal-link">Temple of Yl-Lhatsi</a></p>
 <h2>Hericium Erinaceus</h2>

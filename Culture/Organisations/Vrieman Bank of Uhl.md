@@ -1,4 +1,7 @@
+%%
 [[Uhl]]
+[[Treaty of Uhl]]
+%%
 The largest Bank in the known world and the centre of currency regulation, is the Vrieman Bank whose Headquarters are within the walls of the Free City of Uhl.
 
 The Currency regulated and printed in Uhl is known as the Urien Gryphon, and commonly used in its form as the Gold Gryphon, the Silver Gryphon and the Hatchling.

@@ -1,3 +1,6 @@
+%%
+[[Grand Ziflis Company]]
+%%
 Operating predominantly on the Jade Sea coast, the Amanita partake in illegal mercantile operations managed in the western Drizan Peninsular.
 A [[Mogyr]]i oddity, they are rumoured to have been closely tied to the Hydnellum Peckii of the [[Mogyri Clans]]. When Peckii Clan Leadership passed onto a younger figure, strife and infighting within the Peckii strongly affected the Cartel as well.
 Classically mentioned in the same breath as unethical magical experiments, they are a stain on international relations for both the Peckii and the overall [[Yl-Lhatsi]] Leadership.

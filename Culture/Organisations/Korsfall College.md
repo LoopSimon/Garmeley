@@ -1,4 +1,7 @@
-[[Meadrath]] [[Basic Magical Theory]]
+%%
+[[Meadrath]]
+[[Orenburg Pact]]
+%%
 
 Introduction
 
