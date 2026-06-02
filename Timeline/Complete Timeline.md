@@ -140,6 +140,7 @@
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizun</div>
+            <div class="timeline-item" data-date="259PA">First official mention of Sisters of Morning in church records as a group independent from clergy</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
