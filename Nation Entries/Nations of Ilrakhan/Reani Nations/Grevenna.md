@@ -1,5 +1,6 @@
 %%
 [[Gethricism]]
+[[Reanport]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Lordship of Grevenna</h4>
@@ -46,7 +47,7 @@
 
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grevenna_map.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
-<small><i>A map of Grevenna, dated 927PA</i></small>
+<small><i>A map of Pilvia including Reanport and Grevenna, dated 927PA</i></small>
 <h2>People of Interest</h2>
 
 Caroman, first of his Name of House Rofea
