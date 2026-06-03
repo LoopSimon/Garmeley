@@ -43,6 +43,10 @@
 </div>
 
 <p>One of the smaller realms on the stage of Ilrakhan, Grevenna sits between the Giants of the Vihri Kingdom and the elven Sultanate. The recent decades have not been kind to the men of the Pilv as the opening of the Horad Isthmus a the end of the <a href="Wars of Elbae Aggression" class="internal-link">Elbae Wars</a> would render its land routes from Reanport and Grevenna to the Pilvian Gulf far less profitable than the newly established maritime path.</p>
+
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grevenna_map.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
+<small><i>A map of Grevenna, dated 927PA</i></small>
 <h2>People of Interest</h2>
 
 Caroman, first of his Name of House Rofea
