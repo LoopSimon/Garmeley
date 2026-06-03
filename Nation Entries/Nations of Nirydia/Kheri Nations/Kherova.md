@@ -54,6 +54,9 @@
 <p>Around 75% of the country's citizens are kher human, while kher dwarves make up almost the entire remaining quarter, although <a href="Orc" class="internal-link">orcish</a> and half orcish minorities are prominent in the southern towns.</p>
 <p>The capital and largest city, Kher itself, is home to almost 60000 souls, making it one of the largest human settlements on the continent, while the towns of Erbil and Kairos are also sizable communities of likely between 15 and 20 thousand people.</p>
 <p>The Dwarven Hold of Daban-Kol makes up for a vast majority of the dwarvish population of the country but still many humans have made their home here as well.</p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/adsal.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
+<small><i>Fort Adsal Soldier in traditional kheri armour</i></small>
 
 <hr class="wiki-hr">
 <h3>Religion</h3>

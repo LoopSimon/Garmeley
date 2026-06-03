@@ -13,3 +13,7 @@ Pen Zuhur himself, a decidedly male figure, is often portrayed on paintings, sta
 
  Zuhirism encourages pilgrimage and considers the ,[[Vimgalab Monsis]] a temple structure within the port city of [[Nessos]], the Spring of Light in the Templi Heights, Hastermon Temple within Aman, as well as the Pagale Monastery on Lonely Peak as holy sights.
  The security of pilgrim travel throughout these holy cites is often cited as a major concern leading to the ongoing [[Zuhiri Holy Wars]].
+
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/pagripriest.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
+<small><i>Zepri Priestess of Pen-Zuhur</i></small>
