@@ -41,7 +41,7 @@
     </div>
 </div>
 
-<p>Cimfon is a Locni Kingdom that first appeared at the turn of the 5th century, based in western Ilrakhan they have remained isolated and only stand in contact with the Othiri of <a href="Lissvalley" class="internal-link">the Lissvalley</a> and the people of western <a href="Meadrath" class="internal-link">Meadrath</a>. </p>
+<p>Cimfon is a Locni Kingdom that first appeared at the turn of the 5th century, based in western Ilrakhan within the region of <a href="Othirdon" class="internal-link">Othirdon</a> they have remained isolated and only stand in contact with the Othiri of <a href="Lissvalley" class="internal-link">the Lissvalley</a> and the people of western <a href="Meadrath" class="internal-link">Meadrath</a>. </p>
 <h2>People of Interest</h2>
-Ednyr, third of his Name of House Prawyl
-	Mael of the Cimfon
+Ednyr, third of his Name of House Prawyl,    
+Mael of the Cimfon

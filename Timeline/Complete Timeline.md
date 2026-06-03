@@ -29,7 +29,7 @@
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
 	        <div class="timeline-item" data-date="2500BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
-	        <div class="timeline-item" data-date="2410BA">Nangalith of Thirdonis is constructed</div>
+	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
 	        <div class="timeline-item" data-date="2280BA">Earliest evidence for the city of Palmunis</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
@@ -148,7 +148,7 @@
             <div class="timeline-item" data-date="276PA">Heximar the Unlit is slain by Gismar</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
-            <div class="timeline-item" data-date="288PA">Wrath of Isara hits Thirdonis</div>
+            <div class="timeline-item" data-date="288PA">Wrath of Isara hits Othirdon</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Cevolis</div>

@@ -1,6 +1,6 @@
 %%
 [[Battvia]]
-[[Cevolis]]
+[[Nation Entries/Historical Realms/Cevolis]]
 [[Cevolian Pantheon]]
 %%
 

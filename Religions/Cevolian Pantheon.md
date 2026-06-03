@@ -1,4 +1,4 @@
-The ancient cevolian pantheon, preceding even the Rakhian Invasion, was the dominant religion in the lost Kingdom of [[Cevolis]], although local Spiritworship was common as well.
+The ancient cevolian pantheon, preceding even the Rakhian Invasion, was the dominant religion in the lost Kingdom of [[Nation Entries/Historical Realms/Cevolis]], although local Spiritworship was common as well.
 The Divine female was the important axis of the pantheon, with the three Goddess of Tirea, Gizana and Servila being the primary deities of the Faith.
 
 The Cevolian Pantheon consisted of the following deities:
