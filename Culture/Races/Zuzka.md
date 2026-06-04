@@ -1,7 +1,8 @@
+
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Zuzka.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>The Beast of Errel</i></small>
+</div>
+
 <p>The Zuzka are a mysterious species of varying phenotype, initially created by the infamous Ogre Yagund, likely during the early 5th century PA. Yagund is said to have engaged in transhuman rituals, infusing alchemically enhanced pools of fluids with planar energy and "modifying" the bodies of captured victims (mostly humans) on a physical level. None of the Zuzka were made alike and following the demise of Yagund and the loss of his secrets as well as the destruction of the Zuzka breeding pools, it seems like the creation of newer members of this group is no longer possible.</p>
 <p>The first Zuzka was seen in the southern plains of Vihr, near the Ravenleaf forest and displayed the physical characteristics of various insects, seeming in some descriptions like a giant fly or butterfly with human head and arms. It destroyed the village of Errel and symbolized the start of almost a century of terror wrought upon eastern Ilrahkan by Yagunds creations.</p>
 <p>Fewer and fewer Zuzka are seen since the demise of Yagund in 489PA but it seems many of them are essentially immune to the effects of age and functionally immortal having survived their creator for over 400 years. The intellect displayed by the Zuzka greatly varies, with some mentions describing them as regressed animals while others seem to be capable of not only higher thought and conversation but almost supernaturally intelligent, only further speaking to the distinct nature of each Zuzka.</p>
-
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Zuzka.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
-<small><i>The Beast of Errel</i></small>
