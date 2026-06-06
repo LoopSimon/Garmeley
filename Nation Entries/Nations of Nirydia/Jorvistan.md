@@ -24,11 +24,11 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Chunri</span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Chunri</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
