@@ -1,6 +1,7 @@
 %%
 [[Spursley]]
 [[Unliving]]
+[[Doggerism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Bilsworth Ministry</h4>
