@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Yokosch Vanara (<a href="Beastfolk" class="internal-link">Beastfolk</a>)</span>
+        <span>Vanara <a href="Safir" class="internal-link">Safir</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
