@@ -1,5 +1,8 @@
 [[Complete Timeline]] 
 
+### **Heatron**
+This Palmunian Mathematician is the first person to design a functioning calendar, going as far back as the 19th century BA, he is also reportedly responsible for the first measurement of the Globe itself.
+***
 ### **Phiodales of Mizk**
 A rakhian Scholar, likely a Wizard himself, who created the infamous Alwazzatar Tablets in approximately 33BA, found over 600 years later by a Buteran Expedition.
 ***
