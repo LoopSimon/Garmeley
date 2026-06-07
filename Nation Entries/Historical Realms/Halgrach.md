@@ -36,3 +36,4 @@
             <a href="Roygviil" class="internal-link">Roygviil Principality</a>
     </div>
 </div>
+<p>Halgrach was the first Kingdom of the Grachi within southern Nostroya, established in 299PA and marking the begin of a true grachian culture and political autonomy. Its traditions and political institutions were largely continued within the <a href="Grachy" class="internal-link">Republic of Grachy</a> with the notably exception of the abolishment of a Ras or "King" following the Death of Ras Oleksandr IV during the Brothers War of the 830s.</p>
