@@ -99,5 +99,5 @@ Andre Ulyanov
 	Boyar in Soludha
 	
 Katerina Ulyanov
-	Daughter of Andrew
+	Daughter of Andre
 
