@@ -1,5 +1,7 @@
 %%
 [[Turvik Paganism]]
+[[Daemon]]
+[[Gethric Saints]]
 %%
 
 <div class="wiki-infobox">
@@ -39,5 +41,5 @@
         <span>Vihri, Wermian and Grachni Tribes</span>
     </div>
 </div>
+<p>Wermia also known as the Kingdom of Wermia was an old Kingdom that infamous fell during the Demonic Incursions of the early 3rd century, its modern day territories have largely been subsumed by Vihr.</p>
 
-[[Daemon]]
