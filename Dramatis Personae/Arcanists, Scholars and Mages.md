@@ -1,7 +1,19 @@
 [[Complete Timeline]] 
 
 ### **Heatron**
-This Palmunian Mathematician is the first person to design a functioning calendar, going as far back as the 19th century BA, he is also reportedly responsible for the first measurement of the Globe itself.
+This Palmunian Mathematician is the first person to design a functioning calendar, going as far back as the 19th century BA.
+***
+
+### **Kasthemis of Cyraclion**
+A scholar of the early cyracli period, he calculated the Globes circumference almost exactly in the late 7th century BA.
+***
+
+### **Neyadastes**
+The author of the Codex Knyosis and the "Father of Alchemy", lived during the 7th century BA in Cyraclion, a contemporary of Kasthemis.
+***
+
+### **Pixos**
+Also known as the "Shifting Man" and "Pixos Trygisos" he is universally recognized as the greatest alchemist of all time and most famous for the conceptualization of the eponymous Heart of Pixos. He worked during the Cyracli Golden Age in the early 5th century BA.
 ***
 ### **Phiodales of Mizk**
 A rakhian Scholar, likely a Wizard himself, who created the infamous Alwazzatar Tablets in approximately 33BA, found over 600 years later by a Buteran Expedition.
@@ -18,6 +30,10 @@ An elven Sorcerer and Scholar that lived  in the 2nd and 3rd centuries PA, his m
 ***
 ### **Tronos of the Veil**
 A Gethric Arcanist and Necromancer during the 4th century PA. Although declared a saint for his contributions to the divine Gethric Truth shortly after his death, over the centuries he has become more and more controversial within the Church, being outright rejected by the Kethricists of Kherova.
+***
+
+### **Yagund**
+This ogre is best known as the Father of the Zuzka, he experimented with biomancy and transmutational magicks to create the race of monsters that to this date plague Ilrakhan, he lived during the late 5th century PA.
 ***
 ### **Karajal of Alparaz**
 The greatest Student of Kwarzimi, the elf Karajal founded the Karajal School of Insight ushering in an academic revival of Mathematics, Magic and Astronomy in Behera.

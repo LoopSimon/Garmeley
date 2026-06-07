@@ -1,3 +1,5 @@
+- 2026-06-07T2308 · [[Arcanists, Scholars and Mages]]
+- 2026-06-07T2306 · [[Urbridge]]
 - 2026-06-07T2220 · [[Wermia]]
 - 2026-06-07T2210 · [[Halgrach]]
 - 2026-06-07T2203 · [[Welcome]]
@@ -21,5 +23,3 @@
 - 2026-06-06T2048 · [[The Abyss]]
 - 2026-06-06T2045 · [[The Chaotic Plane]]
 - 2026-06-06T2040 · [[Basic Magical Theory]]
-- 2026-06-06T1334 · [[Greater Spirit]]
-- 2026-06-05T1726 · [[Othirdon]]
