@@ -12,3 +12,4 @@ If you are a player in one of the games and worried about spoilers, you can alwa
 <p>  Formatted for easy Access by Neko and Loop.<br> Articles written by Loop, Dragon, Tombo, Mank & Olle.</p>
 </div>
 </div>
+<h2><a href="Changelog" class="internal-link">Changelog</a></h2>
