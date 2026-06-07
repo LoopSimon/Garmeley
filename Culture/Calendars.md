@@ -14,6 +14,6 @@ The [[Rakh]]ian Calendar is no longer in wide use anywhere but remains relevant 
 
 **The Elven Calendar**
 
-Also known as theElbae Calendar, it is a fixed Calendar Dividing the Year into 400 days, consisting of 4 seasons of 90 days and an intercalary month of 40 days that are treated as outside the year proper. Current understanding of the earliest development of the [[Elbae]] Calendar is unclear 22but likely relates to discoveries regarding the heliacal rising of the star [[Malham]] during the early first Jirahid Dynasty.
+Also known as the Elbae Calendar, it is a fixed Calendar Dividing the Year into 400 days, consisting of 4 seasons of 90 days and an intercalary month of 40 days that are treated as outside the year proper. Current understanding of the earliest development of the [[Elbae]] Calendar is unclear 22but likely relates to discoveries regarding the heliacal rising of the star [[Malham]] during the early first Jirahid Dynasty.
 It is Commonly used in lands on the Beheran Subcontinent.
 
