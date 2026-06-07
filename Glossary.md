@@ -13,6 +13,7 @@
             <div class="timeline-item" data-date="Gri">Count</div>
             <div class="timeline-item" data-date="Bisop">Bishop</div>
             <div class="timeline-item" data-date="Zavr">Wizard</div>
+            <div class="timeline-item" data-date="Troya">Home</div>
             <div class="timeline-item" data-date="Azav">Magic</div>
             <div class="timeline-item" data-date="Vihr">Horn</div>
             <div class="timeline-item" data-date="Taemon">Demon</div>
@@ -20,6 +21,8 @@
             <div class="timeline-item" data-date="Gizni">Dwarf</div>
             <div class="timeline-item" data-date="Traz">Port</div>
             <div class="timeline-item" data-date="Mesna">Elf</div>
+            <div class="timeline-item" data-date="Wotwir">Druid</div>
+            <div class="timeline-item" data-date="Nostroya">New Home</div>
         </div>
     </div>
     <div class="grid-item">
@@ -64,6 +67,24 @@
         </div>
     </div>
     <div class="grid-item">
+        <h3>Pehki</h3>
+        <div class="timeline-list">
+            <div class="timeline-item" data-date="Asrang">Shadowwalker</div>
+	        <div class="timeline-item" data-date="Hirvi">Grachi</div>
+	        <div class="timeline-item" data-date="Penki">Fish</div>
+	        <div class="timeline-item" data-date="Rauha">Death</div>
+	        <div class="timeline-item" data-date="Kuoma">War</div>
+	        <div class="timeline-item" data-date="Maanko">Nostroya/Homeland</div>
+	        <div class="timeline-item" data-date="Vani">Druid</div>
+	        <div class="timeline-item" data-date="Ellin">Dragon</div>
+	        <div class="timeline-item" data-date="Jätti">Giant</div>
+	        <div class="timeline-item" data-date="Rik">River</div>
+	        <div class="timeline-item" data-date="Lakkaus">Love</div>
+	        <div class="timeline-item" data-date="Maes">Tower/Castle</div>
+	        <div class="timeline-item" data-date="Herrar">Warrior / warlike figure</div>
+        </div>
+    </div>
+	    <div class="grid-item">
         <h3>Gnomish</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="Prosum">Artificery</div>
