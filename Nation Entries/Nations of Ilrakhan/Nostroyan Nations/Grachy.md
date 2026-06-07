@@ -85,3 +85,6 @@ Vlad of House Kulyat
 	
 Ivanova of House Orin
 	Gram of Wangrad
+	
+Avanya of House Stir
+	Gram of Izevkh
