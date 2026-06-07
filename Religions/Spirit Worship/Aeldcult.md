@@ -19,3 +19,26 @@ Many of the druids of the splintered circles would join Roygviil and fight in th
 The Splintering would never heal and even to this day while first druid Tarja Roglender is recognized as the leader of the Aeldcircle, the symbolic head of the Aeldcult faith and the most influential personality within all druids of Nostroya, the druidic circles have only begun to drift apart further, including many within the veil itself.
 
 Following the Burning of the Alltree and the beginning of the still ongoing Great Eastern War, between the newly established Republic of Grachy and the Ukiollan Principality, the Aeldcircle officially has taken the side of the Pehki people and Ukiolla, fighting amongst them against the republic. However the remaining roymer within Grachy that still resist, as well as certain extremely militant circles consider both the traditionalist Ukiolla and Aeldcircles to be traitors to their people and the land itself, even though they had now joined their fight out of arguably selfish reasons.
+
+<h2>Revered Spirits & Fey within Aeld Traditions</h2>
+<p>The Aeld</p>
+	the land itself in its entirety, the will of trees and rivers, the great host at whos table we dine, the endless grove. There are a thousand titles for the greater being that gives life and death meaning and it stands at the centre of worship.
+
+<p>Otso</p>
+	mythological King of Giant and Bear, Otso is usually associated with the different facets of strength, both physical might, mental fortitude and communal effort.
+
+<p>Vunru</p>
+	manifestation of Fury and Vengeance, Vunru is the animal left with no way out, the rage that overcomes one in battle and the never-ending fall into vengeance and hatred.
+
+<p>Yaalwe</p>
+	usually portrayed as the giant eagle, Yaalwe is the husband of Nyllena in folklore and the lord of the winds, he is fickle and proud and the father of all winged beasts.
+
+<p>Nyllena</p>
+	also known as the Saltmother, Nyllena is the weaver of ebb and flow, the Queen of the Waves and the personification of patience, she is the polar opposite of the restless Yaalwe and when they meet in love and anger they summon storms.
+
+<p>Asza</p>
+	 the Sister of Nyllenna, Asza is the friend of man and patron of harvest she is the life giver of the lands and personifies the Rivers of Nostroya.
+
+
+<p>Ingele</p>
+	 sometimes called brokebeak or longsleep, Ingele is associated with Winter and Death but notably viewed as a positive force, in some tales even represented as the force that changes all seasons like stirring a bowl of soup around and around.
