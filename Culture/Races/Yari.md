@@ -10,9 +10,6 @@ Some notable instances of Yari interactions include the <a href="Pravazik" class
 There are very few of them, likely under 30 in total, and they often take the shape of inhabitants of the material world, such as animals, humans, elves or other similar creatures but represent as warped forms of them, such as giant snails with human heads or great winged Eyes. Oftentimes their material forms are extremely unnatural and appear as odd or impossible in both the material and spiritual world.</p>
 <p>Yari interact with mortal society through servants, known as the Ginru. They rarely communicate with anyone outside of their respective chosen servants and give them aspects of themselves. Whoever drinks the the blood of a Yari, known as the ichor, is granted boons and powers, this happens rarely but generally depends on the individual Yari. Important to note is the lack of control a Yari has over whoever they chose to grant these powers.</p>
 
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/yariginru.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
-<small><i>Yari-Ginru of Gianor</i></small>
 <h5>known Yari</h5>
 <p>Arishi, Queen of the Moon: she resides in the Hicui of Ir-Arishi</p>
 <p>Tizinpoc, Evermother</p>
