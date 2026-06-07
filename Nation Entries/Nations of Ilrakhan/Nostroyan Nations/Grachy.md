@@ -88,3 +88,10 @@ Ivanova of House Orin
 	
 Avanya of House Stir
 	Gram of Izevkh
+	
+Andre Ulyanov
+	Boyar in Soludha
+	
+Katerina Ulyanov
+	Daughter of Andrew
+
