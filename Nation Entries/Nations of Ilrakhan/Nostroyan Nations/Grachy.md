@@ -81,4 +81,7 @@ Vasily Surovsky
 	Lord-General of the Republic
 	
 Vlad of House Kulyat
-	Baron of Kulyat
+	Gram of Kulyat
+	
+Ivanova of House Orin
+	Gram of Wangrad
