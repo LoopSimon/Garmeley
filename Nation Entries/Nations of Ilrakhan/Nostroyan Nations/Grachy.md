@@ -89,6 +89,12 @@ Ivanova of House Orin
 Avanya of House Stir
 	Gram of Izevkh
 	
+Beryl Lenkov
+	Boyar in Wangrad
+	
+Rodir Ilvanov
+	Boyar in Bryansk
+	
 Andre Ulyanov
 	Boyar in Soludha
 	
