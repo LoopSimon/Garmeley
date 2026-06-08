@@ -1,5 +1,6 @@
-- 2026-06-08T1640 · [[Hynek of Forrington]]
-- 2026-06-08T1638 · [[Garmian Succession Crisis]]
+- 2026-06-08T1716 · [[Odrick von Fulmer]]
+- 2026-06-08T1713 · [[Hynek of Forrington]]
+- 2026-06-08T1656 · [[Garmian Succession Crisis]]
 - 2026-06-08T1622 · [[Surovsky]]
 - 2026-06-08T1612 · [[Bilsworth]]
 - 2026-06-08T1543 · [[Complete Timeline]]
@@ -97,4 +98,3 @@
 - 2026-05-20T1836 · [[Niedrest Incident]]
 - 2026-05-19T1859 · [[Fey]]
 - 2026-05-19T1851 · [[Trazlov Consortium]]
-- 2026-05-19T1512 · [[Juelfluk]]

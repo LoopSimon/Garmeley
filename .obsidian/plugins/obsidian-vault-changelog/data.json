@@ -4,6 +4,6 @@
   "datetimeFormat": "YYYY-MM-DD[T]HHmm",
   "maxRecentFiles": 100,
   "excludedFolders": [],
-  "useWikiLinks": false,
+  "useWikiLinks": true,
   "changelogHeading": ""
 }
