@@ -1,3 +1,5 @@
+- 2026-06-08T2148 · Suzana Dragović
+- 2026-06-08T2142 · Zepria
 - 2026-06-08T2117 · Asper Inrates
 - 2026-06-08T2032 · Odrick von Fulmer
 - 2026-06-08T2029 · Surovsky
@@ -96,5 +98,3 @@
 - 2026-05-20T2323 · Spursley
 - 2026-05-20T2317 · Unliving
 - 2026-05-20T2316 · Doggerism
-- 2026-05-20T2031 · War of Horn and Fang
-- 2026-05-20T2028 · Orenburg Pact
