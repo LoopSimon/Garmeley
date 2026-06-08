@@ -1,3 +1,4 @@
+- 2026-06-08T2313 · Hynek of Forrington
 - 2026-06-08T2309 · Zepria
 - 2026-06-08T2308 · Pigeye
 - 2026-06-08T2207 · Cevolia
@@ -9,7 +10,6 @@
 - 2026-06-08T2152 · Coster of Melmbirth
 - 2026-06-08T2032 · Odrick von Fulmer
 - 2026-06-08T2029 · Vasily Surovsky
-- 2026-06-08T2028 · Hynek of Forrington
 - 2026-06-08T2028 · Gaden
 - 2026-06-08T1829 · Eldmar
 - 2026-06-08T1731 · Meadrath
