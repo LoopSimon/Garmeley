@@ -2,5 +2,8 @@
   "showLineNumber": false,
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "Changelog"
+  ]
 }
