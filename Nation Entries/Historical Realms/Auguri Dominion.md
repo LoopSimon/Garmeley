@@ -38,3 +38,4 @@
         <span>N/A</span>
     </div>
 </div>
+<p>The Auguri Dominion was a Union of tribes and settlements under the control of an academic elite of magical scholars and warlords, it controlled vast stretches of Meadland and parts of <a href="Othirdon" class="internal-link">Othirdon</a> and Urland between 142BA and 260PA.</p>

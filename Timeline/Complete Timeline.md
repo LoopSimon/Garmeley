@@ -212,7 +212,7 @@
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmud</div>
-            <div class="timeline-item" data-date="589PA">Diedrik of Meadland becomes King of Gisvale</div>
+            <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon</div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>

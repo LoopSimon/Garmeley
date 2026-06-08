@@ -1,3 +1,4 @@
+- 2026-06-08T0118 · [[Yari]]
 - 2026-06-08T0114 · [[Safir]]
 - 2026-06-08T0108 · [[Calendars]]
 - 2026-06-07T2352 · [[Arcanists, Scholars and Mages]]
@@ -22,4 +23,3 @@
 - 2026-06-06T2049 · [[Celestial]]
 - 2026-06-06T2049 · [[Daemon]]
 - 2026-06-06T2048 · [[The Abyss]]
-- 2026-06-06T2045 · [[The Chaotic Plane]]

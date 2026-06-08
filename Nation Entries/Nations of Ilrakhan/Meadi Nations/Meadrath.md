@@ -2,6 +2,11 @@
 [[Trinicism]]
 [[Gisvale]]
 [[Freelands]]
+[[Zmalig]]
+[[Lesmere]]
+[[Meadland]]
+[[Auguri Dominion]]
+[[Blijgrat]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Meadrath</h4>
@@ -44,7 +49,7 @@
 <p> Dominated by two mighty Rivers, the Mead in the west and the Trinmo to the east, the lands of the Meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world. The capital of Meadrath, Korsfall, is one of the largest cities in the known world with a population of ca 110.000 citizens.</p>
 
 <h2>Geography</h2>
-<p> Most of Meadrath lies in the North-Ilrakhani Plain, with flat terrain crossed by watercourses such as the Trinmo and Mead, wetlands and marshy conditions are found close to the <a href="Blijgrat" class="internal-link">Blijgrat border</a> and along the Bloody Coast. It is situated between various Mountain ranges offering natural ressources and protection, most notably the Kortopis to the south and the Urdfall Peaks to the east as well as the Whisperhills and Trinwood elevations.</p>
+<p> Most of Meadrath lies in the North-Ilrakhani Plain of <a href="Meadland" class="internal-link">Meadland</a>, with flat terrain crossed by watercourses such as the Trinmo and Mead, wetlands and marshy conditions are found close to the <a href="Blijgrat" class="internal-link">Blijgrat border</a> and along the Bloody Coast. It is situated between various Mountain ranges offering natural ressources and protection, most notably the Kortopis to the south and the Urdfall Peaks to the east as well as the Whisperhills and Trinwood elevations. </p>
 <h2>Demographics</h2>
 <p>The Majority population in Meadrath is made up of Meadi and Weadi human, with Urien Human, Half-elfs, Gnomes and Halflings making up the largest minorities. While some Trykkerogi have settled and assimilated in the northern coastal towns, they remain a small minority. <br> The traditionally lax and welcoming attitude of the Meadi Kings and Queens, in combination with the stellar reputation of the <a href="Korsfall College" class="internal-link">Korsfall College</a>, has lead to a larger than average percentage of Arcane practitioners in Meadrath, surpassed in numbers only by the <a href="Elbae" class="internal-link">Elbae Sultanate.</a> </p>
 <h2>Economy</h2>
@@ -71,7 +76,7 @@ The Kingdom of <a href="Gsivale" class="internal-link">Gisvale</a> was formed by
 <p>Unlike Gisvale, the Realm of Korsfall was very much a direct continuation of the Auguri Dominion. The earliest known record of a "Lord of all Meadi in Korsfall" is the figure of Torvald the Tall, an Auguri general that likely took power soon after 260PA and most of this early history of Korsfall describes their repeated conflicts and wars with the eastern people of the Locni Valley. The people of Korsfall very much continued the Auguri traditions, such as their reverence for medicae, scholars and mages, but of course no longer practiced religious rites as the Arrival of Gethricism had played a large part in the fall of the Dominion.</p>
 
 <h3>The Fall and Rise of the House of Gismar</h3>
-<p>At the dusk of the 6th century Tibor II, the then King of Gisvale, was betrayed and supplanted by Diedrik of Meadland, the Lord of Wormill, Tibors children would flee first to Weadland but be rejected in fear of war by the King of Schipwig and only found refuge at Korsfall Keep.
+<p>At the dusk of the 6th century Tibor II, the then King of Gisvale, was betrayed and supplanted by Diedrik of Medlan, the Lord of Wormill, Tibors children would flee first to Weadland but be rejected in fear of war by the King of Schipwig and only found refuge at Korsfall Keep.
 The mighty Diedrick would rule Gisvale until his death when his son Ringil, who had married an urien Princess would succeed him in 622PA. 
 Tibors son, a boy called Giselher, now grown up and with children of his own, had spend the last 2 decades rallying loyalists and allies to his banner and would now, with the Lord of Korsfall at his side, dare to make a bid for the Throne in Giselstatt.
 The following conflict is known to history as <a href="War of Trout and Drake" class="internal-link">The War of Trout and Drake</a> and last for over three decades. At its end, Giselstatt was conquered, the line of Diedrik extinguished and the Dragon Banner of Gismar raised in supreme victory, but not without its costs. Tens of thousands had died and the vast majority of the rich farmlands and fields of the Gisvale been devastated, Giselher himself as well as his sons had died in battle and only his daughter Liara remained.</p>
@@ -130,10 +135,10 @@ Ardol I of Gismar
 Torvald the Tall
 	General of the Auguri, first Lord of Korsfall
 
-Diedrick "the Usurper" of Meadland
+Diedrick "the Usurper" of Medlan
 	King of Gisvale
 
-Ringil I of Meadland
+Ringil I of Medlan
 	King of Gisvale, son of Diedrick during the War of Trout and Drake
 
 Tibor II "the Feeble" of Gismar
