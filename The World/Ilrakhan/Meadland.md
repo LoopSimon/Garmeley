@@ -1,1 +1,4 @@
 <p>Meadland or the land of the meadi people describes the region of land north of the Kortopis stretching west from the Lowsteps to east at the bends of the Trinmo. It is famously where the mighty Trinmo originates within the Whisperhills and the home of the ancient Meadi and Weadi culture groups. Modern Day Meadland is dominated by the so called "Meadi Empire" the sphere of influence of the mighty <a href="Meadrath" class="internal-link">Kingdom of Meadrath.</a></p>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/meadland.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Meadland, 927PA</i></small>
+</div>
