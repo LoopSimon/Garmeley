@@ -1,6 +1,6 @@
+- 2026-06-08T1830 · Hynek of Forrington
 - 2026-06-08T1829 · Coster of Melmbirth
 - 2026-06-08T1829 · Eldmar
-- 2026-06-08T1827 · Hynek of Forrington
 - 2026-06-08T1740 · Odrick von Fulmer
 - 2026-06-08T1731 · Meadrath
 - 2026-06-08T1731 · Complete Timeline
