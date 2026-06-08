@@ -1,3 +1,4 @@
+- 2026-06-08T1839 · Morlock
 - 2026-06-08T1830 · Hynek of Forrington
 - 2026-06-08T1829 · Coster of Melmbirth
 - 2026-06-08T1829 · Eldmar
@@ -82,7 +83,6 @@
 - 2026-05-23T2350 · Red Honey
 - 2026-05-23T2347 · Battvian Flour
 - 2026-05-23T1652 · Kindly Lords
-- 2026-05-23T1200 · Morlock
 - 2026-05-23T1157 · Sunborn
 - 2026-05-21T1442 · Great Eastern War
 - 2026-05-21T1425 · Roygviil
