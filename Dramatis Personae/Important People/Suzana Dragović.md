@@ -5,8 +5,8 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Suzana Dragović</h4>
     <div class="wiki-row">
-        <strong>Alias</strong>
-        <span>Suzana the Cruel</span>
+        <strong>Epitath</strong>
+        <span>the Cruel</span>
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>

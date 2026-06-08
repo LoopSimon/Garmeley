@@ -1,12 +1,15 @@
+- 2026-06-08T2207 · Cevolia
+- 2026-06-08T2206 · Morlock
+- 2026-06-08T2204 · Giuseppe Dimandi
+- 2026-06-08T2158 · Suzana Dragović
+- 2026-06-08T2157 · Fellows of the Dancing Flame
 - 2026-06-08T2153 · Asper Inrates
 - 2026-06-08T2152 · Coster of Melmbirth
-- 2026-06-08T2152 · Suzana Dragović
 - 2026-06-08T2142 · Zepria
 - 2026-06-08T2032 · Odrick von Fulmer
-- 2026-06-08T2029 · Surovsky
+- 2026-06-08T2029 · Vasily Surovsky
 - 2026-06-08T2028 · Hynek of Forrington
 - 2026-06-08T2028 · Gaden
-- 2026-06-08T1839 · Morlock
 - 2026-06-08T1829 · Eldmar
 - 2026-06-08T1731 · Meadrath
 - 2026-06-08T1731 · Complete Timeline
@@ -56,7 +59,6 @@
 - 2026-06-03T1615 · Cult of Tirea
 - 2026-06-03T1615 · Cevolian Pantheon
 - 2026-06-03T1615 · Battvia
-- 2026-06-03T1615 · Fellows of the Dancing Flame
 - 2026-06-03T1353 · Reanport
 - 2026-06-03T1352 · Grevenna
 - 2026-06-02T2321 · Sisterhood of the Morning
@@ -96,5 +98,3 @@
 - 2026-05-21T1403 · Vihr
 - 2026-05-20T2347 · Alchemy
 - 2026-05-20T2323 · Spursley
-- 2026-05-20T2317 · Unliving
-- 2026-05-20T2316 · Doggerism
