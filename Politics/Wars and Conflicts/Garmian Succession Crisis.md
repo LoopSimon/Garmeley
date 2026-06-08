@@ -21,7 +21,7 @@ Primarily aligned with the Urien Lords of Eldmar and Urbridge, the most influent
 Even though the conversion of the rich Garmeley to Gethricism is a main motivation, any supporter of the Count of Melmbirth may count on large influence upon the Realm in the case of his victory, considering his vague claim and weak position.
 
 
-In response Count Hynek of Forrington, nephew of the late duchess by her half-sister has assembled the so called "Garmish Alliance" in an attempt to press his claim by blood, joined by the rich and traditionally spirit-worshipping southern lords like the Counts Elric of Thulmouth and Miklas of Koltree , the Baron Roderick of Aldale as well as the Arcanist Vaelon of Patwin Tower.
+In response <a href="Hynek of Forrington" class="internal-link">Count Hynek of Forrington</a>, nephew of the late duchess by her half-sister has assembled the so called "Garmish Alliance" in an attempt to press his claim by blood, joined by the rich and traditionally spirit-worshipping southern lords like the Counts Elric of Thulmouth and Miklas of Koltree , the Baron Roderick of Aldale as well as the Arcanist Vaelon of Patwin Tower.
 
 The rich and traditionally spirit-worshipping South, is supported primarily by the Princedom of Hainach, as blood ties bind the nobility of Pikris to the Count of Forrington and the Trinvale Republics who enjoy old and profitable trade relations with the cities on the mouth of the Trinmo.
 
