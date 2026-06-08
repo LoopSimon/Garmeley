@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-file:\"Changelog\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -10,13 +10,13 @@
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.41206173006633,
-  "lineSizeMultiplier": 1.13611750372276,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.397725734398267,
-  "repelStrength": 9.16745634222282,
-  "linkStrength": 0.722620820360092,
-  "linkDistance": 131,
-  "scale": 0.1393159555451625,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3242333124405646,
   "close": true
 }
