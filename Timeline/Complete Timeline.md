@@ -329,7 +329,7 @@
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
-            <div class="timeline-item" data-date="895PA">Odrick von Fulmer is elected High-Chancellor of Meadrath</div>
+            <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">

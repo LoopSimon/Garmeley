@@ -97,7 +97,7 @@ When Knights of the <a href="The Order of the Silver Wheel" class="internal-link
 
 <h3>The Meadi Empire</h3>
 In the later years of the 9th century, Meadraths influence had only grown and it was now considered one of the "Great Three Powers" alongside the beheran Sultantate and the Vihri Kingdom. 
-The late Queen Gisela III von Kor, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 895PA.
+The late Queen Gisela III von Kor, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 898PA.
 While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Lesmere, Gisvale, the Halfling Freelands and various other nominally fully independent nations.
 
 
