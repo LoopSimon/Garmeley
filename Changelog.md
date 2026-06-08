@@ -1,7 +1,9 @@
+- 2026-06-08T1829 · Coster of Melmbirth
+- 2026-06-08T1829 · Eldmar
+- 2026-06-08T1827 · Hynek of Forrington
 - 2026-06-08T1740 · Odrick von Fulmer
 - 2026-06-08T1731 · Meadrath
 - 2026-06-08T1731 · Complete Timeline
-- 2026-06-08T1713 · Hynek of Forrington
 - 2026-06-08T1656 · Garmian Succession Crisis
 - 2026-06-08T1622 · Surovsky
 - 2026-06-08T1612 · Bilsworth
@@ -96,5 +98,3 @@
 - 2026-05-20T2031 · War of Horn and Fang
 - 2026-05-20T2028 · Orenburg Pact
 - 2026-05-20T1836 · Niedrest Incident
-- 2026-05-19T1859 · Fey
-- 2026-05-19T1851 · Trazlov Consortium

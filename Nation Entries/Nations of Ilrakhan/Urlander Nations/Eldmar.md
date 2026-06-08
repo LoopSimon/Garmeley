@@ -45,3 +45,6 @@
 Moira, third of her Name of House Eldmar
 	Queen in Eldmar
 	
+Lena, Princess of House Eldmar
+	Princess of Eldmar, Countess of Melmbirth
+	
