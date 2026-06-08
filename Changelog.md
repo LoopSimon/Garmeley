@@ -1,3 +1,4 @@
+- 2026-06-08T1456 · [[Order of the Iron Tower]]
 - 2026-06-08T1334 · [[Meadland]]
 - 2026-06-08T1333 · [[Meadrath]]
 - 2026-06-08T1324 · [[Auguri Dominion]]
@@ -22,4 +23,3 @@
 - 2026-06-06T2307 · [[Luminists]]
 - 2026-06-06T2220 · [[Crustlords]]
 - 2026-06-06T2049 · [[Protean]]
-- 2026-06-06T2049 · [[Kyton]]
