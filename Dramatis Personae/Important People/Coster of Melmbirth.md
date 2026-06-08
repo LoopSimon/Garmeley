@@ -7,6 +7,10 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Coster of Melmbirth</h4>
     <div class="wiki-row">
+        <strong>Alias</strong>
+        <span>Black Coster</span>
+    </div>
+    <div class="wiki-row">
         <strong>Occupation</strong>
         <span> Count of Melmbirth</span>
     </div>

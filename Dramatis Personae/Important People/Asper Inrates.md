@@ -4,6 +4,10 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Asper Inrates</h4>
     <div class="wiki-row">
+        <strong>Alias</strong>
+        <span>The White Hawk</span>
+    </div>
+    <div class="wiki-row">
         <strong>Occupation</strong>
         <span> Captain of the Lemon Tree</span>
     </div>
