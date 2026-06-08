@@ -348,9 +348,9 @@
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl</div>
             <div class="timeline-item" data-date="917PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave</div>
-            <div class="timeline-item" data-date="919PA">Vorellan Wars end</div>
+            <div class="timeline-item" data-date="919PA">Vorellan Wars end, Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords</div>
-            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world</div>
+            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world, The Derianov Uprising is put down</div>
             <div class="timeline-item" data-date="922PA">Death of Duchess Agnes of Garmeley, Fairriver Incident</div>
             <div class="timeline-item" data-date="923PA">Campaign 1, Garmian Civil War breaks out</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla, discovery of Sirenna, Sack of Sunminster</div>
