@@ -22,8 +22,9 @@
         <strong>Cause of Death</strong>
         <span>N/A</span>
     </div>
-	<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/surovsky.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/surovsky.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+
 </div>
 <p>Boyar Vasily Surovksy is the head of the Grachy armed Forces in modern days, and in many ways one of the most influential people in the entire country, taken commands directly from the Grand Ushkyn assembled at Halgrach. He gained widespread notoriety for his exploits during the Kulyat Incident and the appeasement of Gram Derianov during the Derianov Uprising. </p>
 <p>As an outspoken enemy of the royalist faction amongst the grachian nobility he has gained a variety of political enemies, although especially after putting down the Derianov uprising few have dared to openly act against the Lord-General. He possesses an estate north of Runbrig and has managed to amass a decent amount of wealth since his appointment.</p>

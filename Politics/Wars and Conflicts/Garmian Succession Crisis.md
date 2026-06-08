@@ -50,7 +50,7 @@ The Siege of Dolm ended with the surrender of the city after almost 4 years in l
 In the meantime a terror campaign led by Jakub, comprised mainly of Vihri adventurers, the knightly Order of the Unicorn and Eldmari troops raided eastern Garmeley once again while major engagements occurred in the Garmian heartlands west of the Barrens between organized armies.
 
 In February of the year 927PA, Count Hynek of Forrington, heir-apparent to the Duchy and leader of the Garmish Alliance was assassinated at his camp south of the Redflow siege fortifications by an unknown assailant. While no official credit was claimed by Coster or his allies, rumours around their involvement spread immediatly.
-With Hynek being survived by his young Son Gasper and Lady Regia still held by Costers Green Banner League, the wars true purpose is shifted further into question but no end to the conflict is in sight.
+With Hynek being survived by his young Son Milos and Lady Regia still held by Costers Green Banner League, the wars true purpose is shifted further into question but no end to the conflict is in sight.
 
 
 <h2>The Garmish Alliance and its Supporters:</h2>

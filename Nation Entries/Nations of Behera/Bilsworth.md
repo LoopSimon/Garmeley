@@ -42,4 +42,4 @@
         </span>
     </div>
 </div>
-<p>The indubitable astounding and unprecedent notion of a realm of the undead has been realized for better or worse within the Bilsworth Ministry. Following the Disaster of 747PA almost the entire population of the <a href="Spursley" class="internal-link">Kingdom of Spursley</a>was afflicted with a self-replicating planar curse, exact origins unknown that led to them obtaining a unique state of undeath. In current time this realm that is in so many ways unlike any other is managed and ruled by the Ministry from the City of Rigsbridge.</p>
+<p>The indubitable astounding and unprecedent notion of a realm of the undead has been realized for better or worse within the Bilsworth Ministry. Following the Disaster of 747PA almost the entire population of the <a href="Spursley" class="internal-link">Kingdom of Spursley</a> was afflicted with a self-replicating planar curse, exact origins unknown that led to them obtaining a unique state of undeath. In current time this realm that is in so many ways unlike any other is managed and ruled by the Ministry from the City of Rigsbridge.</p>
