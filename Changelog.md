@@ -1,3 +1,4 @@
+- 2026-06-08T2309 · Zepria
 - 2026-06-08T2308 · Pigeye
 - 2026-06-08T2207 · Cevolia
 - 2026-06-08T2206 · Morlock
@@ -6,7 +7,6 @@
 - 2026-06-08T2157 · Fellows of the Dancing Flame
 - 2026-06-08T2153 · Asper Inrates
 - 2026-06-08T2152 · Coster of Melmbirth
-- 2026-06-08T2142 · Zepria
 - 2026-06-08T2032 · Odrick von Fulmer
 - 2026-06-08T2029 · Vasily Surovsky
 - 2026-06-08T2028 · Hynek of Forrington
