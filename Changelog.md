@@ -1,17 +1,18 @@
+- 2026-06-08T2117 · Asper Inrates
+- 2026-06-08T2032 · Odrick von Fulmer
+- 2026-06-08T2029 · Surovsky
+- 2026-06-08T2029 · Coster of Melmbirth
+- 2026-06-08T2028 · Hynek of Forrington
+- 2026-06-08T2028 · Gaden
 - 2026-06-08T1839 · Morlock
-- 2026-06-08T1830 · Hynek of Forrington
-- 2026-06-08T1829 · Coster of Melmbirth
 - 2026-06-08T1829 · Eldmar
-- 2026-06-08T1740 · Odrick von Fulmer
 - 2026-06-08T1731 · Meadrath
 - 2026-06-08T1731 · Complete Timeline
 - 2026-06-08T1656 · Garmian Succession Crisis
-- 2026-06-08T1622 · Surovsky
 - 2026-06-08T1612 · Bilsworth
 - 2026-06-08T1527 · The Amanita Cartel
 - 2026-06-08T1527 · Mogyri Clans
 - 2026-06-08T1526 · Kareli Hierarchy
-- 2026-06-08T1526 · Gaden
 - 2026-06-08T1456 · Order of the Iron Tower
 - 2026-06-08T1334 · Meadland
 - 2026-06-08T1324 · Auguri Dominion
@@ -97,4 +98,3 @@
 - 2026-05-20T2316 · Doggerism
 - 2026-05-20T2031 · War of Horn and Fang
 - 2026-05-20T2028 · Orenburg Pact
-- 2026-05-20T1836 · Niedrest Incident
