@@ -1,6 +1,6 @@
-- 2026-06-09T2129 · Jakub Ralpia
+- 2026-06-10T0151 · Jakub Ralpia
+- 2026-06-10T0150 · Gisela II
 - 2026-06-09T2127 · Garmian Succession Crisis
-- 2026-06-09T1545 · Gisela II
 - 2026-06-09T1545 · Rulers of the Meadi
 - 2026-06-09T1545 · Meadrath
 - 2026-06-09T1539 · Complete Timeline
