@@ -69,6 +69,7 @@ The so called "Meadi Empire" as it is referred to colloquially, describes the va
 
 
 <h2>History</h2>
+<small><i>see <a href="Rulers of the Meadi" class="internal-link">The Rulers of the Meadi</a></i></small>
 
 <h3>Gisvale & Korsfall</h3>
 <p>The History of the meadi after the fall of the <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a> in 260PA is one of two kingdoms.

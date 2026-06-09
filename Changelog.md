@@ -1,7 +1,8 @@
-- 2026-06-09T1527 · Gisela II
-- 2026-06-09T1455 · Meadrath
+- 2026-06-09T1545 · Gisela II
+- 2026-06-09T1545 · Rulers of the Meadi
+- 2026-06-09T1545 · Meadrath
+- 2026-06-09T1539 · Complete Timeline
 - 2026-06-09T0242 · Fogorix
-- 2026-06-09T0238 · Complete Timeline
 - 2026-06-09T0233 · Valeri Temzin
 - 2026-06-08T2318 · Coster of Melmbirth
 - 2026-06-08T2313 · Hynek of Forrington
@@ -97,4 +98,3 @@
 - 2026-05-21T1425 · Roygviil
 - 2026-05-21T1419 · Languages of the world
 - 2026-05-21T1413 · Human
-- 2026-05-21T1406 · Trazlov

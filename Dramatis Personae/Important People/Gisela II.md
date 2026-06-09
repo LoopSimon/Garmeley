@@ -3,6 +3,7 @@
 [[Meadland]]
 [[Korsfall College]]
 [[Trinicism]]
+[[Rulers of the Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Gisela Rianna Bring von Kor</h4>

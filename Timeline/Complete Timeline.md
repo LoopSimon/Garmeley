@@ -260,7 +260,7 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
             <div class="timeline-item" data-date="701PA">Third Zuhiri Holy War begins</div>
-            <div class="timeline-item" data-date="704PA">Rise of Gisela I in Meadrath</div>
+            <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
