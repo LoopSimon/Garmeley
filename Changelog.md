@@ -1,3 +1,5 @@
+- 2026-06-09T0242 · Fogorix
+- 2026-06-09T0238 · Complete Timeline
 - 2026-06-09T0233 · Valeri Temzin
 - 2026-06-08T2318 · Coster of Melmbirth
 - 2026-06-08T2313 · Hynek of Forrington
@@ -14,7 +16,6 @@
 - 2026-06-08T2028 · Gaden
 - 2026-06-08T1829 · Eldmar
 - 2026-06-08T1731 · Meadrath
-- 2026-06-08T1731 · Complete Timeline
 - 2026-06-08T1656 · Garmian Succession Crisis
 - 2026-06-08T1612 · Bilsworth
 - 2026-06-08T1527 · The Amanita Cartel
@@ -97,4 +98,3 @@
 - 2026-05-21T1413 · Human
 - 2026-05-21T1406 · Trazlov
 - 2026-05-21T1404 · Largest Cities
-- 2026-05-21T1403 · Vihr
