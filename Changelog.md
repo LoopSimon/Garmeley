@@ -1,3 +1,5 @@
+- 2026-06-09T2129 · Jakub Ralpia
+- 2026-06-09T2127 · Garmian Succession Crisis
 - 2026-06-09T1545 · Gisela II
 - 2026-06-09T1545 · Rulers of the Meadi
 - 2026-06-09T1545 · Meadrath
@@ -18,7 +20,6 @@
 - 2026-06-08T2029 · Vasily Surovsky
 - 2026-06-08T2028 · Gaden
 - 2026-06-08T1829 · Eldmar
-- 2026-06-08T1656 · Garmian Succession Crisis
 - 2026-06-08T1612 · Bilsworth
 - 2026-06-08T1527 · The Amanita Cartel
 - 2026-06-08T1527 · Mogyri Clans
@@ -97,4 +98,3 @@
 - 2026-05-21T1442 · Great Eastern War
 - 2026-05-21T1425 · Roygviil
 - 2026-05-21T1419 · Languages of the world
-- 2026-05-21T1413 · Human
