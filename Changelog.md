@@ -1,3 +1,4 @@
+- 2026-06-10T1329 · Ivanova Orin
 - 2026-06-10T1326 · Fasmer II
 - 2026-06-10T0244 · Vasily Surovsky
 - 2026-06-10T0243 · Valeri Temzin
@@ -97,4 +98,3 @@
 - 2026-05-23T2347 · Battvian Flour
 - 2026-05-23T1652 · Kindly Lords
 - 2026-05-23T1157 · Sunborn
-- 2026-05-21T1442 · Great Eastern War
