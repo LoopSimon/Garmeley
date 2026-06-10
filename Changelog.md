@@ -1,3 +1,4 @@
+- 2026-06-10T1326 · Fasmer II
 - 2026-06-10T0244 · Vasily Surovsky
 - 2026-06-10T0243 · Valeri Temzin
 - 2026-06-10T0243 · Suzana Dragović
@@ -10,7 +11,6 @@
 - 2026-06-10T0240 · Gaden
 - 2026-06-10T0240 · Asper Inrates
 - 2026-06-10T0240 · Coster of Melmbirth
-- 2026-06-10T0239 · Fasmer II
 - 2026-06-10T0236 · Elbae
 - 2026-06-09T2127 · Garmian Succession Crisis
 - 2026-06-09T1545 · Rulers of the Meadi
