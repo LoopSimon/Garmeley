@@ -17,15 +17,14 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>N/A</span>
+        <span>alive</span>
     </div>
     
-    <hr class="wiki-hr">
     <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>N/A</span>
+        <strong>Age</strong>
+        <span>34</span>
     </div>
-    
+    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
         <span>Fellowship of the Dancing Flame</span>

@@ -19,14 +19,18 @@
         <span>927, outside Redflow</span>
     </div>
     
-    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Assassination</span>
+        <span>Assassination, <br> 36 years of age</span>
     </div>
+    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
         <span>Milos of Forrington</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Dynasty</strong>
+        <span>of Forr</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>

@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>unknown, suspected poisoning</span>
+        <span>unknown, suspected poisoning, <br> 134 years of age</span>
     </div>
     
     <hr class="wiki-hr">

@@ -5,7 +5,7 @@
 [[Eldmar]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Coster of Melmbirth</h4>
+    <h4 class="wiki-header">Coster Riedek</h4>
     <div class="wiki-row">
         <strong>Alias</strong>
         <span>Black Coster</span>
@@ -20,17 +20,20 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>N/A</span>
+        <span>alive</span>
     </div>
-    
-    <hr class="wiki-hr">
     <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>N/A</span>
+        <strong>Age</strong>
+        <span>29</span>
     </div>
+    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
         <span>Jarina of Melmbirth</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Dynasty</strong>
+        <span>Riedek</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>

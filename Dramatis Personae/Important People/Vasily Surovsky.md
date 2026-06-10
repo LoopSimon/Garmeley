@@ -14,18 +14,25 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
+        <span>alive</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Age</strong>
+        <span>51</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Issue</strong>
         <span>N/A</span>
     </div>
-    
-    <hr class="wiki-hr">
     <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>N/A</span>
+        <strong>Dynasty</strong>
+        <span>Surovsky</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Grachy Military</span>
+        <span>Republic of Grachy</span>
     </div>
+    
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/surovsky.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 

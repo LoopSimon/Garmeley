@@ -17,9 +17,12 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>N/A</span>
+        <span>alive</span>
     </div>
-    
+    <div class="wiki-row">
+        <strong>Age</strong>
+        <span>42</span>
+    </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>

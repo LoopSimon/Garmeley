@@ -33,21 +33,20 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>natural causes</span>
+        <span>natural causes, <br> 84 years of age</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Issue</strong>
+        <span>Margaret Rianna von Kor</span>
     </div>
     <div class="wiki-row">
         <strong>Dynasty</strong>
         <span> von Kor</span>
     </div>
-    
-    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
         <span>Meadrath </span>
-    </div>
-    <div class="wiki-row">
-        <strong>Issue</strong>
-        <span>Margaret Rianna von Kor</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gisela.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

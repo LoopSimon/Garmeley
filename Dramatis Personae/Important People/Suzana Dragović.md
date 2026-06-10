@@ -22,17 +22,22 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Fever</span>
+        <span>Fever, <br> 160 years of age</span>
     </div>
     
     <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Allegiance</strong>
-        <span>Zeprian Empire, </span>
-    </div>
+    
     <div class="wiki-row">
         <strong>Issue</strong>
         <span>Morana Dragović</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Dynasty</strong>
+        <span>Dragović</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Allegiance</strong>
+        <span>Zeprian Empire</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Suzana.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

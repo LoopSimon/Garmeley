@@ -16,10 +16,18 @@
         <strong>Died</strong>
         <span>743PA, Yl-Lhatsi</span>
     </div>
-    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Execution by Beheading</span>
+        <span>Execution by Beheading, <br> 160 years of age</span>
+    </div>
+    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Issue</strong>
+        <span>unknown</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Dynasty</strong>
+        <span>Hericium</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>

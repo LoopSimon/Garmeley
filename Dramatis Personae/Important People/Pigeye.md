@@ -16,11 +16,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>N/A</span>
+        <span>alive</span>
     </div>
     <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>N/A</span>
+        <strong>Age</strong>
+        <span>37</span>
     </div>
     
     <hr class="wiki-hr">

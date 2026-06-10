@@ -1,24 +1,26 @@
-- 2026-06-10T0151 · Jakub Ralpia
-- 2026-06-10T0150 · Gisela II
+- 2026-06-10T0236 · Elbae
+- 2026-06-10T0235 · Vasily Surovsky
+- 2026-06-10T0235 · Pigeye
+- 2026-06-10T0235 · Odrick von Fulmer
+- 2026-06-10T0235 · Jakub Ralpia
+- 2026-06-10T0235 · Giuseppe Dimandi
+- 2026-06-10T0235 · Coster of Melmbirth
+- 2026-06-10T0235 · Asper Inrates
+- 2026-06-10T0235 · Fasmer II
+- 2026-06-10T0232 · Valeri Temzin
+- 2026-06-10T0232 · Suzana Dragović
+- 2026-06-10T0231 · Hynek of Forrington
+- 2026-06-10T0229 · Gisela II
+- 2026-06-10T0229 · Gaden
 - 2026-06-09T2127 · Garmian Succession Crisis
 - 2026-06-09T1545 · Rulers of the Meadi
 - 2026-06-09T1545 · Meadrath
 - 2026-06-09T1539 · Complete Timeline
 - 2026-06-09T0242 · Fogorix
-- 2026-06-09T0233 · Valeri Temzin
-- 2026-06-08T2318 · Coster of Melmbirth
-- 2026-06-08T2313 · Hynek of Forrington
 - 2026-06-08T2309 · Zepria
-- 2026-06-08T2308 · Pigeye
 - 2026-06-08T2207 · Cevolia
 - 2026-06-08T2206 · Morlock
-- 2026-06-08T2204 · Giuseppe Dimandi
-- 2026-06-08T2158 · Suzana Dragović
 - 2026-06-08T2157 · Fellows of the Dancing Flame
-- 2026-06-08T2153 · Asper Inrates
-- 2026-06-08T2032 · Odrick von Fulmer
-- 2026-06-08T2029 · Vasily Surovsky
-- 2026-06-08T2028 · Gaden
 - 2026-06-08T1829 · Eldmar
 - 2026-06-08T1612 · Bilsworth
 - 2026-06-08T1527 · The Amanita Cartel
@@ -96,5 +98,3 @@
 - 2026-05-23T1652 · Kindly Lords
 - 2026-05-23T1157 · Sunborn
 - 2026-05-21T1442 · Great Eastern War
-- 2026-05-21T1425 · Roygviil
-- 2026-05-21T1419 · Languages of the world

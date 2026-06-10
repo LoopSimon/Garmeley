@@ -13,17 +13,20 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>N/A</span>
+        <span>alive</span>
     </div>
-    
-    <hr class="wiki-hr">
     <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>N/A</span>
+        <strong>Age</strong>
+        <span>59</span>
     </div>
+    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
         <span>Paul von Fulmer</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Dynasty</strong>
+        <span>von Fulmer</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>

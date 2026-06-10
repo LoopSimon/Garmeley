@@ -2,6 +2,7 @@
 [[Elven Paragonworship]]
 [[Rulers of the Beheran Elves]]
 [[Iz-Almadus]]
+[[Fasmer II]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elbae Sultanate</h4>
@@ -11,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Sultan Fasmer Elbae II</span>
+        <span><a href="Fasmer II" class="internal-link">Sultan Fasmer Elbae II</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
