@@ -9,6 +9,10 @@
         <span> Shogun of Drizun, <br>First General of the Temple</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Mogyr</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>583PA, Hericium</span>
     </div>

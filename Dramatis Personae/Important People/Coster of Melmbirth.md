@@ -15,6 +15,10 @@
         <span> Count of Melmbirth</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Garmish Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>897PA, Melmbirth</span>
     </div>

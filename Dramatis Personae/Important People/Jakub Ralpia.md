@@ -10,6 +10,10 @@
         <span>Kis zi Vihr , <br>Captain of the Unicorn</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Vihri Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>899PA, Zavlech</span>
 	    </div>

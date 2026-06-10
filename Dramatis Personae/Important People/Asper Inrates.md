@@ -12,6 +12,10 @@
         <span> Captain of the Lemon Tree</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Zipivi Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>885PA, Arikh</span>
 	    </div>

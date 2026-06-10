@@ -17,6 +17,10 @@
         <span>Irater III</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Beheran Elf</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>798PA, Jiravid</span>
 	    </div>

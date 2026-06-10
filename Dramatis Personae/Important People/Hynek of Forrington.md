@@ -5,10 +5,14 @@
 [[Hainach]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Hynek of Forrington</h4>
+    <h4 class="wiki-header">Hynek of Forr</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span> Count of Forrington</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Garmish Human</span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
@@ -26,7 +30,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
-        <span>Milos of Forrington</span>
+        <span>Milos of Forr</span>
     </div>
     <div class="wiki-row">
         <strong>Dynasty</strong>

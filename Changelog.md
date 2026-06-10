@@ -1,17 +1,17 @@
+- 2026-06-10T0244 · Vasily Surovsky
+- 2026-06-10T0243 · Valeri Temzin
+- 2026-06-10T0243 · Suzana Dragović
+- 2026-06-10T0243 · Pigeye
+- 2026-06-10T0243 · Odrick von Fulmer
+- 2026-06-10T0243 · Jakub Ralpia
+- 2026-06-10T0242 · Hynek of Forrington
+- 2026-06-10T0242 · Giuseppe Dimandi
+- 2026-06-10T0241 · Gisela II
+- 2026-06-10T0240 · Gaden
+- 2026-06-10T0240 · Asper Inrates
+- 2026-06-10T0240 · Coster of Melmbirth
+- 2026-06-10T0239 · Fasmer II
 - 2026-06-10T0236 · Elbae
-- 2026-06-10T0235 · Vasily Surovsky
-- 2026-06-10T0235 · Pigeye
-- 2026-06-10T0235 · Odrick von Fulmer
-- 2026-06-10T0235 · Jakub Ralpia
-- 2026-06-10T0235 · Giuseppe Dimandi
-- 2026-06-10T0235 · Coster of Melmbirth
-- 2026-06-10T0235 · Asper Inrates
-- 2026-06-10T0235 · Fasmer II
-- 2026-06-10T0232 · Valeri Temzin
-- 2026-06-10T0232 · Suzana Dragović
-- 2026-06-10T0231 · Hynek of Forrington
-- 2026-06-10T0229 · Gisela II
-- 2026-06-10T0229 · Gaden
 - 2026-06-09T2127 · Garmian Succession Crisis
 - 2026-06-09T1545 · Rulers of the Meadi
 - 2026-06-09T1545 · Meadrath

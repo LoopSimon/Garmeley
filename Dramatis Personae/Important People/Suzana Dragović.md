@@ -13,6 +13,10 @@
         <span> Empress of Zepria</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Gorati Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>459PA, Rivno</span>
 	    </div>

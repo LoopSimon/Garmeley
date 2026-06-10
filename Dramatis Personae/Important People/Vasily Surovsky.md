@@ -9,6 +9,10 @@
         <span> Lord-General of the Grachy Republic, <br>Boyar of Runbrig</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Grachy Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>875PA, Runbrig</span>
     </div>

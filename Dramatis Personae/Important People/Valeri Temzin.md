@@ -10,6 +10,10 @@
         <span> Inquisitor of the Open Face</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Kheri Dwarf</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>789PA, Daban-Kol</span>
 	    </div>

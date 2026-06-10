@@ -11,6 +11,10 @@
         <span> Boss of the Blind Kings</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Urien Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>890PA, Niedrest</span>
 	    </div>

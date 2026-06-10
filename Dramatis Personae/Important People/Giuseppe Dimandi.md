@@ -12,6 +12,10 @@
         <span> Great Master of the Dancing Flame</span>
     </div>
     <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>Cevoli Human</span>
+    </div>
+    <div class="wiki-row">
         <strong>Born</strong>
         <span>893PA, Cefran</span>
     </div>
