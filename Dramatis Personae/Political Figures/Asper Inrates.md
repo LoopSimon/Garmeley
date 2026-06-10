@@ -4,7 +4,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Asper Inrates</h4>
     <div class="wiki-row">
-        <strong>Alias</strong>
+        <strong>Epitath</strong>
         <span>The White Hawk</span>
     </div>
     <div class="wiki-row">

@@ -27,7 +27,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
-        <span>unknown</span>
+        <span>Jampa Hericium, <br>Palden Hericium</span>
     </div>
     <div class="wiki-row">
         <strong>Dynasty</strong>
@@ -35,7 +35,7 @@
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Drizun Shogunate</span>
+        <span>Drizun Shogunate, <br> Hericium Clan</span>
     </div>
 </div>
 <p>Hericium Gaden is one of the most influential personalities within Mogyr history, his prolific exploits as a military leader and civil administrator as well as the controversial nature of his demise warrant him a place among the greatest Mogyri to ever live. He is perhaps most famous for the defeat of the Kobold Khan Luchun at the Battle of Morfwen Field and being the figurehead of the subsequent Mogyri Golden Age.</p>

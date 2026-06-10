@@ -1,3 +1,6 @@
+- 2026-06-10T1635 · Pavo of Alban
+- 2026-06-10T1628 · Asper Inrates
+- 2026-06-10T1623 · Gaden
 - 2026-06-10T1353 · Niedrest Incident
 - 2026-06-10T1352 · Valeri Temzin
 - 2026-06-10T1347 · Ivanova Orin
@@ -10,8 +13,6 @@
 - 2026-06-10T0242 · Hynek of Forrington
 - 2026-06-10T0242 · Giuseppe Dimandi
 - 2026-06-10T0241 · Gisela II
-- 2026-06-10T0240 · Gaden
-- 2026-06-10T0240 · Asper Inrates
 - 2026-06-10T0240 · Coster of Melmbirth
 - 2026-06-10T0236 · Elbae
 - 2026-06-09T2127 · Garmian Succession Crisis
@@ -97,4 +98,3 @@
 - 2026-05-23T2357 · Astafer
 - 2026-05-23T2350 · Red Honey
 - 2026-05-23T2347 · Battvian Flour
-- 2026-05-23T1652 · Kindly Lords
