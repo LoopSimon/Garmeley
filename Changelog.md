@@ -1,3 +1,4 @@
+- 2026-06-10T2051 · Singer Worship
 - 2026-06-10T1758 · Pigeye
 - 2026-06-10T1755 · Gislif Mellwing
 - 2026-06-10T1747 · Niedrest Incident
@@ -97,4 +98,3 @@
 - 2026-05-24T1257 · Knights of the Spring
 - 2026-05-24T1241 · Knights of the Unicorn
 - 2026-05-24T1231 · Order of the Silver Wheel
-- 2026-05-23T2357 · Astafer
