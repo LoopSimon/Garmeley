@@ -1,3 +1,4 @@
+- 2026-06-12T1842 · Complete Timeline
 - 2026-06-10T2054 · Singer Worship
 - 2026-06-10T1758 · Pigeye
 - 2026-06-10T1755 · Gislif Mellwing
@@ -21,7 +22,6 @@
 - 2026-06-09T2127 · Garmian Succession Crisis
 - 2026-06-09T1545 · Rulers of the Meadi
 - 2026-06-09T1545 · Meadrath
-- 2026-06-09T1539 · Complete Timeline
 - 2026-06-09T0242 · Fogorix
 - 2026-06-08T2309 · Zepria
 - 2026-06-08T2207 · Cevolia
