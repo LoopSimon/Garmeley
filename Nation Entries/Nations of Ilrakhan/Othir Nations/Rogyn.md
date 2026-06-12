@@ -1,5 +1,7 @@
 %%
 [[Minruism]]
+[[Elf]]
+[[Othirdon]]
 %%
 
 

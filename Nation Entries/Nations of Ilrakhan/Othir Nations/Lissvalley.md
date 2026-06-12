@@ -1,6 +1,7 @@
 %%
 [[Kindly Lords]]
 [[Thirdonis]]
+[[Othirdon]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Lissvalley Federation</h4>

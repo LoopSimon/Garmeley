@@ -1,4 +1,10 @@
-- 2026-06-12T2345 · Adeen
+- 2026-06-13T0037 · Gladeen
+- 2026-06-13T0037 · Vulpus
+- 2026-06-12T2354 · Cimfon
+- 2026-06-12T2353 · Lissvalley
+- 2026-06-12T2353 · Rogyn
+- 2026-06-12T2353 · Tintarol
+- 2026-06-12T2353 · Adeen
 - 2026-06-12T1932 · Complete Timeline
 - 2026-06-12T1929 · Yari
 - 2026-06-12T1927 · Hilcarax
@@ -71,8 +77,6 @@
 - 2026-06-03T2349 · Kherova
 - 2026-06-03T1622 · Vignasoya
 - 2026-06-03T1621 · Freelands
-- 2026-06-03T1620 · Tintarol
-- 2026-06-03T1620 · Cimfon
 - 2026-06-03T1615 · Cult of Tirea
 - 2026-06-03T1615 · Cevolian Pantheon
 - 2026-06-03T1615 · Battvia
@@ -94,7 +98,3 @@
 - 2026-05-30T1020 · Ilonism
 - 2026-05-30T1005 · Gethric Saints
 - 2026-05-28T2323 · Sons of Kasimir
-- 2026-05-26T1644 · Elf
-- 2026-05-26T1123 · Ukiolla
-- 2026-05-25T1532 · Tloky
-- 2026-05-25T1305 · Nostroya
