@@ -1,4 +1,5 @@
-- 2026-06-12T1842 · Complete Timeline
+- 2026-06-12T1850 · Yari
+- 2026-06-12T1848 · Complete Timeline
 - 2026-06-10T2054 · Singer Worship
 - 2026-06-10T1758 · Pigeye
 - 2026-06-10T1755 · Gislif Mellwing
@@ -35,7 +36,6 @@
 - 2026-06-08T1456 · Order of the Iron Tower
 - 2026-06-08T1334 · Meadland
 - 2026-06-08T1324 · Auguri Dominion
-- 2026-06-08T0118 · Yari
 - 2026-06-08T0114 · Safir
 - 2026-06-08T0108 · Calendars
 - 2026-06-07T2352 · Arcanists, Scholars and Mages
