@@ -190,11 +190,12 @@
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
+            <div class="timeline-item" data-date="510PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>
             <div class="timeline-item" data-date="512PA">Last sighting of Rasmur at Farsen Peak</div>
             <div class="timeline-item" data-date="516PA">Great Raalbrug Fire</div>
             <div class="timeline-item" data-date="517PA">Baeling Empire is declared, conversion of Trykkerog</div>
-            <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol ends</div>
+            <div class="timeline-item" data-date="518PA">Siege of Sulbra-Kol ends</div>
             <div class="timeline-item" data-date="519PA">Antigor of Kisnau declares Grevennen Independence</div>
             <div class="timeline-item" data-date="521PA">Destruction of Qa, end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
@@ -235,7 +236,6 @@
             Natan XXI "Ilseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
             <div class="timeline-item" data-date="629PA">Fall of Thirdonis</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
-            <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">Trazvlov Consortium is founded</div>
             <div class="timeline-item" data-date="640PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
