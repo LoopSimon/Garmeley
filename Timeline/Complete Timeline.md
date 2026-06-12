@@ -229,12 +229,14 @@
             <div class="timeline-item" data-date="620PA">First Zuhiri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
+            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends </div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
             Natan XXI "Ilseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
             <div class="timeline-item" data-date="629PA">Fall of Thirdonis</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="635PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
+            <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">Trazvlov Consortium is founded</div>
             <div class="timeline-item" data-date="640PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
