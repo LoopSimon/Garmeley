@@ -1,5 +1,5 @@
+- 2026-06-13T1940 · Janez Vajkard Valvasor
 - 2026-06-13T1821 · Pavo of Alban
-- 2026-06-13T1812 · Janez Vajkard Valvasor
 - 2026-06-13T1812 · Treaty of Uhl
 - 2026-06-13T1702 · Complete Timeline
 - 2026-06-13T1638 · Arcanists, Scholars and Mages
