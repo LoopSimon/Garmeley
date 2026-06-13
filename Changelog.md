@@ -1,4 +1,4 @@
-- 2026-06-13T1706 · Pavo of Alban
+- 2026-06-13T1707 · Pavo of Alban
 - 2026-06-13T1702 · Complete Timeline
 - 2026-06-13T1648 · Janez Vajkard Valvasor
 - 2026-06-13T1638 · Arcanists, Scholars and Mages
