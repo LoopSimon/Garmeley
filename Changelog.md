@@ -1,4 +1,5 @@
-- 2026-06-13T1954 · Janez Vajkard Valvasor
+- 2026-06-14T0055 · Beryl Lenkov
+- 2026-06-13T2136 · Janez Vajkard Valvasor
 - 2026-06-13T1821 · Pavo of Alban
 - 2026-06-13T1812 · Treaty of Uhl
 - 2026-06-13T1702 · Complete Timeline
@@ -97,4 +98,3 @@
 - 2026-06-01T1040 · Korsfall College
 - 2026-06-01T1040 · Kherovan Inquisition
 - 2026-06-01T1040 · Karajal School of Insight
-- 2026-06-01T1037 · Church of Iztaw

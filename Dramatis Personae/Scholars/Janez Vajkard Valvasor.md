@@ -67,6 +67,7 @@
             <strong>Kynotic Principles in the Arcanum</strong>
             <span>Published 920PA</span>
         </div>
+        <hr class=wiki-hr>
         <div class=wiki-row>
             <strong>Null & Void</strong>
             <span>Published 923PA</span>
