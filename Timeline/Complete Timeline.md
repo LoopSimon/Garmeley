@@ -75,6 +75,7 @@
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
             <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
+            <div class="timeline-item" data-date="450BA">Earliest records on magical circles on Mørbrig</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
             <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
