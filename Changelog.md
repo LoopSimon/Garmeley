@@ -1,6 +1,7 @@
-- 2026-06-13T1707 · Pavo of Alban
+- 2026-06-13T1821 · Pavo of Alban
+- 2026-06-13T1812 · Janez Vajkard Valvasor
+- 2026-06-13T1812 · Treaty of Uhl
 - 2026-06-13T1702 · Complete Timeline
-- 2026-06-13T1648 · Janez Vajkard Valvasor
 - 2026-06-13T1638 · Arcanists, Scholars and Mages
 - 2026-06-13T0329 · Mørbrig
 - 2026-06-13T0116 · Sebera
@@ -97,4 +98,3 @@
 - 2026-06-01T1040 · Kherovan Inquisition
 - 2026-06-01T1040 · Karajal School of Insight
 - 2026-06-01T1037 · Church of Iztaw
-- 2026-06-01T1037 · Xerental
