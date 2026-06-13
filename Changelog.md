@@ -1,4 +1,7 @@
-- 2026-06-13T0330 · Complete Timeline
+- 2026-06-13T1706 · Pavo of Alban
+- 2026-06-13T1702 · Complete Timeline
+- 2026-06-13T1648 · Janez Vajkard Valvasor
+- 2026-06-13T1638 · Arcanists, Scholars and Mages
 - 2026-06-13T0329 · Mørbrig
 - 2026-06-13T0116 · Sebera
 - 2026-06-13T0037 · Gladeen
@@ -16,7 +19,6 @@
 - 2026-06-10T1755 · Gislif Mellwing
 - 2026-06-10T1747 · Niedrest Incident
 - 2026-06-10T1743 · Zavro Firelle
-- 2026-06-10T1635 · Pavo of Alban
 - 2026-06-10T1628 · Asper Inrates
 - 2026-06-10T1623 · Gaden
 - 2026-06-10T1352 · Valeri Temzin
@@ -49,7 +51,6 @@
 - 2026-06-08T1324 · Auguri Dominion
 - 2026-06-08T0114 · Safir
 - 2026-06-08T0108 · Calendars
-- 2026-06-07T2352 · Arcanists, Scholars and Mages
 - 2026-06-07T2306 · Urbridge
 - 2026-06-07T2220 · Wermia
 - 2026-06-07T2210 · Halgrach
@@ -97,4 +98,3 @@
 - 2026-06-01T1040 · Karajal School of Insight
 - 2026-06-01T1037 · Church of Iztaw
 - 2026-06-01T1037 · Xerental
-- 2026-05-30T1020 · Ilonism

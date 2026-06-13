@@ -91,7 +91,7 @@ This Cevoli Arcanist is most infamous for his rejections of not only Eastern Get
 A Scion of the Alparaz School of Insight, this elven wizard is regarded as the greatest living elven Mage of our times. Her efforts in bringing elven, gnomish and human academies closer together are internationally applauded outside of elven politics but her discoveries in Realmatic Theory, such as proof of the existence of the Astral Realm have cemented her position in academic History.
 ***
 ### **Pavo of Alban**
-A Meadi Wizard and the youngest Rector in the history of Korsfall College, he is known as one of the if not the single greatest Magical Authority alive among non-elven Practitioners, he resides in he Tower of Alban in southern Meadrath.
+A Meadi Wizard and prio to taking his leave the youngest Rector in the history of Korsfall College, he is known as one of the if not the single greatest Magical Authority alive among non-elven Practitioners, he resides in he Tower of Alban in southern Meadrath.
 ***
 ### **Korman van Schipwig**
 A Weadi Mage and Scholar, famous for his work "The Fractal Bridge", in which he describes a potential semi-permanent Fluxbridge.

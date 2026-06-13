@@ -325,7 +325,7 @@
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
-            <div class="timeline-item" data-date="870PA">Pavo of Alban erects his Tower</div>
+            <div class="timeline-item" data-date="870PA">Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
