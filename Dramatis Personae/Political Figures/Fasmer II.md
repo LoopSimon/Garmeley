@@ -44,7 +44,7 @@
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Elbae Sultanate </span>
+        <span><a href="Elbae" class="internal-link">Elbae Sultante</a></span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/elf_one.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

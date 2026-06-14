@@ -1,7 +1,16 @@
-- 2026-06-14T2048 · Zazir Brahmis
-- 2026-06-14T2030 · Fasmer II
-- 2026-06-14T1719 · Ivanova Orin
-- 2026-06-14T1642 · Beryl Lenkov
+- 2026-06-14T2054 · Valeri Temzin
+- 2026-06-14T2053 · Odrick von Fulmer
+- 2026-06-14T2052 · Jakub Ralpia
+- 2026-06-14T2051 · Giuseppe Dimandi
+- 2026-06-14T2051 · Gisela II
+- 2026-06-14T2051 · Gaden
+- 2026-06-14T2050 · Coster of Melmbirth
+- 2026-06-14T2050 · Hynek of Forrington
+- 2026-06-14T2050 · Vasily Surovsky
+- 2026-06-14T2050 · Ivanova Orin
+- 2026-06-14T2049 · Beryl Lenkov
+- 2026-06-14T2049 · Fasmer II
+- 2026-06-14T2049 · Zazir Brahmis
 - 2026-06-13T2136 · Janez Vajkard Valvasor
 - 2026-06-13T1821 · Pavo of Alban
 - 2026-06-13T1812 · Treaty of Uhl
@@ -25,16 +34,7 @@
 - 2026-06-10T1747 · Niedrest Incident
 - 2026-06-10T1743 · Zavro Firelle
 - 2026-06-10T1628 · Asper Inrates
-- 2026-06-10T1623 · Gaden
-- 2026-06-10T1352 · Valeri Temzin
-- 2026-06-10T0244 · Vasily Surovsky
 - 2026-06-10T0243 · Suzana Dragović
-- 2026-06-10T0243 · Odrick von Fulmer
-- 2026-06-10T0243 · Jakub Ralpia
-- 2026-06-10T0242 · Hynek of Forrington
-- 2026-06-10T0242 · Giuseppe Dimandi
-- 2026-06-10T0241 · Gisela II
-- 2026-06-10T0240 · Coster of Melmbirth
 - 2026-06-10T0236 · Elbae
 - 2026-06-09T2127 · Garmian Succession Crisis
 - 2026-06-09T1545 · Rulers of the Meadi

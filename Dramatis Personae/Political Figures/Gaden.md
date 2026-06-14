@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Mogyr</span>
+        <span><a href="Mogyr" class="internal-link">Mogyri</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

@@ -50,7 +50,7 @@
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Meadrath </span>
+        <span><a href="Meadrath" class="internal-link">Meadrath</a> </span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gisela.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

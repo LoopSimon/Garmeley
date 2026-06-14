@@ -33,7 +33,7 @@
     
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Vihr,  <br> Knights of the Unicorn</span>
+        <span><a href="Vihr" class="internal-link">Vihr</a>,  <br><a href="Knights of the Unicorn" class="internal-link">Knights of the Unicorn</a></span>
     </div>
     
     <hr class="wiki-hr">

@@ -31,7 +31,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Fellowship of the Dancing Flame</span>
+        <span><a href="Fellows of the Dancing Flame" class="internal-link">Fellowship of the Dancing Flame</a></span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/dimandi.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

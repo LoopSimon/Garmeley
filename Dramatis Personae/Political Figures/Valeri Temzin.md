@@ -29,7 +29,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Kherovan Inquisition</span>
+        <span><a href="Kherovan Inquisition" class="internal-link">Kherovan Inquisition</a></span>
     </div>
     
     <hr class="wiki-hr">

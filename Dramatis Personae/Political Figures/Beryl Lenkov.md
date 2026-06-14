@@ -33,7 +33,7 @@
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Republic of Grachy</span>
+        <span><a href="Grachy" class="internal-link">Republic of Grachy</a></span>
     </div>
     
     <hr class="wiki-hr">

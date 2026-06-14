@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Garmish Human</span>
+        <span><a href="Garmeley" class="internal-link">Garmish</a> Human</span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
