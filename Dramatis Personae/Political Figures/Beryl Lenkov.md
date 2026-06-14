@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>lets see</span>
+        <span>927PA, Grachwoods</span>
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
@@ -40,4 +40,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Lenkov.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Boyar Beryl Lenkov is a grachy gentleman of controversial repute. A popular hunter member of high society he inherited his title and estate from his father Vladimir Lenkov when the latter died on a hunting accident in 909PA. Lenkov participated in the battles against Ukiolla following the Kulyat incident and fought in the 1st Hussars under General <a href="Vasily Surovsky" class="internal-link">Surovsky</a>. Recently he was infamously in relations with the young Katerina Ulyanov, daughter of Boyar Andre Ulyanov, a rich landowner in Soludha; Lenkov ran away with Katerina against the expressed wishes of her father.</p>
+<p>Boyar Beryl Lenkov is a <a href="Grachy" class="internal-link">grachi</a> gentleman of controversial repute. A popular hunter member of high society he inherited his title and estate from his father Vladimir Lenkov when the latter died on a hunting accident in 909PA. Lenkov participated in the battles against Ukiolla following the Kulyat incident and fought in the 1st Hussars under General <a href="Vasily Surovsky" class="internal-link">Surovsky</a>. Recently he was infamously in relations with the young Katerina Ulyanov, daughter of Boyar Andre Ulyanov, a rich landowner in Soludha; Lenkov ran away with Katerina against the expressed wishes of her father.</p>

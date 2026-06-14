@@ -1,4 +1,5 @@
-- 2026-06-14T0055 · Beryl Lenkov
+- 2026-06-14T1719 · Ivanova Orin
+- 2026-06-14T1642 · Beryl Lenkov
 - 2026-06-13T2136 · Janez Vajkard Valvasor
 - 2026-06-13T1821 · Pavo of Alban
 - 2026-06-13T1812 · Treaty of Uhl
@@ -24,7 +25,6 @@
 - 2026-06-10T1628 · Asper Inrates
 - 2026-06-10T1623 · Gaden
 - 2026-06-10T1352 · Valeri Temzin
-- 2026-06-10T1347 · Ivanova Orin
 - 2026-06-10T1326 · Fasmer II
 - 2026-06-10T0244 · Vasily Surovsky
 - 2026-06-10T0243 · Suzana Dragović

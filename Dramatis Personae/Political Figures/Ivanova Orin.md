@@ -2,7 +2,7 @@
 [[Grachy]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Vasily Surovsky</h4>
+    <h4 class="wiki-header">Ivanova Orin</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span> Gram of Wangrad </span>
