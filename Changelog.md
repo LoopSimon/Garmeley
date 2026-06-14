@@ -1,3 +1,5 @@
+- 2026-06-14T2048 · Zazir Brahmis
+- 2026-06-14T2030 · Fasmer II
 - 2026-06-14T1719 · Ivanova Orin
 - 2026-06-14T1642 · Beryl Lenkov
 - 2026-06-13T2136 · Janez Vajkard Valvasor
@@ -25,7 +27,6 @@
 - 2026-06-10T1628 · Asper Inrates
 - 2026-06-10T1623 · Gaden
 - 2026-06-10T1352 · Valeri Temzin
-- 2026-06-10T1326 · Fasmer II
 - 2026-06-10T0244 · Vasily Surovsky
 - 2026-06-10T0243 · Suzana Dragović
 - 2026-06-10T0243 · Odrick von Fulmer
@@ -97,4 +98,3 @@
 - 2026-06-01T1040 · Nightleaf
 - 2026-06-01T1040 · Korsfall College
 - 2026-06-01T1040 · Kherovan Inquisition
-- 2026-06-01T1040 · Karajal School of Insight
