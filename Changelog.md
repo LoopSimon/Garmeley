@@ -1,3 +1,4 @@
+- 2026-06-15T2242 · Safir
 - 2026-06-14T2054 · Valeri Temzin
 - 2026-06-14T2053 · Odrick von Fulmer
 - 2026-06-14T2052 · Jakub Ralpia
@@ -52,7 +53,6 @@
 - 2026-06-08T1456 · Order of the Iron Tower
 - 2026-06-08T1334 · Meadland
 - 2026-06-08T1324 · Auguri Dominion
-- 2026-06-08T0114 · Safir
 - 2026-06-08T0108 · Calendars
 - 2026-06-07T2306 · Urbridge
 - 2026-06-07T2220 · Wermia
