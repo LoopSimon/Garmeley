@@ -331,9 +331,11 @@
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
+            <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge</div>
             <div class="timeline-item" data-date="888PA">Treaty of Nzhun</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
+            <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
         </div>
@@ -341,6 +343,7 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Modern Age</h3>
         <div class="timeline-list">
+	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection if foiled</div>
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>

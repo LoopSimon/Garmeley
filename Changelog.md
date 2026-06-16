@@ -1,3 +1,7 @@
+- 2026-06-16T1656 · Mikael Bivaldi
+- 2026-06-16T1646 · Complete Timeline
+- 2026-06-16T1640 · Knights of the Spring
+- 2026-06-16T1633 · Adral Fidrakis
 - 2026-06-16T0216 · Beryl Lenkov
 - 2026-06-15T2242 · Safir
 - 2026-06-14T2054 · Valeri Temzin
@@ -15,7 +19,6 @@
 - 2026-06-13T2136 · Janez Vajkard Valvasor
 - 2026-06-13T1821 · Pavo of Alban
 - 2026-06-13T1812 · Treaty of Uhl
-- 2026-06-13T1702 · Complete Timeline
 - 2026-06-13T1638 · Arcanists, Scholars and Mages
 - 2026-06-13T0329 · Mørbrig
 - 2026-06-13T0116 · Sebera
@@ -95,6 +98,3 @@
 - 2026-06-01T1042 · Velvet Caravan
 - 2026-06-01T1041 · The Alchemists Guild
 - 2026-06-01T1041 · Shuyat
-- 2026-06-01T1040 · Nightleaf
-- 2026-06-01T1040 · Korsfall College
-- 2026-06-01T1040 · Kherovan Inquisition
