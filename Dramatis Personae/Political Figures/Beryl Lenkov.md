@@ -41,3 +41,4 @@
 
 </div>
 <p>Boyar Beryl Lenkov is a <a href="Grachy" class="internal-link">grachi</a> gentleman of controversial repute. A popular hunter member of high society he inherited his title and estate from his father Vladimir Lenkov when the latter died on a hunting accident in 909PA. Lenkov participated in the battles against Ukiolla following the Kulyat incident and fought in the 1st Hussars under General <a href="Vasily Surovsky" class="internal-link">Surovsky</a>. Recently he was infamously in relations with the young Katerina Ulyanov, daughter of Boyar Andre Ulyanov, a rich landowner in Soludha; Lenkov ran away with Katerina against the expressed wishes of her father.</p>
+<p>In May of 923PA, Lenkov met his end in as of yet unknown circumstances while on a hunting trip.</p>

@@ -1,3 +1,4 @@
+- 2026-06-16T0216 · Beryl Lenkov
 - 2026-06-15T2242 · Safir
 - 2026-06-14T2054 · Valeri Temzin
 - 2026-06-14T2053 · Odrick von Fulmer
@@ -9,7 +10,6 @@
 - 2026-06-14T2050 · Hynek of Forrington
 - 2026-06-14T2050 · Vasily Surovsky
 - 2026-06-14T2050 · Ivanova Orin
-- 2026-06-14T2049 · Beryl Lenkov
 - 2026-06-14T2049 · Fasmer II
 - 2026-06-14T2049 · Zazir Brahmis
 - 2026-06-13T2136 · Janez Vajkard Valvasor
