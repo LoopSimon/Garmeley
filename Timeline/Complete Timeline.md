@@ -228,7 +228,7 @@
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
             <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh"</div>
-            <div class="timeline-item" data-date="620PA">First Zuhiri Holy War begins</div>
+            <div class="timeline-item" data-date="620PA">First Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends </div>
@@ -241,7 +241,7 @@
             <div class="timeline-item" data-date="639PA">Trazvlov Consortium is founded</div>
             <div class="timeline-item" data-date="640PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
-            <div class="timeline-item" data-date="645PA">Second Zuhiri Holy War begins</div>
+            <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
@@ -264,7 +264,7 @@
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
-            <div class="timeline-item" data-date="701PA">Third Zuhiri Holy War begins</div>
+            <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
@@ -278,7 +278,7 @@
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="751PA">Fourth Zuhiri Holy War begins</div>
+            <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
             <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
@@ -289,10 +289,11 @@
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artifacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
-            <div class="timeline-item" data-date="777PA">Fifth Zuhiri Holy War begins, Great Fire of Tesegith</div>
+            <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova</div>
+            <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach, 2nd War of Elbae Aggression ends</div>
@@ -325,6 +326,7 @@
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
+            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
             <div class="timeline-item" data-date="870PA">Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
@@ -365,7 +367,7 @@
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla, discovery of Sirenna, Sack of Sunminster</div>
             <div class="timeline-item" data-date="925PA">Battle of Jestrick Fields, Entusul Uprising is put down by Emir Zazir Brahmis</div>
             <div class="timeline-item" data-date="926PA">Di-Molina Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment, International Intervention in the Garmian Civil War</div>
-            <div class="timeline-item" data-date="927PA">Hynek of Forrington is assassinated</div>
+            <div class="timeline-item" data-date="927PA">Campaign 2, Hynek of Forrington is assassinated</div>
         </div>
     </div>
 </div>

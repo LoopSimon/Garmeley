@@ -1,7 +1,7 @@
 %%
 [[Zuhurism]] 
 [[Cirinzel]]
-[[Zuhiri Holy Wars]]
+[[Zuhuri Holy Wars]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Plašato</h4>

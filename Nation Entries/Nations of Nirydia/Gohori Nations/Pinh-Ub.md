@@ -1,5 +1,5 @@
 %%
-[[Xohor]]
+[[Xolor]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Igpur</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Niryd <a href="Gohor" class="internal-link">Gohor</a></span>
+        <span>Direnni <a href="Xolor" class="internal-link">Xolor</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

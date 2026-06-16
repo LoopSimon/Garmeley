@@ -37,7 +37,7 @@
             <div class="timeline-item" data-date="Ebeli">Lord</div>
             <div class="timeline-item" data-date="Chukli">Kobold</div>
             <div class="timeline-item" data-date="Kher">Peace</div>
-            <div class="timeline-item" data-date="Orc">Qalmyr</div>
+            <div class="timeline-item" data-date="Orc">Qari</div>
             <div class="timeline-item" data-date="Anes">Elf</div>
             <div class="timeline-item" data-date="Mar">Home</div>
             <div class="timeline-item" data-date="Inkviz">Inquisitor</div>
