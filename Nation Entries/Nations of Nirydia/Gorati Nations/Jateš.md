@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Golden Chain surrounding an Olive Tree</span>
+        <span>Golden Bell-Comet</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
