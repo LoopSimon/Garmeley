@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>White Unicorn on blue ground</span>
+        <span>White Unicorn on purple ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

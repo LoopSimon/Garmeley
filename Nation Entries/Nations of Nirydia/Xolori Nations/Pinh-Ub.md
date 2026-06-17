@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Pharzin</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Direnni <a href="Xolor" class="internal-link">Xolor</a></span>
+        <span>Terenni <a href="Xolor" class="internal-link">Xolor</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

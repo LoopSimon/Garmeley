@@ -1,5 +1,8 @@
+- 2026-06-17T2120 · Garmeley
+- 2026-06-17T2112 · Trinvale
+- 2026-06-17T2047 · Vihr
+- 2026-06-16T1941 · Pinh-Ub
 - 2026-06-16T1938 · Xolor
-- 2026-06-16T1919 · Pinh-Ub
 - 2026-06-16T1919 · Igpuri Dominion
 - 2026-06-16T1918 · Pervantes
 - 2026-06-16T1918 · Complete Timeline
@@ -95,6 +98,3 @@
 - 2026-06-06T2040 · Basic Magical Theory
 - 2026-06-06T1334 · Greater Spirit
 - 2026-06-05T1726 · Othirdon
-- 2026-06-04T1351 · Zuzka
-- 2026-06-04T1143 · Giolad
-- 2026-06-03T2349 · Kherova
