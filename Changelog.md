@@ -1,3 +1,6 @@
+- 2026-06-17T2132 · Grivil
+- 2026-06-17T2127 · Turpador
+- 2026-06-17T2125 · Jeledo
 - 2026-06-17T2120 · Garmeley
 - 2026-06-17T2112 · Trinvale
 - 2026-06-17T2047 · Vihr
@@ -95,6 +98,3 @@
 - 2026-06-06T2049 · Daemon
 - 2026-06-06T2048 · The Abyss
 - 2026-06-06T2045 · The Chaotic Plane
-- 2026-06-06T2040 · Basic Magical Theory
-- 2026-06-06T1334 · Greater Spirit
-- 2026-06-05T1726 · Othirdon

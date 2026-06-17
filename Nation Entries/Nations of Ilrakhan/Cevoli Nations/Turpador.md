@@ -51,7 +51,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Crowned Anchor</span>
+        <span>Anchor under Rainbow</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

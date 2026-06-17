@@ -51,7 +51,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Burning Grapes</span>
+        <span>Burning Wine Chalice</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

@@ -20,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Laughing Mask</span>
+        <span>Head under Foxmask</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
