@@ -38,6 +38,7 @@
         <strong>Preceded by</strong>
         <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Szievek_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Szievek is one of the major Vadcy within Vihr, controlling lands in the northern Expanse, it sits between Zavlech itself and the central Grachyll.</p>

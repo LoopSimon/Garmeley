@@ -2,6 +2,9 @@
 [[Trykkerog]]
 [[Orenburg Pact]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/morbrig_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Seal of the Chapter</i></small>
+</div>
 <p>The Mørbrig Chapter, also known as the Chapter of the Gifted & the Learned of Mørbrig Isle, is an arcane Instituion of Learning and Research based on Mørbrug Isle, near Trykkerog. The Members of the Chapter usually come from Trykkerog, Nostroya and northern Urland. Noticably different from Institutions such as Korsfall College, Hevn Academy or Szievek University is that it is not beholden to any worldly power and in fact is older than all of these houses of learning and many realms in general.</p>
 <p>Members of the Chapter often wear its insignia, the Hedgehog, to signify their status and tend to be left alone in most regards when it comes to local authorities. The earliest known record of a circle of mages on Mørbrig Isle dates back all the way to the 4th century BA, making it one of the oldest human institutions dedicated to learning the occult and divining the arcane. The island itself is strictly under the control of the Chapter, with service members of the mundane part making up the only non Chapter members permanently allowed on the Island. Strong wards and seals have been woven around Mørbrig, making hostile approach via ship almost impossible.</p>
 <p>Mørbrig sends out especially trusted members to local courts they seek to influence and guide, known as High Weavers. These advisors and powerful practitioners swear loyalty to their respective overlord, but essentially always report back to the Chapter, they are yet another way it distincts itself from the richer and more popular southern institutions of learning, the Chapter often being more of a cabal than a school.</p>

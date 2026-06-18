@@ -1,4 +1,7 @@
 %% [[Gethricism]] [[Wermia]] %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Silver_Wheel_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Heraldry of the Silver Wheel</i></small>
+</div>
 <p>A paramilitary organisation founded by Gethric monks in 398PA looking to protect the pilgrimage to Iztaw throughout lost Wermia. The Knights are led by a Grand-Master who tends to reside at their High Castle in Nurk and four Paladins representing the Highest ranking knights of the order.
 During the early days of Gethricism, these warrior monks would guard the roads from Urland to Iztaw, its Paladins wearing mighty silver wheels to smite any and all demonic aberration that may linger and lurk in the Desolation of Wermia. </p>
 

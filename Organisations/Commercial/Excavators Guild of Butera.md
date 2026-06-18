@@ -2,6 +2,9 @@
 [[Cyraclion]]
 [[Paper Cities]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Butera_guild.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Seal of the Excavators Guild</i></small>
+</div>
 
 Founded at the end of the 6th century in [[Battvia]] as a support group and supply centre for adventurers looking to venture into the Ruins of Ancient [[Rakh]] after the Great Expedition.
 

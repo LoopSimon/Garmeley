@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Green Stag on Yellow Ground</span> </div>
+        <span>Garmian Skull</span> </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
@@ -33,6 +33,7 @@
         <strong>Preceded by</strong>
         <span>Riverland, Province of Garm</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Garmeley_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>South of the splintered lands of <a href="Urland" class="internal-link">Urland</a> lies the rich and peaceful Duchy of Garmeley, an independent nation profiting from arable land, rich silver mines and trade with all of its neighbours.</p>

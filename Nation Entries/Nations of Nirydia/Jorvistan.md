@@ -3,19 +3,19 @@
     <h4 class="wiki-header"></h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Holy Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span></span>
+        <span>King Meradon I</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Heridna</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Hedgehog riding on wolfsback</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -35,4 +35,5 @@
         <strong>Preceded by</strong>
         <span></span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Jorvistan_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

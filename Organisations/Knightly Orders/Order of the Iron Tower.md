@@ -2,6 +2,9 @@
 [[Trinicism]]
 [[Order of the Silver Wheel]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Iron_tower_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Banner of the Iron Tower</i></small>
+</div>
 <p>This organization, often categorized as a gethric knightly order, was founded in the aftermath of the Conclave at Trinfurt in the 8th century and seeks to uphold trinicist values.</p>
 
 <p>Named after the Iron Tower, the infamous castle in central Trinfurt at which foot local militia and heroes of the city fought of the attacking Knights of the <a href="Order of the Silver Wheel" class="internal-link">Silver Wheel</a>, this organization is decidedly apolitical and advocates for Peace in times of war, actively seeking out regions inflamed by wartime suffering to ease the life for innocent civilians and the everyman.</p>

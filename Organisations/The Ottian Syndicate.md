@@ -1,5 +1,10 @@
+%%
 [[Ott]]
 [[Artificery]]
+%%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Syndicate_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Rune of the Syndicate</i></small>
+</div>
 The Art of Artificery describes the three Schools of magical research related to Artifacts, Maintenance, Modulation and Creation, and nobody can deny the gnomes of Ott their superiority in this field.
 
 While Maintenance is common enough knowledge to be found elsewhere, Modulation is a much more complex subject to tackle and Creation is a school so occult it is basically only taught and practiced to a large extent within the Twin City itself. 

@@ -38,6 +38,7 @@
         <strong>Preceded by</strong>
         <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Torry_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Situated alongside the former wermian border, Torry is one of the major Vadcy within Vihr. While geographically the smallest Vadcy of the Realm it holds a sizeable portion of the Vihri population in its coastal settlements.</p>

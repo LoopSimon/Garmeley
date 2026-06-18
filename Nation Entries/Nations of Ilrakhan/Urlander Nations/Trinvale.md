@@ -37,6 +37,7 @@
         <strong>Preceded by</strong>
         <a href="Urland" class="internal-link">Urland</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/trinvale.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
  <p> The Trinvale Republic is situated at the southern foot of the mighty Kortopi and easily the richest and most prosperous of all the <a href="Urland" class="internal-link">Urien</a> Successor states, due to its position at the Pass of <a href="Ogul-Vosko" class="internal-link">Ogul-Vosko</a> it is the main way through with trade from <a href="Battvia" class="internal-link">Battvia</a> and the <a href="Paper Cities" class="internal-link">Buteran Gulf</a> flows into rich <a href="Garmeley" class="internal-link">Garmeley</a> and the other Towns and Cities of Urland.</p>
  <h2>People of Interest</h2>

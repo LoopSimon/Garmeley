@@ -38,6 +38,7 @@
         <strong>Preceded by</strong>
         <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/gisvale_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>It is impossible to tell the history of Meadrath without also telling the history of Gisvale, the rich farmlands around the bends of the Trinmo have seen great historic wars, Kings and Emperors and multiple civil wars, but always Giselstatt remained one of the most important cities on the subcontinent. Now the "Gate to Meadland" is ruled as an Archduchy under <a href="Meadrath" class="internal-link">Meadrath</a> and afforded a great amount of freedom, much to the dismay of its northern rival <a href="Lesmere" class="internal-link">Lesmere</a>.</p>
 

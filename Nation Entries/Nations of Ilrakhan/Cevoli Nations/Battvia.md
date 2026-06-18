@@ -44,6 +44,7 @@
             <a href="Cevolis" class="internal-link">Kingdom of Cevolis</a>
         </span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Battvia_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The largest successor state of the Kingdom of Cevolis, the Land of Battvia is one of rich farmlands and endless coasts, but the history of the Cevoli people is marked by constant infighting and wars. Pressed against the Kortopi mountains, Battvia has lost virtually all control over the rich Paper Cities of the Bay of Butera, and is involved in a century long rivalry with the Duchy of <a href="Jeledo" class="internal-link">Jeledo</a> that is is slowly but surely losing.</p>

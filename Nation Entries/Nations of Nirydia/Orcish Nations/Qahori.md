@@ -38,6 +38,7 @@
         <strong>Preceded by</strong>
         <span>Lands of Qa</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Qahorifed_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The Orcish Federation of Qahori is divided among several individual chiefdoms, often in conflict in the past, they were united by the House of Tihiok in the Qahori Federation under one leader. Excellent Seafairers, many of the orcs of the Qahori have given up the great dream of reconquering the Lost Lands of Qa and instead search for luck in the southern Oceans of Behera. The Qahori Federation is the only Nirydian country that enjoys mercantile relationships with the Ports of the Smaragd Sea. </p>

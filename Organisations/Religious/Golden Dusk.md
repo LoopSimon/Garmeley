@@ -2,6 +2,9 @@
 [[Elbae]]
 [[Elven Paragonworship]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/goldendusk_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>The Beast of Errel</i></small>
+</div>
 <p>The Priesthood of the Golden Dusk is an essential institution within the historical worship of Elven Paragons. Their primary tasks include the protection of their tombs, the preservation of history and the organization of worship, but in the modern day they also act as advisors, administrators and sometimes even political agents for the Elbae Sultant.</p>
 
 <p>The exact Origins of the Golden Dusk are unknown but they were officially declared as safeguards of the Paragon Tombs by Sultan Irater I in the early-mid 5th century PA. The precursers to the Dusk were various sects protecting and worshipping various Paragons and maintaining the tomb cities, generally made up by Drow cultists.</p>

@@ -37,6 +37,7 @@
         <strong>Preceded by</strong>
         <a href="Pravazik" class="internal-link">Empire of Pravazik</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Yokosch_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Once part of the <a href="Pravazik" class="internal-link">Pravazik</a> Empire , the great Tazamosch led his people to independence in the year 687PA. Almost exclusively populated by the simian Vanara, they fervently worship the Yari Goddess Ihisa and believe she shall one day awaken and lift their holy city into the next world. Yokosch has been invaded multiple times by the <a href="Gnoll Realms" class="internal-link">Gnolls</a>to its north but remains unbroken to this day.</p>

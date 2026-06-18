@@ -35,4 +35,5 @@
         <strong>Preceded by</strong>
         <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Weadland_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

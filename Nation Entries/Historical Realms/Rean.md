@@ -37,5 +37,6 @@
         <strong>Preceded by</strong>
         <span>N/A</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Rean_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Organized over various regional vassals, known as Princes, Rean held control over the lands surrounding the Stormy Sea, notably with the exception of the Gladewoods. The Kingdom ended in the early 7th century after a period of longwinded downfall with the last of the line of du Rean dying during the Reanport uprising of 622PA. Its traditions are alive within the <a href="Hainach" class="internal-link">Princedom of Hainach</a> and to a lesser extend the <a href="Grevenna" class="internal-link">Lordship of Grevenna</a>, which are both direct successor states of the fallen Kingdom.</p>

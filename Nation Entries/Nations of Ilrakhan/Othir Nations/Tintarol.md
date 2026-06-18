@@ -39,5 +39,6 @@
         <strong>Preceded by</strong>
         <span> <a href="Thirdonis" class="internal-link">Thirdonis</a></span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tintarol_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
     </div>
 

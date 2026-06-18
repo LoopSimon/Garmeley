@@ -44,6 +44,7 @@
         <strong>Preceded by</strong>
         <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Mead_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Dominated by two mighty Rivers, the Mead in the west and the Trinmo to the east, the lands of the Meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world. The capital of Meadrath, Korsfall, is one of the largest cities in the known world with a population of ca 110.000 citizens.</p>

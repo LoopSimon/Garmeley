@@ -42,5 +42,6 @@
         <strong>Preceded by</strong>
         <span>Amani Federations</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Zepria.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Zeprian Empire was a Gorati state that emerged from the Kingdom of Zepria, it was established in 491PA by <a href="Suzana Dragović" class="internal-link">Suzana the Cruel</a>, who significantly expanded the Kingdom and proclaimed the Empire. During the reign of Suzana and her immediate heirs Zepria became one of the most powerful nations in Nirydia, stretching from the northern Drizun Peninsula to the Shirin of the <a href="Twintail Imperium" class="internal-link">Twintail</a>. Its collapse almost 3 centuries later led to the formation of the modern day Amani Nation States.</p>

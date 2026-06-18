@@ -41,6 +41,7 @@
             <a href="Urland" class="internal-link">Urland</a>
         </span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Uhl_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The Free City of Uhl, once part of the now fallen realm of <a href="Urland" class="internal-link">Urland</a>, is a Trading City on the Gullsong Sea and one of the "three great Ports" alongside Sallesand and Trazlov. Uhl is one of the largest cities in the entire known world with a population of around 130.000.</p> 

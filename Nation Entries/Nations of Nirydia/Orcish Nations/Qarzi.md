@@ -38,6 +38,7 @@
         <strong>Preceded by</strong>
         <span>Lands of Qa</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Qarzi_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> During the Elbae Sultanates Conquests of Qa, the ancestors of the Qarzi tribe of today collaborated with the elven invaders and were thus granted autonomous rule after the end of the conquests. Hated and cursed by their Qahori Cousins, they nevertheless enjoy a prosperous and safe existence as trade partners to the mighty Sultanate, being the worlds largest producer of coffee, a good much desired in the western lands of Ilrakhan. </p>

@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Sun within Raindrop</span> </div>
+        <span>Reanport Quadrant</span> </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
@@ -40,6 +40,7 @@
         <strong>Preceded by</strong>
         <a href="Rean" class="internal-link">Kingdom of Rean</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Reanport2_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The maritime Republic of Reanport is undergoing a golden age of mercantile prosperity, following the <a href="Treaty of Danipol" class="internal-link">Danipol Treaty</a> and holds the Swamplands between the Pilv and the Greenglade Forest, as well as the various islands around the Horad Isthmus. A history of autonomy, trade and revolutions has lead to one of the most economically dominant but also socially equal countries in the known world.</p>

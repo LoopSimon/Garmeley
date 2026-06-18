@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Large Oak on a Hill</span>
+        <span>Pehki Grand-Reindeer in a Forest</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -39,6 +39,7 @@
         <strong>Preceded by</strong>
         <a href="Giantsrul" class="internal-link">Giantsrul</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/ukiolla_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>The Principalities of Ukiolla are deeply connected to the old traditions of the pehki tribes and the lands of the Aeldveil. Ukiolla has been engaged in constant conflict with its southern neighbour in Grachy but enjoys a healthy relationship with goblin traders from the Mistspires and the <a href="Juelfluk" class="internal-link">Jueli</a> Sailors.  </p>

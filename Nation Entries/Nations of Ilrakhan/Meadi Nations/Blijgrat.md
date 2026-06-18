@@ -37,6 +37,7 @@
         <strong>Preceded by</strong>
         <a href="Weadland" class="internal-link">Kingdom of Weadland</a> 
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Blijgrat_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> The weadi cities north of the Trinwood have united in a free and liberal Republic, faced with the historic thread of Raiders and Invaders from across the Bloody Sea and the dominant might of the Kingdom of <a href="Meadrath" class="internal-link">Meadrath</a> only in unity, with ingenuity, shrewd mercantilism and elegant diplomacy can this League of Cities hope to survive as an autonomous Home for the Weadi peoples.</p>
 

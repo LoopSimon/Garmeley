@@ -38,6 +38,7 @@
         <strong>Preceded by</strong>
         <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Selbia_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Selbia is one of the major Vadcy within Vihr, it holds parts of the Expanse and is the southernmost Vadcy of the Realm, with a strong military culture. </p>
