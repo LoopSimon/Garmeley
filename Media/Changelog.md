@@ -1,4 +1,3 @@
-- 2026-06-18T0227 · Changelog
 - 2026-06-18T0227 · Excavators Guild of Butera
 - 2026-06-18T0226 · The Ottian Syndicate
 - 2026-06-18T0226 · The Alchemists Guild
@@ -98,3 +97,4 @@
 - 2026-06-16T1905 · Nirydia
 - 2026-06-16T1905 · Mogyr
 - 2026-06-16T1905 · Krestasi
+- 2026-06-16T1905 · Glossary
