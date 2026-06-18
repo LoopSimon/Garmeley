@@ -1,3 +1,7 @@
+- 2026-06-18T0536 · Byamon
+- 2026-06-18T0535 · Hanshi
+- 2026-06-18T0516 · Yorgos
+- 2026-06-18T0232 · Glossary
 - 2026-06-18T0227 · Changelog
 - 2026-06-18T0227 · Excavators Guild of Butera
 - 2026-06-18T0226 · The Ottian Syndicate
@@ -94,7 +98,3 @@
 - 2026-06-16T1918 · Complete Timeline
 - 2026-06-16T1917 · Zuhurism
 - 2026-06-16T1907 · Qalmyr
-- 2026-06-16T1906 · Orc
-- 2026-06-16T1905 · Nirydia
-- 2026-06-16T1905 · Mogyr
-- 2026-06-16T1905 · Krestasi
