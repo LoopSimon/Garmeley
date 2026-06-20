@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Green Oak on White Ground</span>
+        <span>Two Hares holding up a Tome</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
