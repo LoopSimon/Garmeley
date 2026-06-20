@@ -1,6 +1,9 @@
 %%
 [[Gethricism]]
 [[Reanport]]
+[[Rean]]
+[[Antigor I]]
+[[Wars of Elbae Aggression]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Lordship of Grevenna</h4>
