@@ -40,6 +40,10 @@
             <a href="Rakh" class="internal-link">Rakhian Empire</a>
         </span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span></span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hainach1_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> Nestled against the slopes of the Cloudscratchers lies the Princedom of Hainach, one of the last remnants of what was once the old Kingdom of <a href="Rean" class="internal-link">Rean</a>. Now an Eyalet of the Sultanate and forced to open its gates to elven influences, the border realm is currently one of the only settled nation actively attempting to reclaim parts of the Wasteland of <a href="Rakh" class="internal-link">Rakh</a>. </p>

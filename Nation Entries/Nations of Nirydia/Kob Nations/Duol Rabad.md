@@ -39,6 +39,10 @@
             
         </span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span></span>
+    </div>
 </div>
 <p>Beyond the Citadels and Cities of <a href="Kherova" class="internal-link">Kherova</a> are the Steppes of Nirydia, and within it the larger and lesser Khagantes and Tribes of the Western <a href="Kobold" class="internal-link">Kobolds</a>.
 While the Great Khans of the Steppe have risen and fallen quickly in history, the strongest ones have always left a mark behind on the history of the eastern lands.

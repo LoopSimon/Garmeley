@@ -13,11 +13,11 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Aviv</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Aviv</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

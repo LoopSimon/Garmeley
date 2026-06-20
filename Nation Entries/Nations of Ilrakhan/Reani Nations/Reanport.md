@@ -40,6 +40,10 @@
         <strong>Preceded by</strong>
         <a href="Rean" class="internal-link">Kingdom of Rean</a>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span></span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Reanport2_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 

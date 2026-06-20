@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>879PA, Wangrad</span>
+        <span>867PA, Wangrad</span>
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -21,7 +21,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>47</span>
+        <span>60</span>
     </div>
     <div class="wiki-row">
         <strong>Issue</strong>

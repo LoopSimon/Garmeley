@@ -37,6 +37,10 @@
         <strong>Preceded by</strong>
         <span><a href="Auguri Dominion" class="internal-link">Auguri Dominion</a></span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span></span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Zmalig_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Situated north of Whisperhills along the western Bloody Strait, Zmalig exists as a unique cultural melting pot between the Weadi and Meadi peoples of the mainland, as well as various Bykmali immigrants from Trykkerog. It is a Trinicist Bishopric established by the 4000 faithful, a group of pilgrims that sought to tame these harsh climates, in the year 710 P.</p>

@@ -38,6 +38,10 @@
         <strong>Preceded by</strong>
         <span></span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span></span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Twintail_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The largest realm in the known world, as far as population is concerned at least, is the Imperium of the Shirin set upon the banks of the Mondi River in central Nirydia. Currently in the Yoroy Period, sometimes referred to as the "golden Yoroy" they are infamous for their extensive bureaucracy and administrative structures, modelled after theological principles of ancient Lakalism. The Empire borders the <a href="Niryd Steppe" class="internal-link">niryd Steppe</a> to its southwest and is politically opposed by Zuhirist States to west, although it maintains amicable relations with the pagri remnants of the splintered Zelfir Empire on its southern border.</p>

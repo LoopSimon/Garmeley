@@ -41,6 +41,10 @@
         <strong>Preceded by</strong>
         <a href="Rean" class="internal-link">Kingdom of Rean</a>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span></span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grivil_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> What started as a Haven for bandits, mercenaries and outlaws from surrounding Realms within the refuge of the Whisperhills has become a formidable City of independant and mostly free citizens near the rakhian Wastelands, along with <a href="Hainach" class="internal-link">Hainach</a> they are actively attempting to recolonize the wastes from the mainland.
