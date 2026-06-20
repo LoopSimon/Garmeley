@@ -83,7 +83,7 @@ A Urien Researcher mainly concerned with Leygrid Theory, she is most famous for 
 ### **Alfred the Younger**
 The Bishop of Szivek during the later 9th century. Alfred was a progressive bishop for Gethricist standards and made efforts to connect the clerical communities of Vihr with the arcane scholars of the west. His works on the Arcane and Divine Axes are internationally respected and used for entry level education into magical theory. 
 ***
-### **Viccolo di Molina**
+### **Viccolo di Pora**
 This Cevoli Arcanist is most infamous for his rejections of not only Eastern Gethricism but also Trinicist teachings that have led to a greater anti-gethric movement within the academic community, infiltrating even prominent Institutions like Korsfall College.
 ***
 ### **Carassa al-Kael**

@@ -37,4 +37,12 @@
         <strong>Preceded by</strong>
         <span>Vihri, Wermian and Grachi Tribes</span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>approximatly 130PA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>241PA</span>
+    </div>
 </div>

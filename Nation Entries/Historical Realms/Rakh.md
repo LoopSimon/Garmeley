@@ -1,4 +1,4 @@
-[[Rakhian Mythology]]
+%% [[Rakhian Mythology]] %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Rakhian Empire</h4>
     <div class="wiki-row">
@@ -34,6 +34,14 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span>N/A</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>751BA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>0PA</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/rakh_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

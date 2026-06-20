@@ -1,4 +1,4 @@
-[[Auguri Dominion]][[Blijgrat]]
+[[Auguri Dominion]][[Blijgrat]]%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Weadland</h4>
     <div class="wiki-row">
@@ -34,6 +34,14 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
+    </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>296PA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>549PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Weadland_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

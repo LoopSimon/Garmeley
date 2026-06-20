@@ -54,5 +54,5 @@
 <p>Fasmer I, 655PA - 781PA</p>
 <p>Arbalas I, 781PA - 844PA</p>
 <p>Irater III, 844PA - 897PA</p>
-<p>Fasmer II, 897PA - current</p>
+<p><a href="Fasmer II class="internal-link">Fasmer II</a>, 897PA - current</p>
 

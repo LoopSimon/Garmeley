@@ -1,4 +1,7 @@
 %%
+[[Aeldcult]]
+[[Ukiolla]]
+[[Giantsrul]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Principality of Roygviil</h4>
@@ -35,5 +38,13 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <a href="Giantsrul" class="internal-link">Giantsrul</a>
+    </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>unknown</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>690PA</span>
     </div>
 </div>

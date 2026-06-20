@@ -32,7 +32,14 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>
-        </span>
+        <span> </span>
+    </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>unknown, likely 3rd-2nd century BA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>629PA</span>
     </div>
 </div>

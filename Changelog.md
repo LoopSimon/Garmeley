@@ -1,4 +1,25 @@
-- 2026-06-18T0555 · Naigan
+- 2026-06-20T1256 · Viccolo di Pora
+- 2026-06-20T1256 · Carassa al-Kael
+- 2026-06-19T2346 · Wermia
+- 2026-06-19T2345 · Weadland
+- 2026-06-19T2343 · Vihrmen Federation
+- 2026-06-19T2343 · Urland
+- 2026-06-19T2342 · Thirdonis
+- 2026-06-19T2341 · Spursley
+- 2026-06-19T2340 · Roygviil
+- 2026-06-19T2339 · Rean
+- 2026-06-19T2339 · Rakh
+- 2026-06-19T2338 · Palmunia
+- 2026-06-19T2338 · Complete Timeline
+- 2026-06-19T2337 · Naigan
+- 2026-06-19T2336 · High Vendil
+- 2026-06-19T2336 · Halgrach
+- 2026-06-19T2334 · Cyraclion
+- 2026-06-19T2330 · Cevolis
+- 2026-06-19T2329 · Auguri Dominion
+- 2026-06-19T1103 · Rulers of the Beheran Elves
+- 2026-06-19T1101 · Astral Realm
+- 2026-06-19T1012 · Arcanists, Scholars and Mages
 - 2026-06-18T0544 · Hanshi
 - 2026-06-18T0543 · Byamon
 - 2026-06-18T0543 · Koshtir
@@ -77,24 +98,3 @@
 - 2026-06-18T0124 · Paper Cities
 - 2026-06-18T0123 · Jeledo
 - 2026-06-18T0123 · Battvia
-- 2026-06-18T0123 · Bilsworth
-- 2026-06-18T0122 · Yokosch
-- 2026-06-18T0122 · Pravazik
-- 2026-06-18T0121 · Tusul
-- 2026-06-18T0121 · Iz-Almadus
-- 2026-06-18T0121 · Elbae
-- 2026-06-18T0121 · Wermia
-- 2026-06-18T0120 · Weadland
-- 2026-06-18T0120 · Urland
-- 2026-06-18T0119 · Spursley
-- 2026-06-18T0119 · Rean
-- 2026-06-18T0118 · Rakh
-- 2026-06-18T0117 · Halgrach
-- 2026-06-18T0116 · Cevolis
-- 2026-06-18T0114 · Auguri Dominion
-- 2026-06-16T1941 · Pinh-Ub
-- 2026-06-16T1938 · Xolor
-- 2026-06-16T1919 · Igpuri Dominion
-- 2026-06-16T1918 · Pervantes
-- 2026-06-16T1918 · Complete Timeline
-- 2026-06-16T1917 · Zuhurism

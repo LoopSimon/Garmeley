@@ -38,6 +38,14 @@
         <strong>Preceded by</strong>
         <span>N/A</span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>1805BA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>1098BA</span>
+    </div>
 </div>
 <p>The High Vendili civilization was a historically significant bronze age human civilization located in the Ud-Vendili Plains. It is noteworthy for its extremely high and relatively short economic and societal boom, followed by a fast collapse and the ultimate transformation of the entire landscape of the Ud-Vendili.</p>
 <h2>Geography</h2>

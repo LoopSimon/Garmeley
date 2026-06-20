@@ -35,6 +35,14 @@
         <span>Grachi Tribes</span>, 
             <a href="Roygviil" class="internal-link">Roygviil Principality</a>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>299PA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>835PA</span>
+    </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Halgrach_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>

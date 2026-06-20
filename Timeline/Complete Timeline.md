@@ -31,8 +31,9 @@
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
-	        <div class="timeline-item" data-date="2280BA">Earliest evidence for the city of Palmunis</div>
+	        <div class="timeline-item" data-date="2350BA">Earliest evidence for the city of Palmunis</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
+	        <div class="timeline-item" data-date="2200BA">Earliest evidence for the city of Parkymin</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
@@ -321,7 +322,7 @@
             <div class="timeline-item" data-date="847PA">Grivil Council forms</div>
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate, White Wars begin in Behera</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
-            <div class="timeline-item" data-date="856PA">Viccolo di Molina renounces Gethricism</div>
+            <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
             <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
@@ -366,7 +367,7 @@
             <div class="timeline-item" data-date="923PA">Campaign 1, Garmian Civil War breaks out</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla, discovery of Sirenna, Sack of Sunminster</div>
             <div class="timeline-item" data-date="925PA">Battle of Jestrick Fields, Entusul Uprising is put down by Emir Zazir Brahmis</div>
-            <div class="timeline-item" data-date="926PA">Di-Molina Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment, International Intervention in the Garmian Civil War</div>
+            <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment, International Intervention in the Garmian Civil War</div>
             <div class="timeline-item" data-date="927PA">Campaign 2, Hynek of Forrington is assassinated</div>
         </div>
     </div>

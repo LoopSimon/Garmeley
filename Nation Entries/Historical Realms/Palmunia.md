@@ -34,4 +34,12 @@
         <strong>Preceded by</strong>
         <span>N/A</span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>first record ca. 2350BA </span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>560BA</span>
+    </div>
 </div>
