@@ -1,4 +1,5 @@
-- 2026-06-20T2236 · Grevenna
+- 2026-06-20T2248 · Ahrmiz Saceren
+- 2026-06-20T2240 · Grevenna
 - 2026-06-20T2228 · Complete Timeline
 - 2026-06-20T2223 · Antigor I
 - 2026-06-20T2035 · Aeldcult
@@ -97,4 +98,3 @@
 - 2026-06-18T0232 · Glossary
 - 2026-06-18T0227 · Changelog
 - 2026-06-18T0227 · Excavators Guild of Butera
-- 2026-06-18T0226 · The Ottian Syndicate
