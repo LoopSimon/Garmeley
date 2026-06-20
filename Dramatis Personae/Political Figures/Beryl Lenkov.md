@@ -20,8 +20,8 @@
         <span>927PA, Grachwoods</span>
     </div>
     <div class="wiki-row">
-        <strong>Age</strong>
-        <span>38</span>
+        <strong>Cause of Death</strong>
+        <span>Severe Head Trauma, <br> 38 years of age</span>
     </div>
     <div class="wiki-row">
         <strong>Issue</strong>

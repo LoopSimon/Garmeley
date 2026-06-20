@@ -18,7 +18,7 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>alive</span>
+        <span>alive (comatose)</span>
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
