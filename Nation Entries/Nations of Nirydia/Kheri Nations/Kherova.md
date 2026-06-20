@@ -115,7 +115,7 @@
 
 <hr class="wiki-hr">
 <h3>Fall of Kulum</h3>
-<p>In the Year 820PA the centuries old port City of Kulum, access point to Pilvian Gulf and all southern trade, gave rise to one of the most infamous Arcanists in known history: Ahrmiz Saceren also known as Ahrmiz the Conjurer.</p>
+<p>In the Year 820PA the centuries old port City of Kulum, access point to Pilvian Gulf and all southern trade, gave rise to one of the most infamous Arcanists in known history: <a href="Ahrmiz Saceren" class="internal-link">Ahrmiz Saceren</a> also known as Ahrmiz the Conjurer.</p>
 <p>His cult renounced the Kethricist principles and more or less enslaved the city, abusing a Crisis of government in Kher.</p>
 <p>Ahrmiz ruled Kulum with fear but also a promise of worldly power, gathering a surprising amount of followers around him; it was only due to a party of brave heroes and the actions of the empowered <a href="Kherovan Inquisition" class="internal-link">Kherovan Inquisition</a> that what remained of Kulum could be freed, and although the Cult itself split apart and survived only in hiding, rumours of Ahrmiz's promised resurrection through occult means still persist.</p>
 <p>The Inquisition ruled the city lost to the lingering curses and the Kherovan Government sponsored the settlement of New Kulum which grew rapidly in the last century.</p>

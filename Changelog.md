@@ -1,5 +1,7 @@
+- 2026-06-20T2250 · Basic Magical Theory
+- 2026-06-20T2250 · Grevenna
+- 2026-06-20T2249 · Kherova
 - 2026-06-20T2248 · Ahrmiz Saceren
-- 2026-06-20T2240 · Grevenna
 - 2026-06-20T2228 · Complete Timeline
 - 2026-06-20T2223 · Antigor I
 - 2026-06-20T2035 · Aeldcult
@@ -29,7 +31,6 @@
 - 2026-06-20T1400 · Rha-Gis
 - 2026-06-20T1359 · Kareli Hierarchy
 - 2026-06-20T1359 · Duol Rabad
-- 2026-06-20T1358 · Kherova
 - 2026-06-20T1358 · Azuvke
 - 2026-06-20T1358 · Zepria
 - 2026-06-20T1357 · Ruginë
@@ -97,4 +98,3 @@
 - 2026-06-18T0516 · Yorgos
 - 2026-06-18T0232 · Glossary
 - 2026-06-18T0227 · Changelog
-- 2026-06-18T0227 · Excavators Guild of Butera
