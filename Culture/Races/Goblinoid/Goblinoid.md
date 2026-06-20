@@ -1,4 +1,4 @@
-Goblin
+also known as Goblin,
 
 Goblins are of small stature but with great minds and a strong survival instinct, these dwellers of the underground are perhaps the only race in the world who has adapted to life in the darkness of the Underworld more than the Mountain loving Dwarves.
 
