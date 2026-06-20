@@ -246,11 +246,13 @@
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
-            <div class="timeline-item" data-date="668PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
-            <div class="timeline-item" data-date="671PA"> Battle of Verivale, End of the Luchun Khaganate</div>
+            <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
+            <div class="timeline-item" data-date="660PA">Yellow War begins</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
+            <div class="timeline-item" data-date="668PA">Yellow War ends, Peace at Kulum</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
+            <div class="timeline-item" data-date="671PA"> Battle of Verivale, End of the Luchun Khaganate</div>
             <div class="timeline-item" data-date="674PA">Coronation of Gildher I and Unification of Meadrath</div>
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
