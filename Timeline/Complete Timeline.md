@@ -192,7 +192,7 @@
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
-            <div class="timeline-item" data-date="510PA">Kulum is founded by Grevennan and Kherovan Settlers</div>
+            <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>
             <div class="timeline-item" data-date="512PA">Last sighting of Rasmur at Farsen Peak</div>
             <div class="timeline-item" data-date="516PA">Great Raalbrug Fire</div>

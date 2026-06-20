@@ -1,9 +1,11 @@
+- 2026-06-20T2128 · Antigor I
+- 2026-06-20T2104 · Complete Timeline
+- 2026-06-20T2035 · Aeldcult
 - 2026-06-20T1835 · Bar-Dilian
 - 2026-06-20T1833 · Plysfir
 - 2026-06-20T1831 · Parniva
 - 2026-06-20T1830 · Loomman
 - 2026-06-20T1826 · Lempo
-- 2026-06-20T1820 · Aeldcult
 - 2026-06-20T1815 · Zuhurism
 - 2026-06-20T1812 · Fey
 - 2026-06-20T1631 · Goblinoid
@@ -79,7 +81,6 @@
 - 2026-06-19T2339 · Rean
 - 2026-06-19T2339 · Rakh
 - 2026-06-19T2338 · Palmunia
-- 2026-06-19T2338 · Complete Timeline
 - 2026-06-19T2337 · Naigan
 - 2026-06-19T2336 · High Vendil
 - 2026-06-19T2336 · Halgrach
@@ -97,4 +98,3 @@
 - 2026-06-18T0227 · Changelog
 - 2026-06-18T0227 · Excavators Guild of Butera
 - 2026-06-18T0226 · The Ottian Syndicate
-- 2026-06-18T0226 · The Alchemists Guild

@@ -20,7 +20,7 @@ The Splintering would never heal and even to this day while first druid Tarja Ro
 
 Following the Burning of the Alltree and the beginning of the still ongoing Great Eastern War, between the newly established Republic of Grachy and the Ukiollan Principality, the Aeldcircle officially has taken the side of the Pehki people and Ukiolla, fighting amongst them against the republic. However the remaining roymer within Grachy that still resist, as well as certain extremely militant circles consider both the traditionalist Ukiolla and Aeldcircles to be traitors to their people and the land itself, even though they had now joined their fight out of arguably selfish reasons.
 
-<h2>Revered Spirits & Fey within Aeld Traditions</h2>
+<h2>Revered Spirits & Deities within Aeld Traditions</h2>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/father.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Ferrki Livslenker</i></small>
 </div>
