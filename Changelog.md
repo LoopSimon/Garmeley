@@ -1,3 +1,6 @@
+- 2026-06-20T2253 · Unliving
+- 2026-06-20T2252 · Elemental
+- 2026-06-20T2252 · Zuzka
 - 2026-06-20T2250 · Basic Magical Theory
 - 2026-06-20T2250 · Grevenna
 - 2026-06-20T2249 · Kherova
@@ -95,6 +98,3 @@
 - 2026-06-18T0544 · Hanshi
 - 2026-06-18T0543 · Byamon
 - 2026-06-18T0543 · Koshtir
-- 2026-06-18T0516 · Yorgos
-- 2026-06-18T0232 · Glossary
-- 2026-06-18T0227 · Changelog
