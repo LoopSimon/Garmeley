@@ -1,4 +1,6 @@
-- 2026-06-20T1638 · Fey
+- 2026-06-20T1820 · Aeldcult
+- 2026-06-20T1815 · Zuhurism
+- 2026-06-20T1812 · Fey
 - 2026-06-20T1638 · Plysfir
 - 2026-06-20T1636 · Parniva
 - 2026-06-20T1635 · Lempo
@@ -96,5 +98,3 @@
 - 2026-06-18T0227 · Excavators Guild of Butera
 - 2026-06-18T0226 · The Ottian Syndicate
 - 2026-06-18T0226 · The Alchemists Guild
-- 2026-06-18T0225 · Mørbrig
-- 2026-06-18T0225 · Korsfall College

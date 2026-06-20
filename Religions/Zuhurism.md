@@ -1,5 +1,5 @@
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/pagripriest.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-<small><i>Zepri Priestess of Pen-Zuhur</i></small>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Penzuhur.jpeg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Mural of Pen Zuhur at the Vimgalab Monsis</i></small>
 </div>
 
 Often also referred to as "Pagrinism" or in the southern dialect "Zuhirism" is a monotheistic religion that comprises the collective spiritual, cultural and legal traditions of the Pagri people of eastern Nirydia, it is the largest religion on the subcontinent and a fervent faith that has many militant aspects.
@@ -8,7 +8,9 @@ Among the worlds oldest organized faiths, its adherents worship a benevolent and
 Originating in the early 7th century BA when the then nomadic Pagri were first known to worship Pen Zuhur, which in ancient Pagri literally translates to "Lord of all that exists", its worship developed into a more organised faith over the following centuries and is now a primary religion on the Nirydian subcontinent, with many nations and groups spreading the faith through war.
 
 Notably while militant, Zuhurism rejects many forms of racist ideologies that are often inherit in similar traditions and while originally a human cult, is now practiced by a variety of species found on the subcontinent and beyond.
-
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/pagripriest.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Gorati Priestess of Pen-Zuhur</i></small>
+</div>
 Zuhurist teachings are codified within the Mandukh as a collection of religious laws, histories and teachings, sometimes referred to as the holy text or the mandukhi scriptures, named after Ineria Mandukh Gilraman who is often seen as the most important prophets within the religion and wrote the "Six ways", the largest section of the Mandukh that discusses the nature of the world and the soul.
 
 Zuhurists sometimes are referred to as Sun Worshippers or colloquially "Yellow Eyes" due to their practice of prayer where they always face the Sun, which is believed to be the home of Zuhur who will emerge from it during the final days and embrace his children, bringing those who served him faithfully to an eternal afterlives.

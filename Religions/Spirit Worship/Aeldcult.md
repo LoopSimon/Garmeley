@@ -21,8 +21,14 @@ The Splintering would never heal and even to this day while first druid Tarja Ro
 Following the Burning of the Alltree and the beginning of the still ongoing Great Eastern War, between the newly established Republic of Grachy and the Ukiollan Principality, the Aeldcircle officially has taken the side of the Pehki people and Ukiolla, fighting amongst them against the republic. However the remaining roymer within Grachy that still resist, as well as certain extremely militant circles consider both the traditionalist Ukiolla and Aeldcircles to be traitors to their people and the land itself, even though they had now joined their fight out of arguably selfish reasons.
 
 <h2>Revered Spirits & Fey within Aeld Traditions</h2>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/father.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Ferrki Livslenker</i></small>
+</div>
 <p>The Aeld</p>
 	the land itself in its entirety, the will of trees and rivers, the great host at whos table we dine, the endless grove. There are a thousand titles for the greater being that gives life and death meaning and it stands at the centre of worship.
+
+<p>Ferrki</p>
+	The Livslenker, Shepard of men, the first Druid, Peacespeker: Ferrki has many names and is revered as a protector of family and children and a walking avatar of the bond between mortals and the Aeld.
 
 <p>Otso</p>
 	mythological King of Giant and Bear, Otso is usually associated with the different facets of strength, both physical might, mental fortitude and communal effort.
