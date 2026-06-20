@@ -6,6 +6,7 @@
 [[Bar-Dilian]]
 [[Loomman]]
 [[Parniva]]
+[[Plysfir]]
 %%
 <p>The Term Fey is a general catch-all term describing all manner of creatures present within the spiritual and material realm at the same time. Within certain traditions they are worshiped or feared as supernatural guides or antagonists, sometimes even referred to as Gods. Due to their nature they often act as emissaries from the spiritual to the material realm but are not bound to the same forces spiritual beings such as the Greater Spirits are, often showing much more mortal traits and clear personalities. Some regions of the World seem to be more or less prone to Fey but in reality this is likely owed to the environments preferred by the Fey to materialize in, as they often show a disdain to civilization building and urban or artificial environments. Fey often influence and manipulate mortals, especially so with the so called "Greater Fey" that have been worshiped in cults and religions throughout history and often get mistaken as spirits.</p>
 <h4>Known Greater Fey</h4>
@@ -17,6 +18,9 @@
 <p>Primarily associated with Trykkerog and Nostroya.</p>
 </h6><a href="Parniva" class="internal-link">Parniva</a></h6>
 <p>Parniva is "native" to the lands of the Stormy Sea and old Rean, having been seen in modern day Hainach, Garmeley & Grevenna.</p>
+
+</h6><a href="Plysfir" class="internal-link">Plysfir</a></h6>
+<p>With a preference to similar regions, Plysfir is the immortal rival of Parniva.</p>
 
 </h6><a href="Yari" class="internal-link">Yari</a> as Fey</h6>
 <p>A common theory is that the Beheran Yari, supernatural and immortal beings often worshiped as gods, are in reality Fey. Although there are no reports of them simply vanishing or disappearing into the spiritual realm. Some Yari are also the Centrepoint's for entire civilizations and political structures, residing within the apex of massive cities, which also goes against the argument for their fey nature.</p>
