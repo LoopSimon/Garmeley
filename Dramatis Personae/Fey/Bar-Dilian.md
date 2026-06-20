@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Domain</strong>
-        <span>Melancholy, Longing, <br>Sadness, Despondency </span>
+        <span>Melancholy, Longing, <br>Sadness, Undeath </span>
 	    </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Bardilian.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
