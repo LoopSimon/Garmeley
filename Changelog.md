@@ -1,3 +1,7 @@
+- 2026-06-21T2236 · Urland
+- 2026-06-21T2234 · Rakh
+- 2026-06-21T2223 · Cyraclion
+- 2026-06-21T2212 · Cevolis
 - 2026-06-21T2207 · Merryl Bradovic
 - 2026-06-21T2016 · Zurán Barbeshvili
 - 2026-06-21T1815 · Loomman
@@ -80,18 +84,14 @@
 - 2026-06-19T2346 · Wermia
 - 2026-06-19T2345 · Weadland
 - 2026-06-19T2343 · Vihrmen Federation
-- 2026-06-19T2343 · Urland
 - 2026-06-19T2342 · Thirdonis
 - 2026-06-19T2341 · Spursley
 - 2026-06-19T2340 · Roygviil
 - 2026-06-19T2339 · Rean
-- 2026-06-19T2339 · Rakh
 - 2026-06-19T2338 · Palmunia
 - 2026-06-19T2337 · Naigan
 - 2026-06-19T2336 · High Vendil
 - 2026-06-19T2336 · Halgrach
-- 2026-06-19T2334 · Cyraclion
-- 2026-06-19T2330 · Cevolis
 - 2026-06-19T2329 · Auguri Dominion
 - 2026-06-19T1103 · Rulers of the Beheran Elves
 - 2026-06-19T1101 · Astral Realm
