@@ -1,4 +1,5 @@
-- 2026-06-20T2253 · Unliving
+- 2026-06-21T1815 · Loomman
+- 2026-06-21T0145 · Unliving
 - 2026-06-20T2252 · Elemental
 - 2026-06-20T2252 · Zuzka
 - 2026-06-20T2250 · Basic Magical Theory
@@ -11,7 +12,6 @@
 - 2026-06-20T1835 · Bar-Dilian
 - 2026-06-20T1833 · Plysfir
 - 2026-06-20T1831 · Parniva
-- 2026-06-20T1830 · Loomman
 - 2026-06-20T1826 · Lempo
 - 2026-06-20T1815 · Zuhurism
 - 2026-06-20T1812 · Fey
