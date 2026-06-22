@@ -42,14 +42,14 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span></span>
+        <span>800PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Paper_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 
 <h1>History</h1>
-<p>Almost 150 years ago, Prince Guido II “the Lame” of Battvia lost the lands of the Buteran Gulf and control over the three Cities in what is now known as the Battvian Civil war of 792 PA.
+<p>Almost 150 years ago, Prince Guido II “the Lame” of Battvia lost the lands of the Buteran Gulf and control over the three Cities in what is now known as the Battvian Civil war of 792-800PA.
 
 Battvia had long been enjoying the influx of trade and travel into the Gulf from all over the Continent owed due to the discoveries of the Great Expedition into Rakh an the Monopoly of all such ventures held by the Buterian Guild and Guido's Grandfather, Prince Anselmo I, had signed the so called “Great Privilege” which granted the Cities of Battvia great autonomy and influence on national and local politics in exchange for increased taxation in the wake of the Great Expedition.
 

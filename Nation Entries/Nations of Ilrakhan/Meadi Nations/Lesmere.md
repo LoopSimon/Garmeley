@@ -2,6 +2,7 @@
 [[Trinicism]]
 [[Meadrath]]
 [[Blijgrat]]
+[[Baeling Empire]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Lesmere</h4>
@@ -37,11 +38,11 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>
+        <span><a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>, <br> <a href="Baeling Empire">Baeling Empire</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span></span>
+        <span>591PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Lesmere_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

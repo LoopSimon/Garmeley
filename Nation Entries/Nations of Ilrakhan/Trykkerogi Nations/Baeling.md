@@ -2,6 +2,7 @@
 [[Gethricism]]
 [[Juelfluk]]
 [[Vignasoya]]
+[[Baeling Empire]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Baeling Kingdom</h4> <div class="wiki-row">
@@ -36,7 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Baeling Empire</span>
+        <span><a href="Baeling Empire">Baeling Empire</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

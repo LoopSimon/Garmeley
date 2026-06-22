@@ -152,6 +152,7 @@
             <div class="timeline-item" data-date="276PA">Heximar the Unlit is slain by Gismar</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
+            <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="288PA">Wrath of Isara hits Othirdon</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
@@ -173,6 +174,7 @@
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
+            <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
@@ -199,7 +201,9 @@
             <div class="timeline-item" data-date="517PA">Baeling Empire is declared, conversion of Trykkerog</div>
             <div class="timeline-item" data-date="518PA">Siege of Sulbra-Kol ends</div>
             <div class="timeline-item" data-date="519PA">Antigor of Kisnau declares Grevennen Independence</div>
+            <div class="timeline-item" data-date="520PA">The Duke of Battvia declares himself Prince, formation of modern day Battvia as a Kingdom</div>
             <div class="timeline-item" data-date="521PA">Destruction of Qa, end of Qahori Subjugation</div>
+            <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
@@ -215,10 +219,12 @@
         <h3>Age of Steel</h3>
         <div class="timeline-list">
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
+            <div class="timeline-item" data-date="582PA">Kobolds form Rha-Gis in the Limsul Peaks</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmud</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
+            <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon</div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
@@ -268,6 +274,7 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
+            <div class="timeline-item" data-date="703PA">Splintering of Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
@@ -280,6 +287,7 @@
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
+            <div class="timeline-item" data-date="747PA">Spursley Disaster</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
@@ -315,6 +323,7 @@
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="819PA">Meynar of Jorrensteads "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum</div>
+            <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
             <div class="timeline-item" data-date="822PA">Brothers War begins</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
@@ -355,8 +364,9 @@
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
             <div class="timeline-item" data-date="907PA">Tourney at Mitrad</div>
             <div class="timeline-item" data-date="908PA">Treaty of Kulum</div>
+            <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
-            <div class="timeline-item" data-date="911PA">9th War of Baeling Succession, "Triquetra" by Carassa al-Kael is published</div>
+            <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World"</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl</div>

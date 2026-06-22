@@ -1,13 +1,11 @@
 %%
-[[Kindly Lords]]
-[[Thirdonis]]
-[[Othirdon]]
+[[Bykmali Paganism]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">The Lissvalley Federation</h4>
+    <h4 class="wiki-header">Empire of the Baeling</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Federal Union</span>
+        <span>Imperial Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -15,34 +13,38 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>N/A</span>
+        <span>Alsebyn</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>N/A</span>
+        <span>White Whale on Gold</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Kindly Lords" class="internal-link">Othiri Spirit Cults</a>
+        <a href="" class="internal-link">Gethricism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Othiri </span>
+        <span>Olbellinge <a href="Human">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Othir</span>
+        <span>Lower Bykmål</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>
-	        <a href="Thirdonis" class="internal-link">Thirdonis</a>
-        </span>
+        <span>Olbellinge Tribes</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>713PA</span>
+        <span>465PA, <br>Imperial: 517PA</span>
     </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>590PA</span>
+    </div>
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/BaelingEmpire_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>

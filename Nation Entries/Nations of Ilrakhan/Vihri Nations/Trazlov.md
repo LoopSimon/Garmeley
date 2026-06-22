@@ -40,6 +40,10 @@
         <strong>Preceded by</strong>
         <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>377PA</span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Trazlov_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 

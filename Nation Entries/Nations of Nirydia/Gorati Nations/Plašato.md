@@ -41,8 +41,8 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span></span>
+        <span>767PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Plasato_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>One of the largest nations in the region of Aman, the Kingdom of Plašato dominates the central region geographically, but is economically outshined by its neighbours to the south such as the <a href="Amlija" class="internal-link">Kingdom of Amlija</a> or the <a href="Dišela" class="internal-link">Republic of Dišela</a>. Plašato has been one of the major forces in the later <a href="Zuhiri Holy Wars" class="internal-link">Zuhiri Holy Wars</a> and is politically aligned with the northern pagri realms, such as <a href="Cirinzel" class="internal-link">Cirinzel</a>.</p>
+<p>One of the largest nations in the region of Gorat, the Kingdom of Plašato dominates the central region geographically, but is economically outshined by its neighbours to the south such as the <a href="Amlija" class="internal-link">Kingdom of Amlija</a> or the <a href="Dišela" class="internal-link">Republic of Dišela</a>. Plašato has been one of the major forces in the later <a href="Zuhiri Holy Wars" class="internal-link">Zuhiri Holy Wars</a> and is politically aligned with the northern pagri realms, such as <a href="Cirinzel" class="internal-link">Cirinzel</a>.</p>

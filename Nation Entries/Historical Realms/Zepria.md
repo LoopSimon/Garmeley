@@ -40,11 +40,15 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Amani Federations</span>
+        <span>Gorati Petty Princes</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span></span>
+        <span>491PA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>767PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Zepria.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

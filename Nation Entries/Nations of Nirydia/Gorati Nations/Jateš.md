@@ -39,8 +39,8 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span></span>
+        <span>initial: 287PA, <br>current: 767PA </span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Jates_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>The Duchy of Jateš is the northern most nation of Aman, having been under the control of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> as well as the <a href="Zepria" class="internal-link">Zeprian Empire</a> multiple times throughout history it is now fully independent in the modern day. Jateš is the home of the Đereski people, who are one of the smaller Gorati culture groups within Aman, alongside the dominant Zepri and the mountain dwelling Opmani. </p>
+<p>The Duchy of Jateš is the northern most nation of Gorat, having been under the control of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> as well as the <a href="Zepria" class="internal-link">Zeprian Empire</a> multiple times throughout history it is now fully independent in the modern day. Jateš is the home of the Đereski people, who are one of the smaller Gorati culture groups within Aman, alongside the dominant Zepri and the mountain dwelling Opmani. </p>

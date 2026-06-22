@@ -40,6 +40,6 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span></span>
+        <span>unknown</span>
     </div>
     </div>
