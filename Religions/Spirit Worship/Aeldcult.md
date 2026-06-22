@@ -1,5 +1,6 @@
 Originated from the practice of Pehki Druidism and [[Giantsrul]] traditions, the Aeldcult, sometimes referred to by southerners as "Eldcult" is a naturalistic Faith that can be related to other forms of Spirit worship such as the worship of the [[Kindly Lords]] or the [[Terem-Zal]].
 However where these practices worship specific [[Greater Spirit]]s, the Aeldcult believes in a greater consciousness of the land itself and views the [[Fey]] of the Eldveil as divine beings and messengers of the land itself.
+It is in many parts hard to differentiate it from the [[Bykmali Paganism]] traditions and worships the same greater spirits and gods as the cult in large parts.
 The Aeldveil, a stretch of dense Forest between Ukiolla and the Waekajokull, is seen as a holy place of worship within the Cult. It is still common practice to send elders ready for death out into the veil as well as bury the fallen there. 
 
 Traditional Aeldcult Practice is generally considered to be Animism.
@@ -32,6 +33,8 @@ Following the Burning of the Alltree and the beginning of the still ongoing Grea
 
 <p>Otso</p>
 	mythological King of Giant and Bear, Otso is usually associated with the different facets of strength, both physical might, mental fortitude and communal effort.
+<p>Rynbrekka</p>
+	The old Mother, Swarmkeeper Rynbrekka is one of the more important deities within the Aeld mythos and associated with Fertility and War. She is often seen in associated with Bees and Flowers.
 
 <p>Vunru</p>
 	manifestation of Fury and Vengeance, Vunru is the animal left with no way out, the rage that overcomes one in battle and the never-ending fall into vengeance and hatred.

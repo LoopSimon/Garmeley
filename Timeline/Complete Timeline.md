@@ -356,7 +356,7 @@
             <div class="timeline-item" data-date="907PA">Tourney at Mitrad</div>
             <div class="timeline-item" data-date="908PA">Treaty of Kulum</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
-            <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
+            <div class="timeline-item" data-date="911PA">9th War of Baeling Succession, "Triquetra" by Carassa al-Kael is published</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World"</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl</div>

@@ -27,7 +27,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
-        <span>Planar Conflux, <br> Harlinic Space, <br> Null-Theory</span>
+        <span>Planar Conflux, <br> Illusion<br> Null-Theory</span>
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>

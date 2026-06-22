@@ -1,5 +1,5 @@
 
-This Species live far longer lives than most mortals, with a common elf being able to see almost 250 common calendar years. They display a natural affinity to certain aspects of magic, primarily the arcane and this proclivity has lead to many of the most influential and renowned arcane academics in history being of elven descent.
+This Species live far longer lives than most mortals, with a common elf being able to see up to 250 common calendar years. They display a natural affinity to certain aspects of magic, primarily the arcane and this proclivity has lead to many of the most influential and renowned arcane academics in history being of elven descent. The continued exposure to planar energies is said to have unique effects on elves, leaving practitioners them in almost ageless appearance and lifespans that are said to go far beyond even the impressive age of the average Elf.
 
 Elves possess humanoid statue with noticeable differences, the largest one being their almost parchment like skin, extended wire like hair, massive eyes, and elongated hands and ears.
 They stop carrying children at a young age of around 30, which has historically led to various attempts of artificially growing their population through science and magic and a rather protective attitude to the younger generations within society.
