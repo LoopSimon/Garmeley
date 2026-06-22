@@ -1,3 +1,10 @@
+- 2026-06-22T2322 · Morlamir
+- 2026-06-22T2320 · Ida Laridottr
+- 2026-06-22T2251 · Gynla Pemo
+- 2026-06-22T2246 · Theresa Salbridge
+- 2026-06-22T2235 · Janez Vajkard Valvasor
+- 2026-06-22T2212 · Oro Yominga
+- 2026-06-22T2206 · Safir
 - 2026-06-22T1937 · Asza
 - 2026-06-22T1726 · Baeling Empire
 - 2026-06-22T1725 · Yl-Lhatsi
@@ -60,7 +67,6 @@
 - 2026-06-22T1640 · Tusul
 - 2026-06-22T1639 · Iz-Almadus
 - 2026-06-22T1639 · Elbae
-- 2026-06-22T0533 · Janez Vajkard Valvasor
 - 2026-06-22T0532 · Elf
 - 2026-06-22T0530 · Carassa al-Kael
 - 2026-06-22T0520 · Modern Realmatic Theory
@@ -92,9 +98,3 @@
 - 2026-06-20T1833 · Plysfir
 - 2026-06-20T1831 · Parniva
 - 2026-06-20T1826 · Lempo
-- 2026-06-20T1815 · Zuhurism
-- 2026-06-20T1812 · Fey
-- 2026-06-20T1631 · Goblinoid
-- 2026-06-20T1556 · Beryl Lenkov
-- 2026-06-20T1555 · Zavro Firelle
-- 2026-06-20T1546 · Morlin Oxader
