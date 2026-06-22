@@ -1,3 +1,4 @@
+- 2026-06-22T1726 · Baeling Empire
 - 2026-06-22T1725 · Yl-Lhatsi
 - 2026-06-22T1724 · Vigzil
 - 2026-06-22T1723 · Twintail Imperium
@@ -37,7 +38,6 @@
 - 2026-06-22T1709 · Lesmere
 - 2026-06-22T1708 · Zmalig
 - 2026-06-22T1708 · Blijgrat
-- 2026-06-22T1706 · Baeling Empire
 - 2026-06-22T1659 · Reanport
 - 2026-06-22T1658 · Hainach
 - 2026-06-22T1658 · Grivil
