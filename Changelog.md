@@ -1,3 +1,5 @@
+- 2026-06-22T2325 · Knights of the Spring
+- 2026-06-22T2322 · Flower Knights
 - 2026-06-22T2322 · Morlamir
 - 2026-06-22T2320 · Ida Laridottr
 - 2026-06-22T2251 · Gynla Pemo
@@ -96,5 +98,3 @@
 - 2026-06-20T2223 · Antigor I
 - 2026-06-20T1835 · Bar-Dilian
 - 2026-06-20T1833 · Plysfir
-- 2026-06-20T1831 · Parniva
-- 2026-06-20T1826 · Lempo
