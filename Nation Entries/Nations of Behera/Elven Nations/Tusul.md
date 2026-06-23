@@ -3,6 +3,7 @@
 [[Pravazik]]
 [[Iz-Almadus]]
 [[Ilonism]]
+[[Old Tusul]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Emirate of Tusul</h4>
@@ -38,7 +39,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Kingdom of Tusul</span>
+        <span><a href="Old Tusul" class="internal-link">Marival of Tusul</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
@@ -46,4 +47,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tusul_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p> Once the independent Kingdom of Tusul, the lands of the Zipivi fell under the control of the <a href="Elbae" class="internal-link">Sultanate</a> following the White wars of the mid 9th century. Now representing the inland traderoutes of the elven dominion with the Lands of Pravazik and Yorgos, it is under heavy military control by Sultanate forces and perhaps the only area were "elven opression" is an apt term, considering the harsh laws in place. The reason for the unusual harsh treatments are the vibrant and dangerous terror cells and desert warriors still active within greater Tusul, as well as the assassination attempt on the Sultan himself that started the White Wars initially.</p>
+<p> Once the independent Marival of Tusul, the lands of the Zipivi fell under the control of the <a href="Elbae" class="internal-link">Sultanate</a> following the White wars of the mid 9th century. Now representing the inland traderoutes of the elven dominion with the Lands of Pravazik and Yorgos, it is under heavy military control by Sultanate forces and perhaps the only area were "elven opression" is an apt term, considering the harsh laws in place. The reason for the unusual harsh treatments are the vibrant and dangerous terror cells and desert warriors still active within greater Tusul, as well as the assassination attempt on the Sultan himself that started the White Wars initially.</p>

@@ -1,3 +1,6 @@
+- 2026-06-23T1332 · Old Tusul
+- 2026-06-23T1332 · Complete Timeline
+- 2026-06-23T1328 · Tusul
 - 2026-06-22T2325 · Flower Knights
 - 2026-06-22T2325 · Knights of the Spring
 - 2026-06-22T2322 · Morlamir
@@ -13,7 +16,6 @@
 - 2026-06-22T1724 · Vigzil
 - 2026-06-22T1723 · Twintail Imperium
 - 2026-06-22T1723 · Rha-Gis
-- 2026-06-22T1723 · Complete Timeline
 - 2026-06-22T1722 · Kareli Hierarchy
 - 2026-06-22T1722 · Duol Rabad
 - 2026-06-22T1721 · Kherova
@@ -66,7 +68,6 @@
 - 2026-06-22T1646 · Turpador
 - 2026-06-22T1645 · Battvia
 - 2026-06-22T1641 · Bilsworth
-- 2026-06-22T1640 · Tusul
 - 2026-06-22T1639 · Iz-Almadus
 - 2026-06-22T1639 · Elbae
 - 2026-06-22T0532 · Elf
@@ -97,4 +98,3 @@
 - 2026-06-20T2248 · Ahrmiz Saceren
 - 2026-06-20T2223 · Antigor I
 - 2026-06-20T1835 · Bar-Dilian
-- 2026-06-20T1833 · Plysfir
