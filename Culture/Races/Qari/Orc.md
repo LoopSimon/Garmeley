@@ -1,3 +1,6 @@
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/orc.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Qari Sailor</i></small>
+</div>
 Red, Grey, Blue and Green skinned seafarers, masters of sail and wind; 
 
 The humble and gentle Orcs, or “Qari” in their tongue, are of tall stature and imposing builds, they can reach ages of up to 70 years and commonly sprout fierce tusks from their lower jaws.

@@ -10,7 +10,7 @@ All Elves own an organ unique to their race, the Jawahr. A relatively small bean
 
 Beheran Elf
 
-Also known as Sand-Elves, the vast majority of elves on the planet are situated alongside the coasts and bountiful rivers of the Beheran Desert having been unified under the ancient Dynasties and the Sultans of the current Age as a politically almost unified race, yet there are elven communities in the far north east and south of old Jiravid that have sought a life under a different rule, religion and philosophy.
+Also known as Sand-Elves, the vast majority of elves on the planet are situated alongside the coasts and bountiful rivers of the Beheran Desert having been unified under the ancient Dynasties and the Sultans of the current Age as a politically almost unified race, yet there are elven communities in the far north east and south of old <a href="Jiravid" class="internal-link">Jiravid</a> that have sought a life under a different rule, religion and philosophy.
 Said to have been the first civilization to develop agriculture and erect great cities, these elves put an enormous value on record keeping and history, revering their ancestors as paragons and offering tribute to those who came before.
 
 Drow

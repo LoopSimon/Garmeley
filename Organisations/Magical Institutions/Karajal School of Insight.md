@@ -11,7 +11,7 @@ Kwarzimi rejected the established Rakhian models of Conflux-dependency as declar
 
 The greatest minds, usually but not exclusively [[Elf|elven]], of the Continent gather in the Grey Tower of Alparaz, the highest spire of the School, and delve deep into the knowledge of their fore bearers.
 
-Indeed so revered and respected is this house of learning, that it largely remains untouched by the political influence of the Sultan and has even openly voiced dissonance with decisions of the Palace in Jiravid without any official reprimand.
+Indeed so revered and respected is this house of learning, that it largely remains untouched by the political influence of the Sultan and has even openly voiced dissonance with decisions of the Palace in <a href="Jiravid" class="internal-link">Jiravid</a> without any official reprimand.
 
 The School has stood in relatively close contact with the researchers at Patwin Towers in Garmeley even when the Duchy fought the Sultanate during the Wars of Aggression.
 

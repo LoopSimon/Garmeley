@@ -3,6 +3,7 @@
 [[Rulers of the Beheran Elves]]
 [[Iz-Almadus]]
 [[Fasmer II]]
+[[Jiravid]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elbae Sultanate</h4>
@@ -16,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Jiravid</span>
+        <span><a href="Jiravid" class="internal-link">Jiravid</a></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

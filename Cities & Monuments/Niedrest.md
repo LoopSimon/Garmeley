@@ -30,11 +30,12 @@
         <strong>Official Language</strong>
         <span>Urien</span>
     </div>
-    <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>First mentioned:</strong>
         <span>3rd century PA</span>
     </div>
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Niedrest_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 </div>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/map_niedrest.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

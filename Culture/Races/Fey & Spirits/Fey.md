@@ -8,6 +8,9 @@
 [[Parniva]]
 [[Plysfir]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Fey.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Fey of Trykkerog</i></small>
+</div>
 <p>The Term Fey is a general catch-all term describing all manner of creatures present within the spiritual and material realm at the same time. Within certain traditions they are worshiped or feared as supernatural guides or antagonists, sometimes even referred to as Gods. Due to their nature they often act as emissaries from the spiritual to the material realm but are not bound to the same forces spiritual beings such as the Greater Spirits are, often showing much more mortal traits and clear personalities. Some regions of the World seem to be more or less prone to Fey but in reality this is likely owed to the environments preferred by the Fey to materialize in, as they often show a disdain to civilization building and urban or artificial environments. Fey often influence and manipulate mortals, especially so with the so called "Greater Fey" that have been worshiped in cults and religions throughout history and often get mistaken as spirits.</p>
 <h4>Known Greater Fey</h4>
 </h6><a href="Lempo" class="internal-link">Lempo</a></h6>
