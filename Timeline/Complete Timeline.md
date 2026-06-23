@@ -8,7 +8,7 @@
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizun Jungle </div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
-	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cavesystems</div>
+	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
 	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
 	        <div class="timeline-item" data-date="11000BA">Approximate Beginning of the Diastic Reversal in Hykmar</div>
@@ -23,7 +23,7 @@
 	        <div class="timeline-item" data-date="5500BA">Agriculture develops in Ancient Behera </div>
 	        <div class="timeline-item" data-date="4900BA">Earliest supposed date for the domestication of the cat</div>
 	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
-	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large scale canal systems</div>
+	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large-scale canal systems</div>
 	        <div class="timeline-item" data-date="4200BA">First known large-scale fish fermentation in southern Trykkerog</div>
 	        <div class="timeline-item" data-date="3900BA">First recorded Contact between Ikieni and Usuni Humans in West-Behera </div>
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
