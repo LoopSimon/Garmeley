@@ -1,3 +1,5 @@
+- 2026-06-23T1608 · Niedrest
+- 2026-06-23T1607 · Nestor IX
 - 2026-06-23T1509 · Yaalwe
 - 2026-06-23T1509 · Vunru
 - 2026-06-23T1509 · Rynbrekka
@@ -96,5 +98,3 @@
 - 2026-06-20T2252 · Zuzka
 - 2026-06-20T2250 · Basic Magical Theory
 - 2026-06-20T2250 · Grevenna
-- 2026-06-20T2248 · Ahrmiz Saceren
-- 2026-06-20T2223 · Antigor I
