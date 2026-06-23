@@ -1,7 +1,7 @@
 %%
 [[Trazlov]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/consortium_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Trazlov_Consortium_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Trazlov Consortium Seal</i></small>
 </div>
 <p>The Trazlov Consortium for Free Trade, commonly just called the Consortrium is a commercial and defensive network of merchant guilds and trading ventures in the Torn Sea, that grew from Trazlov in the 7th century PA.</p>

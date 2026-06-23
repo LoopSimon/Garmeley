@@ -1,4 +1,7 @@
-- 2026-06-23T1943 · Grand Ziflis Company
+- 2026-06-23T2256 · Trazlov Consortium
+- 2026-06-23T2256 · The Alchemists Guild
+- 2026-06-23T2255 · Grand Ziflis Company
+- 2026-06-23T2255 · Excavators Guild of Butera
 - 2026-06-23T1943 · Sihilixar
 - 2026-06-23T1725 · Jiravid
 - 2026-06-23T1724 · Karajal School of Insight
@@ -95,6 +98,3 @@
 - 2026-06-21T2309 · Aeldcult
 - 2026-06-21T2255 · Bykmali Paganism
 - 2026-06-21T2236 · Urland
-- 2026-06-21T2234 · Rakh
-- 2026-06-21T2223 · Cyraclion
-- 2026-06-21T2212 · Cevolis

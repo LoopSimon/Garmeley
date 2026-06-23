@@ -11,7 +11,7 @@
 [[The Amanita Cartel]]
 [[The Discovery of the New World]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/GZF1_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/GZF2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Company Flag</i></small>
 </div>
 <p>A trading company founded in the City of Ziflis within the <a href="Elbae" class="internal-link">Sultante of Elbae</a>, during the middle 8th century, bringing together leading merchants in a regulated company in the nature of a guild. Its members main business was export of national goods such as cloth in exchange for a variety of foreign goods, trading in the Stormy Sea, the Ports of Nirydia, Il-Haena and southern Behera.</p>
