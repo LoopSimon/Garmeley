@@ -28,7 +28,7 @@ Volboris the Healer, oldest friend of the late hero then proclaimed 1 year after
 
 Over the following decades and centuries, Gethricism spread like wildfire throughout the Lands of modern day Vihr, Grachy, Kherova, Grevenna, Urland, Meadrath, Battvia and beyond.
 
-The White Book, a collection of quotes, saying, prayers and oaths by the earliest Church-Fathers, as compiled by the Saint Rodymir of Voblag, is a symbol of the academic aspect of the Faith, as many hermits, priests, clerics and bishops have devoted themselves solely to the study of self-enlightenment through Gethricism.
+The White Book, a collection of quotes, saying, prayers and oaths by the earliest Church-Fathers, as compiled by the Saint Orydmir, is a symbol of the academic aspect of the Faith, as many hermits, priests, clerics and bishops have devoted themselves solely to the study of self-enlightenment through Gethricism.
 
 ##### The tradition of Reaffirmation
 

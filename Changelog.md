@@ -1,3 +1,5 @@
+- 2026-06-24T0130 · Gethricism
+- 2026-06-24T0130 · Gethric Saints
 - 2026-06-23T2256 · Trazlov Consortium
 - 2026-06-23T2256 · The Alchemists Guild
 - 2026-06-23T2255 · Grand Ziflis Company
@@ -96,5 +98,3 @@
 - 2026-06-22T0520 · Modern Realmatic Theory
 - 2026-06-22T0308 · Graccum
 - 2026-06-21T2309 · Aeldcult
-- 2026-06-21T2255 · Bykmali Paganism
-- 2026-06-21T2236 · Urland
