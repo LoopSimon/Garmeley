@@ -1,6 +1,6 @@
 var analyticsScript = document.createElement('script');
 analyticsScript.defer = true;
-analyticsScript.setAttribute('data-domain', 'https://publish.obsidian.md/garmeley');
+analyticsScript.setAttribute('data-domain', 'www.inarawiki.com');
 analyticsScript.src = 'https://plausible.io/js/plausible.js';
 document.head.appendChild(analyticsScript);
 
