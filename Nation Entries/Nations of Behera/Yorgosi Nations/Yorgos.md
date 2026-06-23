@@ -1,5 +1,7 @@
 %%
 [[Ilonism]]
+[[High Vendil]]
+[[Grand Ziflis Company]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Marival of Yorgos</h4>

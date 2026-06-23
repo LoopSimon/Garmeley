@@ -1,4 +1,5 @@
-- 2026-06-23T1332 · Old Tusul
+- 2026-06-23T1335 · Yorgos
+- 2026-06-23T1335 · Old Tusul
 - 2026-06-23T1332 · Complete Timeline
 - 2026-06-23T1328 · Tusul
 - 2026-06-22T2325 · Flower Knights
@@ -97,4 +98,3 @@
 - 2026-06-20T2250 · Grevenna
 - 2026-06-20T2248 · Ahrmiz Saceren
 - 2026-06-20T2223 · Antigor I
-- 2026-06-20T1835 · Bar-Dilian
