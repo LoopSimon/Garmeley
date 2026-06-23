@@ -1,5 +1,8 @@
 var analyticsScript = document.createElement('script');
 analyticsScript.defer = true;
 analyticsScript.setAttribute('data-domain', 'https://publish.obsidian.md/garmeley');
-analyticsScript.src = 'https://plausible.io/js/plausible.js';
-document.head.appendChild(analyticsScript);
+analyticsScript.src = "https://plausible.io/js/pa-cWwjMjmnSKaXQDhQiZdMs.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
