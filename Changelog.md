@@ -1,3 +1,6 @@
+- 2026-06-25T0012 · Church of Iztaw
+- 2026-06-24T2329 · Leonyd Krunliv
+- 2026-06-24T2329 · Morlin Oxader
 - 2026-06-24T2320 · Kaspar Vasser
 - 2026-06-24T2132 · Codex Thereticum
 - 2026-06-24T2102 · Volboris
@@ -49,7 +52,6 @@
 - 2026-06-24T1315 · Niedrest
 - 2026-06-24T1314 · Knights of the Unicorn
 - 2026-06-24T1314 · Kethricism
-- 2026-06-24T1311 · Church of Iztaw
 - 2026-06-23T2256 · Trazlov Consortium
 - 2026-06-23T2256 · The Alchemists Guild
 - 2026-06-23T2255 · Grand Ziflis Company
@@ -96,5 +98,3 @@
 - 2026-06-22T1720 · Ruginë
 - 2026-06-22T1720 · Plašato
 - 2026-06-22T1719 · Jateš
-- 2026-06-22T1717 · Bruša
-- 2026-06-22T1717 · Amlija
