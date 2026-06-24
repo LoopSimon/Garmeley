@@ -1,3 +1,4 @@
+- 2026-06-24T0413 · Gethric
 - 2026-06-24T0409 · Gethric Saints
 - 2026-06-24T0407 · Yelena
 - 2026-06-24T0407 · Yahrwick
@@ -13,7 +14,6 @@
 - 2026-06-24T0405 · Kifrir
 - 2026-06-24T0405 · Kasimir
 - 2026-06-24T0405 · Igor
-- 2026-06-24T0404 · Gethric
 - 2026-06-24T0404 · Fredric
 - 2026-06-24T0404 · Andre
 - 2026-06-24T0136 · Gethricism
