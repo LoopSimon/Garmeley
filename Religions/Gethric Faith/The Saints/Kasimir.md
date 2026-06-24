@@ -2,4 +2,4 @@
 <small><i>Saint Kasimir</i></small>
 </div>
 <p>Saint Kasimir the Martyr represents Weather and Community within the Gethric Canon, his favoured Weapon is the Flail.</p>
-<p></p>
+<p>Kasimir undertook many pilgrimages to bring the Faith to new shores, during his last venture to the red shores of Cyraclion he was killed in ritual sacrifice by the natives.</p>
