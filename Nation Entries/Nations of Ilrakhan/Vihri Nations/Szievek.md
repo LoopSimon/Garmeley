@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>A Golden Bridge</span>
+        <span>Sheep carrying Vihri Banner</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -42,7 +42,7 @@
         <strong>Formed</strong>
         <span>377PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Szievek_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Szievek_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Szievek is one of the major Vadcy within Vihr, controlling lands in the northern Expanse, it sits between Zavlech itself and the central Grachyll.</p>

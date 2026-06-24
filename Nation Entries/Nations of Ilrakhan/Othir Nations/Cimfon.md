@@ -44,7 +44,7 @@
         <strong>Formed</strong>
         <span>approx. late 6th century PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Cimfon_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Cimfon_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>Cimfon is a Locni Kingdom that first appeared at the turn of the 5th century, based in western Ilrakhan within the region of <a href="Othirdon" class="internal-link">Othirdon</a> they have remained isolated and only stand in contact with the Othiri of <a href="Lissvalley" class="internal-link">the Lissvalley</a> and the people of western <a href="Meadrath" class="internal-link">Meadrath</a>. </p>

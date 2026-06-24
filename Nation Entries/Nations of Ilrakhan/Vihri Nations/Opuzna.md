@@ -42,7 +42,7 @@
         <strong>Formed</strong>
         <span>377PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Opuzna_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Opuzna_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The geographically largest Vadcy of Vihr, Opuzna nominally controls the southern Expanse and the Ravenleaf Forest, which remains largely uninhabited. </p>
