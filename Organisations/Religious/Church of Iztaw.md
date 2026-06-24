@@ -30,6 +30,7 @@ The High-Bisop of Iztaw is the Head of the Gethric Church and the foremost autho
 Certain Bishops are ordained as Archbishops and responsibly for an entire region, they usually are seen as more important and influential than the Bishops under them but certain exceptions for especially important Municipalities are sometimes made.
 Archbishops are granted votes within the selection of the next High-Bisop, although their respective votes are weighed significantly more than that of the other Bishops.
 A Primat is a workaround for the Church that still formally considers itself the head of its "lost" territories concerning the Gethric Schism, a Primat is essentially an Archbishop in the view of Iztaw that is not given any votes for the election of a new High-Bisop, but still acknowledged as a high-ranking servant of the Prophet. 
+The Primati are not necessarily equivalent to the number of Arch-Bishops within the Trinicist clerical Community, as there are Archbishops of Ur or Trykkerog for example that are not acknowledged in lieu of the existence of a "de jure" Archbishop of the Gethric Church already existing.
 The Patriarchates of Kherova and Azuvke are given similar honorific status.
 
 The Main Archbishoprics are:

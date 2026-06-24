@@ -1,4 +1,5 @@
-- 2026-06-25T0012 · Church of Iztaw
+- 2026-06-25T0018 · Nestor IX
+- 2026-06-25T0014 · Church of Iztaw
 - 2026-06-24T2329 · Leonyd Krunliv
 - 2026-06-24T2329 · Morlin Oxader
 - 2026-06-24T2320 · Kaspar Vasser
@@ -73,7 +74,6 @@
 - 2026-06-23T1610 · Ingele
 - 2026-06-23T1610 · Ferrki
 - 2026-06-23T1609 · Asza
-- 2026-06-23T1607 · Nestor IX
 - 2026-06-23T1335 · Yorgos
 - 2026-06-23T1335 · Old Tusul
 - 2026-06-23T1328 · Tusul
