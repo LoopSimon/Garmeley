@@ -10,5 +10,5 @@ Vows here often include concrete goals and are usually internal;
 It is seen as a taboo or extreme rarity that one would reveal one's inner convictions, as a Vihrian may do proudly.
 
 
-Khethricism acknowledges most [[Gethric Saints]], with the exception of Tronos and Markur.
+Khethricism acknowledges most Saints, with the exception of Tronos and Markur.
 The Patron saint of Kherova is Vazena of Kairos, although Ralond the Scaleslayer is arguably of greater popularity due to his status as a mythical hero in pre Gethic Folklore.

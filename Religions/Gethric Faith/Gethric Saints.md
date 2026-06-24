@@ -104,7 +104,7 @@
         <hr class=wiki-hr>
         <div class=wiki-row>
             <strong>Favoured Weapon</strong>
-            <span>Halberd</span>
+            <span>Longsword</span>
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>

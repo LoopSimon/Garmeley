@@ -1,4 +1,11 @@
-
+%%
+[[Fredric]]
+[[Gethricism]]
+[[Gislif Mellwing]]
+[[Pigeye]]
+[[Zurán Barbeshvili]]
+[[Trinvale]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">City of Niedrest</h4>
     <div class="wiki-row">
@@ -111,7 +118,7 @@ Niedrest has a sizable population of Gnomish residents who almost exclusively re
 <h2>Main Sights</h2>
 
 <h4>Saint Fredrics</h4>
-<p>A large gothic structure of dark grey stone that dominates the skyline of the Western Bank. Its twin spires are visible for miles. This Church houses the Skull of <a href="Gethric Saints" class="internal-link">St. Fredric</a>, a relic said to grant courage to which pilgrims flock, buying blessed pewter badges from the Church which represents a large revenue stream. Inside, it is cold and echoes with the chanting of the Gethric Clergy. The stained glass depicts the martial victories of the Saint, emphasizing the militant nature of the faith.</p>
+<p>A large gothic structure of dark grey stone that dominates the skyline of the Western Bank. Its twin spires are visible for miles. This Church houses the Skull of <a href="Fredric" class="internal-link">St. Fredric</a>, a relic said to grant courage to which pilgrims flock, buying blessed pewter badges from the Church which represents a large revenue stream. Inside, it is cold and echoes with the chanting of the Gethric Clergy. The stained glass depicts the martial victories of the Saint, emphasizing the militant nature of the faith.</p>
 <h4>The Niedrest Academy of Arts </h4>
 <p> A complex of red-brick buildings with a central courtyard garden, this is the premier institution for history, mathematics, and cartography in the region. It maintains a fierce rivalry with the theological teachings of the Church, promoting Natural Philosophy over miracle-working. The Academy is known for the Grey Library, one of the largest of its kind which contains one of the few large chained-book collections in Urland.</p>
 <h4>Pale Rock Castle</h4>

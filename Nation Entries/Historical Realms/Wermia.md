@@ -1,7 +1,6 @@
 %%
 [[Turvik Paganism]]
 [[Daemon]]
-[[Gethric Saints]]
 %%
 
 <div class="wiki-infobox">

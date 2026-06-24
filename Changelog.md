@@ -1,5 +1,17 @@
+- 2026-06-24T1347 · Wermia
+- 2026-06-24T1347 · Urbridge
+- 2026-06-24T1347 · Dorian
+- 2026-06-24T1326 · Gethric Saints
+- 2026-06-24T1317 · Trinicism
+- 2026-06-24T1316 · Sons of Kasimir
+- 2026-06-24T1316 · Sisterhood of the Morning
+- 2026-06-24T1315 · Niedrest
+- 2026-06-24T1314 · Knights of the Unicorn
+- 2026-06-24T1314 · Kethricism
+- 2026-06-24T1314 · Grevenna
+- 2026-06-24T1311 · Gethricism
+- 2026-06-24T1311 · Church of Iztaw
 - 2026-06-24T0413 · Gethric
-- 2026-06-24T0409 · Gethric Saints
 - 2026-06-24T0407 · Yelena
 - 2026-06-24T0407 · Yahrwick
 - 2026-06-24T0407 · Volboris
@@ -16,7 +28,6 @@
 - 2026-06-24T0405 · Igor
 - 2026-06-24T0404 · Fredric
 - 2026-06-24T0404 · Andre
-- 2026-06-24T0136 · Gethricism
 - 2026-06-23T2256 · Trazlov Consortium
 - 2026-06-23T2256 · The Alchemists Guild
 - 2026-06-23T2255 · Grand Ziflis Company
@@ -27,7 +38,6 @@
 - 2026-06-23T1724 · Golden Dusk
 - 2026-06-23T1724 · Elf
 - 2026-06-23T1724 · Elbae
-- 2026-06-23T1708 · Niedrest
 - 2026-06-23T1655 · Mercenary Culture
 - 2026-06-23T1654 · Fey
 - 2026-06-23T1653 · Orc
@@ -81,7 +91,6 @@
 - 2026-06-22T1714 · Iztaw
 - 2026-06-22T1713 · Trinvale
 - 2026-06-22T1713 · Uhl
-- 2026-06-22T1712 · Urbridge
 - 2026-06-22T1712 · Gelmsburg
 - 2026-06-22T1712 · Garmeley
 - 2026-06-22T1712 · Eldmar
@@ -89,12 +98,3 @@
 - 2026-06-22T1711 · Vignasoya
 - 2026-06-22T1709 · Juelfluk
 - 2026-06-22T1709 · Baeling
-- 2026-06-22T1709 · Lesmere
-- 2026-06-22T1708 · Zmalig
-- 2026-06-22T1708 · Blijgrat
-- 2026-06-22T1659 · Reanport
-- 2026-06-22T1658 · Hainach
-- 2026-06-22T1658 · Grivil
-- 2026-06-22T1658 · Vulpus
-- 2026-06-22T1658 · Tintarol
-- 2026-06-22T1657 · Rogyn

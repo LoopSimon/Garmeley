@@ -2,7 +2,7 @@
 [[Mercenary Culture]]
 [[Battvian Civil War]]
 [[Great Eastern War]]
-[[Gethric Saints]]
+[[Kasimir]]
 [[Vihr]]
 [[Battvia]]
 [[Meadrath]]
@@ -10,7 +10,7 @@
 %%
 <small><i>this article was written by Mank</i></small>
 <h2>Formation and Reformation</h2>
-<p>The Sons of Kasimir were created by a distant relative of <a href="Gethric Saints" class="internal-link">Kasimir</a> himself, a good 30 years after his demise during the Itharian expedition. The cult and reverence of Kasimir was starting to form at that point and the entrepreneur Esnasz of House Haywdicz was trying to make a profit. And a profit he did make; men and women from all over Vihr flocked to the Banner of Kasimir, a pristine flail, held by a hand covered in blood. They would grow in numbers rapidly, but their effectiveness was very doubtful. They were little more than rabble for the first few years; when they got a contract, many of the „devout“ believers would take their share with force from the losers. All the while Esnasz pocketed himself a fortune. But with time, the true believers, the stalwart and the veterans would come forth, while the thiefs, murderers and opportunists would be left behind. After a few decades, under the pressure of his officers, even the founder of House Haywdicz would take his leave.</p>
+<p>The Sons of Kasimir were created by a distant relative of <a href="Kasimir" class="internal-link">Saint Kasimir</a> himself, a good 30 years after his demise during the Itharian expedition. The cult and reverence of Kasimir was starting to form at that point and the entrepreneur Esnasz of House Haywdicz was trying to make a profit. And a profit he did make; men and women from all over Vihr flocked to the Banner of Kasimir, a pristine flail, held by a hand covered in blood. They would grow in numbers rapidly, but their effectiveness was very doubtful. They were little more than rabble for the first few years; when they got a contract, many of the „devout“ believers would take their share with force from the losers. All the while Esnasz pocketed himself a fortune. But with time, the true believers, the stalwart and the veterans would come forth, while the thiefs, murderers and opportunists would be left behind. After a few decades, under the pressure of his officers, even the founder of House Haywdicz would take his leave.</p>
 
 <p>And with even more time and hardship, the rabble would rise to hardened warriors and bearers of Kasimir's sainthood. From opportunists, zealots and vagabonds, the mercenary group transformed into something more akin to a military order. They would take in the weak yet determined to mold them into hardened warriors. The group had many changes to its structure, but after its first major reformation, the general hierarchy was similar. The focus was just less and less on zealousness and believe and more on fellowship and comraderie. Yet, they would always have a sizeable portion believe in the martyrdom of Kasimir and wanted to have an equally impactful death.</p>
 

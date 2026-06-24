@@ -15,7 +15,7 @@ The Oaths and Tenants itself are almost always more important than their content
 
 A Central theme of Gethricism is also the rejection of other creator deities or all-powerful gods, instead they rejoice in the worship of the figures in history believed to have led truly holy and principled lives, the Prophets, who they believe to reside as immortal sages in the Homestead Beyond.
 
-Major Values encouraged to uphold are natural order and hierarchy, as the King rules the Peasant, so does the Father the Son, and the Fox the Hare; progressive and revolutionary ideas are often rejected or looked upon warily by traditional Gethrists. A strong sense of order and lawful customs, and a deep respect for both family, ancestor and the dead are taught within the Abbeys and Chapels of the Church, who itself officially canonises [[Gethric Saints]] and Blessed peoples with utmost care.
+Major Values encouraged to uphold are natural order and hierarchy, as the King rules the Peasant, so does the Father the Son, and the Fox the Hare; progressive and revolutionary ideas are often rejected or looked upon warily by traditional Gethrists. A strong sense of order and lawful customs, and a deep respect for both family, ancestor and the dead are taught within the Abbeys and Chapels of the Church, who itself officially canonises Saints and Blessed peoples with utmost care.
 ### Origin of the Faith
 
 It was in 240 PA, that Gethric of Iztaw slew the Daemon Lord Koribael, head of the Ashen Legions and ended the Wermian Incursions.

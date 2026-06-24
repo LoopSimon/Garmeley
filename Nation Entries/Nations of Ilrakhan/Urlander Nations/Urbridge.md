@@ -1,6 +1,7 @@
 %%
 [[Gethricism]]
 [[Ak-Saray]]
+[[Dorian]]
 %%
 
 <div class="wiki-infobox">
@@ -47,7 +48,7 @@
 </div>
 
 
-<p>Surrounded on all sides by either Urien Rivals or the vile <a href="Ak-Saray" class="internal-link">Hobgoblins</a>, the men and women of Urbridge follow the knightly example of the legendary Hero Dorian, one of the <a href="Gethric Saints" class="internal-link">Saints</a>religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of <a href="Gelmsburg" class="internal-link">Gelmsburg</a>. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. </p>
+<p>Surrounded on all sides by either Urien Rivals or the vile <a href="Ak-Saray" class="internal-link">Hobgoblins</a>, the men and women of Urbridge follow the knightly example of the legendary Hero <a href="Dorian" class="internal-link">Dorian</a>, one of the Saints of the Gethric Church, religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of <a href="Gelmsburg" class="internal-link">Gelmsburg</a>. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. </p>
 
 
 <h2>People of Interest</h2>

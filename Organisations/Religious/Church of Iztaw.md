@@ -1,7 +1,6 @@
 %%
 [[Iztaw]]
 [[Gethricism]]
-[[Gethric Saints]]
 [[Vihr]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Iztaw.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
@@ -10,7 +9,7 @@
 For the political entity, see <a href="Iztaw" class="internal-link">Iztaw</a>.
 
 
-[[Gethricism|Gethric]] Clergy of Iztaw, the Head of the Gethrist Church which has canonized almost all [[Gethric Saints]] in History; Its Head is the High-Bishop, or in Vihri "Bisop", currently the blessed Orthel II.
+[[Gethricism|Gethric]] Clergy of Iztaw, the Head of the Gethrist Church which has canonized almost all Saints in History; Its Head is the High-Bishop, or in Vihri "Bisop", currently the blessed Orthel II.
 
 Representing the oldest denomination of Gethricism, the Clerics and Priests of Iztaw are present in Chapels and Churches around the modern world.
 
