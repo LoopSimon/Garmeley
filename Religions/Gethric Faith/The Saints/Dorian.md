@@ -6,4 +6,4 @@
 <small><i>Saint Dorian</i></small>
 </div>
 <p>Saint Dorian the Kind represents Charm and Plants within the Gethric Canon, his favoured weapon is the Longsword.</p>
-<p>A famous human Knight of the Silver Wheel, Dorian popularized knightly vows as Gethrian Oaths and was responsible for the later dominance and rise of the Order.</p>
+<p>A famous human Knight of the Silver Wheel, Dorian popularized knightly vows as Gethrian Oaths and was responsible for the later dominance and rise of the Order. Dorian is associated with the Sunflower and sometimes called the "Prince of Summer" although he has no notable noble blood flowing through his veins.</p>

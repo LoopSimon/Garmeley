@@ -7,4 +7,4 @@
 <small><i>Saint Razmyr</i></small>
 </div>
 <p>Saint Razmyr the Soul Shepard represents Death and Knowledge within the Gethric Canon, his favoured weapon is the Scythe.</p>
-<p>A Scholar and companion of Gethric, he compiled the writings and records of the earliest fathers of the Church into the White Book. Largely responsible for the Adoption of the Concept of the Homestead Beyond and an avid student of the soul.</p>
+<p>A Scholar and companion of Gethric, he compiled the writings and records of the earliest fathers of the Church into the White Book. Largely responsible for the Adoption of the Concept of the Homestead Beyond and an avid student of the soul. He is part of the Iztaw Three that fought during the Incursions, alongside Volboris and Gethric.</p>

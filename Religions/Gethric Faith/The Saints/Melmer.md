@@ -6,4 +6,4 @@
 <small><i>Saint Melmer</i></small>
 </div>
 <p>Saint Melmer Wave-Kissed represents Water and Travel within the Gethric Canon, his favoured Weapon is the Trident.</p>
-<p>Melmer of Uhl, set out on the six voyages to Trykkerog, converting a large part of the population to the Gethrian Faith and founding the city of Malmshamn.</p>
+<p>Melmer of Uhl, set out on the six voyages to Trykkerog, converting a large part of the population to the Gethric Faith and founding the city of Malmshamn. Melmer was slain on his last voyage and the circumstances surrounding his demise remain a mystery, his Trident is displayed within Wavewrought Cathedral, in Malmshamm.</p>

@@ -7,4 +7,4 @@
 </div>
 <p></p>
 <p>Saint Fredric Foehammer represents Glory and War within the Gethric Canon, his favoured weapon is the Warhammer.</p>
-<p>The Hero of Danipol, Slayer of the Hydra of Ravenleaf, and Legend of the Wars of Elbae Aggression, sanctified after his death on the Battlefield and worshipped by Warriors.</p>
+<p>The Hero of Danipol, Slayer of the Hydra of Ravenleaf, and Legend of the Wars of Elbae Aggression, sanctified after his death on the Battlefield and worshipped by Warriors. Fredrics weapon, the Foehammer, is a holy relic of the church that was stolen in the 9th century, his skull has been hardened in Gold and is preserved within St-Fredrics Cathedral in the urien city of Niedrest.</p>

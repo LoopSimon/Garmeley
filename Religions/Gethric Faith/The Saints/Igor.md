@@ -6,4 +6,4 @@
 <small><i>Saint Igor</i></small>
 </div>
 <p>Saint Igor the Humble represents Luck within the Gethric Canon, his favoured weapon is the Longspear.</p>
-<p>Born the son of Grachy Farmer, Igor rose to prominence due to his exploits fighting against the fae and druids of Roygviil, and vanquishing the Black Kraken.</p>
+<p>Born the son of Grachy Farmer, Igor rose to prominence due to his exploits fighting against the fae and druids of Roygviil, and vanquishing the Black Kraken. Igor is the Patron Saint of modern day Grachy and its predecessor, the Kingdom of Halgrach.</p>
