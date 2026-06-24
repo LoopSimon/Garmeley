@@ -1,4 +1,6 @@
-- 2026-06-24T1938 · Volboris
+- 2026-06-24T2320 · Kaspar Vasser
+- 2026-06-24T2132 · Codex Thereticum
+- 2026-06-24T2102 · Volboris
 - 2026-06-24T1937 · Gethric
 - 2026-06-24T1937 · Razmyr
 - 2026-06-24T1936 · Palus
@@ -96,5 +98,3 @@
 - 2026-06-22T1719 · Jateš
 - 2026-06-22T1717 · Bruša
 - 2026-06-22T1717 · Amlija
-- 2026-06-22T1715 · Trazlov
-- 2026-06-22T1715 · Tloky
