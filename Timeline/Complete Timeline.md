@@ -180,6 +180,7 @@
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs</div>
+            <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishment of Nuv Werm</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
@@ -335,7 +336,8 @@
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate, White Wars begin in Behera</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
-            <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
+	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
+	        <div class="timeline-item" data-date="860PA">Vihri Council of 860, Creation of Torry </div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>

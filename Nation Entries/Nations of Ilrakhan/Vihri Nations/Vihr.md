@@ -1,5 +1,6 @@
 %%
 [[Gethricism]]
+[[Vihrmen Federation]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Rascy zi Vihr</h4>
@@ -148,6 +149,9 @@ Provim of House Sribo
 	
 Volboris of House Torry
 	Var of Torry
+	
+Milva of House Dibrevi
+	Varina of Breza
 	
 Slivomir of House Tryd 
 	Paladin of the Silver-Wheel
