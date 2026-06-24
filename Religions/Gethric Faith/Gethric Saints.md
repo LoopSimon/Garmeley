@@ -8,7 +8,7 @@
         </div>
         <div class=wiki-row>
             <strong>Domains</strong>
-            <span>Sun, Good</span>
+            <span>Fire, Good</span>
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
@@ -135,7 +135,7 @@
         </div>
         <div class=wiki-row>
             <strong>Domains</strong>
-            <span>Magic</span>
+            <span>Magic, Sun</span>
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
@@ -171,7 +171,7 @@
         </div>
         <div class=wiki-row>
             <strong>Domains</strong>
-            <span>Fire, Evil, Trickery</span>
+            <span>Evil, Trickery</span>
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
