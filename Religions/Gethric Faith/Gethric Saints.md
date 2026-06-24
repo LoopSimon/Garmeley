@@ -59,7 +59,7 @@
     </div>
     <div class=grid-item-uncentered>
         <div class=wiki-header>
-            <h4>Orydmir</h4>
+            <h4>Razmyr</h4>
         </div>
         <div class=wiki-row>
             <strong>Domains</strong>
