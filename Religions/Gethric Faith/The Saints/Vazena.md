@@ -1,3 +1,5 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/vazena.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Saint Vazena</i></small>
 </div>
+<p>Saint Vazena of Kairos represents Earth and Artificery within the Gethric Canon, her favoured weapon is the Great axe.</p>
+<p>This Kherovan Dwarf was the first Saint of her kind to be canonized, she wrote the Codex Vazenis, unifying many of the natural and spiritual beliefs of pre-Gethrian societies and dwarven/gnome-kind. Credited with the conversion of the Dwarves of Tizin-Kol and the southern Mistspires, as well as the popularization of craftsmanship as a way to achieve Gethrian Ideals, she is well loved by Smiths, Artists, and the like.</p>

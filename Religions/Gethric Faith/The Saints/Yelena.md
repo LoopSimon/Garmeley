@@ -1,3 +1,5 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Yelena.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Saint Yelena</i></small>
 </div>
+<p>Saint Yelena of Dreva represents Protection and Destruction within the Gethric Canon, her favoured Weapon is the Lucerne.</p>
+<p>Most famous for slaying the powerful Witch Bezelia who had secretly enslaved the people of Garal, Yelena was a hero during the 6th and 7th century PA. Her unyielding fury and unwillingness to tolerate innocents to suffer brought her into conflict with kings and princes but she was recognized as a heroic slayer of monsters and protector of the people by the church, following her death during the Reanport uprising. She is the patron Saint of Reanport.</p>

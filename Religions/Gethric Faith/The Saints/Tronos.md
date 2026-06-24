@@ -1,3 +1,5 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tronos.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Saint Tronos</i></small>
 </div>
+<p>Saint Tronos of the Veil represents Darkness and Chaos within the Gethric Canon, his favoured Weapon is the Staff.</p>
+<p>A now controversial Saint, this urien Arcanist sought to commune with Spirits, engaging in questionable methods of Conjuration and Necromancy, his research lead to many discoveries in the Arcane and Divine but was also a major reason for the Wermian Accords and their restriction of certain magical practices. His worship is rejected by the Kherovan Patriarchat.</p>
