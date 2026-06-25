@@ -1,4 +1,5 @@
-- 2026-06-25T0319 · The Incursion
+- 2026-06-25T1347 · Trinicism
+- 2026-06-25T0327 · The Incursion
 - 2026-06-25T0242 · Wermian Accords
 - 2026-06-25T0242 · Wermia
 - 2026-06-25T0242 · Volboris
@@ -54,7 +55,6 @@
 - 2026-06-24T1439 · Torry
 - 2026-06-24T1437 · Andre
 - 2026-06-24T1347 · Urbridge
-- 2026-06-24T1317 · Trinicism
 - 2026-06-24T1316 · Sons of Kasimir
 - 2026-06-24T1316 · Sisterhood of the Morning
 - 2026-06-24T1315 · Niedrest
