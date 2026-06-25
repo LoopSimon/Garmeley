@@ -1,5 +1,5 @@
+- 2026-06-25T1350 · The Incursion
 - 2026-06-25T1347 · Trinicism
-- 2026-06-25T0327 · The Incursion
 - 2026-06-25T0242 · Wermian Accords
 - 2026-06-25T0242 · Wermia
 - 2026-06-25T0242 · Volboris
