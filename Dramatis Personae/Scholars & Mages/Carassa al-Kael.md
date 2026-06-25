@@ -20,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>748PA, Mereskis</span>
+        <span>748PA, <a href="Mereskis" class="internal-link">Mereskis</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

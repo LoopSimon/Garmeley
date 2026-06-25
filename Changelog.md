@@ -1,5 +1,9 @@
+- 2026-06-25T1650 · Mereskis
+- 2026-06-25T1649 · Hainach
+- 2026-06-25T1649 · Carassa al-Kael
+- 2026-06-25T1622 · Leonyd Krunliv
+- 2026-06-25T1404 · Complete Timeline
 - 2026-06-25T1357 · Lyandra
-- 2026-06-25T1352 · Complete Timeline
 - 2026-06-25T1350 · The Incursion
 - 2026-06-25T1347 · Trinicism
 - 2026-06-25T0242 · Wermian Accords
@@ -16,7 +20,6 @@
 - 2026-06-25T0047 · Ancalion
 - 2026-06-25T0018 · Nestor IX
 - 2026-06-25T0014 · Church of Iztaw
-- 2026-06-24T2329 · Leonyd Krunliv
 - 2026-06-24T2329 · Morlin Oxader
 - 2026-06-24T2320 · Kaspar Vasser
 - 2026-06-24T2132 · Codex Thereticum
@@ -95,6 +98,3 @@
 - 2026-06-22T2206 · Safir
 - 2026-06-22T1726 · Baeling Empire
 - 2026-06-22T1725 · Yl-Lhatsi
-- 2026-06-22T1724 · Vigzil
-- 2026-06-22T1723 · Twintail Imperium
-- 2026-06-22T1723 · Rha-Gis

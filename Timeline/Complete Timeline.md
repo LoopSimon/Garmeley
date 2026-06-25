@@ -271,7 +271,7 @@
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
             <div class="timeline-item" data-date="690PA">Fall of Roygviil</div>
-            <div class="timeline-item" data-date="691PA">Trazlov Guild of Alchemy is formed</div>
+            <div class="timeline-item" data-date="691PA">Lyandra of Fairriver is canonized as a Saint, Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>

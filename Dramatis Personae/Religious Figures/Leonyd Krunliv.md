@@ -33,4 +33,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Krunliv.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Leonyd Krunliv is a Father within the Gethric Church of Grachy, with no current assignment, he was once Father at Soludha Abbey but has since relinquished the post. Krunliv was part of <a href="Beryl Lenkov" class="internal-link">Boyar Beryl Lenkovs</a> Hunting Party in May of 927PA during which the latter tragically passed away.</p>
+<p>Leonyd Krunliv is a Father within the Gethric Church of Grachy, with unknown clerical career except that he was once Father at Soludha Abbey but has since relinquished the post. Krunliv was part of <a href="Beryl Lenkov" class="internal-link">Boyar Beryl Lenkovs</a> Hunting Party in May of 927PA during which the latter tragically passed away.</p>
