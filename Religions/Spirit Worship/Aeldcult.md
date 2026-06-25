@@ -48,6 +48,8 @@ Following the Burning of the Alltree and the beginning of the still ongoing Grea
 <p>Asza</p>
 	 the Sister of Nyllenna, Asza is the friend of man and patron of harvest she is the life giver of the lands and personifies the Rivers of Nostroya.
 
+<p>Lotung</p>
+	god of the Moon and Secrecy, closely associated with magic and knowledge, Lotung is rarely portrayed with a face, instead tends to be veiled in etheral robes.
 
 <p>Ingele</p>
 	 sometimes called brokebeak or longsleep, Ingele is associated with Winter and Death but notably viewed as a positive force, in some tales even represented as the force that changes all seasons like stirring a bowl of soup around and around.

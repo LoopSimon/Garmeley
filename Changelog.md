@@ -1,3 +1,6 @@
+- 2026-06-25T1747 · Egill
+- 2026-06-25T1737 · Aeldcult
+- 2026-06-25T1731 · Lotung
 - 2026-06-25T1650 · Mereskis
 - 2026-06-25T1649 · Hainach
 - 2026-06-25T1649 · Carassa al-Kael
@@ -95,6 +98,3 @@
 - 2026-06-22T2246 · Theresa Salbridge
 - 2026-06-22T2235 · Janez Vajkard Valvasor
 - 2026-06-22T2212 · Oro Yominga
-- 2026-06-22T2206 · Safir
-- 2026-06-22T1726 · Baeling Empire
-- 2026-06-22T1725 · Yl-Lhatsi
