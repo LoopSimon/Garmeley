@@ -1,3 +1,5 @@
+- 2026-06-25T1357 · Lyandra
+- 2026-06-25T1352 · Complete Timeline
 - 2026-06-25T1350 · The Incursion
 - 2026-06-25T1347 · Trinicism
 - 2026-06-25T0242 · Wermian Accords
@@ -9,7 +11,6 @@
 - 2026-06-25T0240 · Gethric
 - 2026-06-25T0240 · Daemon
 - 2026-06-25T0240 · Basic Magical Theory
-- 2026-06-25T0155 · Complete Timeline
 - 2026-06-25T0154 · Gethricism
 - 2026-06-25T0053 · Merzigal
 - 2026-06-25T0047 · Ancalion
@@ -22,7 +23,6 @@
 - 2026-06-24T1936 · Palus
 - 2026-06-24T1935 · Melmer
 - 2026-06-24T1933 · Markur
-- 2026-06-24T1932 · Lyandra
 - 2026-06-24T1931 · Dorian
 - 2026-06-24T1930 · Fredric
 - 2026-06-24T1928 · Igor
