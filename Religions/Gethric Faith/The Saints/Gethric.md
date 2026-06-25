@@ -14,4 +14,4 @@
 <small><i>Gethrics Wrath</i></small>
 </div>
 <p>Gethric the Prophet represents Fire and Good within the Gethric Canon, his favoured Weapon is the Mace.</p>
-<p>The Founder of the Faith and Hero of Iztaw, worshiped as the True Prophet and given a higher reverence than even the other saints of the Church. Gethric is said to have been born in Wermia, but is often portrayed as a vihri farmer in clerical art. He is part of the Iztaw Three that fought during the Incursions, alongside Razmyr and Volboris.</p>
+<p>The Founder of the Faith and Hero of Iztaw, worshiped as the True Prophet and given a higher reverence than even the other saints of the Church. Gethric is said to have been born in Wermia, but is often portrayed as a vihri farmer in clerical art. He is part of the Iztaw Three that fought during the <a href="The Incursion" class="internal-link">Incursions</a> , alongside Razmyr and Volboris.</p>

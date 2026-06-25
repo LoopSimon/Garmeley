@@ -7,7 +7,8 @@
 Grahul the Chained
 <p>Bound by the Elf Alparaz in the 7th century BA within the [[Material Realm]].
 Though its existence was revealed to the greater world later on, it has been officially refuted by the Sultanate that the entity still resides on our Plane.</p>
-
+Vazmoris, Well of Despair
+<p>Easily the most famous scion of the Abyss, Vazmoris was a Greater Daemon that led the forces of the Wermian <a href="The Incursion" class="internal-link">Incursion</a> and was defeated by Gethric the Prophet at Tawring before it was known as Iztaw.</p>
 
 Thalkil Twice-born
 <p>This creature is often assumed to be of daemonic nature and was supposedly slain by the Locni Three, a group of adventurers travelling the east coast of Ilrakhan in the 7th century PA.

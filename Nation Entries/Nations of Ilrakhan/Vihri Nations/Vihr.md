@@ -1,6 +1,7 @@
 %%
 [[Gethricism]]
 [[Vihrmen Federation]]
+[[The Incursion]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Rascy zi Vihr</h4>
@@ -90,7 +91,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 
 <h3>Unification Period</h3>
 <p>The history of the Vihr Kingdom is inevitably linked to the history of the Gethric Church.</p>
-<p>The Kingdom was formed during the Wars of Unification in the middle of the 3rd century, following the end of the 2nd Wermian Incursion, when the current Lord of Zavlech, Viago I of House Zav declared himself King of all Vihrmen and started a deeply religiously motivated war of conquest alongside the spread of Gethricism as a new Religion in Ilrakhan.</p><p>At the end of the Unification Period, the lands controlled by Viago largely resembled the heartlands of modern day Vihr, stretching from Iztaw to Opuzna.</p>
+<p>The Kingdom was formed during the Wars of Unification in the middle of the 3rd century, following the end of the 2nd Wermian <a href="The Incursion" class="internal-link">Incursion</a> , when the current Lord of Zavlech, Viago I of House Zav declared himself King of all Vihrmen and started a deeply religiously motivated war of conquest alongside the spread of Gethricism as a new Religion in Ilrakhan.</p><p>At the end of the Unification Period, the lands controlled by Viago largely resembled the heartlands of modern day Vihr, stretching from Iztaw to Opuzna.</p>
 
 <h3>House of Zav (241PA - 501PA)</h3>
 <p>The Tribe of Zav, lead by Viagos descendants, lived along the middle of the Tryda River and made up the largest ethnic group among Vihrmen during the first half of the Silver Age. It was only natural that with Viago I ascending to Kingship the city of Zavlech was made the formal Capital of the new Nation, replacing Tlokyemy as the centre of Vihrmen culture. This era was dominated by the spread of <a href="Gethricism" class="internal-link">Gethricism</a> and the conversion of not only the Vihrmen Lands, but also foreign entities, such as the Kherovan Khatrym, the Kingdom of Halgrach and the Kingdom of <a href="Rean" class="internal-link">Rean</a> to varying degrees of success.</p>

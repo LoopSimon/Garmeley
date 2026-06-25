@@ -1,3 +1,7 @@
+For the Church, its hierarchies and organisation, see: [[Church of Iztaw]]
+For the worldly Realm of Iztaw, governed by the Church under the Ras of Vihr, see: [[Iztaw]]
+For the events leading up to the creation of the Church and the founding of the Faith, 
+see: [[The Incursion]].
 
 
 The dominant Faith in Ilrakhan, Gethricist Practice is founded on the writings of Gethric's Companions, the Church fathers, of whom some are revered as Saints. It is split into three major denominations, Gethricism, also known as High-Gethricism, [[Kethricism]] and [[Trinicism]].

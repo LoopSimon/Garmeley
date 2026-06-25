@@ -138,9 +138,9 @@
             <div class="timeline-item" data-date="180PA">Re-Unification of Cevolis</div>
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
             <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
-            <div class="timeline-item" data-date="205PA">1st Wermian Incursion</div>
+            <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
             <div class="timeline-item" data-date="219PA">Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizun</div>
-            <div class="timeline-item" data-date="236PA">2nd Wermian Incursion</div>
+            <div class="timeline-item" data-date="226PA">2nd Wermian Incursion</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>

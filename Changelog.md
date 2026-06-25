@@ -1,12 +1,23 @@
+- 2026-06-25T0319 · The Incursion
+- 2026-06-25T0242 · Wermian Accords
+- 2026-06-25T0242 · Wermia
+- 2026-06-25T0242 · Volboris
+- 2026-06-25T0241 · Vihr
+- 2026-06-25T0241 · Turvik Paganism
+- 2026-06-25T0241 · Razmyr
+- 2026-06-25T0240 · Gethric
+- 2026-06-25T0240 · Daemon
+- 2026-06-25T0240 · Basic Magical Theory
+- 2026-06-25T0155 · Complete Timeline
+- 2026-06-25T0154 · Gethricism
+- 2026-06-25T0053 · Merzigal
+- 2026-06-25T0047 · Ancalion
 - 2026-06-25T0018 · Nestor IX
 - 2026-06-25T0014 · Church of Iztaw
 - 2026-06-24T2329 · Leonyd Krunliv
 - 2026-06-24T2329 · Morlin Oxader
 - 2026-06-24T2320 · Kaspar Vasser
 - 2026-06-24T2132 · Codex Thereticum
-- 2026-06-24T2102 · Volboris
-- 2026-06-24T1937 · Gethric
-- 2026-06-24T1937 · Razmyr
 - 2026-06-24T1936 · Palus
 - 2026-06-24T1935 · Melmer
 - 2026-06-24T1933 · Markur
@@ -40,12 +51,8 @@
 - 2026-06-24T1459 · Kifrir
 - 2026-06-24T1459 · Kasimir
 - 2026-06-24T1456 · Breza
-- 2026-06-24T1452 · Vihr
-- 2026-06-24T1441 · Complete Timeline
 - 2026-06-24T1439 · Torry
 - 2026-06-24T1437 · Andre
-- 2026-06-24T1412 · Gethricism
-- 2026-06-24T1347 · Wermia
 - 2026-06-24T1347 · Urbridge
 - 2026-06-24T1317 · Trinicism
 - 2026-06-24T1316 · Sons of Kasimir
@@ -91,10 +98,3 @@
 - 2026-06-22T1724 · Vigzil
 - 2026-06-22T1723 · Twintail Imperium
 - 2026-06-22T1723 · Rha-Gis
-- 2026-06-22T1722 · Duol Rabad
-- 2026-06-22T1721 · Kherova
-- 2026-06-22T1721 · Azuvke
-- 2026-06-22T1720 · Zepria
-- 2026-06-22T1720 · Ruginë
-- 2026-06-22T1720 · Plašato
-- 2026-06-22T1719 · Jateš
