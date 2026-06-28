@@ -1,0 +1,14 @@
+%%
+[[Gaal Empire]]
+[[Bricea]]
+[[Nirydia]]
+%%
+<p>Minotaurs are a species of large, bovine headed bestial humanoids, some minotaurs are said to possess a more goat-,antelope-, or moose-like  appearance. While often speculated to originate on the lost continent of Hyklamok, their exact origin is unknown and they can be found primarily in the lands of eastern <a href="Nirydia" class="internal-link">Nirydia</a>, <a href="Bricea" class="internal-link">Bricea</a> and <a href="Sirenna" class="internal-link">Sirenna</a>, as well as on a plethora of islands. </p>
+<p>While historically generally not known as great nation-builders or leaders of thousands, due to their fearsome reputation and small numbers, few nations instead venerate Minotaurs and are led by them, primarily the mighty <a href="Gaal Empire" class="internal-link">Gaal Empire</a> in far Nirydia.</p>
+<p>Typically Minotaurs stand at around 9-12ft tall, usually with deep brown and black monotone fur that turns to grey as they turn older; white and grey fur is also not uncommon. They have horns, cloven hooves, and tails. Some groups of minotaurs have developed unique adaptations to their native regions, from shaggy minotaurs with thick fur and modified hooves that can resist freezing environments; or great-horned minotaurs with a propensity to charge foes with their massive horns. Some even have all together smaller frames, like the so called littlehorn minotaurs. Despite their size, a minotaur's hooves have delicate balance points that allow them to step quietly when they want to. Some known as stalkers have sound-muffling shaggy fur on their hooves that make them even quieter.</p>
+
+<p>Most minotaurs spend their lives perfecting their artisan skills, including many different martial arts.Minotaur horns are a source of pride and often accented, such as adding rings and chains to longer horns that are often cast in rare metals, or dyeing or engraving patterns on them. If a minotaur possesses smaller horns, they might shave the fur around the base of the horn, and add circular tattoos or metal horn tips to them to improve their appearance.</p>
+
+<p>Historically, Minotaurs often live within insular, underground, communal enclaves.The innate desire to learn has led many minotaurs to migrate from their original home to new regions, preferring mountainous or cave systems and living with like-minded races , such as goblinoids or smallfolk. Conflicts between minotaurs in competing tribes can turn violent, with the losing tribe either forced to flee the area, or having its survivors absorbed into the winning tribe.</p>
+
+<p>Minotaur races include the Baravi of southern Behera, the Ugaal of eastern Nirydia, the Hygron of Bricea and the Tilruum of Sirenna.</p>

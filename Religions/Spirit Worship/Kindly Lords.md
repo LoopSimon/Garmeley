@@ -26,19 +26,19 @@ The last time a spirit has actively interfered in an event was when the Karolian
 
 A list of the known major Spirits and their domains of power and worship:
 
- - Palmir the Gladelord, the mystical Spirit of the Greenglade, husband to the Feyqueen Rilfana.
+ - Palmir the Gladelord, the mystical Spiritlord of the Greenglade, husband to the Feyqueen Rilfana.
 
 - The Farrman, the Water-Spirit of Lake Farr, worshipped primarily by the citizen of Forrington and its adjacent settlements.
 
 - Grandmother Dilm, a Great Tree spirit, sometimes appearing in the form of an old women of oaken skin, who holds domain in the Ironwood in northern Garmeley.
 
-- The Karolian, a Spirit who takes the form of a hooded man, walking the burrows of central Garmeley and protecting the remains of those buried within.
+- The Karolian, a godlike spirit who takes the form of a hooded man, walking the burrows of central Garmeley and protecting the remains of those buried within.
 
-- lmelmo, a spirit akin to a trickster deities, who is said to have left his domain, the River Melm, and been imprisoned in the mountain range of the Lock, in western Garmeley.
+- lmelmo, a spirit deity akin to a trickster deities, who is said to have left his domain, the River Melm, and been imprisoned in the mountain range of the Lock, in western Garmeley.
 
 - Yolwe the Swampsoul, a spirit worshipped primarily in eastern Hainach, she is said to hold domain over the swamps, wetlands and banks around Edgral and the mouth of the Iza.
 
-- The Stonefather, the patron deity of Hainach whose cult is strongest in the southern settlements along the mountain edges. Associated with mining, power and meaning he is seen as a symbol of natural law and righteousness.
+- The Stonefather, or in ancient reani Dimrod, the patron deity of Hainach whose cult is strongest in the southern settlements along the mountain edges. Associated with mining, power and meaning he is seen as a symbol of natural law and righteousness.
 
 - Stelios, worshipped primarily in eastern hainach and along its commercial hubs, but also in parts of southern Garmeley and often depicted as an elder man with scrolls and coins, he is the personification of diligence and hard work
 

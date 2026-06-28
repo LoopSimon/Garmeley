@@ -7,7 +7,7 @@
     <h4 class="wiki-header">Nestor Liston</h4>
     <div class="wiki-row">
         <strong>Faith</strong>
-        <span>High-Gethricism</span>
+        <span><a href="Gethricism" class="internal-link">High-Gethricism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>

@@ -78,7 +78,7 @@
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
-            <div class="timeline-item" data-date="450BA">Earliest records on magical circles on Mørbrig</div>
+            <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
             <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
@@ -139,6 +139,7 @@
             <div class="timeline-item" data-date="180PA">Re-Unification of Cevolis</div>
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
             <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
+            <div class="timeline-item" data-date="201PA">The Fjorisjom Saga</div>
             <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
             <div class="timeline-item" data-date="219PA">Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizun</div>
             <div class="timeline-item" data-date="226PA">2nd Wermian Incursion</div>
@@ -172,6 +173,7 @@
             <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
+            <div class="timeline-item" data-date="380PA">Miasas ascension, Harmony of the Hera</div>
             <div class="timeline-item" data-date="380PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
@@ -331,6 +333,7 @@
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
+            <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms</div>

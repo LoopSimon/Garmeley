@@ -9,7 +9,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>891PA, Grevec</span>
+        <span>891PA, unknown</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
