@@ -3,23 +3,24 @@
 [[Unliving]]
 [[Doggerism]]
 %%
+
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Bilsworth Ministry</h4>
+    <h4 class="wiki-header">Republic of Runland</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Magocracy</span>
+        <span>Parliamentary Republic</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>High Minister William Bradford</span>
+        <span>Chancellor McMortin</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Rigsbridge</span>
+        <span>Hark</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Two Hares holding up a Tome</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -28,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Spurshey <a href="Unliving" class="internal-link">Unliving</a></span>
+        <span>Spurshey <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -43,8 +44,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>747PA</span>
+        <span>758PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Bilsworth_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>The indubitable astounding and unprecedent notion of a realm of the undead has been realized for better or worse within the Bilsworth Ministry. Following the Disaster of 747PA almost the entire population of the <a href="Spursley" class="internal-link">Kingdom of Spursley</a> was afflicted with a self-replicating planar curse, exact origins unknown that led to them obtaining a unique state of undeath. In current time this realm that is in so many ways unlike any other is managed and ruled by the Ministry from the City of Rigsbridge.</p>

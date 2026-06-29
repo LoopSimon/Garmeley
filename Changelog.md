@@ -1,3 +1,6 @@
+- 2026-06-29T1751 · Bilsworth
+- 2026-06-29T1751 · Runland
+- 2026-06-29T1748 · Spursley
 - 2026-06-29T1659 · Complete Timeline
 - 2026-06-29T1658 · Doggerism
 - 2026-06-29T1248 · Geol
@@ -95,6 +98,3 @@
 - 2026-06-23T2256 · Trazlov Consortium
 - 2026-06-23T2256 · The Alchemists Guild
 - 2026-06-23T2255 · Grand Ziflis Company
-- 2026-06-23T2255 · Excavators Guild of Butera
-- 2026-06-23T1943 · Sihilixar
-- 2026-06-23T1725 · Jiravid
