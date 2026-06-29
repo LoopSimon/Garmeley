@@ -124,6 +124,7 @@
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
             <div class="timeline-item" data-date="86PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
+            <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>

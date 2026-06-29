@@ -10,7 +10,7 @@
 [[Aeldcult]]
 %%
 
-<p>The Fjorisjom Saga, sometimes referred to as the Fjorisom or Saga of the Four Heroes, is a legendary bkymali saga, covering topics including the quarrel between Egill and Sjodur, the origin of the Seal Lords of Juelfluk and the taming of the legendary <a href="Dragon" class="internal-link">Dragon</a> Fagnir. At the core of the saga lies the quest of four heroes to save the Princess Gudrun, stolen away by the Giants Sjodur and Lygrauga far into the north of Jeturlund.</p>
+<p>The Fjorisjom Saga, sometimes referred to as the Fjorisom or Saga of the Four Heroes, is a legendary bkymali saga, covering topics including the quarrel between Egill and Sjodur, the origin of the Seal Lords of Juelfluk and the taming of the legendary <a href="Dragon" class="internal-link">Dragon</a> Fagnir. At the core of the saga lies the quest of four heroes to save the Princess Gudrun, stolen away by the Giants Sjodur and Lygrauga far into the north of Jeturlund. The Saga is </p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Millgi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Jarl Millgi</i></small>
 </div>
@@ -45,3 +45,9 @@ Into the hall stepped doom. First came Sjodur, a Fire Giant of terrifying, moun
 <p>Before the mighty Jarl could even draw his blade, Sjodur stepped over the frozen feast tables. With one massive, burning hand, the Fire Giant snatched the terrified Princess Gudrun from her seat. "Keep your parlour tricks and sunken gold, little men!" Lygrauga mocked, her voice echoing in the ruined hall. "The Giants of Jeturlund take the only treasure that matters!" With a roar of fire and a blast of freezing mist, the two giants vanished into the northern night, leaving the great hall of Millgi in ruins.</p>
 <p>As the magical ice finally thawed, the four heroes broke free of their bindings. They looked upon the weeping Jarl, their legendary pride wounded and their boasts turned to ash. There, amidst the melted gold and splintered oak, Egill, Ylva, Toski, and Skemring crossed their weapons and swore an oath. They would not rest, nor claim a single coin of wealth, until they had crossed the frozen wastes of Jeturlund, slain the giants, and brought the Princess Gudrun home.</p>
 <h2>The Four Ships</h2>
+
+<p>Ylva would lead the Lahraði, Toski the Rauttafein, Skemring the Arfagna and Egill the Öldubring as the four assembled their crews on these vessels and began the perilous journey north. </p>
+<h2>Skemring and Laettr</h2>
+<h2>Ylva and Fagnir</h2>
+<h2>Tosko and Kalme</h2>
+<h2>Egill and Sjordur</h2>

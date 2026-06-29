@@ -1,18 +1,18 @@
 %%
 [[Fjorisjom Saga]]
 [[Bykmali Paganism]]
-
+[[Juelfluk]]
 [[Aeldcult]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Toski Golleki</h4>
     <div class="wiki-row">
         <strong>Epitath</strong>
-        <span>Ironhair</span>
+        <span>Ironhair, Trollbinder</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Olbellinge Human</span>
+        <span>Jueli Human</span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
@@ -36,4 +36,4 @@
 
 </div>
 
-<p>Toski Golleki</p>
+<p>Toski Golleki, known as Ironhair and Trollbinder, was one of the legendary heroes that would swear an oath to rescue the stolen Gudrun during the events of the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a>. His ship was the Rauttafein and he would become the legendary ancestor of the current Kings and Queens of <a href="Juelfluk" class="internal-link">Juelfluk</a>.</p>

@@ -1,9 +1,11 @@
-- 2026-06-29T0025 · Fjorisjom Saga
-- 2026-06-29T0021 · Complete Timeline
-- 2026-06-29T0000 · Ylva
-- 2026-06-29T0000 · Toski
-- 2026-06-29T0000 · Egill
-- 2026-06-29T0000 · Skemring
+- 2026-06-29T1659 · Complete Timeline
+- 2026-06-29T1658 · Doggerism
+- 2026-06-29T1248 · Geol
+- 2026-06-29T1234 · Toski
+- 2026-06-29T1233 · Skemring
+- 2026-06-29T1233 · Ylva
+- 2026-06-29T1233 · Egill
+- 2026-06-29T1231 · Fjorisjom Saga
 - 2026-06-28T2346 · Bykmali Paganism
 - 2026-06-28T2257 · Hector Razzan
 - 2026-06-28T2254 · Theresa Salbridge
@@ -96,5 +98,3 @@
 - 2026-06-23T2255 · Excavators Guild of Butera
 - 2026-06-23T1943 · Sihilixar
 - 2026-06-23T1725 · Jiravid
-- 2026-06-23T1724 · Karajal School of Insight
-- 2026-06-23T1724 · Golden Dusk

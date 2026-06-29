@@ -3,6 +3,8 @@
 [[Fjorisjom Saga]]
 [[Bykmali Paganism]]
 [[Aeldcult]]
+[[Baeling]]
+[[Baeling Empire]]
 [[Dragon]]
 %%
 <div class="wiki-infobox">
@@ -13,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Jueli Human</span>
+        <span>Olbellinge Human</span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
@@ -36,4 +38,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ylva.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Ylva Feathercall</p>
+<p>Ylva Feathercall, Mother of the Seal Lords, was one of the legendary heroes that would swear an oath to rescue the stolen Gudrun during the events of the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a>. Her ship was the Lahraði, and she would be known as the person to lull the great drake Fagnir to sleep. The <a href="Baeling Empire" class="internal-link">old</a> and <a href="Baeling" class="internal-link">new</a> rulers of the Baeling claim descendent from her.</p>

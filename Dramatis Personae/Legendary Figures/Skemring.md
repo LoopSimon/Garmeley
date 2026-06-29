@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kemfi Aelf</span>
+        <span>Kemfi <a href="Elf" class="internal-link">Aelf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
@@ -37,4 +37,4 @@
 
 </div>
 
-<p>Prince Skemring</p>
+<p>Prince Skemring was a legendary Prince of the Aelfs of the North, during the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a> he was once of the four heroes that would swear an oath to rescue the stolen Gudrun. He fought against his elder brother the Prince Laettr during the events of the Saga and his ship was the Arfagna.</p>
