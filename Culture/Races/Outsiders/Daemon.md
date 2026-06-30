@@ -3,6 +3,7 @@
 [[The Abyss]]
 %%
 <p>The academic classification for any outsiders not entirely aligned with any of the major planes, note this primarily in reference to the four plane theory of the Theorem Arcanum but still applies under more advanced models such as Vilkins Universal model that consider the existence of a multitude of major planes. Defined as possibly sentient concentrations of energy, although due to the extreme lack of knowledge of the academic public concerning sentience beyond our plane the distinction between any of them is at best guesswork.</p>
+<p>The term "Demonology" is often considered to exclusively refer to this rather specific classification of being, but in practice usually refers to the study of essentially all beings from beyond our Plane, outsiders. </p>
 <h4>Mythological Creatures associated with Daemonhood:</h4>
 Grahul the Chained
 <p>Bound by the Elf Alparaz in the 7th century BA within the [[Material Realm]].

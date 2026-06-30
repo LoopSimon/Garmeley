@@ -50,7 +50,7 @@
         <strong>Formed</strong>
         <span>835PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/grachy_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/grachy_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> With the end of the Royal Line of Grach in the early 9th century PA, the influence of the feudal nobility within the Cities of Grachy had almost completed given way to the rich burgher class that emerged during the 7th and 8th century. A proud history and stern Gethric realm still, the young Republic has survived a long tale of struggles already, its wars with <a href="Vihr" class="internal-link">Vihr</a> to the east have left it without its oldest ally standing in the long conflict with the Pehki of <a href="Ukiolla" class="internal-link">Ukiolla</a>.</p>
 <h2>Geography</h2>

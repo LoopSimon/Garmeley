@@ -4,7 +4,7 @@
 [[Cevolian Pantheon]]
 [[Nation Entries/Historical Realms/Cevolis]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/dancingflame_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/dancingflame_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Banner of the Dancing Flame</i></small>
 </div>
 <p>This Cevolian knightly Order is an extremely powerful and influential institution within Battvia, where it holds large sway with the Prince and is often employed as an elite fighting force in military campaigns but also seeks to eradicate heathens and foul monsters in the region of Cevolia as a whole.</p>

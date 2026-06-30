@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Green Snowflake on White Ground</span>
+        <span>Seahorse with Saber on Red and Black</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -43,6 +43,6 @@
         <strong>Formed</strong>
         <span>unknown</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tintarol2_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Tintarol2_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
     </div>
 

@@ -45,7 +45,7 @@
         <strong>Formed</strong>
         <span>64PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Elbae_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Elbae_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Elbae Sultanate, named after the ruling Dynasty is the largest elven Realm in the World, controlling the vast majority of Il-Haena, most of the eastern Coast of Behera and the Drow  <a href="Underlands" class="internal-link">Underlands</a> directly, as well as exerting significant political influence throughout its subjects, like the  Eyalets of <a href="Hainach" class="internal-link">Hainach</a> and <a href="Qarzi" class="internal-link">Qarzi</a> or the <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a> and <a href="Tusul" class="internal-link">Tusul</a> Emirates. Its past has been marked by imperialist ambitions across Behera, Ilrakhan and Nirydia. The capital of the Sultanate, Jiravid, is one of the largest cities in the known world with a population of ca 140.000 citizens.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/northsultanate.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

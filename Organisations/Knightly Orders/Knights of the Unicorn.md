@@ -4,7 +4,7 @@
 [[Jakub Ralpia]]
 [[Andre]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/unicornknights_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/unicornknights_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Banner of the Knights of the Unicorn</i></small>
 </div>
 <p>Founded by the eponymous "Unicorn Knight" the Saint <a href="Andre" class="internal-link">Andre of Trydlew</a> this prestigious and influential order is deeply entrenched within the vihri aristocracy and few members of their rank hail from anywhere else.</p>

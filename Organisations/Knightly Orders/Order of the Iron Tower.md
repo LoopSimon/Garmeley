@@ -2,7 +2,7 @@
 [[Trinicism]]
 [[Order of the Silver Wheel]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Iron_tower_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Iron_tower_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Banner of the Iron Tower</i></small>
 </div>
 <p>This organization, often categorized as a gethric knightly order, was founded in the aftermath of the Conclave at Trinfurt in the 8th century and seeks to uphold trinicist values.</p>

@@ -122,6 +122,7 @@
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat</div>
             <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
+            <div class="timeline-item" data-date="81PA">Heximar the Unlit is slain by Gismar</div>
             <div class="timeline-item" data-date="86PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
@@ -153,7 +154,6 @@
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
             <div class="timeline-item" data-date="275PA">The Fellows of the Dancing Flame propagate Gethricism militarily in Cevolis</div>
-            <div class="timeline-item" data-date="276PA">Heximar the Unlit is slain by Gismar</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>

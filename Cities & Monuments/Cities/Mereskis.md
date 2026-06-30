@@ -41,7 +41,7 @@
         <span>13th century BA as Samyr</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Mereskis_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Mereskis_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>Mereskis is the third most populous city in the Elbae Sultanate, after <a href="Jiravid" class="internal-link">Jiravid</a> and Rahzalbis, and the second largest metropolis on the Stormy Sea after <a href="Reanport" class="internal-link">Reanport</a>. It sits on the southern Stormy Coast and is the capital of the Mereskis Province. </p>
 <p>Mereskis has around 2500 years of recoded urban history, dating back to times before elven governance when the city was known as Samyr, even earlier dates for the beheran settlement that traded with pilvian city states to its north are recorded. Lying at the  mouth of a smaller Bay and on top of of a hill, Mereskis has been one of the principal mercantile cities of Ilrakhan for much of its history.</p>

@@ -47,6 +47,6 @@
         <span>509PA</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Cevolis_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Cevolis_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>The Kingdom of Cevolis was first declared as one of the earliest ilrakhani realms by the Lionlords of old, but ended up being conquered and subjugated by the Empire of <a href="Rakh" class="internal-link">Rakh</a> in the year 258BA. Following the demise of Rakh, the legendary Warlord Lingolio declared himself once again King of the green lands and re-unified Cevolis in 180PA.</p>

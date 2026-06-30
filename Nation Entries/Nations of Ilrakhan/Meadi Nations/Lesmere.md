@@ -44,7 +44,7 @@
         <strong>Formed</strong>
         <span>591PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Lesmere_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Lesmere_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> The Duchy of Lesmere, part of the informal Empire of <a href="Meadrath" class="internal-link">Meadrath</a> is a vassal of the Meadi realm and located in the Kranmoor and the southern Weadi Wetlands. Often in minor conflicts with both Schipwig and <a href="Gisvale" class="internal-link">Gisvale</a>, its the proud home of the Kranmer people who have ruled themselves, at least somewhat autonomously, since the days of the Auguri Dominion.</p>
 

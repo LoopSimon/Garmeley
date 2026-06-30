@@ -43,7 +43,7 @@
         <strong>Formed</strong>
         <span>522PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Turpador_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Turpador_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of <a href="Jeledo" class="internal-link">Jeledo</a> and Turpador would reject <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. </p>

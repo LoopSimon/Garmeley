@@ -44,6 +44,6 @@
         <span>835PA</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Halgrach_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Halgrach_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>Halgrach was the first Kingdom of the Grachi within southern Nostroya, established in 299PA and marking the begin of a true grachian culture and political autonomy. Its traditions and political institutions were largely continued within the <a href="Grachy" class="internal-link">Republic of Grachy</a> with the notably exception of the abolishment of a Ras or "King" following the Death of Ras Oleksandr IV during the Brothers War of the 830s.</p>

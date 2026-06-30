@@ -45,7 +45,7 @@
         <strong>Formed</strong>
         <span>847PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grivil_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Grivil_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> What started as a Haven for bandits, mercenaries and outlaws from surrounding Realms within the refuge of the Whisperhills has become a formidable City of independant and mostly free citizens near the rakhian Wastelands, along with <a href="Hainach" class="internal-link">Hainach</a> they are actively attempting to recolonize the wastes from the mainland.
 </p>

@@ -42,7 +42,7 @@
         <strong>Formed</strong>
         <span>377PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Rovgi_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Rovgi_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Rovgi is one of the major Vadcy within Vihr, holding the Oathhills north of the Tryd River, it is closely associated with the religious history of the Realm and the newest Vadcy. </p>

@@ -44,7 +44,7 @@
         <strong>Formed</strong>
         <span>377PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Trazlov_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Trazlov_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Trazlov is one of the major Vadcy within Vihr and its most populated one. The Var of Trazlov has traditionally held the prestigious Office of Foreman of the Honoured Assembly. A vast majorits of the Vadcys population resides within the city of Trazlov itself: sometimes referred to as "old Grach" due to its cultural ties with Grachy, at over 120000 inhabitants the port city is the largest city within the entire Country of Vihr, even exceeding the capital Zavlech. Trazlov is home to two major international organisations of commerce and importance: the <a href="Trazlov Consortium" class="internal-link">Consortium of Trazlov</a> as well as the <a href="The ALchemists Guild" class="internal-link">Men of Glass</a>.</p>

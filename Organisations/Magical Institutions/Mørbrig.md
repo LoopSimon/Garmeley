@@ -2,7 +2,7 @@
 [[Trykkerog]]
 [[Orenburg Pact]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/morbrig_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/morbrig_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Seal of the Chapter</i></small>
 </div>
 <p>The Mørbrig Chapter, also known as the Chapter of the Gifted & the Learned of Mørbrig Isle, is an arcane Instituion of Learning and Research based on Mørbrug Isle, near Trykkerog. The Members of the Chapter usually come from Trykkerog, Nostroya and northern Urland. Noticably different from Institutions such as Korsfall College, Hevn Academy or Szievek University is that it is not beholden to any worldly power and in fact is older than all of these houses of learning and many realms in general.</p>

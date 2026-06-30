@@ -38,7 +38,7 @@
         <strong>Formed</strong>
         <span>709A</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Almadus_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Almadus_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>The Emirate of Iz-Almadus began as a colony of the <a href="Elbae" class="internal-link">Elbae</a> Sultanate in the 6th century PA. a Green Oasis on the Beheran Coast, nestled into the protective Ilkiztis Mountains the City of Almadin has become a sprawling Port City connected even to the Drowrealm of the Underlands. It was officially granted autonomy and the status of Emirate by the Sultan in the year 709PA. </p>

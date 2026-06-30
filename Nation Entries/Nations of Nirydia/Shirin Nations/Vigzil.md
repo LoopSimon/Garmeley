@@ -41,7 +41,7 @@
         <strong>Formed</strong>
         <span>711PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Vigzil_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Vigzil_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Following the Khulhki-Rebellion of the late 7th century PA, tens of thousands of Shirin Loyalists followed Timpo, Khulkis nephew, northwards into the tundra of Gellions Folly where they would proclaim a new nation of free Shirin, rejecting the oppressive Twintail and the worship of Lakal. Today Vigzil is a larger realm within northern Nirydia and has largely adopted Zuhuri traditions, still openly opposing the Imperium in all major conflicts on the international stage.</p>
 <h2>Foundational History</h2>

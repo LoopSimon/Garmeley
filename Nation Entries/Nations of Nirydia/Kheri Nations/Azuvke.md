@@ -41,7 +41,7 @@
         <strong>Formed</strong>
         <span>ca 8th-7th century BA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Azuvke_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Azuvke_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> The Principality of Azuvke is a Kheri realm in the southern party of Western Nirydia, at the delta of the Osmahr River. It represents the last remaining independent city state of the pre-Kherovan age of Cities. The country is closely allied with the <a href="Kherova" class="internal-link">Kherovan Khatrym</a>.</p>
 

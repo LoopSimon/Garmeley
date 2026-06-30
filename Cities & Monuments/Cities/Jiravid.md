@@ -38,7 +38,7 @@
         <span>19th century BA</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Jiravid_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Jiravid_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>Jiravid is a major city in Behera, lying at the Delta of the Za-Jira River at the Strait of Meter, it is the largest City within the Elbae Sultanate and its capital. Founded during the 19th century BA, Jiravid was one of the largest and most important cities of antiquity and has been a leading hub for science, culture and scholarship. Nicknamed the "Pearl of the Desert Coast", the city is an extremely popular world port and part of the greater network of trade and commerce underlined by operations of the Sultanates international influence and the ship lines of the <a href="Grand Ziflis Company" class="internal-link">G.Z.C.</a> Jiravid was originally established as the ancient elven settlement of Farzirash as it was one of the only connections to the sub-beheran cave systems lying naturally close to the ocean. </p>
 <p>Jiravid literally translates to "Glorious Jir" and was named after the founder of the first great elven Dynasty, Jir. Before Jirs conquests and union of the elven Tomb Cities it was known as Farzirash.</p>

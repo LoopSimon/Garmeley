@@ -43,7 +43,7 @@
         <strong>Formed</strong>
         <span>241PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/vihr_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/vihr_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>One of the largest nations in not just <a href="Ilrakhan" class="internal-link">Ilrakhan</a> but all <a href="Inara" class="internal-link">Inara</a>, Vihr lays claim to the lands between Mistspires and Grachhyll in the East and the Trollback Mountains in the west while considering the former Lands of <a href="Wermia" class="internal-link">Wermia</a>, although largely uninhabitable, in the North, as well as southern end of the Vihri Expanse up until the Pilv River part of their domain. The capital of Vihr, Zavlech, is one of the largest cities in the known world with a population of ca 105.000 citizens.</p>

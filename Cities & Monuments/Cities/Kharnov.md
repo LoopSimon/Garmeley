@@ -39,6 +39,6 @@
         <span>1st century BA as Breel</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Kharniv_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Kharniv_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>Kharnov is a town within the northern Grachwoods Region of Grachy, sitting alongside the Orin River. Before the fall of Roygviil it was known under its pehki name, Breel, but siege and destruction left most of it abandoned following the wars, it has recently enjoyed a larger rebuilding effort and is growing into a prospering town, already threatening to outshine Wangrad, the Regions official capital.</p>

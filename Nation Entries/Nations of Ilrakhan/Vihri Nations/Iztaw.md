@@ -43,6 +43,6 @@
         <strong>Formed</strong>
         <span>240PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Iztaw.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Iztaw.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Iztaw rules over a conglomeration of territories in northern Vihr, largely autonomous within the greater Vihri Kingdom it is excempt from almost all obligations such as taxes and levies.</p>

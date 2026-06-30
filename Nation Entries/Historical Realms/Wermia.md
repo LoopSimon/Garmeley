@@ -47,7 +47,7 @@
         <strong>Disbanded</strong>
         <span>205PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Wermia_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Wermia_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Wermia also known as the Kingdom of Wermia was an old Kingdom that infamous fell during the Demonic <a href="The Incursion" class="internal-link">Incursions</a>  of the early 3rd century, its modern day territories have largely been subsumed by Vihr.</p>
 

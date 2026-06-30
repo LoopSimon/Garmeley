@@ -1,4 +1,6 @@
 %%
+[[White Wars]]
+[[Old Tusul]]
 [[Tusul]]
 %%
 <div class="wiki-infobox">
@@ -40,5 +42,5 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Asper.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Born after the end of the White wars and the subjugation of Tusul, Asper Irates became a successful officer in the southern Dusk Army, one of the largest standing armies within the Sultante. Following the Incident of 902 and the Azarli Decree, he deserted the army and declared himself and any willing Zipivi free of elven yoke, beginning his own personal war against elven oppression for a free Tusul. </p>
+<p>Born after the end of the <a href="White Wars " class="internal-link">White wars </a>and the subjugation of <a href="Old Tusul" class="internal-link">old Tusul</a> and its transformation into the Emirate of <a href="Tusul" class="internal-link">Tusul</a>, Asper Irates became a successful officer in the southern Dusk Army, one of the largest standing armies within the <a href="Elbae" class="internal-link">Sultante</a>. Following the Incident of 902 and the Azarli Decree of the newly appointed and tyrannical Emir, <a href="Zazir Brahmis" class="internal-link">Zazir Brahmis</a>, he deserted the army and declared himself and any willing Zipivi free of elven yoke, beginning his own personal war against elven oppression for a free Tusul. </p>
 <p>His personal force of warriors and intelligence operatives are calling themselves the Brotherhood of the Lemon Tree, named after the Lemon Tree of Arikh, Aspers Hometown. His unique mind for guerrilla warfare and strike & retreat skirmish warfare has allowed the zipivi rebels to punch far above their weight</p>

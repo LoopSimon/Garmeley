@@ -4,7 +4,7 @@
 [[The Ottian Syndicate]]
 [[Terem-Zal]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Xerental_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Xerental_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Rune of the Xerental</i></small>
 </div>
 <p>The Xerental are the commercial "arm" of the the Hold of <a href="Xer-Kol" class="internal-link">Xer-Kol</a>, initially a private Cartel within the hold that controlled a large portion of the export business with Vihr and Urland, the Xerental eventually grew so big and influential it was subsumed by the official Hold administration and is currently essentially the ministry for trade and finance. The Symbol of the Xerental is the Basalt Sun of <a href="Terem-Zal" class="internal-link">Xer-Higrid</a>, a white Sun with six flares emitting from it.</p>
