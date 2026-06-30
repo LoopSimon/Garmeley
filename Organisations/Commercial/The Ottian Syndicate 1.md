@@ -2,7 +2,7 @@
 [[Ott]]
 [[Artificery]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Syndicate_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Syndicate_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Rune of the Syndicate</i></small>
 </div>
 The Art of Artificery describes the three Schools of magical research related to Artifacts, Maintenance, Modulation and Creation, and nobody can deny the gnomes of Ott their superiority in this field.

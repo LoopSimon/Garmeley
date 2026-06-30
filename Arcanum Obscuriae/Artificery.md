@@ -1,6 +1,6 @@
 %%
 [[Basic Magical Theory]]
-[[The Ottian Syndicate]]
+[[The Ottian Syndicate 1]]
 [[Basic Magical Theory]]
 [[Advanced Magical Theory]]
 %%

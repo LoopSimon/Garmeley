@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>901PA, Grevec</span>
+        <span>903PA, Grevec</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>26</span>
+        <span>24</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

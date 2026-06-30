@@ -1,5 +1,11 @@
+- 2026-07-01T0041 · Karajal School of Insight
+- 2026-07-01T0041 · Gnome
+- 2026-07-01T0041 · Artificery
+- 2026-07-01T0041 · The Ottian Syndicate 1
+- 2026-07-01T0039 · Theresa Salbridge
+- 2026-06-30T2346 · Ilonism
+- 2026-06-30T2313 · Minotaur
 - 2026-06-30T1836 · Rulers of the Beheran Elves
-- 2026-06-30T1822 · The Ottian Syndicate
 - 2026-06-30T1822 · Runland
 - 2026-06-30T1305 · Rulers of the Meadi
 - 2026-06-30T1246 · Meadrath
@@ -92,9 +98,3 @@
 - 2026-06-29T1920 · Battvia
 - 2026-06-29T1920 · Hanshi
 - 2026-06-29T1920 · Byamon
-- 2026-06-29T1919 · Yorgos
-- 2026-06-29T1919 · Yokosch
-- 2026-06-29T1919 · Pravazik
-- 2026-06-29T1919 · Koshtir
-- 2026-06-29T1919 · Iz-Almadus
-- 2026-06-29T1919 · Elbae
