@@ -7,6 +7,7 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizun Jungle </div>
+			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
@@ -42,6 +43,7 @@
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
 	        <div class="timeline-item" data-date="1805BA">High Vendili political consolidation emerges</div>
+	        <div class="timeline-item" data-date="1790BA">Earliest Evidence for Vahri settlements along south-western Behera</div>
             <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
@@ -59,11 +61,14 @@
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
+            <div class="timeline-item" data-date="1004BA">First Mention of Spurshey swamp settlements in Danbry from Vahri records </div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
+            <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders</div>
             <div class="timeline-item" data-date="670BA">Neyadastes writes the Codex Kynosis</div>
+            <div class="timeline-item" data-date="650BA">Spurshey and Vahri settlers encounter Vinjiri Safir, cultural exchange begins across the mountains</div>
 	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
             <div class="timeline-item" data-date="640BA">Genevi finds the Keystar north of the Ronra</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
@@ -87,13 +92,15 @@
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
+            <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
-            <div class="timeline-item" data-date="282BA">Rise of the Cyclopi</div>
+            <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
+            <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
             <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis</div>
             <div class="timeline-item" data-date="185BA">End of Beherian Campaigns</div>
@@ -107,6 +114,7 @@
             <div class="timeline-item" data-date="90BA">Gunrsbridge is finished by the great Giants of the North</div>
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
+            <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
             <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rakh, Rakhi Dissappearence and Dissolution of the Meter Dynasty</div>
@@ -129,6 +137,7 @@
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
+              <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="148PA">Barali Invasion of Drizun, Mogyri Shogunate takes power</div>
             <div class="timeline-item" data-date="149PA">Giants retreat beyond Waelajokull</div>
@@ -145,6 +154,7 @@
             <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
             <div class="timeline-item" data-date="219PA">Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizun</div>
             <div class="timeline-item" data-date="226PA">2nd Wermian Incursion</div>
+            <div class="timeline-item" data-date="237PA">Danbry Warlord Caelmer declades himself the first King of Spursley</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
@@ -219,6 +229,7 @@
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
+            <div class="timeline-item" data-date="577PA">End of the Geoli Republic</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">

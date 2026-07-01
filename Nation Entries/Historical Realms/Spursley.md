@@ -37,12 +37,12 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span>
-            N/A
+            Danbry Warlords
         </span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>unknown</span>
+        <span>237</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>
@@ -50,5 +50,7 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Spursley_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>The Holy Kingdom of Spursley was a now fallen nation that ruled much of the West Beheran Coast and even established itself on many islands further west within the Tirean Ocean. It infamously underwent a destructive period following the Disaster of 747PA during which a magical ritual misfired, the planar energies involved flowed into the great Node-Towers of the Kingdom that projected fields of weather protection across the lands, and the spell developing into an autonomous self-replicating curse effect: The Citizens of Spursley living on the mainland at the time were turned into continuously reanimating undead, husks capable of organic restoration as long as they lived within the Node-Field of Spursley, unable to die, sleep or cease being in any form.</p>
+<p>The Holy Kingdom of Spursley was a now fallen nation that ruled much of the West Beheran Coast  and the Region of Danbry, even establihsing itself on many islands further west within the Tirean Ocean. It infamously underwent a destructive period following the Disaster of 747PA during which a magical ritual misfired, the planar energies involved flowed into the great Node-Towers of the Kingdom that projected fields of weather protection across the lands, and the spell developing into an autonomous self-replicating curse effect: The Citizens of Spursley living on the mainland at the time were turned into continuously reanimating undead, husks capable of organic restoration as long as they lived within the Node-Field of Spursley, unable to die, sleep or cease being in any form.</p>
+
+<p>Spursleys founding is dated back to 237PA, when the Danbry Warlord Caelmer defeated his rival Firwin and declared himself the "Lion of the Seasons" almost all later Kings of Spursley would declare Caelmer the first King of Spursley. </p>
 <p>Following the Disaster of 747, Spursley entered into a period of great upheaval, with the mainlands Kingdom eventually reorganising into the <a href="Bilsworth" class="internal-link">Bilsworth Ministry</a> of today, while its largest surviving remnants unaffected by the Curse united as the Nation of <a href="Runsby" class="internal-link">Runsby</a>.</p>
