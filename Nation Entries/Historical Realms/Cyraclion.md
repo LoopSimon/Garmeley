@@ -46,6 +46,7 @@
         <strong>Disbanded</strong>
         <span>400BA</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Cyraclion_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Ancient Cyraclion was a southern Ilrakhi civilization, existing from the early to mid Bronze Age until the mid Iron Age, comprising a first loose and later united collection of culturally and linguistically related city-states and communities. Prior to the Cyracli collapse, a lot of the regions of this Island culture were united under a League of City States that actively waged war with the palmunian and rakhian civilizations of the time. Classicaly cyracli culture, especially philosophy, theatre and natural science, had a powerful influence on ancient Rakh and Palmunia.</p>
 <p>Cyraclion is generally considered the cradle of Alchemy, and to this day the cyracli word for Alchemy, <a href="Alchemy" class="internal-link">Kynosis</a> as well as a plephora of other terms are used, the "golden fathers" of Alchemy, scholars like Kasthemis, Pixos and Neyadastes, are still being studied from the few texts that have survived the mysterious collapse of their civilization.</p>
