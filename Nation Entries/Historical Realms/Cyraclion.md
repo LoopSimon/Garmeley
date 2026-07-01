@@ -23,7 +23,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>N/A (Various local traditions)</span>
+        <span><a href="Starworship" class="internal-link">Cyracli Starworship</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -40,7 +40,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>first record ca. 2200BA </span>
+        <span>first recorded of unified cities ca. 2200BA </span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>

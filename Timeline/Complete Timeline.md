@@ -37,6 +37,7 @@
 	        <div class="timeline-item" data-date="2200BA">Earliest evidence for the city of Parkymin</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
+	        <div class="timeline-item" data-date="1990BA">Likely Foundation of Lorqis</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
 	        <div class="timeline-item" data-date="1950BA">First true glass smelting occurs in Cyraclion</div>
 	        <div class="timeline-item" data-date="1845BA">Gate of Palmunis is constructed</div>
@@ -85,6 +86,7 @@
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
+            <div class="timeline-item" data-date="430BA">The City of Geol is build by Vahri merchants</div>
             <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
