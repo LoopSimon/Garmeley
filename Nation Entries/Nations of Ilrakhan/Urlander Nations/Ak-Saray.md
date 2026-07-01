@@ -1,5 +1,5 @@
 %%
-[[Kaladi Mysticim]]
+[[Kaladi Mysticism]]
 [[Hobgoblin]]
 %%
 <div class="wiki-infobox">
@@ -23,7 +23,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Kaladi Mysticim" class="internal-link">Kaladi Mysticism</a>
+        <a href="Kaladi Mysticism" class="internal-link">Kaladi Mysticism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
