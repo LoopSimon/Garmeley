@@ -1,3 +1,4 @@
+- 2026-07-02T0045 · Lugosch
 - 2026-07-02T0043 · Dragon
 - 2026-07-01T2339 · Knights of the Green Tree
 - 2026-07-01T2335 · Knights of the Spring
@@ -15,7 +16,6 @@
 - 2026-07-01T2004 · Tarqin
 - 2026-07-01T1855 · Twintail Imperium
 - 2026-07-01T1854 · Ak-Saray
-- 2026-07-01T1854 · Lugosch
 - 2026-07-01T1435 · Codex Thereticum
 - 2026-07-01T1426 · Yl-Lhatsi
 - 2026-07-01T1415 · Adral Fidrakis

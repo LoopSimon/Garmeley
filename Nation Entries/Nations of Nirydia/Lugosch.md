@@ -1,5 +1,8 @@
+%%
 [[Hobgoblin]]
-[[Kaladi Mysticism]]
+[[Kaladi Mysticism]] 
+[[Pintrixaz]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
     <div class="wiki-row">
@@ -21,15 +24,15 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span></span>
+        <a href="Kaladi Mysticism" class="internal-link">Kaladi Mysticism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Niryd <a href="Hobgoblin" class="internal-link">Hobgoblin</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Overgob</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
