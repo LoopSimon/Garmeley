@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>N/A</span>
+        <span>Two White Eagles over two crossed Swords</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

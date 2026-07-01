@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span><span>
+        <span>Red and White Sun on Desert<span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

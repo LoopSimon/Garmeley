@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Geoli Hand in Iron Gauntlet</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
