@@ -1,5 +1,5 @@
 %%
-[[Lakalism]] [[Shirin]] [[Vigzil]] [[Niryd Steppe]] [[Red Iron Towers]] [[Bigronism]]
+[[Lakalism]] [[Shirin]] [[Vigzil]] [[Niryd Steppe]] [[Red Iron Towers]] [[Bigronism]] [[Jorvistan]]
 %%
 
 <div class="wiki-infobox">

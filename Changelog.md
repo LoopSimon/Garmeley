@@ -1,3 +1,4 @@
+- 2026-07-01T1855 · Twintail Imperium
 - 2026-07-01T1854 · Ak-Saray
 - 2026-07-01T1854 · Enleidis
 - 2026-07-01T1854 · Lugosch
@@ -50,7 +51,6 @@
 - 2026-06-29T1926 · Nilborg
 - 2026-06-29T1926 · Jorvistan
 - 2026-06-29T1925 · Vigzil
-- 2026-06-29T1925 · Twintail Imperium
 - 2026-06-29T1925 · Qarzi
 - 2026-06-29T1925 · Qahori
 - 2026-06-29T1925 · Kamerzin
