@@ -1,13 +1,17 @@
 
 A list of known Dragons
 
+***Raugfur***
+	 "The Great Shadow", a creature more myth than even legend is often considered the ancestral father of all Dragons and winged god of life and death. He is worshipped under many names in various cultures of the northern hemisphere and mentioned in the Bykmali, Nostroyan Saga Cycles as well as Nirydian and even Zefelli sources as the greatest of all Dragons.
+
+
 ***Heximar***
 	known as "the Unlit" due to his black scales, 
 	descended the central Kortopi's in the late 3rd century BA. 
 	After devastating the Meadi Highlands, modern day [[Meadrath]], he was supposedly slain by the Hero Gismar, the founder of the House of Gismar that would continue to rule the Gisvale for centuries.
 
 ***Fagnir***
-	mythical Dragon of [[Trykkerog]] mentioned in the Saga of Ylva.
+	mythical Dragon of [[Trykkerog]] mentioned in the  [[Fjorisjom Saga]].
 
 ***Thamira***
 	The Antagonist in *"The Fated Journey of Khariel"*, a Kherovan tale describing the real life figure of Khariel, likely dated to the Era of Cities in the history of [[Kherova]], Thamira's Rest, the rocky lands on the south-eastern slopes of the Mistspires, are named after this Wyrm.
