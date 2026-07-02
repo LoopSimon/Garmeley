@@ -5,7 +5,7 @@
 [[The Veilcurse]]
 [[Trinvale]]
 %%
-<p>In January of 923PA, the village of Mossbrook within the Deathcap Mire was destroyed due to the appearance of a mysterious Tower over night on the dawn of spring. The exact persons involved, their motivations and their fate remain vastly unknown.</p>
+<p>In January of 923PA, the village of Mossbrook within the Deathcap Mire was destroyed due to the appearance of a mysterious Tower over night on the dawn of spring. The exact persons involved, their motivations and their fate remain largely unknown.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Velona.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Velona Morrington</i></small>
 </div>
