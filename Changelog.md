@@ -1,5 +1,8 @@
-- 2026-07-02T2356 · Grachy
-- 2026-07-02T2338 · Izevkh
+- 2026-07-03T0041 · Izevkh
+- 2026-07-03T0041 · Igor
+- 2026-07-03T0037 · Grachy
+- 2026-07-03T0021 · Great Eastern War
+- 2026-07-02T2357 · Trazlov Consortium
 - 2026-07-02T1314 · Landerly
 - 2026-07-02T1313 · Tarqin
 - 2026-07-02T1313 · Nir Hadast
@@ -54,7 +57,6 @@
 - 2026-06-29T1927 · Fellows of the Dancing Flame
 - 2026-06-29T1927 · Korsfall College
 - 2026-06-29T1927 · Xerental
-- 2026-06-29T1927 · Trazlov Consortium
 - 2026-06-29T1927 · The Alchemists Guild
 - 2026-06-29T1927 · Grand Ziflis Company
 - 2026-06-29T1927 · Excavators Guild of Butera
@@ -96,5 +98,3 @@
 - 2026-06-29T1922 · Eldmar
 - 2026-06-29T1922 · Vignasoya
 - 2026-06-29T1922 · Juelfluk
-- 2026-06-29T1922 · Baeling
-- 2026-06-29T1922 · Reanport

@@ -6,6 +6,8 @@
 [[The Alchemists Guild]]
 [[Trazlov]]
 [[Halgrach]]
+[[Vasily Surovsky]]
+[[Ivanova Orin]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Grachy</h4>
@@ -55,7 +57,7 @@
 <p> With the end of the Royal Line of Grach in the early 9th century PA, the influence of the feudal nobility within the Cities of Grachy had almost completed given way to the rich burgher class that emerged during the 7th and 8th century. A proud history and stern Gethric realm still, the young Republic has survived a long tale of struggles already, its wars with <a href="Vihr" class="internal-link">Vihr</a> to the east have left it without its oldest ally standing in the long conflict with the Pehki of <a href="Ukiolla" class="internal-link">Ukiolla</a>.</p>
 <h2>Geography</h2>
 <p>Grachy is located in southern and central Nostroya, on the eastern shores of the Torn Sea, its coastal regions possess a more maritime climate with cooler summers and milder winters, while northern and eastern parts of the country exhibit a more continental climate with warmer summers and harsher winters. </p>
-<p>Grachy is bordered by the Grachhyll in the south and the Mistspires in the East, it stretches as far north as the Stillwater River before the Ukiollan border begins. Forests dominate Grachy substantially but flatlands and farmlands are still to be found, especially within the central Gasyol Region of the country, a vast majority of the countries population lives in the southern coastal areas and around the Halgior River.</p>
+<p>Grachy is bordered by the Grachhyll in the south and the Mistspires in the East, it stretches as far north as the Stillwater River before the Ukiollan border begins. Forests dominate Grachy substantially but flatlands and farmlands are still to be found, especially within the central Gasyol Region of the country, a vast majority of the countries population lives in the southern coastal areas and around the Halgior River. Grachy is usually divided into the Lands north and south of the Halgrior River, although often times a division between east and west would be more apt, considering the wealth distribution within the Republic.</p>
 
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grachy_map.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
@@ -75,25 +77,31 @@
 <p>The Ushkyn is an old institution originating in the initial traders that sailed and settled across the Horn itself, literally meaning "peoples assembly" in Grachi. As an Institution it is present in almost all towns and cities in the country, and allows all dubush or "honoured people" of the community to partake and vote on certain issues and officials. Generally most burghers, nobles and respected landowners of higher standings are granted the rank of dubush,  although a large majority of commoners do not posses it.</p>
 <p>The Grand Ushkyn meets every year in Halgrach and is responsible for major decisions regarding the countries policies, internal and external, as well as the election of the Bagram who leads the country in most matters and acts as head of the Grand Ushkyn, currently the Bagram of Grachy is Ilja Zemov who had been elected to his 2nd term in 922PA. </p>
 <p>The Nobility of Grachy, often referred to as the Boyars still hold the vast majority of the power within the country, dominating the Ushkyn of a large amount of regions, during the Reformation of Grachy and the dissolution of the monarchy itself these lesser nobles actually gained power as the country became very decentralized and locally autonomous, as opposed to a more strict feudal structure of absolute rule from Halgrach. The leaders of a city, almost always Boyars themselves are referred to as Grams, they can be seen as equivalent to the most powerful nobles of similar countries and hierarchies. </p>
+<h4>The current members of the Grand Ushkyn</h4>
+<p>The Bagram of Grachy is the Head of the Ushkyn and the main executive authority within the Republic, currently this is Ilra Zemov. The Gram of the Major Regions within the Republic each hold a major seat in the Ushkyn and are in turn elected by the Ushkyn of their Regions, the current Gram of Grachy are: </p>
+<p>Vladimir Orzin, Gram of the Durilsk Region</p>
+<p>Gereda Zmadry, Gram of the Drakhov Valley Region</p>
+<p>Vlad Kulyat, Gram of the Kulyat Region</p>
+<p>Petr Kebtov, Gram of the Upper Drakhov Region</p>
+<p><a href="Ivanova Orin" class="internal-link">Ivanova Orin</a>, Gram of the Northern Grachwoods Region</p>
+<p>Eril Ruda, Gram of the Jaerflow Region</p>
+<p>Iljya Medvov, Gram of the Nevland Region</p>
+<p>Ivan Zeresky, Gram of the Bryansk Valley Region</p>
+<p>Hesser Modva, Gram of the Modva Region</p>
+<p>Avanya Stir, Gram of the Voblag Bay Region</p>
+<p>Katerina Torkov, Gram of the Lower Hyll Region</p>
+<p>Sonja Modriv, Gram of the Hyllpass Region</p>
+<p>Alexey Korpov, Gram of the Upper Hyll Region</p>
+<p>Pavel Redvedev, Gram of the Southern Grachwoods Region</p>
+<p>Boris Markov, Gram of the Tor Valley Region</p>
+<p>Varina Uzlik, Gram of the Lishklake Region</p>
+<p>Radmer Runikov, Gram of the Run Region</p>
+<p>In addition to the Bagram of Halgrach and the seventeen Gram of the republics Regions, the Lord-General of the Republic, currently <a href="Vasily Surovsky" class="internal-link">Vasily Surovsky</a> and the Archbishop of Grachy, currently Yury Goruky, hold major seats within the Grand Ushkyn. A greater number of various Boyar of the Republic hold lesser seats within the Grand Ushkyn.</p>
 <h2>History</h2>
 <small><i>for a History of Halgrach until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
-<h2>People of Interest</h2>
+<h2>Other People of Interest</h2>
 
-Ilja Zemov
-	Balgram of Grachy in his 2nd Term
-	
-Vasily Surovsky
-	Lord-General of the Republic
-	
-Vlad of House Kulyat
-	Gram of Kulyat
-	
-Ivanova of House Orin
-	Gram of Wangrad
-	
-Avanya of House Stir
-	Gram of Izevkh
-	
+
 Beryl Lenkov
 	Boyar in Wangrad
 	
