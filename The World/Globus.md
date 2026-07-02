@@ -1,6 +1,6 @@
 orbited by [[The first Moon]] and [[The second Moon]]
 
-47890 km equatorial circumference
+50000 km equatorial circumference
 
  [[Inara]]:
 	Made up of the continents of: Ilrakhan, Nirydia and Behera.

@@ -13,7 +13,7 @@ Esper, Archer and loyal supporter of Lorana
 Daxos, Conflicted Fighter
 
 Oroyo, Captured Safir
-Gasfira, Captured Elf
+Rafira, Captured Elf
 Jiballo, Captured Half-Elf Professor
 
 Semron, captured dwarven Mercenary
