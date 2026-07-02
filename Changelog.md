@@ -1,4 +1,4 @@
-- 2026-07-02T0200 · Mossbrook Affair
+- 2026-07-02T0205 · Mossbrook Affair
 - 2026-07-02T0115 · Codex Thereticum
 - 2026-07-02T0048 · Globus
 - 2026-07-02T0045 · Lugosch
