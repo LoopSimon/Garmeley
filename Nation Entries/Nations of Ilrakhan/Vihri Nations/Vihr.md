@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Ras Miskomir IV</span>
+        <span><a href="Vormil III" class="internal-link">Ras Vormil III</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -80,10 +80,10 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <hr class="wiki-hr">
 <h2>Politics</h2>
 <small><i>see <a href="Rulers of Vihr" class="internal-link">The Rulers of Vihr</a></i></small>
-<p>The Kingdom of Vihr is ruled by the Kings in Zavlech, currently Miskomir IV of House Ralpia and has been since its founding in the middle of the 3rd century PA.</p>
+<p>The Kingdom of Vihr is ruled by the Ras in Zavlech, currently Vormil III of House Ralpia and has been since its founding in the middle of the 3rd century PA.</p>
 <p>The Power in Vihr is largely if not entirely in the hands of the <a href="Church of Iztaw" class="internal-link">Church of Iztaw</a> and the Aristocracy who are unified in the Honoured Assembly, an old institution with roots in Vihrmen tradition from before the foundation of the Kingdom. The Nobility, or Uzidcy, of Vihr is organized in lesser landholders and raised knights who often swear fealty to the Gris who in turn usually are subject under a Vadcy unified under the Vihri Throne. The Var, who rule the Vadcy and sit all within the Honoured Assembly, hold vast powers within their domains and are largely autonomous.</p>
 <p>Periods of Vihri History are often defined by the Kings relationship with the High-Bishop of Iztaw, and the silent power struggle between Iztaw and Zavlech.</p>
-<p>In current times the High-Bishop is seen as a figure of influence and importance at the court, but power rests firmly within the Hands of King Miskomir IV.</p>
+<p>In current times the High-Bishop is seen as a figure of influence and importance at the court, but power rests firmly within the Hands of Ras Vormil III.</p>
 
 <hr class="wiki-hr">
 <h2>History</h2>
@@ -105,7 +105,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 
 <h2>People of Interest</h2>
 
-Miskomir, fourth of his Name of House Ralpia
+Vormil, third of his Name of House Ralpia
 	Ras of Vihr
 	
 Vaszco of House Ralpia

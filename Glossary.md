@@ -4,9 +4,11 @@
         <div class="timeline-list">
             <div class="timeline-item" data-date="Rascy">Kingdom</div>
             <div class="timeline-item" data-date="Ras">King</div>
+            <div class="timeline-item" data-date="Gras">Queen</div>
             <div class="timeline-item" data-date="Kis">Prince</div>
             <div class="timeline-item" data-date="Kisras">Crownprince</div>
-            <div class="timeline-item" data-date="Gras">Queen</div>
+            <div class="timeline-item" data-date="Kisa">Princess</div>
+            <div class="timeline-item" data-date="Kisaras">Crownprincess</div>
             <div class="timeline-item" data-date="Vadcy">Duchy</div>
             <div class="timeline-item" data-date="Var">Duke</div>
             <div class="timeline-item" data-date="Grisy">County</div>

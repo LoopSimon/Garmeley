@@ -66,4 +66,4 @@
 <p>Arngil II von Kor, 841PA - 858PA</p>
 <p>Gilmar I von Kor, 858PA - 883PA</p>
 <p>Gisela III "the Kind" von Kor, 883PA - 910PA</p>
-<p>Gisela IV von Kor, 910PA - current</p>
+<p><a href="Gisela IV" class="internal-link">Gisela IV von Kor</a>, 910PA - current</p>
