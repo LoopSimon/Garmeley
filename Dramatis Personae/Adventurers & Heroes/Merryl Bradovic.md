@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Grachy Human</span>
+        <span>Grachi Human</span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

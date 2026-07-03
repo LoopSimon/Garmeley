@@ -8,6 +8,7 @@
 [[Halgrach]]
 [[Vasily Surovsky]]
 [[Ivanova Orin]]
+[[Ilja Zemov]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Grachy</h4>
@@ -17,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Bagram Ilja Zemov (2nd Term)</span>
+        <span>Bagram <a href="Ilja Zemov" class="internal-link">Ilja Zemov</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -95,7 +96,7 @@
 <p>Pavel Redvedev, Gram of the Southern Grachwoods Region</p>
 <p>Boris Markov, Gram of the Tor Valley Region</p>
 <p>Varina Uzlik, Gram of the Lishklake Region</p>
-<p>Radmer Runikov, Gram of the Run Region</p>
+<p>Oleg Zemov, Gram of the Run Region</p>
 <p>In addition to the Bagram of Halgrach and the seventeen Gram of the republics Regions, the Lord-General of the Republic, currently <a href="Vasily Surovsky" class="internal-link">Vasily Surovsky</a> and the Archbishop of Grachy, currently Yury Goruky, hold major seats within the Grand Ushkyn. A greater number of various Boyar of the Republic hold lesser seats within the Grand Ushkyn.</p>
 <h2>History</h2>
 <small><i>for a History of Halgrach until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
