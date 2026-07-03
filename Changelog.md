@@ -1,8 +1,8 @@
-- 2026-07-03T1341 · Vormil III
+- 2026-07-03T1343 · Gisela IV
+- 2026-07-03T1342 · Vormil III
 - 2026-07-03T1340 · Jakub Ralpia
 - 2026-07-03T1331 · Glossary
 - 2026-07-03T1327 · Rulers of Vihr
-- 2026-07-03T1320 · Gisela IV
 - 2026-07-03T1304 · Meadrath
 - 2026-07-03T0328 · Rulers of the Meadi
 - 2026-07-03T0323 · Vihr
