@@ -1,3 +1,6 @@
+- 2026-07-05T1739 · Sinlapsi
+- 2026-07-04T0244 · Selbia
+- 2026-07-04T0233 · Old Tusul
 - 2026-07-03T1904 · Ilja Zemov
 - 2026-07-03T1856 · Grachy
 - 2026-07-03T1539 · Merryl Bradovic
@@ -43,12 +46,10 @@
 - 2026-07-01T0041 · Karajal School of Insight
 - 2026-07-01T0041 · Gnome
 - 2026-07-01T0041 · Artificery
-- 2026-07-01T0041 · The Ottian Syndicate 1
 - 2026-07-01T0039 · Theresa Salbridge
 - 2026-06-30T2346 · Ilonism
 - 2026-06-30T2313 · Minotaur
 - 2026-06-30T1836 · Rulers of the Beheran Elves
-- 2026-06-30T1822 · Runland
 - 2026-06-30T1203 · Fjorisjom Saga
 - 2026-06-30T1201 · Tusul
 - 2026-06-30T1201 · Laughing Clouds
@@ -94,7 +95,6 @@
 - 2026-06-29T1924 · Torry
 - 2026-06-29T1924 · Tloky
 - 2026-06-29T1923 · Szievek
-- 2026-06-29T1923 · Selbia
 - 2026-06-29T1923 · Rovgi
 - 2026-06-29T1923 · Opuzna
 - 2026-06-29T1923 · Nuv Werm

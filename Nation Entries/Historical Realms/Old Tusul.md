@@ -48,4 +48,6 @@
         <strong>Disbanded</strong>
         <span>867PA</span>
     </div>
+    <hr class="wiki-hr">
+	
 </div>
