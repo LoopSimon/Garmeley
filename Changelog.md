@@ -1,4 +1,12 @@
-- 2026-07-06T1456 · Tintarol
+- 2026-07-06T1516 · Hainach
+- 2026-07-06T1516 · Grivil
+- 2026-07-06T1514 · Juelfluk
+- 2026-07-06T1514 · Vignasoya
+- 2026-07-06T1510 · Martella
+- 2026-07-06T1458 · Cimfon
+- 2026-07-06T1458 · Lissvalley
+- 2026-07-06T1457 · Rogyn
+- 2026-07-06T1457 · Tintarol
 - 2026-07-06T1438 · Ukiolla
 - 2026-07-06T1432 · Zmalig
 - 2026-07-06T1432 · Lesmere
@@ -19,7 +27,6 @@
 - 2026-07-06T0631 · Cult of Tirea
 - 2026-07-06T0631 · Nightleaf
 - 2026-07-06T0631 · Fellows of the Dancing Flame
-- 2026-07-06T0609 · Martella
 - 2026-07-06T0555 · Othirdon
 - 2026-07-05T1913 · Sinlapsi
 - 2026-07-04T0244 · Selbia
@@ -58,7 +65,6 @@
 - 2026-07-01T2311 · Lorqis
 - 2026-07-01T2253 · Cyraclion
 - 2026-07-01T2250 · Geol
-- 2026-07-01T2005 · Lissvalley
 - 2026-07-01T2005 · Enleidis
 - 2026-07-01T1855 · Twintail Imperium
 - 2026-07-01T1854 · Ak-Saray
@@ -92,9 +98,3 @@
 - 2026-06-29T1927 · Korsfall College
 - 2026-06-29T1927 · Xerental
 - 2026-06-29T1927 · The Alchemists Guild
-- 2026-06-29T1927 · Grand Ziflis Company
-- 2026-06-29T1927 · Excavators Guild of Butera
-- 2026-06-29T1926 · Sihilixar
-- 2026-06-29T1926 · Nilborg
-- 2026-06-29T1926 · Jorvistan
-- 2026-06-29T1925 · Vigzil
