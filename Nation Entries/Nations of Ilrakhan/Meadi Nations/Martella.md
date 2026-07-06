@@ -6,7 +6,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Grand Duke</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>

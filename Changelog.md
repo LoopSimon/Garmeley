@@ -1,3 +1,7 @@
+- 2026-07-06T1657 · Revelle
+- 2026-07-06T1656 · Erlmondy
+- 2026-07-06T1656 · Ravland
+- 2026-07-06T1656 · Martella
 - 2026-07-06T1615 · Ukiolla
 - 2026-07-06T1614 · Meadrath
 - 2026-07-06T1602 · Orestis
@@ -10,7 +14,6 @@
 - 2026-07-06T1516 · Grivil
 - 2026-07-06T1514 · Juelfluk
 - 2026-07-06T1514 · Vignasoya
-- 2026-07-06T1510 · Martella
 - 2026-07-06T1458 · Cimfon
 - 2026-07-06T1458 · Lissvalley
 - 2026-07-06T1457 · Tintarol
@@ -95,6 +98,3 @@
 - 2026-06-29T1927 · Order of the Silver Wheel
 - 2026-06-29T1927 · Order of the Iron Tower
 - 2026-06-29T1927 · Knights of the Unicorn
-- 2026-06-29T1927 · Korsfall College
-- 2026-06-29T1927 · Xerental
-- 2026-06-29T1927 · The Alchemists Guild
