@@ -49,7 +49,7 @@
 
 
 
-<p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of Jeledo and <a href="Turpador" class="internal-link">Turpador</a> would reject  <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics.</p>
+<p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Monarchs of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of Jeledo and <a href="Turpador" class="internal-link">Turpador</a> would reject  <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. They rule over a coastal land of varying climates and stand in constant exchange with the Realms to the north, but keep out of central Ilrakhani politics. It is closely allied with the Republic of <a href="Firocco" class="internal-link">Firocco</a> with whom it has shared a turbulent history in recent years.</p>
 <h2>People of Interest</h2>
 Ramiro, second of his Name of House Ucarraz
 	Duc of Jeledo

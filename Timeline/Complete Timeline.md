@@ -95,6 +95,7 @@
             <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
+            <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
             <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
@@ -301,7 +302,7 @@
             <div class="timeline-item" data-date="703PA">Splintering of Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
-            <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy</div>
+            <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="711PA">Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
@@ -364,6 +365,7 @@
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
+            <div class="timeline-item" data-date="881PA">Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
             <div class="timeline-item" data-date="870PA">Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>

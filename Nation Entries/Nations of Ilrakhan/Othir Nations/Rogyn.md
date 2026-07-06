@@ -9,7 +9,7 @@
     <h4 class="wiki-header">Elfrealm of Rogyn</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Absolute Monarchy</span>
+        <span>Theocratic Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -34,7 +34,7 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Northern Elvish</span>
+        <span> Western Elvish</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -46,3 +46,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Rogyn_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
+<p>The Elfrealm of Rogyn, meaning "Land of Names" in western elvish, stretches through the Rogyn Forest between Cevolia, Othirdon and Sertova in Eastern Ilrakhan. It has been dominated by the Cult of Names of the Book of Nimru, also simply known as Minruism, for over a millennia and strictly follows the old teachings of the Book of Names. The Elfs within are extremely xenophobic and isolationist but during different periods in history military and diplomatic contact with the nation was way more frequent. In the current day and age almost nothing is known about the ongoings within the Forest and only few outsiders are permitted to enter.</p>

@@ -1,3 +1,8 @@
+- 2026-07-06T1554 · Firocco
+- 2026-07-06T1553 · Complete Timeline
+- 2026-07-06T1540 · Jeledo
+- 2026-07-06T1538 · Rogyn
+- 2026-07-06T1533 · Oresti Pantheon
 - 2026-07-06T1516 · Hainach
 - 2026-07-06T1516 · Grivil
 - 2026-07-06T1514 · Juelfluk
@@ -5,7 +10,6 @@
 - 2026-07-06T1510 · Martella
 - 2026-07-06T1458 · Cimfon
 - 2026-07-06T1458 · Lissvalley
-- 2026-07-06T1457 · Rogyn
 - 2026-07-06T1457 · Tintarol
 - 2026-07-06T1438 · Ukiolla
 - 2026-07-06T1432 · Zmalig
@@ -15,12 +19,8 @@
 - 2026-07-06T1422 · Cevolis
 - 2026-07-06T1421 · Turpador
 - 2026-07-06T1421 · Paper Cities
-- 2026-07-06T1420 · Jeledo
 - 2026-07-06T1420 · Battvia
-- 2026-07-06T1419 · Firocco
 - 2026-07-06T0700 · Cevolia
-- 2026-07-06T0656 · Complete Timeline
-- 2026-07-06T0654 · Oresti Pantheon
 - 2026-07-06T0653 · Languages of the world
 - 2026-07-06T0641 · Kherova
 - 2026-07-06T0631 · Cult of Vibattu
