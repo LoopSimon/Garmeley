@@ -1,5 +1,5 @@
 %%
-[[Kherovan Inquisition]][[Kethricism]][[Dwarf]]
+[[Kherovan Inquisition]][[Kethricism]][[Dwarf]][[Azuvke]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Kherovan Khatrym</h4>
@@ -82,7 +82,7 @@
 
 <hr class="wiki-hr">
 <h3>History</h3>
-<p>The Founding of Kher in the 13th century BA, over two thousand years ago, marks it as one of if not the oldest human fortified settlements that still exists to this day.</p>
+<p>The Founding of Kairos in the 13th century BA, over two thousand years ago, marks it as one of if not the oldest human fortified settlements that still exists to this day. Kher itself is the largest city and its founding is dated within the early 9th century BA.</p>
 <p>Owing to the oral traditions of the many ancient kheri tribes and city states, barely any history is still accounted for to this day, so only very important myths like the Journey of Khariel are still known to us in the modern days.</p>
 <p>However, <a href="Rakh" class="internal-link">Rakhian</a> accounts of conflicts at the border with their ancient empire in the Pilvian Province with the even then defensive and unbreakable kherovan tribes still exist.</p>
 <p>Perhaps the most infamous recorded event is the rise of the Sorcerer Merzigal, in the northern city of Alahmid, who is said to have extended his life by making sacrifices to monstrous entities, engaging freely in Hemomancy and consulting with demons.</p>

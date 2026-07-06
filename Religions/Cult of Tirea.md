@@ -1,7 +1,7 @@
 %%
 [[Battvia]]
 [[Nation Entries/Historical Realms/Cevolis]]
-[[Cevolian Pantheon]]
+[[Oresti Pantheon]]
 %%
 
 The Cult of Tirea originated in Cevolis, modern day Battvia, and is associated with motherhood, fertility and the wilds. It became prominent in Cevolis first during the 1st century BA, while the lands were under Rakhian Rule and later developed into a Sect of Worship within the Kingdom of Cevolis.

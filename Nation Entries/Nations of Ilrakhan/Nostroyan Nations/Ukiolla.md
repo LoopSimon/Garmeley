@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Pehki Grand-Reindeer in a Forest</span>
+        <span>Pehki Reindeer above Aeldtree</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

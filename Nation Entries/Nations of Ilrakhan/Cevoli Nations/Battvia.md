@@ -22,7 +22,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Red Lionshead</span>
+        <span>Red Lion on Silver & Gold</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -48,7 +48,7 @@
         <strong>Formed</strong>
         <span>520PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Battvia_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Battvia_Flag_3.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> The largest successor state of the Kingdom of Cevolis, the Land of Battvia is one of rich farmlands and endless coasts, but the history of the Cevoli people is marked by constant infighting and wars. Pressed against the Kortopi mountains, Battvia has lost virtually all control over the rich Paper Cities of the Bay of Butera, and is involved in a century long rivalry with the Duchy of <a href="Jeledo" class="internal-link">Jeledo</a> that is is slowly but surely losing.</p>

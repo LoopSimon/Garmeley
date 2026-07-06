@@ -2,7 +2,7 @@
 [[Ikieni]]
 [[Turpador]]
 [[Jeledo]]
-[[Cevolian Pantheon]]
+[[Oresti Pantheon]]
 %%
 <p>Literally meaning, "Cult of Battu", or "Divine Grace of Bhatu" in the cevoli translation, this religious cult describes the worship of the Bhatu: a mysterious figure of divine providence promising apotheosis to its followers in cyclical patterns. Often the Cult is seen as another offspring of the original cevoli <a href="Cevolian Pantheon" class="internal-link">Pantheon</a>  similar to relatively minor cults like the <a href="Cult of Tirea" class="internal-link">Tirean Cult</a>.</p>
 

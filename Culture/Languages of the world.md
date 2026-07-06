@@ -135,7 +135,9 @@
 			<h4>Pehki</h4>
 				<p>Spoken by the Nostroyan natives, primarily the Sehvki, Pehki and Roymer peoples. </p>
 			<h4>Cevoli</h4>
-				<p>The National Language of Battvia and in the Paper Cities.</p>
+				<p>Spoken in the Region of Cevolis, south of the Kortopis.</p>
+			<h4>Sertovi</h4>
+				<p>Closely relatd to Cevoli, spoken in southern Sertovis.</p>
 			<h4>Kheri</h4>
 				<p>The oldest human Language preceding even Rakhi, spoken in Kherova.</p>
 			</div>
@@ -185,14 +187,18 @@
 			<h4>Rakhi</h4>
 			
 				<p>Language of the lost Empire of Rakh, usually only spoken by scholars.</p>
+				
+			<h4>Oresti</h4>
 			
+				<p>Language of the lost civilization of Orestis, usually only spoken by scholars.</p>
+				
 			<h4>Cyracli</h4>
 			
 				<p>Language of the Torn City, almost no one in the known world speaks this.</p>
 			
 			<h4>Giantspeak</h4>
 			
-				<p>Language of the Giants of the North, only spoken by various druids and scholars in far Grachy and beyond.</p>
+				<p>Language of the Giants of the North, only spoken by various druids and scholars in Nostroya, Trykkerog  and beyond the lands of snow.</p>
 			
 			<h4>Draconic</h4>
 			

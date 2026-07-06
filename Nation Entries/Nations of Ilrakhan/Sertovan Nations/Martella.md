@@ -1,48 +1,47 @@
-%%
-[[Augurism]]
-[[Thirdonis]]
-[[Othirdon]]
-%%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Hobgoblin Tribes</h4>
+    <h4 class="wiki-header">Grand Duchy of Martella</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Feudal Kingdom</span>
+        <span>Constitutional Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Mael Pyriff II</span>
+        <span>Grand Duke</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Polgamir</span>
+        <span>Vissy</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Icebear on Red & Black</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Augurism" class="internal-link">Augurism</a>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Locni <a href="Human" class="internal-link">Human</a></span>
+        <span>Cevoli <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Locni</span>
+        <span>Sertovi</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span> <a href="Thirdonis" class="internal-link">Thirdonis</a></span>
+        <span>Province of Cevolis</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>unknown</span>
+        <span>180PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Tintarol_3_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>509PA</span>
     </div>
-
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Cevolis_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>

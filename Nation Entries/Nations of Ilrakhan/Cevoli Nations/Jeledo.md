@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Burning Wine Chalice</span>
+        <span>Jeledo Lion & Trinic Chalice</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -43,7 +43,7 @@
         <strong>Formed</strong>
         <span>522PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/jeledo_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Jeledo_Flag_1.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 

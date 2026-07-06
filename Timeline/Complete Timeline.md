@@ -35,6 +35,7 @@
 	        <div class="timeline-item" data-date="2350BA">Earliest evidence for the city of Palmunis</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
 	        <div class="timeline-item" data-date="2200BA">Earliest evidence for the city of Parkymin</div>
+	        <div class="timeline-item" data-date="2150BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1990BA">Likely Foundation of Lorqis</div>
@@ -49,6 +50,7 @@
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
+            <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos in modern day Kherova</div>
             <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
             <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
@@ -59,6 +61,7 @@
 	    <h3>Age of Iron </h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="1150BA">The Tragedy of Thileus is written</div>
+	        <div class="timeline-item" data-date="1100BA">The City of Vilum, modern day Calmona, is founded in ancient Cevolia</div>
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
@@ -81,6 +84,7 @@
             <div class="timeline-item" data-date="615BA">First records of Gorati cities</div>
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
             <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
+            <div class="timeline-item" data-date="590BA">The League of Orestis is formed in Cevolia</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
@@ -90,6 +94,7 @@
             <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
+            <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
@@ -104,8 +109,8 @@
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
-            <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis</div>
-            <div class="timeline-item" data-date="185BA">End of Beherian Campaigns</div>
+            <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>
+            <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
             <div class="timeline-item" data-date="142BA">Rise of the Augur</div>
             <div class="timeline-item" data-date="132BA">Pehk Tribes are first encountered in the modern Grachhyll</div>
