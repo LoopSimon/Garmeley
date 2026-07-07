@@ -1,3 +1,5 @@
+- 2026-07-07T1945 · Auguri Dominion
+- 2026-07-07T1945 · Complete Timeline
 - 2026-07-07T1935 · Ravland
 - 2026-07-07T1933 · Revelle
 - 2026-07-07T1933 · Erlmondy
@@ -5,7 +7,6 @@
 - 2026-07-07T1931 · Aerlan
 - 2026-07-07T1931 · Kalbinism
 - 2026-07-07T1847 · Bersi Hurtfing
-- 2026-07-07T1201 · Complete Timeline
 - 2026-07-07T1155 · Martella
 - 2026-07-06T1615 · Ukiolla
 - 2026-07-06T1614 · Meadrath
@@ -97,4 +98,3 @@
 - 2026-06-29T2043 · Runsby
 - 2026-06-29T1928 · The Ottian Syndicate
 - 2026-06-29T1928 · Golden Dusk
-- 2026-06-29T1928 · Church of Iztaw

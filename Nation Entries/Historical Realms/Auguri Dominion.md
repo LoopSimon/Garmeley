@@ -39,7 +39,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>142BA</span>
+        <span>295BA</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>
@@ -48,4 +48,4 @@
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Augur_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
-<p>The Auguri Dominion was a Union of tribes and settlements under the control of an academic elite of magical scholars and warlords, it controlled vast stretches of Meadland and parts of <a href="Othirdon" class="internal-link">Othirdon</a> and Urland between 142BA and 260PA.</p>
+<p>The Auguri Dominion was a Union of tribes and settlements under the control of an academic elite of magical scholars and warlords, it controlled vast stretches of Meadland and parts of <a href="Othirdon" class="internal-link">Othirdon</a> and Urland between 295BA and 260PA.</p>

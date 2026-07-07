@@ -101,6 +101,7 @@
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
+            <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
             <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
@@ -114,7 +115,6 @@
             <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
-            <div class="timeline-item" data-date="142BA">Rise of the Augur</div>
             <div class="timeline-item" data-date="132BA">Pehk Tribes are first encountered in the modern Grachhyll</div>
             <div class="timeline-item" data-date="130BA">Battle of Miograd, Subjugation of Pilvia</div>
 	        <div class="timeline-item" data-date="125BA">First mention of Raalbrug in central Weadland</div>
