@@ -24,7 +24,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Golfi <a href="Kalbinism" class="internal-link">Kalbinism</a></span>
+        <span><a href="Nyrkalbinism" class="internal-link">Nyrkalbinism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

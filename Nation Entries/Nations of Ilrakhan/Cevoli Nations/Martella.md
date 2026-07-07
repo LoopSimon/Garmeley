@@ -2,9 +2,8 @@
 [[Cevolis]]
 [[Revelle]]
 [[Erlmondy]]
-[[Kalbinism]]
-[[Trinicism]]]]
-
+[[Trinicism]]
+[[Nyrkalbinism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Grand Duchy of Martella</h4>
@@ -27,7 +26,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Trinicism" class="internal-link">Trinicism</a>,<br><a href="Kalbinism" class="internal-link">Kalbinism</a></span>
+        <span><a href="Trinicism" class="internal-link">Trinicism</a>,<br><a href="Nyrkalbinism" class="internal-link">Nyrkalbinism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

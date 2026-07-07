@@ -1,5 +1,5 @@
 %%
-[[Augurism]]
+[[Panrity]]
 [[Thirdonis]]
 [[Othirdon]]
 %%
@@ -24,7 +24,9 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Augurism" class="internal-link">Augurism</a>
+        <span>
+        kalbin <a href="Panrity" class="internal-link">Panrity</a>
+	        </span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
