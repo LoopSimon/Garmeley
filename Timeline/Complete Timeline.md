@@ -111,6 +111,7 @@
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
             <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>
+            <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
             <div class="timeline-item" data-date="142BA">Rise of the Augur</div>
@@ -122,10 +123,11 @@
             <div class="timeline-item" data-date="90BA">Gunrsbridge is finished by the great Giants of the North</div>
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
+            <div class="timeline-item" data-date="68BA">Foundation of the Aerlian Empire</div>
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
-            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rakh, Rakhi Dissappearence and Dissolution of the Meter Dynasty</div>
+            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rakh, Rakhi Disappearance and Dissolution of the Meter Dynasty</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -157,6 +159,7 @@
             <div class="timeline-item" data-date="176PA">Death of Heljad the Giantslayer</div>
             <div class="timeline-item" data-date="180PA">Re-Unification of Cevolis</div>
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
+            <div class="timeline-item" data-date="185PA">Cevoli settlers in Sertova are granted royal blessings and form Martella</div>
             <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
             <div class="timeline-item" data-date="201PA">The Fjorisjom Saga</div>
             <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
