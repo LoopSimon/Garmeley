@@ -1,3 +1,4 @@
+- 2026-07-07T1223 · Bersi Hurtfing
 - 2026-07-07T1201 · Complete Timeline
 - 2026-07-07T1159 · Aerlan
 - 2026-07-07T1155 · Martella
@@ -97,4 +98,3 @@
 - 2026-06-29T1928 · Golden Dusk
 - 2026-06-29T1928 · Church of Iztaw
 - 2026-06-29T1928 · Mørbrig
-- 2026-06-29T1927 · Order of the Silver Wheel
