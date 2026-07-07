@@ -2,6 +2,7 @@
 [[Kindly Lords]]
 [[Thirdonis]]
 [[Othirdon]]
+[[Lissean]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Lissvalley Federation</h4>
@@ -11,11 +12,11 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>N/A</span>
+        <span>President Artur Dasci</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>N/A</span>
+        <span>Rinci</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -38,7 +39,7 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span>
-	        <a href="Thirdonis" class="internal-link">Thirdonis</a>
+	        <a href="Lissean" class="internal-link">Kingdom of Lissean</a>
         </span>
     </div>
     <div class="wiki-row">

@@ -1,3 +1,9 @@
+%%
+[[Cimfon]]
+[[Augurism]]
+[[Aerlan]]
+[[Tintarol]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Thirdonis</h4>
     <div class="wiki-row">
@@ -23,20 +29,20 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Othiri </span>
+        <span>Locni & Othiri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Othir</span>
+        <span>Locni</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span> </span>
+        <span>Locni and Othiri Tribes</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>unknown, likely 3rd-2nd century BA</span>
+        <span>68BA</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>

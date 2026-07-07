@@ -4,7 +4,7 @@
 [[Kalbinism]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Republic of Nahr</h4>
+    <h4 class="wiki-header">Blessed Republic of Nahr</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Parliamentary Republic</span>
@@ -41,7 +41,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>unknown</span>
+        <span>362PA as Nahri League, <br> 391PA unified as Republic of Nahr</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Nahr_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

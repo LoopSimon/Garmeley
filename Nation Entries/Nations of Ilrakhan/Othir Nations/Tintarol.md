@@ -4,7 +4,7 @@
 [[Othirdon]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Hobgoblin Tribes</h4>
+    <h4 class="wiki-header">Kingdom of Tintarol</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Kingdom</span>
@@ -41,7 +41,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>unknown</span>
+        <span>190PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Tintarol_3_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
     </div>

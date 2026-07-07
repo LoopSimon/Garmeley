@@ -120,10 +120,11 @@
 	        <div class="timeline-item" data-date="125BA">First mention of Raalbrug in central Weadland</div>
 	        <div class="timeline-item" data-date="122BA">approximate birth of Liinmarin</div>
             <div class="timeline-item" data-date="102BA">Ylva tames Fagnir</div>
+            <div class="timeline-item" data-date="99BA">Foundation of the Aerlian Empire</div>
             <div class="timeline-item" data-date="90BA">Gunrsbridge is finished by the great Giants of the North</div>
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
-            <div class="timeline-item" data-date="68BA">Foundation of the Aerlian Empire</div>
+            <div class="timeline-item" data-date="68BA">First Bear-King of the Locni, approximate beginning of the Kingdom of Thirdonis</div>
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
@@ -178,7 +179,7 @@
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
-            <div class="timeline-item" data-date="288PA">Wrath of Isara hits Othirdon</div>
+            <div class="timeline-item" data-date="288PA">Wrath of Isara hits Sertovis & Othirdon</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Cevolis</div>
@@ -192,12 +193,14 @@
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
+            <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire</div>
             <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
             <div class="timeline-item" data-date="380PA">Miasas ascension, Harmony of the Hera</div>
-            <div class="timeline-item" data-date="380PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla</div>
+            <div class="timeline-item" data-date="382PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
+            <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, begin of the Age of Disgrace for the Empire of Aerlan</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
@@ -216,6 +219,7 @@
             <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
+            <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon if formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
@@ -231,6 +235,7 @@
             <div class="timeline-item" data-date="520PA">The Duke of Battvia declares himself Prince, formation of modern day Battvia as a Kingdom</div>
             <div class="timeline-item" data-date="521PA">Destruction of Qa, end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
+            <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, Lissean Kingdom forms</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
@@ -241,6 +246,7 @@
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
             <div class="timeline-item" data-date="577PA">End of the Geoli Republic</div>
+            
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -259,6 +265,7 @@
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again, Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
+            <div class="timeline-item" data-date="605PA">Rebels seize the Capital of Aerlan, end of the Aerlian Empire, Ravland is declared</div>
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
@@ -278,6 +285,7 @@
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
+            <div class="timeline-item" data-date="649PA">The former Lords of middle Aerlan form the Kingdom of Erlmondy</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
@@ -309,7 +317,7 @@
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="711PA">Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
-            <div class="timeline-item" data-date="713PA">Lissvalley cities unite</div>
+            <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
@@ -329,6 +337,7 @@
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith</div>
+            <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova</div>
