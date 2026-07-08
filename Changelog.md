@@ -1,4 +1,5 @@
-- 2026-07-08T2205 · Wispmer
+- 2026-07-08T2213 · Complete Timeline
+- 2026-07-08T2209 · Wispmer
 - 2026-07-08T2118 · Kar Inor
 - 2026-07-08T2110 · Zahhak
 - 2026-07-08T2109 · Bassara
@@ -22,7 +23,6 @@
 - 2026-07-07T2338 · Revelle
 - 2026-07-07T2337 · Nahr
 - 2026-07-07T2332 · Aerlan
-- 2026-07-07T2313 · Complete Timeline
 - 2026-07-07T2312 · Thirdonis
 - 2026-07-07T2251 · Ravland
 - 2026-07-07T2250 · Erlmondy
