@@ -1,3 +1,4 @@
+- 2026-07-08T2215 · Gethricism
 - 2026-07-08T2213 · Complete Timeline
 - 2026-07-08T2209 · Wispmer
 - 2026-07-08T2118 · Kar Inor
@@ -97,4 +98,3 @@
 - 2026-07-01T0041 · Karajal School of Insight
 - 2026-07-01T0041 · Gnome
 - 2026-07-01T0041 · Artificery
-- 2026-07-01T0039 · Theresa Salbridge
