@@ -1,3 +1,14 @@
+- 2026-07-08T2110 · Zahhak
+- 2026-07-08T2109 · Bassara
+- 2026-07-08T2108 · Palmunia
+- 2026-07-08T2105 · Old Tusul
+- 2026-07-08T2105 · Tusul
+- 2026-07-08T2104 · Yorgos
+- 2026-07-08T2104 · Arevi Yerkir
+- 2026-07-08T2102 · Human
+- 2026-07-08T2039 · Palmunian Polytheism
+- 2026-07-08T2039 · Rakh
+- 2026-07-08T0310 · Vormil III
 - 2026-07-08T0015 · Kalbinism
 - 2026-07-08T0010 · Panrity
 - 2026-07-08T0003 · Lissean
@@ -44,7 +55,6 @@
 - 2026-07-06T0555 · Othirdon
 - 2026-07-05T1913 · Sinlapsi
 - 2026-07-04T0244 · Selbia
-- 2026-07-04T0233 · Old Tusul
 - 2026-07-03T1904 · Ilja Zemov
 - 2026-07-03T1856 · Grachy
 - 2026-07-03T1539 · Merryl Bradovic
@@ -53,7 +63,6 @@
 - 2026-07-03T1539 · Ivanova Orin
 - 2026-07-03T1539 · Vasily Surovsky
 - 2026-07-03T1343 · Gisela IV
-- 2026-07-03T1342 · Vormil III
 - 2026-07-03T1340 · Jakub Ralpia
 - 2026-07-03T1331 · Glossary
 - 2026-07-03T1327 · Rulers of Vihr
@@ -89,12 +98,3 @@
 - 2026-07-01T0039 · Theresa Salbridge
 - 2026-06-30T2346 · Ilonism
 - 2026-06-30T2313 · Minotaur
-- 2026-06-30T1836 · Rulers of the Beheran Elves
-- 2026-06-30T1203 · Fjorisjom Saga
-- 2026-06-30T1201 · Tusul
-- 2026-06-30T1201 · Laughing Clouds
-- 2026-06-30T1200 · Asper Inrates
-- 2026-06-30T1159 · White Wars
-- 2026-06-30T1119 · Lukomok Trep
-- 2026-06-30T0238 · Gabriella Mile
-- 2026-06-29T2304 · Daemon

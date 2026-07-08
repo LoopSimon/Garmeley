@@ -1,0 +1,4 @@
+%%
+[[Palmunian Polytheism]]
+[[Daemon]]
+%%
