@@ -1,3 +1,5 @@
+- 2026-07-09T0040 · Cult of Tirea
+- 2026-07-09T0039 · Oresti Pantheon
 - 2026-07-08T2356 · Xarvin Jiballo
 - 2026-07-08T2224 · Nyllena
 - 2026-07-08T2222 · Merfolk
@@ -39,7 +41,6 @@
 - 2026-07-06T1554 · Firocco
 - 2026-07-06T1540 · Jeledo
 - 2026-07-06T1538 · Rogyn
-- 2026-07-06T1533 · Oresti Pantheon
 - 2026-07-06T1516 · Hainach
 - 2026-07-06T1516 · Grivil
 - 2026-07-06T1514 · Juelfluk
@@ -55,7 +56,6 @@
 - 2026-07-06T0653 · Languages of the world
 - 2026-07-06T0641 · Kherova
 - 2026-07-06T0631 · Cult of Vibattu
-- 2026-07-06T0631 · Cult of Tirea
 - 2026-07-06T0631 · Nightleaf
 - 2026-07-06T0631 · Fellows of the Dancing Flame
 - 2026-07-06T0555 · Othirdon

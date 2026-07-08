@@ -11,8 +11,8 @@ Tirea, the goddess of Harvest, see [[Cult of Tirea]]
 Gizana, the goddess of Sleep
 Servila, the goddess of Fortune
 
-Ilos, God of Strength, Husband Servila
-Perix, God of the Sea, Husband of Tirea
-Goros, God of Magic, Husband of Servila
+Ilos, God of Strength, Husband Tirea
+Perix, God of the Magic, Husband of Gizana
+Goros, God of Sea, Husband of Servila
 
 
