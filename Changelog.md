@@ -1,3 +1,5 @@
+- 2026-07-09T0202 · Panrity
+- 2026-07-09T0202 · Kalbinism
 - 2026-07-09T0040 · Cult of Tirea
 - 2026-07-09T0039 · Oresti Pantheon
 - 2026-07-08T2356 · Xarvin Jiballo
@@ -18,8 +20,6 @@
 - 2026-07-08T2039 · Palmunian Polytheism
 - 2026-07-08T2039 · Rakh
 - 2026-07-08T0310 · Vormil III
-- 2026-07-08T0015 · Kalbinism
-- 2026-07-08T0010 · Panrity
 - 2026-07-08T0003 · Lissean
 - 2026-07-08T0001 · Nyrkalbinism
 - 2026-07-07T2340 · Cimfon
