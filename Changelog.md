@@ -1,4 +1,15 @@
-- 2026-07-09T0209 · Kortyr
+- 2026-07-10T1326 · Torry
+- 2026-07-10T1326 · Szievek
+- 2026-07-10T1326 · Rovgi
+- 2026-07-10T1325 · Opuzna
+- 2026-07-10T1325 · Levazci
+- 2026-07-10T0327 · Telipir
+- 2026-07-10T0317 · Merzigal
+- 2026-07-10T0308 · Complete Timeline
+- 2026-07-10T0304 · Ahrmiz Saceren
+- 2026-07-10T0258 · Kortyr
+- 2026-07-09T1447 · Artificery
+- 2026-07-09T1143 · Battvia
 - 2026-07-09T0202 · Panrity
 - 2026-07-09T0202 · Kalbinism
 - 2026-07-09T0040 · Cult of Tirea
@@ -7,7 +18,6 @@
 - 2026-07-08T2224 · Nyllena
 - 2026-07-08T2222 · Merfolk
 - 2026-07-08T2215 · Gethricism
-- 2026-07-08T2213 · Complete Timeline
 - 2026-07-08T2209 · Wispmer
 - 2026-07-08T2118 · Kar Inor
 - 2026-07-08T2110 · Zahhak
@@ -52,7 +62,6 @@
 - 2026-07-06T1422 · Cevolis
 - 2026-07-06T1421 · Turpador
 - 2026-07-06T1421 · Paper Cities
-- 2026-07-06T1420 · Battvia
 - 2026-07-06T0700 · Cevolia
 - 2026-07-06T0653 · Languages of the world
 - 2026-07-06T0641 · Kherova
@@ -89,12 +98,3 @@
 - 2026-07-02T0043 · Dragon
 - 2026-07-01T2339 · Knights of the Green Tree
 - 2026-07-01T2335 · Knights of the Spring
-- 2026-07-01T2317 · Niedrest Incident
-- 2026-07-01T2311 · Lorqis
-- 2026-07-01T2253 · Cyraclion
-- 2026-07-01T2250 · Geol
-- 2026-07-01T2005 · Enleidis
-- 2026-07-01T1855 · Twintail Imperium
-- 2026-07-01T1854 · Ak-Saray
-- 2026-07-01T1426 · Yl-Lhatsi
-- 2026-07-01T1415 · Adral Fidrakis

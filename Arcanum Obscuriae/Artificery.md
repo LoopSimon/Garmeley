@@ -17,7 +17,8 @@
 <h5>Uzd / First Rank</h5>
 <p>Uzd Grade Artifacts are capable of manipulating only extremely limited amounts of Planar Energy and are usually rather one note, however often have the advantage of very easy Vellum-Modifications and Adaptability. Often times these items are so easy to create within Tiogum, that they are limited to one time uses and rely on easy, one-time prism structures. Regular Enhancements can be found here but as these rely on conditional flux bridges the complexity of the Tiogum usually exceeds this Grade. Examples include the infamous Cevolian Nail, also colloquially referred to as the "Stubborn Nail" or the popular Bottle of Jingari. All lesser Uzd-Stones are, as the name implies of this rank.</p>
 <h5>Zadan / Second Rank</h5>
-<p>The Zadan Grade encapsulates a great variety of Artifacts, including powerful and modular single-use prism structures, as well as re-usable artifacts able to manipulate a mediocre amount of Planar Energy. Examples include the Qarini Compass of Wind-calling, </p>
+<p>The Zadan Grade encapsulates a great variety of Artifacts, including powerful and modular single-use prism structures, as well as re-usable artifacts able to manipulate a mediocre amount of Planar Energy. Examples include the Qarini Compass of Wind-calling. </p>
 <h5>Kheled / Third Rank</h5>
+<p>Kheled Rank artifacts includes genuinely powerful prism structures that are hard to create and maintain and are able to channel substantial amounts of planar energy. They can be modal in nature to a limited degree. Specific Commissions or artisanal products tend to fall under this rank at least and a Kheled Rank item can fetch a great amount of coin. Kheled Rank artifacts are the highest rank of artifact that is officially sanctioned to be serviced or sold by members of the Syndicate without exercising special protocols and notifying Ottian Headquarters.</p>
 <h5>Banr / Fourth Rank</h5>
 <h5>Nal / Fifth Rank</h5>

@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>a White castle guarded by foxes</span>
+        <span>Castle guarded by foxes</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -42,7 +42,7 @@
         <strong>Formed</strong>
         <span>377PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Rovgi_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Rovgi_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p> Rovgi is one of the major Vadcy within Vihr, holding the Oathhills north of the Tryd River, it is closely associated with the religious history of the Realm and the newest Vadcy. </p>

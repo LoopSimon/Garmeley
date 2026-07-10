@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Red Cat playing the Trumpet</span>
+        <span>Cat playing the Trumpet</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -43,7 +43,7 @@
         <strong>Formed</strong>
         <span>377PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Levazci_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Levaszci_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Levazci is one of the major Vadcy within Vihr, situated on the southern slopes of the Grachhyll alongside the Lehva River, its name literally translating to "Land of the Lehva". It holds significance as the border region with <a href="Grachy" class="internal-link">Grachy</a>, as all wares and trade that leaves or enters Nostroya inlands is transported over the Hyllpass between Tuskwatch and Orzebachi.</p>
 <h2>Geography</h2>
