@@ -1,3 +1,4 @@
+- 2026-07-10T1330 · Eldmar
 - 2026-07-10T1326 · Torry
 - 2026-07-10T1326 · Szievek
 - 2026-07-10T1326 · Rovgi
@@ -97,4 +98,3 @@
 - 2026-07-02T0045 · Lugosch
 - 2026-07-02T0043 · Dragon
 - 2026-07-01T2339 · Knights of the Green Tree
-- 2026-07-01T2335 · Knights of the Spring
