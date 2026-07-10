@@ -39,7 +39,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Elven Dynasties</span>
+        <span><a href="Elven Dynasties" class="internal-link">Elven Dynasties</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

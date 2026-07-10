@@ -1,3 +1,7 @@
+- 2026-07-10T1920 · Elven Dynasties
+- 2026-07-10T1917 · Alparaz
+- 2026-07-10T1854 · Elbae
+- 2026-07-10T1832 · Fasmer II
 - 2026-07-10T1330 · Eldmar
 - 2026-07-10T1326 · Torry
 - 2026-07-10T1326 · Szievek
@@ -94,7 +98,3 @@
 - 2026-07-02T1313 · Nir Hadast
 - 2026-07-02T1310 · Marzun
 - 2026-07-02T0217 · Mossbrook Affair
-- 2026-07-02T0048 · Globus
-- 2026-07-02T0045 · Lugosch
-- 2026-07-02T0043 · Dragon
-- 2026-07-01T2339 · Knights of the Green Tree
