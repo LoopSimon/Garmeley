@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Queen <a href="Madeley">Madeley IV</a></span>
+        <span>Queen <a href="Madeley IV">Madeley IV</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -52,6 +52,6 @@
 </div>
 <h2>People of Interest</h2>
 
-Madeley, fourth of her Name of House Udrig
+Madeley, fourth of her Name of House Udry
 	Queen of the Jueli
 	

@@ -1,5 +1,6 @@
 %%
 [[Baeling]]
+[[Valund Baeling]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Varald Omel Baeling</h4>
@@ -9,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Predecessor</strong>
-        <span>Håkan III</span>
+        <span>Håkan V</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
@@ -44,3 +45,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Varald.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+	<p>The current King of the Baeling Kingdom, claiming name and succession to the grand Empire of <a href="Valund Baeling" class="internal-link">Valund</a> Baeling himself, has been in power for almost 14 years since his accession in 913PA. He succeeded his father, King Håkan V and is known for his prudent policies and so far much more peaceful reign compared to his predecessor. Varald has politically turned south and is currently trying to solve a critical situation considering the Kingdoms possessions at the Hags Horn and most importantly the city of Jallbreg that threatens to cut their ties with the rest of the Kingdom across the Torn Sea. His current heir is his son, Prince Håkan Baeling.</p>

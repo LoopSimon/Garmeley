@@ -1,3 +1,6 @@
+- 2026-07-11T2337 · Juelfluk
+- 2026-07-11T2337 · Madeley IV
+- 2026-07-11T2330 · Varald I
 - 2026-07-11T2117 · Qarzi
 - 2026-07-11T2117 · Kamerzin
 - 2026-07-11T2116 · Dišela
@@ -12,10 +15,7 @@
 - 2026-07-11T2004 · Complete Timeline
 - 2026-07-11T2000 · Jezanis
 - 2026-07-11T1949 · Valund Baeling
-- 2026-07-11T1944 · Varald I
 - 2026-07-11T1937 · Baeling
-- 2026-07-11T1932 · Madeley IV
-- 2026-07-11T1931 · Juelfluk
 - 2026-07-11T1511 · Codex Thereticum
 - 2026-07-11T0354 · Globus
 - 2026-07-11T0220 · The Discovery of Aisligos
