@@ -2,6 +2,7 @@
 [[Gethricism]]
 [[Baeling Empire]]
 [[Nilborg]]
+[[Madeley IV]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jueli Kingdom</h4>
@@ -11,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Queen Madeley IV</span>
+        <span>Queen <a href="Madeley">Madeley IV</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -51,6 +52,6 @@
 </div>
 <h2>People of Interest</h2>
 
-Madeley, fourth of her Name of House Juelrup
+Madeley, fourth of her Name of House Udrig
 	Queen of the Jueli
 	

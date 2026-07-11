@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Three Headed Lion</span>
+        <span>Spurshey Pegasus</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -48,7 +48,7 @@
         <strong>Disbanded</strong>
         <span>747PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Spursley_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Spurshey_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Holy Kingdom of Spursley was a now fallen nation that ruled much of the West Beheran Coast  and the Region of Danbry, even establihsing itself on many islands further west within the Tirean Ocean. It infamously underwent a destructive period following the Disaster of 747PA during which a magical ritual misfired, the planar energies involved flowed into the great Node-Towers of the Kingdom that projected fields of weather protection across the lands, and the spell developing into an autonomous self-replicating curse effect: The Citizens of Spursley living on the mainland at the time were turned into continuously reanimating undead, husks capable of organic restoration as long as they lived within the Node-Field of Spursley, unable to die, sleep or cease being in any form.</p>
 

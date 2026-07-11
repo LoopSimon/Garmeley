@@ -37,7 +37,7 @@
         <strong>Formed</strong>
         <span>51PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Garmeley_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Garmeley_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>South of the splintered lands of <a href="Urland" class="internal-link">Urland</a> lies the rich and peaceful Duchy of Garmeley, an independent nation profiting from arable land, rich silver mines and trade with all of its neighbours.</p>

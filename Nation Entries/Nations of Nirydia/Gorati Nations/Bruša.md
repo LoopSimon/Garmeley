@@ -14,11 +14,11 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Bronze Ships wheel on Green Ground</span>
+        <span>Bruša</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Green Parrot on Gold and Red</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -42,6 +42,6 @@
         <strong>Formed</strong>
         <span>885PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Brusa_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Brusa_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Bruša is a city state located in the north of Sgar Isle and a former subject of the <a href="Dišela" class="internal-link">Dišela Republic</a>. Initially founded by refugees of the dominant <a href="Zepria" class="internal-link">Zeprian Empire</a>, it is now a young and emerging state that has positioned itself as a central port within the Hyklamok.  </p>

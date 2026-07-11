@@ -50,7 +50,8 @@
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
-            <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos in modern day Kherova</div>
+            <div class="timeline-item" data-date="1266BA">Approximate Founding of the City of Samyr, modern day Mereskis</div>
+            <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos at lake Kher</div>
             <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
             <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
@@ -70,6 +71,7 @@
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
+            <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
             <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders</div>
             <div class="timeline-item" data-date="670BA">Neyadastes writes the Codex Kynosis</div>
@@ -108,6 +110,7 @@
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
+            <div class="timeline-item" data-date="269BA">Conquest of Samyr, The Marival ends and the City is named Mereskis</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
@@ -147,7 +150,7 @@
             <div class="timeline-item" data-date="99PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
-            <div class="timeline-item" data-date="112PA">Reani Wars of Unification</div>
+            <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
               <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
@@ -214,7 +217,7 @@
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
-            <div class="timeline-item" data-date="465PA">Valund of Baeling unites the Tribes of Melmers Bay</div>
+            <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
@@ -312,6 +315,7 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
+            <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
             <div class="timeline-item" data-date="703PA">Splintering of Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
@@ -364,7 +368,7 @@
             <div class="timeline-item" data-date="820PA">Fall of Kulum</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
             <div class="timeline-item" data-date="822PA">Brothers War begins</div>
-            <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer</div>
+            <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>

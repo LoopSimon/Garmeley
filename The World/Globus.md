@@ -8,8 +8,8 @@ orbited by [[The first Moon]] and [[The second Moon]]
 	
 
  [[Aisligos]]:
-	Aisligos, Inderil,  Peadyr and Bulug;
-	These three larger islands are found to the far west of Ilrakhan and sometimes referred to as a single continent, although they are distinct landmasses.
+	Aisligos, Peadyr and Bulug;
+	These lands are found to the far west of Ilrakhan and sometimes referred to as a single continent, although they are distinct landmasses.
 
  [[Eressa]]:
 	Located within the south-western corner of your classical Ilrakhani Map, the 2 large islands of Eressa and Pagia are often referred to as the Eressian Continent.
