@@ -21,7 +21,7 @@
 <p>Pazmali I, 822BA - 729BA</p>
 <p>Pazmali II, 729BA - 640BA</p>
 <p>Ulheter I, 640BA - 641BA</p>
-<p>Alparaz IV, 640BA - 618BA</p>
+<p><a href="Alparaz" class="internal-link">Alparaz IV</a>, 640BA - 618BA</p>
 
 <h3>The Rahaz Dynasty</h3>
 <small>618BA - 313BA<small>
@@ -55,5 +55,5 @@
 <p>Fasmer I, 655PA - 781PA</p>
 <p>Arbalas I, 781PA - 844PA</p>
 <p>Irater III, 844PA - 897PA</p>
-<p><a href="Fasmer II class="internal-link">Fasmer II</a>, 897PA - current</p>
+<p><a href="Fasmer II" class="internal-link">FasmerII</a>, 897PA - current</p>
 

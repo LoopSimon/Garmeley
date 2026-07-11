@@ -9,7 +9,7 @@
 [[Hanshi]]
 [[Koshtir]]
 [[The Amanita Cartel]]
-[[The Discovery of the New World]]
+[[The Discovery of Sirenna]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/GZF2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Company Flag</i></small>

@@ -1,5 +1,9 @@
+- 2026-07-11T0352 · Globus
+- 2026-07-11T0220 · The Discovery of Aisligos
+- 2026-07-11T0204 · Grand Ziflis Company
+- 2026-07-11T0107 · Alparaz
+- 2026-07-10T2243 · Rulers of the Beheran Elves
 - 2026-07-10T2201 · Elven Dynasties
-- 2026-07-10T1917 · Alparaz
 - 2026-07-10T1854 · Elbae
 - 2026-07-10T1832 · Fasmer II
 - 2026-07-10T1330 · Eldmar
@@ -94,7 +98,3 @@
 - 2026-07-03T0021 · Great Eastern War
 - 2026-07-02T2357 · Trazlov Consortium
 - 2026-07-02T1314 · Landerly
-- 2026-07-02T1313 · Tarqin
-- 2026-07-02T1313 · Nir Hadast
-- 2026-07-02T1310 · Marzun
-- 2026-07-02T0217 · Mossbrook Affair

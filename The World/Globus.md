@@ -3,12 +3,12 @@ orbited by [[The first Moon]] and [[The second Moon]]
 50000 km equatorial circumference
 
  [[Inara]]:
-	Made up of the continents of: Ilrakhan, Nirydia and Behera.
-		The large islands of Trykkerog, Durenni and Il-Haena are often considered as subcontinents on Inara.
+	Made up of the continents of: Ilrakhan, Nirydia, Trykkerog and Behera.
+		The large islands of Durenni and Il-Haena are often considered as subcontinents on Inara.
 	
 
  [[Aisligos]]:
-	Aislig, Peadyr and Bulug;
+	Aisligos, Inderil,  Peadyr and Bulug;
 	These three larger islands are found to the far west of Ilrakhan and sometimes referred to as a single continent, although they are distinct landmasses.
 
  [[Eressa]]:
