@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kherovan Half Orc</span>
+        <span>Kherovan Half <a href="Orc" class="internal-link">Orc</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
