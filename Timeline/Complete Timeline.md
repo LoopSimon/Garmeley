@@ -225,6 +225,8 @@
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon if formed following the Battle of Wightswound</div>
+            <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends</div>
+            <div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
             <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
@@ -307,6 +309,7 @@
             <div class="timeline-item" data-date="681PA">Hobgoblin Invasion</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
+            <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
             <div class="timeline-item" data-date="690PA">Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Lyandra of Fairriver is canonized as a Saint, Trazlov Guild of Alchemy is formed</div>
@@ -318,7 +321,7 @@
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
             <div class="timeline-item" data-date="703PA">Splintering of Urland</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
-            <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great</div>
+            <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="711PA">Timpo leads his people north and founds Vigzil</div>

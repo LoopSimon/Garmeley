@@ -4,6 +4,7 @@
 [[Korsfall College]]
 [[Karajal School of Insight]]
 [[War of Horn and Fang]]
+[[Mørbrig]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Orenburg Pact</h4>
@@ -43,6 +44,7 @@
         The Magical Advisory Chair of Kisnau<br>
         The Archmage of Izanis Tower<br>
         The Rector of Albesan University<br>
+        The Chaptermaster of Mørbrig<br>
         (to be continued)
     </div>
 </div>
