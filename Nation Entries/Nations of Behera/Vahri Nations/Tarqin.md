@@ -3,7 +3,7 @@
 [[Doggerism]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Republic of Tarqin</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span></span>
@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Geoli Hand in Iron Gauntlet</span>
+        <span>Geoli Hand in Golden Gauntlet</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -39,5 +39,5 @@
         <strong>Preceded by</strong>
         <span><a href="Geol" class="internal-link">Ancient Geol</a> </span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Tarqin_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Tarqin_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

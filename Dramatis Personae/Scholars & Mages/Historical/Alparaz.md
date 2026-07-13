@@ -28,7 +28,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>mid to late 5th century BA</span>
+        <span>mid to late 8th century BA</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

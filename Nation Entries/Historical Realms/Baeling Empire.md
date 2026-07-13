@@ -1,5 +1,5 @@
 %%
-[[Bykmali Paganism]][[Trykkerog]][[Meadland]]
+[[Bykmali Paganism]][[Trykkerog]][[Meadland]][[Baeling]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Empire of the Baeling</h4>
@@ -48,4 +48,4 @@
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/BaelingEmpire_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
-<p>This ephemeral bykmali ruled Empire was a thalassocracy, with many of its most important bases of power only connected by and dependent upon the Sea. At its heigh it ruled over almost all of Trykkerog, northern Urland, Weadland and many coastal cities.</p>
+<p>This ephemeral bykmali ruled Empire was a thalassocracy, with many of its most important bases of power only connected by and dependent upon the Sea. At its heigh it ruled over almost all of Trykkerog, northern Urland, Weadland and many coastal cities and the Emperors of Baeling were among the most powerful rulers in all Ilrakhan. In 465PA, Valund Baeling, Lord of Alsebyn won the battle of Assafurd again the forces of King Sweyn of Sareno and declared himself the King of the Bay, his successors would take on his name and be forever known as the House of Baeling.</p>

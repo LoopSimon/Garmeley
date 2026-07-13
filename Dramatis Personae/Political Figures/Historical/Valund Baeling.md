@@ -48,3 +48,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Valund.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Valund "the Whale" Baeling was the legendary ancestor of the House of Baeling and the founder of the eponymous Baeling Empire that would rule over vast stretches of land around the Torn Sea during the 5th and 6th century. His status as a near mythical Conqueror and Ruler has been cemented in history and he has left a massive cultural footprint lasting well into the modern day. Following the end of his direct line and the Fall of the Baeling Empire as well as an ensuing period of chaos, Sivdil the Tall a war leader of Melmers Bay would claim to be a direct descendent of Valund and embrace the Baeling name, creating a Kingdom based around the olbellinge cities of the Bay and Valunds original seat of Power known as the modern day Kingdom of Baeling. </p>

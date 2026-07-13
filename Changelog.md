@@ -1,5 +1,14 @@
+- 2026-07-13T2355 · Old Tusul
+- 2026-07-13T2355 · Kar Inor
+- 2026-07-13T2354 · Landerly
+- 2026-07-13T2353 · Tarqin
+- 2026-07-13T2352 · Revelle
+- 2026-07-13T2023 · Telipir
+- 2026-07-13T0212 · Weadland
+- 2026-07-13T0138 · Valund Baeling
+- 2026-07-13T0135 · Baeling Empire
+- 2026-07-13T0031 · Alparaz
 - 2026-07-12T1459 · Complete Timeline
-- 2026-07-12T1457 · Baeling Empire
 - 2026-07-12T1344 · Samyr
 - 2026-07-12T1334 · Merzigal
 - 2026-07-12T1326 · Cernela nu Bas
@@ -23,13 +32,11 @@
 - 2026-07-11T2110 · Spursley
 - 2026-07-11T2109 · Roygviil
 - 2026-07-11T2000 · Jezanis
-- 2026-07-11T1949 · Valund Baeling
 - 2026-07-11T1937 · Baeling
 - 2026-07-11T1511 · Codex Thereticum
 - 2026-07-11T0354 · Globus
 - 2026-07-11T0220 · The Discovery of Aisligos
 - 2026-07-11T0204 · Grand Ziflis Company
-- 2026-07-11T0107 · Alparaz
 - 2026-07-10T2243 · Rulers of the Beheran Elves
 - 2026-07-10T2201 · Elven Dynasties
 - 2026-07-10T1854 · Elbae
@@ -40,7 +47,6 @@
 - 2026-07-10T1326 · Rovgi
 - 2026-07-10T1325 · Opuzna
 - 2026-07-10T1325 · Levazci
-- 2026-07-10T0327 · Telipir
 - 2026-07-10T0304 · Ahrmiz Saceren
 - 2026-07-10T0258 · Kortyr
 - 2026-07-09T1447 · Artificery
@@ -54,11 +60,9 @@
 - 2026-07-08T2222 · Merfolk
 - 2026-07-08T2215 · Gethricism
 - 2026-07-08T2209 · Wispmer
-- 2026-07-08T2118 · Kar Inor
 - 2026-07-08T2110 · Zahhak
 - 2026-07-08T2109 · Bassara
 - 2026-07-08T2108 · Palmunia
-- 2026-07-08T2105 · Old Tusul
 - 2026-07-08T2105 · Tusul
 - 2026-07-08T2104 · Yorgos
 - 2026-07-08T2104 · Arevi Yerkir
@@ -72,7 +76,6 @@
 - 2026-07-07T2340 · Lissvalley
 - 2026-07-07T2340 · Tintarol
 - 2026-07-07T2338 · Martella
-- 2026-07-07T2338 · Revelle
 - 2026-07-07T2337 · Nahr
 - 2026-07-07T2332 · Aerlan
 - 2026-07-07T2312 · Thirdonis
@@ -95,6 +98,3 @@
 - 2026-07-06T1422 · Cevolis
 - 2026-07-06T1421 · Turpador
 - 2026-07-06T1421 · Paper Cities
-- 2026-07-06T0700 · Cevolia
-- 2026-07-06T0653 · Languages of the world
-- 2026-07-06T0641 · Kherova
