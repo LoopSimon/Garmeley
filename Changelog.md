@@ -1,3 +1,5 @@
+- 2026-07-14T2218 · The Ottian Syndicate
+- 2026-07-14T2216 · Garmogol Ilwik
 - 2026-07-14T2207 · Geldfield Unie van Vrijhandel
 - 2026-07-14T2159 · Treaty of Lotsprings
 - 2026-07-14T2147 · Gesellschaft für Westmeadischen Handel
@@ -96,5 +98,3 @@
 - 2026-07-08T2356 · Xarvin Jiballo
 - 2026-07-08T2224 · Nyllena
 - 2026-07-08T2222 · Merfolk
-- 2026-07-08T2215 · Gethricism
-- 2026-07-08T2209 · Wispmer
