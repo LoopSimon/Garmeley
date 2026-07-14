@@ -386,6 +386,7 @@
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
 	        <div class="timeline-item" data-date="860PA">Vihri Council of 860, Creation of Torry </div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
+            <div class="timeline-item" data-date="863PA">Droil is granted nominal autonomy under the Crown of Tintarol to appease Independence movements</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
             <div class="timeline-item" data-date="881PA">Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>

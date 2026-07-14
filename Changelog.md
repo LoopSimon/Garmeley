@@ -1,3 +1,14 @@
+- 2026-07-14T1629 · Nyrkalbinism
+- 2026-07-14T1629 · Panrity
+- 2026-07-14T1628 · Kalbinism
+- 2026-07-14T1626 · Droil
+- 2026-07-14T1626 · Ravland
+- 2026-07-14T1609 · Complete Timeline
+- 2026-07-14T1608 · Aerlan
+- 2026-07-14T1607 · Lissean
+- 2026-07-14T1607 · Thirdonis
+- 2026-07-14T1607 · Cimfon
+- 2026-07-14T1607 · Tintarol
 - 2026-07-14T1414 · Hynek of Forrington
 - 2026-07-14T1414 · Garmish Succession Crisis
 - 2026-07-14T1414 · Vormil III
@@ -19,7 +30,6 @@
 - 2026-07-14T1409 · Garmeley
 - 2026-07-14T1409 · Fey
 - 2026-07-14T1409 · Coster of Melmbirth
-- 2026-07-14T1408 · Complete Timeline
 - 2026-07-14T1408 · Arcanists, Scholars and Mages
 - 2026-07-14T1357 · Korsfall College
 - 2026-07-14T1336 · Gisela II
@@ -75,8 +85,6 @@
 - 2026-07-10T0258 · Kortyr
 - 2026-07-09T1447 · Artificery
 - 2026-07-09T1143 · Battvia
-- 2026-07-09T0202 · Panrity
-- 2026-07-09T0202 · Kalbinism
 - 2026-07-09T0040 · Cult of Tirea
 - 2026-07-09T0039 · Oresti Pantheon
 - 2026-07-08T2356 · Xarvin Jiballo
@@ -90,11 +98,3 @@
 - 2026-07-08T2105 · Tusul
 - 2026-07-08T2104 · Yorgos
 - 2026-07-08T2104 · Arevi Yerkir
-- 2026-07-08T2039 · Palmunian Polytheism
-- 2026-07-08T2039 · Rakh
-- 2026-07-08T0003 · Lissean
-- 2026-07-08T0001 · Nyrkalbinism
-- 2026-07-07T2340 · Cimfon
-- 2026-07-07T2340 · Lissvalley
-- 2026-07-07T2340 · Tintarol
-- 2026-07-07T2338 · Martella

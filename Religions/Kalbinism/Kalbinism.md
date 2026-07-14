@@ -12,6 +12,9 @@
 [[Ravland]]
 [[Martella]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Kalbinism.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Hand of Kalbin</i></small>
+</div>
 <p>Kalbinism is a monotheistic Faith that follows the belief, only a single creator is holy and exists above all, known simply as "The Creator" he is thought to be an all powerful and all knowing entity inhabiting all things. His divine messenger is Saint Kalbin after whom the religion is named, who was born in central Sertova in antiquity, leading to the Peninsula to be considered the birthplace and centre of the Faith. There exists three major branches within Kalbinism: traditional Kalbinism as discussed here, <a href="Nyrkalbinism" class="internal-link">Nyrkalbinism</a> which is mainly present in western Sertova and <a href="Panrity" class="internal-link">Panrity</a>, the dominant faith of Othirdon. </p>
 
 <p>Kalbinists believe that only Kalbin himself heard the will of the creator during the Hour of Revelation, still celebrated on the 20th of October every year as the most holy day within kalbin traditions. Traditional Kalbinism is often closely associated with the <a href="Aerlan" class="internal-link">Aerlan</a> Empire that ruled Sertova and Othirdon for centuries and propagated the Faith. </p>

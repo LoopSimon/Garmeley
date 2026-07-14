@@ -8,8 +8,8 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
     <div class="wiki-row">
-        <strong>Kingdom of Cimfon</strong>
-        <span>Feudal Monarchy</span>
+        <strong>Maelzad of Cimfon</strong>
+        <span>Absolute Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

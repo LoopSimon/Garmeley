@@ -12,7 +12,7 @@
     <h4 class="wiki-header">Aerlian Empire</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Feudal Empire</span>
+        <span>Absolute Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

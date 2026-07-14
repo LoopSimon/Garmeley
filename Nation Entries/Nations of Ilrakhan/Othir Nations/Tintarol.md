@@ -4,10 +4,10 @@
 [[Othirdon]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Kingdom of Tintarol</h4>
+    <h4 class="wiki-header">Maelzad of Tintarol</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Feudal Kingdom</span>
+        <span>Absolute Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

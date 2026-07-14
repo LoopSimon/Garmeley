@@ -5,7 +5,7 @@
 [[Lissvalley]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Kingdom of Lissean</h4>
+    <h4 class="wiki-header">Maelzad of Lissean</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>
