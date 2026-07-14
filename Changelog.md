@@ -1,3 +1,9 @@
+- 2026-07-14T1358 · Complete Timeline
+- 2026-07-14T1357 · Korsfall College
+- 2026-07-14T1336 · Gisela II
+- 2026-07-14T1336 · Orenburg Pact
+- 2026-07-14T1325 · Rulers of the Meadi
+- 2026-07-14T1322 · Yari
 - 2026-07-13T2355 · Old Tusul
 - 2026-07-13T2355 · Kar Inor
 - 2026-07-13T2354 · Landerly
@@ -8,11 +14,9 @@
 - 2026-07-13T0138 · Valund Baeling
 - 2026-07-13T0135 · Baeling Empire
 - 2026-07-13T0031 · Alparaz
-- 2026-07-12T1459 · Complete Timeline
 - 2026-07-12T1344 · Samyr
 - 2026-07-12T1334 · Merzigal
 - 2026-07-12T1326 · Cernela nu Bas
-- 2026-07-12T1321 · Orenburg Pact
 - 2026-07-12T1314 · Lorana
 - 2026-07-12T0236 · Urland
 - 2026-07-12T0203 · Niedrest Incident
@@ -94,7 +98,3 @@
 - 2026-07-06T1514 · Vignasoya
 - 2026-07-06T1432 · Zmalig
 - 2026-07-06T1432 · Lesmere
-- 2026-07-06T1431 · Freelands
-- 2026-07-06T1422 · Cevolis
-- 2026-07-06T1421 · Turpador
-- 2026-07-06T1421 · Paper Cities

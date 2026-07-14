@@ -333,6 +333,7 @@
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
+            <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>

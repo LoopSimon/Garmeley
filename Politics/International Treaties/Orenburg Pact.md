@@ -16,7 +16,7 @@
     <hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
         <strong>The Orenburg Nine</strong><br>
-        The Rector of Korsfall Academy<br>
+        The Rector of Korsfall College<br>
         The First Mage of Karajal<br>
         The Kar-Zavr of Vihr<br>
         The First Seat of Szivek University<br>
@@ -31,6 +31,7 @@
     <hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
         <strong>Other Members</strong><br>
+        The Rector of the Royal Academy of Battvia<br>
         The Archmage of Alban Tower<br>
         The Gelmsburg Circle<br>
         The Archmage of Opal Tower<br>

@@ -45,10 +45,9 @@
 <p>Tormas I von Kor, 499PA - 519PA</p>
 <p>Kar II "The Seer King" von Kor, 519PA - 531PA</p>
 <p>Ulrike I "The Hazel Queen" von Kor, 531PA - 550PA</p>
-<p>Gunther I von Kor, 550PA - 559PA</p>
-<p>Gunther II von Kor, 559PA - 578PA</p>
+<p>Gunther I von Kor, 550PA - 578PA</p>
 <p>Karl III von Kor, 578PA - 602PA</p>
-<p>Gerfried I von Kor, 602PA - 620PA</p>
+<p>Gunther II  von Kor, 602PA - 620PA</p>
 <p>Karl IV von Kor, 620PA - 641PA</p>
 <p>Gunther III von Kor, 641PA - 664PA</p>
 
