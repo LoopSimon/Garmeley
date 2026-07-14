@@ -68,7 +68,7 @@ Even for elven standards this Wizard lived a remarkably long life, dying at the 
 
 Easily most famous for Biadis Invocation, the Apocalyptic Spell cast at the end of the 3rd War of Elbae Aggression that sunk the entire Horad Isthmus and connected the Stormy Sea with the Pilvian Gulf.
 ### **Meynar of Jorrenstead**
-A renowned Garmian Scholar that contributed immensely to the understanding of Proto-Urien and Rakhian Culture and History. 
+A renowned garmish Scholar that contributed immensely to the understanding of Proto-Urien and Rakhian Culture and History. 
 Most famous for his 819PA Work "Historiae Uriorum".
 ***
 ### **Zovac Harlini**

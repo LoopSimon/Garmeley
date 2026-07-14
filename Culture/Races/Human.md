@@ -19,11 +19,7 @@ Weadi: primarily the Weadmer, Kranmer, Gerdien and Greenfolk peoples
 
 Urien: primarily Eldien and Trinmen peoples
 
-Reani: primarily Edgrali, 
-
-Garmian: primarily the High Garmian, Lower Garmian and Melmen  
-
-Pilvian: primarily the Grevian and Fredna peoples
+Margi:  primarily the Garmish, Reani, Pilvian, Fredi and Melmen
 
 Vihrmen: primarily the Trydzi, Opuzni, Tloky and Trazci peoples
 

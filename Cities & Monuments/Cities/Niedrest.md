@@ -64,7 +64,7 @@ Just south of that lies Hangman’s Row, a noticeable gap in the housing densit
 <p>Lastly tucked securely against the central eastern wall, between Highbridge and Eastcorners, like an enclave is the Gnomish Quarter. It looks radically different from the rest of the city. While the human districts are organic and sprawling, the Gnomish Quarter is a perfect geometric square. The buildings are tall, copper-roofed, and connected by a web of high-wire walkways and bridges, looking almost like the inner workings of a clock.</p>
 
 <h2>Demographics</h2>
-<p>The majority of the city at ca. 80% is human, with the largest part at around 60% of them being south urien natives, the rest being made up of Garmian, Cevolian and North-Urien culture.
+<p>The majority of the city at ca. 80% is human, with the largest part at around 60% of them being south urien natives, the rest being made up of Garmish, Cevolian and North-Urien culture.
 Niedrest has a sizable population of Gnomish residents who almost exclusively reside within their own ghetto, as well as minor Halfling and elvish communities.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/map_trinvale.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>

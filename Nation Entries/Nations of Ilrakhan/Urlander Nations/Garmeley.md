@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Garmian Skull</span> </div>
+        <span>Garmish Skull</span> </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
@@ -22,7 +22,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Garmian <a href="Human" class="internal-link">Human</a></span>
+        <span>Garmish <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -50,13 +50,13 @@
 
 <p>With the death of King Ahlef II during the <a href="Eight Years War" class="internal-link">Eight Years War</a> at the <b>Battle of Greyfields</b> (648PA), the line of Alfin ended. The successor, Tyla of Aldale, chose to reject the crown and instead proclaim herself <b>Duchess of Garmeley</b> to prevent a fatal civil war. Under the subsequent rule of Dukes Albrecht V, Eadwin II, and the current <b>Duchess Agnes I</b>, the land has enjoyed over a century of peace.</p>
 
-<small><i>see <a href="Garmian Civil War" class="internal-link">Garmian Civil War</a></i></small>
+<small><i>see <a href="Garmish Civil War" class="internal-link">Garmish Civil War</a></i></small>
 
 <hr class="wiki-hr">
 <h3>Geography</h3>
 <p>Garmeley borders the minor Urlandi Realms of <a href="Trinvale" class="internal-link">Trinvale</a>, Eldmar and Urbrdige in the North-West, the Kingdom of Vihr in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the Trollback Mountains.</p>
 
-<p>The nation is defined by its rivers, notably the <b>Melm</b> and the <b>Trinmo</b> (the largest river in the known world), which flows into Lake Forr. The <b>Garmian Planes</b> in the south represent the lowest and most arable elevation of the country, while the <b>Thull</b> river serves as the major economic trade route.</p>
+<p>The nation is defined by its rivers, notably the <b>Melm</b> and the <b>Trinmo</b> (the largest river in the known world), which flows into Lake Forr. The <b>Garmish Planes</b> in the south represent the lowest and most arable elevation of the country, while the <b>Thull</b> river serves as the major economic trade route.</p>
 
 <hr class="wiki-hr">
 <h3>Politics</h3>
@@ -66,10 +66,10 @@
 
 <hr class="wiki-hr">
 <h3>Demographics</h3>
-<p>The population is estimated at <b>million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly  citizens and remains under Garmian protection.</p> 
+<p>The population is estimated at <b>million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly  citizens and remains under Garmish protection.</p> 
 
 <ul>
-    <li><b>Humans:</b> Garmian majority, with Urian and Hainachi minorities.</li>
+    <li><b>Humans:</b> Garmish majority, with Urian and Hainachi minorities.</li>
     <li><b>Dwarves:</b> Sizable populations in Dolm and Whistlemine.</li>
     <li><b>Gnomes & Elves:</b> Mostly concentrated in Redflow and Jorrenstead.</li>
 </ul>

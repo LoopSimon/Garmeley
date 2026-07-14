@@ -47,7 +47,7 @@ The arrival of more and more developing weapons from Battvia in the realm of fir
 Magical Impact on the civil war remained minimal with only Patwin Tower taking a clear stance but the international community urging strongly against the use of the arcane on the battlefield.
 
 The Siege of Dolm ended with the surrender of the city after almost 4 years in late 926PA and the Trinvale was now safely connected with its allies in Hainach and southern Garmeley, the Garmish alliance wasted little time and began marching north, laying siege to Redflow Keep beginning in the final days of the year.
-In the meantime a terror campaign led by Jakub, comprised mainly of Vihri adventurers, the knightly Order of the Unicorn and Eldmari troops raided eastern Garmeley once again while major engagements occurred in the Garmian heartlands west of the Barrens between organized armies.
+In the meantime a terror campaign led by Jakub, comprised mainly of Vihri adventurers, the knightly Order of the Unicorn and Eldmari troops raided eastern Garmeley once again while major engagements occurred in the Garmish heartlands west of the Barrens between organized armies.
 
 In February of the year 927PA, Count Hynek of Forrington, heir-apparent to the Duchy and leader of the Garmish Alliance was assassinated at his camp south of the Redflow siege fortifications by an unknown assailant. While no official credit was claimed by Coster or his allies, rumours around their involvement spread immediatly.
 With Hynek being survived by his young Son Milos and Lady Regia still held by Costers Green Banner League, the wars true purpose is shifted further into question but no end to the conflict is in sight.

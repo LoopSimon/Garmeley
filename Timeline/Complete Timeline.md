@@ -427,10 +427,10 @@
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords</div>
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world, The Derianov Uprising is put down</div>
             <div class="timeline-item" data-date="922PA">Death of Duchess Agnes of Garmeley, Fairriver Incident</div>
-            <div class="timeline-item" data-date="923PA">Campaign 1, Garmian Civil War breaks out</div>
+            <div class="timeline-item" data-date="923PA">Campaign 1, Garmish Civil War breaks out</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla, discovery of Sirenna, Sack of Sunminster</div>
             <div class="timeline-item" data-date="925PA">Battle of Jestrick Fields, Entusul Uprising is put down by Emir Zazir Brahmis</div>
-            <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment, International Intervention in the Garmian Civil War</div>
+            <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment, International Intervention in the Garmish Civil War</div>
             <div class="timeline-item" data-date="927PA">Campaign 2, Hynek of Forrington is assassinated</div>
         </div>
     </div>

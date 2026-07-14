@@ -9,4 +9,4 @@ Traditionally associated with the southern Underlands, morlocks are a race of go
 
 They are famous for their enlarged eyes, grey skin, enlarged noses and wiry hair as well as their cultural affinity to  Arachnoids, even going so far as keeping them as companions, mounts and pets.
 
-A vast and extensive complex of settlements, housing over a houndred thousand morlocks, was wiped out in the engineered flooding of Dolm during the so called "Dolm Catastrophe" when garmian excavators discovered the incredibly amount of silver under Dolm Mountain and redirected the nearby River into the Morlock shafts under the guise of a hostile attack by the peaceful natives.
+A vast and extensive complex of settlements, housing over a houndred thousand morlocks, was wiped out in the engineered flooding of Dolm during the so called "Dolm Catastrophe" when garmish excavators discovered the incredibly amount of silver under Dolm Mountain and redirected the nearby River into the Morlock shafts under the guise of a hostile attack by the peaceful natives.

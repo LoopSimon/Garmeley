@@ -9,7 +9,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Prince Miriam II</span>
+        <span>Prince <a href="Miriam II" class="internal-link">Miriam II</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -54,7 +54,7 @@
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hainach.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <h2>Demographics</h2>
-<p>Hainach boasts the highest population of half-elves after the Sultanate itself, with them making up around 6% of the population. The Majority of its citizens are Reani Human at around 85% of the population, larger minorities other than half elves include beheran elves as well as garmian humans. </p>
+<p>Hainach boasts the highest population of half-elves after the Sultanate itself, with them making up around 6% of the population. The Majority of its citizens are Reani Human at around 85% of the population, larger minorities other than half elves include beheran elves as well as garmish humans. </p>
 <h2>Economy</h2>
 
 <p>As far as trade is concerned, Hainach is part of the Greater Elbae Economic Sphere, enjoying cheap imports from all over the Sultanate and its extended vassals, however this also means that a lot of its mercantile influence within the Stormy Sea is being appropriated by <a href="Mereskis" class="internal-link">Mereskis</a>. Considering this a majority of Hainachs own trade is instead conducted with Garmeley to its immediate north.</p>
@@ -68,7 +68,7 @@
 <p>Hainachs long history of extremly autonomous and strong noble houses and an effectively entirely decentralized country, except for certain periods in its history, ended with the Reforms of the Council of 818, following the end of the <a href="Wars of Elbae Aggression" class="internal-link">Wars between the Sultanate and the Reani Coalition</a>. As a result anti Kherovan sentiments following the Subjugation of the Princedom have never lost their hold on many people within Hainach.</p>
 <p>Modern day Hainach is ruled by the Prince, a gender neutral title, of House Pikris who is still a direct descendant of Theris I. The title is notably a remnant of the Reani Kingdom and the circumstances of the countries foundation, see below.</p>
 <p>The Princedom is a Eyalet of the Elbae Sultan, owing to its defeat at the end of the 2nd War of Elbae Aggression in 790 PA, but enjoys a largely independent status. It is exempt from paying any financial tribute and as mentioned above enjoys major economic and mercantile benefits from being within the Sultanates customs sphere. Instead it operates as a military border state between the Sultanate and Garmeley while also acting as the elven diplomatic representative in almost all of Ilrakhan. Elven military presence is small but somewhat noticeable and high ranking military officers of the Sultanate were granted overseer positions and minor noble titles and strongholds within Hainach following the war, although their consistent support of the ruling Dynasty rather at expense of the native nobility has made the often more trustworthy than the entrenched aristocracy.</p>
-<p>Following the death of her father, the late Prince Lantimor I, the Princedom is now in the Hands of his oldest daughter of ten years, Prince Miriam II, with her younger brother Lantimor as current heir-apparent. Most affairs of Governance are being handled by a Regent Council until the coming of Age of Miriam, which is under the leadership of Prince Yorgos of Diniv, the Princes uncle by marriage.</p>
+<p>Following the death of her father, the late Prince Lantimor I, the Princedom is now in the Hands of his oldest daughter of fourteen years, Prince Miriam II, with her younger brother Lantimor as current heir-apparent. Most affairs of Governance are being handled by a Regent Council until the coming of Age of Miriam, which is under the leadership of Prince Yorgos of Diniv, the Princes uncle by marriage.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Miriam.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <small><i>Portrait of Prince Miriam II, at the day of her ascension in 921 PA</i></small>
