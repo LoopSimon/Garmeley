@@ -27,7 +27,7 @@ Grachy: primarily the Halgrachi, Hyllfolk and Giormen peoples
 
 Wermian: including the Old Wermian, Moormen and Morellian people
 
-Othiri: primarily the Othiri, Lissari and Moreni peoples
+Othiri: primarily the Othiri, Locni and Droili peoples
 
 Nostroyan: the Pehki, Sehvki peoples as well as the remnants of the Roymer
 

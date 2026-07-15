@@ -113,14 +113,15 @@
             <div class="timeline-item" data-date="269BA">Conquest of Samyr, The Marival ends and the City is named Mereskis</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
-            <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
-            <div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
+            <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div><div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
+            <div class="timeline-item" data-date="190BA">First mention of the Magari Empire</div>
             <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>
             <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
             <div class="timeline-item" data-date="132BA">Pehk Tribes are first encountered in the modern Grachhyll</div>
             <div class="timeline-item" data-date="130BA">Battle of Miograd, Subjugation of Pilvia</div>
+            <div class="timeline-item" data-date="123BA">Approximate first settlement of Droil </div>
 	        <div class="timeline-item" data-date="125BA">First mention of Raalbrug in central Weadland</div>
 	        <div class="timeline-item" data-date="122BA">approximate birth of Liinmarin</div>
             <div class="timeline-item" data-date="102BA">Ylva tames Fagnir</div>
@@ -253,6 +254,7 @@
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
+            <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="577PA">End of the Geoli Republic</div>
             
         </div>
@@ -263,11 +265,13 @@
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
             <div class="timeline-item" data-date="582PA">Kobolds form Rha-Gis in the Limsul Peaks</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
+            <div class="timeline-item" data-date="586PA">Meadi reconquest of northern Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
             <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon</div>
+            <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil</div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
@@ -426,7 +430,7 @@
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World"</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl</div>
             <div class="timeline-item" data-date="917PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
-            <div class="timeline-item" data-date="918PA">Battle of Modim Cave</div>
+            <div class="timeline-item" data-date="918PA">Battle of Modim Cave, Independence Movements grow once again in Droil</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end, Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords</div>
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world, The Derianov Uprising is put down</div>

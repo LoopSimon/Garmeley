@@ -1,3 +1,10 @@
+- 2026-07-15T1348 · Meadrath
+- 2026-07-15T1341 · Freelands
+- 2026-07-15T1338 · Trinicism
+- 2026-07-15T0618 · Baeling Empire
+- 2026-07-15T0611 · Complete Timeline
+- 2026-07-15T0605 · Droil
+- 2026-07-15T0534 · Human
 - 2026-07-14T2233 · Geldfield Unie van Vrijhandel
 - 2026-07-14T2232 · Pieter van Dielen
 - 2026-07-14T2218 · The Ottian Syndicate
@@ -7,11 +14,9 @@
 - 2026-07-14T2122 · Othirdon
 - 2026-07-14T2122 · Sertova
 - 2026-07-14T2112 · Blijgrat
-- 2026-07-14T2047 · Complete Timeline
 - 2026-07-14T1629 · Nyrkalbinism
 - 2026-07-14T1629 · Panrity
 - 2026-07-14T1628 · Kalbinism
-- 2026-07-14T1626 · Droil
 - 2026-07-14T1626 · Ravland
 - 2026-07-14T1608 · Aerlan
 - 2026-07-14T1607 · Lissean
@@ -32,7 +37,6 @@
 - 2026-07-14T1413 · Kindly Lords
 - 2026-07-14T1413 · Janez Vajkard Valvasor
 - 2026-07-14T1413 · Jakub Ralpia
-- 2026-07-14T1412 · Human
 - 2026-07-14T1410 · Grevenna
 - 2026-07-14T1409 · Hainach
 - 2026-07-14T1409 · Grivil
@@ -53,7 +57,6 @@
 - 2026-07-13T2023 · Telipir
 - 2026-07-13T0212 · Weadland
 - 2026-07-13T0138 · Valund Baeling
-- 2026-07-13T0135 · Baeling Empire
 - 2026-07-13T0031 · Alparaz
 - 2026-07-12T1344 · Samyr
 - 2026-07-12T1334 · Merzigal
@@ -95,6 +98,3 @@
 - 2026-07-09T1447 · Artificery
 - 2026-07-09T1143 · Battvia
 - 2026-07-09T0040 · Cult of Tirea
-- 2026-07-09T0039 · Oresti Pantheon
-- 2026-07-08T2356 · Xarvin Jiballo
-- 2026-07-08T2224 · Nyllena

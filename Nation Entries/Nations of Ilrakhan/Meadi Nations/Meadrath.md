@@ -42,7 +42,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span><a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>,<br>
+        <span><a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>,<br>Kingdom of Gisvale,<br>
         Kingdom of Korsfall</span>
     </div>
     <div class="wiki-row">
@@ -52,10 +52,11 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Meadrath_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> Dominated by two mighty Rivers, the Mead in the west and the Trinmo to the east, the lands of the Meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world. The capital of Meadrath, Korsfall, is one of the largest cities in the known world with a population of ca 110.000 citizens.</p>
+<p> Dominated by two mighty Rivers, the Mead in the west and the Trinmo to the east, the lands of the meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world as far as population is concerned, Meadraths largest cities are the Capital Korsfall, the population centres of Praum, Bellhome, Jera, Morelle and Wormill as well as its largest port Meadhavn. The Banner of the Kingdom shows the Black Dragon Heximar, known as the Unlit, that was slain at what is now known as Drakesfall Hills by the legendary Hero Gismar.</p>
+<p>Sometimes referred to as the "Meadi Empire", Meadrath projects political authority over official and unofficial vassal states in Meadland but also across the seas, growing increasingly more interested in dominance over both the western half of Ilrakhan but also lands across the ocean in Aisligos. The Country is ruled by the Crown of Meadrath, currently held by Queen <a href="Gisela IV" class="internal-link">Gisela IV</a> as well as the Royal Congress, an advisory board administrating the Kingdom and its dependencies. Meadrath has often been considered one of the "Three Great Powers" of contemporary politics alongside the <a href="Vihr" class="internal-link">Rascy zi Vihr</a> and the <a href="Elbae" class="internal-link">Elbae Sultante</a>, as all three nations dominate their regions and keep in other in check, economically, militarily and scientifically.</p>
 
 <h2>Geography</h2>
-<p> Most of Meadrath lies in the North-Ilrakhani Plain of <a href="Meadland" class="internal-link">Meadland</a>, with flat terrain crossed by watercourses such as the Trinmo and Mead, wetlands and marshy conditions are found close to the <a href="Blijgrat" class="internal-link">Blijgrat border</a> and along the Bloody Coast. It is situated between various Mountain ranges offering natural ressources and protection, most notably the Kortopis to the south and the Urdfall Peaks to the east as well as the Whisperhills and Trinwood elevations. </p>
+<p> Most of Meadrath lies in the North-Ilrakhani Plain of <a href="Meadland" class="internal-link">Meadland</a>, with flat terrain crossed by watercourses such as the Trinmo and Mead, wetlands and marshy conditions are found close to the <a href="Blijgrat" class="internal-link">Blijgrat border</a> and along the Bloody Coast. It is situated between various Mountain ranges offering natural resources and protection, most notably the Kortopis to the south and the Urdfall Peaks to the east as well as the Whisperhills and Trinwood elevations. The lands on the left side of the Mead below the Lowsteps are usually referred to as the Westerlands, the region north of the Kortopis is known as the Highlands and the areas north of the Whisperhills as the Drakstal. </p>
 <h2>Demographics</h2>
 <p>The Majority population in Meadrath is made up of Meadi and Weadi human, with Urien Human, Half-elfs, Gnomes and Halflings making up the largest minorities. While some Trykkerogi have settled and assimilated in the northern coastal towns, they remain a small minority. <br> The traditionally lax and welcoming attitude of the Meadi Kings and Queens, in combination with the stellar reputation of the <a href="Korsfall College" class="internal-link">Korsfall College</a>, has lead to a larger than average percentage of Arcane practitioners in Meadrath, surpassed in numbers only by the <a href="Elbae" class="internal-link">Elbae Sultanate.</a> </p>
 <h2>Economy</h2>
@@ -103,9 +104,9 @@ When Knights of the <a href="Order of the Silver Wheel" class="internal-link">Or
 <p>Although the claim was shady and weak, almost entirely dismissed by modern day historians, it was enough for Kilean to assemble a large faction of the country behind himself and declare that if his brother would not cede the throne to him he would take it by force, thus the later dubbed Twins war began in 780PA. The bloody conflict would last for 6 years until the death of Kileans firstborn son Marten following the battle of Leis, while Kileans faction was still belligerent and not broken, Gildher had unilaterally won the war and forced his brother to retreat beyond the Gisvale. If out of love for his twin and sorrow over the death of his nephew or simply to end the catastrophic war where meadi fought meadi, Gildher offered Kilean amicable terms at Leis and Peace was signed. Kilean would renounce his and his descendants claims on the throne of Meadrath in perpetuity and swear to defend Meadrath and her people and acknowledge the King of Meadrath as his superior. In return he would be made the Ruler of the newly established Archduchy of Gisvale and permitted to rule his lands independently. Thus Kilean became the ancestor of the von Kor Cadet House, the von Mart. </p>
 
 <h3>The Meadi Empire</h3>
-In the later years of the 9th century, Meadraths influence had only grown and it was now considered one of the "Great Three Powers" alongside the beheran Sultantate and the Vihri Kingdom. 
-The late Queen Gisela III von Kor, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 898PA.
-While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Lesmere, Gisvale, the Halfling Freelands and various other nominally fully independent nations.
+<p>In the later years of the 9th century, Meadraths influence had only grown and it was now considered one of the "Great Three Powers" alongside the beheran Sultanate and the Vihri Kingdom. While Meadraths population is smaller than that of Vihr, although not by much, and its clerical institutions much weaker including the military aspects, as well as being economically outcompeted by the Behemoth that is the Elven Sphere of Prosperity, these are both issues Meadrath is only inching behind. The Kingdoms focus on diplomatic alliances and a strong block of vassals and dependencies with a careful respect for both local cultures and surprisingly also religious traditions haven given it the military capabilities to rival any other Alliance Block in the world. Its focus on new trade routes, applied engineering and practical approach to magic tell a story of exponential commercial growth in the last century, especially considering the westwards view the Realm has taken. Its true strength lies in its modern administration however that makes all of the rest of its values shine brightly: Centralization of power, codification of modern law, clear division of state & church, unification and chartering of merchant guild structures into large scale government owned enterprises as well as a focus on control and modern appliance and research of Magic have always been the brightest stars in the Meadi sky. </p>
+<p>The late Queen Gisela III von Kor, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 898PA.
+While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Lesmere, Gisvale, the Halfling Freelands and various other nominally fully independent nations.</p>
 
 
 
@@ -117,17 +118,44 @@ While on paper a merely internal body of administration and efficiency, in essen
 Gisela, fourth of her name of House von Kor
 	Queen of Meadrath
 	
+Frederick von Mart
+	Queen Consort, Count of Banburg
+	
 Odrick von Fulmer
 	High-Chancellor of Meadrath, Count of Fulmer
 	
-Felix of Praum
-	King-Consort of Meadrath, Marshall of the Kingdom
+Felix von Praum
+	Duke of Praum, Marshall of the Kingdom
 	
-Thomar of Whisperhill
+Gaspar du Morelle
+	Duke du Morelle
+	
+Johann von Wormill
+	Duke of Wormill
+	
+Henry du Jera
+	Duke du Jera, Father to the Queen, in exile from court
+	
+Albrecht von Meadhavn
+	Duke of Meadhavn, High Mariner
+	
+Thomar von Whisperhill
 	Dean of Korsfall College
 	
 Kasper von Kran
 	Duke of Lesmere
+	
+ Karel von Mart
+	Archduke of Gisvale
+	
+Lopera Hermetell
+	Voxnox of the Freelands
+	
+Ungerim Lerosch
+	Bishop of Zmalig
+	
+Philip Dedrik Varascgone
+	Bishop of Bellhome, unofficial Archbishop of Meadland
 	
 Pavo of Alban
 	Archmage of Alban Tower
