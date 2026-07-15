@@ -1,3 +1,6 @@
+- 2026-07-15T2244 · Aratz Otxoa
+- 2026-07-15T2243 · Niedrest Incident
+- 2026-07-15T1433 · Codex Thereticum
 - 2026-07-15T1355 · Gisvale
 - 2026-07-15T1348 · Meadrath
 - 2026-07-15T1341 · Freelands
@@ -28,7 +31,6 @@
 - 2026-07-14T1414 · Garmish Succession Crisis
 - 2026-07-14T1414 · Vormil III
 - 2026-07-14T1414 · Theresa Salbridge
-- 2026-07-14T1414 · Niedrest Incident
 - 2026-07-14T1414 · Mikael Bivaldi
 - 2026-07-14T1414 · Niedrest
 - 2026-07-14T1414 · Morlock
@@ -80,7 +82,6 @@
 - 2026-07-11T2109 · Roygviil
 - 2026-07-11T2000 · Jezanis
 - 2026-07-11T1937 · Baeling
-- 2026-07-11T1511 · Codex Thereticum
 - 2026-07-11T0354 · Globus
 - 2026-07-11T0220 · The Discovery of Aisligos
 - 2026-07-11T0204 · Grand Ziflis Company
@@ -97,4 +98,3 @@
 - 2026-07-10T0304 · Ahrmiz Saceren
 - 2026-07-10T0258 · Kortyr
 - 2026-07-09T1447 · Artificery
-- 2026-07-09T1143 · Battvia
