@@ -1,3 +1,4 @@
+- 2026-07-15T1355 · Gisvale
 - 2026-07-15T1348 · Meadrath
 - 2026-07-15T1341 · Freelands
 - 2026-07-15T1338 · Trinicism
@@ -97,4 +98,3 @@
 - 2026-07-10T0258 · Kortyr
 - 2026-07-09T1447 · Artificery
 - 2026-07-09T1143 · Battvia
-- 2026-07-09T0040 · Cult of Tirea
