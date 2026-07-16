@@ -1,3 +1,4 @@
+- 2026-07-16T1722 · Standoff at Dimrods Shrine
 - 2026-07-16T1315 · Mesovo Border
 - 2026-07-16T1315 · Complete Timeline
 - 2026-07-16T1303 · Codex Thereticum
@@ -97,4 +98,3 @@
 - 2026-07-10T1325 · Opuzna
 - 2026-07-10T1325 · Levazci
 - 2026-07-10T0304 · Ahrmiz Saceren
-- 2026-07-10T0258 · Kortyr
