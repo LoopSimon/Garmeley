@@ -1,4 +1,4 @@
-- 2026-07-16T1722 · Standoff at Dimrods Shrine
+- 2026-07-16T1855 · Standoff at Dimrods Shrine
 - 2026-07-16T1315 · Mesovo Border
 - 2026-07-16T1315 · Complete Timeline
 - 2026-07-16T1303 · Codex Thereticum
