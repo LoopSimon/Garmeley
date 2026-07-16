@@ -1,9 +1,11 @@
+- 2026-07-16T1314 · Mesovo Border
+- 2026-07-16T1303 · Codex Thereticum
+- 2026-07-16T1238 · Freelands
+- 2026-07-16T1222 · Garmogol Ilwik
 - 2026-07-15T2244 · Aratz Otxoa
 - 2026-07-15T2243 · Niedrest Incident
-- 2026-07-15T1433 · Codex Thereticum
 - 2026-07-15T1355 · Gisvale
 - 2026-07-15T1348 · Meadrath
-- 2026-07-15T1341 · Freelands
 - 2026-07-15T1338 · Trinicism
 - 2026-07-15T0618 · Baeling Empire
 - 2026-07-15T0611 · Complete Timeline
@@ -12,7 +14,6 @@
 - 2026-07-14T2233 · Geldfield Unie van Vrijhandel
 - 2026-07-14T2232 · Pieter van Dielen
 - 2026-07-14T2218 · The Ottian Syndicate
-- 2026-07-14T2216 · Garmogol Ilwik
 - 2026-07-14T2159 · Treaty of Lotsprings
 - 2026-07-14T2147 · Gesellschaft für Westmeadischen Handel
 - 2026-07-14T2122 · Othirdon
@@ -97,4 +98,3 @@
 - 2026-07-10T1325 · Levazci
 - 2026-07-10T0304 · Ahrmiz Saceren
 - 2026-07-10T0258 · Kortyr
-- 2026-07-09T1447 · Artificery

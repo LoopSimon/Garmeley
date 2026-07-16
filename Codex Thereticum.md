@@ -17,7 +17,7 @@ Rodomyr, Krunliv
 Marianna: hard moral situations
 
 Beryl Rhimond, Captain of the Guard at the Mesovo Crossing, Hainach side.
-Neoda Safri, Captain of the Guard at the Mesovo Crossing, Elbae side.
+Neoda Safri, Bey of the Dor Beher at the Mesovo Crossing, Elbae side.
  joined command
 
 Shrine:
