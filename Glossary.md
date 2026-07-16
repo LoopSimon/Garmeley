@@ -14,6 +14,7 @@
             <div class="timeline-item" data-date="Grisy">County</div>
             <div class="timeline-item" data-date="Gri">Count</div>
             <div class="timeline-item" data-date="Bisop">Bishop</div>
+            <div class="timeline-item" data-date="Vaer">First Servant, Secretary</div>
             <div class="timeline-item" data-date="Zavr">Wizard</div>
             <div class="timeline-item" data-date="Troya">Home</div>
             <div class="timeline-item" data-date="Azav">Magic</div>

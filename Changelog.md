@@ -1,3 +1,6 @@
+- 2026-07-16T1923 · Glossary
+- 2026-07-16T1923 · Vihr
+- 2026-07-16T1921 · Vaergriff
 - 2026-07-16T1855 · Standoff at Dimrods Shrine
 - 2026-07-16T1315 · Mesovo Border
 - 2026-07-16T1315 · Complete Timeline
@@ -95,6 +98,3 @@
 - 2026-07-10T1326 · Torry
 - 2026-07-10T1326 · Szievek
 - 2026-07-10T1326 · Rovgi
-- 2026-07-10T1325 · Opuzna
-- 2026-07-10T1325 · Levazci
-- 2026-07-10T0304 · Ahrmiz Saceren

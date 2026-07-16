@@ -116,6 +116,10 @@ Jakub of House Ralpia
 	Kis of Vihr, 
 	Knight of the Order of the Unicorn
 	
+Tadeuz Pilsud
+	Vaer of Vihr, 
+	Head of the Vaergraff 
+	
 Orthel, second of his Name
 	Bisop of Iztaw,
 	Head of the Gethric Church
