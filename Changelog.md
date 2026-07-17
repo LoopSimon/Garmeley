@@ -1,5 +1,5 @@
+- 2026-07-17T1221 · Oleksandr IV
 - 2026-07-17T0222 · Rulers of Vihr
-- 2026-07-17T0219 · Oleksandr IV
 - 2026-07-17T0217 · Rulers of the Grachi
 - 2026-07-17T0200 · Grachy
 - 2026-07-17T0200 · Vasily Surovsky
