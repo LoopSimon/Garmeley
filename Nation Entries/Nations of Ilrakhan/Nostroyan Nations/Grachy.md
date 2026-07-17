@@ -8,7 +8,7 @@
 [[Halgrach]]
 [[Vasily Surovsky]]
 [[Ivanova Orin]]
-[[Ilja Zemov]]
+[[Ilya Zemov]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Grachy</h4>

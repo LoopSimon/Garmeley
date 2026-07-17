@@ -1,7 +1,7 @@
 %%
 [[Grachy]]
 [[Great Eastern War]]
-[[Ilja Zemov]]
+[[Ilya Zemov]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Vasily Surovsky</h4>

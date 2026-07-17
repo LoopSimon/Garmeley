@@ -1,3 +1,7 @@
+%%
+[[Elven Dynasties]]
+[[Elbae]]
+%%
 <p>Epitaths of the individual Rulers are not included in this list.</p>
 
 <p>This list accounts for the honorary year of mourning as the last year of the previous rulers reign </p>

@@ -1,0 +1,3 @@
+%%[[Zepria]] [[Suzana Dragović]]
+%%
+<p>The Rian is the most popular currency of central Nirydia, initially used by the Gorati traders of pre Zepria Gorat and populated and adopted by traders in Cirinzel and the Twintail Imperium until at the dawn of the 10th century almost 70% of all commercial interactions in nirydia are handled in the Rian. Suzana the Cruel, the founder of Great Zepria, is largely attributed as the mother of the Rian as a global currency and was adamant about the importance of a unified currency in her Empire.</p>

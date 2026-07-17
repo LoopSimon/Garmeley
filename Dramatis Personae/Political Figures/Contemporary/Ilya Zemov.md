@@ -3,13 +3,14 @@
 [[Vasily Surovsky]]
 [[Igor]]
 [[Gethricism]]
+[[Rulers of the Grachi]]
 [[Vormil III]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Ilya Zemov</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Bagram of Grachy, <br> Gram of Run (formerly)</span>
+        <span><a href="Rulers of the Grachi" class="internal-link">Bagram</a> of Grachy, <br> Gram of Run (formerly)</span>
     </div>
     <div class="wiki-row">
         <strong>Predecessor</strong>

@@ -1,0 +1,2 @@
+%%[[Cevolia]]%%
+<p>The Lions Ducat was the dominant currency in western Ilrakhan for hundreds of years and is still in wide use in Cevolia and parts of Sertova, in recent times even cevolian states and cities have begun to use the Gryphon and the Ducat interchangeably however due to the abuse of minting during the cevoli civil wars of the 9th century and the regulation and safety of the Gryphon. The Ducat found widespread use during the later day of the great Kingdom of Cevolis.</p>

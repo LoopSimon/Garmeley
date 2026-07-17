@@ -31,7 +31,8 @@
 <small>562A - 692PA<small>
 <p>Zawis I "Silverbeard" , 562PA - 580PA</p>
 <p>Miskomir I , 580PA - 607PA</p>
-<p>Zawis II, 607PA - 635PA</p>
+<p>Zawis II, 607PA - 629PA</p>
+<p>Kasimir III "the Pale", 629PA - 635PA</p>
 <p>Boris II "Hornsword", 635PA - 648PA</p>
 <p>Valena I, 648PA - 674PA</p>
 <p>Zawis III, 674PA - 692PA</p>
