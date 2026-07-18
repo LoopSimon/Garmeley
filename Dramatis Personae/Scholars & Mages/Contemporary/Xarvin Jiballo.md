@@ -3,6 +3,7 @@
 [[Luminists]]
 [[Hanshi]]
 [[Iz-Almadus]]
+[[Standoff at Dimrods Shrine]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Xarvin Jiballo</h4>

@@ -1,3 +1,6 @@
+- 2026-07-18T1845 · Charatov Podlim
+- 2026-07-18T1839 · Xarvin Jiballo
+- 2026-07-18T1838 · Renard Gilderberg
 - 2026-07-18T1744 · Vaergriff
 - 2026-07-18T1743 · Vormil III
 - 2026-07-18T1740 · Tadeuz Pilsud
@@ -95,6 +98,3 @@
 - 2026-07-12T1344 · Samyr
 - 2026-07-12T1334 · Merzigal
 - 2026-07-12T1326 · Cernela nu Bas
-- 2026-07-12T1314 · Lorana
-- 2026-07-12T0236 · Urland
-- 2026-07-12T0202 · Darian Amouzgar
