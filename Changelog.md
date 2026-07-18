@@ -1,9 +1,15 @@
+- 2026-07-18T1744 · Vaergriff
+- 2026-07-18T1743 · Vormil III
+- 2026-07-18T1740 · Tadeuz Pilsud
+- 2026-07-18T1739 · Vihr
+- 2026-07-18T1736 · Odrick von Fulmer
+- 2026-07-18T1733 · Maros Kirelli
+- 2026-07-18T1727 · Pigeye
 - 2026-07-18T1653 · Complete Timeline
 - 2026-07-18T1649 · Lesmere
 - 2026-07-18T1531 · Asper Inrates
 - 2026-07-18T1529 · Kharnov
 - 2026-07-18T1523 · Rulers of the Grachi
-- 2026-07-18T0203 · Vihr
 - 2026-07-18T0046 · Mesovo Border
 - 2026-07-17T1221 · Oleksandr IV
 - 2026-07-17T0222 · Rulers of Vihr
@@ -23,7 +29,6 @@
 - 2026-07-17T0041 · Orsen
 - 2026-07-17T0040 · Gryphon
 - 2026-07-17T0037 · Talent
-- 2026-07-17T0028 · Vaergriff
 - 2026-07-17T0025 · Vignasoya
 - 2026-07-16T1923 · Glossary
 - 2026-07-16T1855 · Standoff at Dimrods Shrine
@@ -56,7 +61,6 @@
 - 2026-07-14T1607 · Tintarol
 - 2026-07-14T1414 · Hynek of Forrington
 - 2026-07-14T1414 · Garmish Succession Crisis
-- 2026-07-14T1414 · Vormil III
 - 2026-07-14T1414 · Theresa Salbridge
 - 2026-07-14T1414 · Mikael Bivaldi
 - 2026-07-14T1414 · Niedrest
@@ -94,7 +98,3 @@
 - 2026-07-12T1314 · Lorana
 - 2026-07-12T0236 · Urland
 - 2026-07-12T0202 · Darian Amouzgar
-- 2026-07-12T0156 · Zurán Barbeshvili
-- 2026-07-11T2337 · Juelfluk
-- 2026-07-11T2337 · Madeley IV
-- 2026-07-11T2330 · Varald I

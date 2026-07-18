@@ -8,8 +8,8 @@
         <span> High-Chancellor of Meadrath, <br>Count of Fulmber</span>
     </div>
     <div class="wiki-row">
-        <strong>Occupation</strong>
-        <span>Meadi Human</span>
+        <strong>Culture</strong>
+        <span>Meadi <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

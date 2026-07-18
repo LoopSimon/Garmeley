@@ -12,11 +12,11 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Urien Human</span>
+        <span>Urien <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>890PA, Niedrest</span>
+        <span>890PA, <a href="Niedrest" class="internal-link">Niedrest</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

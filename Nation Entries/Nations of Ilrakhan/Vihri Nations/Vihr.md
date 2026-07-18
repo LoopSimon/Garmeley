@@ -117,7 +117,7 @@ Jakub of House Ralpia
 	Knight of the Order of the Unicorn
 	
 Tadeuz Pilsud
-	Vaer of Vihr, 
+	Sekretar of Vihr, 
 	Head of the Vaergraff 
 	
 Orthel, second of his Name
