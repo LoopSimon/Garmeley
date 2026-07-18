@@ -48,6 +48,9 @@ Nozzra, Explosives Expert, goblin
 Trevil, Head Scout, human
 Veoda, Mercenary, dwarf
 
+Guard of Reol, soldiers of the Third Moon Fleet, 
+contracts are put out at Azuvke for 
+
 
 Abducted Mogyri:
 

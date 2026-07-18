@@ -27,7 +27,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Business Sector</strong>
-        <span>Logistics,  Gilderberg Compny</span>
+        <span>Logistics,  Gilderberg Company</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gilderberg.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

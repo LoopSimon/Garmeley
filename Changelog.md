@@ -1,6 +1,11 @@
+- 2026-07-18T2258 · Mesovo Border
+- 2026-07-18T2257 · Eryl Rimond
+- 2026-07-18T2255 · Darvid Maerlon
+- 2026-07-18T2254 · Neoda Isheb
+- 2026-07-18T2035 · Codex Thereticum
+- 2026-07-18T1903 · Renard Gilderberg
 - 2026-07-18T1845 · Charatov Podlim
 - 2026-07-18T1839 · Xarvin Jiballo
-- 2026-07-18T1838 · Renard Gilderberg
 - 2026-07-18T1744 · Vaergriff
 - 2026-07-18T1743 · Vormil III
 - 2026-07-18T1740 · Tadeuz Pilsud
@@ -13,7 +18,6 @@
 - 2026-07-18T1531 · Asper Inrates
 - 2026-07-18T1529 · Kharnov
 - 2026-07-18T1523 · Rulers of the Grachi
-- 2026-07-18T0046 · Mesovo Border
 - 2026-07-17T1221 · Oleksandr IV
 - 2026-07-17T0222 · Rulers of Vihr
 - 2026-07-17T0200 · Grachy
@@ -21,7 +25,6 @@
 - 2026-07-17T0157 · Ilya Zemov
 - 2026-07-17T0154 · Rulers of the Beheran Elves
 - 2026-07-17T0153 · Brothers War
-- 2026-07-17T0151 · Codex Thereticum
 - 2026-07-17T0057 · Gram
 - 2026-07-17T0055 · Faraz
 - 2026-07-17T0054 · Tholer
@@ -95,6 +98,3 @@
 - 2026-07-13T0212 · Weadland
 - 2026-07-13T0138 · Valund Baeling
 - 2026-07-13T0031 · Alparaz
-- 2026-07-12T1344 · Samyr
-- 2026-07-12T1334 · Merzigal
-- 2026-07-12T1326 · Cernela nu Bas
