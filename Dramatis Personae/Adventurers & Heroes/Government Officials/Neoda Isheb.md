@@ -2,6 +2,7 @@
 [[Elbae]]
 [[Mesovo Border]]
 [[Yl-Lhatsi]]
+[[Eryl Rimond]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Neoda Isheb</h4>
@@ -38,3 +39,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/bey.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>The current Bey of Dor Beher, Neoda Isheb is a decorated career military woman that served over 5 decades with the Sultans Navy prior to her deployment at the Mesovo Border. She has been in command of the substantial military forces at the "Gate to Eternity" since 898PA and is renowned for her multilingual talents even for learned elven standards, careful and just approach to elven and non elven travellers alike and deeply respected for her exploits duriong the Golomid Wars. Her and the Captain of the Point Meso Bridge, Sir <a href="Eryl Rimond" class="internal-link">Eryl Rimond</a> have worked together for over a decade now and consider each other friends.</p>
