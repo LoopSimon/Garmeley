@@ -1,3 +1,6 @@
+- 2026-07-18T1653 · Complete Timeline
+- 2026-07-18T1649 · Lesmere
+- 2026-07-18T1531 · Asper Inrates
 - 2026-07-18T1529 · Kharnov
 - 2026-07-18T1523 · Rulers of the Grachi
 - 2026-07-18T0203 · Vihr
@@ -24,7 +27,6 @@
 - 2026-07-17T0025 · Vignasoya
 - 2026-07-16T1923 · Glossary
 - 2026-07-16T1855 · Standoff at Dimrods Shrine
-- 2026-07-16T1315 · Complete Timeline
 - 2026-07-16T1238 · Freelands
 - 2026-07-16T1222 · Garmogol Ilwik
 - 2026-07-15T2244 · Aratz Otxoa
@@ -96,5 +98,3 @@
 - 2026-07-11T2337 · Juelfluk
 - 2026-07-11T2337 · Madeley IV
 - 2026-07-11T2330 · Varald I
-- 2026-07-11T2117 · Qarzi
-- 2026-07-11T2117 · Kamerzin
