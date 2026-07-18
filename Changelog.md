@@ -1,3 +1,5 @@
+- 2026-07-18T2332 · Daigonis Xiguo
+- 2026-07-18T2332 · Faraz
 - 2026-07-18T2331 · Darvid Maerlon
 - 2026-07-18T2326 · Red Honey
 - 2026-07-18T2322 · Neoda Isheb
@@ -27,7 +29,6 @@
 - 2026-07-17T0154 · Rulers of the Beheran Elves
 - 2026-07-17T0153 · Brothers War
 - 2026-07-17T0057 · Gram
-- 2026-07-17T0055 · Faraz
 - 2026-07-17T0054 · Tholer
 - 2026-07-17T0051 · Pum
 - 2026-07-17T0049 · Tzen
@@ -97,4 +98,3 @@
 - 2026-07-13T2352 · Revelle
 - 2026-07-13T2023 · Telipir
 - 2026-07-13T0212 · Weadland
-- 2026-07-13T0138 · Valund Baeling

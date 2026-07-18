@@ -1,1 +1,4 @@
+%%
+[[Gaal Empire]]
+%%
 <p>The Faraz of Gaal, is the national currency of the Gaal Empire, and the weaker sibling to the nirydian Rian. It is in widespread use in many nirydian ports and popular in the Far East.</p>
