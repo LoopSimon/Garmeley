@@ -101,7 +101,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <p>After the Zav senior line died out in 501, Vihr came under the rule of the Duke of Szievek, Kasimir of House Szinmo, a Junior Branch of the House of Zav.</p>
 <h3>House of Worocek (562PA - 692PA)</h3>
 <h3>House of Ralpia (692PA - present)</h3>
-<p>With the end of the House of Worocek, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir II of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior.</p>
+<p>With the end of the House of Worocek, the assembled feudal nobility under the Honoured Assembly as well as the Gethric Bishops elected Miskomir of House Ralpia, the Duke of Trazlov, as King Miskomir II of Vihr and Wermia. This was the first official claim to the Lands of <a href="Wermia" class="internal-link">Wermia</a> by the Kings of Vihr, although the Throne of Zavlech had practically asserted control over the desolated region for years prior since the establishment of the Protectorate of <a href="Nuv Werm" class="internal-link">Nuv Werm</a> in 441PA.</p>
 
 <h2>People of Interest</h2>
 

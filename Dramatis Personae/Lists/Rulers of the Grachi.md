@@ -11,10 +11,13 @@
 <small>299PA - 448PA<small>
 
 <h3>The House of Jerinov</h3>
-<small>448PA - 701PA<small>
+<small>448PA - 631PA<small>
 
 <h3>The House of Stir</h3>
-<small>701PA - 834PA<small>
+<small>631PA - 834PA<small>
+<p>Fyodor VI of Stir, 631PA-641PA</p>
+<p>Ivan III of Stir, 641PA-652PA</p>
+<p>Andrej II of Stir, 652PA-701PA</p>
 <p>Oleksandr I of Stir, 701PA-732PA</p>
 <p>Oleksandr II of Stir, 732PA-759PA</p>
 <p>Andrej III of Stir, 759PA-770PA</p>
