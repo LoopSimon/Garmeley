@@ -11,11 +11,11 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span> </span>
+        <span>Beheran <a href="Elf" class="internal-link">Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span></span>
+        <span>803PA, Rahzalbis</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -23,7 +23,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span></span>
+        <span>124</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

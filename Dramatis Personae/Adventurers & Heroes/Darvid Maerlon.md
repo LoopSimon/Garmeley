@@ -9,11 +9,11 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span> </span>
+        <span> kheri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span></span>
+        <span>869PA, Erbil</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -21,7 +21,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span></span>
+        <span>58</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
