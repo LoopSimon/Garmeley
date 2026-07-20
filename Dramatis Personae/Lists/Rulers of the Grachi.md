@@ -4,7 +4,7 @@
 [[Oleksandr IV]]
 [[Grachy]]
 %%
-<h3>Rulers of the Kingdom of Halgrach</h3>
+<h3>Rulers of the Rascy zi Halgrach</h3>
 <small>299PA - 834PA<small>
 
 <h3>The House of Listov</h3>

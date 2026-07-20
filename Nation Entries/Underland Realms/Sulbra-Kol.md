@@ -1,4 +1,4 @@
-[[Dwarf]] [[Underlands]] [[Terem-Zal]] [[Cimfon]]
+%%[[Dwarf]] [[Underlands]] [[Tintarol]] [[Panrity]] %%
 
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hold of Sulbra-Kol</h4>
@@ -16,12 +16,14 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Rune of Sulbra</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Gods of Forge and Fire</span>
+        <span>
+        kalbin <a href="Panrity" class="internal-link">Panrity</a>
+	        </span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

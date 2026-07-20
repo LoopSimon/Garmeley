@@ -28,5 +28,5 @@ Untizin, Law Giving
 <p>The God of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, associated with gneiss.
 Her Domains are Law, Nobiliy, Rune and Community and her favoured weapon is the Glaive.</p>
 Zul-Subra, Mind Speaking
-<p>The God of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a>, associated with gneiss.
+<p>The God of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a>, associated with slate. The citizens of Sulbra-Kol have largely converted to a form of kalbin <a href="Panrity" class="internal-link">Panrity</a> combining classical worship of the Terem Zal with kalbin ideals.
 Her Domains are Water, Trickery, Travel and Weather and her favoured weapon is the heavy Pick.</p>

@@ -1,7 +1,24 @@
+- 2026-07-20T1658 · Scepter of Judgement
+- 2026-07-20T1654 · Ranni Grevil
+- 2026-07-20T1652 · Complete Timeline
+- 2026-07-20T1641 · Reed Ink
+- 2026-07-20T1641 · Graccum
+- 2026-07-20T1639 · Battvian Flour
+- 2026-07-20T1638 · Astafar
+- 2026-07-20T1637 · Grim
+- 2026-07-20T1633 · Red Honey
+- 2026-07-20T0227 · Zahhak
+- 2026-07-20T0225 · Terem-Zal
+- 2026-07-20T0221 · Sulbra-Kol
+- 2026-07-20T0215 · Tintarol
+- 2026-07-20T0208 · Cimfon
+- 2026-07-19T0304 · Stefano Maldini
+- 2026-07-19T0240 · Rulers of the Grachi
+- 2026-07-19T0240 · Oleksandr IV
+- 2026-07-19T0238 · Zepria
 - 2026-07-18T2332 · Daigonis Xiguo
 - 2026-07-18T2332 · Faraz
 - 2026-07-18T2331 · Darvid Maerlon
-- 2026-07-18T2326 · Red Honey
 - 2026-07-18T2322 · Neoda Isheb
 - 2026-07-18T2318 · Eryl Rimond
 - 2026-07-18T2258 · Mesovo Border
@@ -16,19 +33,15 @@
 - 2026-07-18T1736 · Odrick von Fulmer
 - 2026-07-18T1733 · Maros Kirelli
 - 2026-07-18T1727 · Pigeye
-- 2026-07-18T1653 · Complete Timeline
 - 2026-07-18T1649 · Lesmere
 - 2026-07-18T1531 · Asper Inrates
 - 2026-07-18T1529 · Kharnov
-- 2026-07-18T1523 · Rulers of the Grachi
-- 2026-07-17T1221 · Oleksandr IV
 - 2026-07-17T0222 · Rulers of Vihr
 - 2026-07-17T0200 · Grachy
 - 2026-07-17T0200 · Vasily Surovsky
 - 2026-07-17T0157 · Ilya Zemov
 - 2026-07-17T0154 · Rulers of the Beheran Elves
 - 2026-07-17T0153 · Brothers War
-- 2026-07-17T0057 · Gram
 - 2026-07-17T0054 · Tholer
 - 2026-07-17T0051 · Pum
 - 2026-07-17T0049 · Tzen
@@ -65,8 +78,6 @@
 - 2026-07-14T1608 · Aerlan
 - 2026-07-14T1607 · Lissean
 - 2026-07-14T1607 · Thirdonis
-- 2026-07-14T1607 · Cimfon
-- 2026-07-14T1607 · Tintarol
 - 2026-07-14T1414 · Hynek of Forrington
 - 2026-07-14T1414 · Garmish Succession Crisis
 - 2026-07-14T1414 · Theresa Salbridge
@@ -87,14 +98,3 @@
 - 2026-07-14T1409 · Coster of Melmbirth
 - 2026-07-14T1408 · Arcanists, Scholars and Mages
 - 2026-07-14T1357 · Korsfall College
-- 2026-07-14T1336 · Gisela II
-- 2026-07-14T1336 · Orenburg Pact
-- 2026-07-14T1325 · Rulers of the Meadi
-- 2026-07-14T1322 · Yari
-- 2026-07-13T2355 · Old Tusul
-- 2026-07-13T2355 · Kar Inor
-- 2026-07-13T2354 · Landerly
-- 2026-07-13T2353 · Tarqin
-- 2026-07-13T2352 · Revelle
-- 2026-07-13T2023 · Telipir
-- 2026-07-13T0212 · Weadland

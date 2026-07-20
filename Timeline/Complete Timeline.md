@@ -369,6 +369,7 @@
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
+            <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="810PA">Kranvalley Flood</div>

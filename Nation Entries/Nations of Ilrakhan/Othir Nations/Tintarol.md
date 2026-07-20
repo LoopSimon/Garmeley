@@ -2,6 +2,8 @@
 [[Panrity]]
 [[Thirdonis]]
 [[Othirdon]]
+[[Sulbra-Kol]]
+[[Droil]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Maelzad of Tintarol</h4>
@@ -47,4 +49,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Tintarol_3_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
     </div>
-
+<p>The Maelzad of Tintarol is the oldest continuous Realm in the Regions of Othirdon & Sertova, excluding the elf realm of Rogyn, it lies in the north of Othirdon and is home to the northern Locni peoples, culturally extremly close to both Cimfon and Droil. Its history has been an ebb and flow of prosperity and ruin, of survival through hardship, invasion, natural disaster and political crisis, ever enduring. Tintarol is now closely allied with the dwarven hold of Subra Kol in the Urdfall Peaks although their history is marred by conflict. </p>
