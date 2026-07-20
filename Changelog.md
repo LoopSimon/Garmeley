@@ -1,6 +1,8 @@
+- 2026-07-20T1852 · Wulfrick
+- 2026-07-20T1849 · Complete Timeline
+- 2026-07-20T1841 · Trinicism
 - 2026-07-20T1658 · Scepter of Judgement
 - 2026-07-20T1654 · Ranni Grevil
-- 2026-07-20T1652 · Complete Timeline
 - 2026-07-20T1641 · Reed Ink
 - 2026-07-20T1641 · Graccum
 - 2026-07-20T1639 · Battvian Flour
@@ -59,7 +61,6 @@
 - 2026-07-15T2243 · Niedrest Incident
 - 2026-07-15T1355 · Gisvale
 - 2026-07-15T1348 · Meadrath
-- 2026-07-15T1338 · Trinicism
 - 2026-07-15T0618 · Baeling Empire
 - 2026-07-15T0605 · Droil
 - 2026-07-15T0534 · Human
@@ -97,4 +98,3 @@
 - 2026-07-14T1409 · Fey
 - 2026-07-14T1409 · Coster of Melmbirth
 - 2026-07-14T1408 · Arcanists, Scholars and Mages
-- 2026-07-14T1357 · Korsfall College

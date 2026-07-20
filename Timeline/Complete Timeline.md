@@ -306,6 +306,7 @@
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
             <div class="timeline-item" data-date="660PA">Yellow War begins</div>
+            <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="668PA">Yellow War ends, Peace at Kulum</div>
