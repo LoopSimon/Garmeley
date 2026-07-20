@@ -1,3 +1,5 @@
+- 2026-07-21T0036 · Gurita
+- 2026-07-21T0034 · Krestasi
 - 2026-07-20T2038 · Wulfrick
 - 2026-07-20T1853 · Korsfall College
 - 2026-07-20T1852 · Basic Magical Theory
@@ -96,5 +98,3 @@
 - 2026-07-14T1410 · Grevenna
 - 2026-07-14T1409 · Hainach
 - 2026-07-14T1409 · Grivil
-- 2026-07-14T1409 · Garmeley
-- 2026-07-14T1409 · Fey

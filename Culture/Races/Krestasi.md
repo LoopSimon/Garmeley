@@ -1,5 +1,6 @@
 %%
 [[Golomid]]
+[[Merfolk]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Golomid.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Krestasi of the Golomid Tideguard</i></small>
