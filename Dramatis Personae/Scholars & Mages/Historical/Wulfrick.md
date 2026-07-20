@@ -41,3 +41,4 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/scholar.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Wulfrick von Insberg, known across the continent and to history as Wulfrick the Elder was a meadi Wizard, Academic, Rector and philosopher. He is known one of the most influential thinkers in the history of Mathematics and Magical Theory and considered the Father of modern human Arcane scholarship. His Magnum Opus is the "Theorem Arcanum", published in 628PA, is a comprehensive guide to Planar Theory, Axis Modelling, Cosmology and Basic Flux-Theory. Wulfrick was born to the Lord of Insberg, Sir Thomas von Insberg in 572PA and lived to see his 89th birthday, dying during the infamous Spring Fever of 661 during the end of the War of Trout and Drake.</p>
