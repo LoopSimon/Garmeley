@@ -1,3 +1,5 @@
+- 2026-07-20T1853 · Korsfall College
+- 2026-07-20T1852 · Basic Magical Theory
 - 2026-07-20T1852 · Wulfrick
 - 2026-07-20T1849 · Complete Timeline
 - 2026-07-20T1841 · Trinicism
@@ -96,5 +98,3 @@
 - 2026-07-14T1409 · Grivil
 - 2026-07-14T1409 · Garmeley
 - 2026-07-14T1409 · Fey
-- 2026-07-14T1409 · Coster of Melmbirth
-- 2026-07-14T1408 · Arcanists, Scholars and Mages

@@ -1,13 +1,15 @@
 %%
 [[Meadrath]]
 [[Orenburg Pact]]
+[[Wulfrick]]
+[[Pavo of Alban]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Korsfall_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>College Banner</i></small>
 </div>
 
 
-<p>The Korsfall College of Astronomy and Magicks is one of the largest place of academic research and education into Arcane and Divine Magic, and home to the great Wulfrick-Observatory.
+<p>The Korsfall College of Astronomy and Magicks is one of the largest place of academic research and education into Arcane and Divine Magic, and home to the great <a href="Wulfrick" class="internal-link">Wulfrick</a>-Observatory.
 The current Rector of Korsfall College is the Half-Elf Thomar of Whisperhill, it was founded in the year 556PA under the rule of King Gunther I von Kor. The College is an Institution of great renown and respect far beyond the courts of Meadland, Alumni are sometimes sent to the courts of nobility in advisory positions, primarily in the lands of Cevolia, Garmeley and, Urland. The Colleges reputation as a place of learning and scientific advancement in the realm of the arcane is only slightly tarnished by rumours of controversial practices, its extremely close ties to the state and active role in arcane policing and oversight over the people of Meadland. Ever since the reforms of <a href="Gisela II" class="internal-link">Gisela II</a> in the 8th century the influence and political responsibilities of the Institution have grown steadily, its given triple mandate is: Education, Advance and Control.
 </p>
 <p>The College works closely in cooperation with major western institutions of arcane and magical advancement and research, often informed and influenced by the political relationship between Meadrath and its neighbours, the most important organizations in eager exchange and partnership include The Hevn Academy of Planar Education, the Royal Academy of Battvia, the Peoples University of Albesan and the minor circles and magi towers in meadland, urland and Cevolia. Notable although a friendly rivalry exists between Hevn and Korsfall, the two institutions engage in healthy competition and have relied on each others resources in the past. <br> Furthermore the College enjoys active and exclusive partnerships with elements within the Excavators Guild of Butera and the Syndicate of Ott.</p>
