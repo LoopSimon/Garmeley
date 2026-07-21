@@ -19,7 +19,7 @@
         The Rector of Korsfall College<br>
         The First Mage of Karajal<br>
         The Kar-Zavr of Vihr<br>
-        The First Seat of Szivek University<br>
+        The First Seat of Szievek University<br>
 	    The Rector of Hevn Academy<br>
         The Archmage of Ciravelli Tower<br>
         The Archmage of Greenstone Tower<br>

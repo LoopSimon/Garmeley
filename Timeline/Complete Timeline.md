@@ -384,6 +384,8 @@
             <div class="timeline-item" data-date="820PA">Fall of Kulum</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
             <div class="timeline-item" data-date="822PA">Brothers War begins</div>
+            <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins</div>
+            <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>

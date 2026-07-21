@@ -50,3 +50,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Lissvalley_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
+<p>The Federation of Lissvalley is the most populous and geographically largest realm within Othirdon & Sertova, it is the direct successor of the <a href="Lissean" class="internal-link">Kingdom of Lissean</a> following King Charles II en Liss` abdication of the Throne in 713PA. It takes its name after the Lissvalley and therefor the river Liss that flows from the northern Kortopi mountains all the way into the Visian Sea, where its capital Rinci is situated. The Federation follows the kalbin denomination of Panrity and is tentatively allied with the nation of <a href="Cimfon" class="internal-link">Cimfon</a> to its north, ever since the Meadi-Othiri War of 824-827PA.</p>

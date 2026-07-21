@@ -1,4 +1,4 @@
-<div class="grid-2x2">
+<div class="grid-2x4">
 <div class="grid-item">
 <h2>Welcome to the Lands of Inara</h2>
 <p>This World was made for  Pathfinder 1E Games and is currently being developed, feel free to explore!
@@ -6,10 +6,10 @@ As this world is constantly under development, some articles may still be awaiti
 If you are a player in one of the games and worried about spoilers, you can always ping me and double check about a certain page.
 </p>
 </div>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/map_main.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/map_preview.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <div class="grid-item span-col-2">
-<p>  Formatted for easy Access by Neko and Loop.<br> Articles written by Loop, Dragon, Tombo, Mank & Olle.</p>
+<p>  Formatted for easy Access by Neko and Loop.<br> Articles written by Loop, with contributions by Dragon, Tombo, Mank & Olle.</p>
 </div>
 </div>
 <h2><a href="Changelog" class="internal-link">Changelog</a></h2>

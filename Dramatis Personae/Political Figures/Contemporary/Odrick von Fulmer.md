@@ -1,5 +1,6 @@
 %%
 [[Meadrath]]
+[[Gisela IV]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Odrick von Fulmer</h4>
@@ -41,4 +42,4 @@
 
 </div>
 <p>Odrick Johann Verellig, Count of Fulmer known as Odrick von Fulmer is a meadi Statesman and diplomat in service to the <a href="Meadrath" class="internal-link">Kingdom of Meadrath</a>. Formerly in charge of the Royal Diplomatic Corps of Korsfall, he was appointed to the newly created office of High-Chancellor of the Realm in 898PA and is widely recognized as the architect of the Meadi Empire, a carefully constructed network of political influence, so much so that it is sometimes referred to as the Fulmer-System.</p>
-<p>Von Fulmer is often recognized as one of the most powerful political figures on the entire subcontinent of Ilrakhan, representative of an emerging class of realpolitik dominating external and internal diplomacy.</p>
+<p>Von Fulmer is often recognised as one of the most powerful political figures on the entire subcontinent of Ilrakhan, representative of an emerging class of realpolitik dominating external and internal diplomacy. His rivalry with the Duke du Jera, the husband of the former Queen Gisela III is infamous and he was banished from court following her death and du Jeras rule  as Lord-Regent for his daughter. However following the ascendence of <a href="Gisela IV" class="internal-link">GIsela IV</a> von Fulmer was surprisingly re invited to court and reinstated in his positions whereas du Jera in turn was relieved of his duties at court and send back to Jera by his daughter.</p>

@@ -1,9 +1,20 @@
+- 2026-07-22T0111 · Welcome
+- 2026-07-21T2304 · Izevkh
+- 2026-07-21T2229 · Tadeuz Pilsud
+- 2026-07-21T2224 · Orenburg Pact
+- 2026-07-21T1730 · Adeen
+- 2026-07-21T1729 · Lissvalley
+- 2026-07-21T1728 · Complete Timeline
+- 2026-07-21T1721 · Tintarol
+- 2026-07-21T1720 · Rogyn
+- 2026-07-21T1719 · Droil
+- 2026-07-21T1251 · Odrick von Fulmer
+- 2026-07-21T1248 · Miriam II
 - 2026-07-21T0036 · Gurita
 - 2026-07-21T0034 · Krestasi
 - 2026-07-20T2038 · Wulfrick
 - 2026-07-20T1853 · Korsfall College
 - 2026-07-20T1852 · Basic Magical Theory
-- 2026-07-20T1849 · Complete Timeline
 - 2026-07-20T1841 · Trinicism
 - 2026-07-20T1658 · Scepter of Judgement
 - 2026-07-20T1654 · Ranni Grevil
@@ -16,7 +27,6 @@
 - 2026-07-20T0227 · Zahhak
 - 2026-07-20T0225 · Terem-Zal
 - 2026-07-20T0221 · Sulbra-Kol
-- 2026-07-20T0215 · Tintarol
 - 2026-07-20T0208 · Cimfon
 - 2026-07-19T0304 · Stefano Maldini
 - 2026-07-19T0240 · Rulers of the Grachi
@@ -34,9 +44,7 @@
 - 2026-07-18T1839 · Xarvin Jiballo
 - 2026-07-18T1744 · Vaergriff
 - 2026-07-18T1743 · Vormil III
-- 2026-07-18T1740 · Tadeuz Pilsud
 - 2026-07-18T1739 · Vihr
-- 2026-07-18T1736 · Odrick von Fulmer
 - 2026-07-18T1733 · Maros Kirelli
 - 2026-07-18T1727 · Pigeye
 - 2026-07-18T1649 · Lesmere
@@ -66,7 +74,6 @@
 - 2026-07-15T1355 · Gisvale
 - 2026-07-15T1348 · Meadrath
 - 2026-07-15T0618 · Baeling Empire
-- 2026-07-15T0605 · Droil
 - 2026-07-15T0534 · Human
 - 2026-07-14T2233 · Geldfield Unie van Vrijhandel
 - 2026-07-14T2232 · Pieter van Dielen
@@ -89,12 +96,5 @@
 - 2026-07-14T1414 · Mikael Bivaldi
 - 2026-07-14T1414 · Niedrest
 - 2026-07-14T1414 · Morlock
-- 2026-07-14T1413 · Miriam II
 - 2026-07-14T1413 · Knights of the Unicorn
 - 2026-07-14T1413 · Knights of the Spring
-- 2026-07-14T1413 · Kindly Lords
-- 2026-07-14T1413 · Janez Vajkard Valvasor
-- 2026-07-14T1413 · Jakub Ralpia
-- 2026-07-14T1410 · Grevenna
-- 2026-07-14T1409 · Hainach
-- 2026-07-14T1409 · Grivil
