@@ -2,7 +2,7 @@
 They tend to be extremely xenophobic and isolationist, mostly owed from a desire to protect their biome and the Fungi carried on their backs.
 This symbiotic relationship between Mogyr and Fungi, also known as Shroom-bonding, is almost entirely exclusive to the Mogyr but has been observed in other races (there are reports of <a href="Orc" class="internal-link">orcish</a> Sailors undergoing bonding though the process is usually described as agonizing).
 Mogyr tend to grow up to 7 or 8 ft tall, however most adult members of the race live out their days on all fours, protecting and exposing their shroom-infested backs to the skies.
-The average Mogyr lives up to an age of 100 although there are reports of Mogyr Elders achieving lifespans of up to 170 years, this is largely attributed to excessive usage of their bonded mushroom which can in rare cases act as a magical artifact.</p>
+The average Mogyr lives up to an age of 100 although there are reports of Mogyr Elders achieving lifespans of up to 170 years, this is largely attributed to excessive usage of their bonded mushroom which can in rare cases act as a magical artefact.</p>
 <p>The Mogyri practice <a href="Tsurigism" class="internal-link">Tsurigism</a>, a faith and cultural tradition deeply connected to Shroombonding.</p>
 
 # Shroombonding

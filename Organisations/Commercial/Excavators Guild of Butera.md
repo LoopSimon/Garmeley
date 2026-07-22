@@ -13,6 +13,6 @@ Over years the Headquarters of the Guild were officially established on the isla
 The Modern day guild oversees protection for archaeological ventures and any caravans looking to venture into [[Rakh]] and has slowly merged with the Silver Company, a Mercenary Band established by former adventurers in the 7th century.  
 Controlling all major entryways, and essentially most resources in terms of navigation and travel has given the Guild a monopoly on Rakhian excavations, specifically archaeological sites they protect and control. 
 
-Due to the major demand for elder artifacts by Academic Institutions like [[Korsfall College]], the Guild has enjoyed financial prosperity for the majority of the last 3 centuries and now basically controls the island of Butera, being a major factor to the outcome of the Battvian Civil war.
+Due to the major demand for elder Artefacts by Academic Institutions like [[Korsfall College]], the Guild has enjoyed financial prosperity for the majority of the last 3 centuries and now basically controls the island of Butera, being a major factor to the outcome of the Battvian Civil war.
 
 In modern times the Buterans have launched multiple expeditions into southern Itharia, yet to public knowledge without any success whatsoever, while also keeping a stern eye on their control over the Rakhian Wasteland, to the dismay and ire of countries like [[Hainach]] or [[Garmeley]]. 

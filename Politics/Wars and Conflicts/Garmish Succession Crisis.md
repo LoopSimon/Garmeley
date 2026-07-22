@@ -34,7 +34,7 @@ The Siege of Dolm began in the early autumn of 923PA, as the City had declared f
 Instead a large scale pillaging campaign began within the eastern countryside, destroying vast amounts of farmsteads and villages east of the barrens, culminating in the sack of Koltree.
 
 In response, while Hynek himself remained with a smaller force at Dolm, Baron Roderick of Aldale gathered the majority of forces of the southern alliance at Forrington. The seasoned military commander secured Koltree and marched on the neutral bishopric of Sunminster, denouncing the northern lords as "Gethric Barbarians and Villains". The token military force of the church-city itself was not enough to offer any resistance to Aldale and yielded after a minor engagement.
-Bishop Pityr of Sunminster was taken as hostage and the entire Church looted, a plethora of artifacts and gold being shipped south towards Forrington.
+Bishop Pityr of Sunminster was taken as hostage and the entire Church looted, a plethora of artefacts and gold being shipped south towards Forrington.
 
 Following the taking of Sunminster, the southern Lords and a vast contingent of hainach soldiers under Baron Roderick of Aldale met the combined forces of the Green Banner League in open battle at Jestrick Fields in 925PA, north of Koltree. The bloody battle ended in a devastating loss for the northern army and the death of Kylian of Redflow Keep and the two sons and heirs of Nadya of Dimglade, while the southern army sustained only minor losses but suffered the death of Count Miklas of Koltree at the hands of Jakub of Vihr.
 

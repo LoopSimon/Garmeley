@@ -354,7 +354,7 @@
             <div class="timeline-item" data-date="763PA">Gethric Pogroms begin</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire</div>
-            <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artifacts according to Prosum </div>
+            <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith</div>

@@ -1,10 +1,23 @@
+- 2026-07-22T1416 · Scepter of Judgement
+- 2026-07-22T1416 · Dagger of Discord
+- 2026-07-22T0313 · Thurimoi
+- 2026-07-22T0313 · The Ottian Syndicate
+- 2026-07-22T0312 · Terem-Zal
+- 2026-07-22T0312 · Mogyr
+- 2026-07-22T0312 · Lyandra
+- 2026-07-22T0312 · Gnome
+- 2026-07-22T0312 · Garmish Succession Crisis
+- 2026-07-22T0312 · Excavators Guild of Butera
+- 2026-07-22T0312 · Elven Paragonworship
+- 2026-07-22T0311 · Artificery
+- 2026-07-22T0311 · Basic Magical Theory
+- 2026-07-22T0311 · Complete Timeline
+- 2026-07-22T0229 · Izevkh
 - 2026-07-22T0111 · Welcome
-- 2026-07-21T2304 · Izevkh
 - 2026-07-21T2229 · Tadeuz Pilsud
 - 2026-07-21T2224 · Orenburg Pact
 - 2026-07-21T1730 · Adeen
 - 2026-07-21T1729 · Lissvalley
-- 2026-07-21T1728 · Complete Timeline
 - 2026-07-21T1721 · Tintarol
 - 2026-07-21T1720 · Rogyn
 - 2026-07-21T1719 · Droil
@@ -14,9 +27,7 @@
 - 2026-07-21T0034 · Krestasi
 - 2026-07-20T2038 · Wulfrick
 - 2026-07-20T1853 · Korsfall College
-- 2026-07-20T1852 · Basic Magical Theory
 - 2026-07-20T1841 · Trinicism
-- 2026-07-20T1658 · Scepter of Judgement
 - 2026-07-20T1654 · Ranni Grevil
 - 2026-07-20T1641 · Reed Ink
 - 2026-07-20T1641 · Graccum
@@ -25,7 +36,6 @@
 - 2026-07-20T1637 · Grim
 - 2026-07-20T1633 · Red Honey
 - 2026-07-20T0227 · Zahhak
-- 2026-07-20T0225 · Terem-Zal
 - 2026-07-20T0221 · Sulbra-Kol
 - 2026-07-20T0208 · Cimfon
 - 2026-07-19T0304 · Stefano Maldini
@@ -77,7 +87,6 @@
 - 2026-07-15T0534 · Human
 - 2026-07-14T2233 · Geldfield Unie van Vrijhandel
 - 2026-07-14T2232 · Pieter van Dielen
-- 2026-07-14T2218 · The Ottian Syndicate
 - 2026-07-14T2159 · Treaty of Lotsprings
 - 2026-07-14T2147 · Gesellschaft für Westmeadischen Handel
 - 2026-07-14T2122 · Othirdon
@@ -89,12 +98,3 @@
 - 2026-07-14T1626 · Ravland
 - 2026-07-14T1608 · Aerlan
 - 2026-07-14T1607 · Lissean
-- 2026-07-14T1607 · Thirdonis
-- 2026-07-14T1414 · Hynek of Forrington
-- 2026-07-14T1414 · Garmish Succession Crisis
-- 2026-07-14T1414 · Theresa Salbridge
-- 2026-07-14T1414 · Mikael Bivaldi
-- 2026-07-14T1414 · Niedrest
-- 2026-07-14T1414 · Morlock
-- 2026-07-14T1413 · Knights of the Unicorn
-- 2026-07-14T1413 · Knights of the Spring
