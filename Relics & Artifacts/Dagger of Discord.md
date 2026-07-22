@@ -1,5 +1,6 @@
 %%
 [[Paper Cities]]
+[[The Baker]]
 %%<div class="wiki-infobox">
     <h4 class="wiki-header">The Dagger of Discord</h4>
     <div class="wiki-row">
@@ -20,7 +21,7 @@
     </div>
     <div class="wiki-row">
         <strong>Past Owners</strong>
-        <span>Phisa Mezr, <br>The Baker, <br> Danusz, <br> Perzuk Uz-Kram</span>
+        <span>Phisa Mezr, <br><a href="The Baker" class="internal-link">The Baker</a>, <br> Danusz, <br> Perzuk Uz-Kram</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/DaggerofDiscord.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

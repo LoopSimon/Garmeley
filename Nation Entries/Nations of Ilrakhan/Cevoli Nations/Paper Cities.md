@@ -59,6 +59,6 @@ The War lasted for 8 years and at the dawn of the 9th century, the royalist part
 <h2>People of Interest</h2>
 Livius Grimo
 	Lord-Mayor of Albesan, Master-Printer of Albesan
-
-The Baker
+	
+<a href="The Baker" class="internal-link">The Baker</a>
 	Crimelord of Ligoggia

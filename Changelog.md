@@ -1,8 +1,12 @@
+- 2026-07-22T1948 · Pigeye
+- 2026-07-22T1948 · Situation in the Paper Cities
+- 2026-07-22T1947 · Paper Cities
+- 2026-07-22T1947 · Dagger of Discord
+- 2026-07-22T1946 · The Baker
 - 2026-07-22T1924 · Hunters Edge
 - 2026-07-22T1922 · Igor
 - 2026-07-22T1919 · Fredric
 - 2026-07-22T1917 · Dorian
-- 2026-07-22T1908 · Dagger of Discord
 - 2026-07-22T1858 · Summercrown
 - 2026-07-22T1740 · Yelena
 - 2026-07-22T1735 · Lyandra
@@ -62,7 +66,6 @@
 - 2026-07-18T1743 · Vormil III
 - 2026-07-18T1739 · Vihr
 - 2026-07-18T1733 · Maros Kirelli
-- 2026-07-18T1727 · Pigeye
 - 2026-07-18T1649 · Lesmere
 - 2026-07-18T1531 · Asper Inrates
 - 2026-07-18T1529 · Kharnov
@@ -95,6 +98,3 @@
 - 2026-07-14T2232 · Pieter van Dielen
 - 2026-07-14T2159 · Treaty of Lotsprings
 - 2026-07-14T2147 · Gesellschaft für Westmeadischen Handel
-- 2026-07-14T2122 · Othirdon
-- 2026-07-14T2122 · Sertova
-- 2026-07-14T2112 · Blijgrat

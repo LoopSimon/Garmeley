@@ -1,4 +1,4 @@
-[[Battvia]] [[Paper Cities]] [[Mercenary Culture]]
+[[Battvia]] [[Paper Cities]] [[Mercenary Culture]] [[The Baker]]
 
 ### The Landscape of the Paper Cities and Battvia, in the fall of 922PA
 
@@ -41,6 +41,6 @@ In Butera, the Buteran Excavators Guild controls most aspects of life and owed t
 
 Lastly Ligoggia, can even by the best people only be described as a city of scoundrels: the local authorities have long been killed, bought out or replaced by shady figures, power brokers and crime lords.
 
-Chief among them, the figure only known as ”The Baker” control the flow of Drugs across the entire Gulf and can be seen as the closest to a Mayor of the City, Ligoggia attracts every type of person in the world , few laws and rules are enforced here and few ask for your past, naive do-gooders, and rogues down on their luck, criminals and fortune-seekers alike all find their ways to the City of Crime.
+Chief among them, the figure only known as ”<a href="The Baker" class="internal-link">The Baker</a> control the flow of Drugs across the entire Gulf and can be seen as the closest to a Mayor of the City, Ligoggia attracts every type of person in the world , few laws and rules are enforced here and few ask for your past, naive do-gooders, and rogues down on their luck, criminals and fortune-seekers alike all find their ways to the City of Crime.
 
 **
