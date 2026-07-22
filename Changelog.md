@@ -1,9 +1,10 @@
+- 2026-07-22T1913 · Hunters Edge
+- 2026-07-22T1908 · Dagger of Discord
 - 2026-07-22T1858 · Summercrown
 - 2026-07-22T1740 · Yelena
 - 2026-07-22T1735 · Lyandra
 - 2026-07-22T1549 · Izevkh
 - 2026-07-22T1416 · Scepter of Judgement
-- 2026-07-22T1416 · Dagger of Discord
 - 2026-07-22T0313 · Thurimoi
 - 2026-07-22T0313 · The Ottian Syndicate
 - 2026-07-22T0312 · Terem-Zal
@@ -97,4 +98,3 @@
 - 2026-07-14T1629 · Nyrkalbinism
 - 2026-07-14T1629 · Panrity
 - 2026-07-14T1628 · Kalbinism
-- 2026-07-14T1626 · Ravland
