@@ -1,10 +1,13 @@
+- 2026-07-22T1858 · Summercrown
+- 2026-07-22T1740 · Yelena
+- 2026-07-22T1735 · Lyandra
+- 2026-07-22T1549 · Izevkh
 - 2026-07-22T1416 · Scepter of Judgement
 - 2026-07-22T1416 · Dagger of Discord
 - 2026-07-22T0313 · Thurimoi
 - 2026-07-22T0313 · The Ottian Syndicate
 - 2026-07-22T0312 · Terem-Zal
 - 2026-07-22T0312 · Mogyr
-- 2026-07-22T0312 · Lyandra
 - 2026-07-22T0312 · Gnome
 - 2026-07-22T0312 · Garmish Succession Crisis
 - 2026-07-22T0312 · Excavators Guild of Butera
@@ -12,7 +15,6 @@
 - 2026-07-22T0311 · Artificery
 - 2026-07-22T0311 · Basic Magical Theory
 - 2026-07-22T0311 · Complete Timeline
-- 2026-07-22T0229 · Izevkh
 - 2026-07-22T0111 · Welcome
 - 2026-07-21T2229 · Tadeuz Pilsud
 - 2026-07-21T2224 · Orenburg Pact
@@ -96,5 +98,3 @@
 - 2026-07-14T1629 · Panrity
 - 2026-07-14T1628 · Kalbinism
 - 2026-07-14T1626 · Ravland
-- 2026-07-14T1608 · Aerlan
-- 2026-07-14T1607 · Lissean
