@@ -19,11 +19,11 @@
     </div>
     <div class="wiki-row">
         <strong>Current Owner or Location</strong>
-        <span>Perzuk Uz-Kram, northern Behera</span>
+        <span>Quirnux, northern Behera</span>
     </div>
     <div class="wiki-row">
         <strong>Past Owners</strong>
-        <span>Xarvin Jiballo, <br> Perzuk Uz-Kram</span>
+        <span>Xarvin Jiballo, <br> Quirnux</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hunters Edge.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

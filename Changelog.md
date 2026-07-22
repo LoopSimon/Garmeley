@@ -1,7 +1,7 @@
+- 2026-07-22T1924 · Hunters Edge
 - 2026-07-22T1922 · Igor
 - 2026-07-22T1919 · Fredric
 - 2026-07-22T1917 · Dorian
-- 2026-07-22T1913 · Hunters Edge
 - 2026-07-22T1908 · Dagger of Discord
 - 2026-07-22T1858 · Summercrown
 - 2026-07-22T1740 · Yelena
