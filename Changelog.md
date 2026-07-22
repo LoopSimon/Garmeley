@@ -1,3 +1,6 @@
+- 2026-07-22T1922 · Igor
+- 2026-07-22T1919 · Fredric
+- 2026-07-22T1917 · Dorian
 - 2026-07-22T1913 · Hunters Edge
 - 2026-07-22T1908 · Dagger of Discord
 - 2026-07-22T1858 · Summercrown
@@ -95,6 +98,3 @@
 - 2026-07-14T2122 · Othirdon
 - 2026-07-14T2122 · Sertova
 - 2026-07-14T2112 · Blijgrat
-- 2026-07-14T1629 · Nyrkalbinism
-- 2026-07-14T1629 · Panrity
-- 2026-07-14T1628 · Kalbinism
