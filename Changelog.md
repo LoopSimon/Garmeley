@@ -1,3 +1,4 @@
+- 2026-07-22T1951 · Renard Gilderberg
 - 2026-07-22T1948 · Pigeye
 - 2026-07-22T1948 · Situation in the Paper Cities
 - 2026-07-22T1947 · Paper Cities
@@ -59,7 +60,6 @@
 - 2026-07-18T2318 · Eryl Rimond
 - 2026-07-18T2258 · Mesovo Border
 - 2026-07-18T2035 · Codex Thereticum
-- 2026-07-18T1903 · Renard Gilderberg
 - 2026-07-18T1845 · Charatov Podlim
 - 2026-07-18T1839 · Xarvin Jiballo
 - 2026-07-18T1744 · Vaergriff

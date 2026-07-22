@@ -3,7 +3,7 @@
 [[Mesovo Border]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Renard Gilderberg</h4>
+    <h4 class="wiki-header">Renard Philip Gilderberg</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span>Caravan Master</span>
@@ -33,3 +33,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gilderberg.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Renard Philip Gilderberg is the third son of Arnold Gilderberg, the Patriarch of the Gilderberg Clan and owner of Gilderberg Shipping and Logistics, a rich and flourishing company of meadi origins. He is currently the companies representative in the Stormy Sea and overseas the safe passage of its Caravans to greater or lesser success.</p>
