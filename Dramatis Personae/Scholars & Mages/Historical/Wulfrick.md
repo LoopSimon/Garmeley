@@ -1,6 +1,7 @@
 %%
 [[Korsfall College]]
 [[Basic Magical Theory]]
+[[Galiatar Inkfingers]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Wulfrick von Inberg</h4>
@@ -32,6 +33,10 @@
     <div class="wiki-row">
         <strong>Field of Research</strong>
         <span>Planar Theory,<br> Two Axis Theory,<br> Rakhian Remodelling,<br> <a href="Basic Magical Theory" class="internal-link">Modern Arcane Theory</a></span>
+    </div>
+    <div class="wiki-row">
+        <strong>Known Teachers</strong>
+        <span><a href="Galiatar Inkfingers" class="internal-link">Galiatar Inkfingers</a></span>
     </div>
     <div class="wiki-row">
         <strong>Known Students</strong>

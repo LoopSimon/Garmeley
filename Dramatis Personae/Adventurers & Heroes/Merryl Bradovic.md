@@ -1,6 +1,7 @@
 %%
 [[Grachy]]
-[[Lenkov.jpg]]
+[[Beryl Lenkov]]
+[[Vasily Surovsky]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Merryl Bradovic</h4>
@@ -38,3 +39,4 @@
 
 </div>
 <p>Born as a commoner in the village of Turmill, Bradovic served in the Great Eastern War and followed his father and his fathers father in the tradition of woods keeper. He has been employed for better or worse by various Gram and Boyar in the Republic and most recently served under the infamous Boyar <a href="Beryl Lenkov" class="internal-link">Lenkov</a> until his demise in May 927PA. Merryl knows the woods of central and northern Grachy well and is currently training his two nephews, Sidris and Ben in his line of work. Like many hunters and trackers in Grachy, he values the company and help of a loyal Bloodhound, the brave Gustav.</p>
+<p>Merryl fought in the Army of the Republic, the central forces of Grachy, under the command of <a href="Vasily Surovsky" class="internal-link">General Surovsky</a> during the Durilsk Rebellion almost 10 years ago.</p>

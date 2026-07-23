@@ -16,7 +16,7 @@
 
 <h4>Realmatic Exchange and the Harlinic Model<h4>
 
-<p>Named after its discoverer Harlini, a vihri Mage of the 9th century, Harlinic Space describes the semi-permeable space between the Spiritual and Material Realm and how the two forces of Consciousness and Harmony Push against each other within it. This Realmatic Model was mainly developed as a Result of Planar-Force-Theory becoming more publicly accepted as will be discussed further below. Harlini describes the constant ebb and flow in both directions of observable energy as "Realmatic Exchange" and posits that it is the driving activation force of the Dulmic Gates that allow traversal between the Realms.</p>
+<p>Named after its discoverer Harlini, a vihri Mage of the 8th century, Harlinic Space describes the semi-permeable space between the Spiritual and Material Realm and how the two forces of Consciousness and Harmony Push against each other within it. This Realmatic Model was mainly developed as a Result of Planar-Force-Theory becoming more publicly accepted as will be discussed further below. Harlini describes the constant ebb and flow in both directions of observable energy as "Realmatic Exchange" and posits that it is the driving activation force of the Dulmic Gates that allow traversal between the Realms.</p>
 </div>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/harlinic.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
