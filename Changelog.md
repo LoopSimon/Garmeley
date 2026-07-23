@@ -1,3 +1,4 @@
+- 2026-07-23T1249 · Yeorite
 - 2026-07-23T1239 · Basic Magical Theory
 - 2026-07-23T1236 · Jevana
 - 2026-07-23T1234 · Galiatar Inkfingers
@@ -97,4 +98,3 @@
 - 2026-07-17T0045 · Rian
 - 2026-07-17T0041 · Orsen
 - 2026-07-17T0040 · Gryphon
-- 2026-07-17T0037 · Talent
