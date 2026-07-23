@@ -1,11 +1,19 @@
-- 2026-07-23T0202 · Jevana
+- 2026-07-23T1236 · Jevana
+- 2026-07-23T1234 · Galiatar Inkfingers
+- 2026-07-23T1233 · Alparaz
+- 2026-07-23T1232 · Vilkin
+- 2026-07-23T1145 · Avero
+- 2026-07-23T1136 · Gynla Pemo
+- 2026-07-23T1132 · Charatov Podlim
+- 2026-07-23T1132 · Iz-Almadus
+- 2026-07-23T1131 · Elbae
+- 2026-07-23T1113 · Orenburg Pact
+- 2026-07-23T1104 · Complete Timeline
+- 2026-07-23T0207 · Korsfall College
 - 2026-07-23T0201 · Zovac Harlini
 - 2026-07-23T0154 · Larkomas
 - 2026-07-23T0154 · Jurahim al-Biad
 - 2026-07-23T0154 · Meynar of Jorrenstead
-- 2026-07-23T0153 · Galiatar Inkfingers
-- 2026-07-23T0153 · Avero
-- 2026-07-23T0146 · Vilkin
 - 2026-07-23T0143 · Carassa al-Kael
 - 2026-07-23T0128 · Basic Magical Theory
 - 2026-07-23T0115 · Wulfrick
@@ -35,10 +43,8 @@
 - 2026-07-22T0312 · Excavators Guild of Butera
 - 2026-07-22T0312 · Elven Paragonworship
 - 2026-07-22T0311 · Artificery
-- 2026-07-22T0311 · Complete Timeline
 - 2026-07-22T0111 · Welcome
 - 2026-07-21T2229 · Tadeuz Pilsud
-- 2026-07-21T2224 · Orenburg Pact
 - 2026-07-21T1730 · Adeen
 - 2026-07-21T1729 · Lissvalley
 - 2026-07-21T1721 · Tintarol
@@ -48,7 +54,6 @@
 - 2026-07-21T1248 · Miriam II
 - 2026-07-21T0036 · Gurita
 - 2026-07-21T0034 · Krestasi
-- 2026-07-20T1853 · Korsfall College
 - 2026-07-20T1841 · Trinicism
 - 2026-07-20T1654 · Ranni Grevil
 - 2026-07-20T1641 · Reed Ink
@@ -71,7 +76,6 @@
 - 2026-07-18T2318 · Eryl Rimond
 - 2026-07-18T2258 · Mesovo Border
 - 2026-07-18T2035 · Codex Thereticum
-- 2026-07-18T1845 · Charatov Podlim
 - 2026-07-18T1839 · Xarvin Jiballo
 - 2026-07-18T1744 · Vaergriff
 - 2026-07-18T1743 · Vormil III
@@ -94,7 +98,3 @@
 - 2026-07-17T0041 · Orsen
 - 2026-07-17T0040 · Gryphon
 - 2026-07-17T0037 · Talent
-- 2026-07-17T0025 · Vignasoya
-- 2026-07-16T1923 · Glossary
-- 2026-07-16T1855 · Standoff at Dimrods Shrine
-- 2026-07-16T1238 · Freelands

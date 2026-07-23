@@ -23,11 +23,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>709PA, Patwin Tower</span>
+        <span>700PA, Patwin Tower</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Cardiac Arrest<br>88 years of Age</span>
+        <span>Cardiac Arrest<br>79 years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

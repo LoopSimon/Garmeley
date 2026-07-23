@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Almadi <a href="Gnome" class="internal-link">Gnome</a></span>
+        <span>Ilkizti <a href="Gnome" class="internal-link">Gnome</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

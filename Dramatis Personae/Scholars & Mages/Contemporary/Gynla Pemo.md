@@ -7,7 +7,7 @@
     <h4 class="wiki-header">Gynla Pemo</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Second Seat of Reanport (formerly)<br>Sultante Liaison<br>retired</span>
+        <span>Second Seat of Reanport (formerly)<br>Sultante Liaison (formerly)<br>retired</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
@@ -28,7 +28,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
-        <span>Homunculi<br>Planar Binding<br>Life</span>
+        <span>Homunculi,<br>Planar Binding,<br>Creation</span>
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>

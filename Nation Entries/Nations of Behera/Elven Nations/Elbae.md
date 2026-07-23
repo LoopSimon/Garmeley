@@ -30,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Beheran High <a href="Elf" class="internal-link">Elf</a> and Dark <a href="Elf" class="internal-link">Elf</a></span>
+        <span>Beheran High <a href="Elf" class="internal-link">Elf</a> and Drow <a href="Elf" class="internal-link">Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

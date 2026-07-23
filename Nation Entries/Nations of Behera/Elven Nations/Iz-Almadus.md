@@ -1,3 +1,10 @@
+%%
+[[Elf]]
+[[Elbae]]
+[[Gnome]]
+[[Xarvin Jiballo]]
+[[Charatov Podlim]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Emirate of Iz-Almadus</h4>
     <div class="wiki-row">
@@ -23,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Beheran High <a href="Elf" class="internal-link">Elf</a> and Dark <a href="Elf" class="internal-link">Elf</a></span>
+        <span>Beheran High <a href="Elf" class="internal-link">Elf</a> and Drow <a href="Elf" class="internal-link">Elf</a>, <br> Ilkizti <a href="Gnome" class="internal-link">Gnome</a> </span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -42,6 +49,7 @@
 </div>
 
 <p>The Emirate of Iz-Almadus began as a colony of the <a href="Elbae" class="internal-link">Elbae</a> Sultanate in the 6th century PA. a Green Oasis on the Beheran Coast, nestled into the protective Ilkiztis Mountains the City of Almadin has become a sprawling Port City connected even to the Drowrealm of the Underlands. It was officially granted autonomy and the status of Emirate by the Sultan in the year 709PA. </p>
+<p>Almadus houses a large population of Gnomes, who have called the Ilkiztis their home for thousands of years. While most of the native gnomes still to this day prefer their isolated communities deep within and below the mountains, a great many of them have been fully integrated and welcomed by the Emirate.</p>
 <h2>People of Interest</h2>
 
 Sefer Iz-Almadus

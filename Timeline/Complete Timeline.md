@@ -395,6 +395,7 @@
             <div class="timeline-item" data-date="847PA">Grivil Council forms</div>
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate, White Wars begin in Behera</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
+            <div class="timeline-item" data-date="855PA">Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
 	        <div class="timeline-item" data-date="860PA">Vihri Council of 860, Creation of Torry </div>
@@ -405,7 +406,6 @@
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
             <div class="timeline-item" data-date="881PA">Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
-            <div class="timeline-item" data-date="870PA">Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
