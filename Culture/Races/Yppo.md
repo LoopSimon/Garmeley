@@ -1,5 +1,9 @@
+%%
+[[Kaito]]
+[[Byamon]]
+%%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Strider.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>A Yppo and its Rider</i></small>
 </div>
-<p>The Yppo is a large avian creature native to Kaito, as an important domesticated animal the Yppori Civilizations of humans in Kaito and around the purple Sea take their name from the Yppo. The animal is able to traverse the dangerous landscape of Kaito, its dense jungles, craggy mountains and wide steppes.</p>
+<p>The Yppo is a large avian creature native to <a href="Kaito" class="internal-link">Kaito</a>, as an important domesticated animal the Yppori Civilizations of humans in Kaito and around the purple Sea take their name from the Yppo. The animal is able to traverse the dangerous landscape of Kaito, its dense jungles, craggy mountains and wide steppes. The Yppo Riders of <a href="Byamon" class="internal-link">Byamon</a> especially have become respected and beloved for their fearsome charges and unrivalled ability to navigate asymmetrical battlefields.</p>
 <p>Yppo are bipedal and possess three-toed feet, with two toes front facing and on back facing, their feathers are colourful and can come in many varieties. The two wings of the Yppo do not allow it to take flight and have regressed over millions of years of evolution but are still used to allow the animal to glide, impress potential partners in mating rituals and scare away the few predators the Yppo has.  </p>
