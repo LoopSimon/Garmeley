@@ -1,3 +1,4 @@
+- 2026-07-23T1535 · Izevkh
 - 2026-07-23T1311 · Yppo
 - 2026-07-23T1309 · Kaito
 - 2026-07-23T1250 · Yeorite
@@ -35,7 +36,6 @@
 - 2026-07-22T1858 · Summercrown
 - 2026-07-22T1740 · Yelena
 - 2026-07-22T1735 · Lyandra
-- 2026-07-22T1549 · Izevkh
 - 2026-07-22T1416 · Scepter of Judgement
 - 2026-07-22T0313 · Thurimoi
 - 2026-07-22T0313 · The Ottian Syndicate
