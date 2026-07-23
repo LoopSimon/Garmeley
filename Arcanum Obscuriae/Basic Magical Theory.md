@@ -16,20 +16,19 @@
 
 <h4>Realmatic Exchange and the Harlinic Model<h4>
 
-<p>Named after its discoverer Harlini, a vihri Mage of the 8th century, Harlinic Space describes the semi-permeable space between the Spiritual and Material Realm and how the two forces of Consciousness and Harmony Push against each other within it. This Realmatic Model was mainly developed as a Result of Planar-Force-Theory becoming more publicly accepted as will be discussed further below. Harlini describes the constant ebb and flow in both directions of observable energy as "Realmatic Exchange" and posits that it is the driving activation force of the Dulmic Gates that allow traversal between the Realms.</p>
+<p>Named after its discoverer <a href="Zovac Harlini" class="internal-link">Zovac Harlini</a>, a vihri Mage of the 8th century, Harlinic Space describes the semi-permeable space between the Spiritual and Material Realm and how the two forces of Consciousness and Harmony Push against each other within it. This Realmatic Model was mainly developed as a Result of Planar-Force-Theory becoming more publicly accepted as will be discussed further below. Harlini describes the constant ebb and flow in both directions of observable energy as "Realmatic Exchange" and posits that it is the driving activation force of the Dulmic Gates that allow traversal between the Realms.</p>
+
 </div>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/harlinic.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 
 <h4>The Astral Realm</h4> 
-<p>The Astral Realm describes a semi-physical and immaterial space as a third Realm within realmatic Theory. Notably it is largely defined by not existing inbetween the Harlinic Space between the Material and Spiritual Realm and is best envisioned as "sorrounding environment" that exists as a layer above the Material Realm. It was proven to exist by the elven Wizard Carassa al-Kael and is infamously utilized by illegal teleportation spells, although many types of conjuration and scrying magicks access it as well. </p>
+<p>The Astral Realm describes a semi-physical and immaterial space as a third Realm within realmatic Theory. Notably it is largely defined by not existing inbetween the Harlinic Space between the Material and Spiritual Realm and is best envisioned as "sorrounding environment" that exists as a layer above the Material Realm. It was proven to exist by the elven Wizard <a href="Carassa al-Kael" class="internal-link">Carassa al-Kael</a> and is infamously utilized by illegal teleportation spells, although many types of conjuration and scrying magicks access it as well. </p>
 
-
-
-***
 <h2>Chapter 2: Planar Theory</h2>
 <h4>Introduction to basic Planar Theory</h4>
 <p>Our own Plane of existence, describes not only the physical and spiritual space occupied by the continents and oceans of the world, but within the context of Magic also the endpoint for all outer-realm energies. According to <a href="Wulfrick" class="internal-link">Wulfrick the Elder</a>, who compiled Rakhian Recoveries after the Great Discovery in his Theorem Arcanum and is widely seen as the Father of modern human Arcane Theory, our Plane ("Alrahani" in the Rakhi language of old, interchangeably used with "Inara") is connected to at least 6 major, and multitudes of minor and sub-planes of energy, in what he calls Fluxbridges (see below).</p>
+
 <h4>Ptamos Elemental Model</h4>
 <p>The elf Ptamon developed the so called "Elemental Model" which divides the world into 10 fundamental states of energy that are individually linked to each other, with four existing on the arcane axis , four on the divine and two within constant synallagma.
 While now largely seen as archaic this model and view of Planar relativism was used for almost a millenia by arcanists and scholars and many theories and discoveries thereafter were developed upon its basis that are still regarded as accurate tot his date.
@@ -49,7 +48,7 @@ Linear Power and flow of energy is an important theme within elven culture and a
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/harlin.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <h4>Four Axis Theory</h4>
-<p> Larkomas of Ott theorized the existence of a third, "formative" Axis, and a fourth "continual" Axis flowing between 4 additional Major Planes:</p>
+<p> <a href="Larkomas" class="internal-link">Larkomas of Ott</a>Ltheorized the existence of a third, "formative" Axis, and a fourth "continual" Axis flowing between 4 additional Major Planes:</p>
 
 - [[The Ideal Plane]]
 - [[The Concrete Plane]]
@@ -80,7 +79,7 @@ This Theory views Planar relationships in a hierarchy and is therefore named the
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/hierarchy.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <h4>Vilkins Universal Model</h4>
-<p>The grevennan Sorcerer Vilkin sought to combine the Hierarchical Model of Planar Relativism with our astronomical understanding of the observable universe. In this so called "universal Model" he posits the entire cosmos exists within the Space-Time Grid of the Continual Axis on the Material Realm and on the Harmonic-Consciousness Grid of the Formative Axis on the Spiritual Realm at the Same Time. While the Major Planes of Chaos, Stagnancy(also often referred to as "Order"), Positive and Negative are exist upon both Grids in Material and Spiritual Space as well. This is based upon the existence of planar creatures such as Daemons or Celestials that hail from an individual Plane but exist there and here within the Material Realm. </p>
+<p>The grevennan Sorcerer <a href="Vilkin" class="internal-link">Vilkin</a> sought to combine the Hierarchical Model of Planar Relativism with our astronomical understanding of the observable universe. In this so called "universal Model" he posits the entire cosmos exists within the Space-Time Grid of the Continual Axis on the Material Realm and on the Harmonic-Consciousness Grid of the Formative Axis on the Spiritual Realm at the Same Time. While the Major Planes of Chaos, Stagnancy(also often referred to as "Order"), Positive and Negative are exist upon both Grids in Material and Spiritual Space as well. This is based upon the existence of planar creatures such as Daemons or Celestials that hail from an individual Plane but exist there and here within the Material Realm. </p>
 <p>Within this Model, the Fundamental Planes act more like axis of their own that are linked together, described just as the Continual and Formative Grids. Furthermore this leads Vilkin to believe that the Material Realm exists entirely on the Continual Grid while the Spiritual Realm exists entirely on the Formative Grid.</p>
 <p>Vilkin further theorizes that our own Plane of exitance is not necessarily different than the known Major Planes, with the exception that as far as known to us, we do not project native planar energy into another Plane on an Axis of our own. </p>
 </div>
@@ -118,7 +117,7 @@ The Akkalian Theory on the other side hypothesizes the creation of an absolute f
 <h4>Leypoints and the Leygrid Theory</h4>
 <p>A Leypoint is a singular node in space that pierces realmatic barriers existing on all three realms at once, acting as an "access point" for planar energies. Leygrid Theory posits that all of the universe exists on a Grid of these nodes whose creation has been a mystery to this day. </p>
 <h4>The Leyprism Model</h4>
-<p>Developed by Jevana of Leston, the Leyprism Model, similarly to the Harlinic Mode in regards to Realmatic Theory, applies the distinction between Plane and Planar Force to the standing Leygrid Model.
+<p>Developed by <a href="Jevana" class="internal-link">Jevana of Leston</a>, the Leyprism Model, similarly to the Harlinic Mode in regards to Realmatic Theory, applies the distinction between Plane and Planar Force to the standing Leygrid Model.
 She posits that rather than a grid, it is much more apt to consider a Fluxbridge as a prism, that sits between two compressing forces.
 As an axis can only be consciously accessed on its entire spectrum, rather than exclusively from a single planar endpoint, this so called "Leyprism" can be seen as the adjustable key that directs planar energy into the material and spiritual realm.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/prism.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

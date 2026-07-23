@@ -1,3 +1,4 @@
+- 2026-07-23T1239 · Basic Magical Theory
 - 2026-07-23T1236 · Jevana
 - 2026-07-23T1234 · Galiatar Inkfingers
 - 2026-07-23T1233 · Alparaz
@@ -15,7 +16,6 @@
 - 2026-07-23T0154 · Jurahim al-Biad
 - 2026-07-23T0154 · Meynar of Jorrenstead
 - 2026-07-23T0143 · Carassa al-Kael
-- 2026-07-23T0128 · Basic Magical Theory
 - 2026-07-23T0115 · Wulfrick
 - 2026-07-22T2321 · Varald I
 - 2026-07-22T2316 · Merryl Bradovic
