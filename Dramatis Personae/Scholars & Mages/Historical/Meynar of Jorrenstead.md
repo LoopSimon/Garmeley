@@ -19,11 +19,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>849PA, Uhl</span>
+        <span>842PA, Uhl</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Burned to Death,<br>69 years of Age</span>
+        <span>Drowned to Death,<br>62 years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

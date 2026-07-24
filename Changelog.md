@@ -1,3 +1,5 @@
+- 2026-07-24T2301 · Meynar of Jorrenstead
+- 2026-07-24T2300 · Avero
 - 2026-07-24T2148 · Antonin Slowoska
 - 2026-07-24T2118 · Hatara
 - 2026-07-24T2118 · Kaito
@@ -26,7 +28,6 @@
 - 2026-07-23T1236 · Jevana
 - 2026-07-23T1234 · Galiatar Inkfingers
 - 2026-07-23T1233 · Alparaz
-- 2026-07-23T1145 · Avero
 - 2026-07-23T1136 · Gynla Pemo
 - 2026-07-23T1132 · Charatov Podlim
 - 2026-07-23T1132 · Iz-Almadus
@@ -35,7 +36,6 @@
 - 2026-07-23T1104 · Complete Timeline
 - 2026-07-23T0207 · Korsfall College
 - 2026-07-23T0201 · Zovac Harlini
-- 2026-07-23T0154 · Meynar of Jorrenstead
 - 2026-07-23T0143 · Carassa al-Kael
 - 2026-07-23T0115 · Wulfrick
 - 2026-07-22T2321 · Varald I
