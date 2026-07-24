@@ -1,1 +1,2 @@
-To the Orcs of the [[Qalmyr]] it is known as Teriq and associated with Life, while the elves call it Var.
+<p>To the Orcs of the <a href="Qalmyr" class="internal-link">Qalmyr</a> it is known as Teriq and associated with Life, while the elves call it Var.</p>
+<p>The Sun around which our planet orbits is located at the centre of its own solar system, it is a G-Type star that makes up almost all the mass in our system and was likely formed between 4 and 7 billion years ago.</p>

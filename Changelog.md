@@ -1,6 +1,6 @@
+- 2026-07-24T2109 · The Sun
 - 2026-07-24T2105 · Jurahim al-Biad
 - 2026-07-24T2036 · Gryphon
-- 2026-07-24T1739 · The Sun
 - 2026-07-24T1735 · The first Moon
 - 2026-07-24T1735 · The second Moon
 - 2026-07-24T1722 · Vilkin
