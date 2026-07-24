@@ -1,0 +1,1 @@
+To the Orcs of the [[Qalmyr]] it is known as Teriq and associated with Life, while the elves call it Var.

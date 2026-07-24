@@ -1,3 +1,8 @@
+- 2026-07-24T2105 · Jurahim al-Biad
+- 2026-07-24T2036 · Gryphon
+- 2026-07-24T1739 · The Sun
+- 2026-07-24T1735 · The first Moon
+- 2026-07-24T1735 · The second Moon
 - 2026-07-24T1722 · Vilkin
 - 2026-07-24T1706 · Azuvke
 - 2026-07-24T1706 · Kherova
@@ -24,7 +29,6 @@
 - 2026-07-23T1104 · Complete Timeline
 - 2026-07-23T0207 · Korsfall College
 - 2026-07-23T0201 · Zovac Harlini
-- 2026-07-23T0154 · Jurahim al-Biad
 - 2026-07-23T0154 · Meynar of Jorrenstead
 - 2026-07-23T0143 · Carassa al-Kael
 - 2026-07-23T0115 · Wulfrick
@@ -94,7 +98,3 @@
 - 2026-07-18T1649 · Lesmere
 - 2026-07-18T1531 · Asper Inrates
 - 2026-07-18T1529 · Kharnov
-- 2026-07-17T0222 · Rulers of Vihr
-- 2026-07-17T0200 · Grachy
-- 2026-07-17T0200 · Vasily Surovsky
-- 2026-07-17T0157 · Ilya Zemov
