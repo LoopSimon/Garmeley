@@ -1,5 +1,8 @@
+- 2026-07-24T1656 · Palus
+- 2026-07-24T1443 · Izevkh
+- 2026-07-24T1439 · Antonin Slowoska
+- 2026-07-24T1428 · Larkomas
 - 2026-07-23T1550 · Standoff at Dimrods Shrine
-- 2026-07-23T1535 · Izevkh
 - 2026-07-23T1311 · Yppo
 - 2026-07-23T1309 · Kaito
 - 2026-07-23T1250 · Yeorite
@@ -17,7 +20,6 @@
 - 2026-07-23T1104 · Complete Timeline
 - 2026-07-23T0207 · Korsfall College
 - 2026-07-23T0201 · Zovac Harlini
-- 2026-07-23T0154 · Larkomas
 - 2026-07-23T0154 · Jurahim al-Biad
 - 2026-07-23T0154 · Meynar of Jorrenstead
 - 2026-07-23T0143 · Carassa al-Kael
@@ -96,5 +98,3 @@
 - 2026-07-17T0153 · Brothers War
 - 2026-07-17T0054 · Tholer
 - 2026-07-17T0051 · Pum
-- 2026-07-17T0049 · Tzen
-- 2026-07-17T0048 · Ducat

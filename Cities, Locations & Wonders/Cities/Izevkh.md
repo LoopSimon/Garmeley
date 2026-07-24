@@ -3,6 +3,9 @@
 [[Nostroya]]
 [[Igor]]
 [[Tizin-Kol]]
+[[Antonin Slowoska]]
+[[Dwarf]]
+[[Terem-Zal]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">City of Izevkh</h4>
@@ -62,10 +65,10 @@
 <p>The Three main bridges of Izevkh connect the southern parts to the central city, the oldest bridge is the Iron Bridge spanning from Izevkh Castle to the small island of Irwig and then the southern part of Izevkhs Oldtown. Jaerbridge in the centre of the city is the largest Bridge and build connecting Dusttown and Riverview with the city itself, when Izevkh kept prospering. Newbridge, aptly named, is the northernmost bridge and has only finished construction recently, mainly sponsored by various guilds and local businesses that aim to connect the remaining available space south of the river to the centre of the city.</p>
 <h2>Oldmarket and Zarsroad</h2>
 <p>The Zarsroad cuts through the entire City and is the central avenue for all traffic within Izevkh, flowing from the Springsgate in the west to the Tergate in the east. In the centre of Zarsroad, connecting it northwards to the Greengate and southwards to the Jaerbridge and Dusttown lies the Oldmarket. Oldmarket is a large square within Izevkh and home to the daily market of goods from out and inside the city, as well as various important commercial and administrative buildings such as the Orsrag Hall where the Ushkyn meets, the famous Lekeib & Zerek House of Commerce and the Kalny Exchange.</p>
-<p>The Zarsroad leaves the city westwards and continues on to Melesk and later the Capital City Halgrach going further alongside the Halgrior River flowing through southern Grachy by the cities of Bryansk, Modva and Ustikiv finally ending in the Port City of Voblag itself. It is the most important commercial lane of land travel in the entire Republic.</p>
+<p>The Zarsroad leaves the city westwards and continues on to Melesk and later the Capital City Halgrach going further alongside the Halgior River flowing through southern Grachy by the cities of Bryansk, Modva and Ustikiv finally ending in the Port City of Voblag itself. It is the most important commercial lane of land travel in the entire Republic.</p>
 <h2>West Izevkh</h2>
-<p>The western part of the City is home to its second largest Church, Everwarm, many commercial buildings and smaller markets, the cities Treasury, various reputably Inns and  larger residential areas. A large portion of the cities dwarven population lives here and the Ushykn of the city has even granted their community the right to construct a Temple to their Terem-Zal Gods.</p>
+<p>The western part of the City is home to its second largest Church, Everwarm, many commercial buildings and smaller markets, the cities Treasury, various reputably Inns and  larger residential areas. A large portion of the cities dwarven population lives here and the Ushykn of the city has even granted their community the right to construct a Temple to their <a href="Terem-Zal " class="internal-link">Terem-Zal </a>Gods.</p>
 <h2>Northside</h2>
-<p>The wealthiest area of the City, Northside is home to the Villas, Estates and Cottages of various Boyars and the like, as well as the tallest building in the city, Borni Tower. Constructed by the Astronomer Gregory Borni in the 9th century, the Tower is home to an impressive Observatorium and a mark of pride a city this far east, a region considered uneducated and poor.</p>
+<p>The wealthiest area of the City, Northside is home to the Villas, Estates and Cottages of various Boyars and the like, as well as the tallest building in the city, Borni Tower. Constructed by the Astronomer Gregory Borni in the 9th century, the Tower is home to an impressive Observatorium and a mark of pride a city this far east, a region considered uneducated and poor. The mysterious occultist and sorcerer <a href="Antonin Slowoska" class="internal-link">Antonin Slowoska</a> currently resides within Borni Tower but is rarely seen outside of it. </p>
 <h2>The Rags</h2>
 <p>The Southeastern Quarter of Izevkh, often simply referred to as "the Rags" is the poorest part of the city, hounded by criminals and prone to illegal activities, the Jaerkontor in the south is the most well guarded part of the entire River and the main entry point for ships from the smaller communities upriver.</p>
