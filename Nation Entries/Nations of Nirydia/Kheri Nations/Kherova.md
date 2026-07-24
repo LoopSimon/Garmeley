@@ -2,7 +2,7 @@
 [[Kherovan Inquisition]][[Kethricism]][[Dwarf]][[Azuvke]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">The Kherovan Khatrym</h4>
+    <h4 class="wiki-header">The Khatrym of Kherova</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Absolute Monarchy</span>

@@ -1,29 +1,46 @@
+%%
+[[Gethricism]]
+[[Palus]]
+[[Luminists]]
+[[The Incursion]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Wermian Accords</h4>
     <strong>Signatories:</strong>
 	<hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
-        The Khat of <a href="Kherova">Kherova</a><br>
         The Patriarch of Kher and Head of <a href="Kethricism">Kethricism</a><br>
         The High-Bishop of Iztaw, Head of <a href="Gethricism">Gethricism</a><br>
-        The King of <a href="Vihr">Vihr</a><br>
-        The King of <a href="Meadrath">Meadrath</a><br>
+        The Ras of <a href="Vihr">Vihr</a><br>
+        The Khat of <a href="Kherova">Kherova</a><br>
+        The Khat of <a href="Azuvke">Azuvke</a><br>
+        The Bagram of <a href="Grachy">Grachy</a><br>
+        The Queen of <a href="Meadrath">Meadrath</a><br>
+        The Archduke of <a href="Gisvale">Gisvale</a><br>
+        The Duke of <a href="Lesmere">Gisvale</a><br>
+        The Stadtholder of <a href="Blijgrat">Blijgrat</a><br>
         The King of <a href="Baeling">Baeling</a><br>
         The King of <a href="Juelfluk">Juelfluk</a><br>
         The Prince of <a href="Battvia">Battvia</a><br>
+        The Leader of <a href="Firocco">Firocco</a><br>
+        The Duc of <a href="Jeledo">Jeledo</a><br>
+        The Duc of <a href="Turpador">Turpador</a><br>
+        The Gran Duc of <a href="Martella">Martella</a><br>
         The Highlord of <a href="Xer-Kol">Xer-Kol</a><br>
         The Speaker of <a href="Tizin-Kol">Tizin-Kol</a><br>
         The Duke of <a href="Garmeley">Garmeley</a><br>
         The King of <a href="Gelmsburg">Gelmsburg</a><br>
-        The Lord of <a href="Grevenna">Grevenna</a><br>
+        The Lord-Protector of <a href="Urbridge">Urbridge</a><br>
+        The Grand Lord of <a href="Grevenna">Grevenna</a><br>
         The Prince of <a href="Hainach">Hainach</a><br>
+        The Lord-Rector of <a href="Reanport">Reanport</a><br>
         The Lord-Mayor of <a href="Uhl">Uhl</a><br>
         The Citykeeper of Niedrest, Head of the <a href="Trinvale">Trinvale</a> Republic <br>
         The Queen of <a href="Eldmar">Eldmar</a><br>
     </div>
 </div>
 <p>A set of rules and restrictions regarding Magical Practice instated roughly 300 years after the <a href="Wermia">Wermian</a> <a href="The Incursion" class="internal-link">Incursions</a> , referencing them as an example of the havoc and destruction unchecked magic can wreak upon the material Plane.
-Primarily enforced by at first only Followers of <a href="Gethricism">Gethricism</a> but later virtually all nations on Ilrakhan.</p>
+Primarily enforced by at first only Followers of <a href="Gethricism">Gethricism</a> but later virtually all nations on Ilrakhan. The Saint <a href="Palus" class="internal-link">Palus Aergestes</a> was the then Bishop responsible for the international congregation agreeing to the Accords and is hailed as the Father to the document, it is seen as an effort of near unrivalled diplomacy especially for its time, but has come under more scrutiny in recent years by academic movements such as the <a href="Luminists" class="internal-link">Luminists</a>.</p>
 
 <hr class="wiki-hr">
 
