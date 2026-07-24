@@ -1,5 +1,5 @@
+- 2026-07-24T2304 · Avero
 - 2026-07-24T2301 · Meynar of Jorrenstead
-- 2026-07-24T2300 · Avero
 - 2026-07-24T2148 · Antonin Slowoska
 - 2026-07-24T2118 · Hatara
 - 2026-07-24T2118 · Kaito
