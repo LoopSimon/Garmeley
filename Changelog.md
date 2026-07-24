@@ -1,8 +1,16 @@
-- 2026-07-24T2109 · The Sun
+- 2026-07-24T2148 · Antonin Slowoska
+- 2026-07-24T2118 · Hatara
+- 2026-07-24T2118 · Kaito
+- 2026-07-24T2113 · Vinjira
+- 2026-07-24T2111 · The Sun
+- 2026-07-24T2111 · Globus
+- 2026-07-24T2111 · Qalmyr
+- 2026-07-24T2111 · Material Realm
+- 2026-07-24T2111 · Pravazik Pantheon
 - 2026-07-24T2105 · Jurahim al-Biad
 - 2026-07-24T2036 · Gryphon
-- 2026-07-24T1735 · The first Moon
-- 2026-07-24T1735 · The second Moon
+- 2026-07-24T1735 · Luna Major
+- 2026-07-24T1735 · Luna Minor
 - 2026-07-24T1722 · Vilkin
 - 2026-07-24T1706 · Azuvke
 - 2026-07-24T1706 · Kherova
@@ -10,11 +18,9 @@
 - 2026-07-24T1704 · Reanport
 - 2026-07-24T1656 · Palus
 - 2026-07-24T1443 · Izevkh
-- 2026-07-24T1439 · Antonin Slowoska
 - 2026-07-24T1428 · Larkomas
 - 2026-07-23T1550 · Standoff at Dimrods Shrine
 - 2026-07-23T1311 · Yppo
-- 2026-07-23T1309 · Kaito
 - 2026-07-23T1250 · Yeorite
 - 2026-07-23T1239 · Basic Magical Theory
 - 2026-07-23T1236 · Jevana
@@ -92,9 +98,3 @@
 - 2026-07-18T2035 · Codex Thereticum
 - 2026-07-18T1839 · Xarvin Jiballo
 - 2026-07-18T1744 · Vaergriff
-- 2026-07-18T1743 · Vormil III
-- 2026-07-18T1739 · Vihr
-- 2026-07-18T1733 · Maros Kirelli
-- 2026-07-18T1649 · Lesmere
-- 2026-07-18T1531 · Asper Inrates
-- 2026-07-18T1529 · Kharnov

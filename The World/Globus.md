@@ -1,4 +1,4 @@
-orbited by [[The first Moon]] and [[The second Moon]]
+orbited by [[Luna Major]] and [[Luna Minor]]
 
 50000 km equatorial circumference
 

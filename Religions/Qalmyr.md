@@ -1,6 +1,6 @@
 
 
-Qalmyr, also known as Orcish Moon Worship, is a dualistic religion centred around the 2 Moons, Qastor, [[The first Moon]] and Zolra, [[The second Moon]].
+Qalmyr, also known as Orcish Moon Worship, is a dualistic religion centred around the 2 Moons, Qastor, [[Luna Major]] and Zolra, [[Luna Minor]].
 Its generally mostly [[Orc]]is adherents exalt Qastor as the all-knowing and benevolent god of Property and the supreme being of the Universe, while they fear Zolra as the he cast away to rid himself of all his destructive tendency, evil thoughts and lesser desires.
 
 Qari treat Qastor as the supreme god of the world, but believe in other divine beings known as the Qinari that share some of his traits, these appear as stars and constellations, the Star [[Malham]] for example is known as "the child of destiny" and and associated with hope and innocence. 
