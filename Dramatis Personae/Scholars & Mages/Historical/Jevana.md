@@ -2,7 +2,9 @@
 [[Advanced Magical Theory]]
 [[Gelmsburg]]
 [[Zovac Harlini]]
+[[Orenburg Pact]]
 %%
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jevana Loxley</h4>
     <div class="wiki-row">
