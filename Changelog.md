@@ -1,3 +1,6 @@
+- 2026-07-25T0225 · Eressa
+- 2026-07-25T0224 · Pagia
+- 2026-07-25T0224 · Globus
 - 2026-07-25T0220 · Grachy
 - 2026-07-25T0213 · Zovac Harlini
 - 2026-07-25T0200 · Jevana
@@ -9,7 +12,6 @@
 - 2026-07-24T2118 · Kaito
 - 2026-07-24T2113 · Vinjira
 - 2026-07-24T2111 · The Sun
-- 2026-07-24T2111 · Globus
 - 2026-07-24T2111 · Qalmyr
 - 2026-07-24T2111 · Material Realm
 - 2026-07-24T2111 · Pravazik Pantheon
@@ -96,5 +98,3 @@
 - 2026-07-18T2322 · Neoda Isheb
 - 2026-07-18T2318 · Eryl Rimond
 - 2026-07-18T2258 · Mesovo Border
-- 2026-07-18T2035 · Codex Thereticum
-- 2026-07-18T1839 · Xarvin Jiballo

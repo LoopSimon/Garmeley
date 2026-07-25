@@ -1,6 +1,6 @@
 orbited by [[Luna Major]] and [[Luna Minor]]
 
-50000 km equatorial circumference
+51000 km equatorial circumference
 
  [[Inara]]:
 	Made up of the continents of: Ilrakhan, Nirydia, Trykkerog and Behera.
@@ -12,13 +12,13 @@ orbited by [[Luna Major]] and [[Luna Minor]]
 	These lands are found to the far west of Ilrakhan and sometimes referred to as a single continent, although they are distinct landmasses.
 
  [[Eressa]]:
-	Located within the south-western corner of your classical Ilrakhani Map, the 2 large islands of Eressa and Pagia are often referred to as the Eressian Continent.
+	Located within the south-western corner of your classical Ilrakhani Map, the slightly smaller easter landmass of Eressa is often referred to as the Hona Continent together with Pagia to its west.
+
+ [[Pagia]]:
+	Located within the south-western corner of your classical Ilrakhani Map, the slightly larger western landmass of Pagia is often referred to as the Hona Continent together with Eressa to its east.
 
  [[Sirenna]]:
-	After Inara, southern Sirena is the largest single landmass in the entire world, often referred to as the "New World", together with Bricea.
-
- [[Bricea]]:
-	 Far South of Behera and direct to the East of Sirena lies the continent of Bricea, often referred to as the "New World", together with Sirena.
+	After Inara, southern Sirena is the largest single landmass in the entire world, often referred to as the "New World", together with the island of [[Bricea]] to its west.
 
 
  [[Zefellis]]
