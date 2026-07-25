@@ -20,3 +20,4 @@ Ilon is unknowable, the unnameable mystery of the world that can never be taught
 He who fights Agmor, Welmo and Ruxis fights himself.
 
 <p>The origins of Ilonism likely go back to a lunar and solar religious tradition based on the alignment of the two moons with the sun, the three major bodies in the observable sky, and evidence for proto ilonist sun worship go back thousands of years ago in the Asef and Hessef, as well as clear connection with the three modern deities associated with the ilonist wheel.</p>
+<p>During the Meter dynasty, many ilonist cults were destroyed and the religion largely outlawed, its shrines barred and some priest even buried alive within them. Later elven rulers were much more tolerant.</p>
