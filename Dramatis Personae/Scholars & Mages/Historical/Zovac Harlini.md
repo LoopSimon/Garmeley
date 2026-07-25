@@ -25,7 +25,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>728PA, Opuzna</span>
+        <span>728PA, Radke</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
