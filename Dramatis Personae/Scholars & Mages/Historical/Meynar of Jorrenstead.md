@@ -4,7 +4,7 @@
 [[Turvik Paganism]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Meynar of Jorrenstead</h4>
+    <h4 class="wiki-header">Meynar Stipjan of Jorrenstead</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span>Historian, advisor to Zigmund II</span>
@@ -34,3 +34,5 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Meynar.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Meynar Stipjan was born in the year 780PA in the <a href="Garmeley" class="internal-link">Garmeley</a> city of Jorrenstead, at the bend of the Melm River, he visited Redflow College and worked as a scribe for various government officials until around 828PA. Following his administrative career he became an "advisor" to Zigmund III, the King of <a href="Gelmsburg" class="internal-link">Gelmsburg</a>, who essentially sponsored Meynars work as a writer and codifier of urien and garmish history and traditions.</p>
+<p>His research and work contributed immensely to the understanding of Proto-Urien and Rakhian Culture and History, culminating in his most famous work, the 4 part "Historiae Uriorum", published in 837PA. Meynar drowned during the Spring Festival of 842PA while visiting the metropolis of Uhl, he is regarded as a symbol of urien and garmish unity and remembered fondly not only for his academic contributions but also his almost folk hero esque tales about daring encounters, and comedic ways to escape them.</p>
