@@ -13,8 +13,9 @@ Vihr never forgot the shameful result of the war in their eyes and even among th
 
 
 
+The Verali
 
-
+Four Banished creatures working tirelessly to escape bondage and enter the material plane once again: The Vitch, the Harper, the Beast & the Hero
 
 
 

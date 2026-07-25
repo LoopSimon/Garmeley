@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Ushykn of the City, Gram Ruda<br></span>
+        <span>Ushykn of the City, <br>Gram Ruda</span>
     </div>
     <div class="wiki-row">
         <strong>Population</strong>

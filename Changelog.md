@@ -1,3 +1,7 @@
+- 2026-07-25T1628 · Codex Thereticum
+- 2026-07-25T1128 · Sater
+- 2026-07-25T0312 · Vimgalab Monsis
+- 2026-07-25T0306 · Izevkh
 - 2026-07-25T0250 · Reed Ink
 - 2026-07-25T0247 · Zondust
 - 2026-07-25T0238 · Meynar of Jorrenstead
@@ -27,7 +31,6 @@
 - 2026-07-24T1705 · Wermian Accords
 - 2026-07-24T1704 · Reanport
 - 2026-07-24T1656 · Palus
-- 2026-07-24T1443 · Izevkh
 - 2026-07-24T1428 · Larkomas
 - 2026-07-23T1550 · Standoff at Dimrods Shrine
 - 2026-07-23T1311 · Yppo
@@ -95,6 +98,3 @@
 - 2026-07-19T0238 · Zepria
 - 2026-07-18T2332 · Daigonis Xiguo
 - 2026-07-18T2332 · Faraz
-- 2026-07-18T2331 · Darvid Maerlon
-- 2026-07-18T2322 · Neoda Isheb
-- 2026-07-18T2318 · Eryl Rimond
