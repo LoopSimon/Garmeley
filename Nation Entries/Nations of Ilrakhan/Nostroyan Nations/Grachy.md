@@ -9,6 +9,7 @@
 [[Vasily Surovsky]]
 [[Ivanova Orin]]
 [[Ilya Zemov]]
+[[Eril Ruda]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Grachy</h4>
@@ -85,7 +86,7 @@
 <p>Vlad Kulyat, Gram of the Kulyat Region</p>
 <p>Petr Kebtov, Gram of the Upper Drakhov Region</p>
 <p><a href="Ivanova Orin" class="internal-link">Ivanova Orin</a>, Gram of the Northern Grachwoods Region</p>
-<p>Eril Ruda, Gram of the Jaerflow Region</p>
+<p><a href="Eril Ruda" class="internal-link">Eril Ruda</a>, Gram of the Jaerflow Region</p>
 <p>Iljya Medvov, Gram of the Nevland Region</p>
 <p>Ivan Zeresky, Gram of the Bryansk Valley Region</p>
 <p>Hesser Modva, Gram of the Modva Region</p>

@@ -251,7 +251,9 @@
             <div class="timeline-item" data-date="520PA">The Duke of Battvia declares himself Prince, formation of modern day Battvia as a Kingdom</div>
             <div class="timeline-item" data-date="521PA">Destruction of Qa, end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
+            <div class="timeline-item" data-date="526PA">Sarloni Uprising begins in Vihr</div>
             <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, Lissean Kingdom forms</div>
+            <div class="timeline-item" data-date="526PA">Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
