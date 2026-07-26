@@ -111,10 +111,11 @@
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="269BA">Conquest of Samyr, The Marival ends and the City is named Mereskis</div>
+            <div class="timeline-item" data-date="265BA">Meter Ban on Ilonist Cults, "Breaking of the Wheel" begins in Behera</div>
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
             <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
-            <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div><div class="timeline-item" data-date="190BA">First mention of the Mogori Empire</div>
-            <div class="timeline-item" data-date="190BA">First mention of the Magari Empire</div>
+            <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
+            <div class="timeline-item" data-date="190BA">Invocation of Uschtir</div>
             <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>
             <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
