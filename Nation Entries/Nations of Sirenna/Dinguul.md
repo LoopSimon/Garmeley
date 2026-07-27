@@ -1,5 +1,7 @@
 %%
 [[Gurita]]
+[[Murwinism]]
+[[Qalzan]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Grand Dinguul</h4>
@@ -38,4 +40,4 @@
          N/A
     </div>
 </div>
-The Grand Dinguul, also known as the Realm of the Din, is the largest known organized society of Gurita on the globe, located on the wester parts of the Southern Sirennan coast and within the Subsirennan Ocean.
+<p>The Grand Dinguul, also known as the Realm of the Din, is the largest known organized society of Gurita on the globe, located on the wester parts of the Southern Sirenni coast and within the Subsirenni Ocean. Certain nomadic tribes of Gurita that have adapted to the icey conditions and live on the polar continent of <a href="Qalzan" class="internal-link">Qalzan</a> pay tribute to the Dinguul and its influence stretches as far north as the shores of the Irynsbay.</p>

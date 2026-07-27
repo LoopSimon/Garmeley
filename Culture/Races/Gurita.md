@@ -19,3 +19,4 @@ A period between Memnecesne-cycles in the lifespan of a Gurita, colloquially jus
 <p>Unlike normal ocotopodea, they have evolved to no longer utilize ink-bags due to their amphibious nature, but still possess the remnants of the organ.
 They possess the ability to perceive sound but can only view their surroundings in shades of grey, which at the same time gives them exceptional vision in darkness.
 With the help of their eight legs it is possible for them to jet underwater and even propel themselves a short distance out of water.</p>
+

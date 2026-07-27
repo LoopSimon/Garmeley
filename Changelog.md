@@ -1,3 +1,5 @@
+- 2026-07-27T1827 · Dinguul
+- 2026-07-27T1824 · Gurita
 - 2026-07-27T1807 · Vilkin
 - 2026-07-27T1805 · Mario Benvolo
 - 2026-07-27T1748 · Mabar
@@ -94,7 +96,5 @@
 - 2026-07-21T1719 · Droil
 - 2026-07-21T1251 · Odrick von Fulmer
 - 2026-07-21T1248 · Miriam II
-- 2026-07-21T0036 · Gurita
 - 2026-07-21T0034 · Krestasi
 - 2026-07-20T1841 · Trinicism
-- 2026-07-20T1654 · Ranni Grevil
