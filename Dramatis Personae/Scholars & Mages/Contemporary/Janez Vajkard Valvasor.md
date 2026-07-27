@@ -2,6 +2,7 @@
 [[Reanport]]
 [[Grevenna]]
 [[Gynla Pemo]]
+[[Korman van Schipwig]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Janez Vajkard Valvasor</h4>
@@ -32,7 +33,7 @@
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>
-        <span>Korman van Schipwig</span>
+        <span><a href="Korman van Schipwig" class="internal-link">Korman van Schipwig</a></span>
     </div>
     <div class="wiki-row">
         <strong>Known Students</strong>

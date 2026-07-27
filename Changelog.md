@@ -1,3 +1,13 @@
+- 2026-07-27T1423 · Wulfrick
+- 2026-07-27T1420 · Korman van Schipwig
+- 2026-07-27T1415 · Janez Vajkard Valvasor
+- 2026-07-27T1414 · Gynla Pemo
+- 2026-07-27T1234 · Pastelliora
+- 2026-07-27T1125 · Igor
+- 2026-07-27T0351 · Strait of Horad
+- 2026-07-27T0340 · Malham
+- 2026-07-27T0339 · Urden
+- 2026-07-27T0121 · Qalzan
 - 2026-07-26T1703 · The Deck of the Dragon
 - 2026-07-26T1633 · Rynbrekka
 - 2026-07-26T1330 · Complete Timeline
@@ -6,7 +16,6 @@
 - 2026-07-26T1157 · Izhevk
 - 2026-07-26T1156 · Livia Bistovka
 - 2026-07-26T0013 · Ilonism
-- 2026-07-25T1755 · Igor
 - 2026-07-25T1755 · Antonin Slowoska
 - 2026-07-25T1628 · Codex Thereticum
 - 2026-07-25T1128 · Sater
@@ -45,13 +54,11 @@
 - 2026-07-23T1239 · Basic Magical Theory
 - 2026-07-23T1234 · Galiatar Inkfingers
 - 2026-07-23T1233 · Alparaz
-- 2026-07-23T1136 · Gynla Pemo
 - 2026-07-23T1132 · Charatov Podlim
 - 2026-07-23T1132 · Iz-Almadus
 - 2026-07-23T1131 · Elbae
 - 2026-07-23T1113 · Orenburg Pact
 - 2026-07-23T0207 · Korsfall College
-- 2026-07-23T0115 · Wulfrick
 - 2026-07-22T2321 · Varald I
 - 2026-07-22T2316 · Merryl Bradovic
 - 2026-07-22T1951 · Renard Gilderberg
@@ -91,10 +98,3 @@
 - 2026-07-20T1654 · Ranni Grevil
 - 2026-07-20T1641 · Graccum
 - 2026-07-20T1639 · Battvian Flour
-- 2026-07-20T1638 · Astafar
-- 2026-07-20T1637 · Grim
-- 2026-07-20T1633 · Red Honey
-- 2026-07-20T0227 · Zahhak
-- 2026-07-20T0221 · Sulbra-Kol
-- 2026-07-20T0208 · Cimfon
-- 2026-07-19T0304 · Stefano Maldini

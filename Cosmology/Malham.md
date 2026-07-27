@@ -5,4 +5,4 @@ Therefore it is a reliable way for sailors to find the direction of north.
 
 To the Orcs of the [[Qalmyr]] it is known as "the child of destiny" and associated with hope and innocence. 
 
-Within the Cyclopi [[Starworship]], Malham is the outer God of Magic and the strongest force in their cosmology.
+Within the Cyclopi [[Starworship]],  Malham is the inner God of Order, Governance and civilisation and one of the two strongest forces in their cosmology, known as the Xanring.

@@ -1,0 +1,2 @@
+<p>Qalzan is the southern most continent on the globe, situated on the southern pole of the planet. Most of Qalzan is covered by the southpolar ice sheet with an average thickness of 3km.</p>
+<p>While Qalzan is on average the coldest and driest continent on the globe, it contains a surprising amount of biodiversity thanks to the Isachmir Vulcano on the island of Isach, that is able to sustain various forms of life.</p>

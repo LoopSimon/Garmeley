@@ -1,1 +1,2 @@
 The brightest star of the Coin-Constellation.
+Within the Cyclopi [[Starworship]], Urden is the outer God of Magic and the Elements and one of the two strongest forces in their cosmology, known as the Shoyal.
