@@ -125,6 +125,7 @@
             <div class="timeline-item" data-date="123BA">Approximate first settlement of Droil </div>
 	        <div class="timeline-item" data-date="125BA">First mention of Raalbrug in central Weadland</div>
 	        <div class="timeline-item" data-date="122BA">approximate birth of Liinmarin</div>
+	        <div class="timeline-item" data-date="121BA">Ptamon finishes “The Elemental Essence”</div>
             <div class="timeline-item" data-date="102BA">Ylva tames Fagnir</div>
             <div class="timeline-item" data-date="99BA">Foundation of the Aerlian Empire</div>
             <div class="timeline-item" data-date="90BA">Gunrsbridge is finished by the great Giants of the North</div>
@@ -168,7 +169,6 @@
             <div class="timeline-item" data-date="180PA">Re-Unification of Cevolis</div>
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end</div>
             <div class="timeline-item" data-date="185PA">Cevoli settlers in Sertova are granted royal blessings and form Martella</div>
-            <div class="timeline-item" data-date="199PA">Ptamon finishes “The Elemental Essence”</div>
             <div class="timeline-item" data-date="201PA">The Fjorisjom Saga</div>
             <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
             <div class="timeline-item" data-date="219PA">Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizun</div>

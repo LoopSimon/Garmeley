@@ -1,3 +1,5 @@
+- 2026-07-27T2312 · Ptamon
+- 2026-07-27T2311 · Complete Timeline
 - 2026-07-27T1827 · Dinguul
 - 2026-07-27T1824 · Gurita
 - 2026-07-27T1807 · Vilkin
@@ -15,7 +17,6 @@
 - 2026-07-27T0121 · Qalzan
 - 2026-07-26T1703 · The Deck of the Dragon
 - 2026-07-26T1633 · Rynbrekka
-- 2026-07-26T1330 · Complete Timeline
 - 2026-07-26T1207 · Eril Ruda
 - 2026-07-26T1158 · Grachy
 - 2026-07-26T1157 · Izhevk
@@ -97,4 +98,3 @@
 - 2026-07-21T1251 · Odrick von Fulmer
 - 2026-07-21T1248 · Miriam II
 - 2026-07-21T0034 · Krestasi
-- 2026-07-20T1841 · Trinicism
