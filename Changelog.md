@@ -1,3 +1,4 @@
+- 2026-07-27T1807 · Vilkin
 - 2026-07-27T1805 · Mario Benvolo
 - 2026-07-27T1748 · Mabar
 - 2026-07-27T1743 · Korman van Schipwig
@@ -43,7 +44,6 @@
 - 2026-07-24T2036 · Gryphon
 - 2026-07-24T1735 · Luna Major
 - 2026-07-24T1735 · Luna Minor
-- 2026-07-24T1722 · Vilkin
 - 2026-07-24T1706 · Azuvke
 - 2026-07-24T1706 · Kherova
 - 2026-07-24T1705 · Wermian Accords
