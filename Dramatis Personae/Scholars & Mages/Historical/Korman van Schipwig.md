@@ -21,11 +21,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>920PA, Reanport</span>
+        <span>925PA, Reanport</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Fell out of a Building,<br>79 years of Age</span>
+        <span>Fell out of a Building,<br>83 years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -41,7 +41,7 @@
         <span><a href="Janez Vajkard Valvasor" class="internal-link">Janez Vajkard Valvasor</a>, <br><a href="Gynla Pemo" class="internal-link">Gynla Pemo</a></span>
     </div>
     <hr class="wiki-hr">
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/korman.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>A Weadi Mage and Scholar, famous for his work "The Fractal Bridge", in which he describes a potential semi-permanent Fluxbridge, van Schipwig shaped academic discourse at Reanport University for three decades and elevated the Institution to one of the premier places of astronomical and magical understanding in the world it is today. Van Schipwig passed away in 920PA when he fell out of the Cloud Tower, the highest point of the University Grounds, he was supposedly heavily intoxicated at the time of his death although such claims have been disregarded since as lower besmirchment.</p>
+<p>A Weadi Mage and Scholar, famous for his work "The Fractal Bridge", in which he describes a potential semi-permanent Fluxbridge, van Schipwig shaped academic discourse at Reanport University for three decades and elevated the Institution to one of the premier places of astronomical and magical understanding in the world it is today. Van Schipwig passed away in January of 925PA when he fell out of the Cloud Tower, the highest point of the University Grounds, he was supposedly heavily intoxicated at the time of his death although such claims have been disregarded since as lower besmirchment.</p>

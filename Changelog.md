@@ -1,5 +1,7 @@
+- 2026-07-27T1805 · Mario Benvolo
+- 2026-07-27T1748 · Mabar
+- 2026-07-27T1743 · Korman van Schipwig
 - 2026-07-27T1423 · Wulfrick
-- 2026-07-27T1420 · Korman van Schipwig
 - 2026-07-27T1415 · Janez Vajkard Valvasor
 - 2026-07-27T1414 · Gynla Pemo
 - 2026-07-27T1234 · Pastelliora
@@ -96,5 +98,3 @@
 - 2026-07-21T0034 · Krestasi
 - 2026-07-20T1841 · Trinicism
 - 2026-07-20T1654 · Ranni Grevil
-- 2026-07-20T1641 · Graccum
-- 2026-07-20T1639 · Battvian Flour
