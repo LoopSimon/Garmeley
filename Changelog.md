@@ -1,10 +1,10 @@
+- 2026-07-28T1344 · Wislig Rezan
 - 2026-07-28T1343 · Zepria
 - 2026-07-28T1343 · Yl-Lhatsi
 - 2026-07-28T1343 · Velvet Caravan
 - 2026-07-28T1343 · Tsurigism
 - 2026-07-28T1343 · Gaden
 - 2026-07-28T1343 · Complete Timeline
-- 2026-07-28T1339 · Wislig Rezan
 - 2026-07-27T2322 · Wulfrick
 - 2026-07-27T2313 · Ptamon
 - 2026-07-27T1827 · Dinguul
