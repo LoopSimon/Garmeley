@@ -3,14 +3,14 @@
 [[Vihr]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Maros Kirelli</h4>
+    <h4 class="wiki-header">Marosz Kirelli</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span>Head of the Kirelli Cartel</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span><a href="Human" class="internal-link">Human</a></span>
+        <span>Vihri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

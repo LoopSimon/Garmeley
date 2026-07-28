@@ -2,7 +2,9 @@
 [[Orc]]
 [[Grand Ziflis Company]]
 [[Qahori]]
+[[Third Moon Fleet]]
 %%
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Sirmon Rezan</h4>
     <div class="wiki-row">
@@ -33,7 +35,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Third Moon Fleet, <a href="Grand Ziflis Company" class="internal-link">G.Z.C.</a></span>
+        <span><a href="Third Moon Fleet" class="internal-link">Third Moon Fleet</a>,<br> <a href="Grand Ziflis Company" class="internal-link">G.Z.C.</a></span>
     </div>
     
     <hr class="wiki-hr">
