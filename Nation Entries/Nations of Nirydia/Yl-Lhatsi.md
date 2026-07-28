@@ -37,7 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-	    <span>Drizun warring Clans</span>
+	    <span>Drizan warring Clans</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

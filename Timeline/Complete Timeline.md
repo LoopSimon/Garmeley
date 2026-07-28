@@ -6,7 +6,7 @@
         <h3>Age of Stone</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
-			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizun Jungle </div>
+			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
@@ -158,7 +158,7 @@
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
               <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
-            <div class="timeline-item" data-date="148PA">Barali Invasion of Drizun, Mogyri Shogunate takes power</div>
+            <div class="timeline-item" data-date="148PA">Barali Invasion of Drizan, Mogyri Shogunate takes power</div>
             <div class="timeline-item" data-date="149PA">Giants retreat beyond Waelajokull</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
             <div class="timeline-item" data-date="159PA">Auguri Invasion of Thirdonis begins</div>
@@ -171,14 +171,14 @@
             <div class="timeline-item" data-date="185PA">Cevoli settlers in Sertova are granted royal blessings and form Martella</div>
             <div class="timeline-item" data-date="201PA">The Fjorisjom Saga</div>
             <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
-            <div class="timeline-item" data-date="219PA">Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizun</div>
+            <div class="timeline-item" data-date="219PA">Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizan</div>
             <div class="timeline-item" data-date="226PA">2nd Wermian Incursion</div>
             <div class="timeline-item" data-date="237PA">Danbry Warlord Caelmer declades himself the first King of Spursley</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="254PA">Gethric Doctrine of human exceptionalism is first mentioned</div>
-            <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizun</div>
+            <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
             <div class="timeline-item" data-date="259PA">First official mention of Sisters of Morning in church records as a group independent from clergy</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
             <div class="timeline-item" data-date="261PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>

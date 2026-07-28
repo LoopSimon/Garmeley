@@ -1,4 +1,4 @@
-<p>The philosophical and religious practice of the <a href="Mogyr" class="internal-link">Mogyri people of the Drizun Peninsula</a> in southern Nirydia.
+<p>The philosophical and religious practice of the <a href="Mogyr" class="internal-link">Mogyri people of the Drizan Peninsula</a> in southern Nirydia.
 Tsurugism is deeply connected with the Mogyri practice of Shroom-bonding and can be roughly divided into two major schools of thoughts:</p>
 
 ## Lhatsurgic Faith
