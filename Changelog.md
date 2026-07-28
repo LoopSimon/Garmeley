@@ -1,3 +1,11 @@
+- 2026-07-29T0156 · Gisava di Parneu
+- 2026-07-29T0156 · Complete Timeline
+- 2026-07-29T0155 · Salvia
+- 2026-07-29T0152 · Jezanis
+- 2026-07-29T0151 · Firocco
+- 2026-07-29T0136 · Jeledo
+- 2026-07-29T0118 · Parneu Field
+- 2026-07-29T0117 · Viccolo di Pora
 - 2026-07-29T0029 · Lissvalley
 - 2026-07-29T0027 · Wars of Elbae Aggression
 - 2026-07-29T0026 · Reanport
@@ -9,7 +17,6 @@
 - 2026-07-29T0020 · Ravland
 - 2026-07-29T0018 · Erlmondy
 - 2026-07-29T0018 · War of Kin
-- 2026-07-29T0016 · Complete Timeline
 - 2026-07-29T0014 · Nahr
 - 2026-07-28T2224 · Revelle
 - 2026-07-28T1656 · Blijgrat
@@ -91,10 +98,3 @@
 - 2026-07-22T1948 · Pigeye
 - 2026-07-22T1948 · Situation in the Paper Cities
 - 2026-07-22T1947 · Paper Cities
-- 2026-07-22T1947 · Dagger of Discord
-- 2026-07-22T1946 · The Baker
-- 2026-07-22T1924 · Hunters Edge
-- 2026-07-22T1919 · Fredric
-- 2026-07-22T1917 · Dorian
-- 2026-07-22T1858 · Summercrown
-- 2026-07-22T1740 · Yelena

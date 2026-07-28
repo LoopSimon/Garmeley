@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Asefi<a href="Human" class="internal-link">Human</a></span>
+        <span>Asefi <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

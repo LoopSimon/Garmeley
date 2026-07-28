@@ -317,9 +317,11 @@
             <div class="timeline-item" data-date="668PA">Yellow War ends, Peace at Kulum</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
             <div class="timeline-item" data-date="671PA"> Battle of Verivale, End of the Luchun Khaganate</div>
+            <div class="timeline-item" data-date="672PA">Battvia invades Jeledo to reunify the region of Cevolia</div>
             <div class="timeline-item" data-date="674PA">Coronation of Gildher I and Unification of Meadrath</div>
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
+            <div class="timeline-item" data-date="679PA">The Battle at Zavix leads to the end of the battivan Conquest of Cevolia & Treaty of Ciravelli</div>
             <div class="timeline-item" data-date="680PA">Khulhki begins the Great Rebellion against the Twintail and Lakal</div>
             <div class="timeline-item" data-date="681PA">Hobgoblin Invasion</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
@@ -328,7 +330,7 @@
             <div class="timeline-item" data-date="689PA">Rise of Khan Jigallor in Nirydia</div>
             <div class="timeline-item" data-date="690PA">Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Lyandra of Fairriver is canonized as a Saint, Trazlov Guild of Alchemy is formed</div>
-            <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr</div>
+            <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
@@ -378,6 +380,7 @@
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
+            <div class="timeline-item" data-date="809PA">Salvia is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="810PA">Kranvalley Flood</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars</div>
             <div class="timeline-item" data-date="812PA">Ahrmiz Saceren becomes Lord-Elect of Kulum</div>

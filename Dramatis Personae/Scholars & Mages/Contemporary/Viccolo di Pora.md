@@ -7,7 +7,7 @@
     <h4 class="wiki-header">Viccolo Maria di Pora</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Archmage at Ciravelli Tower</span>
+        <span>Archmagus at Ciravelli Tower</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
