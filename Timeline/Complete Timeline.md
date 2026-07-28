@@ -392,6 +392,7 @@
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins</div>
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
+            <div class="timeline-item" data-date="830PA">War of Kin in eastern Sertova</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
