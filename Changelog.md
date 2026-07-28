@@ -1,3 +1,4 @@
+- 2026-07-29T0022 · Sertova
 - 2026-07-29T0020 · Ravland
 - 2026-07-29T0018 · Erlmondy
 - 2026-07-29T0018 · War of Kin
@@ -97,4 +98,3 @@
 - 2026-07-22T0313 · Thurimoi
 - 2026-07-22T0313 · The Ottian Syndicate
 - 2026-07-22T0312 · Terem-Zal
-- 2026-07-22T0312 · Mogyr
