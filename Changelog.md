@@ -1,3 +1,9 @@
+- 2026-07-29T0027 · Wars of Elbae Aggression
+- 2026-07-29T0026 · Reanport
+- 2026-07-29T0026 · Jevana
+- 2026-07-29T0026 · Grevenna
+- 2026-07-29T0025 · Treaty of Danipol
+- 2026-07-29T0023 · Treaty of Kulum
 - 2026-07-29T0022 · Sertova
 - 2026-07-29T0020 · Ravland
 - 2026-07-29T0018 · Erlmondy
@@ -49,7 +55,6 @@
 - 2026-07-25T0224 · Pagia
 - 2026-07-25T0224 · Globus
 - 2026-07-25T0213 · Zovac Harlini
-- 2026-07-25T0200 · Jevana
 - 2026-07-25T0152 · Carassa al-Kael
 - 2026-07-24T2304 · Avero
 - 2026-07-24T2118 · Hatara
@@ -66,7 +71,6 @@
 - 2026-07-24T1706 · Azuvke
 - 2026-07-24T1706 · Kherova
 - 2026-07-24T1705 · Wermian Accords
-- 2026-07-24T1704 · Reanport
 - 2026-07-24T1656 · Palus
 - 2026-07-24T1428 · Larkomas
 - 2026-07-23T1550 · Standoff at Dimrods Shrine
@@ -94,7 +98,3 @@
 - 2026-07-22T1858 · Summercrown
 - 2026-07-22T1740 · Yelena
 - 2026-07-22T1735 · Lyandra
-- 2026-07-22T1416 · Scepter of Judgement
-- 2026-07-22T0313 · Thurimoi
-- 2026-07-22T0313 · The Ottian Syndicate
-- 2026-07-22T0312 · Terem-Zal

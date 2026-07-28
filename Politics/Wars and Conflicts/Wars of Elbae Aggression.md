@@ -1,10 +1,10 @@
 Series of Conflicts between the [[Elbae]] Sultanate and the Reani Coalition, warfare took place primarily around the Stormy Stormy Sea and the Pilvian Gulf.
-*
-
-*Date: *750PA - 815PA*
 
 
-*Location:* Hainach, Grevenna, Stormy Sea, Pilvian Gulf, Horad Isthmus
+*Date: 750PA - 815PA*
+
+
+*Location:* Hainach, Grevenna, Stormy Sea, Pilvian Gulf, Horad Isthmus, <a href="Strait of Horad" class="internal-link">Strait of Horad</a>
 
 *Result:* [[Treaty of Danipol]]
 

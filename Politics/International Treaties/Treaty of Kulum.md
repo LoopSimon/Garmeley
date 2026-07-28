@@ -19,6 +19,7 @@
         The Lord-Mayor of <a href="Uhl">Uhl</a><br>
         The Citykeeper of Niedrest, Head of the <a href="Trinvale">Trinvale</a> Republic <br>
         The Queen of <a href="Eldmar">Eldmar</a><br>
+        (and many more, list is incomplete as on the wiki here.)
     </div>
 </div>
 

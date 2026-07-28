@@ -1,3 +1,8 @@
+%%
+[[Strait of Horad]]
+[[Wars of Elbae Aggression]]
+[[Jurahim al-Biad]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Treaty of Danipol</h4>
     
@@ -10,7 +15,8 @@
         <strong>The Sultanate:</strong><br>
         The <a href="Elbae" class="internal-link">Elbae</a> Sultan<br>
         The Prince of <a href="Hainach" class="internal-link">Hainach</a><br>
-        The Emir of <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a>
+        The Emir of <a href="Iz-Almadus" class="internal-link">Iz-Almadus</a><br>
+        The Emir of <a href="Tusul" class="internal-link">Tusul</a>
     </div>
     <hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
@@ -22,7 +28,7 @@
         The Bagram of <a href="Grachy" class="internal-link">Grachy</a>
     </div>
 </div>
-<small><i>Related articles: <a href="Important Arcanists, Scholars and Mages.md#Jurahim al Biad" class="internal-link">Jurahim al Biad</a></small></i>
+<small><i>See also: <a href="Jurahim al-Biad" class="internal-link">Jurahim al-Biad</a> & <a href="Strait of Horad" class="internal-link">The Straight of Horad</a></small></i>
 <hr class=wiki-hr>
 <p>
 Following the destruction of the Horad Isthmus by the elven Wizard Jurahim al Biad, resulting in the near total destruction of the armed forces commited to the Siege of Horad Bridge, Peace was signed at Danipol Fortress.</p>
