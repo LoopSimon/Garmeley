@@ -2,6 +2,7 @@
 [[Trinicism]]
 [[Weadland]]
 [[Baeling Empire]]
+[[Geldfield Unie van Vrijhandel]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Blijgrat League</h4>
@@ -46,10 +47,9 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Blijgrat_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> The weadi cities north of the Trinwood have united in a free and liberal Republic, faced with the historic thread of Raiders and Invaders from across the Bloody Sea and the dominant might of the Kingdom of <a href="Meadrath" class="internal-link">Meadrath</a> only in unity, with ingenuity, shrewd mercantilism and elegant diplomacy can this League of Cities hope to survive as an autonomous Home for the Weadi peoples.</p>
+<p>The Blijgrat League is not only a cultural but also a business alliance of trading cities and their guilds that dominate trade along the coast of Northern Ilrakhan and was largely founded for the purpose of joining forces for promoting mercantile interests, defensive strength and political influence by the 10th century the Blijgrat League holds a near monopoly on trade in the Bloody Sea and the Gullsong Sea, especially with the joining of various northern settlements in Trykkerog.</p>
+<p>In current times a strong national identity has developed within the cities and movements to centralize administrative and military duties are growing in popularity, the foundation of the <a href="Geldfield Unie van Vrijhandel" class="internal-link">Geldfield Unie van Vrijhandel</a> in 861PA and then later its consolidation as part of the League in the Charter of 891PA have only further contributed to a united sense of purpose and identity for both the dominant burgher class and the peasents that make up the Leagues local agricultural backbone</p>
 
-<h2>Economy</h2>
-<p></p>
-The Blijgrat League is not only a cultural but also a business alliance of trading cities and their guilds that dominate trade along the coast of Northern Ilrakhan and was largely founded for the purpose of joining forces for promoting mercantile interests, defensive strength and political influence by the 10th century the Blijgrat League holds a near monopoly on trade in the Bloody Sea and the Gullsong Sea, especially with the joining of Sallesand.
 <h2>People of Interest</h2>
 
 Jan van de Spiegel
