@@ -380,8 +380,7 @@
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="809PA">Salvia is betrayed and usurped by her student Harvina</div>
-            <div class="timeline-item" data-date="810PA">Kranvalley Flood</div>
+            <div class="timeline-item" data-date="810PA">Kranvalley Flood, Salvia of Firocco is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars</div>
             <div class="timeline-item" data-date="812PA">Ahrmiz Saceren becomes Lord-Elect of Kulum</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad, 3rd War of Elbae Aggression ends</div>
