@@ -1,5 +1,5 @@
 %%
-[[Advanced Magical Theory]]
+[[Auguric Rite & Invocation]]
 [[Tageyo]]
 [[Gaal Empire]]
 [[Kherovan Inquisition]]

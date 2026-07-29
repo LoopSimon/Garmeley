@@ -1,5 +1,14 @@
+- 2026-07-29T1259 · Torry
+- 2026-07-29T1257 · Complete Timeline
+- 2026-07-29T1256 · Muriel von Gloss
+- 2026-07-29T1255 · Treaty of Uhl
+- 2026-07-29T1253 · War of Horn and Fang
+- 2026-07-29T1242 · Tronos
+- 2026-07-29T1242 · Yeorite
+- 2026-07-29T1242 · Jevana
+- 2026-07-29T1242 · Artificery
+- 2026-07-29T1127 · Pavo of Alban
 - 2026-07-29T0156 · Gisava di Parneu
-- 2026-07-29T0156 · Complete Timeline
 - 2026-07-29T0155 · Salvia
 - 2026-07-29T0152 · Jezanis
 - 2026-07-29T0151 · Firocco
@@ -9,7 +18,6 @@
 - 2026-07-29T0029 · Lissvalley
 - 2026-07-29T0027 · Wars of Elbae Aggression
 - 2026-07-29T0026 · Reanport
-- 2026-07-29T0026 · Jevana
 - 2026-07-29T0026 · Grevenna
 - 2026-07-29T0025 · Treaty of Danipol
 - 2026-07-29T0023 · Treaty of Kulum
@@ -83,7 +91,6 @@
 - 2026-07-24T1428 · Larkomas
 - 2026-07-23T1550 · Standoff at Dimrods Shrine
 - 2026-07-23T1311 · Yppo
-- 2026-07-23T1250 · Yeorite
 - 2026-07-23T1239 · Basic Magical Theory
 - 2026-07-23T1234 · Galiatar Inkfingers
 - 2026-07-23T1233 · Alparaz
@@ -91,10 +98,3 @@
 - 2026-07-23T1132 · Iz-Almadus
 - 2026-07-23T1131 · Elbae
 - 2026-07-23T1113 · Orenburg Pact
-- 2026-07-23T0207 · Korsfall College
-- 2026-07-22T2321 · Varald I
-- 2026-07-22T2316 · Merryl Bradovic
-- 2026-07-22T1951 · Renard Gilderberg
-- 2026-07-22T1948 · Pigeye
-- 2026-07-22T1948 · Situation in the Paper Cities
-- 2026-07-22T1947 · Paper Cities

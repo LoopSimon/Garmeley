@@ -1,5 +1,5 @@
 %%
-[[Advanced Magical Theory]]
+[[Auguric Rite & Invocation]]
 [[Unliving]]
 [[Wermian Accords]]
 %%

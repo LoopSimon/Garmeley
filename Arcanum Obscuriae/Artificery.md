@@ -2,7 +2,7 @@
 [[Basic Magical Theory]]
 [[The Ottian Syndicate 1]]
 [[Basic Magical Theory]]
-[[Advanced Magical Theory]]
+[[Auguric Rite & Invocation]]
 %%
 <p>Prosum, the gnomish study of artificery covers the following three pillars in classical ottian schooling:</p>
 	<p>Tiogum: the Maintenance of an Artefact</p>

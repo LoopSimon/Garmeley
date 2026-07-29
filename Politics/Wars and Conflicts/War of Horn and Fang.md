@@ -1,6 +1,6 @@
 Belligerents:  The Kingdoms of  [[Vihr]] and [[Meadrath]] , including several of their respective dependencies.
 
-*Date: 851 PA - 876 PA
+*Date: 851 PA - 866 PA
 
 
 *Location:* Northern Urland, Torn Sea

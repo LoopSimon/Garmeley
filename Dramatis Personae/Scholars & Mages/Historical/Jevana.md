@@ -1,5 +1,5 @@
 %%
-[[Advanced Magical Theory]]
+[[Auguric Rite & Invocation]]
 [[Gelmsburg]]
 [[Zovac Harlini]]
 [[Orenburg Pact]]
