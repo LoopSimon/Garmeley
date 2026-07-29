@@ -9,9 +9,29 @@
 
 <h3>The House of Listov</h3>
 <small>299PA - 448PA<small>
+<p>Vlad I "the Great" of Listov, 299PA - 315PA</p>
+<p>Pavel I "the Red" of Listov, 315PA - 336PA</p>
+<p>Fyodor I of Listov, 336PA - 349PA</p>
+<p>Beryl I "the Cruel" of Listov, 349PA - 369PA</p>
+<p>Vlad II "Dwarvenfriend" of Listov, 369PA - 398PA</p>
+<p>Ivan I  of Listov, 398PA - 410PA</p>
+<p>Ivan II of Listov, 410PA - 423PA </p>
+<p>Fyodor II of Listov , 423PA - 448PA</p>
 
 <h3>The House of Jerinov</h3>
 <small>448PA - 631PA<small>
+<p>Pietr I "Riverlaugh" of Jerinov, 448PA - 469PA</p>
+<p>Fyodor III of Jerinov, 469PA - 477PA</p>
+<p>Pietr II of Jerinov, 477PA - 489PA</p>
+<p>Vlad III "the Golden" of Jerinov, 489PA - 522PA</p>
+<p>Fyodor IV of Jerinov, 522PA - 541PA</p>
+<p>Fyodor V "The Fat" of Jerinov, 541PA - 557PA</p>
+<p>Pietr III of Jerinov, 557 - 579PA</p>
+<p>Vlad IV of Jerinov, 579 - 595PA</p>
+<p>Andrej I of Jerinov, 595PA - 610PA </p>
+<p>Vlad V "the Cursed" of Jerinov, 610PA - 628PA</p>
+
+Nostroyan Disaster of 628*
 
 <h3>The House of Stir</h3>
 <small>631PA - 834PA<small>

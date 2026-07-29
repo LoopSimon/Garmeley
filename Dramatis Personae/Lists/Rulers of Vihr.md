@@ -17,7 +17,7 @@
 <p>Jasper III, 407PA - 438PA</p>
 <p>Martis I, 438PA - 450PA</p>
 <p>Martis II, 450PA - 456PA</p>
-<p>Viago V "the Merry", 456PA - 489PA</p>
+<p>Viago V "the Merry", 456PA - 486PA</p>
 <p>Martis III "the Unlucky", 486PA - 501PA</p>
 
 <h3>The Sznimo Dynasty</h3>
@@ -26,6 +26,9 @@
 <p>Kasimir II "the Younger", 508PA - 530PA</p>
 <p>Viago VI "the boy King", 530PA - 532PA</p>
 <p>Katerina I , 532PA - 553PA</p>
+
+
+ *Vihri War of Succession*
 
 <h3>The Worocek Dynasty</h3>
 <small>562A - 692PA<small>
@@ -42,7 +45,7 @@
 <p>Miskomir II, 692PA - 713PA</p>
 <p>Vormil I "Seaborn", 713PA - 742PA</p>
 <p>Jasper IV, 742PA - 753PA</p>
-<p>Miskomir III "the Black", 752PA - 778PA</p>
+<p>Miskomir III "the Black", 753PA - 778PA</p>
 <p>Orian I, 778PA - 786PA</p>
 <p>Miskomir IV, 786PA - 813PA</p>
 <p>Viago VII, 813PA - 822PA</p>

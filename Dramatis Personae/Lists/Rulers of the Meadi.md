@@ -15,13 +15,12 @@
 <p>Ardol IV von Gismar, 401PA - 410PA</p>
 <p>Gisdol I von Gismar, 410PA - 429PA</p>
 <p>Ardol V "the Blessed" von Gismar, 429PA - 451PA</p>
-<p>Gisling II von Gismar, 451PA - 460PA </p>
+<p>Gisling III von Gismar, 451PA - 460PA </p>
 <p>Tibor I "Strongarm" von Gismar, 460PA - 475PA</p>
 <p>Marlina I "the White Lady" von Gismar, 475 - 504PA</p>
 <p>Ardol VI von Gismar, 504PA - 520PA</p>
 <p>Gisdol II  "Steelfinger" von Gismar, 520PA - 558PA</p>
 <p>Hildegunde II von Gismar, 558PA - 569PA</p>
-<p>Tibor II "the Feeble" von Gismar, 569PA - 586PA</p>
 <p>Tibor II "the Feeble" von Gismar, 569PA - 589PA</p>
 <p>Diedrik I "the Usurper" von Medlan, 589PA - 622PA</p>
 <p>Ringil I  von Medlan, 622PA - 660PA </p>

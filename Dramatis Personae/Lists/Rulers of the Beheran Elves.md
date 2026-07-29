@@ -23,8 +23,8 @@
 <p>Alparaz III, 932BA - 830BA</p>
 <p>Karalparaz I, 830BA - 822BA</p>
 <p>Pazmali I, 822BA - 729BA</p>
-<p>Pazmali II, 729BA - 640BA</p>
-<p>Ulheter I, 640BA - 641BA</p>
+<p>Pazmali II, 729BA - 645BA</p>
+<p>Ulheter I, 645BA - 640BA</p>
 <p><a href="Alparaz" class="internal-link">Alparaz IV</a>, 640BA - 618BA</p>
 
 <h3>The Rahaz Dynasty</h3>
@@ -50,9 +50,9 @@
 <p>MeriIas, 108PA - 149PA</p>
 <p>Merilas II, 149PA - 320PA</p>
 <p>Lizun I, 320PA - 424PA</p>
-<p>Irater I, 424PA - 489PA</p>
-<p>Irater II, 489PA - 470PA</p>
-<p>Bel-Heiros I, 470PA - 515PA</p>
+<p>Irater I, 424PA - 470PA</p>
+<p>Irater II, 470PA - 479PA</p>
+<p>Bel-Heiros I, 479PA - 515PA</p>
 <p>Aselim I, 515PA - 591PA</p>
 <p>Bel-Heiros II, 591PA - 621PA</p>
 <p>Terhazid I, 621PA - 655PA</p>

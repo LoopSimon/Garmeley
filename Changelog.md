@@ -1,4 +1,11 @@
-- 2026-07-29T1310 · Salvia
+- 2026-07-29T1628 · Rulers of the Grachi
+- 2026-07-29T1620 · Nostroya
+- 2026-07-29T1620 · The Jättilkivi
+- 2026-07-29T1610 · Rulers of Vihr
+- 2026-07-29T1608 · Rulers of the Beheran Elves
+- 2026-07-29T1604 · Rulers of the Meadi
+- 2026-07-29T1559 · Random Statistics Stuff
+- 2026-07-29T1311 · Salvia
 - 2026-07-29T1302 · Complete Timeline
 - 2026-07-29T1259 · Torry
 - 2026-07-29T1256 · Muriel von Gloss
@@ -91,10 +98,3 @@
 - 2026-07-24T1428 · Larkomas
 - 2026-07-23T1550 · Standoff at Dimrods Shrine
 - 2026-07-23T1311 · Yppo
-- 2026-07-23T1239 · Basic Magical Theory
-- 2026-07-23T1234 · Galiatar Inkfingers
-- 2026-07-23T1233 · Alparaz
-- 2026-07-23T1132 · Charatov Podlim
-- 2026-07-23T1132 · Iz-Almadus
-- 2026-07-23T1131 · Elbae
-- 2026-07-23T1113 · Orenburg Pact
