@@ -6,7 +6,7 @@
     <h4 class="wiki-header">Odrick von Fulmer</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span> High-Chancellor of Meadrath, <br>Count of Fulmber</span>
+        <span> High-Chancellor of Meadrath, <br>Count of Fulmer</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>

@@ -31,7 +31,7 @@
 <p>Andrej I of Jerinov, 595PA - 610PA </p>
 <p>Vlad V "the Cursed" of Jerinov, 610PA - 628PA</p>
 
-Nostroyan Disaster of 628*
+Grachi Disaster of 629
 
 <h3>The House of Stir</h3>
 <small>631PA - 834PA<small>

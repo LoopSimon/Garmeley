@@ -298,7 +298,7 @@
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
             Natan XXI "Ilseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
-            <div class="timeline-item" data-date="629PA">Fall of Thirdonis</div>
+            <div class="timeline-item" data-date="629PA">Grachi Disaster, Fall of Thirdonis</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">Trazvlov Consortium is founded</div>
@@ -439,8 +439,8 @@
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
-            <div class="timeline-item" data-date="907PA">Tourney at Mitrad</div>
-            <div class="timeline-item" data-date="908PA">Treaty of Kulum</div>
+            <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal, Tourney at Mitrad</div>
+            <div class="timeline-item" data-date="908PA"> Treaty of Kulum </div>
             <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>

@@ -2,6 +2,7 @@
 [[Tsurigism]]
 [[Mogyr]]
 [[Mogyri Clans]]
+[[Rash Gopal]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Temple of Yl-Lhatsi</h4>
@@ -11,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Mycomother Lingpa Suolang</span>
+        <span>Mycomother <a href="Suolang" class="internal-link">Porpolomopsis Lingpa Suolang</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
