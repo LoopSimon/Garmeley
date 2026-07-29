@@ -1,3 +1,4 @@
+- 2026-07-29T2319 · Parneu Field
 - 2026-07-29T2317 · Suolang
 - 2026-07-29T2305 · Rash Gopal
 - 2026-07-29T2305 · Complete Timeline
@@ -24,7 +25,6 @@
 - 2026-07-29T0152 · Jezanis
 - 2026-07-29T0151 · Firocco
 - 2026-07-29T0136 · Jeledo
-- 2026-07-29T0118 · Parneu Field
 - 2026-07-29T0117 · Viccolo di Pora
 - 2026-07-29T0029 · Lissvalley
 - 2026-07-29T0027 · Wars of Elbae Aggression
