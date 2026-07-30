@@ -1,3 +1,4 @@
+- 2026-07-30T1556 · Doggerism
 - 2026-07-30T1553 · Arzum
 - 2026-07-30T1552 · Complete Timeline
 - 2026-07-30T1544 · Spursley
@@ -97,4 +98,3 @@
 - 2026-07-24T2111 · The Sun
 - 2026-07-24T2111 · Qalmyr
 - 2026-07-24T2111 · Material Realm
-- 2026-07-24T2111 · Pravazik Pantheon

@@ -2,6 +2,7 @@
 [[Geol]]
 [[Spursley]]
 [[Bilsworth]]
+[[Arzum]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Lorel.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Lorel, The Spring</i></small>
@@ -15,7 +16,7 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/GodofBones.webp" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Kallag, The Winter</i></small>
 </div>
-<p>Doggerism is an ancient and organised Faith that worships a Pantheon of four deities, the gods Lorel, Vanter, Wissger and Killag. It was the largest and dominant faith in ancient  <a href="Geol" class="internal-link">Geol</a>, as well as the Kingdom of  <a href="Spursley" class="internal-link">Spursley</a> and its successor, the undead state of  <a href="Bilsworth" class="internal-link">Bilsworth</a>.</p>
+<p>Doggerism is an ancient and organised Faith that worships a Pantheon of four deities, the gods Lorel, Vanter, Wissger and Killag. It was the largest and dominant faith in ancient  <a href="Geol" class="internal-link">Geol</a>, as well as the Kingdom of  <a href="Spursley" class="internal-link">Spursley</a> and its successor, the undead state of  <a href="Bilsworth" class="internal-link">Bilsworth</a>. It replaced the initially Vokti and later on human regional cults of <a href="Arzum" class="internal-link">Arzum Worship</a>, and many aspects of her can be found in the four Gods of Doggerism or in their traditional mythos as antagonistic figures. Similarly Doggerism is seen as a distinctly human belief and projects clearly racist views on Gnomes depicting them as lesser and villainous creatures.</p>
 
 <p>The Faith is based and named after the teachings and visions of Aelfred Dogger, whos journey through the lands of the western Beheran coast is documented in the Doggerad, the holy book of the faith. While a mortal himself, Aelfred is sometimes considered an elevated figure within the more religious aspects of his religion, ranging from a simple prophet to an almost demigod like avatar of all four divine Aspects. Aelfred lived and wrote during the 2nd century PA.</p>
 
