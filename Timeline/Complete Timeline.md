@@ -86,14 +86,15 @@
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="615BA">First records of Gorati cities</div>
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
+            <div class="timeline-item" data-date="605BA">The City of Geol is build by the Vahri</div>
             <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="590BA">The League of Orestis is formed in Cevolia</div>
+            <div class="timeline-item" data-date="580BA">Collapse of the Incador Civilization in modern day Geol & Dandry</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
-            <div class="timeline-item" data-date="430BA">The City of Geol is build by Vahri merchants</div>
             <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>

@@ -1,0 +1,1 @@
+<p>Usually just referring to the Vinjira Jungle, located on the western side of the Smaragd Sea, opposite <a href="Kaito" class="internal-link">Kaito</a>, Vinjira technically used to refer to the entire western peninsular of southern Behera, although nobody uses the name anymore to talk about the lands of Geol and Dandry across the central mountains.</p>

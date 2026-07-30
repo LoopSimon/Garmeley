@@ -1,6 +1,7 @@
 %%
 [[Bilsworth]]
 [[Unliving]]
+[[Incador]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Spursley</h4>
@@ -37,12 +38,12 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span>
-            Danbry Warlords
+            <a href="Incador" class="internal-link">Incador Civiliztion</a>, <br>Danbry Tribes
         </span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>237</span>
+        <span>237PA</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>

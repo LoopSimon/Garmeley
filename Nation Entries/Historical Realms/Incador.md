@@ -1,40 +1,51 @@
 %%
-[[Eressa]]
+[[Geol]]
+[[Spursley]]
+[[Arzum]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Daigonis Xiguo</h4>
+    <h4 class="wiki-header">Inacdor Civilization</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Divine Empire</span>
+        <span>Divine Matriarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Daigo Chenwuo Xiguo</span>
+        <span>N/A</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Venzhen</span>
+        <span>Linvalim</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Xiguo Mandala</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        N/A
+        <span><a href="Arzum" class="internal-link">Arzum Cults</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span> Starshell Pagian Hiqae</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Pagian</span>
+        <span>Ancient Incadori</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        N/A
+        <span>N/A</span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>ca 11th-10th century BA</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Disbanded</strong>
+        <span>580BA</span>
+    </div>
+    <hr class="wiki-hr">
 </div>

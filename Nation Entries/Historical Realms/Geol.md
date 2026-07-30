@@ -4,6 +4,8 @@
 [[Tarqin]]
 [[Landerly]]
 [[Lorqis]]
+[[Arzum]]
+[[Incador]]
 %%
 <div class="wiki-infobox">
 	    <h4 class="wiki-header">Great Republic of Geol</h4>
@@ -39,7 +41,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Vahri City States</span>
+        <span><a href="Incador" class="internal-link">Incador Civiliztion, <br></a>Vahri City States</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
