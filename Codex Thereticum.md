@@ -72,3 +72,24 @@ Abducted Mogyri:
 10. **Lhakpa Norbu** — traditional, "Middleborn" + "jewel"  
 11. **Tenpa Gyaltsen** — traditional, "steadfast" + "victory banner"  
 12. **Phurba Yarsto** — shortened nod to _yartsa gunbu_, works well as a hunter's or gatherer's name tied to the high mountains
+
+
+
+
+
+
+**Short Game**
+
+The Golden Ring, a group of heroic adventurers that has saved many a life in the lands of Cevolia, Urland and Meadland has gone missing for a while now, for over 4 months nobody has seen any remnant of them. 
+Last reports show they assembled at the small village of Ansley in northern Urland before setting out on an unknown mission, this is the last anyone has seen any trace of them.
+
+War is raging in southern Urland and Garmeley, trouble is brewing in south and east so a group of local heroes gone missing has fallen on the wayside to most, but not to all:
+
+You are part of the few who do care, whether due to your personal connection to them Golden Ring, a concerned patron hiring you to look after them, or an entirely different reason, you have assembled with friends and strangers at Ansley to find out what happened to the Golden Ring and either save them or put them to rest.
+
+The Golden Ring consists of:
+
+Sir Filip of Leston, a human Knight-Errant of Urbridge
+Alena "the Mole" Czery, a former vihri spy turned traveling hero
+Doctor Isa Tereggio, a human Alchemist and Mortician from Battiva
+Horatio Momery Tuliper, a famed Halfling sorcerer hailing from the Freelands
