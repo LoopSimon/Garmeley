@@ -2,9 +2,10 @@
 [[Geol]]
 [[Spursley]]
 [[Arzum]]
+[[Gnome]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Inacdor Civilization</h4>
+    <h4 class="wiki-header">Voktator Civilization</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Divine Matriarchy</span>
@@ -15,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Linvalim</span>
+        <span>Xinsalim-Vokt</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -28,11 +29,11 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span></span>
+        <span>Vokti <a href="Gnome" class="internal-link">Gnome</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Ancient Incadori</span>
+        <span>Vokti</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -45,7 +46,7 @@
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>
-        <span>580BA</span>
+        <span>310BA</span>
     </div>
     <hr class="wiki-hr">
 </div>

@@ -5,7 +5,7 @@
 [[Landerly]]
 [[Lorqis]]
 [[Arzum]]
-[[Incador]]
+[[Voktator]]
 %%
 <div class="wiki-infobox">
 	    <h4 class="wiki-header">Great Republic of Geol</h4>
@@ -41,7 +41,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span><a href="Incador" class="internal-link">Incador Civiliztion, <br></a>Vahri City States</span>
+        <span><a href="Voktator" class="internal-link">Voktator Civiliztion, <br></a>Vahri City States</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

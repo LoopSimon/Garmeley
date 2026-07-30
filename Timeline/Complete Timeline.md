@@ -14,6 +14,7 @@
 	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
 	        <div class="timeline-item" data-date="11000BA">Approximate Beginning of the Diastic Reversal in Hykmar</div>
 	        <div class="timeline-item" data-date="10500BA">Diastic Reversal and Hykmari Collapse</div>
+	        <div class="timeline-item" data-date="8000BA">Gnomish Period of Migration</div>
 		    <div class="timeline-item" data-date="7000BA">Earliest supported date for the domestication of cattle </div>
 		    <div class="timeline-item" data-date="5900BA">Evidence for the settlement of Tyblas</div>
         </div>
@@ -50,6 +51,7 @@
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
+            <div class="timeline-item" data-date="1300BA">Approximate emergence of the Vokti Gnomes</div>
             <div class="timeline-item" data-date="1266BA">Approximate Founding of the City of Samyr, modern day Mereskis</div>
             <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos at lake Kher</div>
             <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
@@ -66,6 +68,7 @@
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="1050BA">The Palmunian Hero Saga "The Legend of Telipir" is written</div>
+            <div class="timeline-item" data-date="1040BA">Approximate creation of surface cities outside Ximsalim-Vokt</div>
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1004BA">First Mention of Spurshey swamp settlements in Danbry from Vahri records </div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
@@ -89,7 +92,7 @@
             <div class="timeline-item" data-date="605BA">The City of Geol is build by the Vahri</div>
             <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="590BA">The League of Orestis is formed in Cevolia</div>
-            <div class="timeline-item" data-date="580BA">Collapse of the Incador Civilization in modern day Geol & Dandry</div>
+            <div class="timeline-item" data-date="575BA">Arzum Cults spread across Dandry and Geol</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
@@ -100,6 +103,7 @@
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
+            <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
             <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>

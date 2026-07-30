@@ -1,7 +1,7 @@
 %%
 [[Bilsworth]]
 [[Unliving]]
-[[Incador]]
+[[Voktator]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Spursley</h4>
@@ -38,7 +38,7 @@
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span>
-            <a href="Incador" class="internal-link">Incador Civiliztion</a>, <br>Danbry Tribes
+            <a href="Voktator" class="internal-link">Voktator Civiliztion</a>, <br>Danbry Tribes
         </span>
     </div>
     <div class="wiki-row">
