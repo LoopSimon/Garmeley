@@ -7,7 +7,7 @@
     <h4 class="wiki-header">Zmalig Theocracy</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Theocratic Federation</span>
+        <span>Theocratic City-State</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
