@@ -1,3 +1,4 @@
+- 2026-07-31T0411 · Arzum
 - 2026-07-31T0409 · Meadrath
 - 2026-07-31T0406 · Korsfall College
 - 2026-07-31T0405 · Wulfrick
@@ -20,7 +21,6 @@
 - 2026-07-30T2155 · The Alchemists Guild
 - 2026-07-30T2155 · Grachy
 - 2026-07-30T1726 · Codex Thereticum
-- 2026-07-30T1558 · Arzum
 - 2026-07-30T1556 · Doggerism
 - 2026-07-30T1544 · Spursley
 - 2026-07-30T1544 · Geol
