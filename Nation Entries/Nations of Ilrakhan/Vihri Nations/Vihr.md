@@ -134,7 +134,7 @@ Katerina of House Szinmo
 	Varina of Szievek
 	
 Osran of House Lawchlaw
-	Var of Trazlov,
+	Var of Trazlova,
 	Foreman of the Honoured Assembly
 	
 Zeslav of House Wogrov
@@ -143,7 +143,7 @@ Zeslav of House Wogrov
 Michal of House Zrimiz
 	Var of Ibozka
 	
-Tadeuz of House Terjan
+Ilia of House Terjan
 	Var of Opuzna
 	
 Jan of House Martej
