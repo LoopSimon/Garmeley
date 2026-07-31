@@ -1,4 +1,6 @@
-- 2026-07-31T0402 · Meadrath
+- 2026-07-31T0409 · Meadrath
+- 2026-07-31T0406 · Korsfall College
+- 2026-07-31T0405 · Wulfrick
 - 2026-07-31T0401 · Zmalig
 - 2026-07-31T0356 · Gisela II
 - 2026-07-31T0336 · Weisch
@@ -76,7 +78,6 @@
 - 2026-07-28T1343 · Velvet Caravan
 - 2026-07-28T1343 · Tsurigism
 - 2026-07-28T1343 · Gaden
-- 2026-07-27T2322 · Wulfrick
 - 2026-07-27T2313 · Ptamon
 - 2026-07-27T1827 · Dinguul
 - 2026-07-27T1824 · Gurita
@@ -97,4 +98,3 @@
 - 2026-07-26T1207 · Eril Ruda
 - 2026-07-26T1157 · Izhevk
 - 2026-07-26T1156 · Livia Bistovka
-- 2026-07-26T0013 · Ilonism

@@ -2,6 +2,7 @@
 [[Korsfall College]]
 [[Basic Magical Theory]]
 [[Galiatar Inkfingers]]
+[[Risfalt]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Wulfrick von Inberg</h4>
@@ -48,4 +49,4 @@
 </div>
 <p>Wulfrick von Insberg, known across the continent and to history as Wulfrick the Elder was a meadi Wizard, Academic, Rector and philosopher. He is known one of the most influential thinkers in the history of Mathematics and Magical Theory and considered the Father of modern human Arcane scholarship. His Magnum Opus is the "Theorem Arcanum", published in 628PA, a comprehensive guide to Planar Theory, Axis Modelling, Cosmology and Basic Flux-Theory. Wulfrick was born to the Lord of Insberg, Sir Thomas von Insberg in 572PA as the third of seven children and lived to see his 89th birthday, dying during the infamous Spring Fever of 661 at the end of the War of Trout and Drake. </p>
 <p>He was the Rector of the Korsfall College from 614 until 631PA teaching many famous and infamous arcane practitioners during his tenure, the modern day Observatorium with its gigantic telescope is named after Wulfrick.  </p>
-<p>Wulfrick refused to participate in the local meadi conflicts, especially between The Kingdom of Korsfall & the Kingdom of Gisvale in the conflict known as the War of Trout and Drake. The Wizard left his position as Court Magus to King Gunther III von Kor whose father he had served loyally as well and left for the Duchy of Praum where he acted as the Advisor to the Duke in a mostly honorary position for the rest of his life until his death in 661PA.</p>
+<p>Wulfrick refused to participate in the local meadi conflicts, especially between The Kingdom of Korsfall & the Kingdom of Gisvale in the conflict known as the War of Trout and Drake. The Wizard left his position as Court Magus to King Gunther III von Kor whose father he had served loyally as well and left for the City of Praum where he acted as the Advisor to the Count von Praum, the later Duke of <a href="Risfalt" class="internal-link">Risfalt</a>, in a mostly honorary position for the rest of his life until his death in 661PA due to his refusal to answer the call to arms of his de jure overlord, the King of Gisvale.</p>
