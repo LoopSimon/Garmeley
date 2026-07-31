@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Archuke Henry du Jera</span>
+        <span>Archduke Jean du Jera</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>

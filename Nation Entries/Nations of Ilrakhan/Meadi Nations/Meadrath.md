@@ -77,6 +77,7 @@ The introduction of the high-temperature forge in the mountainous Meadrath has l
 <p> The Kingdom of Meadrath is one of the most important political entities on Inara and the Nucleus of the "Meadi Empire" encompassing a sphere of influence stretching from Trinvale and Uhl, the Weadlands and central Meadrath all the way to the Halfling Freelands to the west. <br> The political nexus of all these nations inevitably is the Korsfall Court in the Kingdoms Capital that is dominated by the Royal Congress, a Council of dignitaries of the three estates that advises the Monarch on matters of economic, national and international policy. <br>
 The so called "Meadi Empire" as it is referred to colloquially, describes the various minor or major nations and cities ruled directly or indirectly by the decisions of the Royal Court, this architecture of dependency and alliances is often referred to as the Fulmer-System, named after High-Chancellor <a href="Odrick von Fulmer" class="internal-link">Odrick von Fulmer</a> who was instrumental in the creation and organization of the modern day Royal Congress.</p>
 <p>The most important and powerful vassals of the Crown are the Archduchy of <a href="Dirneux" class="internal-link">Dirneux</a>, the Archduchy of <a href="Gisvale" class="internal-link">Gisvale</a>, the Duchy of <a href="Lesmere" class="internal-link">Lesmere</a>, the Duchy of <a href="Mear" class="internal-link">Mear </a>,the Duchy of <a href="Morelle" class="internal-link">Morelle</a>, the Duchy of <a href="Risfalt" class="internal-link">Risfalt</a>, the Duchy of <a href="Wargel" class="internal-link">Wargel</a>, the Landsgraviat of <a href="Weisch" class="internal-link">Weisch</a>, the Republic of the <a href="Freelands" class="internal-link">Freelands</a> and the City of <a href="Zmalig" class="internal-link">Zmalig</a>; all of whom are present within the Royal Congress and enjoy varying degrees of local autonomy.</p>
+<p>The Kingdom has granted various vassals, including all its Dukes the right of Congenitura, that would allow them to retain their titles through succession even in the presence of a premier heir to the land, if said heir sits the royal Throne or is also the primary heir of a Duchy with the privilege of Congenitura. In essence this has allowed various inter marriages between the great Houses without the fear of inheritance and resulting conflict, due to the differing laws of the respective regions.</p>
 
 <h2>History</h2>
 <small><i>see <a href="Rulers of the Meadi" class="internal-link">The Rulers of the Meadi</a></i></small>
@@ -128,7 +129,7 @@ Frederick von Mart
 Odrick von Fulmer
 	High-Chancellor of Meadrath, Count of Fulmer
 	
-Henry du Jera
+Jean du Jera
 	Archduke of Dirneux, Father to the Queen, in exile from court
 	
  Karel von Mart
