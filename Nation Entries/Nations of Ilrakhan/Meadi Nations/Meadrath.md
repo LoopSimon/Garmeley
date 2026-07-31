@@ -4,6 +4,9 @@
 [[Freelands]]
 [[Zmalig]]
 [[Lesmere]]
+[[Morelle]]
+[[Wargel]]
+[[Dirneux]]
 [[Meadland]]
 [[Auguri Dominion]]
 [[Blijgrat]]
@@ -33,7 +36,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Meadi <a href="Human" class="internal-link">Human</a></span>
+        <span>Meadi Rhilmer <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -106,7 +109,7 @@ When Knights of the <a href="Order of the Silver Wheel" class="internal-link">Or
 <h3>The Meadi Empire</h3>
 <p>In the later years of the 9th century, Meadraths influence had only grown and it was now considered one of the "Great Three Powers" alongside the beheran Sultanate and the Vihri Kingdom. While Meadraths population is smaller than that of Vihr, although not by much, and its clerical institutions much weaker including the military aspects, as well as being economically outcompeted by the Behemoth that is the Elven Sphere of Prosperity, these are both issues Meadrath is only inching behind. The Kingdoms focus on diplomatic alliances and a strong block of vassals and dependencies with a careful respect for both local cultures and surprisingly also religious traditions haven given it the military capabilities to rival any other Alliance Block in the world. Its focus on new trade routes, applied engineering and practical approach to magic tell a story of exponential commercial growth in the last century, especially considering the westwards view the Realm has taken. Its true strength lies in its modern administration however that makes all of the rest of its values shine brightly: Centralization of power, codification of modern law, clear division of state & church, unification and chartering of merchant guild structures into large scale government owned enterprises as well as a focus on control and modern appliance and research of Magic have always been the brightest stars in the Meadi sky. </p>
 <p>The late Queen Gisela III von Kor, had instituted the Royal Congress under the leadership of the Count of Fulmer, now declared High-Chancellor, in the year 898PA.
-While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Lesmere, Gisvale, the Halfling Freelands and various other nominally fully independent nations.</p>
+While on paper a merely internal body of administration and efficiency, in essence this Congress enforced Meadi influence and power upon its neighbours through soft power and is largely responsible for the extensive centralization of political power in Korsfall and the "Meadi Empire", which refers to the control over Dirneux, Morelle, Mear, Risfalt, Wargel, Weisch, Lesmere, Gisvale, the Halfling Freelands and various other nominally fully independent nations such as Zmalig.</p>
 
 
 
@@ -124,29 +127,32 @@ Frederick von Mart
 Odrick von Fulmer
 	High-Chancellor of Meadrath, Count of Fulmer
 	
-Felix von Praum
-	Duke of Praum, Marshall of the Kingdom
+Henry du Jera
+	Archduke of Dirneux, Father to the Queen, in exile from court
 	
-Gaspar du Morelle
+ Karel von Mart
+	Archduke of Gisvale
+	
+Felix von Praum
+	Duke of Risfalt, Marshall of the Kingdom
+	
+Gaspar du Bregelle
 	Duke du Morelle
 	
-Johann von Wormill
-	Duke of Wormill
+Johann von Buhr
+	Duke of Wargel
 	
-Henry du Jera
-	Duke du Jera, Father to the Queen, in exile from court
+Albrecht von Firsberg
+	Duke of Mear, High Mariner
 	
-Albrecht von Meadhavn
-	Duke of Meadhavn, High Mariner
+Albrecht von der Rend
+	Landgraf of Weisch
 	
 Thomar von Whisperhill
 	Dean of Korsfall College
 	
 Kasper von Kran
 	Duke of Lesmere
-	
- Karel von Mart
-	Archduke of Gisvale
 	
 Lopera Hermetell
 	Voxnox of the Freelands

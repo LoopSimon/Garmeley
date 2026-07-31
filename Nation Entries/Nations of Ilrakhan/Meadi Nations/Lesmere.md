@@ -29,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Weadi <a href="Human" class="internal-link">Human</a></span>
+        <span>Weadi Kranmer <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -47,5 +47,5 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Lesmere_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p> The Duchy of Lesmere, part of the informal Empire of <a href="Meadrath" class="internal-link">Meadrath</a> is a vassal of the Meadi Crown and located in the Kranmoor and the southern Weadi Wetlands. Often in minor conflicts with both Schipwig and <a href="Gisvale" class="internal-link">Gisvale</a>, it is the proud home of the Kranmer people who have ruled themselves, at least somewhat autonomously, since the days of the Auguri Dominion.</p>
-<p>The von Kran are a meadi dynasty that has been in power of the Kran delta for hundreds of years, ruling from their ancestral Seat at Kranfort. In 591PA, with the end of Baeling rule over the Coastal lands of former Weadland, the von Kran laid claim to the city of Dellweid that was culturally largely Kranmer and took control without notable resistance, declaring the the Duchy of Lesmere, in reference to the old Kingdom of the Les.</p>
+<p>The von Kran are a human dynasty that has been in power of the Kran delta for hundreds of years, ruling from their ancestral Seat at Kranfort. In 591PA, with the end of <a href="Baeling Empire" class="internal-link">baeling</a> rule over the Coastal lands of former <a href="Weadland" class="internal-link">Weadland</a>, the von Kran laid claim to the city of Dellweid that was culturally largely Kranmer and took control without notable resistance, declaring the the Duchy of Lesmere, in reference to the old Kingdom of the Les.</p>
 

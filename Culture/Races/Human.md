@@ -13,7 +13,7 @@ Bykmali: primarily the Olbellinge, Jueli and Skori people of Trykkerog.
 
 Cevoli: primarily the Cesteri, Battvian and Rasteri peoples
 
-Meadi: including High Meadi, Low Meadi, Gismen, and Hundi peoples
+Meadi: including High Meadi, Low Meadi, Rhilmer, Gismer, and Hundi peoples
 
 Weadi: primarily the Weadmer, Kranmer, Gerdien and Greenfolk peoples
 

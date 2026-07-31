@@ -4,7 +4,7 @@
 [[Ukiolla]]
 [[Trazlov Consortium]]
 [[The Alchemists Guild]]
-[[Trazlov]]
+[[Trazlova]]
 [[Halgrach]]
 [[Vasily Surovsky]]
 [[Ivanova Orin]]

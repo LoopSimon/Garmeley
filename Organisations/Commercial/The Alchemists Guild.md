@@ -1,5 +1,5 @@
 %%
-[[Trazlov]]
+[[Trazlova]]
 [[The Ottian Syndicate]]
 [[Alchemy]]
 %%

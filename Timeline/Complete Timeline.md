@@ -187,13 +187,15 @@
             <div class="timeline-item" data-date="254PA">Gethric Doctrine of human exceptionalism is first mentioned</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
             <div class="timeline-item" data-date="259PA">First official mention of Sisters of Morning in church records as a group independent from clergy</div>
-            <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of Korsfall</div>
-            <div class="timeline-item" data-date="261PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>
+            <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of the petty Kings of Korsfall, Morelle & Rulais</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
             <div class="timeline-item" data-date="275PA">The Fellows of the Dancing Flame propagate Gethricism militarily in Cevolis</div>
+            <div class="timeline-item" data-date="277PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
+            <div class="timeline-item" data-date="282PA">War between Morelle & Korsfall breaks out</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
+            <div class="timeline-item" data-date="285PA">Morelle submits following the Battle of the Voiceless, Korsfall dominates northern Meadrath</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="288PA">Wrath of Isara hits Sertovis & Othirdon</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
@@ -207,14 +209,17 @@
             <div class="timeline-item" data-date="325PA">First mention of the united Ruginë Principality</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
+            <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
             <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire</div>
             <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
+            <div class="timeline-item" data-date="375PA">The Kingdom of Korsfall declares war on the King of Rulais following the Feast of Dragons</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
             <div class="timeline-item" data-date="380PA">Miasas ascension, Harmony of the Hera</div>
+            <div class="timeline-item" data-date="381PA">Korsfall conquers Dirneux, Thierry du Jera is declared Duke of Dirneux</div>
             <div class="timeline-item" data-date="382PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, begin of the Age of Disgrace for the Empire of Aerlan</div>
@@ -331,6 +336,7 @@
             <div class="timeline-item" data-date="679PA">The Battle at Zavix leads to the end of the battivan Conquest of Cevolia & Treaty of Ciravelli</div>
             <div class="timeline-item" data-date="680PA">Khulhki begins the Great Rebellion against the Twintail and Lakal</div>
             <div class="timeline-item" data-date="681PA">Hobgoblin Invasion</div>
+            <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
@@ -342,6 +348,7 @@
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
+            <div class="timeline-item" data-date="700PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
             <div class="timeline-item" data-date="703PA">Splintering of Urland</div>
@@ -356,6 +363,7 @@
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
+            <div class="timeline-item" data-date="739PA">Queen Gisela II creates the Landgraviate of Weisch on the northern Coast of Meadland</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster</div>
@@ -402,6 +410,8 @@
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
             <div class="timeline-item" data-date="830PA">War of Kin in eastern Sertova</div>
+            <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed, left crippled in an assassination attempt known as the Fiseux Uprising</div>
+            <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
