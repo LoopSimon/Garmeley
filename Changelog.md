@@ -1,8 +1,14 @@
+- 2026-07-31T1702 · Korwyn
+- 2026-07-31T1655 · Lissean
+- 2026-07-31T1655 · Lissvalley
+- 2026-07-31T1620 · Elena Montegu
+- 2026-07-31T1604 · Mikael Bivaldi
+- 2026-07-31T1555 · Theresa Salbridge
+- 2026-07-31T1553 · Isa Tereggio
+- 2026-07-31T1553 · Horatio Tuliper
+- 2026-07-31T1553 · Filip of Leston
+- 2026-07-31T1553 · Alana Czery
 - 2026-07-31T1546 · Gaden
-- 2026-07-31T1542 · Isa Tereggio
-- 2026-07-31T1542 · Horatio Tuliper
-- 2026-07-31T1541 · Alana Czery
-- 2026-07-31T1541 · Filip of Leston
 - 2026-07-31T1510 · Gnome
 - 2026-07-31T0552 · Opuzna
 - 2026-07-31T0549 · Vihr
@@ -65,7 +71,6 @@
 - 2026-07-29T0151 · Firocco
 - 2026-07-29T0136 · Jeledo
 - 2026-07-29T0117 · Viccolo di Pora
-- 2026-07-29T0029 · Lissvalley
 - 2026-07-29T0027 · Wars of Elbae Aggression
 - 2026-07-29T0026 · Reanport
 - 2026-07-29T0026 · Grevenna
@@ -93,8 +98,3 @@
 - 2026-07-27T1748 · Mabar
 - 2026-07-27T1743 · Korman van Schipwig
 - 2026-07-27T1415 · Janez Vajkard Valvasor
-- 2026-07-27T1414 · Gynla Pemo
-- 2026-07-27T1234 · Pastelliora
-- 2026-07-27T1125 · Igor
-- 2026-07-27T0351 · Strait of Horad
-- 2026-07-27T0340 · Malham

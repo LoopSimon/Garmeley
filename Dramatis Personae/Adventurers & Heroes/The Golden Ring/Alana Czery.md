@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span></span>
+        <span>unknown, Vihr</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -24,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span></span>
+        <span>in her 30s</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -35,3 +35,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Alana.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>This character may appear in a possible mini campaign, should that be organized and come to reality, therefor basic information will be subject to change and not on the wiki for the immediate future.</p>

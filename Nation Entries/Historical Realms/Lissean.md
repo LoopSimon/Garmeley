@@ -29,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Othiri </span>
+        <span>Othiri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -53,3 +53,4 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Lissean_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Taking its name from the Liss River and the noble House of en Liss, this othiri Kingdom broke away from the Empire of <a href="Aerlan" class="internal-link">Aerlan</a> in the first half of the 6th century during its so called "Age of Disgrace". It established itself as a powerful and autonomous entity over the next two centuries, remaining independent in the face of Meadi and Locni expansionism from the east and north respectively, as well as the threat of the Aerlani Emperors attempting to regain what was lost to them. In the Year 713PA, King Charles II en Liss abdicated the Throne and the Kingdom was essentially re structured into a more decentralized and democratic League, the <a href="Lissvalley" class="internal-link">Lissvalley Federation</a>.</p>
+<p>Dissenting elements of the Lisseani establishment, primarily the powerful nobles of the largely autonomous south, rejected notions of a free Union of Othiri and declared themselves independent from the Federation, becoming the modern day state of <a href="Korwyn" class="internal-link">Korwyn</a>.</p>
