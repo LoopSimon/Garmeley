@@ -1,1 +1,0 @@
-(this is a player character from the original game, my friend will send me basic lore to upload on her at some point, she was in the same party as [[Mikael Bivaldi]].)

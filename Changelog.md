@@ -1,8 +1,11 @@
+- 2026-08-01T1338 · Elena Montegru
+- 2026-08-01T1334 · Mikael Bivaldi
+- 2026-08-01T1321 · Shasha Gurnakov
+- 2026-08-01T0326 · Joakim zi Szarbel
+- 2026-08-01T0257 · Larkomas
 - 2026-07-31T1702 · Korwyn
 - 2026-07-31T1655 · Lissean
 - 2026-07-31T1655 · Lissvalley
-- 2026-07-31T1620 · Elena Montegu
-- 2026-07-31T1604 · Mikael Bivaldi
 - 2026-07-31T1555 · Theresa Salbridge
 - 2026-07-31T1553 · Isa Tereggio
 - 2026-07-31T1553 · Horatio Tuliper
@@ -95,6 +98,3 @@
 - 2026-07-27T1824 · Gurita
 - 2026-07-27T1807 · Vilkin
 - 2026-07-27T1805 · Mario Benvolo
-- 2026-07-27T1748 · Mabar
-- 2026-07-27T1743 · Korman van Schipwig
-- 2026-07-27T1415 · Janez Vajkard Valvasor
