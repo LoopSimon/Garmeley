@@ -1,12 +1,13 @@
 %%
 [[Baeling]]
 [[Valund Baeling]]
+[[Jallbreg]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Varald Omel Baeling</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>King of Baeling</span>
+        <span>King of Baeling,<br>Lord-Keeper of Jallbreg</span>
     </div>
     <div class="wiki-row">
         <strong>Predecessor</strong>
@@ -45,5 +46,5 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Varald.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>The current King of the Baeling Kingdom, claiming name and succession to the grand Empire of <a href="Valund Baeling" class="internal-link">Valund</a> Baeling himself, has been in power for almost 14 years since his accession in 913PA. He succeeded his father, King Håkan V and is known for his prudent policies and so far much more peaceful reign compared to his predecessor. Varald has politically turned south and is currently trying to solve a critical situation considering the Kingdoms possessions at the Hags Horn and most importantly the city of Jallbreg that threatens to cut their ties with the rest of the Kingdom across the Torn Sea. His current heir is his son, Prince Håkan Baeling.</p>
+<p>The current King of the Baeling Kingdom, claiming name and succession to the grand Empire of <a href="Valund Baeling" class="internal-link">Valund</a> Baeling himself, has been in power for almost 14 years since his accession in 913PA. He succeeded his father, King Håkan V and is known for his prudent policies and so far much more peaceful reign compared to his predecessor. Varald has politically turned south and is currently trying to solve a critical situation considering the Kingdoms possessions at the Hags Horn and most importantly the City of <a href="Jallbreg" class="internal-link">Jallbreg</a> that threatens to cut their ties with the rest of the Kingdom across the Torn Sea. His current heir is his son, Prince Håkan Baeling.</p>
 <p>The rebellious City of Jallbreg is not the only issue facing Varald as they have begun losing influence in the Free Cities of Trykkerog further west, between Baeling and Vignasoya as well as continueing to be out competed by their old Rival, Juelfluk economically due to their monopoly on Nirydian exports through the Frozen Sea. On top of this, the Ogres of Fagnis Rest have risen again and begun gathering in greater numbers, putting a strain on all bykmali cities in the north.</p>

@@ -4,6 +4,7 @@
 [[Vignasoya]]
 [[Baeling Empire]]
 [[Varald I]]
+[[Jallbreg]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Baeling Kingdom</h4> <div class="wiki-row">
@@ -47,11 +48,11 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Baeling_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> The Baeling Kingdom derives its name from the near mythical House of Baeling that ruled the Baeling Empire since the 5th century. Although in constantly dispute and conflict with the neighbouring powers of <a href="Trykkerog" class="internal-link">Trykerogg </a>such as <a href="Wars of Baeling Succession" class="internal-link">the Wars of Baeling Succession</a> with the Lords of <a href="Juelfluk" class="internal-link">Juelburg</a>, it is nevertheless the undisputed strongest power on the northern Continent stretching even across the Bay to the city of Jallbreg. </p>
+<p> The Baeling Kingdom derives its name from the near mythical House of Baeling that ruled the Baeling Empire since the 5th century. Although in constantly dispute and conflict with the neighbouring powers of <a href="Trykkerog" class="internal-link">Trykerogg </a>such as <a href="Wars of Baeling Succession" class="internal-link">the Wars of Baeling Succession</a> with the Lords of <a href="Juelfluk" class="internal-link">Juelburg</a>, it is nevertheless the undisputed strongest power on the northern Continent stretching even across the Bay to the City of <a href="Jallbreg" class="internal-link">Jallbreg</a>. </p>
 <h2>People of Interest</h2>
 
 Varald, first of his Name of House 
-	King of Baeling and Lord of Trykkerog
+	King of Baeling and Lord-Keeper of Jallbreg
 
 Sten Billstrom
 	Keeper of Sallesand

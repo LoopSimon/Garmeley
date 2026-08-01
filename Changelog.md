@@ -1,3 +1,10 @@
+- 2026-08-02T0021 · Jallbreg
+- 2026-08-02T0020 · Baeling Empire
+- 2026-08-02T0002 · Varald I
+- 2026-08-02T0001 · Baeling
+- 2026-08-02T0000 · Trazlov Consortium
+- 2026-08-02T0000 · Sons of Kasimir
+- 2026-08-01T2357 · Wermia
 - 2026-08-01T1338 · Elena Montegru
 - 2026-08-01T1334 · Mikael Bivaldi
 - 2026-08-01T1321 · Shasha Gurnakov
@@ -34,7 +41,6 @@
 - 2026-07-31T0253 · Gisvale
 - 2026-07-31T0145 · Complete Timeline
 - 2026-07-30T2155 · Trazlova
-- 2026-07-30T2155 · Trazlov Consortium
 - 2026-07-30T2155 · The Alchemists Guild
 - 2026-07-30T2155 · Grachy
 - 2026-07-30T1726 · Codex Thereticum
@@ -92,9 +98,3 @@
 - 2026-07-28T1415 · Third Moon Fleet
 - 2026-07-28T1343 · Zepria
 - 2026-07-28T1343 · Velvet Caravan
-- 2026-07-28T1343 · Tsurigism
-- 2026-07-27T2313 · Ptamon
-- 2026-07-27T1827 · Dinguul
-- 2026-07-27T1824 · Gurita
-- 2026-07-27T1807 · Vilkin
-- 2026-07-27T1805 · Mario Benvolo
