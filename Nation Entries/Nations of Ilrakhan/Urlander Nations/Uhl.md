@@ -1,5 +1,7 @@
 %%
 [[Gethricism]]
+[[Urland]]
+[[Vrieman Bank of Uhl]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Republic of Uhl</h4>

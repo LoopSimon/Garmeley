@@ -1,7 +1,12 @@
-- 2026-08-02T0021 · Jallbreg
-- 2026-08-02T0020 · Baeling Empire
+- 2026-08-02T1522 · Jallbreg
+- 2026-08-02T1519 · Uhl
+- 2026-08-02T1511 · Muriel von Gloss
+- 2026-08-02T1509 · Viagoris
+- 2026-08-02T0506 · Vormil III
+- 2026-08-02T0029 · Melmer
+- 2026-08-02T0025 · Baeling
+- 2026-08-02T0022 · Baeling Empire
 - 2026-08-02T0002 · Varald I
-- 2026-08-02T0001 · Baeling
 - 2026-08-02T0000 · Trazlov Consortium
 - 2026-08-02T0000 · Sons of Kasimir
 - 2026-08-01T2357 · Wermia
@@ -68,7 +73,6 @@
 - 2026-07-29T1604 · Rulers of the Meadi
 - 2026-07-29T1311 · Salvia
 - 2026-07-29T1259 · Torry
-- 2026-07-29T1256 · Muriel von Gloss
 - 2026-07-29T1255 · Treaty of Uhl
 - 2026-07-29T1253 · War of Horn and Fang
 - 2026-07-29T1242 · Tronos
@@ -94,7 +98,3 @@
 - 2026-07-28T1656 · Blijgrat
 - 2026-07-28T1431 · Marosz Kirelli
 - 2026-07-28T1428 · Battvian Flour
-- 2026-07-28T1416 · Sirmon Rezan
-- 2026-07-28T1415 · Third Moon Fleet
-- 2026-07-28T1343 · Zepria
-- 2026-07-28T1343 · Velvet Caravan

@@ -1,5 +1,5 @@
 %%
-[[Bykmali Paganism]][[Trykkerog]][[Meadland]][[Baeling]] [[Valund Baeling]]
+[[Bykmali Paganism]][[Trykkerog]][[Meadland]][[Baeling]] [[Valund Baeling]] 
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Empire of the Baeling</h4>
