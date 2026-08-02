@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>886PA, Leston</span>
+        <span>869PA, Leston</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>41</span>
+        <span>35 (in 904PA)</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

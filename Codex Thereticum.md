@@ -79,17 +79,22 @@ Abducted Mogyri:
 
 
 **Short Game**
+We write the 13th September of the year 904PA, 20 years before the infamous Niedrest incident and 24 years before the present day adventures of other heroes in Nostroya and Rean.
 
 The Golden Ring, a group of heroic adventurers that has saved many a life in the lands of Cevolia, Urland and Meadland has gone missing for a while now, for over 4 months nobody has seen any remnant of them. 
 Last reports show they assembled at the small village of Ansley in northern Urland before setting out on an unknown mission, this is the last anyone has seen any trace of them.
 
-War is raging in southern Urland and Garmeley, trouble is brewing in south and east so a group of local heroes gone missing has fallen on the wayside to most, but not to all:
-
 You are part of the few who do care, whether due to your personal connection to them Golden Ring, a concerned patron hiring you to look after them, or an entirely different reason, you have assembled with friends and strangers at Ansley to find out what happened to the Golden Ring and either save them or put them to rest.
 
 The Golden Ring consists of:
-
 Sir Filip of Leston, a human Knight-Errant of Urbridge
 Alena "the Mole" Czery, a former vihri spy turned traveling hero
 Doctor Isa Tereggio, a human Alchemist and Mortician from Battiva
 Horatio Momery Tuliper, a famed Halfling sorcerer hailing from the Freelands
+
+Anyone with this Role is invited to join for the game and we aim to play Session 1 on the 13th of september in a little over a month, ideally we find time to run a small Session 0 before, sorry i couldnt quite invite everyone to play that showed interest this time.
+
+Please communicate with each other and me in regards to what characters youd like to play and how, i can put up a foundry for anyone who wants to on most afternoons / evenings starting tomorrow or whenever you ask. 
+Consider that we should all be "bought in" characters backstory wise, so we dont spend an extraordinary amount of our somewhat limited time to figure out "if we should even go on an adventure at all" etc. and otherwise built fun characters that you know how to pilot.
+As of right now due to some players being newer i am going to set the game at level 6, well play with our usual rules for automatic bonus progression in leu of the more boring magic item selections and everyone will get 7500gold to start with and buy items.
+(these exact details may be subject to change but it should be fine as we have over a month to prep.)

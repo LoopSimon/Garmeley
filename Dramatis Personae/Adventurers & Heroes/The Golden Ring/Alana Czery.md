@@ -24,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>in her 30s</span>
+        <span>in her 30s(in 904PA)</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

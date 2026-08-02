@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>887PA, Molina</span>
+        <span>864PA, Molina</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>40</span>
+        <span>40(in 904PA)</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

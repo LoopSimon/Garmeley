@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>864PA, Niedrest</span>
+        <span>841PA, Niedrest</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>63</span>
+        <span>63(in 904PA)</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

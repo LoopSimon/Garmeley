@@ -1,3 +1,8 @@
+- 2026-08-02T2251 · Filip of Leston
+- 2026-08-02T2250 · Isa Tereggio
+- 2026-08-02T2250 · Horatio Tuliper
+- 2026-08-02T2250 · Alana Czery
+- 2026-08-02T2239 · Codex Thereticum
 - 2026-08-02T2223 · Starworship
 - 2026-08-02T2222 · Cyclopi
 - 2026-08-02T2220 · Pixos
@@ -28,10 +33,6 @@
 - 2026-07-31T1655 · Lissean
 - 2026-07-31T1655 · Lissvalley
 - 2026-07-31T1555 · Theresa Salbridge
-- 2026-07-31T1553 · Isa Tereggio
-- 2026-07-31T1553 · Horatio Tuliper
-- 2026-07-31T1553 · Filip of Leston
-- 2026-07-31T1553 · Alana Czery
 - 2026-07-31T1546 · Gaden
 - 2026-07-31T1510 · Gnome
 - 2026-07-31T0552 · Opuzna
@@ -56,7 +57,6 @@
 - 2026-07-30T2155 · Trazlova
 - 2026-07-30T2155 · The Alchemists Guild
 - 2026-07-30T2155 · Grachy
-- 2026-07-30T1726 · Codex Thereticum
 - 2026-07-30T1556 · Doggerism
 - 2026-07-30T1544 · Spursley
 - 2026-07-30T1544 · Geol
