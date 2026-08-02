@@ -101,10 +101,12 @@
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
+            <div class="timeline-item" data-date="511BA">Rakhi Invasion of Cyraclion fails at the Battle of Milasam</div>
+            <div class="timeline-item" data-date="489BA">Aessymia Palatea commits suicide by Tanlea</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
-            <div class="timeline-item" data-date="401BA">Pixos creates the "Heart of Pixos"</div>
-            <div class="timeline-item" data-date="400BA">Fall of Cyraclion</div>
+            <div class="timeline-item" data-date="371BA">Pixos creates the "Heart of Pixos"</div>
+            <div class="timeline-item" data-date="370BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>

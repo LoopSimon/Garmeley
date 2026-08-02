@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span></span>
+        <span>Kynotician</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
@@ -19,20 +19,20 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span></span>
+        <span>425BA, Cyraclion</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span></span>
+        <span>370BA, Cyraclion</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span></span>
+        <span>Dissolution, 55 Years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
-        <span>Kynosis</span>
+        <span><a href="Alchemy" class="internal-link">Kynosis</a></span>
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>
