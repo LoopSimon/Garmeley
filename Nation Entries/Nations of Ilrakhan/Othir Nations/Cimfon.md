@@ -51,6 +51,7 @@
 </div>
 
 <p>Cimfon is a Locni Maelzad that was declared as result of the Battle of Wightswound in the Alvenish Woods, based in western Ilrakhan within the region of <a href="Othirdon" class="internal-link">Othirdon</a> they have remained one of the stronger powers within the Region, working hard to restore the glory of the old Kingdom of <a href="Thirdonis" class="internal-link">Thirdonis</a> that ruled the lands in ages past. Cimfon has historically actively opposed Meadi influence and attempts of force across the Urdpeaks to take influence within Othirdon.</p>
+<p>The Maelzad is a founding member of the so called "Visian League", aiming to protect its members from imperialist attacks by neighbouring countries, primarily Meadrath, together with Erlmondy and Lissvalley.</p>
 <h2>People of Interest</h2>
 Ednyr, third of his Name of House Prawyl,    
 Mael of the Cimfon

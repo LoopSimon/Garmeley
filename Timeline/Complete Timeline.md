@@ -417,11 +417,12 @@
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins</div>
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
-            <div class="timeline-item" data-date="830PA">War of Kin in eastern Sertova</div>
+            <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed, left crippled in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
+            <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
@@ -454,6 +455,7 @@
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
         </div>
+        <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy</div>
     </div>
     <div class="grid-item span-col-2-single-block">
         <h3>Modern Age</h3>
