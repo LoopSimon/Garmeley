@@ -1,3 +1,10 @@
+- 2026-08-02T2158 · Tripparch
+- 2026-08-02T2157 · Complete Timeline
+- 2026-08-02T2128 · Aessymia
+- 2026-08-02T2125 · Pixos
+- 2026-08-02T2124 · Kasthemis
+- 2026-08-02T1736 · Shymon Epios
+- 2026-08-02T1735 · Vilkin
 - 2026-08-02T1522 · Jallbreg
 - 2026-08-02T1519 · Uhl
 - 2026-08-02T1511 · Muriel von Gloss
@@ -44,7 +51,6 @@
 - 2026-07-31T0312 · Morelle
 - 2026-07-31T0255 · Lesmere
 - 2026-07-31T0253 · Gisvale
-- 2026-07-31T0145 · Complete Timeline
 - 2026-07-30T2155 · Trazlova
 - 2026-07-30T2155 · The Alchemists Guild
 - 2026-07-30T2155 · Grachy
@@ -92,9 +98,3 @@
 - 2026-07-29T0022 · Sertova
 - 2026-07-29T0020 · Ravland
 - 2026-07-29T0018 · Erlmondy
-- 2026-07-29T0018 · War of Kin
-- 2026-07-29T0014 · Nahr
-- 2026-07-28T2224 · Revelle
-- 2026-07-28T1656 · Blijgrat
-- 2026-07-28T1431 · Marosz Kirelli
-- 2026-07-28T1428 · Battvian Flour

@@ -5,6 +5,7 @@
 [[Grevenna]]
 [[Janez Vajkard Valvasor]]
 [[Karajal School of Insight]]
+[[Shymon Epios]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Roizar Vilkin</h4>
@@ -39,7 +40,7 @@
     </div>
     <div class="wiki-row">
         <strong>Known Students</strong>
-        <span>Pavel Rigoran</span>
+        <span><a href="Shymon Epios" class="internal-link">Shymon Epios</a>,<br>Pavel Rigoran</span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Vilkin.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

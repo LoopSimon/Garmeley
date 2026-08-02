@@ -53,6 +53,7 @@
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
+            <div class="timeline-item" data-date="1350BA">First recorded intentioal channeling on the Haira Tablets in Palmunia</div>
             <div class="timeline-item" data-date="1300BA">Approximate emergence of the Vokti Gnomes</div>
             <div class="timeline-item" data-date="1266BA">Approximate Founding of the City of Samyr, modern day Mereskis</div>
             <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos at lake Kher</div>
@@ -74,6 +75,7 @@
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1004BA">First Mention of Spurshey swamp settlements in Danbry from Vahri records </div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
+            <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
@@ -83,6 +85,7 @@
             <div class="timeline-item" data-date="650BA">Spurshey and Vahri settlers encounter Vinjiri Safir, cultural exchange begins across the mountains</div>
 	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
             <div class="timeline-item" data-date="640BA">Genevi finds the Keystar north of the Ronra</div>
+	        <div class="timeline-item" data-date="632BA">Tripparch creates his Dialogma</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
             <div class="timeline-item" data-date="624BA">Zuhurism is first practiced by the Pagri nomads of Nirydia</div>
             <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
@@ -189,8 +192,8 @@
             <div class="timeline-item" data-date="259PA">First official mention of Sisters of Morning in church records as a group independent from clergy</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of the petty Kings of Korsfall, Morelle & Rulais</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
+            <div class="timeline-item" data-date="263PA">Gethric Teachings are spreading beyond Vihr in Meadland, Urland and Grachy</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
-            <div class="timeline-item" data-date="275PA">The Fellows of the Dancing Flame propagate Gethricism militarily in Cevolis</div>
             <div class="timeline-item" data-date="277PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="282PA">War between Morelle & Korsfall breaks out</div>
@@ -200,7 +203,7 @@
             <div class="timeline-item" data-date="288PA">Wrath of Isara hits Sertovis & Othirdon</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
-            <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Cevolis</div>
+            <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Urland, Turvik practice is fading across Ilrakhan</div>
             <div class="timeline-item" data-date="308PA">Banishment of the Four</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
             <div class="timeline-item" data-date="311PA">Natan I becomes first Imperator of the Twintail, begin of the early Natan Period.</div>
@@ -221,14 +224,17 @@
             <div class="timeline-item" data-date="380PA">Miasas ascension, Harmony of the Hera</div>
             <div class="timeline-item" data-date="381PA">Korsfall conquers Dirneux, Thierry du Jera is declared Duke of Dirneux</div>
             <div class="timeline-item" data-date="382PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla</div>
+            <div class="timeline-item" data-date="383PA">The Fellows of the Dancing Flame propagate Gethricism militarily in Cevolis</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, begin of the Age of Disgrace for the Empire of Aerlan</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
+            <div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", Gethricism has become the most popular religion on the Continent</div>
             <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
+            <div class="timeline-item" data-date="429PA">Ardol V "the Blessed" von Gismar becomes the first Gethric born King of Korsfall, augurism and turvik paganism are dwindling as Gethricism is now the predominant religion in Meadland</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
             <div class="timeline-item" data-date="432PA">End of the Kingdom of Les</div>
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs</div>
