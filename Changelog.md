@@ -1,3 +1,4 @@
+- 2026-08-03T0126 · Thirdonis
 - 2026-08-03T0117 · Panrity
 - 2026-08-03T0043 · Knights of the Green Tree
 - 2026-08-03T0036 · Erlmondy
@@ -97,4 +98,3 @@
 - 2026-07-29T0136 · Jeledo
 - 2026-07-29T0117 · Viccolo di Pora
 - 2026-07-29T0027 · Wars of Elbae Aggression
-- 2026-07-29T0026 · Reanport
