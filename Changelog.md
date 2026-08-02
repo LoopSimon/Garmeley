@@ -1,3 +1,5 @@
+- 2026-08-03T0117 · Panrity
+- 2026-08-03T0043 · Knights of the Green Tree
 - 2026-08-03T0036 · Erlmondy
 - 2026-08-03T0036 · Cimfon
 - 2026-08-03T0035 · Lissvalley
@@ -96,5 +98,3 @@
 - 2026-07-29T0117 · Viccolo di Pora
 - 2026-07-29T0027 · Wars of Elbae Aggression
 - 2026-07-29T0026 · Reanport
-- 2026-07-29T0026 · Grevenna
-- 2026-07-29T0025 · Treaty of Danipol
