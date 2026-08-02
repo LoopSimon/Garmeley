@@ -1,7 +1,8 @@
+- 2026-08-02T2223 · Starworship
+- 2026-08-02T2222 · Cyclopi
 - 2026-08-02T2220 · Pixos
 - 2026-08-02T2214 · Aessymia
 - 2026-08-02T2210 · Complete Timeline
-- 2026-08-02T2158 · Jahul Cyclor
 - 2026-08-02T2158 · Tripparch
 - 2026-08-02T2124 · Kasthemis
 - 2026-08-02T1736 · Shymon Epios
@@ -97,4 +98,3 @@
 - 2026-07-29T0025 · Treaty of Danipol
 - 2026-07-29T0023 · Treaty of Kulum
 - 2026-07-29T0022 · Sertova
-- 2026-07-29T0020 · Ravland
