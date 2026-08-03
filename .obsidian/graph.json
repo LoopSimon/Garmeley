@@ -5,18 +5,96 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Dramatis Personae\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Nation Entries\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11959303
+      }
+    },
+    {
+      "query": "path:Religions  ",
+      "color": {
+        "a": 1,
+        "rgb": 15190541
+      }
+    },
+    {
+      "query": "path:\"Cities, Locations & Wonders\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Arcanum Obscuriae\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Culture  ",
+      "color": {
+        "a": 1,
+        "rgb": 4798912
+      }
+    },
+    {
+      "query": "path:\"The World\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5122057
+      }
+    },
+    {
+      "query": "path:Organisations  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Cosmology  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:Politics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Economy & Trade\" ",
+      "color": {
+        "a": 1,
+        "rgb": 5841527
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 0.3296875,
-  "lineSizeMultiplier": 0.559375,
-  "collapse-forces": false,
-  "centerStrength": 0.182291666666667,
-  "repelStrength": 7.73350694444444,
-  "linkStrength": 0.828645833333333,
-  "linkDistance": 72,
-  "scale": 0.0078125,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.533112195121951,
+  "lineSizeMultiplier": 0.410731707317073,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 10.8580757065606,
+  "linkStrength": 1,
+  "linkDistance": 85,
+  "scale": 0.059326171874999965,
   "close": true
 }

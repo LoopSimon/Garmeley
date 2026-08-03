@@ -103,7 +103,9 @@
             <div class="timeline-item" data-date="540BA">First mention of a united Tusuli Marival</div>
             <div class="timeline-item" data-date="511BA">Rakhi Invasion of Cyraclion fails at the Battle of Milasam</div>
             <div class="timeline-item" data-date="489BA">Aessymia Palatea commits suicide by Tanlea</div>
+            <div class="timeline-item" data-date="488BA">Rakhian Conquest of Sakra, modern day Hainach</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig</div>
+            <div class="timeline-item" data-date="440BA">Rakhi Conquest of Kerlean</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
             <div class="timeline-item" data-date="371BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="370BA">Fall of Cyraclion</div>
@@ -113,7 +115,8 @@
             <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
             <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
-            <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm</div>
+            <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm & Ares</div>
+            <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
             <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
@@ -153,8 +156,13 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Age of Silver</h3>
         <div class="timeline-list">
-            <div class="timeline-item" data-date="10PA">Burning Decade</div>
-            <div class="timeline-item" data-date="29PA">Unification of Urland</div>
+            <div class="timeline-item" data-date="1PA">Burning Decades begin</div>
+            <div class="timeline-item" data-date="10PA">The Fading, Rakh has become a Wasteland of Ash and Magical Residue</div>
+            <div class="timeline-item" data-date="12PA">Harrusham declares himself the Lord of New Rakh in Gibaresh, the few surviving rakhi loyalists gather around him</div>
+            <div class="timeline-item" data-date="27PA">Kerleani Bodyguards kill Harrusham and sacrifice over five thousand rakhi survivors to Mornal</div>
+            <div class="timeline-item" data-date="28PA">Remaining rakhi officials and families in the urien provinces that had gathered in "New Rakh" are forced to venture into the Wastes</div>
+            <div class="timeline-item" data-date="29PA">As rakhi administration in the urien provinces has ended, Kingdoms of Arester & Urland are declared</div>
+            <div class="timeline-item" data-date="30PA">The Nurlight is seen for the first time from beyond the Wastes, the Burning Decades have ended</div>
             <div class="timeline-item" data-date="35PA">Great Pagri Migration Period in eastern Nirydia begins</div>
             <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat</div>
