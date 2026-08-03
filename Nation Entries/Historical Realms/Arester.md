@@ -3,6 +3,8 @@
 [[Gethricism]]
 [[Kerlaes]]
 [[Urland]]
+[[Eldmar]]
+[[Urbridge]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Arester</h4>
@@ -50,3 +52,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Arestes_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
+<p>The Kingdom of Arester was a urien nation located in central Ur during the Age of Silver that later was subsumed by Garmeley and Urland, modern day Eldmar and Urbridge have kept many of the Arester traditions alive since the Fall of Urland following the Hobgoblin Invasion. </p>

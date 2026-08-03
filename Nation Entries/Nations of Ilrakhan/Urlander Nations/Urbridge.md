@@ -2,6 +2,7 @@
 [[Gethricism]]
 [[Ak-Saray]]
 [[Dorian]]
+[[Arester]]
 %%
 
 <div class="wiki-infobox">
@@ -38,7 +39,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <a href="Urland" class="internal-link">Urland</a>
+        <span><a href="Urland" class="internal-link">Urland</a>,<br><a href="Arester" class="internal-link">Arester</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

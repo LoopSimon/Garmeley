@@ -1,3 +1,8 @@
+%%
+[[Kindly Lords]]
+[[Gethricism]]
+[[Kerlaes]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Duchy of Garmeley</h4>
     <div class="wiki-row">

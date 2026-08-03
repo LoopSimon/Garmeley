@@ -1,5 +1,7 @@
 %%
 [[Gethricism]]
+[[Kerlaes]]
+[[Urland]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Trinvale Republic</h4>
@@ -35,7 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <a href="Urland" class="internal-link">Urland</a>
+        <span><a href="Urland" class="internal-link">Urland</a>,<br><a href="Arester" class="internal-link">Arester</a>,<br><a href="Kerlaes" class="internal-link">Kerlaes</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

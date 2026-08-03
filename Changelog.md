@@ -1,6 +1,10 @@
+- 2026-08-03T1557 · Garmeley
+- 2026-08-03T1557 · Urbridge
+- 2026-08-03T1557 · Eldmar
+- 2026-08-03T1556 · Trinvale
+- 2026-08-03T1551 · Arester
 - 2026-08-03T1528 · Jallbreg
 - 2026-08-03T1513 · Kerlaes
-- 2026-08-03T1502 · Arester
 - 2026-08-03T1427 · Urland
 - 2026-08-03T1427 · Complete Timeline
 - 2026-08-03T1420 · Nurlight
@@ -94,7 +98,3 @@
 - 2026-07-29T1604 · Rulers of the Meadi
 - 2026-07-29T1311 · Salvia
 - 2026-07-29T1259 · Torry
-- 2026-07-29T1255 · Treaty of Uhl
-- 2026-07-29T1253 · War of Horn and Fang
-- 2026-07-29T1242 · Tronos
-- 2026-07-29T1242 · Yeorite
