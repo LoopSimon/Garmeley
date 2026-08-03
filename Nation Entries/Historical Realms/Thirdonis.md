@@ -22,7 +22,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>N/A</span>
+        <span>Panry Green Oak on Gold</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -50,5 +50,7 @@
         <strong>Disbanded</strong>
         <span>629PA</span>
     </div>
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Thirdonis_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>The Maelzad of Thirdonis was a human Monarchy located in northern <a href="Othirdon" class="internal-link">Othirdon</a> in modern day <a href="Cimfon" class="internal-link"></a> and <a href="Lissvalley" class="internal-link">Lissvalley</a>, during its lifespan from the 1st to the 7th century PA it contended with the mighty <a href="Aerlan" class="internal-link">Aerlan</a> and later with the othiri Kingdom of <a href="Lissean" class="internal-link">Lissean</a>, at one point in the 4th century stretching out as far south as Rinci and the Liss River. Thirdonis was notably always contending with mightier powers to its west and east, be it the mysterious <a href="Auguri Dominion" class="internal-link">Auguri</a> and later the prosperous Kings of Korsfall from across the Urdfall Peaks or the ancient Warlords of Aerlan in the west. The noble customs and traditions of Thirdonis are alive within Cimfon and <a href="Droil" class="internal-link">Droil</a> but most certainly in <a href="Tintarol" class="internal-link">Tintarol</a>, the old Junior Kingdom and brotherly ally to the north.</p>

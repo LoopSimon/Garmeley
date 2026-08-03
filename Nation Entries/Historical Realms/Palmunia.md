@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Palmunis</span>
+        <span>Uriza Jellyfish</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -48,6 +48,8 @@
         <strong>Disbanded</strong>
         <span>560BA</span>
     </div>
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Palmunia_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>The Palmuni civlization, were an Inaran people who formed on of the first major civilisations of the Bronze Age in western Behera. The culture likely originated from the proto Beheran tribes that settled in the Lameidus and the Delta of the River Urza, there they formed a series of polities, including petty Kingdoms and militant theocracies, as well as the later dominant Empire of Palmunis, formed around the city of Palmunis, whose walls can be dated back before 2350BA.</p>
 <p>Prior to the rise of Rakh, Palmunis was the dominant civilisation in western Behera and is our main source of information for the northern tribes of the Ilrakhan subcontinent during antiquity, whom Palmuni sources refer to as "barbarians and wilderpeople". The Palmuni were in active exchange with the Cyclopi of Cyraclion including larger scale conflicts in the 1st millenium BA, once both the Empire of Palmunis and united <a href="Cyraclion" class="internal-link">Cyraclion</a> had formed out of initially largely independent subcultures and cities.</p>

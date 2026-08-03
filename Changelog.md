@@ -1,6 +1,7 @@
+- 2026-08-03T0225 · Thirdonis
+- 2026-08-03T0225 · Palmunia
 - 2026-08-03T0149 · Auguri Dominion
 - 2026-08-03T0136 · Augurism
-- 2026-08-03T0126 · Thirdonis
 - 2026-08-03T0117 · Panrity
 - 2026-08-03T0043 · Knights of the Green Tree
 - 2026-08-03T0036 · Erlmondy
@@ -97,4 +98,3 @@
 - 2026-07-29T0156 · Gisava di Parneu
 - 2026-07-29T0152 · Jezanis
 - 2026-07-29T0151 · Firocco
-- 2026-07-29T0136 · Jeledo
