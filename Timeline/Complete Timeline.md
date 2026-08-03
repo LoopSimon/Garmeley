@@ -371,7 +371,7 @@
             <div class="timeline-item" data-date="700PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
-            <div class="timeline-item" data-date="703PA">Splintering of Urland</div>
+            <div class="timeline-item" data-date="703PA">Splintering of Urland, Jorwyn of Gelm crowns himself the King of Urland, challenged by various nobles in the Eld valley Duchess Theara of Hornsley is crowned as "Counter" Queen of Eldmar following a brief skirmish</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>

@@ -1,12 +1,12 @@
+- 2026-08-03T2052 · Eldmar
+- 2026-08-03T2051 · Complete Timeline
 - 2026-08-03T1557 · Garmeley
 - 2026-08-03T1557 · Urbridge
-- 2026-08-03T1557 · Eldmar
 - 2026-08-03T1556 · Trinvale
 - 2026-08-03T1551 · Arester
 - 2026-08-03T1528 · Jallbreg
 - 2026-08-03T1513 · Kerlaes
 - 2026-08-03T1427 · Urland
-- 2026-08-03T1427 · Complete Timeline
 - 2026-08-03T1420 · Nurlight
 - 2026-08-03T1353 · Auguri Dominion
 - 2026-08-03T1340 · Vihrmen Federation
