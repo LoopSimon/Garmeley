@@ -159,7 +159,7 @@
             <div class="timeline-item" data-date="1PA">Burning Decades begin</div>
             <div class="timeline-item" data-date="10PA">The Fading, Rakh has become a Wasteland of Ash and Magical Residue</div>
             <div class="timeline-item" data-date="12PA">Harrusham declares himself the Lord of New Rakh in Gibaresh, the few surviving rakhi loyalists gather around him</div>
-            <div class="timeline-item" data-date="27PA">Kerleani Bodyguards kill Harrusham and sacrifice over five thousand rakhi survivors to Mornal</div>
+            <div class="timeline-item" data-date="27PA">Kerleani Bodyguards kill Harrusham and sacrifice over five thousand rakhi survivors to Mornal, crowning Arvald as the new Lord of Kerleas</div>
             <div class="timeline-item" data-date="28PA">Remaining rakhi officials and families in the urien provinces that had gathered in "New Rakh" are forced to venture into the Wastes</div>
             <div class="timeline-item" data-date="29PA">As rakhi administration in the urien provinces has ended, Kingdoms of Arester & Urland are declared</div>
             <div class="timeline-item" data-date="30PA">The Nurlight is seen for the first time from beyond the Wastes, the Burning Decades have ended</div>
@@ -218,8 +218,11 @@
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
             <div class="timeline-item" data-date="311PA">Natan I becomes first Imperator of the Twintail, begin of the early Natan Period.</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
+            <div class="timeline-item" data-date="320PA">Urien Conquest of Kerleas begins</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
+            <div class="timeline-item" data-date="324PA">Arester betrays Kerleas and lays siege o Gullspire</div>
             <div class="timeline-item" data-date="325PA">First mention of the united Ruginë Principality</div>
+            <div class="timeline-item" data-date="327PA">The United Forces of Arester and Urland conquer Kerleas, Kerlan nobility and resistance flees into the southern  Wilderness</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
             <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
@@ -250,6 +253,7 @@
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishment of Nuv Werm</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
+            <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
@@ -261,7 +265,7 @@
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon if formed following the Battle of Wightswound</div>
-            <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends</div>
+            <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan</div>
             <div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>

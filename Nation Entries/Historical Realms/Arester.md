@@ -1,7 +1,8 @@
 %%
 [[Turvik Paganism]]
 [[Gethricism]]
-[[Kerleas]]
+[[Kerlaes]]
+[[Urland]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Arester</h4>
@@ -19,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Wheat of Gold on Shield</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -37,15 +38,15 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Province of Ares</span>
+        <span>Province of Ares, <br>New Rakh</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>PA</span>
+        <span>ca. 29PA</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>
-        <span>696PA</span>
+        <span>454PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Arestes_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>

@@ -1,8 +1,10 @@
+- 2026-08-03T1528 · Jallbreg
+- 2026-08-03T1513 · Kerlaes
+- 2026-08-03T1502 · Arester
+- 2026-08-03T1427 · Urland
+- 2026-08-03T1427 · Complete Timeline
 - 2026-08-03T1420 · Nurlight
-- 2026-08-03T1409 · Complete Timeline
-- 2026-08-03T1404 · Kerleas
 - 2026-08-03T1353 · Auguri Dominion
-- 2026-08-03T1351 · Arester
 - 2026-08-03T1340 · Vihrmen Federation
 - 2026-08-03T0225 · Thirdonis
 - 2026-08-03T0225 · Palmunia
@@ -25,7 +27,6 @@
 - 2026-08-02T2124 · Kasthemis
 - 2026-08-02T1736 · Shymon Epios
 - 2026-08-02T1735 · Vilkin
-- 2026-08-02T1522 · Jallbreg
 - 2026-08-02T1519 · Uhl
 - 2026-08-02T1511 · Muriel von Gloss
 - 2026-08-02T1509 · Viagoris
@@ -97,4 +98,3 @@
 - 2026-07-29T1253 · War of Horn and Fang
 - 2026-07-29T1242 · Tronos
 - 2026-07-29T1242 · Yeorite
-- 2026-07-29T1242 · Jevana
