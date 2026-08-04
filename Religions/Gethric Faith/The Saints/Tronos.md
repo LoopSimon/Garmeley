@@ -1,5 +1,5 @@
 %%
-[[Auguric Rite & Invocation]]
+[[Auguric Rite & Autonomous Spells]]
 [[Unliving]]
 [[Wermian Accords]]
 %%

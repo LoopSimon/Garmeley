@@ -3,7 +3,7 @@
 [[Korsfall College]]
 [[Jevana]]
 [[War of Horn and Fang]]
-[[Auguric Rite & Invocation]]
+[[Auguric Rite & Autonomous Spells]]
 [[Viagoris]]
 %%
 <div class="wiki-infobox">

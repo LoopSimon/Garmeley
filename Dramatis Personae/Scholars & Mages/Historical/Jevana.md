@@ -1,5 +1,5 @@
 %%
-[[Auguric Rite & Invocation]]
+[[Auguric Rite & Autonomous Spells]]
 [[Gelmsburg]]
 [[Zovac Harlini]]
 [[Orenburg Pact]]

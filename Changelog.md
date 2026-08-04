@@ -1,7 +1,14 @@
+- 2026-08-04T1343 · Spiritual Realm
+- 2026-08-04T1340 · Material Realm
+- 2026-08-04T1338 · Astral Realm
+- 2026-08-04T1336 · Auguric Rite & Autonomous Spells
+- 2026-08-04T1332 · Tronos
+- 2026-08-04T1332 · Yeorite
+- 2026-08-04T1332 · Muriel von Gloss
+- 2026-08-04T1332 · Jevana
+- 2026-08-04T1332 · Artificery
 - 2026-08-04T1312 · Kasthemis
 - 2026-08-04T1259 · Complete Timeline
-- 2026-08-04T1251 · Jevana
-- 2026-08-04T1250 · Auguric Rite & Invocation
 - 2026-08-04T0256 · Gelmsburg
 - 2026-08-04T0241 · Breza
 - 2026-08-04T0241 · Nuv Werm
@@ -40,7 +47,6 @@
 - 2026-08-02T1736 · Shymon Epios
 - 2026-08-02T1735 · Vilkin
 - 2026-08-02T1519 · Uhl
-- 2026-08-02T1511 · Muriel von Gloss
 - 2026-08-02T1509 · Viagoris
 - 2026-08-02T0506 · Vormil III
 - 2026-08-02T0029 · Melmer
@@ -92,9 +98,3 @@
 - 2026-07-30T0123 · Pavo of Alban
 - 2026-07-30T0046 · Immersong
 - 2026-07-29T2324 · Rulers of the Beheran Elves
-- 2026-07-29T2319 · Parneu Field
-- 2026-07-29T2317 · Suolang
-- 2026-07-29T2305 · Rash Gopal
-- 2026-07-29T2301 · Yl-Lhatsi
-- 2026-07-29T2025 · Odrick von Fulmer
-- 2026-07-29T1710 · Rulers of the Grachi
