@@ -63,6 +63,11 @@
         </div>
         <hr class=wiki-hr>
         <div class=wiki-row>
+            <strong>Empathetic Power</strong>
+            <span>Published 822PA</span>
+        </div>
+        <hr class=wiki-hr>
+        <div class=wiki-row>
             <strong>Mundi Industria</strong>
             <span>Published 836PA</span>
         </div>

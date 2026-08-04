@@ -52,9 +52,11 @@
             <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
+            <div class="timeline-item" data-date="1550BA"> End of the early cyracli Period, Begin of the Age of Cities in Cyraclion</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
-            <div class="timeline-item" data-date="1350BA">First recorded intentioal channeling on the Haira Tablets in Palmunia</div>
+            <div class="timeline-item" data-date="1350BA">First recorded intentional channeling on the Haira Tablets in Palmunia</div>
             <div class="timeline-item" data-date="1300BA">Approximate emergence of the Vokti Gnomes</div>
+            <div class="timeline-item" data-date="1285BA">Tale of Aras venture into Cyraclion</div>
             <div class="timeline-item" data-date="1266BA">Approximate Founding of the City of Samyr, modern day Mereskis</div>
             <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos at lake Kher</div>
             <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
@@ -97,6 +99,7 @@
             <div class="timeline-item" data-date="605BA">The City of Geol is build by the Vahri</div>
             <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="590BA">The League of Orestis is formed in Cevolia</div>
+            <div class="timeline-item" data-date="585BA">End of Cyracli Age of Cities as more and more city states unite under religious authorities and against threats from the east</div>
             <div class="timeline-item" data-date="575BA">Arzum Cults spread across Dandry and Geol</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
             <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
@@ -176,7 +179,7 @@
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
-              <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
+            <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
             <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="148PA">Barali Invasion of Drizan, Mogyri Shogunate takes power</div>
             <div class="timeline-item" data-date="149PA">Giants retreat beyond Waelajokull</div>
@@ -382,6 +385,7 @@
             <div class="timeline-item" data-date="716PA">Uhl is conquered by Vormil I</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy XVIII</div>
+            <div class="timeline-item" data-date="736PA">Knights of the Gryphon refound themselves at Urbridge Keep and create the Order of Urbridge in central Ur</div>
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
             <div class="timeline-item" data-date="739PA">Queen Gisela II creates the Landgraviate of Weisch on the northern Coast of Meadland</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>

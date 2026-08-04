@@ -1,5 +1,7 @@
 %%
-[[Gethricism]]
+[[Gethricism]]'
+[[Urland]]
+[[Ak-Saray]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Gelmsburg</h4>
@@ -44,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Gelmsburg_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> In Gelmsburg, the old Capital of [<a href="Urland" class="internal-link">Urland</a>, rule the Gelmish Kings, at least militarily speaking the most powerful of the petty Kings and Queens of the Urien successor states. Gelmsburg stretches from Turv and the Urhills in the North all the way to the Redwood in the south, encompassing the Gelmsgrove and most of the Field of Tears as well. Together with the southern Knights of <a href="Urbridge" class="internal-link">Urbridge</a> it represents the main bulwark against the warring <a href="Hobgoblin Tribes" class="internal-link">Hobgoblins</a> east of the Trinmo. </p>
+<p> In Gelmsburg, the old Capital of <a href="Urland" class="internal-link">Urland</a>, rule the Gelmish Kings, at least militarily speaking the most powerful of the petty Kings and Queens of the Urien successor states. Gelmsburg stretches from Turv and the Urhills in the North all the way to the Redwood in the south, encompassing the Gelmsgrove and most of the Field of Tears as well. Together with the southern Knights of <a href="Urbridge" class="internal-link">Urbridge</a> it represents the main bulwark against the warring <a href="Ak-Saray" class="internal-link">Hobgoblins</a> east of the Trinmo. </p>
 
 <h2>People of Interest</h2>
 

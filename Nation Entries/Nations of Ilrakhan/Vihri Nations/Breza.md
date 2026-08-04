@@ -45,4 +45,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Breza_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p> Breza is one of the major Vadcy within Vihr, it holds parts of the northern Expanse and the lands of the central Tryd River. Home to Trydlew, the hold capital of the Vihrmen, it is a cultural and historic Vadcy within Vihr and Home to the famous Knights of the Unicorn. </p>
+<p> Breza is one of the major Vadcy within Vihr, it holds parts of the northern Expanse and the lands of the central Tryd River. Home to Trydlew, the old capital of the Vihrmen, it is a cultural and historically very important region within Vihr and Home to the famous Knights of the Unicorn. </p>
