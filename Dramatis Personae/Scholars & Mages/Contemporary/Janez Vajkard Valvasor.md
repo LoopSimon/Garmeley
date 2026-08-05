@@ -56,7 +56,7 @@
             <h4>Important Published Works</h4>
         </div>
         <div class=wiki-row>
-            <strong>Form & Ideal: Kilvins Planar Model</strong>
+            <strong>Form & Ideal: A brief history of planar modelling</strong>
             <span>Published 912PA</span>
         </div>
         <hr class=wiki-hr>

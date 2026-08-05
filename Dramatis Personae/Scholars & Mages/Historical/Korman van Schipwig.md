@@ -34,7 +34,7 @@
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>
-        <span><a href="Galiatar Inkfingers" class="internal-link">Galiatar Inkfingers</a></span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Known Students</strong>

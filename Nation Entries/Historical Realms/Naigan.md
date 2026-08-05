@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        
+        <span><a href="Sochor" class="internal-link">Sochorism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

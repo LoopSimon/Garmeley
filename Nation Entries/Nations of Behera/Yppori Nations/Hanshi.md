@@ -1,5 +1,7 @@
 %%
-
+[[Naigan]]
+[[The Discovery of Sirenna]]
+[[Sochor]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Divine Queendom of Hanshi</h4>
@@ -22,7 +24,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        
+        <span><a href="Sochor" class="internal-link">Sochorism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
