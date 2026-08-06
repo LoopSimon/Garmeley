@@ -1,3 +1,5 @@
+- 2026-08-07T0105 · Hien-Ro
+- 2026-08-07T0100 · Sochor
 - 2026-08-07T0018 · Revelle
 - 2026-08-07T0015 · Ravland
 - 2026-08-07T0015 · Nahr
@@ -38,7 +40,6 @@
 - 2026-08-05T1557 · Janez Vajkard Valvasor
 - 2026-08-05T1555 · Vilkin
 - 2026-08-05T0543 · Falt
-- 2026-08-05T0527 · Sochor
 - 2026-08-05T0515 · Naigan
 - 2026-08-05T0515 · Hanshi
 - 2026-08-05T0514 · Byamon
@@ -97,4 +98,3 @@
 - 2026-08-02T0002 · Varald I
 - 2026-08-02T0000 · Trazlov Consortium
 - 2026-08-02T0000 · Sons of Kasimir
-- 2026-08-01T2357 · Wermia
