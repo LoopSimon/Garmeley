@@ -1,6 +1,7 @@
 %%
 [[Sochor]]
 [[Byamon]]
+[[Sirenna]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"> Nophoy Hien-Ro</h4>
@@ -26,7 +27,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>888PA, Byamon</span>
+        <span>888PA, <a href="Byamon" class="internal-link">Byamon</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Age</strong>
