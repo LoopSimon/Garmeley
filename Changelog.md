@@ -1,4 +1,19 @@
-- 2026-08-07T0000 · Battvia
+- 2026-08-07T0018 · Revelle
+- 2026-08-07T0015 · Ravland
+- 2026-08-07T0015 · Nahr
+- 2026-08-07T0014 · Erlmondy
+- 2026-08-07T0014 · Tintarol
+- 2026-08-07T0013 · Rogyn
+- 2026-08-07T0013 · Lissvalley
+- 2026-08-07T0013 · Korwyn
+- 2026-08-07T0012 · Droil
+- 2026-08-07T0011 · Cimfon
+- 2026-08-07T0011 · Turpador
+- 2026-08-07T0009 · Paper Cities
+- 2026-08-07T0008 · Martella
+- 2026-08-07T0007 · Jeledo
+- 2026-08-07T0004 · Firocco
+- 2026-08-07T0004 · Battvia
 - 2026-08-06T2328 · Niedrest
 - 2026-08-06T2326 · Nied
 - 2026-08-06T2311 · Dainosticism
@@ -63,9 +78,6 @@
 - 2026-08-03T0136 · Augurism
 - 2026-08-03T0117 · Panrity
 - 2026-08-03T0043 · Knights of the Green Tree
-- 2026-08-03T0036 · Erlmondy
-- 2026-08-03T0036 · Cimfon
-- 2026-08-03T0035 · Lissvalley
 - 2026-08-02T2251 · Filip of Leston
 - 2026-08-02T2250 · Isa Tereggio
 - 2026-08-02T2250 · Horatio Tuliper
@@ -86,15 +98,3 @@
 - 2026-08-02T0000 · Trazlov Consortium
 - 2026-08-02T0000 · Sons of Kasimir
 - 2026-08-01T2357 · Wermia
-- 2026-08-01T1338 · Elena Montegru
-- 2026-08-01T1334 · Mikael Bivaldi
-- 2026-08-01T1321 · Shasha Gurnakov
-- 2026-08-01T0326 · Joakim zi Szarbel
-- 2026-08-01T0257 · Larkomas
-- 2026-07-31T1702 · Korwyn
-- 2026-07-31T1655 · Lissean
-- 2026-07-31T1555 · Theresa Salbridge
-- 2026-07-31T1546 · Gaden
-- 2026-07-31T1510 · Gnome
-- 2026-07-31T0552 · Opuzna
-- 2026-07-31T0549 · Vihr
