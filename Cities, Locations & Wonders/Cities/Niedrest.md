@@ -128,7 +128,7 @@ Niedrest has a sizable population of Gnomish residents who almost exclusively re
 <h4>Frieda's Well</h4>
 <p>Located in the center of Frieda’s Plaza within Wellstone. It is an elaborate stone gazebo with a bronze statue of Frieda, a legendary peasant woman who supposedly saved the city from a siege by poisoning the enemy water supply. This is the Speaker’s Corner of the city where Heralds read proclamations  and rabble-rousers stand on crates to shout about the price of grain.</p>
 <h4>The Glass Palace</h4>
-<p>The residence of the City Keeper on the Eastern Bank. It is not made entirely of glass, but it features floor-to-ceiling windows on the river-facing side—an obscene display of wealth given the cost of glass and heating. At night, it glows like a lantern, illuminated by hundreds of beeswax candles, the building sarcastically symbolizes the "transparency" of the Republic  and the dominance of the Von Junkel family.</p>
+<p>Originally the residence of the the residence of the Wealsworth Family, now the home to the City Keeper on the Eastern Bank. It is not made entirely of glass, but it features floor to ceiling windows on the river facing side, an obscene display of wealth given the cost of glass and heating. At night, it glows like a lantern, illuminated by hundreds of beeswax candles, the building sarcastically symbolizes the "transparency" of the Republic  and the dominance of the Von Junkel family.</p>
 
 
 <h2>Economy</h2>

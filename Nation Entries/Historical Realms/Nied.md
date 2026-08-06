@@ -22,7 +22,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Three Gryphons on Blue Ground</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -52,7 +52,7 @@
         <span>775PA</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Nied_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Trinvale_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Duchy of Nied was one of the most important and richest subjects to the Crown of <a href="Urland" class="internal-link">Urland</a> during the Kingdoms reign, being ruled from the old city of Calmbrook as the essential heir to the conquered lands of  <a href="Kerlaes" class="internal-link">Kerlaes</a> by northern nobility and a new, urlander elite that made sure the southern most parts of the kingdom were kept loyal. After the Fall of Urland and the failed plot of Ricter of Gelmsburg, the old Duke of Nied, Jasper of Nied, saw himself cut off to the majority of the urien powers at <a href="Eldmar" class="internal-link">Eldmar</a> and <a href="Gelmsburg" class="internal-link">Gelmsburg</a> and declared he would rule the Duchy as a true successor to Urland till the day a righteous heir to the Gryphon Throne was found. Thusly in 696PA, the Duchy of Nied became a self sufficient and autonomous realm in Ur, lasting for nearly a century until the infamous Wealsworth Incident of 768PA and the subsequent formation of the <a href="Trinvale" class="internal-link">Trinvale Republics</a> in 775PA. </p>
 <p>In 768, Valian Wealsworth, Count of Niedrest raped and killed the young Mary Gallersby, daughter of Edmund Gallersby one of the richest patricians of the city, during the night of the midsummer celebrations after a party at the Glass Palace, the residence of the Wealsworths. What followed was a large scale revolt of essentially all local patricians against the old nobility that had long been seen as arrogant leeches on the industrious city, the Glass Palace was stormed by a massive mob assisted by hired mercenaries and a large contingent of the City Guard that turned coat in light of the rich burghers paying coffers. Valian himself managed to flee the City to Calmbrook, however any noble of note remaining within the city that would not openly support the new regime, calling itself the "Council of the Good and Free" was executed at Hangmans Square. Duke Henry of Nied offered Wealsworth assitance and, considering the whole affair a poor mismanagement of a few rowdy criminals, assembled a small army made of local mercenaries and the Ducal Guard to march on Niedrest himself and put down the criminals. Unbeknownst to him, the Council of the Good and Free had expected the quick reaction and bought out many of the hired mercs beforehand, as well as cooperating with many patricians and burghers in the neighbouring cities of Lindahall, Zacin, Gullspire and Calmbrook itself, to plan a full fledged regional rebellion and war against the Duke and his loyalists.</p>
