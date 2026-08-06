@@ -1,3 +1,6 @@
+- 2026-08-06T1450 · Ur
+- 2026-08-06T1438 · Complete Timeline
+- 2026-08-06T1433 · Arester
 - 2026-08-05T1900 · Jan van Swarn
 - 2026-08-05T1858 · Shymon Epios
 - 2026-08-05T1857 · Gharel Talnod
@@ -6,7 +9,6 @@
 - 2026-08-05T1555 · Vilkin
 - 2026-08-05T0543 · Falt
 - 2026-08-05T0527 · Sochor
-- 2026-08-05T0516 · Complete Timeline
 - 2026-08-05T0515 · Naigan
 - 2026-08-05T0515 · Hanshi
 - 2026-08-05T0514 · Byamon
@@ -37,7 +39,6 @@
 - 2026-08-03T2052 · Eldmar
 - 2026-08-03T1557 · Garmeley
 - 2026-08-03T1556 · Trinvale
-- 2026-08-03T1551 · Arester
 - 2026-08-03T1528 · Jallbreg
 - 2026-08-03T1513 · Kerlaes
 - 2026-08-03T1427 · Urland
@@ -97,4 +98,3 @@
 - 2026-07-31T0325 · Wargel
 - 2026-07-31T0321 · Risfalt
 - 2026-07-31T0317 · Mear
-- 2026-07-31T0316 · Gesellschaft für Westmeadischen Handel

@@ -76,6 +76,7 @@
             <div class="timeline-item" data-date="1040BA">Approximate creation of surface cities outside Ximsalim-Vokt</div>
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1004BA">First Mention of Spurshey swamp settlements in Danbry from Vahri records </div>
+            <div class="timeline-item" data-date="1000BA">The Lands of Ur are dominated by what would later become the tribes of Garm, Gim, Turv, Urna and Ares</div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
