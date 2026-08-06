@@ -230,6 +230,7 @@
             <div class="timeline-item" data-date="327PA">The United Forces of Arester and Urland conquer Kerleas, Kerlan nobility and resistance flees into the southern  Wilderness</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
+            <div class="timeline-item" data-date="332PA">The Duchy of Nied is created by the Kings of Urland to oversee old Kerlaen</div>
             <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
@@ -405,7 +406,8 @@
             <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
-            <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
+            <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog, Wealsworth Incident in the Trinvale</div>
+            <div class="timeline-item" data-date="775PA">Wealsworth Incident is resolved, Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith</div>
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>

@@ -1,3 +1,6 @@
+- 2026-08-06T1944 · Nied
+- 2026-08-06T1944 · Complete Timeline
+- 2026-08-06T1943 · Trinvale
 - 2026-08-06T1901 · Izhevk
 - 2026-08-06T1901 · Elbae
 - 2026-08-06T1728 · Trazlova
@@ -10,7 +13,6 @@
 - 2026-08-06T1459 · Ilrakhan
 - 2026-08-06T1459 · Arester
 - 2026-08-06T1450 · Ur
-- 2026-08-06T1438 · Complete Timeline
 - 2026-08-05T1900 · Jan van Swarn
 - 2026-08-05T1858 · Shymon Epios
 - 2026-08-05T1857 · Gharel Talnod
@@ -47,7 +49,6 @@
 - 2026-08-04T0202 · Urbridge
 - 2026-08-03T2052 · Eldmar
 - 2026-08-03T1557 · Garmeley
-- 2026-08-03T1556 · Trinvale
 - 2026-08-03T1528 · Jallbreg
 - 2026-08-03T1513 · Kerlaes
 - 2026-08-03T1427 · Urland
@@ -97,4 +98,3 @@
 - 2026-07-31T0547 · Human
 - 2026-07-31T0541 · Meadrath
 - 2026-07-31T0413 · Dirneux
-- 2026-07-31T0413 · Gisela IV

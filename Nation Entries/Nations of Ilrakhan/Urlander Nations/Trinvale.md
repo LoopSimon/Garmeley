@@ -37,15 +37,16 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span><a href="Urland" class="internal-link">Urland</a>,<br><a href="Arester" class="internal-link">Arester</a>,<br><a href="Kerlaes" class="internal-link">Kerlaes</a></span>
+        <span><a href="Nied" class="internal-link">Duchy of Nied</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>703PA</span>
+        <span>775PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Trinvale_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
  <p> The Trinvale Republic is situated at the southern foot of the mighty Kortopi and easily the richest and most prosperous of all the <a href="Urland" class="internal-link">Urien</a> Successor states, due to its position at the Pass of <a href="Ogul-Vosko" class="internal-link">Ogul-Vosko</a> it is the main way through with trade from <a href="Battvia" class="internal-link">Battvia</a> and the <a href="Paper Cities" class="internal-link">Buteran Gulf</a> flows into rich <a href="Garmeley" class="internal-link">Garmeley</a> and the other Towns and Cities of Urland.</p>
+ <p>The Republic was founded as a Union of cities along the southern Trinmo in the year 775PA, following the Wealsworth Incident of 774PA.</p>
  <h2>People of Interest</h2>
  
  Rimond of Niedrest
