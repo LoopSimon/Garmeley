@@ -4,6 +4,7 @@ Dainosticism is a response to the thought experiment of the Sabaor, both extreme
 A Sabaor describes a projection of ones consciousness itself, capable of manipulating the waking mind, one can - on an elemental level - consider any creature, environment, fact or thought itself a Sabaor. 
 Naturally such thinking quickly leads one down a rather absolute view of existence, if anything one considers can be a Sabaor, and at the core of a Sabaors nature lies its nature as an intrinsic part of oneself, then there is not much left to consider other than the motive behind any given Sabaor itself.
 
+Various elements of Dainosticism can be found within obscure cults of far east-nyrdian Falt Truthers, groups of people who believe that the Dainos is all that prevents that was it from becoming that what never was and swallows that what could be, the [[Falt]] .
 
 Classic Dainosticism asks, accepting the Sabaor as conceptually un-disprovable reality, what remains but the search for motive, for that is the nature of the very philosophy.
 If the "Great Sabaor", meaning the total denial of anything originating from outsides ones mind, truly exists, then what is the motive behind its precise nature as ones specific perceived reality.

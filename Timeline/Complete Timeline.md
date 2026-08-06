@@ -14,6 +14,8 @@
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
 	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
+	        <div class="timeline-item" data-date="14500BA">Zamiili Event, areas around the northern pole experience rapid cooling, while the southern hemisphere experiences warming</div>
+	        <div class="timeline-item" data-date="14450BA">Zamiili Event, The period of temperature change ends rapidly, with dramatic warming over five decades, the impact crater at Sirenna known as the Giolad is dated to this period</div>
 	        <div class="timeline-item" data-date="11000BA">Approximate Beginning of the Diastic Reversal in Hykmar</div>
 	        <div class="timeline-item" data-date="10500BA">Diastic Reversal and Hykmari Collapse</div>
 	        <div class="timeline-item" data-date="8000BA">Gnomish Period of Migration</div>
@@ -404,10 +406,11 @@
             <div class="timeline-item" data-date="763PA">Gethric Pogroms begin</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire</div>
+            <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
-            <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog, Wealsworth Incident in the Trinvale</div>
-            <div class="timeline-item" data-date="775PA">Wealsworth Incident is resolved, Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
+            <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
+            <div class="timeline-item" data-date="775PA">Following their successful Revolution, the Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith</div>
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
