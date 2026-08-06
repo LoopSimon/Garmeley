@@ -1,3 +1,5 @@
+- 2026-08-07T0117 · Stefano Maldini
+- 2026-08-07T0109 · Jeledo
 - 2026-08-07T0107 · Hien-Ro
 - 2026-08-07T0100 · Sochor
 - 2026-08-07T0018 · Revelle
@@ -13,7 +15,6 @@
 - 2026-08-07T0011 · Turpador
 - 2026-08-07T0009 · Paper Cities
 - 2026-08-07T0008 · Martella
-- 2026-08-07T0007 · Jeledo
 - 2026-08-07T0004 · Firocco
 - 2026-08-07T0004 · Battvia
 - 2026-08-06T2328 · Niedrest
@@ -97,4 +98,3 @@
 - 2026-08-02T0022 · Baeling Empire
 - 2026-08-02T0002 · Varald I
 - 2026-08-02T0000 · Trazlov Consortium
-- 2026-08-02T0000 · Sons of Kasimir
