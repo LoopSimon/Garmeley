@@ -1,6 +1,6 @@
+- 2026-08-06T1459 · Arester
 - 2026-08-06T1450 · Ur
 - 2026-08-06T1438 · Complete Timeline
-- 2026-08-06T1433 · Arester
 - 2026-08-05T1900 · Jan van Swarn
 - 2026-08-05T1858 · Shymon Epios
 - 2026-08-05T1857 · Gharel Talnod
