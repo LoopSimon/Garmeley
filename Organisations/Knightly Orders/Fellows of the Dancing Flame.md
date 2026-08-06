@@ -1,8 +1,8 @@
 %%
-[[Battvia]]
 [[Trinicism]]
 [[Oresti Pantheon]]
-[[Nation Entries/Historical Realms/Cevolis]]
+[[Stefano Maldini]]
+[[Luminists]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/dancingflame_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Banner of the Dancing Flame</i></small>
@@ -11,3 +11,4 @@
 <p>Founded in the early 5th Century during the time of the <a href="Cevolis" class="internal-link">Great Kingdom of Cevolis</a>, it grew out of a hard-line sect of Gethric priests that sought to purge clerical corruption and the degeneracy of the ruling nobility, that often still practiced the faith of the <a href="Cevolian Pantheon" class="internal-link">ancient cevoli gods</a>.</p>
 <p>The Order was active during almost all cevoli wars, notably excluding the battvian civil war and the vorellan Wars, causing a shade of mistrust to fall on them from the royal Court of Battvia in recent times. Their headquarter lies within the Fortress Complex of Teggio in eastern Cevolia and the current Great Master of the Fellows is <a href="Giuseppe Dimandi" class="internal-link">Giuseppe Dimandi</a>.</p>
 <p>The Knights practice Trinicist ideals and are critics of clerical institutional power, although the Fellows have become an almost worldly power themselves over the centuries, holding vast amounts of lands, riches and businesses within the region.</p>
+<p>In recent times, the Knights have joined a political coalition together with the <a href="Luminists" class="internal-link">Luminist movement</a> under <a href="Viccolo di Pora" class="internal-link">Viccolo di Pora</a> and the <a href="Trinicism" class="internal-link">trinic Conclave of Cevolia</a> under <a href="Stefano Maldini" class="internal-link">Bishop Stefano Maldini</a>, and begun to exert greater political control upon academia, ruling nobility and the cevoli clergy to potentially usher in a new age and end the current self declared "Age of Decadence and Decline" of the once proud cevoli peoples.</p>
