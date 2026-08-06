@@ -61,7 +61,7 @@
 <p>Grachy is located in southern and central <a href="Nostroya" class="internal-link">Nostroya</a>, on the eastern shores of the Torn Sea, its coastal regions possess a more maritime climate with cooler summers and milder winters, while northern and eastern parts of the country exhibit a more continental climate with warmer summers and harsher winters. </p>
 <p>Grachy is bordered by the Grachhyll in the south and the Mistspires in the East, it stretches as far north as the Stillwater River before the Ukiollan border begins. Forests dominate Grachy substantially but flatlands and farmlands are still to be found, especially within the central Gasyol Region of the country, a vast majority of the countries population lives in the southern coastal areas and around the Halgior River. Grachy is usually divided into the Lands north and south of the Halgrior River, although often times a division between east and west would be more apt, considering the wealth distribution within the Republic.</p>
 
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grachy_map.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Grachy1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <small><i>A map of Grachy, dated 927PA</i></small>
 

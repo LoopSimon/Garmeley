@@ -10,7 +10,9 @@
 %%
 
 <p>Nostroya or in Grachi "new home" is the grachi and commonly used term for the Lands beyond the Grachhyll, including the Aeldveil and the Waelajokull.</p>
-
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Nostroya1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+<small><i>Nostroya, 927PA</i></small>
+</div>
 <h2>A broad history of Nostroya</h2>
 <p>The Giantsrul describes a period of time where the mysterious Giants of the north ruled both the spiritual and material world, commanding both men and fey to their will, it is a period almost entirely shrouded in myth and fables, the Giants were said to dominate Trykkerog and Nostroya but vanished beyond the Heavens Furrow for unknown reasons in the 2nd century PA, although Pehki history as far as we know it has them abandoning the southern lands far earlier in any meaningful way.</p>
 
