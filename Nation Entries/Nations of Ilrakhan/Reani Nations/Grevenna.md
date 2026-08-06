@@ -59,7 +59,7 @@
 <p>Grevenna is dominated by the Pilv and Opuzna rivers and borders both the Stormy and Sunny Sea in its south, its north is home to the Edessa mountains and within central Grevenna lie the Ebonhills, a mountainous and hilly region exceptionally rich in rare mineral deposits.</p>
 <p>The Region of Pilvia is mostly subtropical, featuring a mediterranean climate, with sunny, hot, dry summers and mild winters. Winter temperatures are moderated by the Stormy and Sunny Sea; days of frost are rare. Kisnau and the southern Opuzna are sheltered by the Edessa Mountains north of Pilvia, snow on the coast is rare, falling on average once every 10 years, in the mountainous north, snow is present from November to February.</p>
 
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Grevenna_map.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Pilvia1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <small><i>A map of Pilvia including Reanport and Grevenna, dated 927PA</i></small>
 <h2>Demographics</h2>
