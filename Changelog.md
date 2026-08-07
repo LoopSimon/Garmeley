@@ -1,5 +1,7 @@
+- 2026-08-07T1241 · Oleksandr IV
+- 2026-08-07T1239 · Brothers War
+- 2026-08-07T1239 · Complete Timeline
 - 2026-08-07T1235 · Uhl
-- 2026-08-07T1234 · Complete Timeline
 - 2026-08-07T1159 · Urbridge
 - 2026-08-07T1151 · Sochor
 - 2026-08-07T1150 · Institute for Practical Energies
@@ -146,5 +148,3 @@
 - 2026-07-29T2317 · Suolang
 - 2026-07-29T2305 · Rash Gopal
 - 2026-07-29T2301 · Yl-Lhatsi
-- 2026-07-29T2025 · Odrick von Fulmer
-- 2026-07-29T1710 · Rulers of the Grachi

@@ -438,9 +438,9 @@
             <div class="timeline-item" data-date="819PA">Meynar of Jorrensteads "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
-            <div class="timeline-item" data-date="822PA">Brothers War begins</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins</div>
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
+            <div class="timeline-item" data-date="828PA">Brothers War begins</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
             <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed, left crippled in an assassination attempt known as the Fiseux Uprising</div>
