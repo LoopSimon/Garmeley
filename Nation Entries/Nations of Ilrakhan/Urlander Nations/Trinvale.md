@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Urlander Gryphon behind Castle</span>
+        <span>Maiden with Bloody Sword</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -43,10 +43,11 @@
         <strong>Formed</strong>
         <span>775PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Trinvale_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Trinvale_Republic_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
  <p> The Trinvale Republic is situated at the southern foot of the mighty Kortopi and easily the richest and most prosperous of all the <a href="Urland" class="internal-link">Urien</a> Successor states, due to its position at the Pass of <a href="Ogul-Vosko" class="internal-link">Ogul-Vosko</a> it is the main way through with trade from <a href="Battvia" class="internal-link">Battvia</a> and the <a href="Paper Cities" class="internal-link">Buteran Gulf</a> flows into rich <a href="Garmeley" class="internal-link">Garmeley</a> and the other Towns and Cities of Urland.</p>
- <p>The Republic was founded as a Union of cities along the southern Trinmo in the year 775PA, following the Wealsworth Incident of 768PA.</p>
+ <p>The Republic was founded as a Union of cities along the southern Trinmo in the year 775PA, following the Wealsworth Incident of 768PA. Its two most prominent cities are the influential trading hubs and industrious powerhouses of Niedrest and Calmbrook, although it includes many more towns and communities under its economic and military umbrella.</p>
+ <p>Trinvale borders the Kerlaen Wilderness to the south, a region pestered by robbers, bandits and worse creatures, although nominally projecting control and ownership across its rollings hills and dense forests, these areas are essentially nomansland due to the simple fact they are economically of little relevance considering all that lies beyond are the uninhabitable and dangerous rakhi Wastelands.</p>
  <h1>History</h1>
 <small><i>for the Founding History of the Republic see <a href="Nied" class="internal-link">the Wealsworth Incident</a></i></small>
  <h2>People of Interest</h2>

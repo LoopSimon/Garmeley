@@ -4,7 +4,7 @@
 [[Naigan]]
 [[Hanshi]]
 %%
-<p>Sochor is the Ashen God of Judgement and Chance, mythical Son of Chenza, and brother to Doi-tor and Mezhan. Sochor worship is mostly spread by the followers of his main temple, in the eastern Jungles of Kaito, who travel throughout the world either as Acolytes on personal Pilgrimages or later on as wandering Judges. Sochorism is the primarily religion in Hano and the national faith of <a href="Byamon" class="internal-link">Byamon</a> and <a href="Hanshi" class="internal-link">Hanshi</a>, as well as the <a href="Naigan" class="internal-link">Great Empire of Naigan</a> before them.</p>
+<p>Sochor is the Ashen God of Judgement and Chance, mythical Son of Chenza, and brother to Doi-tor and Mezhan. Sochor worship is mostly spread by the followers of his main temple, in the eastern Jungles of Kaito, who travel throughout the world either as Acolytes on personal Pilgrimages or later on as wandering Judges. Sochorism is the primarily religion in Kaito and the national faith of <a href="Byamon" class="internal-link">Byamon</a> and <a href="Hanshi" class="internal-link">Hanshi</a>, as well as the <a href="Naigan" class="internal-link">Great Empire of Naigan</a> before them.</p>
 
 <p>As a Deity of Law Sochor embodies this specifically in the aspect of absolute impartial Fate, his holy symbol and Sign of Worship is the Coin, representing unbiased Judgement. Usually depicted as a tall male figure of pale Ashen skin with dark hair and in robes holding a coin in his hand, when not portrayed as an individual on a painting or statue, he can commonly be seen as the central middle sibling between his older Brother Doi-tor and his younger Brother Mezhan.</p>
 
