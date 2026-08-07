@@ -1,3 +1,4 @@
+- 2026-08-07T1348 · Acceleration Theory
 - 2026-08-07T1243 · Oleksandr IV
 - 2026-08-07T1239 · Brothers War
 - 2026-08-07T1239 · Complete Timeline
@@ -147,4 +148,3 @@
 - 2026-07-29T2319 · Parneu Field
 - 2026-07-29T2317 · Suolang
 - 2026-07-29T2305 · Rash Gopal
-- 2026-07-29T2301 · Yl-Lhatsi
