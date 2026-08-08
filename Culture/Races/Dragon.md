@@ -19,7 +19,7 @@ A list of known Dragons
 	but there are those who believe Thamira may not have been a Dragon at all, but instead perhaps a creation of the "Great Sculptor" or even an entity from beyond our Plane of existence.
 
 ***Noor-Rah***
-	also known as "the Wurm of Limsul", this entity is rumoured to live within the Limsul Peaks, worshipped by the Kobolds of [[Rha-Gis]] as their living God.
+	also known as "the Wurm of Limsul", this entity is rumoured to live within the Limsul Peaks, worshipped by the Bihra of [[Rha-Gis]] as their living God.
 
 ***Rasmur***
 	 Within *"The Fated Journey of Khariel"*, this crimson dragon was mentioned as Thamiras lover that abandoned her. This story is likely associated with the same beast seen in the northern mistspires, rarely descending the mountains. Rasmur is said to have last been sighted at Farsen Peak in the 6th century PA.

@@ -167,8 +167,8 @@
 			Spoken by the Satyrs of lost Cyraclion.
 			</div>
 			<div class="v-center">
-			<h4>Nirydian</h4>
-			Spoken by the Kobold Khaganates of eastern Nirydia.
+			<h4>Lihbare</h4>
+			Spoken by the Bihra Cultures of wester Nirydia.
 			<h4>Tallspeak</h4>
 			Spoken by the ogre clans and trolls of the world, related to Giantspeak.
 			<h4>Grippli</h4>

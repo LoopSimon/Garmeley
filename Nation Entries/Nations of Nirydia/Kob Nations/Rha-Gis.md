@@ -1,5 +1,5 @@
 %%
-[[Kobold]] [[Kobold Shamanism]][[Dragon]]
+[[Bihra]] [[Bihra Shamanism]][[Dragon]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Rhagi <a href="Kobold Shamanism" class="internal-link">Shamanism</a></span>
+        <span><a href="Vas Ira" class="internal-link">Vas Ira Traditions</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

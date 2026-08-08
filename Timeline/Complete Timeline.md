@@ -100,7 +100,7 @@
             <div class="timeline-item" data-date="615BA">First records of Gorati cities</div>
             <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
             <div class="timeline-item" data-date="605BA">The City of Geol is build by the Vahri</div>
-            <div class="timeline-item" data-date="600BA">Rohu-Kobold Culture dominates western Nirydia</div>
+            <div class="timeline-item" data-date="600BA">Rohu Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="590BA">The League of Orestis is formed in Cevolia</div>
             <div class="timeline-item" data-date="585BA">End of Cyracli Age of Cities as more and more city states unite under religious authorities and against threats from the east</div>
             <div class="timeline-item" data-date="575BA">Arzum Cults spread across Dandry and Geol</div>
@@ -180,6 +180,7 @@
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
+            <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
@@ -312,7 +313,7 @@
         <h3>Age of Steel</h3>
         <div class="timeline-list">
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
-            <div class="timeline-item" data-date="582PA">Kobolds form Rha-Gis in the Limsul Peaks</div>
+            <div class="timeline-item" data-date="582PA">Bihra form Rha-Gis in the Limsul Peaks</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="586PA">Meadi reconquest of northern Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>

@@ -1,40 +1,42 @@
 %%
 [[Xolor]]
+[[Keywars]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Divine Commune of Pervantes</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Theocracy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span></span>
+        <span>N/A</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+        <span>Ohohl</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Vanpuri Mandigma</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span></span>
+        <span>Xolori Starworship</span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Direnni <a href="Xolor" class="internal-link">Xolor</a></span>
+        <span><a href="Xolor" class="internal-link">Xolor</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Xolor</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span>Grasslords of Ub</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Vanpur_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
