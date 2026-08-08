@@ -1,3 +1,5 @@
+- 2026-08-08T1631 · Khaba
+- 2026-08-08T1625 · Joakim zi Szarbel
 - 2026-08-08T1615 · Welcome
 - 2026-08-08T1520 · Complete Timeline
 - 2026-08-08T1444 · Vishams Question
@@ -143,8 +145,6 @@
 - 2026-08-01T1338 · Elena Montegru
 - 2026-08-01T1334 · Mikael Bivaldi
 - 2026-08-01T1321 · Shasha Gurnakov
-- 2026-08-01T0326 · Joakim zi Szarbel
 - 2026-07-31T1655 · Lissean
 - 2026-07-31T1555 · Theresa Salbridge
 - 2026-07-31T1510 · Gnome
-- 2026-07-31T0552 · Opuzna

@@ -31,7 +31,7 @@
         <span>Positive & Negative Planar Energy<br>, Divination,<br>Hemomancy</span>
     </div>
     <hr class="wiki-hr">
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Dean.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>A vihri Bishop and Scholar during the 8th century, Joakim Karel Margo zi Szarbel is most famous for his contributions to clerical traditions and the application of arcane principles to divine casting as well as his avid support of anti elven policies and the Gethric Pogroms following the first Elbae War. He is hailed as a great member of both the Church and vihri Academia by the modern day gethric and especially vihri establishment but viewed in a darker light in the western canon.</p>
