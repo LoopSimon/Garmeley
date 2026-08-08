@@ -6,7 +6,11 @@
         <h3>Age of Stone</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="300000BA">Likely evolution of the modern human in southern Behera</div>
+	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
+	        <div class="timeline-item" data-date="130000BA">Oldest evidence of ancient seafaring from the island of Sarash</div>
 	        <div class="timeline-item" data-date="120000BA">Age of Ash</div>
+	        <div class="timeline-item" data-date="110000BA">Astafir develop sentience</div>
+	        <div class="timeline-item" data-date="100000BA">Earliest evidence for upright Bihra in southern Nirydia</div>
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
