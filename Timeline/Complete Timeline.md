@@ -180,6 +180,7 @@
             <div class="timeline-item" data-date="77PA">Esimated birth of Kortyr Paleblood</div>
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
             <div class="timeline-item" data-date="81PA">Heximar the Unlit is slain by Gismar</div>
+            <div class="timeline-item" data-date="90PA">Estimated creation of the Pragala by Durenni Bihra</div>
             <div class="timeline-item" data-date="99PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
