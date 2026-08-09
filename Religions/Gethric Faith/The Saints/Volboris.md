@@ -10,4 +10,4 @@
 <small><i>Saint Volboris</i></small>
 </div>
 <p>Saint Volboris the Healer represents Law and Healing within the Gethric Canon, his favoured Weapon is the Morningstar.</p>
-<p>A friend and companion of Gethric in life, Volboris founded the Iztaw Clergy and the Church as an Institution. He was the first High-Bishop of the Church and is responsible for the majority of the Divine Liturgy. He is part of the Iztaw Three that fought during the <a href="The Incursion" class="internal-link">Incursions</a> , alongside <a href="Razmyr" class="internal-link">Razmyr</a> and <a href="Gethric" class="internal-link">Gethric</a>.</p>
+<p>A friend and companion of Gethric in life, Volboris founded the Iztaw Clergy and the Church as an Institution. He was the first High-Bisop of the Church and is responsible for the majority of the Divine Liturgy. He is part of the Iztaw Three that fought during the <a href="The Incursion" class="internal-link">Incursions</a> , alongside <a href="Razmyr" class="internal-link">Razmyr</a> and <a href="Gethric" class="internal-link">Gethric</a>.</p>

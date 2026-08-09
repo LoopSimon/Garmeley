@@ -1,5 +1,9 @@
+- 2026-08-09T1418 · Cockatrice
+- 2026-08-09T1417 · Hubert of Tanverley
+- 2026-08-09T1344 · Codex Thereticum
+- 2026-08-09T1247 · Vormil III
+- 2026-08-09T1136 · Volboris
 - 2026-08-09T1135 · Tronos
-- 2026-08-09T1132 · Volboris
 - 2026-08-09T1131 · Razmyr
 - 2026-08-09T1128 · Yelena
 - 2026-08-09T1127 · Vazena
@@ -143,8 +147,4 @@
 - 2026-08-02T2250 · Isa Tereggio
 - 2026-08-02T2250 · Horatio Tuliper
 - 2026-08-02T2250 · Alana Czery
-- 2026-08-02T2239 · Codex Thereticum
 - 2026-08-02T2223 · Starworship
-- 2026-08-02T2222 · Cyclopi
-- 2026-08-02T2220 · Pixos
-- 2026-08-02T2214 · Aessymia
