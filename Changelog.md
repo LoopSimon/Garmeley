@@ -1,5 +1,20 @@
+- 2026-08-09T1128 · Yelena
+- 2026-08-09T1127 · Vazena
+- 2026-08-09T1127 · Tronos
+- 2026-08-09T1127 · Razmyr
+- 2026-08-09T1127 · Ralond
+- 2026-08-09T1127 · Palus
+- 2026-08-09T1127 · Melmer
+- 2026-08-09T1127 · Lyandra
+- 2026-08-09T1127 · Kifrir
+- 2026-08-09T1127 · Kasimir
+- 2026-08-09T1127 · Igor
+- 2026-08-09T1127 · Fredric
+- 2026-08-09T1127 · Dorian
+- 2026-08-09T1126 · Andre
+- 2026-08-09T1126 · Markur
+- 2026-08-09T1124 · Avero
 - 2026-08-09T1119 · Gelmsburg
-- 2026-08-09T1118 · Andre
 - 2026-08-09T1115 · Muriel von Gloss
 - 2026-08-08T2150 · Falt
 - 2026-08-08T2144 · Firbolg
@@ -32,7 +47,6 @@
 - 2026-08-08T0727 · Twintail Imperium
 - 2026-08-08T0727 · Suzana Dragović
 - 2026-08-08T0727 · Spiritual Realm
-- 2026-08-08T0727 · Ralond
 - 2026-08-08T0726 · Modern Realmatic Theory
 - 2026-08-08T0726 · Languages of the world
 - 2026-08-08T0725 · Kherovan Inquisition
@@ -104,7 +118,6 @@
 - 2026-08-04T1340 · Material Realm
 - 2026-08-04T1338 · Astral Realm
 - 2026-08-04T1336 · Auguric Rite & Autonomous Spells
-- 2026-08-04T1332 · Tronos
 - 2026-08-04T1332 · Yeorite
 - 2026-08-04T1332 · Jevana
 - 2026-08-04T1332 · Artificery
@@ -112,7 +125,6 @@
 - 2026-08-04T0241 · Breza
 - 2026-08-04T0241 · Nuv Werm
 - 2026-08-04T0221 · Szievek
-- 2026-08-04T0220 · Dorian
 - 2026-08-03T2052 · Eldmar
 - 2026-08-03T1557 · Garmeley
 - 2026-08-03T1528 · Jallbreg
@@ -136,15 +148,3 @@
 - 2026-08-02T2220 · Pixos
 - 2026-08-02T2214 · Aessymia
 - 2026-08-02T2158 · Tripparch
-- 2026-08-02T1509 · Viagoris
-- 2026-08-02T0506 · Vormil III
-- 2026-08-02T0029 · Melmer
-- 2026-08-02T0025 · Baeling
-- 2026-08-02T0022 · Baeling Empire
-- 2026-08-02T0002 · Varald I
-- 2026-08-02T0000 · Trazlov Consortium
-- 2026-08-02T0000 · Sons of Kasimir
-- 2026-08-01T2357 · Wermia
-- 2026-08-01T1338 · Elena Montegru
-- 2026-08-01T1334 · Mikael Bivaldi
-- 2026-08-01T1321 · Shasha Gurnakov

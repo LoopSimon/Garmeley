@@ -2,6 +2,7 @@
 [[Garmeley]]
 [[Karajal School of Insight]]
 [[Kindly Lords]]
+[[Markur]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Avero Kelitz</h4>
@@ -35,6 +36,10 @@
         <span>Arcane Historicity,<br> Two Axis Theory,<br>Key of Ptamonn,<br> <a href="Basic Magical Theory" class="internal-link">Modern Arcane Theory</a></span>
     </div>
     <div class="wiki-row">
+        <strong>Known Teachers</strong>
+        <span><a href="Markur" class="internal-link">Saint Markur</a></span>
+    </div>
+    <div class="wiki-row">
         <strong>Known Students</strong>
         <span>Erasmus of Pilg</span>
     </div>
@@ -43,4 +48,4 @@
 
 </div>
 <p>Avero Kelitz, usually referred to as Avero of the Eighfolds, was a half-elven mage that studied the differences in energy expression and manipulation between various forms of casters, specifically documenting and experimenting Leynode fluctuation and variants therein when observing intuitive or trueborn mages in comparison to learned casters. His work was initially looked upon approvingly by the wider academic community but his turn to anti-religious theories and so called "heretical rhetoric" in his later life made him many enemies, especially within the gethric communities.</p>
-<p>Avero spend most of his live in Urland and Garmeley and later became the Archmage of the world renowned Institution at Patwin Tower, working tirelessly to establish good relations between local druidic and shamanistic circles of the <a href="Kindly Lords" class="internal-link">Kindly Lords</a>and the less tolerant members of the magical establishment. He found greater appreciation south than north and was invited 4 times to lecture at <a href="Karajal School of Insight" class="internal-link">Karajal</a> in his life, a fact that, combined with his half-elven heritage, only added to his opponents claims he was an asset of the sultanate attempting to corrode the trust of the populace in the Gethric Church.</p>
+<p>Avero spend most of his live in Urland and Garmeley and later became the Archmage of the world renowned Institution at Patwin Tower, working tirelessly to establish good relations between local druidic and shamanistic circles of the <a href="Kindly Lords" class="internal-link">Kindly Lords</a>and the less tolerant members of the magical establishment. Avero famously studied under the meadi Mage Markur, recording many of his deeds following the War of Trout and Drake while a young man. He found greater appreciation south than north and was invited 4 times to lecture at <a href="Karajal School of Insight" class="internal-link">Karajal</a> in his life, a fact that, combined with his half-elven heritage, only added to his opponents claims he was an asset of the sultanate attempting to corrode the trust of the populace in the Gethric Church.</p>
