@@ -1,3 +1,9 @@
+- 2026-08-09T1119 · Gelmsburg
+- 2026-08-09T1118 · Andre
+- 2026-08-09T1115 · Muriel von Gloss
+- 2026-08-08T2150 · Falt
+- 2026-08-08T2144 · Firbolg
+- 2026-08-08T1922 · Bihra
 - 2026-08-08T1735 · Alchemy
 - 2026-08-08T1631 · Khaba
 - 2026-08-08T1625 · Joakim zi Szarbel
@@ -21,7 +27,6 @@
 - 2026-08-08T0728 · Rha-Gis
 - 2026-08-08T0728 · Kherova
 - 2026-08-08T0728 · Bihra Shamanism
-- 2026-08-08T0728 · Bihra
 - 2026-08-08T0727 · Zondust
 - 2026-08-08T0727 · Weaving
 - 2026-08-08T0727 · Twintail Imperium
@@ -87,7 +92,6 @@
 - 2026-08-05T1557 · Korman van Schipwig
 - 2026-08-05T1557 · Janez Vajkard Valvasor
 - 2026-08-05T1555 · Vilkin
-- 2026-08-05T0543 · Falt
 - 2026-08-05T0515 · Naigan
 - 2026-08-05T0515 · Hanshi
 - 2026-08-05T0514 · Byamon
@@ -102,11 +106,9 @@
 - 2026-08-04T1336 · Auguric Rite & Autonomous Spells
 - 2026-08-04T1332 · Tronos
 - 2026-08-04T1332 · Yeorite
-- 2026-08-04T1332 · Muriel von Gloss
 - 2026-08-04T1332 · Jevana
 - 2026-08-04T1332 · Artificery
 - 2026-08-04T1312 · Kasthemis
-- 2026-08-04T0256 · Gelmsburg
 - 2026-08-04T0241 · Breza
 - 2026-08-04T0241 · Nuv Werm
 - 2026-08-04T0221 · Szievek
@@ -146,5 +148,3 @@
 - 2026-08-01T1338 · Elena Montegru
 - 2026-08-01T1334 · Mikael Bivaldi
 - 2026-08-01T1321 · Shasha Gurnakov
-- 2026-07-31T1655 · Lissean
-- 2026-07-31T1555 · Theresa Salbridge

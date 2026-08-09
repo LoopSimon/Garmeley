@@ -1,5 +1,4 @@
 %%
-[[Material Realm]]
-[[Globus]]
+[[Acceleration Theory]]
 %%
 <p>The Falt is a theoretical substance and phenomenon that supposedly exists as a tissue around all matter and observable existence as interisolary mass. Falt has no perceivable appearance, it is achromatic, odourless, and featureless, a so called "enemy of matter and life", making it essentially only observable via the matter that surrounds it. Where matter borders the pale, the resulting border is an uproar of matter, evaporating into the pale, considered a Falt-Phantasma. Many believers of Falt-Theory consider it to be the eventual destiny of all matter to be consumed by the Falt as it is expanding and swallowing the observable universe at an unknown rate. Falt Theory is largely obscure within the greater arcane establishment of Behera and Ilrakhan and only investigated by credible researchers in eastern nirydia, albeit even then largely in a hypothetical manner.</p>
