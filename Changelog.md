@@ -1,3 +1,9 @@
+- 2026-08-10T1336 · Pukluwuk
+- 2026-08-10T0208 · Antonin Slowoska
+- 2026-08-10T0206 · Jan van Swarn
+- 2026-08-10T0200 · Gharel Talnod
+- 2026-08-10T0156 · Nurlight
+- 2026-08-09T2136 · Brystone
 - 2026-08-09T1428 · Izhevk
 - 2026-08-09T1418 · Cockatrice
 - 2026-08-09T1417 · Hubert of Tanverley
@@ -105,9 +111,7 @@
 - 2026-08-06T1459 · Ilrakhan
 - 2026-08-06T1459 · Arester
 - 2026-08-06T1450 · Ur
-- 2026-08-05T1900 · Jan van Swarn
 - 2026-08-05T1858 · Shymon Epios
-- 2026-08-05T1857 · Gharel Talnod
 - 2026-08-05T1557 · Korman van Schipwig
 - 2026-08-05T1557 · Janez Vajkard Valvasor
 - 2026-08-05T1555 · Vilkin
@@ -117,7 +121,6 @@
 - 2026-08-05T0454 · The Jättilkivi
 - 2026-08-05T0453 · Charatov Podlim
 - 2026-08-05T0432 · Xarvin Jiballo
-- 2026-08-05T0320 · Brystone
 - 2026-08-05T0315 · Talnod-Swarn Gradient
 - 2026-08-04T2320 · Dagger of Discord
 - 2026-08-04T1340 · Material Realm
@@ -135,7 +138,6 @@
 - 2026-08-03T1528 · Jallbreg
 - 2026-08-03T1513 · Kerlaes
 - 2026-08-03T1427 · Urland
-- 2026-08-03T1420 · Nurlight
 - 2026-08-03T1353 · Auguri Dominion
 - 2026-08-03T1340 · Vihrmen Federation
 - 2026-08-03T0225 · Thirdonis
@@ -146,5 +148,3 @@
 - 2026-08-02T2251 · Filip of Leston
 - 2026-08-02T2250 · Isa Tereggio
 - 2026-08-02T2250 · Horatio Tuliper
-- 2026-08-02T2250 · Alana Czery
-- 2026-08-02T2223 · Starworship
