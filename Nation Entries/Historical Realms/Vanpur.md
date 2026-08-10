@@ -3,7 +3,7 @@
 [[Keywars]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Divine Commune of Pervantes</h4>
+    <h4 class="wiki-header">Holy Empire of Vanpur</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Theocracy</span>

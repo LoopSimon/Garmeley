@@ -1,5 +1,6 @@
 %%
-[[Zuhurism]]]]
+[[Minotaur]]
+[[Iratism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -22,7 +23,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Zuhurism" class="internal-link">Zuhirism</a></span>
+        <span>Gaali <a href="Iratism" class="internal-link">Iratism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

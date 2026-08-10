@@ -1,6 +1,7 @@
 %%
 [[Orc]]
 [[Zuhurism]]
+[[Iratism]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Xolor_two.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Xolori Captain of Pin-Hub</i></small>

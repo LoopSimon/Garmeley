@@ -456,6 +456,7 @@
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
+            <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms</div>
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate, White Wars begin in Behera</div>

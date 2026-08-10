@@ -1,5 +1,7 @@
 %%
 [[Xolor]]
+[[Vanpur]]
+[[Iratism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -22,7 +24,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span></span>
+        <span>Traditional <a href="Iratism" class="internal-link">Iratism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -35,6 +37,6 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span><a href="Vanpur" class="internal-link">Empire of Vanpur</a></span>
     </div>
 </div>
