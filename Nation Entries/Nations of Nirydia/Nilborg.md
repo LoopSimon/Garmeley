@@ -23,7 +23,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Gethricism" class="internal-link">Trinicist Gethricism</a></span>
+        <span><a href="Gethricism" class="internal-link">Trinicist Gethricism</a>,<br><a href="Kaarminism" class="internal-link">Kaarminism</a>(informal)</span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
