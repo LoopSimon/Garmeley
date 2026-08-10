@@ -1,3 +1,4 @@
+- 2026-08-10T1405 · Valenty Sykes
 - 2026-08-10T1340 · The Alchemists Guild
 - 2026-08-10T1336 · Pukluwuk
 - 2026-08-10T0208 · Antonin Slowoska
@@ -147,4 +148,3 @@
 - 2026-08-03T0117 · Panrity
 - 2026-08-03T0043 · Knights of the Green Tree
 - 2026-08-02T2251 · Filip of Leston
-- 2026-08-02T2250 · Isa Tereggio
