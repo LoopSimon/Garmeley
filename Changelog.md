@@ -1,3 +1,4 @@
+- 2026-08-11T0146 · Complete Timeline
 - 2026-08-11T0029 · Nilborg
 - 2026-08-11T0028 · Lugosch
 - 2026-08-11T0028 · Sebera
@@ -22,7 +23,6 @@
 - 2026-08-10T2136 · Bruša
 - 2026-08-10T2136 · Dišela
 - 2026-08-10T2135 · Amlija
-- 2026-08-10T2129 · Complete Timeline
 - 2026-08-10T2118 · Keywars
 - 2026-08-10T2041 · Gaal Empire
 - 2026-08-10T2040 · Pinh-Ub

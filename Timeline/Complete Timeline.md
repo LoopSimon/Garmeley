@@ -266,6 +266,7 @@
             <div class="timeline-item" data-date="432PA">End of the Kingdom of Les</div>
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishment of Nuv Werm</div>
+            <div class="timeline-item" data-date="445PA">The Church of Faigin is officially created from the Motherly Priesthood in Richelet</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Badrab</div>
@@ -387,6 +388,7 @@
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
             <div class="timeline-item" data-date="703PA">Splintering of Urland, Jorwyn of Gelm crowns himself the King of Urland, challenged by various nobles in the Eld valley Duchess Theara of Hornsley is crowned as "Counter" Queen of Eldmar following a brief skirmish</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
+            <div class="timeline-item" data-date="706PA">Kaarmina brings the Mothers Word to her people</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
