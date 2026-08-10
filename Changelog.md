@@ -1,3 +1,7 @@
+- 2026-08-11T0010 · Zheguan
+- 2026-08-11T0009 · Sinlapsi
+- 2026-08-11T0008 · Gihkang
+- 2026-08-11T0005 · Hubert of Tanverley
 - 2026-08-10T2145 · Zuhuri Holy Wars
 - 2026-08-10T2142 · League of Aviv
 - 2026-08-10T2138 · Zuhurism
@@ -32,7 +36,6 @@
 - 2026-08-09T2136 · Brystone
 - 2026-08-09T1428 · Izhevk
 - 2026-08-09T1418 · Cockatrice
-- 2026-08-09T1417 · Hubert of Tanverley
 - 2026-08-09T1344 · Codex Thereticum
 - 2026-08-09T1247 · Vormil III
 - 2026-08-09T1136 · Volboris
@@ -145,6 +148,3 @@
 - 2026-08-05T0453 · Charatov Podlim
 - 2026-08-05T0432 · Xarvin Jiballo
 - 2026-08-05T0315 · Talnod-Swarn Gradient
-- 2026-08-04T2320 · Dagger of Discord
-- 2026-08-04T1340 · Material Realm
-- 2026-08-04T1338 · Astral Realm
