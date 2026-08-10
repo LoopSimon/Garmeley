@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Zuhurism" class="internal-link">Zuhirism</a></span>
+        <span><a href="Zuhurism" class="internal-link">Zuhurism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -43,4 +43,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Amlija_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p> Located in the south of Gorat, Amlija is a zuhirist Kingdom of the Zepri Gorati, that emerged after the fall of the <a href="Zepria" class="internal-link">Zeprian Empire</a>. The most populous and richest of the Amani Nations, it rivals the <a href="Plašato" class="internal-link">Kingdom of Plašato</a> for regional dominance and attracts the attention of many Zuhiri Pilgrims who seek to visit the holy site of Hastermon Temple.</p>
+<p> Located in the south of Gorat, Amlija is a zuhuri Kingdom of the Zepri Gorati, that emerged after the fall of the <a href="Zepria" class="internal-link">Zeprian Empire</a>. The most populous and richest of the Amani Nations, it rivals the <a href="Plašato" class="internal-link">Kingdom of Plašato</a> for regional dominance and attracts the attention of many Zuhuri Pilgrims who seek to visit the holy site of Hastermon Temple.</p>

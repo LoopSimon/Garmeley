@@ -1,8 +1,16 @@
+- 2026-08-10T2145 · Zuhuri Holy Wars
+- 2026-08-10T2142 · League of Aviv
+- 2026-08-10T2138 · Zuhurism
+- 2026-08-10T2137 · Vigzil
+- 2026-08-10T2137 · Twintail Imperium
+- 2026-08-10T2136 · Ruginë
+- 2026-08-10T2136 · Plašato
+- 2026-08-10T2136 · Jateš
+- 2026-08-10T2136 · Bruša
+- 2026-08-10T2136 · Dišela
+- 2026-08-10T2135 · Amlija
 - 2026-08-10T2134 · Nilborg
 - 2026-08-10T2129 · Complete Timeline
-- 2026-08-10T2124 · League of Aviv
-- 2026-08-10T2123 · Twintail Imperium
-- 2026-08-10T2121 · Zuhiri Holy Wars
 - 2026-08-10T2118 · Keywars
 - 2026-08-10T2118 · Girdineux
 - 2026-08-10T2041 · Gaal Empire
@@ -140,11 +148,3 @@
 - 2026-08-04T2320 · Dagger of Discord
 - 2026-08-04T1340 · Material Realm
 - 2026-08-04T1338 · Astral Realm
-- 2026-08-04T1336 · Auguric Rite & Autonomous Spells
-- 2026-08-04T1332 · Yeorite
-- 2026-08-04T1332 · Jevana
-- 2026-08-04T1332 · Artificery
-- 2026-08-04T1312 · Kasthemis
-- 2026-08-04T0241 · Breza
-- 2026-08-04T0241 · Nuv Werm
-- 2026-08-04T0221 · Szievek
