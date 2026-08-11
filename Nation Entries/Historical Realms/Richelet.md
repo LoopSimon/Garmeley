@@ -2,10 +2,11 @@
 [[Faigin]]
 [[Girdineux]]
 [[Levelix]]
+[[Herat]]
 %%
 
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Vocas a Girdineux</h4>
+    <h4 class="wiki-header">Vocas a Richelet</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Leveli Vocas</span>
@@ -50,3 +51,4 @@
     </div>
     
 </div>
+<p>The Vocas a Richelet was the dominant Leveli nation state during the Age of Steel until its fall following the Day of Descension and the emergence of the <a href="Girdineux" class="internal-link">Trachez a Girdineux</a> and the <a href="Herat" class="internal-link">Vocas a Herat</a>. It traces its origins back to the powerful <a href="Levelix" class="internal-link">Ervocas a Levelix</a> and through it back to Aelcaldor the Great, the legendary hero of the Upper and Lower Leveli peoples.</p>

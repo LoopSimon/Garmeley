@@ -28,11 +28,11 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Niryd <a href="Hobgoblin" class="internal-link">Hobgoblin</a></span>
+        <span>Leveli <a href="Hobgoblin" class="internal-link">Hobgoblin</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Overgob</span>
+        <span>Nyrid Overgob</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
