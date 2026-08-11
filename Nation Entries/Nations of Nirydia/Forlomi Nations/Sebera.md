@@ -1,12 +1,13 @@
 %%
-[[Faigin]]
-[[Amurez]]
+[[Nilborg]]
+[[Kaarminism]]
+[[Levelix]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Vocas a Balerey</h4>
+    <h4 class="wiki-header"></h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Leveli Vocas</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -14,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Nastulia</span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -23,20 +24,20 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Faigin" class="internal-link">Faigin Church</a></span>
+        <span><a href="Kaarminism" class="internal-link">Kaarminism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Upper Leveli <a href="Human" class="internal-link">Human</a></span>
+        <span></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Upper Leveli</span>
+        <span></span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span><a href="Levelix" class="internal-link">Ervocas a Levelix</a></span>
+        <span>Ervocas a <a href="Levelix" class="internal-link">Levelix</a</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

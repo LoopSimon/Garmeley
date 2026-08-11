@@ -1,20 +1,23 @@
-- 2026-08-11T0146 · Complete Timeline
+- 2026-08-11T0223 · Zuhurism
+- 2026-08-11T0222 · Amurez
+- 2026-08-11T0222 · Labella
+- 2026-08-11T0221 · Balerey
+- 2026-08-11T0219 · Complete Timeline
+- 2026-08-11T0214 · Girdineux
+- 2026-08-11T0214 · Herat
+- 2026-08-11T0213 · Levelix
+- 2026-08-11T0205 · Sebera
+- 2026-08-11T0203 · Richelet
+- 2026-08-11T0157 · Faigin
 - 2026-08-11T0029 · Nilborg
 - 2026-08-11T0028 · Lugosch
-- 2026-08-11T0028 · Sebera
-- 2026-08-11T0028 · Faigin
 - 2026-08-11T0027 · Kaarminism
-- 2026-08-11T0025 · Herat
-- 2026-08-11T0025 · Labella
-- 2026-08-11T0025 · Girdineux
-- 2026-08-11T0025 · Balerey
 - 2026-08-11T0010 · Zheguan
 - 2026-08-11T0009 · Sinlapsi
 - 2026-08-11T0008 · Gihkang
 - 2026-08-11T0005 · Hubert of Tanverley
 - 2026-08-10T2145 · Zuhuri Holy Wars
 - 2026-08-10T2142 · League of Aviv
-- 2026-08-10T2138 · Zuhurism
 - 2026-08-10T2137 · Vigzil
 - 2026-08-10T2137 · Twintail Imperium
 - 2026-08-10T2136 · Ruginë
@@ -145,6 +148,3 @@
 - 2026-08-06T1459 · Arester
 - 2026-08-06T1450 · Ur
 - 2026-08-05T1858 · Shymon Epios
-- 2026-08-05T1557 · Korman van Schipwig
-- 2026-08-05T1557 · Janez Vajkard Valvasor
-- 2026-08-05T1555 · Vilkin

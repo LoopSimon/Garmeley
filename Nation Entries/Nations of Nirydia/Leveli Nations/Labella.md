@@ -2,10 +2,10 @@
 [[Faigin]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Vocas a Labella</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Leveli Vocas</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -26,15 +26,19 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Leveli <a href="Human" class="internal-link">Human</a></span>
+        <span>Upper Leveli <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Upper Leveli</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span><a href="Amurez" class="internal-link">Vocas a Amurez</a></span>
+    </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>683PA</span>
     </div>
 </div>

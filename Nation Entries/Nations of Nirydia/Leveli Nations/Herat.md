@@ -1,11 +1,12 @@
 %%
 [[Faigin]]
+[[Richelet]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header">Vocas a Herat</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Leveli Vocas</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
@@ -26,15 +27,19 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Leveli <a href="Human" class="internal-link">Human</a></span>
+        <span>Lower Leveli <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span></span>
+        <span>Lower Leveli</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span></span>
+        <span><a href="Richelet" class="internal-link">Vocas a Richelet</a></span>
+    </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>843PA</span>
     </div>
 </div>
