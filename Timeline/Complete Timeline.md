@@ -47,6 +47,7 @@
 	        <div class="timeline-item" data-date="2150BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
+	        <div class="timeline-item" data-date="2000BA">Creation of the Tageyo Field</div>
 	        <div class="timeline-item" data-date="1990BA">Likely Foundation of Lorqis</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
 	        <div class="timeline-item" data-date="1950BA">First true glass smelting occurs in Cyraclion</div>
