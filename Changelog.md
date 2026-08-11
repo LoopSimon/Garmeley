@@ -1,22 +1,26 @@
-- 2026-08-11T0255 · Complete Timeline
+- 2026-08-11T1820 · Herat
+- 2026-08-11T1818 · Balerey
+- 2026-08-11T1815 · Girdineux
+- 2026-08-11T1806 · Richelet
+- 2026-08-11T1802 · Levelix
+- 2026-08-11T1800 · Labella
+- 2026-08-11T1758 · Amurez
+- 2026-08-11T1351 · Complete Timeline
+- 2026-08-11T1340 · Pervantes
+- 2026-08-11T1337 · Vanpur
+- 2026-08-11T1323 · Igpuri Dominion
+- 2026-08-11T1231 · Battvia
+- 2026-08-11T1202 · Hubert of Tanverley
 - 2026-08-11T0252 · Zuzka
-- 2026-08-11T0248 · Richelet
-- 2026-08-11T0245 · Levelix
 - 2026-08-11T0244 · Sebera
 - 2026-08-11T0244 · Lugosch
-- 2026-08-11T0240 · Amurez
 - 2026-08-11T0223 · Zuhurism
-- 2026-08-11T0222 · Labella
-- 2026-08-11T0221 · Balerey
-- 2026-08-11T0214 · Girdineux
-- 2026-08-11T0214 · Herat
 - 2026-08-11T0157 · Faigin
 - 2026-08-11T0029 · Nilborg
 - 2026-08-11T0027 · Kaarminism
 - 2026-08-11T0010 · Zheguan
 - 2026-08-11T0009 · Sinlapsi
 - 2026-08-11T0008 · Gihkang
-- 2026-08-11T0005 · Hubert of Tanverley
 - 2026-08-10T2145 · Zuhuri Holy Wars
 - 2026-08-10T2142 · League of Aviv
 - 2026-08-10T2137 · Vigzil
@@ -30,8 +34,6 @@
 - 2026-08-10T2118 · Keywars
 - 2026-08-10T2041 · Gaal Empire
 - 2026-08-10T2040 · Pinh-Ub
-- 2026-08-10T2040 · Igpuri Dominion
-- 2026-08-10T2039 · Vanpur
 - 2026-08-10T2037 · Xolor
 - 2026-08-10T2035 · Renessis
 - 2026-08-10T2034 · Cirinzel
@@ -81,7 +83,6 @@
 - 2026-08-08T1142 · Lisava
 - 2026-08-08T1142 · Raximan
 - 2026-08-08T1142 · Tilduren
-- 2026-08-08T1130 · Pervantes
 - 2026-08-08T1116 · Rayadan
 - 2026-08-08T1031 · Ikieni
 - 2026-08-08T1031 · Sunborn
@@ -134,7 +135,6 @@
 - 2026-08-07T0009 · Paper Cities
 - 2026-08-07T0008 · Martella
 - 2026-08-07T0004 · Firocco
-- 2026-08-07T0004 · Battvia
 - 2026-08-06T2328 · Niedrest
 - 2026-08-06T2326 · Nied
 - 2026-08-06T2311 · Dainosticism

@@ -1,6 +1,5 @@
 %%
 [[Iratism]]
-[[Vanpur]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -36,6 +35,6 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span><a href="Vanpur" class="internal-link">Empire of Vanpur</a></span>
+        <span></span>
     </div>
 </div>

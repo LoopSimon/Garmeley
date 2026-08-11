@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>877PA, Tanverley</span>
+        <span>885PA, Tanverley</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -22,7 +22,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>50</span>
+        <span>41</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

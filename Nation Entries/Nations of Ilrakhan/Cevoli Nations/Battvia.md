@@ -1,7 +1,7 @@
 %%
 [[Trinicism]]
 [[Jeledo]]
-[[Nation Entries/Historical Realms/Cevolis]]
+[[Cevolis]]
 [[Turpador]]
 [[Paper Cities]]
 [[Orestis]]

@@ -130,6 +130,7 @@
             <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
+            <div class="timeline-item" data-date="297BA">Xolori Age of Wind and Wave begins</div>
             <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
             <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
@@ -143,6 +144,7 @@
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">Invocation of Uschtir</div>
             <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>
+            <div class="timeline-item" data-date="185BA">Various Xolori towns and communities band together as the Xor-Ub</div>
             <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
@@ -161,6 +163,7 @@
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
+            <div class="timeline-item" data-date="12BA">Escaffar becomes the first Chimera Lord of Vanpur, end of the Xor-Ub</div>
             <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, End of the Empire of Rakh, Rakhi Disappearance and Dissolution of the Meter Dynasty</div>
         </div>
     </div>
@@ -259,10 +262,12 @@
             <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, begin of the Age of Disgrace for the Empire of Aerlan</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", Gethricism has become the most popular religion on the Continent</div>
+            <div class="timeline-item" data-date="401PA">The Plague of Flesh breaks out in the Empire of Vanpur</div>
             <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
+            <div class="timeline-item" data-date="427PA">Following nearly 3 decades of death, the Empire of Vanpur collapses under the plague, splintering into numerous island kingdoms and city states</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="429PA">Ardol V "the Blessed" von Gismar becomes the first Gethric born King of Korsfall, augurism and turvik paganism are dwindling as Gethricism is now the predominant religion in Meadland</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
@@ -475,10 +480,9 @@
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts</div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
-	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat</div>
+	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat, Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="863PA">Droil is granted nominal autonomy under the Crown of Tintarol to appease Independence movements</div>
-            <div class="timeline-item" data-date="861PA">Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge</div>
             <div class="timeline-item" data-date="866PA">Treaty of Uhl</div>

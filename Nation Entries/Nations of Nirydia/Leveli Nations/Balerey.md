@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Black Mare on Green, Gold & Purple</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -42,4 +42,5 @@
         <strong>Formed</strong>
         <span>659PA</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Balerey_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
