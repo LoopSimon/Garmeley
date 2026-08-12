@@ -1,4 +1,5 @@
-- 2026-08-12T1837 · Vulpus
+- 2026-08-12T2004 · Bihra
+- 2026-08-12T1838 · Vulpus
 - 2026-08-12T1836 · Adeen
 - 2026-08-12T1831 · Lissvalley
 - 2026-08-12T1825 · Cimfon
@@ -90,7 +91,6 @@
 - 2026-08-09T1115 · Muriel von Gloss
 - 2026-08-08T2150 · Falt
 - 2026-08-08T2144 · Firbolg
-- 2026-08-08T1922 · Bihra
 - 2026-08-08T1735 · Alchemy
 - 2026-08-08T1631 · Khaba
 - 2026-08-08T1625 · Joakim zi Szarbel
