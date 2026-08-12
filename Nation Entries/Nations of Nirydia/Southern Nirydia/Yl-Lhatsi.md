@@ -47,4 +47,6 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Lhatsi_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p>The Temple of Yl-Lhatsi is the largest organized city of the Mogyri people of the Drizan Peninsula, sitting at the edge of Lake Tsolha. While nominally claiming authority over all Mogyri of the Region, in effect the Temples control is mostly restricted to its immediate surroundings and many rivalling noble bloodlines only swear allegiance to its authority in name. <br> The current Mycomother, the highest office of the Temple, is Suolang of the Lingpa.</p>
+<p>The Temple of Yl-Lhatsi is the largest organized city of the Mogyri people of the Drizan Peninsula, sitting at the edge of Lake Tsolha. While nominally claiming authority over all Mogyri of the Region, in effect the Temples control is mostly restricted to its immediate surroundings and many rivalling noble bloodlines only swear allegiance to its authority in name. <br> The current Mycomother, the highest office of the Temple, is Suolang of the Lingpa, who succeeded the controversial Chorioactis Lingpa Arjanuva in 907PA. </p>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/YlLhatsi1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div>
