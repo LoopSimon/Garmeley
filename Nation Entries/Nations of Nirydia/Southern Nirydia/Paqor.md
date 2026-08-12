@@ -3,6 +3,7 @@
 [[Bihra]]
 [[Vas Ira]]
 [[Orc]]
+[[Elbae]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">City of Paqor</h4>
