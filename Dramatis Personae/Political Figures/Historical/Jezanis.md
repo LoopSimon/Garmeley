@@ -43,3 +43,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Jezanis.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Queen Shira Jezanis, known as the Nightingale of Samyr, was the last ruler of the Marival of Samyr before it was conquered during the Meter Wars of Conquest in 269BA. She has taken on a legendary status in popular culture fare beyond the Asef due to her appearance in various plays and works of arts, usually being depicted as a tragic figure. Her nickname is owed to her famous talent as a singer, being alleged to have the most beautiful voice betwixt Sea and Land, likened to the song of the nightingale. Jezanis is said to have committed suicide during the final stages of the Siege of Samyr as her beloved city fell to the fires of conquest.</p>

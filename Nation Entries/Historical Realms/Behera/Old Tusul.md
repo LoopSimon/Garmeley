@@ -1,5 +1,6 @@
 %%
 [[Tusul]]
+[[Tasch]]
 [[Yorgos]]
 [[Elbae]]
 [[Ilonism]]
@@ -29,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Zipivi <a href="Elf" class="internal-link">Human</a> </span>
+        <span>Zipivi <a href="Human" class="internal-link">Human</a> </span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -38,11 +39,11 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>West Beheri Tribes</span>
+        <span>Zipivi Post Nomadic Period</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>540BA</span>
+        <span>410BA</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>

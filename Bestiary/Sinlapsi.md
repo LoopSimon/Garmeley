@@ -5,6 +5,9 @@
 [[Hubert of Tanverley]]
 %%
 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Wight.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>The Summerwight of Varny</i></small>
+</div>
 <p>In <a href="Nostroya" class="internal-link">nostroyan</a> folklore and arcane taxonomy, a Sinlapsi (sometimes referred to as a Nostroyan Wight or Mother’s Vengeance) is a highly dangerous, malevolent undead entity born from profound grief, betrayal, and dark magic. Materializing as the physical manifestation of a mother's dying curse or absolute despair, the Sinlapsi is an entity of pure vengeance tethered to the natural world but summoned from the spiritual, its magical summoning is often related to the appearence of the <a href="Fey" class="internal-link">Fey</a> in nature.</p>
 <p>Origins and Etymology</p>
 <p>The manifestation of a Sinlapsi is an exceptionally rare phenomenon within Nostroya. Arcane scholars and <a href="Aeldcult" class="internal-link">Aeld</a> druids believe that the entity cannot be summoned through traditional necromancy; rather, it requires a specific, tragic convergence of emotional agony and betrayal.

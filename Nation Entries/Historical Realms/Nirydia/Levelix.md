@@ -50,6 +50,6 @@
         <strong>Disbanded</strong>
         <span>659PA</span>
     </div>
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Levelix_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Levelix_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Ervocas a Levelix was one of the first united realms of the Leveli created following the Era of Patience after the times of Aecelcor the Great. Levelix became the great nation of the united lower Leveli, even conquering vast parts of its eastern rival <a href="Amurez" class="internal-link">Amurez</a> and declaring itself the Vocas a Vocati, or simply the Ervocas of all the Leveli peoples. Following the end of the line of the Vil-Bautiste, the Ervocas fell apart and the nations of <a href="Richelet" class="internal-link">Richelet</a> and <a href="Sebera" class="internal-link">Sebera</a> were formed as a result of the ensuring conflict between its Hobgoblin and Human population. </p>

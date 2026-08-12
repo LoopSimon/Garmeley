@@ -49,6 +49,6 @@
         <strong>Disbanded</strong>
         <span>842PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Richelet_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Richelet_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Vocas a Richelet was the dominant Leveli nation state during the Age of Steel until its fall following the Day of Descension and the emergence of the <a href="Girdineux" class="internal-link">Trachez a Girdineux</a> and the <a href="Herat" class="internal-link">Vocas a Herat</a>. It traces its origins back to the powerful <a href="Levelix" class="internal-link">Ervocas a Levelix</a> and through it back to Aelcaldor the Great, the legendary hero of the Upper and Lower Leveli peoples.</p>

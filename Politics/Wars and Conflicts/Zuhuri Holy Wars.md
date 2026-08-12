@@ -1,6 +1,6 @@
 %%
 [[Zuhurism]]
-[[Gaal Empire]]
+[[Gaal]]
 [[Mirel]]
 [[League of Aviv]]
 [[Cirinzel]]
