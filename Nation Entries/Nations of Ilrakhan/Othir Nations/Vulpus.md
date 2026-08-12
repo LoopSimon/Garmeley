@@ -42,4 +42,5 @@
         <strong>Formed</strong>
         <span>unknown</span>
     </div>
-    </div>
+</div>
+<p>The Vulpus Sphere, or often just called "The Vulpus Hive" by outsiders, is the largest organized society of Adeen on Ilrakhan, located in southern Othirdon in the heights of the western Kortopi Mountains. The Othiri Adeen here are extremely isolationist and have practiced next to no cultural exchange with their neighbours, with the exception of various expeditions of the Gnomes of Ott over the turn of the centuries. The Sphere is currently led by Ibri Gylapan Me, who has led his people into an era of technological enlightenment, spearheaded by his Effort to create an artificial Cloud made up entirely of modified Ad, capable of transporting and storing messages and memories of his people</p>

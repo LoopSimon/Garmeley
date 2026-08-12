@@ -4,6 +4,7 @@
 [[Lissvalley]]
 [[Othirdon]]
 [[Tintarol]]
+[[Knights of the Green Tree]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -54,6 +55,5 @@
 <p>The Maelzad is a founding member of the so called "Visian League", aiming to protect its members from imperialist attacks by neighbouring countries, primarily Meadrath, together with Erlmondy and Lissvalley.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Cimfon1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
-<h2>People of Interest</h2>
-Ednyr, third of his Name of House Prawyl,    
-Mael of the Cimfon
+
+<p>A large majority of Cimfons population is made up of locni humans, but substantial halfling and dwarven minorities can be found within its larger towns or the mountainous eastern parts of the Maelzad as well. Cimfons largest city is the harbour of Alvenish, with the historic Capital of Afgillion and the city of Ledfyr making up the other two greatest population centres. The country is defined by the contrast between Highlands, Lowlands and the Isles of the Hawks Bay. The central Retois Woods are the most prominent geographic mark and dominate the Cimfon Lowlands while the Highlands to the east make up the harder to farm and work lands, with mining being the dominant industry here. The Fortress of Cherelais, the headquarters of the <a href="Knights of the Green Tree" class="internal-link">Knights of the Green Tree</a> are situated in the south-east of the Realm, holding the Cherelais Pass.</p>
