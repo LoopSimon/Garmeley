@@ -1,3 +1,5 @@
+- 2026-08-12T1342 · Chimera
+- 2026-08-12T1331 · Hubert of Tanverley
 - 2026-08-12T1328 · Destrachan
 - 2026-08-12T1311 · Gaal
 - 2026-08-12T1301 · Complete Timeline
@@ -27,7 +29,6 @@
 - 2026-08-11T1337 · Vanpur
 - 2026-08-11T1323 · Igpuri Dominion
 - 2026-08-11T1231 · Battvia
-- 2026-08-11T1202 · Hubert of Tanverley
 - 2026-08-11T0252 · Zuzka
 - 2026-08-11T0244 · Sebera
 - 2026-08-11T0244 · Lugosch
@@ -147,4 +148,3 @@
 - 2026-08-07T0004 · Firocco
 - 2026-08-06T2328 · Niedrest
 - 2026-08-06T2326 · Nied
-- 2026-08-06T2311 · Dainosticism

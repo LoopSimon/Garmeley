@@ -1,0 +1,8 @@
+%%
+[[Hubert of Tanverley]]
+%%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Chimera.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>The classical Chimera as described in legends</i></small>
+</div>
+<p>The Chimera is a mythical creature and the result of various experiments stitching various animals together in unholy rituals, infusing them with great amounts of planar energies and resurrecting them in a terrible work of art. While a Manticore usually describes specifically a creature made up of the body of a lion, the wings of a drake, wyvern or dire-bat and the legs of a goat, while possessing the heads of all three, it is more of a general term for the successful result of the occult process of stitching and reanimating various beasts together.</p>
+<p>The monster discussed here, so far only found on the continent of Ilrakhan, should not be confused with the term for the final stage of <a href="Xolor" class="internal-link">Xolori Memory Eating</a>, an entirely natural process. The Chimera of Jaramyr is briefly discussed within the first Volume of <a href="Hubert of Tanverley" class="internal-link">Hubert of Tanverleys</a> Bestiary although he defines them more as a magical mutation and unique beast, akin to the <a href="Zuzka" class="internal-link">Zuzka</a> of Yagund, than a real species of beast.</p>
