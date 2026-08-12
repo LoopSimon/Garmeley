@@ -1,8 +1,10 @@
-- 2026-08-12T1342 · Chimera
+- 2026-08-12T1513 · Complete Timeline
+- 2026-08-12T1458 · Iztaw
+- 2026-08-12T1409 · Levazci
+- 2026-08-12T1348 · Chimera
 - 2026-08-12T1331 · Hubert of Tanverley
 - 2026-08-12T1328 · Destrachan
 - 2026-08-12T1311 · Gaal
-- 2026-08-12T1301 · Complete Timeline
 - 2026-08-12T1218 · Pharabal
 - 2026-08-12T0255 · Yeorite
 - 2026-08-12T0255 · Twintail Imperium
@@ -146,5 +148,3 @@
 - 2026-08-07T0009 · Paper Cities
 - 2026-08-07T0008 · Martella
 - 2026-08-07T0004 · Firocco
-- 2026-08-06T2328 · Niedrest
-- 2026-08-06T2326 · Nied

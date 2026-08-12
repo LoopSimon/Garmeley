@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>High Bishop Orthel II</span>
+        <span>High Bisop Orthel II</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -37,7 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>, <a href="Wermia" class="internal-link">Wermia</a>
+        <span><a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>,<br> <a href="Wermia" class="internal-link">Wermia</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
@@ -45,4 +45,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Iztaw.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>Iztaw rules over a conglomeration of territories in northern Vihr, largely autonomous within the greater Vihri Kingdom it is excempt from almost all obligations such as taxes and levies.</p>
+<p>Iztaw rules over a conglomeration of territories in northern Vihr, largely autonomous within the greater Vihri Kingdom it is exempt from almost all obligations such as taxes and levies. As a part of the Ras zi Vihr, Iztaw infamously lost extensive lands and holdings following the Council of 870 as part of the creation of the  <a href="Torry" class="internal-link">Vadcy zi Torry</a>.</p>
