@@ -34,3 +34,4 @@
 
 </div>
 <p>Ajaran Mor was a Durenni Bihra Philosopher and Teacher during the 3rd and 2nd century BA and one of the Yova, the "Great Teachers" of the Vas Ira Traditions. He is notable for transcribing many core principles within the greater umbrella of the Vas Ira belief and founding the unified denomination known as the <a href="Rayadan" class="internal-link">Rayadan</a>. </p>
+<p></p>

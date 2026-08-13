@@ -1,4 +1,6 @@
-- 2026-08-13T1950 · Ajaran Mor
+- 2026-08-13T2052 · Bihra
+- 2026-08-13T2034 · Kasthemis
+- 2026-08-13T1952 · Ajaran Mor
 - 2026-08-13T1949 · Japhal
 - 2026-08-13T1944 · Complete Timeline
 - 2026-08-13T1941 · Lisava
@@ -8,7 +10,6 @@
 - 2026-08-13T1411 · Great Khaganates of the Steppe
 - 2026-08-13T1410 · Gaden
 - 2026-08-13T1408 · Luchun Khaganate
-- 2026-08-13T1405 · Bihra
 - 2026-08-13T1355 · Duol Khaganate
 - 2026-08-13T1337 · Vas Ira
 - 2026-08-13T1337 · Red Iron Towers
@@ -147,4 +148,3 @@
 - 2026-08-07T0018 · Revelle
 - 2026-08-07T0015 · Ravland
 - 2026-08-07T0015 · Nahr
-- 2026-08-07T0014 · Erlmondy

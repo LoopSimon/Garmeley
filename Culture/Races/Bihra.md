@@ -3,7 +3,9 @@
 [[Niryd Steppe]]
 [[Vas Ira]]
 %%
-
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Kobold1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>A mutated Steppe Bihra</i></small>
+</div>
 <p>Known to the humans of Kher as the Kobolds, generally smaller sized, Bihra are bipedal, scaled reptilian humanoids that tend to weigh about 120kg, in the case of the steppe bihra standing at up to  2 metres. They are native to the continent of <a href="Nirydia" class="internal-link">Nirydia</a> and show variance in phenotype based on their environment: There are reports for significant differing in size, head- and tail shape based on regional origin, as well as the striking change in the tint of their scale colour.</p>
 <p>A sub group of Bihra, living in the hostile <a href="Niryd Steppe" class="internal-link">Steppe of Nirydia</a>, are abnormally prone to mutation and worship stronger and more exotic variants among them religiously and culturally, this can take on extremes such as some Bihra standing at almost 9 metres tall and possessing 2 or even 3 heads and other abnormal characteristics.
 Although they like claim kinship to <a href="Dragon" class="internal-link">Dragonkind</a>, there is no evidence outside of the mythological that would agree with the idea the two races are related. </p>
@@ -11,7 +13,9 @@ Although they like claim kinship to <a href="Dragon" class="internal-link">Drago
 While the <a href="Great Khaganates of the Steppe" class="internal-link">Great Khans</a> of the Steppe have risen and fallen quickly in history, the strongest ones have always left a mark behind on the history of the eastern lands.</p>
 <p>Many Bihra of the Steppes have evolved to possess extremely durable protective hides covering their entire body, to endure the dangerous Aspira Bladegrass. The most influential and largest Khaganate of the current days is the Realm of <a href="Duol Khaganate" class="internal-link">Duol</a>, whose administrative centre is the massive encampment of Duol Rabad, on the Cliffs of Rabad in the south western steppe. The Steppe Bihra follow the ancient traditions of <a href="Bihra Shamanism" class="internal-link">Bihra Shamanism</a>, loosely related to the overarching teachings of the <a href="Vas Ira" class="internal-link">Vas Ira</a>.</p>
 
-
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Bihra3.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>A regular Bihra, specifically from eastern nirydia</i></small>
+</div>
 <p>In opposition to these more "monstrous" Bihra, more known to the western ilrakhani, the eastern Bihra are the other part of the same coin, their mutations much tamer and many of the visually and physically similar to each other.
 The eastern or often simply nirydian Bihra are smaller but still bipedal reptilian humanoids, most standing between 1 metre and 1 metres 60 tall, having powerful jaws for creatures of their size and noticeable claws on hands and feet. Many eastern Bihra have varying exotic colours and stronger scales than their western cousins, but as mentioned before they are significantly less prone to great physical mutation.</p>
 <p>These make up the majority of all Bihra on the globe, although to many ilrakhani the view on what they call Kobold would likely refer to the aforementioned Steppe Bihra, explaining their more monstrous view on the species as a whole. The Bihra make up the overall largest racial group within the nirydian continent, closely followed by the <a href="Shirin" class="internal-link">Shirin</a> and <a href="Human" class="internal-link">Humans</a>. Many of them hold true the Faith of the <a href="Vas Ira" class="internal-link">Vas Ira</a>, and its various denominations, such as <a href="Iratism" class="internal-link">Iratism</a>, but some have flocked to the Faith in the Sun God<a href="Zuhurism" class="internal-link">Pen-Zuhur</a>.</p>

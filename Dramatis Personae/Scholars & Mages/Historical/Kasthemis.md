@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>ca. 731 BA, unknown</span>
+        <span>ca. 731BA, unknown</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
