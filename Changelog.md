@@ -1,3 +1,6 @@
+- 2026-08-13T2204 · Minotaur
+- 2026-08-13T2201 · Mogyr
+- 2026-08-13T2134 · Pixos
 - 2026-08-13T2123 · Rayadan
 - 2026-08-13T2121 · Ajaran Mor
 - 2026-08-13T2052 · Bihra
@@ -32,7 +35,6 @@
 - 2026-08-12T1218 · Pharabal
 - 2026-08-12T0255 · Yeorite
 - 2026-08-12T0255 · Twintail Imperium
-- 2026-08-12T0255 · Minotaur
 - 2026-08-12T0255 · League of Aviv
 - 2026-08-12T0255 · Girdineux
 - 2026-08-12T0255 · Faraz
@@ -146,5 +148,3 @@
 - 2026-08-07T0117 · Stefano Maldini
 - 2026-08-07T0109 · Jeledo
 - 2026-08-07T0018 · Revelle
-- 2026-08-07T0015 · Ravland
-- 2026-08-07T0015 · Nahr

@@ -1,3 +1,7 @@
+
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Mogyr1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Shroombonded of the Hydnellum Peckii Clan</i></small>
+</div>
 <p>The Mogyri of southern Nirydia are a race of humanoid creatures that live in the jungles of the Drizan Peninsula, most under the <a href="Yl-Lhatsi" class="internal-link">Temple of Yl-Lhatsi</a> and organized in <a href="Mogyri Clans" class="internal-link">Clains</a>.
 They tend to be extremely xenophobic and isolationist, mostly owed from a desire to protect their biome and the Fungi carried on their backs.
 This symbiotic relationship between Mogyr and Fungi, also known as Shroom-bonding, is almost entirely exclusive to the Mogyr but has been observed in other races (there are reports of <a href="Orc" class="internal-link">orcish</a> Sailors undergoing bonding though the process is usually described as agonizing).
