@@ -1,6 +1,6 @@
+- 2026-08-13T2121 · Ajaran Mor
 - 2026-08-13T2052 · Bihra
 - 2026-08-13T2034 · Kasthemis
-- 2026-08-13T1952 · Ajaran Mor
 - 2026-08-13T1949 · Japhal
 - 2026-08-13T1944 · Complete Timeline
 - 2026-08-13T1941 · Lisava
