@@ -1,4 +1,4 @@
-[[Bihra]]
+%%[[Bihra]]%%
 
 Bihra or "Kobold" Shamanistic beliefs and practices vary between the different cultural denominations of the Nirydian Bihra, notably changing drastically between the mountain tribes of the north, the southern Khaganates or the cities of the eastern Bihra.
 

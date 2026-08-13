@@ -132,6 +132,7 @@
             <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
+            <div class="timeline-item" data-date="299BA">The Omna of Japhal is formed, putting an end to the Durenni Age of Strife </div>
             <div class="timeline-item" data-date="297BA">Xolori Age of Wind and Wave begins</div>
             <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>

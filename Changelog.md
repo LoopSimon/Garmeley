@@ -1,17 +1,21 @@
+- 2026-08-13T1950 · Ajaran Mor
+- 2026-08-13T1949 · Japhal
+- 2026-08-13T1944 · Complete Timeline
+- 2026-08-13T1941 · Lisava
+- 2026-08-13T1938 · Bihra Shamanism
+- 2026-08-13T1415 · Niryd Steppe
 - 2026-08-13T1414 · Jigallor Khaganate
 - 2026-08-13T1411 · Great Khaganates of the Steppe
 - 2026-08-13T1410 · Gaden
 - 2026-08-13T1408 · Luchun Khaganate
 - 2026-08-13T1405 · Bihra
 - 2026-08-13T1355 · Duol Khaganate
-- 2026-08-13T1337 · Niryd Steppe
 - 2026-08-13T1337 · Vas Ira
 - 2026-08-13T1337 · Red Iron Towers
 - 2026-08-13T1333 · Rha-Gis
 - 2026-08-13T1329 · Paqor
 - 2026-08-13T1329 · Tasch
 - 2026-08-13T1144 · Kareli Hierarchy
-- 2026-08-13T0058 · Complete Timeline
 - 2026-08-13T0022 · Yl-Lhatsi
 - 2026-08-12T1838 · Vulpus
 - 2026-08-12T1836 · Adeen
@@ -106,9 +110,7 @@
 - 2026-08-08T1625 · Joakim zi Szarbel
 - 2026-08-08T1615 · Welcome
 - 2026-08-08T1444 · Vishams Question
-- 2026-08-08T1148 · Japhal
 - 2026-08-08T1145 · Zilkand
-- 2026-08-08T1142 · Lisava
 - 2026-08-08T1142 · Raximan
 - 2026-08-08T1142 · Tilduren
 - 2026-08-08T1116 · Rayadan
@@ -118,7 +120,6 @@
 - 2026-08-08T0800 · Noorism
 - 2026-08-08T0751 · Bigronism
 - 2026-08-08T0728 · Kherova
-- 2026-08-08T0728 · Bihra Shamanism
 - 2026-08-08T0727 · Zondust
 - 2026-08-08T0727 · Weaving
 - 2026-08-08T0727 · Suzana Dragović
@@ -147,4 +148,3 @@
 - 2026-08-07T0015 · Ravland
 - 2026-08-07T0015 · Nahr
 - 2026-08-07T0014 · Erlmondy
-- 2026-08-07T0014 · Tintarol

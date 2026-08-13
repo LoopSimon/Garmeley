@@ -1,6 +1,7 @@
 %%
 [[Nirydia]]
-[[Duol Khaganate]]
+[[Great Khaganates of the Steppe]]
+
 [[Bihra]]
 %%
 <p>The Niryd Steppe, Laham in the old Lhibare Tongue of the Bihra,  also called the "Kobold Steppe" or the "Bihra Steppe", is an area of grassland in Nirydia that is mostly located in a temperate biom, stretching from the lands of the Kheri Lake to the Limsul Peaks and from the Mondi River in the North to the Niryd Sea in the South. It is the ancestral homeland of the  Bihra peoples and many native species such as the Gnarlskin Salamanders or the Gleeflies, that have all adapted to the local Flora.</p>

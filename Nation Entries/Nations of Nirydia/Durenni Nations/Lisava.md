@@ -39,6 +39,10 @@
         <strong>Preceded by</strong>
         <span><a href="Japhal" class="internal-link">Japhal</a></span>
     </div>
+    <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>5th century PA</span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Lisava_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Onma of Lisava is the largest nation on the island of Durennis, and the most powerful successor state to the old power of Japhal. Its situated east of the Bay of Zivac, in the green and arable river lands north of the Durenni Peaks. The Onma is a predominantly Bihra realm, and at a tentative armistice with the Xolor of <a href="Pervantes" class="internal-link">Pervantes</a> to its east, following almost a century of War with them and their predecessors, the maritime Empire of <a href="Vanpur" class="internal-link">Vanpur</a>. </p>
