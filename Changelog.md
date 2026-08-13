@@ -1,7 +1,18 @@
-- 2026-08-13T0058 · Paqor
+- 2026-08-13T1414 · Jigallor Khaganate
+- 2026-08-13T1411 · Great Khaganates of the Steppe
+- 2026-08-13T1410 · Gaden
+- 2026-08-13T1408 · Luchun Khaganate
+- 2026-08-13T1405 · Bihra
+- 2026-08-13T1355 · Duol Khaganate
+- 2026-08-13T1337 · Niryd Steppe
+- 2026-08-13T1337 · Vas Ira
+- 2026-08-13T1337 · Red Iron Towers
+- 2026-08-13T1333 · Rha-Gis
+- 2026-08-13T1329 · Paqor
+- 2026-08-13T1329 · Tasch
+- 2026-08-13T1144 · Kareli Hierarchy
 - 2026-08-13T0058 · Complete Timeline
 - 2026-08-13T0022 · Yl-Lhatsi
-- 2026-08-12T2047 · Bihra
 - 2026-08-12T1838 · Vulpus
 - 2026-08-12T1836 · Adeen
 - 2026-08-12T1831 · Lissvalley
@@ -21,14 +32,11 @@
 - 2026-08-12T0255 · Faraz
 - 2026-08-12T0254 · Keywars
 - 2026-08-12T0254 · Zuhuri Holy Wars
-- 2026-08-12T0231 · Tasch
 - 2026-08-12T0219 · Old Tusul
 - 2026-08-12T0104 · Sinlapsi
 - 2026-08-12T0053 · Richelet
 - 2026-08-12T0049 · Levelix
 - 2026-08-11T2133 · Jezanis
-- 2026-08-11T1944 · Great Khaganates of the Steppe
-- 2026-08-11T1937 · Kareli Hierarchy
 - 2026-08-11T1916 · Third Moon Fleet
 - 2026-08-11T1820 · Herat
 - 2026-08-11T1818 · Balerey
@@ -106,11 +114,9 @@
 - 2026-08-08T1116 · Rayadan
 - 2026-08-08T1031 · Ikieni
 - 2026-08-08T1031 · Sunborn
-- 2026-08-08T0921 · Vas Ira
 - 2026-08-08T0845 · Iratism
 - 2026-08-08T0800 · Noorism
 - 2026-08-08T0751 · Bigronism
-- 2026-08-08T0728 · Rha-Gis
 - 2026-08-08T0728 · Kherova
 - 2026-08-08T0728 · Bihra Shamanism
 - 2026-08-08T0727 · Zondust
@@ -120,10 +126,7 @@
 - 2026-08-08T0726 · Modern Realmatic Theory
 - 2026-08-08T0726 · Languages of the world
 - 2026-08-08T0725 · Kherovan Inquisition
-- 2026-08-08T0725 · Duol Rabad
-- 2026-08-08T0725 · Gaden
 - 2026-08-08T0724 · Dragon
-- 2026-08-08T0722 · Niryd Steppe
 - 2026-08-08T0716 · Arevi Shamanism
 - 2026-08-08T0114 · Larkomas
 - 2026-08-08T0105 · The Concrete Plane
@@ -145,6 +148,3 @@
 - 2026-08-07T0015 · Nahr
 - 2026-08-07T0014 · Erlmondy
 - 2026-08-07T0014 · Tintarol
-- 2026-08-07T0013 · Rogyn
-- 2026-08-07T0013 · Korwyn
-- 2026-08-07T0012 · Droil

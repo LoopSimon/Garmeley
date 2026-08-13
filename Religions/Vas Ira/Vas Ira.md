@@ -4,7 +4,7 @@
 [[Bigronism]]
 [[Noorism]]
 [[Kareli Hierarchy]]
-[[Duol Rabad]]
+[[Duol Khaganate]]
 [[Jorvistan]]
 [[Niryd Steppe]]
 %%
