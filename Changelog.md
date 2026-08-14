@@ -1,4 +1,6 @@
-- 2026-08-14T0642 · Tah
+- 2026-08-14T1829 · Halfling
+- 2026-08-14T1811 · Tah
+- 2026-08-14T1810 · Kareli Hierarchy
 - 2026-08-14T0640 · Wispmer
 - 2026-08-14T0628 · Yokosch
 - 2026-08-14T0620 · Pharang
@@ -24,7 +26,6 @@
 - 2026-08-13T1333 · Rha-Gis
 - 2026-08-13T1329 · Paqor
 - 2026-08-13T1329 · Tasch
-- 2026-08-13T1144 · Kareli Hierarchy
 - 2026-08-13T0022 · Yl-Lhatsi
 - 2026-08-12T1838 · Vulpus
 - 2026-08-12T1836 · Adeen
@@ -147,4 +148,3 @@
 - 2026-08-07T1151 · Sochor
 - 2026-08-07T1150 · Institute for Practical Energies
 - 2026-08-07T0416 · Trinvale
-- 2026-08-07T0250 · Hien-Ro

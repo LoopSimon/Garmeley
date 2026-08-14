@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>clasped hands</span>
+        <span>White Squirrel on Red & Blue</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -39,7 +39,7 @@
         <strong>Formed</strong>
         <span>752PA</span>
     </div>
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Kareli_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Kareli_3_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Hierarchy formed a few years after the death of the legendary <a href="Mogyr" class="internal-link">mogyri</a> Conqueror <a href="Gaden" class="internal-link">Gaden</a>, who broke Khaganate reign over the people of the southern ports but was unable to guarantee real lasting rule beyond his own lifetime in the region. A progressive and rich country, orcish, bihra and human majorities all call the Hierarchy their home in equal share, with the free port of Aznyr thriving as one of the most multi-cultural and prosperous cities in the known world, acting as the western gate between Ilrakhan and Nirydia on the other end of the <a href="Velvet Caravan" class="internal-link">Velvet Road</a>.</p>
 <p>In recent years the Hierarchy has begun facing a once again consolidated threat by the raiders of the Duol Khaganate, while seeing itself forced to expulse the prospering City of Paqor from its Union due to mounting diplomatic pressure and rising ideological tensions within the Hierarchy. It is still closely allied to the Mogyr of the Drizan although how much they could be relied upon as a united force in times of need remains questionable considering a shifting attitude to foreign exchange with their new Mycomother. The Kareli remain committed to  retain their independence, fostering their own cultural traditions as well as engage in new ventures, being a premier sponsor of the Third Moon Fleet that is set to sail out to Sirenna within a year.</p>
