@@ -1,6 +1,7 @@
 %%
 [[Minruism]]
 [[Elf]]
+[[Orestis]]
 [[Othirdon]]
 %%
 
@@ -30,15 +31,16 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Rogyn <a href="Elf" class="internal-link">Elf</a></span>
+        <span>Tingele <a href="Elf" class="internal-link">Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span> Western Elvish</span>
+        <span>Dirnae</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
+        <span>Clans of Rogyn</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
@@ -49,3 +51,4 @@
 <p>The Elfrealm of Rogyn, meaning "Land of Names" in western elvish, stretches through the Rogyn Forest between Cevolia, Othirdon and Sertova in Eastern Ilrakhan. It has been dominated by the Cult of Names of the Book of Nimru, also simply known as <a href="Minruism" class="internal-link">Minruism</a>, for over a millennia and strictly follows the old teachings of the Book of Names. The Elfs within are extremely xenophobic and isolationist but during different periods in history military and diplomatic contact with the nation was way more frequent. In the current day and age almost nothing is known about the ongoings within the Forest and only few outsiders are permitted to enter.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Rogyn1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
+<p>Dirgael and his reincarnations have been the rulers of Rogyn since ancient times, the first records of Minruism only precede the approximate union of the Tingole, or "Named Ones" by a century if that and is mostly known to us from Oresti records of the ancient <a href="Orestis" class="internal-link">League of Orestis</a> with whom the elder generations of the Tingole are said to have stood in relatively open exchange.</p>
