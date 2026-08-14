@@ -1,3 +1,4 @@
+- 2026-08-14T0620 · Pharang
 - 2026-08-13T2204 · Minotaur
 - 2026-08-13T2201 · Mogyr
 - 2026-08-13T2134 · Pixos
@@ -147,4 +148,3 @@
 - 2026-08-07T0120 · Fellows of the Dancing Flame
 - 2026-08-07T0117 · Stefano Maldini
 - 2026-08-07T0109 · Jeledo
-- 2026-08-07T0018 · Revelle
