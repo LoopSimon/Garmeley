@@ -1,3 +1,6 @@
+%%
+[[Tah]]
+%%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Wispmer.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Nirydian Wispmer</i></small>
 </div>
@@ -5,3 +8,4 @@
 <p>A Wispmer can only align once and essentially fully organically replicates large parts of the cellular structure of its imprinting organism, including cerebral structures. Wispmer retain a variety of their "native" features, such as their resistance to great heat and cold, great conduciveness of electricity and pale, milky complexion. </p>
 <p>A Wispmer can reproduce, if his chosen aligned form is able to do so, however its genetic memory will only ever pass on if doing so with another Wispmer, otherwise resulting in essentially a biological clone of the partner. The lifespan and almost all other similar statistics in regards to things like height, weight etc. are extremely closely representative of their respective alignment.</p>
 <p>The "core" of a Wispmer is a small, twig like membrane that sits within the shape of the creature, any organic matter prior or post alignment not directly connected to a wispmers core decays to an ash like dust within minutes.</p>
+<p>The largest community of Wispmer can be found within the Jungles of Vinjira, where the Lords of the <a href="Tah" class="internal-link">Tah</a> have established themselves as the pre-eminent leaders of an emerging trading city on the southern coast of the Smaragd Sea, uniquely able to survive the hostile jungles of southern Behera and appearently standing in a strange relationship with the mysterious <a href="Tageyo" class="internal-link">Tageyo Field</a> itself.</p>

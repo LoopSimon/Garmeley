@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Yari Cults" class="internal-link">Yari Cults</a>
+        <span><a href="Yari Cults" class="internal-link">Yari Cults</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
