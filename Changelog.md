@@ -1,3 +1,5 @@
+- 2026-08-14T2049 · Vihr
+- 2026-08-14T1939 · The Incursion
 - 2026-08-14T1829 · Halfling
 - 2026-08-14T1811 · Tah
 - 2026-08-14T1810 · Kareli Hierarchy
@@ -146,5 +148,3 @@
 - 2026-08-07T1235 · Uhl
 - 2026-08-07T1159 · Urbridge
 - 2026-08-07T1151 · Sochor
-- 2026-08-07T1150 · Institute for Practical Energies
-- 2026-08-07T0416 · Trinvale
