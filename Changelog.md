@@ -1,8 +1,8 @@
+- 2026-08-16T0125 · Targesis
 - 2026-08-15T2325 · Twintail Imperium
 - 2026-08-15T2324 · Liandar
 - 2026-08-15T2315 · Homunculus
 - 2026-08-15T2312 · Simulacrum
-- 2026-08-15T2308 · Targesis
 - 2026-08-15T2101 · Perisco Effect
 - 2026-08-15T1551 · Artor Perisco
 - 2026-08-15T1542 · Complete Timeline
