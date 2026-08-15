@@ -1,3 +1,6 @@
+- 2026-08-15T1551 · Artor Perisco
+- 2026-08-15T1542 · Complete Timeline
+- 2026-08-15T1523 · Perisco Effect
 - 2026-08-14T2308 · Ramper
 - 2026-08-14T2134 · Rogyn
 - 2026-08-14T2126 · Vihr
@@ -16,7 +19,6 @@
 - 2026-08-13T2052 · Bihra
 - 2026-08-13T2034 · Kasthemis
 - 2026-08-13T1949 · Japhal
-- 2026-08-13T1944 · Complete Timeline
 - 2026-08-13T1941 · Lisava
 - 2026-08-13T1938 · Bihra Shamanism
 - 2026-08-13T1415 · Niryd Steppe
@@ -146,5 +148,3 @@
 - 2026-08-08T0102 · The Abyss
 - 2026-08-07T1348 · Acceleration Theory
 - 2026-08-07T1243 · Oleksandr IV
-- 2026-08-07T1239 · Brothers War
-- 2026-08-07T1235 · Uhl
