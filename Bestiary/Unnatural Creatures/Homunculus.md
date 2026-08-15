@@ -1,0 +1,8 @@
+%%
+[[Targesis]]
+[[Alchemy]]
+[[Simulacrum]]
+[[Liandar]]
+%%
+<p>A general term for attempts at creating an artificial, ideally sentient and self-sufficient organism of magical making, not to be confused with a <a href="Simulacrum" class="internal-link">Simulacrum</a>. Where a simulacrum is fundamentally a copy or imitation of an existing person or thing, the homunculus is an artificially created miniature human or humanoid being through the practice known as Alchemy or Kynosis. The Creation of a Homunculus has been one of the largest taboos within <a href="Alchemy" class="internal-link">Alchemy</a> and was the "Great Sin" of the ancient <a href="Cyraclion" class="internal-link">cyracli</a> school of Kynosis, where it was seen as the gravest crime one could commit against nature itself. The ideal homunculus is a distinct, living construct, that may possess their own will, intelligence, or personality, often resembling artificial children or servants if not warriors or the like. The Iron Code of the Alchemists Guild forbids the creation of a homunculus as well, as it does all manners of creation of life. </p>
+<p>The urien Alchemist <a href="Targesis" class="internal-link">Targesis</a> is said to have created an homunculus successfully during the 6th century, but there is little to no evidence for this feat. Following Targesis there are various reports of the <a href="Liandar" class="internal-link">Liandar</a>, a sect of Alchemists within Shirin culture in service to the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> of central Nirydia, having created and perfected the processes of the Taidan, the creation of an artificial being with limited capabilities, alike to the legends of the homunculi of Ilrakhan.</p>

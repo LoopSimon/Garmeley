@@ -1,6 +1,11 @@
+- 2026-08-15T2325 · Twintail Imperium
+- 2026-08-15T2324 · Liandar
+- 2026-08-15T2315 · Homunculus
+- 2026-08-15T2312 · Simulacrum
+- 2026-08-15T2308 · Targesis
+- 2026-08-15T2101 · Perisco Effect
 - 2026-08-15T1551 · Artor Perisco
 - 2026-08-15T1542 · Complete Timeline
-- 2026-08-15T1523 · Perisco Effect
 - 2026-08-14T2308 · Ramper
 - 2026-08-14T2134 · Rogyn
 - 2026-08-14T2126 · Vihr
@@ -45,7 +50,6 @@
 - 2026-08-12T1311 · Gaal
 - 2026-08-12T1218 · Pharabal
 - 2026-08-12T0255 · Yeorite
-- 2026-08-12T0255 · Twintail Imperium
 - 2026-08-12T0255 · League of Aviv
 - 2026-08-12T0255 · Girdineux
 - 2026-08-12T0255 · Faraz
@@ -144,7 +148,3 @@
 - 2026-08-08T0724 · Dragon
 - 2026-08-08T0716 · Arevi Shamanism
 - 2026-08-08T0114 · Larkomas
-- 2026-08-08T0105 · The Concrete Plane
-- 2026-08-08T0102 · The Abyss
-- 2026-08-07T1348 · Acceleration Theory
-- 2026-08-07T1243 · Oleksandr IV
