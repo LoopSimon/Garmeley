@@ -18,11 +18,11 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>501PA, Rellsworth</span>
+        <span>501PA, Castle Rell</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>570PA, Rellsworth</span>
+        <span>570PA, Castle Rell</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
@@ -37,5 +37,5 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Targesis.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Martin Rellsworth, better known by his alias "Targesis" was the Count of Rellsworth and a renowned Alchemist in southern Eldmar during the 6th century, he is best known for his supposed creation of a functioning <a href="Homunculus" class="internal-link">Homunculus</a> capable of speech and thought. Martin was the last of the Rellsworth line and his ancestral home, Castle Rell, was later given to the House Lindsley when they were rewarded for services rendered to the King of Eldmar. </p>
+<p>Martin Rellsworth, better known by his alias "Targesis" was the Count of Rellsworth and a renowned Alchemist in southern <a href="Urland" class="internal-link">Urland</a> during the 6th century, he is best known for his supposed creation of a functioning <a href="Homunculus" class="internal-link">Homunculus</a> capable of speech and thought. Martin was the last of the Rellsworth line and his ancestral home, Castle Rell, was later given to the House Lindsley when they were rewarded for services rendered to the King of Urland. </p>
 <p>Few of the occult and infamous writings of Targesis are said to have survived the raid conducted by robber baron following his death but the last Count of Rellsworth has become a subject to various tales of folklore and mystery within the lands of Ur, usually pertaining his command of alchemical forces and "Halls of servants made from Wax and Spell". </p>

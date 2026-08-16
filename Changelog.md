@@ -1,4 +1,7 @@
-- 2026-08-16T0125 · Targesis
+- 2026-08-17T0121 · Vlad V
+- 2026-08-16T2235 · Rulers of the Grachi
+- 2026-08-16T1329 · Codex Thereticum
+- 2026-08-16T0127 · Targesis
 - 2026-08-15T2325 · Twintail Imperium
 - 2026-08-15T2324 · Liandar
 - 2026-08-15T2315 · Homunculus
@@ -101,7 +104,6 @@
 - 2026-08-09T2136 · Brystone
 - 2026-08-09T1428 · Izhevk
 - 2026-08-09T1418 · Cockatrice
-- 2026-08-09T1344 · Codex Thereticum
 - 2026-08-09T1247 · Vormil III
 - 2026-08-09T1136 · Volboris
 - 2026-08-09T1135 · Tronos
@@ -146,5 +148,3 @@
 - 2026-08-08T0726 · Languages of the world
 - 2026-08-08T0725 · Kherovan Inquisition
 - 2026-08-08T0724 · Dragon
-- 2026-08-08T0716 · Arevi Shamanism
-- 2026-08-08T0114 · Larkomas

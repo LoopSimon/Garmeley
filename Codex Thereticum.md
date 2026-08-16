@@ -105,3 +105,15 @@ I glisten in the morning dew, the careless traveler's bane,
 I bind the struggling prisoner without a single chain.  
 What am I?
 - Spiderweb
+
+I hollow marble to its bone,
+no armys ever breached my throne.
+I gave the king the weight he bore,
+Ive buried every thing before.
+Who am i?
+
+I take your form but not your skin,
+By light alone am I let in.
+Rest eyes at night and I am gone,
+I have no weight to lean upon.
+Who am i?

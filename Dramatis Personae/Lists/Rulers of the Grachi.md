@@ -28,8 +28,8 @@
 <p>Fyodor V "The Fat" of Jerinov, 541PA - 557PA</p>
 <p>Pietr III of Jerinov, 557 - 579PA</p>
 <p>Vlad IV of Jerinov, 579 - 595PA</p>
-<p>Andrej I of Jerinov, 595PA - 610PA </p>
-<p>Vlad V "the Cursed" of Jerinov, 610PA - 628PA</p>
+<p>Andrej I of Jerinov, 595PA - 599PA </p>
+<p><a href="Vlad V" class="internal-link">Vlad V "the Cursed" of Jerinov</a>, 600PA - 628PA</p>
 
 Grachi Disaster of 629
 
