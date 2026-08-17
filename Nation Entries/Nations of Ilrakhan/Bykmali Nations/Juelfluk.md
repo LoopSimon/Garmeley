@@ -3,6 +3,7 @@
 [[Baeling Empire]]
 [[Nilborg]]
 [[Madeley IV]]
+[[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jueli Kingdom</h4>
@@ -29,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Jueli <a href="Human">Human</a></span>
+        <span><a href="Bykmåli" class="internal-link">Jueli</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

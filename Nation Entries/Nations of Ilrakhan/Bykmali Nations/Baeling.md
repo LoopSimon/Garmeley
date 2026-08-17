@@ -6,6 +6,7 @@
 [[Varald I]]
 [[Jallbreg]]
 [[Melmer]]
+[[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Baeling Kingdom</h4> <div class="wiki-row">
@@ -31,7 +32,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Olbellinge <a href="Human">Human</a></span>
+        <span><a href="Bykmåli" class="internal-link">Olbellinge</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

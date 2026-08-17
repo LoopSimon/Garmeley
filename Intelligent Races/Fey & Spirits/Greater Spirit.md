@@ -1,4 +1,4 @@
-%% [[Yari]]
+%[](Yari.md)]]
  [[Kindly Lords]]
  [[Terem-Zal]]
  [[Aeldcult]]

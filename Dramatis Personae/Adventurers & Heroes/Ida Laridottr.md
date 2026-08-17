@@ -5,7 +5,7 @@
     <h4 class="wiki-header">Ida Laridottr</h4>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Jueli <a href="Human">Human</a></span>
+        <span><a href="Bykmåli" class="internal-link">Jueli</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

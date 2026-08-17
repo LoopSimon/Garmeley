@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Olbellinge Human</span>
+        <span><a href="Olbellinge" class="internal-link">Jueli</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
