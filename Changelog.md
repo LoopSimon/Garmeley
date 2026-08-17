@@ -1,7 +1,21 @@
+- 2026-08-18T0145 · Blijgrat
+- 2026-08-18T0145 · Dirneux
+- 2026-08-18T0145 · Freelands
+- 2026-08-18T0145 · Gisvale
+- 2026-08-18T0145 · Lesmere
+- 2026-08-18T0145 · Meadrath
+- 2026-08-18T0144 · Mear
+- 2026-08-18T0144 · Morelle
+- 2026-08-18T0144 · Risfalt
+- 2026-08-18T0144 · Wargel
+- 2026-08-18T0144 · Weisch
+- 2026-08-18T0144 · Bykmåli
+- 2026-08-18T0143 · Zmalig
+- 2026-08-18T0140 · Meadi
+- 2026-08-18T0138 · Roygviil
+- 2026-08-18T0138 · Ukiolla
 - 2026-08-18T0119 · Vasily Surovsky
 - 2026-08-18T0118 · Pehki
-- 2026-08-18T0111 · Ukiolla
-- 2026-08-18T0111 · Bykmåli
 - 2026-08-18T0106 · Vignasoya
 - 2026-08-18T0105 · Nilborg
 - 2026-08-18T0105 · Juelfluk
@@ -134,17 +148,3 @@
 - 2026-08-10T0200 · Gharel Talnod
 - 2026-08-10T0156 · Nurlight
 - 2026-08-09T2136 · Brystone
-- 2026-08-09T1428 · Izhevk
-- 2026-08-09T1418 · Cockatrice
-- 2026-08-09T1247 · Vormil III
-- 2026-08-09T1136 · Volboris
-- 2026-08-09T1131 · Razmyr
-- 2026-08-09T1124 · Avero
-- 2026-08-09T1119 · Gelmsburg
-- 2026-08-09T1115 · Muriel von Gloss
-- 2026-08-08T2150 · Falt
-- 2026-08-08T2144 · Firbolg
-- 2026-08-08T1735 · Alchemy
-- 2026-08-08T1631 · Khaba
-- 2026-08-08T1625 · Joakim zi Szarbel
-- 2026-08-08T1615 · Welcome

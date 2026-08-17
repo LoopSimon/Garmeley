@@ -2,6 +2,7 @@
 [[Trinicism]]
 [[Meadrath]]
 [[Wargel]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Risfalt</h4>
@@ -28,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Meadi <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Rhilmer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

@@ -4,6 +4,7 @@
 [[Baeling Empire]]
 [[Gisela II]]
 [[Yahrwick]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Landgraviate of Weisch</h4>
@@ -30,7 +31,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Meadi Rhilmer<a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Rhilmer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

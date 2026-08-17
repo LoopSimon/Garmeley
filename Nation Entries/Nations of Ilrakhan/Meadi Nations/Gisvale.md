@@ -3,6 +3,7 @@
 [[Meadrath]]
 [[Lesmere]]
 [[Uhl]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Archduchy of Gisvale</h4>
@@ -29,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Meadi Gismer <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Gismer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

@@ -3,6 +3,7 @@
 [[Meadrath]]
 [[Blijgrat]]
 [[Baeling Empire]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Lesmere</h4>
@@ -29,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Weadi Kranmer <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Kranmer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
