@@ -1,14 +1,29 @@
+- 2026-08-17T2323 · Homunculus
+- 2026-08-17T1150 · Tronos
+- 2026-08-17T1149 · Melmer
+- 2026-08-17T1149 · Markur
+- 2026-08-17T1149 · Lyandra
+- 2026-08-17T1149 · Kifrir
+- 2026-08-17T1148 · Dorian
+- 2026-08-17T1146 · Yelena
+- 2026-08-17T1145 · Complete Timeline
+- 2026-08-17T1142 · Vazena
+- 2026-08-17T1140 · Andre
+- 2026-08-17T1136 · Ralond
+- 2026-08-17T1134 · Palus
+- 2026-08-17T1119 · Kasimir
+- 2026-08-17T1113 · Igor
+- 2026-08-17T1111 · Gethric
+- 2026-08-17T1107 · Fredric
 - 2026-08-17T0122 · Vlad V
 - 2026-08-16T2235 · Rulers of the Grachi
 - 2026-08-16T1329 · Codex Thereticum
 - 2026-08-16T0127 · Targesis
 - 2026-08-15T2325 · Twintail Imperium
 - 2026-08-15T2324 · Liandar
-- 2026-08-15T2315 · Homunculus
 - 2026-08-15T2312 · Simulacrum
 - 2026-08-15T2101 · Perisco Effect
 - 2026-08-15T1551 · Artor Perisco
-- 2026-08-15T1542 · Complete Timeline
 - 2026-08-14T2308 · Ramper
 - 2026-08-14T2134 · Rogyn
 - 2026-08-14T2126 · Vihr
@@ -106,21 +121,7 @@
 - 2026-08-09T1418 · Cockatrice
 - 2026-08-09T1247 · Vormil III
 - 2026-08-09T1136 · Volboris
-- 2026-08-09T1135 · Tronos
 - 2026-08-09T1131 · Razmyr
-- 2026-08-09T1128 · Yelena
-- 2026-08-09T1127 · Vazena
-- 2026-08-09T1127 · Ralond
-- 2026-08-09T1127 · Palus
-- 2026-08-09T1127 · Melmer
-- 2026-08-09T1127 · Lyandra
-- 2026-08-09T1127 · Kifrir
-- 2026-08-09T1127 · Kasimir
-- 2026-08-09T1127 · Igor
-- 2026-08-09T1127 · Fredric
-- 2026-08-09T1127 · Dorian
-- 2026-08-09T1126 · Andre
-- 2026-08-09T1126 · Markur
 - 2026-08-09T1124 · Avero
 - 2026-08-09T1119 · Gelmsburg
 - 2026-08-09T1115 · Muriel von Gloss
@@ -147,4 +148,3 @@
 - 2026-08-08T0726 · Modern Realmatic Theory
 - 2026-08-08T0726 · Languages of the world
 - 2026-08-08T0725 · Kherovan Inquisition
-- 2026-08-08T0724 · Dragon
