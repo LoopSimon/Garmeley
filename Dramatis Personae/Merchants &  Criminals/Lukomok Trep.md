@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span> <a href="Gnome" class="internal-link">Gnome</a></span>
+        <span>Urien <a href="Gnome" class="internal-link">Gnome</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

@@ -6,6 +6,7 @@
 [[Auguric Rite & Autonomous Spells]]
 [[Viagoris]]
 [[Andre]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Muriel von Gloss</h4>
@@ -15,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Meadi <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Low Meadmer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

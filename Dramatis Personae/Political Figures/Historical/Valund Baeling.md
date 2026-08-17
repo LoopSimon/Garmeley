@@ -1,5 +1,5 @@
 %%
-[[Baeling Empire]]
+[[Baeling Empire]] [[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Valund Baeling</h4>

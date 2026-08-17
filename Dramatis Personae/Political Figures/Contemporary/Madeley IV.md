@@ -1,6 +1,7 @@
 %%
 [[Juelfluk]]
 [[Nilborg]]
+[[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Madeley of Udry</h4>

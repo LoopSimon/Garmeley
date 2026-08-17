@@ -1,6 +1,7 @@
 %%
 [[Niedrest]]
 [[Niedrest Incident]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Gislif Mellwing</h4>
@@ -10,11 +11,11 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Meadi Human</span>
+        <span><a href="Meadi" class="internal-link">Gismer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>881PA, Niedrest</span>
+        <span>881PA, Giselstatt</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

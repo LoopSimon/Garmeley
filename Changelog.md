@@ -1,3 +1,21 @@
+- 2026-08-18T0154 · Muriel von Gloss
+- 2026-08-18T0154 · Wulfrick
+- 2026-08-18T0152 · Galiatar Inkfingers
+- 2026-08-18T0152 · Korman van Schipwig
+- 2026-08-18T0151 · Shymon Epios
+- 2026-08-18T0151 · Pavo of Alban
+- 2026-08-18T0151 · Jan van Swarn
+- 2026-08-18T0150 · Valund Baeling
+- 2026-08-18T0150 · Gisela II
+- 2026-08-18T0150 · Varald I
+- 2026-08-18T0150 · Odrick von Fulmer
+- 2026-08-18T0150 · Madeley IV
+- 2026-08-18T0149 · Gisela IV
+- 2026-08-18T0148 · Pieter van Dielen
+- 2026-08-18T0148 · Lukomok Trep
+- 2026-08-18T0148 · Gislif Mellwing
+- 2026-08-18T0148 · Kaspar Vasser
+- 2026-08-18T0147 · Meadi
 - 2026-08-18T0145 · Blijgrat
 - 2026-08-18T0145 · Dirneux
 - 2026-08-18T0145 · Freelands
@@ -11,7 +29,6 @@
 - 2026-08-18T0144 · Weisch
 - 2026-08-18T0144 · Bykmåli
 - 2026-08-18T0143 · Zmalig
-- 2026-08-18T0140 · Meadi
 - 2026-08-18T0138 · Roygviil
 - 2026-08-18T0138 · Ukiolla
 - 2026-08-18T0119 · Vasily Surovsky
@@ -21,10 +38,7 @@
 - 2026-08-18T0105 · Juelfluk
 - 2026-08-18T0105 · Baeling
 - 2026-08-18T0104 · Baeling Empire
-- 2026-08-18T0104 · Valund Baeling
 - 2026-08-18T0103 · Bersi Hurtfing
-- 2026-08-18T0103 · Varald I
-- 2026-08-18T0103 · Madeley IV
 - 2026-08-18T0102 · Ylva
 - 2026-08-18T0101 · Toski
 - 2026-08-18T0101 · Egill
@@ -134,17 +148,3 @@
 - 2026-08-10T2136 · Bruša
 - 2026-08-10T2136 · Dišela
 - 2026-08-10T2135 · Amlija
-- 2026-08-10T2040 · Pinh-Ub
-- 2026-08-10T2037 · Xolor
-- 2026-08-10T2035 · Renessis
-- 2026-08-10T2034 · Cirinzel
-- 2026-08-10T2034 · Melgard
-- 2026-08-10T2034 · Mirel
-- 2026-08-10T1409 · Valenty Sykes
-- 2026-08-10T1408 · The Alchemists Guild
-- 2026-08-10T1336 · Pukluwuk
-- 2026-08-10T0208 · Antonin Slowoska
-- 2026-08-10T0206 · Jan van Swarn
-- 2026-08-10T0200 · Gharel Talnod
-- 2026-08-10T0156 · Nurlight
-- 2026-08-09T2136 · Brystone

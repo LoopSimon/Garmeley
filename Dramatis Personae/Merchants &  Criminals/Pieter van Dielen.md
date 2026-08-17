@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span> Weadi <a href="Human" class="internal-link">Human</a></span>
+        <span> <a href="Meadi" class="internal-link">Frijmer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

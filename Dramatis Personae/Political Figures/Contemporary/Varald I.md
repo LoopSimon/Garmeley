@@ -2,6 +2,7 @@
 [[Baeling]]
 [[Valund Baeling]]
 [[Jallbreg]]
+[[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Varald Omel Baeling</h4>

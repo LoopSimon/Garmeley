@@ -1,6 +1,7 @@
 %%
 [[Meadrath]]
 [[Gisela IV]]
+[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Odrick von Fulmer</h4>
@@ -10,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Meadi <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Rhilmer</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
