@@ -3,7 +3,7 @@
 [[Trykkerog]]
 [[Baeling Empire]]
 [[Droil]]
-[[Bykmåli]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Korringe of Vignasoya</h4> <div class="wiki-row">

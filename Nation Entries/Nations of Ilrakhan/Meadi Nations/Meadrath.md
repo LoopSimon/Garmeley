@@ -10,7 +10,7 @@
 [[Meadland]]
 [[Auguri Dominion]]
 [[Blijgrat]]
-[[Meadi]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Meadrath</h4>

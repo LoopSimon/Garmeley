@@ -1,6 +1,7 @@
 %%
 [[Grachy]]
 [[Izhevk]]
+[[Vihri]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Eril Zarivic Ruda</h4>
@@ -10,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Grachi Human</span>
+        <span><a href="Vihri" class="internal-link">Grachi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

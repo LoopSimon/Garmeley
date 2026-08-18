@@ -24,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Weadi <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Meadi" class="internal-link">Weadi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

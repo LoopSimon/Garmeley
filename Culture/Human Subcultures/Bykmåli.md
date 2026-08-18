@@ -1,11 +1,5 @@
 %%
 [[Trykkerog]]
-[[Baeling]]
-[[Juelfluk]]
-[[Baeling Empire]]
-[[Vignasoya]]
-[[Nilborg]]
-[[Zmalig]]
 %%
 <p>The Bykmåli are the inhabitants of <a href="Trykkerog" class="internal-link">Trykkerog</a>, the large island north of the Torn Sea, they can be roughly divided into the Olbellinge, Jueli, Hevri and Skori peoples. Bykmåli literally means "inheritors of the land" in the shared tongue of the many Bykmål Dialects. </p>
 <p>The natives of Trykkerog are often viewed as harsh and brutish men, primarily due to their long history of raiding the southern coasts, a practice largely replaced by the greater empire building practices of the Baeling Dynasty and phased out following the gethric conversions of Melmers Voyages. The Bykmåli are culturally closely tied to the <a href="Pehki" class="internal-link">Pehki peoples</a> of <a href="Nostroya" class="internal-link">Nostroya</a>, sharing many cultural and religious traditions with them. Some former settlers during the time of the Baeling Empire of old and now modern spread of souls around the torn sea have united with weadi and meadi peoples in the Bishopric of <a href="Zmalig" class="internal-link">Zmalig</a> on the mainland and make up a substantial part of the local demographic there.</p>

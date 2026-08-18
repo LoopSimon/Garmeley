@@ -3,7 +3,6 @@
 [[Meadrath]]
 [[Auguri Dominion]]
 [[Dirneux]]
-[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Morelle</h4>

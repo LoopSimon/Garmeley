@@ -4,7 +4,6 @@
 [[Baeling Empire]]
 [[Gisela II]]
 [[Yahrwick]]
-[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Landgraviate of Weisch</h4>

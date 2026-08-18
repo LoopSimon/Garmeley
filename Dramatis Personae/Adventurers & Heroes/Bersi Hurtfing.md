@@ -1,5 +1,6 @@
 %%
 [[Mørbrig]]
+[[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Bersi Hurtfing</h4>

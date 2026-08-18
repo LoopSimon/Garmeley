@@ -1,13 +1,13 @@
 %%
 [[Mikael Bivaldi]]
-[[Garmeley]]
+[[Urien]]
 [[Garmish Succession Crisis]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elena Montegu</h4>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Garmish Human</span>
+        <span><a href="Urien" class="internal-link">Garmish</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

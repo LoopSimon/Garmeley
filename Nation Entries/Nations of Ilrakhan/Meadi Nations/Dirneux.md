@@ -3,7 +3,7 @@
 [[Meadrath]]
 [[Auguri Dominion]]
 [[Morelle]]
-[[Meadi]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Archuchy of Dirneux</h4>

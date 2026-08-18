@@ -1,7 +1,6 @@
 %%
-[[Garmeley]]
-[[Urland]]
-[[Turvik Paganism]]
+[[Urien]]
+[[Turvik Paganism]]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Meynar Stipjan of Jorrenstead</h4>
@@ -11,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Garmish <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Urien" class="internal-link">Garmish</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

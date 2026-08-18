@@ -3,7 +3,7 @@
 [[Baeling Empire]]
 [[Nilborg]]
 [[Madeley IV]]
-[[Bykmåli]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jueli Kingdom</h4>

@@ -2,7 +2,6 @@
 [[Trinicism]]
 [[Meadrath]]
 [[Gesellschaft für Westmeadischen Handel]]
-[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Mear</h4>

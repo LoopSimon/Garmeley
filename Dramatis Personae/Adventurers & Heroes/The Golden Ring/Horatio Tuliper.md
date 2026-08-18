@@ -7,7 +7,7 @@
     <h4 class="wiki-header">Horatio Momery Tuliper III</h4>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Urien Halfling</span>
+        <span><a href="Urien" class="internal-link">Nied</a> <a href="Halfling" class="internal-link">Halfling</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

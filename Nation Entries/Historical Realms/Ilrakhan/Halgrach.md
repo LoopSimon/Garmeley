@@ -19,11 +19,11 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Gethricism" class="internal-link">Gethricism</a>
+        <a href="Gethricism" class="internal-link"> High Gethricism</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Grachi</span>
+        <span><a href="Vihri" class="internal-link">Grachi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

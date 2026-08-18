@@ -4,7 +4,7 @@
 [[Halfling]]
 [[Othirdon]]
 [[Meadland]]
-[[Meadi]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Meadi Freelands</h4>

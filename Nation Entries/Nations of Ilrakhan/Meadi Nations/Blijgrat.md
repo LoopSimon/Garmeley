@@ -3,7 +3,7 @@
 [[Weadland]]
 [[Baeling Empire]]
 [[Geldfield Unie van Vrijhandel]]
-[[Meadi]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Blijgrat League</h4>

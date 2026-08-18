@@ -2,8 +2,6 @@
 [[Trinicism]]
 [[Baeling Empire]]
 [[Meadrath]]
-[[Meadi]]
-[[Bykmåli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Zmalig Theocracy</h4>

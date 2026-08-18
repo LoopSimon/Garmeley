@@ -1,7 +1,7 @@
 %%
 [[Izhevk]]
 [[Wermian Accords]]
-[[Kharnov]]
+[[Vihri]]
 [[Bersi Hurtfing]]
 %%
 <div class="wiki-infobox">
@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Grachi <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Vihri" class="internal-link">Grachi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
@@ -29,7 +29,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
-        <span>Biomancy,<br>Enchantment Magic</span>
+        <span>Enchantment Magic</span>
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>

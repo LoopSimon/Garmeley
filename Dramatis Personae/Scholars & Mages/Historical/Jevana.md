@@ -1,6 +1,7 @@
 %%
 [[Auguric Rite & Autonomous Spells]]
 [[Gelmsburg]]
+[[Urien]]
 [[Zovac Harlini]]
 [[Orenburg Pact]]
 %%
@@ -13,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Urien <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Urien" class="internal-link">Ares</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

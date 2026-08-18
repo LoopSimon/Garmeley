@@ -2,6 +2,7 @@
 [[Niedrest]]
 [[Kherovan Inquisition]]
 [[Niedrest Incident]]
+[[Dwarf]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Valeri Temzin</h4>

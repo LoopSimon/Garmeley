@@ -6,6 +6,7 @@
 [[Eldmar]]
 [[Urbridge]]
 %%
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Arester</h4>
     <div class="wiki-row">
@@ -31,7 +32,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Urien Human</span>
+        <span><a href="Urien" class="internal-link">Ares</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

@@ -3,7 +3,7 @@
 [[Meadrath]]
 [[Lesmere]]
 [[Uhl]]
-[[Meadi]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Archduchy of Gisvale</h4>

@@ -28,7 +28,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Vihri <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Vihri" class="internal-link">Vihri</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

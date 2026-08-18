@@ -2,7 +2,6 @@
 [[Trinicism]]
 [[Meadrath]]
 [[Wargel]]
-[[Meadi]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Risfalt</h4>

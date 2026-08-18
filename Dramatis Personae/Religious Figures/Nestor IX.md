@@ -19,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Urien <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Urien" class="internal-link">Gim</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

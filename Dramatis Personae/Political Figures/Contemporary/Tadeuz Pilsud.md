@@ -11,11 +11,11 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Vihri <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Vihri" class="internal-link">Low Vihri</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>884PA, Fulmer</span>
+        <span>884PA, Szievek</span>
     </div>
     <div class="wiki-row">
         <strong>Died</strong>

@@ -30,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kerlean Human</span>
+        <span><a href="Urien" class="internal-link">Kerlaen</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

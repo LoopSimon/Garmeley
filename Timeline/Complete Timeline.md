@@ -515,6 +515,7 @@
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
+            <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously, Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>

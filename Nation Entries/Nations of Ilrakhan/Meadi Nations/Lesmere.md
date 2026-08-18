@@ -3,7 +3,7 @@
 [[Meadrath]]
 [[Blijgrat]]
 [[Baeling Empire]]
-[[Meadi]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duchy of Lesmere</h4>

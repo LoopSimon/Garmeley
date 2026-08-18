@@ -1,6 +1,7 @@
 %%
 [[Turvik Paganism]]
 [[Vihrmen Federation]]
+[[Elf]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kortyr</h4>
@@ -14,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span> Vihri  Half <a href="Human" class="internal-link">Human</a>, Half <a href="Elf" class="internal-link">Elf</a></span>
+        <span><a href="Vihri" class="internal-link">Wyt</a> <a href="Human" class="internal-link">Human</a>, Half <a href="Elf" class="internal-link">Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

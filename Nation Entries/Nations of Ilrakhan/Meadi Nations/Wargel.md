@@ -2,7 +2,6 @@
 [[Trinicism]]
 [[Meadrath]]
 [[Risfalt]]
-[[Meadi]]
 [[Ott]]
 %%
 <div class="wiki-infobox">
