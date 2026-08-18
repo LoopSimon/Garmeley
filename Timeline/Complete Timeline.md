@@ -414,7 +414,7 @@
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
-            <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three</div>
+            <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three, Timpo leads his people north and founds Vigzil</div></div>
             <div class="timeline-item" data-date="700PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
@@ -424,7 +424,6 @@
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
-            <div class="timeline-item" data-date="711PA">Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="719PA">Duke Abelard II von Kran conquers Hasterhall</div>

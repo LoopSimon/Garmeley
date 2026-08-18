@@ -39,11 +39,11 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>711PA</span>
+        <span>699PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Vigzil_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>Following the Khulhki-Rebellion of the late 7th century PA, tens of thousands of Shirin Loyalists followed Timpo, Khulkis nephew, northwards into the tundra of Gellions Folly where they would proclaim a new nation of free Shirin, rejecting the oppressive Twintail and the worship of Lakal. Today Vigzil is a larger realm within northern Nirydia and has largely adopted Zuhuri traditions, still openly opposing the Imperium in all major conflicts on the international stage.</p>
+<p>Following the Khulhki-Rebellion of the late 7th century PA, tens of thousands of Shirin Loyalists followed Timpo, Khulkis nephew, northwards into the tundra of Gellions Folly where they would proclaim a new nation of free Shirin, rejecting the oppressive Twintail and the worship of Lakal. Today Vigzil is an important realm within northern Nirydia and has largely adopted Zuhuri traditions, still openly opposing the Imperium in all major conflicts on the international stage.</p>
 <h2>Foundational History</h2>
 <p><small><i>for a more detailed explanation of the Rebellion and its Lead up see <a href="Twintail Imperium" class="internal-link">Lisil III and the Khulki Rebellion (670 PA – 695 PA)</a></i></small></p>
 <p>The military defeat of the Khulki Rebellion did not extinguish the movement it represented. In the immediate aftermath of the rebellion's collapse, Timpo, nephew of Khulki and the most prominent surviving leader of the Zuhurist faction, organized the withdrawal of the rebellion's committed religious core northward rather than accept reintegration into an Imperium they regarded as irredeemably corrupt. The exodus drew tens of thousands of Shirin loyalists including families, scholars, clergy, and former fighters, traced a difficult route into the subarctic tundra region known of  Gellion's Folly.</p>

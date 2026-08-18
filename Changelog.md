@@ -1,3 +1,6 @@
+- 2026-08-19T0002 · Vigzil
+- 2026-08-19T0002 · Twintail Imperium
+- 2026-08-19T0000 · Complete Timeline
 - 2026-08-18T1940 · Vihr
 - 2026-08-18T1940 · Trazlova
 - 2026-08-18T1940 · Torry
@@ -39,7 +42,6 @@
 - 2026-08-18T1923 · Livia Bistovka
 - 2026-08-18T1923 · Bersi Hurtfing
 - 2026-08-18T1922 · Vihri
-- 2026-08-18T1849 · Complete Timeline
 - 2026-08-18T1257 · Bykmåli
 - 2026-08-18T1256 · Zmalig
 - 2026-08-18T1256 · Weisch
@@ -129,7 +131,6 @@
 - 2026-08-17T1107 · Fredric
 - 2026-08-16T2235 · Rulers of the Grachi
 - 2026-08-16T1329 · Codex Thereticum
-- 2026-08-15T2325 · Twintail Imperium
 - 2026-08-15T2324 · Liandar
 - 2026-08-15T2312 · Simulacrum
 - 2026-08-15T2101 · Perisco Effect
@@ -147,4 +148,3 @@
 - 2026-08-13T2201 · Mogyr
 - 2026-08-13T2134 · Pixos
 - 2026-08-13T2123 · Rayadan
-- 2026-08-13T2121 · Ajaran Mor
