@@ -1,8 +1,8 @@
+- 2026-08-19T1546 · Greater Chihim
+- 2026-08-19T1545 · Greater Aatar
 - 2026-08-19T1533 · Lakalism
 - 2026-08-19T1532 · Complete Timeline
 - 2026-08-19T1522 · Twintail Imperium
-- 2026-08-19T1522 · Greater Chihim
-- 2026-08-19T1522 · Greater Aatar
 - 2026-08-19T1513 · Goarism
 - 2026-08-19T1510 · Rulers of the Shirin
 - 2026-08-19T1455 · Vigzil

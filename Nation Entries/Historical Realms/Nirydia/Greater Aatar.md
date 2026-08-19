@@ -23,7 +23,7 @@
  </div>
  <div class="wiki-row">
  <strong>Heraldic Symbol</strong>
- <span>N/A</span>
+ <span>Jellyfish on Gold</span>
  </div>
  <hr class="wiki-hr">
  <div class="wiki-row">
@@ -55,6 +55,7 @@
  <strong>Disbanded</strong>
  <span>83PA</span>
  </div>
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Aatar_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>The Greater Aatar was the second unified Shirin empire, established in 281BA following the succession wars that destroyed the <a href="Greater Chihim" class="internal-link">Greater Chihim</a> and ruling the Mondi Delta and river plain for over three and a half centuries. Founded by the Aatar house as an entirely new ruling class displacing the Chihim institutional tradition, the Greater Aatar represents the longest continuous period of unified Shirin governance in recorded history. Its eventual collapse in 83PA, driven primarily by the rising influence of <a href="Lakalism" class="internal-link">Lakalist</a> religious factions whose competing claims on political legitimacy overwhelmed the Aatar's capacity for institutional management, produced the Era of Four Kingdoms from which the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> would ultimately emerge.</p>

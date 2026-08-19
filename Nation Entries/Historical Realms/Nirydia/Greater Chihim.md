@@ -23,7 +23,7 @@
  </div>
  <div class="wiki-row">
  <strong>Heraldic Symbol</strong>
- <span>N/A</span>
+ <span>Black Spear piercing the Sun</span>
  </div>
  <hr class="wiki-hr">
  <div class="wiki-row">
@@ -55,6 +55,7 @@
  <strong>Disbanded</strong>
  <span>291BA</span>
  </div>
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Chihim_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
 <p>The Greater Chihim was the first unified political entity of the <a href="Shirin" class="internal-link">Shirin</a> peoples, established in 428BA following nearly two and a half centuries of fragmentation and warfare among the kingdoms of the Mondi Delta and river plain. Its founding by the Chihim Dynasty brought an end to the Warring Period and established the administrative, cultural and religious foundations upon which all subsequent Shirin civilizations would build. The Greater Chihim endured for nearly a century and a half before collapsing into the succession wars that ultimately produced its successor state, the <a href="Greater Aatar" class="internal-link">Greater Aatar</a>.</p>
