@@ -33,9 +33,9 @@ A series of religious conflicts in eastern Nirydia concerning the Spread of [[Zu
 
 
 ### **Fourth Zuhuri Holy War**
-*751PA-760PA*
+*683PA-692PA*
 
-<p>The fourth Zuhuri Holy war was declared in 751PA by the League of Aviv in an effort to convert the heathens of Labella that had threatened to lay claim to the holy Spring of Light, a zuhuri Holy sight in the Templi Heights. It ended with the involvement of both the Gaal Empire and the Twintail Imperium on differing sides as the local conflict became an international one and the League was defeated at the Battle of Minea in 760PA.</p>
+<p>The fourth Zuhuri Holy war was declared in 683PA by the League of Aviv in an effort to convert the heathens of Labella that had threatened to lay claim to the holy Spring of Light, a zuhuri Holy sight in the Templi Heights. It ended with the involvement of both the Gaal Empire and the Twintail Imperium on differing sides as the local conflict became an international one and the League was defeated at the Battle of Minea in 692PA.</p>
 
 
 ### **Fifth Zuhuri Holy War**

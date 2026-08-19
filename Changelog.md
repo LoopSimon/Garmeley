@@ -1,11 +1,15 @@
+- 2026-08-19T1637 · Homunculus
+- 2026-08-19T1637 · Liandar
+- 2026-08-19T1634 · Zuhuri Holy Wars
+- 2026-08-19T1633 · League of Aviv
+- 2026-08-19T1631 · Twintail Imperium
+- 2026-08-19T1619 · Vigzil
 - 2026-08-19T1556 · Complete Timeline
 - 2026-08-19T1548 · Greater Chihim
 - 2026-08-19T1547 · Greater Aatar
 - 2026-08-19T1533 · Lakalism
-- 2026-08-19T1522 · Twintail Imperium
 - 2026-08-19T1513 · Goarism
 - 2026-08-19T1510 · Rulers of the Shirin
-- 2026-08-19T1455 · Vigzil
 - 2026-08-19T1304 · Ruginë
 - 2026-08-19T1303 · Jateš
 - 2026-08-19T1259 · Luchun Khaganate
@@ -135,7 +139,6 @@
 - 2026-08-18T0101 · Egill
 - 2026-08-18T0101 · Ida Laridottr
 - 2026-08-18T0042 · Greater Spirit
-- 2026-08-17T2324 · Homunculus
 - 2026-08-17T1150 · Tronos
 - 2026-08-17T1149 · Melmer
 - 2026-08-17T1149 · Markur
@@ -145,6 +148,3 @@
 - 2026-08-17T1146 · Yelena
 - 2026-08-17T1142 · Vazena
 - 2026-08-17T1140 · Andre
-- 2026-08-17T1136 · Ralond
-- 2026-08-17T1134 · Palus
-- 2026-08-17T1113 · Igor
