@@ -87,6 +87,11 @@
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="970BA">Likely Formation of Tasch in the Merek</div>
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
+            <div class="timeline-item" data-date="900BA">Shirin Age of Cities begins in the Mondi Delta, emergence of major urban powers including Charning and Tiaker</div>
+            <div class="timeline-item" data-date="663BA">Blue Fire Slaughter — destruction of the city of Orrath marks the beginning of the Shirin Warring Period</div>
+            <div class="timeline-item" data-date="428BA">Chihim Dynasty unifies the Shirin kingdoms — founding of the Greater Chihim, first unified Shirin empire</div>
+            <div class="timeline-item" data-date="291BA">Collapse of the Greater Chihim following the death of the last Chihim ruler without a clear heir, succession wars begin</div>
+            <div class="timeline-item" data-date="281BA">Aatar house consolidates power following the succession wars — founding of the Greater Aatar as a new ruling order</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
@@ -122,11 +127,10 @@
             <div class="timeline-item" data-date="410BA">First mention of a united Tusuli Marival</div>
             <div class="timeline-item" data-date="371BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="370BA">Fall of Cyraclion</div>
-            <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
+            <div class="timeline-item" data-date="120BA">Lakalism first emerges as a minor philosophical tendency within Goarism in the scholarly communities of the Mondi Delta</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
             <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
-            <div class="timeline-item" data-date="320BA">Shirin Age of City States begins</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm & Ares</div>
             <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
@@ -190,9 +194,11 @@
             <div class="timeline-item" data-date="78PA">Era of Shame begins on Ynkal, Minotaurs are enslaved by the Vanpur Empire</div>
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
             <div class="timeline-item" data-date="81PA">Heximar the Unlit is slain by Gismar</div>
+            <div class="timeline-item" data-date="83PA">Dissolution of the Greater Aatar — Era of Four Kingdoms begins among the Shirin. Bardrab (formerly Charning), Tiakait (formerly Tiaker), Prasarp and Tonot emerge as the dominant powers</div>
             <div class="timeline-item" data-date="90PA">Estimated creation of the Pragala by Durenni Bihra</div>
             <div class="timeline-item" data-date="99PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
+            <div class="timeline-item" data-date="175PA">Natan I "the Uniter" of Bardrab proclaims the Twintail Imperium, unifying the four Shirin kingdoms — begin of the Natani Period</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
@@ -238,12 +244,12 @@
             <div class="timeline-item" data-date="288PA">Wrath of Isara hits Sertovis & Othirdon</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="297PA">Hagrash of Ynkal leads thousands of Minotaurs into rebellion against their Vanpuri Slavemasters</div>
+            <div class="timeline-item" data-date="298PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="298PA">Rise of Khan Genbela in Nirydia</div>
             <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
             <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Urland, Turvik practice is fading across Ilrakhan</div>
             <div class="timeline-item" data-date="308PA">Banishment of the Four</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
-            <div class="timeline-item" data-date="311PA">Natan I becomes first Imperator of the Twintail, begin of the early Natan Period.</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="320PA">Urien Conquest of Kerleas begins</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
@@ -258,7 +264,6 @@
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
             <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
             <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire</div>
-            <div class="timeline-item" data-date="366PA">Natan VI "the Wise" ascends the Twintail Throne</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="375PA">The Kingdom of Korsfall declares war on the King of Rulais following the Feast of Dragons</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
@@ -272,9 +277,12 @@
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", Gethricism has become the most popular religion on the Continent</div>
             <div class="timeline-item" data-date="401PA">The Plague of Flesh breaks out in the Empire of Vanpur</div>
-            <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
+            <div class="timeline-item" data-date="338PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
-            <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil, Shiring-Xungin Wars end</div>
+            <div class="timeline-item" data-date="346PA">End of the Shirin-Xungin Wars, absorption of steppe territories south of the Mondi into the Taonoat</div>
+            <div class="timeline-item" data-date="380PA">Late Natani Period begins in the Twintail Imperium</div>
+            <div class="timeline-item" data-date="392PA">Invention of Gunpowder in Bardrab</div>
+            <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants</div>
             <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
@@ -287,9 +295,7 @@
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishment of Nuv Werm</div>
             <div class="timeline-item" data-date="445PA">The Church of Faigin is officially created from the Motherly Priesthood in Richelet</div>
             <div class="timeline-item" data-date="446PA">The Conclave of 446 canonises Ralond the Scaleslayer</div>
-            <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, Golden Age of Urland begins</div>
-            <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
             <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
@@ -329,7 +335,7 @@
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
             <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
-            <div class="timeline-item" data-date="543PA">Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins</div>
+            <div class="timeline-item" data-date="479PA">Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland,</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
@@ -356,7 +362,7 @@
             <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil</div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
-            <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
+            <div class="timeline-item" data-date="530PA">End of the Jorvi Freedom War, Jorvistan gains effective independence under Natan XVII</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again, Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
@@ -371,14 +377,14 @@
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends </div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
-            <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
-            Natan XXI "Illseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
+            <div class="timeline-item" data-date="560PA">Natan XIX "Illseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
+            <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
             <div class="timeline-item" data-date="629PA">Grachi Disaster, Fall of Thirdonis</div>
             <div class="timeline-item" data-date="630PA">The Conclave of 630 canonises Yelena of Dreva</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">Trazvlov Consortium is founded</div>
-            <div class="timeline-item" data-date="642PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
+            <div class="timeline-item" data-date="572PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
@@ -392,7 +398,7 @@
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="668PA">Yellow War ends, Peace at Kulum</div>
-            <div class="timeline-item" data-date="669PA">Imperator Lisil IIIs Decree of Divinity</div>
+            <div class="timeline-item" data-date="611PA">Imperator Lisil III's Decree of Divinity</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
             <div class="timeline-item" data-date="671PA"> Battle of Verivale, End of the Luchun Khaganate</div>
             <div class="timeline-item" data-date="672PA">Battvia invades Jeledo to reunify the region of Cevolia</div>
@@ -400,7 +406,7 @@
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
             <div class="timeline-item" data-date="679PA">The Battle at Zavix leads to the end of the battivan Conquest of Cevolia & Treaty of Ciravelli</div>
-            <div class="timeline-item" data-date="680PA">Khulki begins the Great Rebellion against the Twintail and Lakal</div>
+            <div class="timeline-item" data-date="612PA">Khulki begins the Great Rebellion against the Twintail and Lakal</div>
             <div class="timeline-item" data-date="681PA">Hobgoblin Invasion, Death & Canonisation of Dorian the Kind</div>
             <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath</div>
             <div class="timeline-item" data-date="683PA">End of the Vocas a Amurez, birth of Labella south of the Templi Heights</div>
@@ -413,23 +419,23 @@
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
              canonized as a Saint, Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
-            <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
+            <div class="timeline-item" data-date="627PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
-            <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three, Timpo leads his people north and founds Vigzil</div>
+            <div class="timeline-item" data-date="631PA">Thalkil Twice-born is slain by the Locni Three, Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
             <div class="timeline-item" data-date="703PA">Splintering of Urland, Jorwyn of Gelm crowns himself the King of Urland, challenged by various nobles in the Eld valley Duchess Theara of Hornsley is crowned as "Counter" Queen of Eldmar following a brief skirmish</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="706PA">Kaarmina brings the Mothers Word to her people</div>
-            <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
+            <div class="timeline-item" data-date="640PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="719PA">Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
-            <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy II</div>
+            <div class="timeline-item" data-date="654PA">Post-Rebellion Reforms at their height under Imperator Yoroy III</div>
             <div class="timeline-item" data-date="731PA">Council of Patwin Tower</div>
             <div class="timeline-item" data-date="735PA">Uhl accepts Vihr as her liege as Duke Kaspar I von Kran threatens to lay siege to its Walls</div>
             <div class="timeline-item" data-date="736PA">Knights of the Gryphon refound themselves at Urbridge Keep and create the Order of Urbridge in central Ur</div>
@@ -440,11 +446,11 @@
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
+            <div class="timeline-item" data-date="683PA">Fourth Zuhuri Holy War begins, League of Aviv military campaign against Labella</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
-            <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
+            <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
-            <div class="timeline-item" data-date="760PA">Battle of Minea</div>
+            <div class="timeline-item" data-date="692PA">Battle of Minea, decisive Twintail victory ends the Fourth Zuhuri Holy War</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Conclave of 763, Canonisation of Fredric and begin of the Gethric Pogroms</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>

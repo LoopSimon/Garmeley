@@ -1,6 +1,13 @@
+- 2026-08-19T1533 · Lakalism
+- 2026-08-19T1532 · Complete Timeline
+- 2026-08-19T1522 · Twintail Imperium
+- 2026-08-19T1522 · Greater Chihim
+- 2026-08-19T1522 · Greater Aatar
+- 2026-08-19T1513 · Goarism
+- 2026-08-19T1510 · Rulers of the Shirin
+- 2026-08-19T1455 · Vigzil
 - 2026-08-19T1304 · Ruginë
 - 2026-08-19T1303 · Jateš
-- 2026-08-19T1302 · Complete Timeline
 - 2026-08-19T1259 · Luchun Khaganate
 - 2026-08-19T1258 · Zepria
 - 2026-08-19T0953 · Pixos
@@ -17,8 +24,6 @@
 - 2026-08-19T0123 · Cyraclion
 - 2026-08-19T0122 · Lorqis
 - 2026-08-19T0118 · Itharia
-- 2026-08-19T0002 · Vigzil
-- 2026-08-19T0002 · Twintail Imperium
 - 2026-08-18T1940 · Vihr
 - 2026-08-18T1940 · Trazlova
 - 2026-08-18T1940 · Torry
@@ -143,8 +148,3 @@
 - 2026-08-17T1136 · Ralond
 - 2026-08-17T1134 · Palus
 - 2026-08-17T1113 · Igor
-- 2026-08-17T1111 · Gethric
-- 2026-08-17T1107 · Fredric
-- 2026-08-16T2235 · Rulers of the Grachi
-- 2026-08-16T1329 · Codex Thereticum
-- 2026-08-15T2324 · Liandar
