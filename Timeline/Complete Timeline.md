@@ -24,6 +24,7 @@
 	        <div class="timeline-item" data-date="10500BA">Diastic Reversal and Hykmari Collapse</div>
 	        <div class="timeline-item" data-date="8000BA">Gnomish Period of Migration</div>
 		    <div class="timeline-item" data-date="7000BA">Earliest supported date for the domestication of cattle </div>
+		    <div class="timeline-item" data-date="6000BA">Valfir Emergence in central Nirydia</div>
 		    <div class="timeline-item" data-date="5900BA">Evidence for the settlement of Tyblas</div>
         </div>
     </div>  
@@ -35,6 +36,7 @@
 	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
 	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large-scale canal systems</div>
 	        <div class="timeline-item" data-date="4200BA">First known large-scale fish fermentation in southern Trykkerog</div>
+	        <div class="timeline-item" data-date="4000BA">Gelfir Emergence in central Nirydia</div>
 	        <div class="timeline-item" data-date="3900BA">First recorded Contact between Ikieni and Usuni Humans in West-Behera </div>
 	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
 	        <div class="timeline-item" data-date="2500BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>

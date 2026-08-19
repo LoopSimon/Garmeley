@@ -1,4 +1,5 @@
-- 2026-08-19T2147 · Complete Timeline
+- 2026-08-19T2356 · Shirin
+- 2026-08-19T2226 · Complete Timeline
 - 2026-08-19T1717 · Liandar
 - 2026-08-19T1637 · Homunculus
 - 2026-08-19T1634 · Zuhuri Holy Wars
@@ -147,4 +148,3 @@
 - 2026-08-17T1148 · Dorian
 - 2026-08-17T1146 · Yelena
 - 2026-08-17T1142 · Vazena
-- 2026-08-17T1140 · Andre
