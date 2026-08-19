@@ -69,7 +69,7 @@
 
 <p>The transition from the Age of Cities to the formal Warring Period is conventionally dated to the Blue Fire Slaughter of 663BA, an event whose precise circumstances are obscured by the mythologizing of later Chihim historiography but whose consequence, the destruction of the city of Orrath and the massacre of its ruling house by a coalition of rival kings, established the pattern of existential warfare that would define the following two and a half centuries. The Blue Fire Slaughter demonstrated that the informal conventions limiting conflict between city states had broken down irreversibly, and that the logic of the emerging period was one of consolidation or elimination. The smaller cities and kingdoms that had survived the Age of Cities by maintaining careful neutrality found that neutrality was no longer an available option.</p>
 
-<h2>The Warring Period (663BA — 428BA)</h2>
+<h2>The Warring Period (663BA - 428BA)</h2>
 
 <p>The Warring Period spanning 663BA to 428BA represents the most violent and transformative era in pre-imperial Shirin history. The dominant kingdoms of the period, among them Charning, Tiaker, and the now lost realms of Orrath, Bessim, Vakal, as well as the short-lived confederacy of the Lower Reaches, fought a succession of wars whose shifting alliances and territorial exchanges progressively reduced the number of viable independent powers from more than a dozen at the period's opening to four or five by its final generations.</p>
 
@@ -77,7 +77,7 @@
 
 <p>The consolidation that produced the Greater Chihim emerged not from the decisive military superiority of any single power but from the gradual exhaustion of all parties and the recognition, widespread among the ruling classes of the surviving kingdoms by the early fifth century BA, that the costs of continued warfare outweighed any territorial gain available. The Chihim house, rising from a secondary noble lineage within Charning that had accumulated power through strategically shrewd marriages, military commissions, and carefully timed political alliances, positioned itself as the natural broker of this exhaustion, neither the strongest of the surviving powers nor so weak as to be dismissible, but capable of offering terms that rival rulers could accept without complete humiliation. The unification of 428BA was therefore less a conquest than a structured submission, with the major surviving kingdoms retaining considerable internal autonomy in exchange for formal acknowledgment of Chihim supremacy.</p>
 
-<h2>The Chihim Dynasty and the Greater Chihim (428BA — 291BA)</h2>
+<h2>The Chihim Dynasty and the Greater Chihim (428BA - 291BA)</h2>
 
 <p>The founding of the Greater Chihim in 428BA represented a genuine transformation in the scale and character of Shirin political organization. The Chihim court at the newly designated imperial capital of Chirat, built on a site chosen for its central position within the river plain and its distance from any single predecessor kingdom's traditional territory, developed the first truly empire scale administrative apparatus in Shirin and greater Nirydian history. A system of appointed governors answerable to the central court replaced the hereditary ruling houses of the absorbed kingdoms in matters of taxation and military levy, though local institutions and customs were largely preserved at the community level as a concession to the pragmatic reality of governing a territory whose population retained strong local identities.</p>
 
@@ -87,7 +87,7 @@
 
 <p>The dynastys decline in its final generations reflected structural weaknesses that would prove equally fatal to its successors. The system of appointed governors, effective when the central court maintained sufficient prestige and military capacity to enforce its will, gradually gave way to the entrenchment of hereditary regional power as successive Chihim rulers proved unable to rotate appointments with the consistency the system required. By the final decades of Chihim rule, the governors of the major provincial centers were effectively autonomous powers whose nominal submission to Chirat was maintained by habit and inertia rather than genuine subordination. When the last Chihim ruler died in 291BA without an uncontested heir, the governors' decision to pursue their own dynastic claims rather than arbitrate a succession was the inevitable consequence of decades of creeping decentralization.</p>
 
-<h2>Collapse and the Succession Wars (291BA — 281BA)</h2>
+<h2>Collapse and the Succession Wars (291BA - 281BA)</h2>
 
 <p>The decade of succession wars following the extinction of the main Chihim line in 291BA was sufficiently destructive to effectively end the Chihim administrative tradition as a living institutional practice. The competing claimants, drawn from the major provincial governor families and from collateral branches of the Chihim house itself, pursued their claims with the full military resources of their regions, and the fighting devastated the river plain infrastructure that had been the economic foundation of Chihim prosperity. The imperial capital of Chirat was sacked twice during this period and never fully recovered its former status.</p>
 
