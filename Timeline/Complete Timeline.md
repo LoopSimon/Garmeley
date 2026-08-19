@@ -126,9 +126,9 @@
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
             <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
-            <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm & Ares</div>
+            <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
             <div class="timeline-item" data-date="299BA">The Omna of Japhal is formed, putting an end to the Durenni Age of Strife </div>
@@ -153,8 +153,8 @@
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
             <div class="timeline-item" data-date="132BA">Pehk Tribes are first encountered in the modern Grachhyll</div>
             <div class="timeline-item" data-date="130BA">Battle of Miograd, Subjugation of Pilvia</div>
-            <div class="timeline-item" data-date="125BA">First mention of Raalbrug in central Weadland</div>
-	        <div class="timeline-item" data-date="123BA">Approximate first settlement of Droil </div>
+            <div class="timeline-item" data-date="123BA">Approximate first settlement of Droil </div>
+	        <div class="timeline-item" data-date="125BA">First mention of Raalbrug in central Weadland</div>
 	        <div class="timeline-item" data-date="122BA">approximate birth of Liinmarin</div>
 	        <div class="timeline-item" data-date="121BA">Ptamon finishes “The Elemental Essence”</div>
 	        <div class="timeline-item" data-date="109BA">Dissolution of the Ezilon of Tasch</div>
@@ -319,8 +319,8 @@
             <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
             <div class="timeline-item" data-date="524PA">The Vanpuri successor state of Faarmish fully loses its hold on Ynkal, falling to various local warlords, Era of warring Hordes begins on the island</div>
             <div class="timeline-item" data-date="526PA">Sarloni Uprising begins in Vihr</div>
-            <div class="timeline-item" data-date="526PA">Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, Lissean Kingdom forms</div>
+            <div class="timeline-item" data-date="526PA">Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
             <div class="timeline-item" data-date="536PA">Wermian Accords</div>
@@ -341,7 +341,6 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Age of Steel</h3>
         <div class="timeline-list">
-            <div class="timeline-item" data-date="754BA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
             <div class="timeline-item" data-date="582PA">Bihra form Rha-Gis in the Limsul Peaks</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
@@ -431,8 +430,8 @@
             <div class="timeline-item" data-date="731PA">Council of Patwin Tower</div>
             <div class="timeline-item" data-date="735PA">Uhl accepts Vihr as her liege as Duke Kaspar I von Kran threatens to lay siege to its Walls</div>
             <div class="timeline-item" data-date="736PA">Knights of the Gryphon refound themselves at Urbridge Keep and create the Order of Urbridge in central Ur</div>
-             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
-            <div class="timeline-item" data-date="738PA">Crisis of 738, Kur Pharabal slays Vezan the great Other</div>
+            <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
+             <div class="timeline-item" data-date="738PA">Crisis of 738, Kur Pharabal slays Vezan the great Other</div>
             <div class="timeline-item" data-date="739PA">Queen Gisela II creates the Landgraviate of Weisch on the northern Coast of Meadland</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
@@ -440,6 +439,7 @@
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
+            <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
@@ -508,8 +508,8 @@
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge</div>
             <div class="timeline-item" data-date="866PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
-            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry </div>
+            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
