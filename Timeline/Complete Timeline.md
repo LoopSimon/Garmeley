@@ -414,7 +414,7 @@
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
             <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
-            <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three, Timpo leads his people north and founds Vigzil</div></div>
+            <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three, Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="700PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
@@ -471,6 +471,7 @@
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
+            <div class="timeline-item" data-date="806PA">Komukha Naman completes the Circumnavigation of Behera </div>
             <div class="timeline-item" data-date="810PA">Kranvalley Flood, Salvia of Firocco is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars</div>
             <div class="timeline-item" data-date="812PA">Ahrmiz Saceren becomes Lord-Elect of Kulum</div>
@@ -491,6 +492,7 @@
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
+            <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet</div>
             <div class="timeline-item" data-date="843PA">Herat unites and declares the Great Work</div>
@@ -505,7 +507,6 @@
 	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat, Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="863PA">Droil is granted nominal autonomy under the Crown of Tintarol to appease Independence movements</div>
-            <div class="timeline-item" data-date="865PA">Komukha Naman completes the Circumnavigation of Behera</div>
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge</div>
             <div class="timeline-item" data-date="866PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
@@ -527,8 +528,8 @@
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
+            <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy</div>
         </div>
-        <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy</div>
     </div>
     <div class="grid-item span-col-2-single-block">
         <h3>Modern Age</h3>
