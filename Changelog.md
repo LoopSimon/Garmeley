@@ -1,10 +1,10 @@
+- 2026-08-19T1717 · Liandar
+- 2026-08-19T1704 · Complete Timeline
 - 2026-08-19T1637 · Homunculus
-- 2026-08-19T1637 · Liandar
 - 2026-08-19T1634 · Zuhuri Holy Wars
 - 2026-08-19T1633 · League of Aviv
 - 2026-08-19T1631 · Twintail Imperium
 - 2026-08-19T1619 · Vigzil
-- 2026-08-19T1556 · Complete Timeline
 - 2026-08-19T1548 · Greater Chihim
 - 2026-08-19T1547 · Greater Aatar
 - 2026-08-19T1533 · Lakalism

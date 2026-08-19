@@ -449,6 +449,7 @@
             <div class="timeline-item" data-date="683PA">Fourth Zuhuri Holy War begins, League of Aviv military campaign against Labella</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
             <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
+            <div class="timeline-item" data-date="755PA">Grand Vizier Chiangal formally establishes the Liandar under the patronage of Yoroy VII</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
             <div class="timeline-item" data-date="692PA">Battle of Minea, decisive Twintail victory ends the Fourth Zuhuri Holy War</div>
             <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
