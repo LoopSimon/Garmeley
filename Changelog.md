@@ -1,3 +1,4 @@
+- 2026-08-20T0107 · Liandar
 - 2026-08-20T0105 · Natan VI
 - 2026-08-20T0102 · Twintail Imperium
 - 2026-08-20T0050 · Khulki
@@ -5,7 +6,6 @@
 - 2026-08-20T0038 · Miarat
 - 2026-08-20T0030 · Kubil no Vang
 - 2026-08-20T0003 · Shirin
-- 2026-08-19T1717 · Liandar
 - 2026-08-19T1637 · Homunculus
 - 2026-08-19T1634 · Zuhuri Holy Wars
 - 2026-08-19T1633 · League of Aviv
