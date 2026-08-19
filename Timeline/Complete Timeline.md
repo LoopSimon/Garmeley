@@ -88,10 +88,10 @@
             <div class="timeline-item" data-date="970BA">Likely Formation of Tasch in the Merek</div>
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="900BA">Shirin Age of Cities begins in the Mondi Delta, emergence of major urban powers including Charning and Tiaker</div>
-            <div class="timeline-item" data-date="663BA">Blue Fire Slaughter — destruction of the city of Orrath marks the beginning of the Shirin Warring Period</div>
-            <div class="timeline-item" data-date="428BA">Chihim Dynasty unifies the Shirin kingdoms — founding of the Greater Chihim, first unified Shirin empire</div>
+            <div class="timeline-item" data-date="663BA">Blue Fire Slaughter, Destruction of the city of Orrath marks the beginning of the Shirin Warring Period</div>
+            <div class="timeline-item" data-date="428BA">Chihim Dynasty unifies the Shirin kingdoms, founding of the Greater Chihim, first unified Shirin empire</div>
             <div class="timeline-item" data-date="291BA">Collapse of the Greater Chihim following the death of the last Chihim ruler without a clear heir, succession wars begin</div>
-            <div class="timeline-item" data-date="281BA">Aatar house consolidates power following the succession wars — founding of the Greater Aatar as a new ruling order</div>
+	        <div class="timeline-item" data-date="281BA">Aatar house consolidates power following the succession wars, Founding of the Greater Aatar as a new ruling order</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
@@ -194,11 +194,11 @@
             <div class="timeline-item" data-date="78PA">Era of Shame begins on Ynkal, Minotaurs are enslaved by the Vanpur Empire</div>
             <div class="timeline-item" data-date="80PA">Vihrmen Tribes settle in Zavlech, Werm and Trazlov</div>
             <div class="timeline-item" data-date="81PA">Heximar the Unlit is slain by Gismar</div>
-            <div class="timeline-item" data-date="83PA">Dissolution of the Greater Aatar — Era of Four Kingdoms begins among the Shirin. Bardrab (formerly Charning), Tiakait (formerly Tiaker), Prasarp and Tonot emerge as the dominant powers</div>
+            <div class="timeline-item" data-date="83PA">Dissolution of the Greater Aatar, Era of Four Kingdoms begins among the Shirin. Bardrab (formerly Charning), Tiakait (formerly Tiaker), Prasarp and Tonot emerge as the dominant powers</div>
             <div class="timeline-item" data-date="90PA">Estimated creation of the Pragala by Durenni Bihra</div>
             <div class="timeline-item" data-date="99PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
-            <div class="timeline-item" data-date="175PA">Natan I "the Uniter" of Bardrab proclaims the Twintail Imperium, unifying the four Shirin kingdoms — begin of the Natani Period</div>
+            <div class="timeline-item" data-date="175PA">Natan I "the Uniter" of Bardrab proclaims the Twintail Imperium, unifying the four Shirin kingdoms, Begin of the Natani Period</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
