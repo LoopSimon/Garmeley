@@ -1,10 +1,14 @@
+- 2026-08-20T0105 · Natan VI
+- 2026-08-20T0102 · Twintail Imperium
+- 2026-08-20T0050 · Khulki
+- 2026-08-20T0045 · Complete Timeline
+- 2026-08-20T0038 · Miarat
+- 2026-08-20T0030 · Kubil no Vang
 - 2026-08-20T0003 · Shirin
-- 2026-08-19T2226 · Complete Timeline
 - 2026-08-19T1717 · Liandar
 - 2026-08-19T1637 · Homunculus
 - 2026-08-19T1634 · Zuhuri Holy Wars
 - 2026-08-19T1633 · League of Aviv
-- 2026-08-19T1631 · Twintail Imperium
 - 2026-08-19T1619 · Vigzil
 - 2026-08-19T1548 · Greater Chihim
 - 2026-08-19T1547 · Greater Aatar
@@ -144,7 +148,3 @@
 - 2026-08-17T1149 · Melmer
 - 2026-08-17T1149 · Markur
 - 2026-08-17T1149 · Lyandra
-- 2026-08-17T1149 · Kifrir
-- 2026-08-17T1148 · Dorian
-- 2026-08-17T1146 · Yelena
-- 2026-08-17T1142 · Vazena
