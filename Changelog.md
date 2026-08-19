@@ -1,3 +1,8 @@
+- 2026-08-19T1304 · Ruginë
+- 2026-08-19T1303 · Jateš
+- 2026-08-19T1302 · Complete Timeline
+- 2026-08-19T1259 · Luchun Khaganate
+- 2026-08-19T1258 · Zepria
 - 2026-08-19T0953 · Pixos
 - 2026-08-19T0907 · Zazir Brahmis
 - 2026-08-19T0242 · Taar
@@ -11,7 +16,6 @@
 - 2026-08-19T0124 · Izhevk
 - 2026-08-19T0123 · Cyraclion
 - 2026-08-19T0122 · Lorqis
-- 2026-08-19T0121 · Complete Timeline
 - 2026-08-19T0118 · Itharia
 - 2026-08-19T0002 · Vigzil
 - 2026-08-19T0002 · Twintail Imperium
@@ -144,7 +148,3 @@
 - 2026-08-16T2235 · Rulers of the Grachi
 - 2026-08-16T1329 · Codex Thereticum
 - 2026-08-15T2324 · Liandar
-- 2026-08-15T2312 · Simulacrum
-- 2026-08-15T2101 · Perisco Effect
-- 2026-08-15T1551 · Artor Perisco
-- 2026-08-14T2308 · Ramper

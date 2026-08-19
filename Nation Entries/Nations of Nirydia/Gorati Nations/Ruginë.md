@@ -37,7 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span><a href="Zepria" class="internal-link">Zeprian Empire</a></span>
+        <span>Gorati Rock Lords</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

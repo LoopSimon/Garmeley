@@ -38,7 +38,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Odovo Khagante, <br>Genbala Khaganate</span>
+        <span>Odovo Khaganate, <br>Genbela Khaganate</span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
