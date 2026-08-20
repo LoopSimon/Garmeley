@@ -75,7 +75,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <hr class="wiki-hr">
 <h2>Religion</h2>
 <small><i>see <a href="Gethricism" class="internal-link">Gethricism</a></i></small>
-<p>Intrinsically linked with the origin of the Gethric Faith and its later denominations, Vihr is arguably one of the most religious countries on Inara, where Gethric belief remains a strong part of the national identity and the High-Bishop of Iztaw is often more revered then the King himself.</p>
+<p>Intrinsically linked with the origin of the Gethric Faith and its later denominations, Vihr is arguably one of the most religious countries on Inara, where Gethric belief remains a strong part of the national identity and the High-Bishop of Iztaw is often more revered then the King himself. The Institution of the Church has its home within the political division of <a href="Iztaw" class="internal-link">Iztaw</a> itself, governing the city and various smaller holdings. While the High-Bishop is essentially the spiritual leader of the Ras, as a member of the Rascy he is also his worldly subject. Effectively this relationship has led to a great alliance between Church and State and cause numerous problems in the history of both institutions.</p>
 <p> </p>
 <hr class="wiki-hr">
 <h2>Politics</h2>
