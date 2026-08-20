@@ -1,8 +1,9 @@
+- 2026-08-20T1523 · Vihr
+- 2026-08-20T1515 · Complete Timeline
 - 2026-08-20T0107 · Liandar
 - 2026-08-20T0105 · Natan VI
 - 2026-08-20T0102 · Twintail Imperium
 - 2026-08-20T0050 · Khulki
-- 2026-08-20T0045 · Complete Timeline
 - 2026-08-20T0038 · Miarat
 - 2026-08-20T0030 · Kubil no Vang
 - 2026-08-20T0003 · Shirin
@@ -33,7 +34,6 @@
 - 2026-08-19T0123 · Cyraclion
 - 2026-08-19T0122 · Lorqis
 - 2026-08-19T0118 · Itharia
-- 2026-08-18T1940 · Vihr
 - 2026-08-18T1940 · Trazlova
 - 2026-08-18T1940 · Torry
 - 2026-08-18T1938 · Tloky

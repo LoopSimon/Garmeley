@@ -220,7 +220,9 @@
             <div class="timeline-item" data-date="237PA">Danbry Warlord Caelmer declades himself the first King of Spursley</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethrian Church</div>
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
+            <div class="timeline-item" data-date="246PA">Battle of Tlok Valley</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
+            <div class="timeline-item" data-date="251PA">Battle of Glancz</div>
             <div class="timeline-item" data-date="254PA">Gethric Doctrine of human exceptionalism is first mentioned</div>
             <div class="timeline-item" data-date="255PA">The Lower leveli form the Vocas a Levelix around the Lonely Peak</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
@@ -237,11 +239,12 @@
             <div class="timeline-item" data-date="285PA">Morelle submits following the Battle of the Voiceless, Korsfall dominates northern Meadrath</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="288PA">Wrath of Isara hits Sertovis & Othirdon</div>
+            <div class="timeline-item" data-date="291PA">Reani-Vihri War breaks out following King Salkon I du Reans declaration</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="297PA">Hagrash of Ynkal leads thousands of Minotaurs into rebellion against their Vanpuri Slavemasters</div>
             <div class="timeline-item" data-date="298PA">Rise of Khan Genbela in Nirydia</div>
-            <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll</div>
-            <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Urland, Turvik practice is fading across Ilrakhan</div>
+            <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll, Ras Viago III dies at the Battle of the Pilv against Reani forces</div>
+            <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Urland, Turvik practice is fading across Ilrakhan, Vihri victory against Rean and conquest of the Pilv Valley</div>
             <div class="timeline-item" data-date="308PA">Banishment of the Four</div>
             <div class="timeline-item" data-date="310PA">Elves settle Qa and name it Il-Haena</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
