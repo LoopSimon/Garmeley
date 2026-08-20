@@ -93,8 +93,7 @@
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
-            <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders</div>
-            <div class="timeline-item" data-date="670BA">Neyadastes writes the Codex Kynosis</div>
+            <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders, Neyadastes writes the Codex Kynosis</div>
             <div class="timeline-item" data-date="650BA">Spurshey and Vahri settlers encounter Vinjiri Safir, cultural exchange begins across the mountains</div>
 	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
             <div class="timeline-item" data-date="640BA">Genevi finds the Keystar north of the Ronra</div>
@@ -516,8 +515,8 @@
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge</div>
             <div class="timeline-item" data-date="866PA">Treaty of Uhl</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
-            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry </div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
+            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry </div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>

@@ -1,4 +1,8 @@
-- 2026-08-20T2323 · Complete Timeline
+- 2026-08-21T0006 · Gethric
+- 2026-08-21T0005 · Razmyr
+- 2026-08-21T0003 · Volboris
+- 2026-08-21T0001 · Lyandra
+- 2026-08-20T2336 · Complete Timeline
 - 2026-08-20T2321 · Vihrmen Federation
 - 2026-08-20T2132 · Rulers of Vihr
 - 2026-08-20T2125 · Zervind II
@@ -144,7 +148,3 @@
 - 2026-08-18T0102 · Ylva
 - 2026-08-18T0101 · Toski
 - 2026-08-18T0101 · Egill
-- 2026-08-18T0101 · Ida Laridottr
-- 2026-08-18T0042 · Greater Spirit
-- 2026-08-17T1150 · Tronos
-- 2026-08-17T1149 · Melmer
