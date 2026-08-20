@@ -1,6 +1,7 @@
+- 2026-08-20T2323 · Complete Timeline
+- 2026-08-20T2321 · Vihrmen Federation
+- 2026-08-20T2132 · Rulers of Vihr
 - 2026-08-20T2125 · Zervind II
-- 2026-08-20T1829 · Complete Timeline
-- 2026-08-20T1817 · Rulers of Vihr
 - 2026-08-20T1526 · Vihr
 - 2026-08-20T0107 · Liandar
 - 2026-08-20T0105 · Natan VI
@@ -49,7 +50,6 @@
 - 2026-08-18T1936 · Breza
 - 2026-08-18T1935 · Grachy
 - 2026-08-18T1935 · Wermia
-- 2026-08-18T1935 · Vihrmen Federation
 - 2026-08-18T1934 · Halgrach
 - 2026-08-18T1934 · Zovac Harlini
 - 2026-08-18T1932 · Viagoris

@@ -1,5 +1,7 @@
 %%
 [[Vihr]]
+[[Zervind II]]
+[[Vormil III]]
 %%
 
 <p>The Rasi of Vihr and Wermia</p>
@@ -17,7 +19,7 @@
 <p>Viago III, 289PA - 299PA</p>
 <p>Jasper II "the Old", 299PA - 351PA</p>
 <p>Viago IV, 351PA - 375PA</p>
-<p>Zervind II "Kneelgood", 375PA - 388PA</p>
+<p><a href="Zervind II" class="internal-link">Zervind II "Kneelgood"</a>, 375PA - 388PA</p>
 
 *Lords' Crisis 377PA, Zervind II held by the Candleguard, Lords march on Zavlech*
 

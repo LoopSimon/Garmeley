@@ -167,6 +167,7 @@
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
             <div class="timeline-item" data-date="68BA">First Bear-King of the Locni, approximate beginning of the Kingdom of Thirdonis</div>
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
+            <div class="timeline-item" data-date="40BA">Horn Lords of the Vihri begin organizing coordinated leadership across the river plain, proto Federation period begins</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
             <div class="timeline-item" data-date="12BA">Escaffar becomes the first Chimera Lord of Vanpur, end of the Xor-Ub</div>
@@ -183,6 +184,7 @@
             <div class="timeline-item" data-date="28PA">Remaining rakhi officials and families in the urien provinces that had gathered in "New Rakh" are forced to venture into the Wastes</div>
             <div class="timeline-item" data-date="29PA">As rakhi administration in the urien provinces has ended, Kingdoms of Arester & Urland are declared</div>
             <div class="timeline-item" data-date="30PA">The Nurlight is seen for the first time from beyond the Wastes, the Burning Decades have ended</div>
+            <div class="timeline-item" data-date="32PA">Battle of Wyt Hill, Ogrelords are driven back into the Yellow Moor, Pilvian Vale and mountain ranges</div>
             <div class="timeline-item" data-date="35PA">Great Pagri Migration Period in eastern Nirydia begins</div>
             <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat</div>
