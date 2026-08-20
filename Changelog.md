@@ -1,5 +1,7 @@
+- 2026-08-20T2123 · Zervind II
+- 2026-08-20T1829 · Complete Timeline
+- 2026-08-20T1817 · Rulers of Vihr
 - 2026-08-20T1526 · Vihr
-- 2026-08-20T1515 · Complete Timeline
 - 2026-08-20T0107 · Liandar
 - 2026-08-20T0105 · Natan VI
 - 2026-08-20T0102 · Twintail Imperium
@@ -146,5 +148,3 @@
 - 2026-08-18T0042 · Greater Spirit
 - 2026-08-17T1150 · Tronos
 - 2026-08-17T1149 · Melmer
-- 2026-08-17T1149 · Markur
-- 2026-08-17T1149 · Lyandra
