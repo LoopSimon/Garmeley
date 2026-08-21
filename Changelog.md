@@ -1,4 +1,4 @@
-- 2026-08-22T0046 · War of Horn and Fang
+- 2026-08-22T0053 · War of Horn and Fang
 - 2026-08-22T0041 · Meadrath
 - 2026-08-22T0023 · Vihr
 - 2026-08-22T0007 · Complete Timeline
