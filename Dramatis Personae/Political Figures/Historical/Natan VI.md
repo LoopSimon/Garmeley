@@ -12,7 +12,7 @@
  </div>
  <div class="wiki-row">
  <strong>Occupation</strong>
- <span>Imperator of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a></span>
+ <span><a href="Rulers of the Shirin" class="internal-link">Imperator of the  Twintail Imperium</a></span>
  </div>
  <div class="wiki-row">
  <strong>Predecessor</strong>

@@ -1,3 +1,7 @@
+- 2026-08-21T1438 · Order of the Silver Wheel
+- 2026-08-21T1202 · Rulers of the Shirin
+- 2026-08-21T1201 · Natan VI
+- 2026-08-21T1159 · Kubil no Vang
 - 2026-08-21T0210 · Knights of the Unicorn
 - 2026-08-21T0208 · Kherovan Inquisition
 - 2026-08-21T0205 · Luca
@@ -13,11 +17,9 @@
 - 2026-08-20T2125 · Zervind II
 - 2026-08-20T1526 · Vihr
 - 2026-08-20T0107 · Liandar
-- 2026-08-20T0105 · Natan VI
 - 2026-08-20T0102 · Twintail Imperium
 - 2026-08-20T0050 · Khulki
 - 2026-08-20T0038 · Miarat
-- 2026-08-20T0030 · Kubil no Vang
 - 2026-08-20T0003 · Shirin
 - 2026-08-19T1637 · Homunculus
 - 2026-08-19T1634 · Zuhuri Holy Wars
@@ -27,7 +29,6 @@
 - 2026-08-19T1547 · Greater Aatar
 - 2026-08-19T1533 · Lakalism
 - 2026-08-19T1513 · Goarism
-- 2026-08-19T1510 · Rulers of the Shirin
 - 2026-08-19T1304 · Ruginë
 - 2026-08-19T1303 · Jateš
 - 2026-08-19T1259 · Luchun Khaganate
@@ -147,4 +148,3 @@
 - 2026-08-18T0148 · Gislif Mellwing
 - 2026-08-18T0148 · Kaspar Vasser
 - 2026-08-18T0138 · Roygviil
-- 2026-08-18T0138 · Ukiolla

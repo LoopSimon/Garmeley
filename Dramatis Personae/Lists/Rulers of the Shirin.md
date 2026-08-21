@@ -32,7 +32,7 @@
 
 <p>Aatar I "the Displanter", 281BA - 249BA</p>
 <p>Aatar II, 249BA - 221BA</p>
-<p>Aatar III "the Lawgiver", 221BA - 188BA</p>
+<p>Aatar III "Heavens Light", 221BA - 188BA</p>
 <p>Aatar IV, 188BA - 162BA</p>
 <p>Aatar V "the Serene", 162BA - 130BA</p>
 
