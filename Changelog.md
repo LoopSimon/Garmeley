@@ -1,7 +1,7 @@
+- 2026-08-22T0046 · War of Horn and Fang
 - 2026-08-22T0041 · Meadrath
 - 2026-08-22T0023 · Vihr
 - 2026-08-22T0007 · Complete Timeline
-- 2026-08-21T2359 · War of Horn and Fang
 - 2026-08-21T2358 · Rulers of Vihr
 - 2026-08-21T1659 · War of Trout and Drake
 - 2026-08-21T1523 · Rulers of the Meadi
