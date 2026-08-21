@@ -21,7 +21,7 @@ The Inquisitorial Hierarchy within the Tribunals consists of one High Inquisitor
 
 
 
-The Tribunals are as of 922PA:
+The Tribunals are as of 927PA:
 
 The Tribunal of the Marble Script, concerned with religious peace and the persecution of heretics and heathens within Kherova. Founded in 585PA.
 
