@@ -1,3 +1,5 @@
+- 2026-08-22T0041 · Meadrath
+- 2026-08-22T0023 · Vihr
 - 2026-08-22T0007 · Complete Timeline
 - 2026-08-21T2359 · War of Horn and Fang
 - 2026-08-21T2358 · Rulers of Vihr
@@ -19,7 +21,6 @@
 - 2026-08-21T0001 · Lyandra
 - 2026-08-20T2321 · Vihrmen Federation
 - 2026-08-20T2125 · Zervind II
-- 2026-08-20T1526 · Vihr
 - 2026-08-20T0107 · Liandar
 - 2026-08-20T0102 · Twintail Imperium
 - 2026-08-20T0050 · Khulki
@@ -96,7 +97,6 @@
 - 2026-08-18T1256 · Risfalt
 - 2026-08-18T1256 · Morelle
 - 2026-08-18T1256 · Mear
-- 2026-08-18T1255 · Meadrath
 - 2026-08-18T1255 · Lesmere
 - 2026-08-18T1255 · Gisvale
 - 2026-08-18T1255 · Freelands
