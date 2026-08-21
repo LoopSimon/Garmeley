@@ -66,6 +66,6 @@
 <p>Viago VII, 813PA - 822PA</p>
 <p>Vormil II "Axebreaker", 822PA - 849PA</p>
 <p>Jerziv I, 849PA - 860PA</p>
-<p>Orian II, 860PA - 883PA</p>
-<p>Jakub I "the Good", 883PA - 901PA</p>
+<p>Orian II, 860PA - 881PA</p>
+<p>Jakub I "the Good", 881PA - 901PA</p>
 <p><a href="Vormil III" class="internal-link">Vormil III "the Builder"</a>, 901PA - present</p>

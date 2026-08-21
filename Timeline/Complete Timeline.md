@@ -385,6 +385,7 @@
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">Trazvlov Consortium is founded</div>
+            <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis</div>
             <div class="timeline-item" data-date="642PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, Lisil Period begins</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
             <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins</div>
@@ -393,7 +394,7 @@
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
-            <div class="timeline-item" data-date="659PA">Dissolution of Levelix, Creation of Balerey and Sebera</div>
+            <div class="timeline-item" data-date="659PA">Dissolution of Levelix and Creation of Balerey and Sebera; Battle of Summerlake, death of the Count of Mussling; decisive loyalist victory breaks the last Medlan field army.</div>
             <div class="timeline-item" data-date="660PA">Yellow War begins</div>
             <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>

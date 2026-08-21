@@ -24,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>38</span>
+        <span>40</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

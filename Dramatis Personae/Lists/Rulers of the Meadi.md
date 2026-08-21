@@ -2,6 +2,7 @@
 [[Gisvale]]
 [[Gisela II]]
 [[Meadrath]]
+[[Gisela IV]]
 %%
 
 <h3>Rulers of the Gisvale, following the dissolution of the Augur.</h3>

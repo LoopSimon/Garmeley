@@ -1,3 +1,9 @@
+- 2026-08-21T2359 · War of Horn and Fang
+- 2026-08-21T2358 · Rulers of Vihr
+- 2026-08-21T1659 · War of Trout and Drake
+- 2026-08-21T1538 · Complete Timeline
+- 2026-08-21T1523 · Rulers of the Meadi
+- 2026-08-21T1505 · Pieter van Dielen
 - 2026-08-21T1438 · Order of the Silver Wheel
 - 2026-08-21T1202 · Rulers of the Shirin
 - 2026-08-21T1201 · Natan VI
@@ -7,13 +13,11 @@
 - 2026-08-21T0205 · Luca
 - 2026-08-21T0203 · Palus
 - 2026-08-21T0152 · Tytus
-- 2026-08-21T0122 · Complete Timeline
 - 2026-08-21T0006 · Gethric
 - 2026-08-21T0005 · Razmyr
 - 2026-08-21T0003 · Volboris
 - 2026-08-21T0001 · Lyandra
 - 2026-08-20T2321 · Vihrmen Federation
-- 2026-08-20T2132 · Rulers of Vihr
 - 2026-08-20T2125 · Zervind II
 - 2026-08-20T1526 · Vihr
 - 2026-08-20T0107 · Liandar
@@ -143,8 +147,4 @@
 - 2026-08-18T0150 · Odrick von Fulmer
 - 2026-08-18T0150 · Madeley IV
 - 2026-08-18T0149 · Gisela IV
-- 2026-08-18T0148 · Pieter van Dielen
 - 2026-08-18T0148 · Lukomok Trep
-- 2026-08-18T0148 · Gislif Mellwing
-- 2026-08-18T0148 · Kaspar Vasser
-- 2026-08-18T0138 · Roygviil
