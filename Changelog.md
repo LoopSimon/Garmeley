@@ -1,3 +1,7 @@
+- 2026-08-22T2235 · Beryl Lenkov
+- 2026-08-22T2234 · Ayerlan
+- 2026-08-22T2229 · Theresa Salbridge
+- 2026-08-22T2222 · Zavro Firelle
 - 2026-08-22T0053 · War of Horn and Fang
 - 2026-08-22T0041 · Meadrath
 - 2026-08-22T0023 · Vihr
@@ -78,7 +82,6 @@
 - 2026-08-18T1928 · Leonyd Krunliv
 - 2026-08-18T1927 · Vlad V
 - 2026-08-18T1927 · Oleksandr IV
-- 2026-08-18T1927 · Beryl Lenkov
 - 2026-08-18T1926 · Vormil III
 - 2026-08-18T1926 · Vasily Surovsky
 - 2026-08-18T1926 · Tadeuz Pilsud
@@ -127,7 +130,6 @@
 - 2026-08-18T1247 · Hynek of Forrington
 - 2026-08-18T1246 · Coster of Melmbirth
 - 2026-08-18T1245 · Pigeye
-- 2026-08-18T1244 · Theresa Salbridge
 - 2026-08-18T1243 · Horatio Tuliper
 - 2026-08-18T1243 · Filip of Leston
 - 2026-08-18T1242 · Ur
@@ -146,5 +148,3 @@
 - 2026-08-18T0150 · Varald I
 - 2026-08-18T0150 · Odrick von Fulmer
 - 2026-08-18T0150 · Madeley IV
-- 2026-08-18T0149 · Gisela IV
-- 2026-08-18T0148 · Lukomok Trep

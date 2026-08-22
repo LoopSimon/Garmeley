@@ -1,5 +1,6 @@
 %%
 [[Hainach]]
+[[Ayerlan]]
 %%
 
 <div class="wiki-infobox">
@@ -35,3 +36,4 @@
 </div>
 <p>Zavro Firelle is a rich burgher, living in the eastern parts of <a href="Hainach" class="internal-link">Hainach</a>, near the small town of Kontini at the Stormy Sea. He is the owner and proprietor of Firelle Wines and the famous Firelle Vineyard, both inherited from his ancestors, as well as the current Head of the Firelle Family. Firelle Wines has gained a reputation for its exquisite taste, luxury branding and addictive flavour, making many of its offerings desired commodities in the Ports of the Stormy Sea and beyond. Zavro himself has taken steps to improve the distribution of his product into far away ports and cultivated an illustrious client base. Locally he and his family are known as gracious members of the Community, Firelle Estate and its vineyards lie only a few hours north of Kontini and is by far the biggest employer within the community. Zavro has two children, Loukas and Sofia Firelle who are expected to inherit and continue the Family business.</p>
 <p>In may of 923PA, Zavros Family suffered a disaster as so far unsolved circumstances caused his Villa to burn to the ground during the yearly Festival of Flowers, while Sofia and the Patriarch himself survived the incident, his son Loukas is said to have perished in the fires.</p>
+<p>A group of visitors during the Festival would be hired by his daughter Sofia to track down the perpetrator of this traumatic Event and his sons undesirable Death: the elf that called himself <a href="Ayerlan" class="internal-link">Ayerlan</a>. Some time later this party of unlikely heroes tracked down the Elf and brought him to justice, the Warrior Marianna Kaminski cleaving him in half after he succumbed to acute mutation when choking on one of his very own potions, Loukas was avenged.</p>

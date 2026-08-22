@@ -22,7 +22,7 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Severe Head Trauma, <br> 38 years of age</span>
+        <span>Severe Head Trauma, <br>inflicted by Hildegard von Giswald,<br> 38 years of age</span>
     </div>
     <div class="wiki-row">
         <strong>Issue</strong>

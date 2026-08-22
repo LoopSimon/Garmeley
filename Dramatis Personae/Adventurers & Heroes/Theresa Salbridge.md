@@ -5,6 +5,10 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Theresa Salbridge</h4>
     <div class="wiki-row">
+        <strong>Occupation</strong>
+        <span>Archeomancer</span>
+    </div>
+    <div class="wiki-row">
         <strong>Culture</strong>
         <span><a href="Urien" class="internal-link">Garmish</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
