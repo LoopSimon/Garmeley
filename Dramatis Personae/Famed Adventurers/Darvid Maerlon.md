@@ -1,7 +1,7 @@
 %%
 [[Kherovan Inquisition]]
 [[Fogorix]]
-[[Kherova]]
+[[Kheri]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Darvid Maerlon</h4>
@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span> kheri <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Kheri" class="internal-link">Ankheri</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

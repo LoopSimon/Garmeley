@@ -1,5 +1,5 @@
 %%
-[[Kherova]]
+[[Kheri]]
 [[Grevenna]]
 [[Kherovan Inquisition]]
 [[Treaty of Kulum]]
@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kherovan <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Kheri" class="internal-link">Kulumite</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

@@ -1,7 +1,7 @@
 %%
-[[Kherova]]
 [[Kherovan Inquisition]]
 [[Niedrest Incident]]
+[[Kheri]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Zurán Barbeshvili</h4>
@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kherovan Half <a href="Orc" class="internal-link">Orc</a></span>
+        <span><a href="Kheri" class="internal-link">Kulumite</a> Half<a href="Orc" class="internal-link">Orc</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

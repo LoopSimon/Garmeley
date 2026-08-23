@@ -3,6 +3,7 @@
 [[Kherovan Inquisition]]
 [[Niedrest Incident]]
 [[Dwarf]]
+[[Kheri]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Valeri Temzin</h4>
@@ -12,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kheri Dwarf</span>
+        <span><a href="Kheri" class="internal-link">High Kheri</a> <a href="Dwarf" class="internal-link">Dwarf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

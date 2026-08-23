@@ -39,7 +39,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>885BA</span>
+        <span>262PA</span>
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Kherova_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
@@ -84,7 +84,7 @@
 <h3>History</h3>
 <p>The Founding of Kairos in the 13th century BA, over two thousand years ago, marks it as one of if not the oldest human fortified settlements that still exists to this day. Kher itself is the largest city and its founding is dated within the early 9th century BA.</p>
 <p>Owing to the oral traditions of the many ancient kheri tribes and city states, barely any history is still accounted for to this day, so only very important myths like the Journey of Khariel are still known to us in the modern days.</p>
-<p>However, <a href="Rakh" class="internal-link">Rakhian</a> accounts of conflicts at the border with their ancient empire in the Pilvian Province with the even then defensive and unbreakable kherovan tribes still exist.</p>
+<p>However, <a href="Rakh" class="internal-link">Rakhian</a> accounts of conflicts at the border with their ancient empire in the Pilvian Province with the even then defensive and unbreakable kheri tribes still exist.</p>
 <p>Perhaps the most infamous recorded event is the rise of the Sorcerer Merzigal, in the northern city of Alahmid, who is said to have extended his life by making sacrifices to monstrous entities, engaging freely in Hemomancy and consulting with demons.</p>
 <p>The details of his eventual demise at the hands of heroes is sadly lost to us as the <a href="Kherovan Inquisition" class="internal-link">Kherovan Inquisition</a> has largely purged public knowledge of the time after destroying and salting the remnants of Alahmid in the 5th century.</p>
 
@@ -108,7 +108,7 @@
 <h3>Wars of Elbaea agression</h3>
 <p>When the elven <a href="Elbae" class="internal-link">Sultanat</a> attacked <a href="Grevenna" class="internal-link">Grevenna</a> in what is now known as the 1st War of Elbae in 750PA, Kherovan forces joined in the defensive coalition together with the nations of <a href="Vihr" class="internal-link">Vihr</a> and <a href="Grachy" class="internal-link">Grachy</a> to defend their neighbour.</p>
 <p>After the conclusion of the war and the defeat of the Sultanate, Kherova gained international renown for its fierce warriors and extremely useful anti-magical expertise against the magical supremacy of the Sultanate.</p>
-<p>Thirty years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the <a href="Bihra" class="internal-link">Bihra</a> Khans of <a href="Nirydia" class="internal-link">Nirydia</a> had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherova to strike the eastern cities in 782PA.</p>
+<p>Nineteen years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the <a href="Bihra" class="internal-link">Bihra</a> Khans of <a href="Nirydia" class="internal-link">Nirydia</a> had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherova to strike the eastern cities in 782PA.</p>
 <p>Jigallors Horde devastated eastern Kherova, destroying the Fortress Cities of Adsal and Iblis, laying waste to Dalkil and laying siege to Erbil, one of the three jewels of Kherova.</p>
 <p>The Invaders were beaten back, the siege relieved and Jigallor fell during the Battle of Erbil, however the sudden retreat of the extremely valuable kherovan forces spelled Doom for <a href="Grevenna" class="internal-link">Grevenna</a>, and was largely responsible for the loss of the 2nd War of Elbae Aggression leading to hostilities and enmity between Grevenna and Kherova to this date.</p>
 <p>Kherova would not join the 3rd Coalition and maintain neutral relations to the <a href="Elbae" class="internal-link">Sultanat</a>, even going so far as to refuse to sign the <a href="Treaty of Danipol" class="internal-link">Treaty of Danipol</a> in 815PA.</p>
@@ -126,7 +126,7 @@ Tiblin, ninth of his name of House Kher
 	Khat of Kherova, Lord of Kher
 	
 Yalgin Korez
-	Akaz of Dabal-Kol
+	Akaz of Daban-Kol
 	
 Viktrik, first of his name
 	Patriarch of Kher, Head of the the Kethric Church
