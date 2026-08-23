@@ -152,6 +152,7 @@
             <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
             <div class="timeline-item" data-date="160BA">Dinrohl of Pilvia assaults rakhi settlers in southern Pilvia, Begin of Pilvian Wars</div>
+            <div class="timeline-item" data-date="155BA">Ar of the Hills defeats the Wendigo of Dyra</div>
             <div class="timeline-item" data-date="132BA">Pehk Tribes are first encountered in the modern Grachhyll</div>
             <div class="timeline-item" data-date="130BA">Battle of Miograd, Subjugation of Pilvia</div>
             <div class="timeline-item" data-date="123BA">Approximate first settlement of Droil </div>
