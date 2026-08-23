@@ -1,8 +1,10 @@
+- 2026-08-23T0704 · The Tragedy of the Dobrys
+- 2026-08-23T0552 · Meadi Othiri War
+- 2026-08-23T0551 · Rivalt du Chian
+- 2026-08-23T0421 · War of Trout and Drake
 - 2026-08-23T0404 · Complete Timeline
-- 2026-08-23T0403 · Rivalt du Chian
 - 2026-08-23T0333 · Lissvalley
 - 2026-08-23T0333 · Cimfon
-- 2026-08-23T0332 · Meadi Othiri War
 - 2026-08-23T0329 · Meadrath
 - 2026-08-23T0306 · Knights of the Green Tree
 - 2026-08-23T0056 · Ar
@@ -13,7 +15,6 @@
 - 2026-08-22T0053 · War of Horn and Fang
 - 2026-08-22T0023 · Vihr
 - 2026-08-21T2358 · Rulers of Vihr
-- 2026-08-21T1659 · War of Trout and Drake
 - 2026-08-21T1523 · Rulers of the Meadi
 - 2026-08-21T1505 · Pieter van Dielen
 - 2026-08-21T1438 · Order of the Silver Wheel
@@ -147,4 +148,3 @@
 - 2026-08-18T0152 · Galiatar Inkfingers
 - 2026-08-18T0152 · Korman van Schipwig
 - 2026-08-18T0151 · Shymon Epios
-- 2026-08-18T0151 · Pavo of Alban
