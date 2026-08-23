@@ -482,7 +482,7 @@
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="806PA">Komukha Naman completes the Circumnavigation of Behera </div>
             <div class="timeline-item" data-date="810PA">Kranvalley Flood, Salvia of Firocco is betrayed and usurped by her student Harvina</div>
-            <div class="timeline-item" data-date="811PA">Begin of the Keywars</div>
+            <div class="timeline-item" data-date="811PA">Begin of the Keywars, Rivalt du Chian destroys the Silver Brotherhood</div>
             <div class="timeline-item" data-date="812PA">Ahrmiz Saceren becomes Lord-Elect of Kulum</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad, 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
