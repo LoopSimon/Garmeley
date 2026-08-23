@@ -4,6 +4,7 @@
 [[Lissvalley]]
 [[Knights of the Green Tree]]
 [[Orenburg Pact]]
+[[Rivalt du Chian]]
 %%
 
 <div class="wiki-infobox">
@@ -18,27 +19,27 @@
  </div>
  <div class="wiki-row">
  <strong>Result</strong>
- <span>Othiri victory,<br>Meadi withdrawal through Arvale,<br>Visian Sea port objective unachieved,<br>Formation of the .</span>
+ <span>Othiri victory,<br>Meadi withdrawal through Arvale,<br>Visian Sea port objective unachieved,<br>Formation of the Visian League.</span>
  </div>
  <hr class="wiki-hr">
  <div class="wiki-row" style="display: block;">
  <strong>Belligerents</strong><br>
  <em>Meadrath:</em><br>
- Kingdom of Meadrath<br>
- Archduchy of Dirneux<br>
+ Kingdom of <a href="Meadrath" class="internal-link">Meadrath</a><br>
+ Archduchy of <a href="Dirneux" class="internal-link">Dirneux</a><br>
  Various Meadi Vassals<br>
  <br>
  <em>Othiri Coalition:</em><br>
- Maelzad of Cimfon<br>
+ Maelzad of <a href="Cimfon" class="internal-link">Cimfon</a><br>
  <a href="Knights of the Green Tree" class="internal-link">Knights of the Green Tree</a><br>
- Lissvalley Federation (from 825PA)<br>
+<a href="Lissvalley" class="internal-link">Lissvalley Federation</a> (from 825PA)<br>
  </div>
  <hr class="wiki-hr">
  <div class="wiki-row" style="display: block;">
  <strong>Commanders</strong><br>
  <em>Meadrath:</em><br>
  King Giselher I von Kor †(wounded)<br>
- Lord Rivalt du Chian †(captured)<br>
+ Lord  <a href="Rivalt du Chian" class="internal-link">Rivalt du Chian</a> †(captured)<br>
  Duke Bernard du Jera<br>
  Count Adalbert von Lindsfall<br>
  Count Gregor von Mur (advisory)<br>
@@ -67,7 +68,7 @@
 <small><i>Rivalt du Chian</i></small>  
 </div>
 
-<p>Meadrath declared war in 824PA and moved with characteristic efficiency. The professional army that crossed through Arkeep was commanded in practical terms by Lord Rivalt du Chian, Castellan of Arkeep, a soldier of considerable ability whose knowledge of the pass and its western approaches gave the campaign its operational coherence. King Giselher I and Duke Bernard du Jera of Dirneux were present and fought alongside their men, bringing the authority of the crown and the house that had held Arkeep for generations to bear on what Meadrath called "the rightful reclamation" of its ancient western frontier. Court Mage Gregor von Mur accompanied the army in an advisory capacity only, aware that the <a href="Orenburg Pact" class="internal-link">Orenburg Pact</a>, signed only seven years earlier in the wake of the devastation of Danipol, bound the magical institutions of Meadrath to non participation in armed conflict. Von Murs role was intelligence and counsel rather than combat, a restraint that cost him considerable influence at a court that wanted simpler answers. As well as one that the magical circles of Afgillion and Gairwin across the Visian Sea observed with the careful attention of parties calculating whether their own constraint remained worthwhile. The result was a tacit magical cold war: Meadrath held theoretical superiority in channelling power but could not deploy it without destroying the credibility of a Pact it had helped establish; the Othiri circles could have forced escalation but understood they would lose it. Both sides kept their mages sheathed, and the war was decided by men and steel.</p>
+<p>Meadrath declared war in 824PA and moved with characteristic efficiency. The professional army that crossed through Arkeep was commanded in practical terms by Lord  <a href="Rivalt du Chian" class="internal-link">Rivalt du Chian</a>, Castellan of Arkeep, a soldier of considerable ability whose knowledge of the pass and its western approaches gave the campaign its operational coherence. King Giselher I and Duke Bernard du Jera of Dirneux were present and fought alongside their men, bringing the authority of the crown and the house that had held Arkeep for generations to bear on what Meadrath called "the rightful reclamation" of its ancient western frontier. Court Mage Gregor von Mur accompanied the army in an advisory capacity only, aware that the <a href="Orenburg Pact" class="internal-link">Orenburg Pact</a>, signed only seven years earlier in the wake of the devastation of Danipol, bound the magical institutions of Meadrath to non participation in armed conflict. Von Murs role was intelligence and counsel rather than combat, a restraint that cost him considerable influence at a court that wanted simpler answers. As well as one that the magical circles of Afgillion and Gairwin across the Visian Sea observed with the careful attention of parties calculating whether their own constraint remained worthwhile. The result was a tacit magical cold war: Meadrath held theoretical superiority in channelling power but could not deploy it without destroying the credibility of a Pact it had helped establish; the Othiri circles could have forced escalation but understood they would lose it. Both sides kept their mages sheathed, and the war was decided by men and steel.</p>
 <p>The first engagement, the Conquest of Skyroar, was a clean Meadi victory. Skyroar Castle, Cimfons defensive position on the western side of the pass, was held by Sir Berengar Harffan, a Cimfoni commander of considerable personal courage who was ultimately outmatched by the professional Meadi siege. Du Chian bested Harffan in personal combat during the castles fall and, in a gesture that would define his reputation on both sides of the mountains, spared him. Harffan was taken prisoner rather than executed, a decision that would become significant years later.</p> 
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/SmaragdKnight.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 <small><i>Adalbert the Smaragd Knight</i></small>  
