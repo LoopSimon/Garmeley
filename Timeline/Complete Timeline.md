@@ -361,6 +361,7 @@
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
             <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon, Conclave of 592 canonises Luca Cadente of Cefran, Patron Saint of Cevolia</div>
+            <div class="timeline-item" data-date="593PA">End of the Khari Dynasty in Kherova, Era of the Empty Seat begins.</div>
             <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil</div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
@@ -397,7 +398,7 @@
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
             <div class="timeline-item" data-date="659PA">Dissolution of Levelix and Creation of Balerey and Sebera; Battle of Summerlake, death of the Count of Mussling; decisive loyalist victory breaks the last Medlan field army.</div>
             <div class="timeline-item" data-date="660PA">Yellow War begins</div>
-            <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan</div>
+            <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan, Era of the Empty Seat ends in Kherova as the Heriod Dynasty emerges</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="668PA">Yellow War ends, Peace at Kulum</div>

@@ -1,6 +1,8 @@
+- 2026-08-24T1318 · Complete Timeline
+- 2026-08-24T1317 · Kherova
+- 2026-08-24T1317 · Grevenna
+- 2026-08-24T1316 · Yellow War
 - 2026-08-24T1239 · Rulers of Kherova
-- 2026-08-24T0400 · Kherova
-- 2026-08-24T0339 · Complete Timeline
 - 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Kheri
 - 2026-08-23T1844 · Merzigal
@@ -196,5 +198,3 @@
 - 2026-08-14T2134 · Rogyn
 - 2026-08-14T1939 · The Incursion
 - 2026-08-14T1829 · Halfling
-- 2026-08-14T1811 · Tah
-- 2026-08-14T1810 · Kareli Hierarchy
