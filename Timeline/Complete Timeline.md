@@ -166,6 +166,7 @@
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
             <div class="timeline-item" data-date="68BA">First Bear-King of the Locni, approximate beginning of the Kingdom of Thirdonis</div>
+            <div class="timeline-item" data-date="61PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="40BA">Horn Lords of the Vihri begin organizing coordinated leadership across the river plain, proto Federation period begins</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
@@ -203,7 +204,6 @@
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
             <div class="timeline-item" data-date="141PA">The Upper Leveli form the Vocas a Amurez around Lake Murez</div>
-            <div class="timeline-item" data-date="142PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="148PA">Barali Invasion of Drizan, Mogyri Shogunate takes power</div>
             <div class="timeline-item" data-date="149PA">Giants retreat beyond Waelajokull</div>
             <div class="timeline-item" data-date="156PA">Battle at the Yevan River</div>
@@ -462,9 +462,10 @@
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionizes modern Anatomy</div>
-            <div class="timeline-item" data-date="774PA">Treeplague in Grachy, Vihr and Trykkerog</div>
+            <div class="timeline-item" data-date="772PA">Treeplagues big initial outbreak in Grachy, Vihr and Trykkerog</div>
             <div class="timeline-item" data-date="775PA">Following their successful Revolution, the Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
-            <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith</div>
+            <div class="timeline-item" data-date="776PA">Treeplague ravages Ur and southern Vihr</div>
+            <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith, Treeplague reaches Grevenna, Kherova and Garmeley and fades in the southern climates</div>
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
@@ -504,21 +505,25 @@
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
+            <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet</div>
             <div class="timeline-item" data-date="843PA">Herat unites and declares the Great Work</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
-            <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War</div>
+            <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War, "Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms</div>
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate, White Wars begin in Behera</div>
+             <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan</div>
+             <div class="timeline-item" data-date="850PA">"Dance of Husks" devastates urban population of Kherova and Grevenna</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts, Battle of the Bow</div>
             <div class="timeline-item" data-date="852PA">Battle of the Bay</div>
             <div class="timeline-item" data-date="853PA">1st Battle of Tears, Kisras Miskomir relieves the Siege of Uhl</div>
-            <div class="timeline-item" data-date="855PA">Battle of Orsfurt, Death King Arngil II von Kor and accession of Gilmar I</div>
+             <div class="timeline-item" data-date="854PA">"Dance of Husks" in southern Vihr and most dominantly affects Garmeley, central and southern Ur and the lands around the Stormy Sea, slowly reaches Cevolia but doesn't seem to be as effective in the northern lands.</div>
+            <div class="timeline-item" data-date="855PA">Battle of Orsfurt, Death King Arngil II von Kor and accession of Gilmar I, "Dance of Husks" ravages Cevolia and reaches Sertova </div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
-	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan</div>
+	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan, after many deaths in cevolia and Sertova, the "Dance of Husks" perishes</div>
 	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat, Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="863PA">Droil is granted nominal autonomy under the Crown of Tintarol to appease Independence movements</div>

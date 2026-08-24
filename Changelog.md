@@ -1,3 +1,6 @@
+- 2026-08-24T0329 · Rulers of Kherova
+- 2026-08-24T0315 · Complete Timeline
+- 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Kheri
 - 2026-08-23T1844 · Merzigal
 - 2026-08-23T1844 · Ahrmiz Saceren
@@ -7,7 +10,6 @@
 - 2026-08-23T1803 · Kethricism
 - 2026-08-23T1803 · Kherova
 - 2026-08-23T1726 · Meadrath
-- 2026-08-23T1211 · Complete Timeline
 - 2026-08-23T1209 · Ar
 - 2026-08-23T0704 · The Tragedy of the Dobrys
 - 2026-08-23T0552 · Meadi Othiri War
@@ -51,7 +53,6 @@
 - 2026-08-19T1619 · Vigzil
 - 2026-08-19T1548 · Greater Chihim
 - 2026-08-19T1547 · Greater Aatar
-- 2026-08-19T1533 · Lakalism
 - 2026-08-19T1513 · Goarism
 - 2026-08-19T1304 · Ruginë
 - 2026-08-19T1303 · Jateš
@@ -197,4 +198,3 @@
 - 2026-08-14T1829 · Halfling
 - 2026-08-14T1811 · Tah
 - 2026-08-14T1810 · Kareli Hierarchy
-- 2026-08-14T0640 · Wispmer
