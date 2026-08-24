@@ -1,6 +1,6 @@
+- 2026-08-24T0355 · Kherova
+- 2026-08-24T0339 · Complete Timeline
 - 2026-08-24T0331 · Rulers of Kherova
-- 2026-08-24T0330 · Kherova
-- 2026-08-24T0315 · Complete Timeline
 - 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Kheri
 - 2026-08-23T1844 · Merzigal

@@ -252,7 +252,7 @@
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="320PA">Urien Conquest of Kerleas begins</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
-            <div class="timeline-item" data-date="324PA">Arester betrays Kerleas and lays siege o Gullspire</div>
+            <div class="timeline-item" data-date="324PA">Arester betrays Kerleas and lays siege to Gullspire</div>
             <div class="timeline-item" data-date="325PA">First mention of the united Ruginë Principality</div>
             <div class="timeline-item" data-date="327PA">The United Forces of Arester and Urland conquer Kerleas, Kerlan nobility and resistance flees into the southern  Wilderness</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
@@ -530,7 +530,7 @@
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge, Andre of Trydlew kills Muriel von Gloss</div>
             <div class="timeline-item" data-date="866PA"> 2nd Battle of Tears, Treaty of Uhl</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
-            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century.</div>
+            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks.</div>
             <div class="timeline-item" data-date="869PA">Andrew of Trydlew founds the Knights of the Unicorn</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry </div>
             <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
