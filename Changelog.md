@@ -1,7 +1,8 @@
+- 2026-08-24T1543 · Yellow War
+- 2026-08-24T1433 · Kulum
 - 2026-08-24T1318 · Complete Timeline
 - 2026-08-24T1317 · Kherova
 - 2026-08-24T1317 · Grevenna
-- 2026-08-24T1316 · Yellow War
 - 2026-08-24T1239 · Rulers of Kherova
 - 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Kheri
@@ -197,4 +198,3 @@
 - 2026-08-14T2308 · Ramper
 - 2026-08-14T2134 · Rogyn
 - 2026-08-14T1939 · The Incursion
-- 2026-08-14T1829 · Halfling
