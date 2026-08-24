@@ -1,4 +1,4 @@
-- 2026-08-24T0401 · Rulers of Kherova
+- 2026-08-24T1239 · Rulers of Kherova
 - 2026-08-24T0400 · Kherova
 - 2026-08-24T0339 · Complete Timeline
 - 2026-08-23T2022 · Lakalism

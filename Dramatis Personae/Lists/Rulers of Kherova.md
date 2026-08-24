@@ -32,6 +32,7 @@
 
 *Oversaw the negotiations that produced the Day of Brothers in 262PA, formally uniting the city states under the Khatrym. His son was crowned as Tiblin II, the first formal Khat, taking the dynastic name in honour of the great ancestor.*
 
+<h5>Khari Dynasty (Post-Unification)</h5>
 <p>Tiblin II "the Unifier", 262PA - 284PA</p>
 
 *First formal Khat of the unified Khatrym, crowned at the Day of Brothers when the city states of Kher, Erbil, Kairos and the Ankheri communities permanently united under the lake shore throne. Conversion of Kher to Gethricism 284PA.*
