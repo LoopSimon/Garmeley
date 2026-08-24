@@ -73,8 +73,8 @@
 <p>Heriod I, 693PA - 712PA</p>
 <p>Zaal I, 712PA - 730PA</p>
 <p>Tiblin VIII, 730PA - 748PA</p>
-<p>Heriod II "the Builder", 748PA - 779PA</p>
-<p>Arsen II, 779PA — 782PA</p>
+<p>Heriod II "the Judge", 748PA - 779PA</p>
+<p>Arsen II, 779PA - 782PA</p>
 
 *Died in 782PA of the Treeplague,  the epidemic originating in northern Nostroya and Trykkerog that moved south through Vihr across the 770s and 780s, arriving in Kherova precisely as the Bihra Khan Jigallors forces attacked the eastern frontier. When Arsen II died not in battle but of disease while his kingdom faced simultaneous invasion from the east, he was leaving his successor to inherit both the throne and the emergency at once.*
 
