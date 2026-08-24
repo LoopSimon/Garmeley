@@ -1,4 +1,5 @@
-- 2026-08-24T0329 · Rulers of Kherova
+- 2026-08-24T0331 · Rulers of Kherova
+- 2026-08-24T0330 · Kherova
 - 2026-08-24T0315 · Complete Timeline
 - 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Kheri
@@ -8,7 +9,6 @@
 - 2026-08-23T1843 · Darvid Maerlon
 - 2026-08-23T1842 · Zurán Barbeshvili
 - 2026-08-23T1803 · Kethricism
-- 2026-08-23T1803 · Kherova
 - 2026-08-23T1726 · Meadrath
 - 2026-08-23T1209 · Ar
 - 2026-08-23T0704 · The Tragedy of the Dobrys

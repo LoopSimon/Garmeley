@@ -4,7 +4,7 @@
 [[Kheri]]
 %%
 
-<p>The Khats of the Khatrym of Kherova, rulers of the Kheri peoples since the unification of the lake shore city states at the Day of Brothers in 262PA. The title of Khat descends through the male line exclusively, with succession passing to the eldest son of the Erkhati, the first wife, or in her absence to the eldest son of the second or third wife. All Khats claim descent from the legendary hero Khariel, slayer of the Wyrm Thamira, whose lineage the Khari and Heriod dynasties both trace through different branches of the same ancient line.</p>
+<p>The Khats of the Khatrym of <a href="Kherova" class="internal-link">Kherova</a>, rulers of the <a href="Kheri" class="internal-link">Kheri</a> peoples since the unification of the lake shore city states at the Day of Brothers in 262PA. The title of Khat descends through the male line exclusively, with succession passing to the eldest son of the Erkhati, the first wife, or in her absence to the eldest son of the second or third wife. All Khats claim descent from the legendary hero Khariel, slayer of the Wyrm <a href="Dragon" class="internal-link">Thamira</a>, whose lineage the Khari and Heriod dynasties both trace through different branches of the same ancient line.</p>
 
 <h3>Ancestral Figure</h3>
 <small>Pre-Dynasty</small>
@@ -46,7 +46,7 @@
 <p>Tiblin III, 437PA - 458PA</p>
 <p>Vakhtang II, 458PA - 476PA</p>
 
-*Kethric Declaration 471PA: Kherova formally separates from the Church of Iztaw, the Kherovan Patriarchate established as fully independent.*
+*<a href="Kethricism" class="internal-link">Kethric</a> Declaration 471PA: Kherova formally separates from the Church of Iztaw, the Kherovan Patriarchate established as fully independent.*
 
 <p>Giorat I "the Pious", 476PA - 499PA</p>
 <p>Tamaz II, 499PA - 518PA</p>
