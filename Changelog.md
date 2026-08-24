@@ -1,4 +1,4 @@
-- 2026-08-24T1543 · Yellow War
+- 2026-08-24T1801 · Yellow War
 - 2026-08-24T1433 · Kulum
 - 2026-08-24T1318 · Complete Timeline
 - 2026-08-24T1317 · Kherova
