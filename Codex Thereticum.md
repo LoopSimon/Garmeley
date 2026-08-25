@@ -10,8 +10,9 @@ The Grachy Generals sued for peace with vihr who had been at the backfoot for a 
 
 Vihr never forgot the shameful result of the war in their eyes and even among the more content and otherwise oriented voices, Vormil II is remembered negatively. His epitaph as the "Axebreaker" begin self given following the war due to the dissolution of Halgrach, whos symbol had always been the Axe,  taking on an almost mocking aspect essentially immediately after the peace. 
 
-
-
+Morfelds Conjecture
+Talnod-Swarn Gradient
+Secrets of Alahmid
 
 The Verali
 
