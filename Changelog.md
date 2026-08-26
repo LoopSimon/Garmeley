@@ -1,3 +1,4 @@
+- 2026-08-26T1559 · Versy Barl
 - 2026-08-26T1547 · Morfeld
 - 2026-08-26T1545 · Graccum
 - 2026-08-26T1432 · Lyandra
@@ -98,7 +99,6 @@
 - 2026-08-18T1932 · Kortyr
 - 2026-08-18T1931 · Joakim zi Szarbel
 - 2026-08-18T1930 · Avero
-- 2026-08-18T1930 · Versy Barl
 - 2026-08-18T1929 · Valenty Sykes
 - 2026-08-18T1929 · Antonin Slowoska
 - 2026-08-18T1928 · Shasha Gurnakov
