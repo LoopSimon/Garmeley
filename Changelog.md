@@ -1,10 +1,11 @@
+- 2026-08-26T0353 · Complete Timeline
+- 2026-08-26T0353 · Lyandra
+- 2026-08-25T2204 · Codex Thereticum
 - 2026-08-25T1902 · Graccum
 - 2026-08-25T1851 · Yellow War
 - 2026-08-25T1851 · Hannah of Krav
-- 2026-08-25T1542 · Codex Thereticum
 - 2026-08-25T0206 · Grevenna
 - 2026-08-24T1433 · Kulum
-- 2026-08-24T1318 · Complete Timeline
 - 2026-08-24T1317 · Kherova
 - 2026-08-24T1239 · Rulers of Kherova
 - 2026-08-23T2022 · Lakalism
@@ -45,7 +46,6 @@
 - 2026-08-21T0006 · Gethric
 - 2026-08-21T0005 · Razmyr
 - 2026-08-21T0003 · Volboris
-- 2026-08-21T0001 · Lyandra
 - 2026-08-20T2321 · Vihrmen Federation
 - 2026-08-20T2125 · Zervind II
 - 2026-08-20T0107 · Liandar

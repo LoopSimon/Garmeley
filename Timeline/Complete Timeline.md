@@ -401,6 +401,7 @@
             <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan, Era of the Empty Seat ends in Kherova as the Heriod Dynasty emerges</div>
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
+            <div class="timeline-item" data-date="666PA">The Necromancer Morfeld is captured by Lyandra of Fairriver, later tried and burned alive in Uhl</div>
             <div class="timeline-item" data-date="668PA">Yellow War ends, Peace at Kulum</div>
             <div class="timeline-item" data-date="669PA">Imperator Lisil IIIs Decree of Divinity</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
@@ -473,6 +474,7 @@
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
+            <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach, 2nd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="792PA">Battvian Civil War</div>
