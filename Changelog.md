@@ -1,7 +1,8 @@
+- 2026-08-26T1545 · Graccum
+- 2026-08-26T1542 · Morfeld
+- 2026-08-26T1432 · Lyandra
 - 2026-08-26T0353 · Complete Timeline
-- 2026-08-26T0353 · Lyandra
 - 2026-08-25T2204 · Codex Thereticum
-- 2026-08-25T1902 · Graccum
 - 2026-08-25T1851 · Yellow War
 - 2026-08-25T1851 · Hannah of Krav
 - 2026-08-25T0206 · Grevenna
@@ -197,4 +198,3 @@
 - 2026-08-15T2312 · Simulacrum
 - 2026-08-15T2101 · Perisco Effect
 - 2026-08-15T1551 · Artor Perisco
-- 2026-08-14T2308 · Ramper
