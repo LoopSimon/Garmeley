@@ -1,4 +1,4 @@
-- 2026-08-27T1731 · Adzul I
+- 2026-08-27T1806 · Adzul I
 - 2026-08-27T1717 · Valeri Temzin
 - 2026-08-27T1716 · Complete Timeline
 - 2026-08-27T1713 · Tronos
