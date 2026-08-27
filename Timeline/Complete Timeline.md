@@ -466,6 +466,7 @@
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionizes modern Anatomy</div>
             <div class="timeline-item" data-date="772PA">Treeplagues big initial outbreak in Grachy, Vihr and Trykkerog</div>
+            <div class="timeline-item" data-date="773PA">Gelmsburg attacks Eldmar in the war of 90 days, war ends inconclusively after the Battle of Silverfields and the Death of George the Brave </div>
             <div class="timeline-item" data-date="775PA">Following their successful Revolution, the Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
             <div class="timeline-item" data-date="776PA">Treeplague ravages Ur and southern Vihr</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith, Treeplague reaches Grevenna, Kherova and Garmeley and fades in the southern climates</div>
@@ -512,8 +513,9 @@
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
+            <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled, First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet</div>
-            <div class="timeline-item" data-date="843PA">Herat unites and declares the Great Work</div>
+            <div class="timeline-item" data-date="843PA">Herat unites and declares the Great Work, First War of the Gryphon ends, successful reconquest of Turv</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War, "Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
@@ -544,9 +546,10 @@
             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously, Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal</div>
+            <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins, Battle at Garlin</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
-            <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge</div>
-            <div class="timeline-item" data-date="888PA">Treaty of Nzhun</div>
+            <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge, Battle of the Lost Crowns</div>
+            <div class="timeline-item" data-date="888PA">Treaty of Nzhun, Battle Merbridge, end of the 2nd War of the Gryphon</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>

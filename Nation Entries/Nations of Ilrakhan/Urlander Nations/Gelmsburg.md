@@ -47,6 +47,7 @@
 </div>
 
 <p> In Gelmsburg, the old Capital of <a href="Urland" class="internal-link">Urland</a>, rule the Gelmish Kings, at least militarily speaking the most powerful of the petty Kings and Queens of the Urien successor states. Gelmsburg stretches from Turv and the Urhills in the North all the way to the Redwood in the south, encompassing the Gelmsgrove and most of the Field of Tears as well. Together with the southern Knights of <a href="Urbridge" class="internal-link">Urbridge</a> it represents the main bulwark against the warring <a href="Ak-Saray" class="internal-link">Hobgoblins</a> east of the Trinmo. <a href="Andre" class="internal-link">Saint Andre</a>, the Unicorn Knight, is the most popular saint in modern day Gelmsburg where the Saints Triumph Cathedral is being build in his honour at the moment.</p>
+<p>As of the first War of the Gryphon in 841PA, Gelmsburg is a member and sometimes considered the leader of the so called <a href="League of the Gryphon" class="internal-link">League of the Gryphon</a> and has participated in both of the major <a href="Wars of the Gryphon" class="internal-link">Wars of the Gryphon</a>.</p>
 
 <h2>People of Interest</h2>
 

@@ -1,3 +1,11 @@
+- 2026-08-28T0146 · Wars of Qahori Subjugation
+- 2026-08-28T0140 · 90 Days War
+- 2026-08-28T0139 · Complete Timeline
+- 2026-08-28T0138 · Urbridge
+- 2026-08-28T0138 · Eldmar
+- 2026-08-28T0137 · Gelmsburg
+- 2026-08-28T0136 · Wars of the Gryphon
+- 2026-08-28T0136 · League of the Gryphon
 - 2026-08-27T2335 · Trade
 - 2026-08-27T2335 · Behera
 - 2026-08-27T2335 · Grand Ziflis Company
@@ -14,7 +22,6 @@
 - 2026-08-27T1810 · Kethricism
 - 2026-08-27T1806 · Adzul I
 - 2026-08-27T1717 · Valeri Temzin
-- 2026-08-27T1716 · Complete Timeline
 - 2026-08-27T1713 · Tronos
 - 2026-08-27T1620 · Lorana
 - 2026-08-27T1617 · Hannah of Krav
@@ -150,12 +157,9 @@
 - 2026-08-18T1254 · Kerlaes
 - 2026-08-18T1254 · Baeling Empire
 - 2026-08-18T1254 · Arester
-- 2026-08-18T1253 · Urbridge
 - 2026-08-18T1253 · Uhl
 - 2026-08-18T1253 · Trinvale
-- 2026-08-18T1253 · Gelmsburg
 - 2026-08-18T1253 · Garmeley
-- 2026-08-18T1253 · Eldmar
 - 2026-08-18T1252 · Urland
 - 2026-08-18T1252 · Nied
 - 2026-08-18T1250 · Targesis
@@ -194,7 +198,3 @@
 - 2026-08-18T0102 · Ylva
 - 2026-08-18T0101 · Toski
 - 2026-08-18T0101 · Egill
-- 2026-08-18T0101 · Ida Laridottr
-- 2026-08-18T0042 · Greater Spirit
-- 2026-08-17T1149 · Melmer
-- 2026-08-17T1149 · Markur
