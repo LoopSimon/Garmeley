@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>895PA, Zeeport</span>
+        <span>890PA, Zeeport</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

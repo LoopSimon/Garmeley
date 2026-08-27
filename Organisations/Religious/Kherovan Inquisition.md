@@ -1,6 +1,8 @@
 %%[[Kherova]] [[Kethricism]]%%
 
-
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/EyeofInquisition.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>The Eye of the Inquisition</i></small>
+</div>
 Founded in the Year 585PA, as a response to the findings of the Great Expedition in Rakh, 
 this institution is under the direct control of the Patriarch of Kher as the head of the Kethric denomination.
 The symbol of the Inquisition is the All-Seeying Eye of Truth engulfed in the Flames of Kethric.

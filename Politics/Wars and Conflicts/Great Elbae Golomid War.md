@@ -5,4 +5,4 @@ Belligerents:  [[Elbae]] Sultanate and [[Golomid]] Empire
 
 *Location:* Il-Haena, Summer Sea
 
-*Result:* White Peace
+*Result:* Peace at Algolom

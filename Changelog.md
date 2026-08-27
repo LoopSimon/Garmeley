@@ -1,6 +1,10 @@
-- 2026-08-27T1857 · Kherova
+- 2026-08-27T2249 · Kherovan Inquisition
+- 2026-08-27T2247 · Kherova
+- 2026-08-27T2241 · Asper Inrates
+- 2026-08-27T2241 · Kaspar Vasser
+- 2026-08-27T2240 · Great Elbae Golomid War
+- 2026-08-27T2240 · Grand Ziflis Company
 - 2026-08-27T1813 · Vazena
-- 2026-08-27T1810 · Kherovan Inquisition
 - 2026-08-27T1810 · Kethricism
 - 2026-08-27T1806 · Adzul I
 - 2026-08-27T1717 · Valeri Temzin
@@ -177,7 +181,6 @@
 - 2026-08-18T0149 · Gisela IV
 - 2026-08-18T0148 · Lukomok Trep
 - 2026-08-18T0148 · Gislif Mellwing
-- 2026-08-18T0148 · Kaspar Vasser
 - 2026-08-18T0138 · Roygviil
 - 2026-08-18T0138 · Ukiolla
 - 2026-08-18T0118 · Pehki
@@ -195,6 +198,3 @@
 - 2026-08-17T1140 · Andre
 - 2026-08-17T1136 · Ralond
 - 2026-08-17T1113 · Igor
-- 2026-08-17T1107 · Fredric
-- 2026-08-16T2235 · Rulers of the Grachi
-- 2026-08-15T2312 · Simulacrum
