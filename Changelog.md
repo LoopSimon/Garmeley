@@ -1,9 +1,15 @@
+- 2026-08-27T2335 · Trade
+- 2026-08-27T2335 · Behera
+- 2026-08-27T2335 · Grand Ziflis Company
+- 2026-08-27T2335 · Golomid
+- 2026-08-27T2335 · Kherova
+- 2026-08-27T2334 · Orc
+- 2026-08-27T2334 · Qarzi
+- 2026-08-27T2333 · Il Haena
 - 2026-08-27T2249 · Kherovan Inquisition
-- 2026-08-27T2247 · Kherova
 - 2026-08-27T2241 · Asper Inrates
 - 2026-08-27T2241 · Kaspar Vasser
 - 2026-08-27T2240 · Great Elbae Golomid War
-- 2026-08-27T2240 · Grand Ziflis Company
 - 2026-08-27T1813 · Vazena
 - 2026-08-27T1810 · Kethricism
 - 2026-08-27T1806 · Adzul I
@@ -192,9 +198,3 @@
 - 2026-08-18T0042 · Greater Spirit
 - 2026-08-17T1149 · Melmer
 - 2026-08-17T1149 · Markur
-- 2026-08-17T1149 · Kifrir
-- 2026-08-17T1148 · Dorian
-- 2026-08-17T1146 · Yelena
-- 2026-08-17T1140 · Andre
-- 2026-08-17T1136 · Ralond
-- 2026-08-17T1113 · Igor

@@ -1,3 +1,6 @@
+%%
+[[Il Haena]]
+%%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/orc.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Qari Sailor</i></small>
 </div>
@@ -7,6 +10,6 @@ The humble and gentle Orcs, or “Qari” in their tongue, are of tall stature a
 
 While most Orcs today can be found in the vicinity of the remnant of Qa, their home is said to lie even further east, across the great ocean in the land of Dawn. 
 
-Due to their origins an common practice as wandering sailors, Orcs are rarely tied down to one place, especially after the Destruction of of the Lands of Qa in what is now known as Il-Haena at the hands of the Sultanate, they take extremely well to different climates and can be found sailing even the icy waters of the torn sea in the far north, where they are valued for their prowess and enjoy rich lifestyles in port cities like Sallesand, Yokosch or Albesan.
+Due to their origins an common practice as wandering sailors, Orcs are rarely tied down to one place, especially after the Destruction of of the Lands of Qa in what is now known as <a href="Il Haena" class="internal-link">Il-Haena</a> at the hands of the Sultanate, they take extremely well to different climates and can be found sailing even the icy waters of the torn sea in the far north, where they are valued for their prowess and enjoy rich lifestyles in port cities like Sallesand, Yokosch or Albesan.
 
 The two pre-eminent orcish nations are the [[Qahori]] Federation and the Kingdom of [[Qarzi]], both located in southern Nirydia.

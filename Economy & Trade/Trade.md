@@ -19,6 +19,6 @@ Turmeric:
 Native to Sgar Island, north of the Sea of Spores in central Nirydia.
 
 Nutmeg:
-Native to the volcanic Qahoris north of Il-Haena
+Native to the volcanic Qahoris north of <a href="Il Haena" class="internal-link">Il-Haena</a>
 	Propagation: Nutmeg Trees have been transplanted into various islands far away from their original habitat, as the result of elven experiments and the attempt to control the production of the valuable spice. Today the largest production of nutmeg is on the plantations of Myrnifer in the Purple Sea.
 
