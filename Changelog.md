@@ -1,4 +1,4 @@
-- 2026-08-27T1856 · Kherova
+- 2026-08-27T1857 · Kherova
 - 2026-08-27T1813 · Vazena
 - 2026-08-27T1810 · Kherovan Inquisition
 - 2026-08-27T1810 · Kethricism
