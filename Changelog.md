@@ -1,3 +1,4 @@
+- 2026-08-27T1856 · Kherova
 - 2026-08-27T1813 · Vazena
 - 2026-08-27T1810 · Kherovan Inquisition
 - 2026-08-27T1810 · Kethricism
@@ -16,7 +17,6 @@
 - 2026-08-25T1851 · Yellow War
 - 2026-08-25T0206 · Grevenna
 - 2026-08-24T1433 · Kulum
-- 2026-08-24T1317 · Kherova
 - 2026-08-24T1239 · Rulers of Kherova
 - 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Kheri
