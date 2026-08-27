@@ -1,8 +1,10 @@
+- 2026-08-27T1813 · Vazena
+- 2026-08-27T1810 · Kherovan Inquisition
+- 2026-08-27T1810 · Kethricism
 - 2026-08-27T1806 · Adzul I
 - 2026-08-27T1717 · Valeri Temzin
 - 2026-08-27T1716 · Complete Timeline
 - 2026-08-27T1713 · Tronos
-- 2026-08-27T1711 · Kethricism
 - 2026-08-27T1620 · Lorana
 - 2026-08-27T1617 · Hannah of Krav
 - 2026-08-26T1601 · Ivanova Orin
@@ -45,7 +47,6 @@
 - 2026-08-21T1201 · Natan VI
 - 2026-08-21T1159 · Kubil no Vang
 - 2026-08-21T0210 · Knights of the Unicorn
-- 2026-08-21T0208 · Kherovan Inquisition
 - 2026-08-21T0205 · Luca
 - 2026-08-21T0203 · Palus
 - 2026-08-21T0152 · Tytus
@@ -191,7 +192,6 @@
 - 2026-08-17T1149 · Kifrir
 - 2026-08-17T1148 · Dorian
 - 2026-08-17T1146 · Yelena
-- 2026-08-17T1142 · Vazena
 - 2026-08-17T1140 · Andre
 - 2026-08-17T1136 · Ralond
 - 2026-08-17T1113 · Igor

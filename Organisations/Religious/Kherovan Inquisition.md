@@ -36,7 +36,7 @@ Founded in 585PA.
 
 The Order of the White Hall, dwarven Sages and Scholars within the Inquisition, concerned with heresy in dwarven communities in Kherova. They also seek, contain and destroy powerful magical relics for the Inquisition. Founded in 599PA.
 
-The Wandbreaker Guard, military personal of the inquisition within the Kherovan Army, acting as an anti-magic force in combat. Founded in 710PA.
+The Spellbreaker Guard, military personal of the inquisition within the Kherovan Army, acting as an anti-magic force in combat. Founded in 710PA.
 
 The Keepers of the Pale Truth, an internal police-corp within the inquisition and clergy. 
 Founded in 710PA.
