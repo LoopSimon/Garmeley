@@ -21,8 +21,12 @@
         <span>859PA, Reani Hills</span>
 	    </div>
     <div class="wiki-row">
-        <strong>Age</strong>
-        <span>68</span>
+        <strong>Died</strong>
+        <span>927PA, Shrine of Dimrod</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Cause of Death</strong>
+        <span>Gave her life force to a protective ritual, Age 68</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>

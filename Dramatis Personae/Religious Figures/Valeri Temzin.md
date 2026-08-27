@@ -1,5 +1,4 @@
 %%
-[[Niedrest]]
 [[Kherovan Inquisition]]
 [[Niedrest Incident]]
 [[Dwarf]]
@@ -7,6 +6,10 @@
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Valeri Temzin</h4>
+    <div class="wiki-row">
+        <strong>Faith</strong>
+        <span><a href="Kethricism" class="internal-link">Kethricism</a></span>
+    </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span> Inquisitor of the Open Face</span>

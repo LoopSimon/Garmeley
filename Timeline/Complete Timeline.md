@@ -295,9 +295,10 @@
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
+            <div class="timeline-item" data-date="458PA">First Kethirc Conclave at Opzuna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="462PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
-            <div class="timeline-item" data-date="471PA">Kher declares independence from Iztaw</div>
+            <div class="timeline-item" data-date="471PA">Second Kethric Conclave at Volazc, Kherova declares independence from Iztaw, Archbishop Adzul becomes Patriarch Adzul I, Kethric Schism</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
             <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>

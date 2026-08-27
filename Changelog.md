@@ -1,11 +1,17 @@
+- 2026-08-27T1731 · Adzul I
+- 2026-08-27T1717 · Valeri Temzin
+- 2026-08-27T1716 · Complete Timeline
+- 2026-08-27T1713 · Tronos
+- 2026-08-27T1711 · Kethricism
+- 2026-08-27T1620 · Lorana
+- 2026-08-27T1617 · Hannah of Krav
+- 2026-08-26T1601 · Ivanova Orin
 - 2026-08-26T1559 · Versy Barl
 - 2026-08-26T1547 · Morfeld
 - 2026-08-26T1545 · Graccum
 - 2026-08-26T1432 · Lyandra
-- 2026-08-26T0353 · Complete Timeline
 - 2026-08-25T2204 · Codex Thereticum
 - 2026-08-25T1851 · Yellow War
-- 2026-08-25T1851 · Hannah of Krav
 - 2026-08-25T0206 · Grevenna
 - 2026-08-24T1433 · Kulum
 - 2026-08-24T1317 · Kherova
@@ -14,10 +20,8 @@
 - 2026-08-23T1844 · Kheri
 - 2026-08-23T1844 · Merzigal
 - 2026-08-23T1844 · Ahrmiz Saceren
-- 2026-08-23T1844 · Valeri Temzin
 - 2026-08-23T1843 · Darvid Maerlon
 - 2026-08-23T1842 · Zurán Barbeshvili
-- 2026-08-23T1803 · Kethricism
 - 2026-08-23T1726 · Meadrath
 - 2026-08-23T1209 · Ar
 - 2026-08-23T0704 · The Tragedy of the Dobrys
@@ -109,7 +113,6 @@
 - 2026-08-18T1926 · Vasily Surovsky
 - 2026-08-18T1926 · Tadeuz Pilsud
 - 2026-08-18T1925 · Jakub Ralpia
-- 2026-08-18T1925 · Ivanova Orin
 - 2026-08-18T1925 · Ilya Zemov
 - 2026-08-18T1924 · Eril Ruda
 - 2026-08-18T1924 · Marosz Kirelli
@@ -183,7 +186,6 @@
 - 2026-08-18T0101 · Egill
 - 2026-08-18T0101 · Ida Laridottr
 - 2026-08-18T0042 · Greater Spirit
-- 2026-08-17T1150 · Tronos
 - 2026-08-17T1149 · Melmer
 - 2026-08-17T1149 · Markur
 - 2026-08-17T1149 · Kifrir
@@ -196,5 +198,3 @@
 - 2026-08-17T1107 · Fredric
 - 2026-08-16T2235 · Rulers of the Grachi
 - 2026-08-15T2312 · Simulacrum
-- 2026-08-15T2101 · Perisco Effect
-- 2026-08-15T1551 · Artor Perisco
