@@ -1,6 +1,7 @@
-- 2026-08-28T0146 · Wars of Qahori Subjugation
+- 2026-08-28T0159 · Wars of Qahori Subjugation
+- 2026-08-28T0159 · Complete Timeline
+- 2026-08-28T0158 · Qarzi
 - 2026-08-28T0140 · 90 Days War
-- 2026-08-28T0139 · Complete Timeline
 - 2026-08-28T0138 · Urbridge
 - 2026-08-28T0138 · Eldmar
 - 2026-08-28T0137 · Gelmsburg
@@ -12,7 +13,6 @@
 - 2026-08-27T2335 · Golomid
 - 2026-08-27T2335 · Kherova
 - 2026-08-27T2334 · Orc
-- 2026-08-27T2334 · Qarzi
 - 2026-08-27T2333 · Il Haena
 - 2026-08-27T2249 · Kherovan Inquisition
 - 2026-08-27T2241 · Asper Inrates
