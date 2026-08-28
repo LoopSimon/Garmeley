@@ -49,7 +49,7 @@
 <p>Izmu Alik I, 64PA - 108PA</p>
 <p>MeriIas, 108PA - 149PA</p>
 <p>Merilas II, 149PA - 320PA</p>
-<p>Lizun I, 320PA - 424PA</p>
+<p><a href="Lizun I" class="internal-link">Lizun I</a>, 320PA - 424PA</p>
 <p>Irater I, 424PA - 470PA</p>
 <p>Irater II, 470PA - 479PA</p>
 <p>Bel-Heiros I, 479PA - 515PA</p>

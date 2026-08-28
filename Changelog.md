@@ -1,3 +1,6 @@
+- 2026-08-28T0435 · Elbae
+- 2026-08-28T0431 · Lizun I
+- 2026-08-28T0431 · Rulers of the Beheran Elves
 - 2026-08-28T0159 · Wars of Qahori Subjugation
 - 2026-08-28T0159 · Complete Timeline
 - 2026-08-28T0158 · Qarzi
@@ -195,6 +198,3 @@
 - 2026-08-18T0138 · Ukiolla
 - 2026-08-18T0118 · Pehki
 - 2026-08-18T0105 · Nilborg
-- 2026-08-18T0102 · Ylva
-- 2026-08-18T0101 · Toski
-- 2026-08-18T0101 · Egill
