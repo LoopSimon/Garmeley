@@ -140,7 +140,7 @@
             <div class="timeline-item" data-date="281BA">The Great Voyage, through unknown methods Minotaurs cross the Gaalian Sea and land on Ynkal, supposedly from Puthrac</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
-            <div class="timeline-item" data-date="278PA">Elves settle the east coast of  Qa and name it Il-Haena, initial contact with local Orcs is friendly</div>
+            <div class="timeline-item" data-date="278BA">Elves settle the east coast of  Qa and name it Il-Haena, initial contact with local Orcs is friendly</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="269BA">Conquest of Samyr, The Marival ends and the City is named Mereskis</div>
             <div class="timeline-item" data-date="265BA">Meter Ban on Ilonist Cults, "Breaking of the Wheel" begins in Behera</div>
@@ -509,12 +509,12 @@
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins, Battle of Skyroar</div>
             <div class="timeline-item" data-date="825PA">Battle of Arvale</div>
-            <div class="timeline-item" data-date="826PA">Battle of Red Oak</div>
+            <div class="timeline-item" data-date="826PA">Battle of Red Oak, Giselher I is left crippled</div>
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="828PA">Brothers War begins in Vihr and Nostroya</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
             <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova</div>
-            <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed, left crippled in an assassination attempt known as the Fiseux Uprising</div>
+            <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>

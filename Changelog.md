@@ -1,4 +1,5 @@
-- 2026-08-28T1304 · Complete Timeline
+- 2026-08-28T1315 · Qalmyr
+- 2026-08-28T1309 · Complete Timeline
 - 2026-08-28T1302 · Lizun I
 - 2026-08-28T1247 · Elbae
 - 2026-08-28T0437 · Jiravid
@@ -197,4 +198,3 @@
 - 2026-08-18T0148 · Gislif Mellwing
 - 2026-08-18T0138 · Roygviil
 - 2026-08-18T0138 · Ukiolla
-- 2026-08-18T0118 · Pehki
