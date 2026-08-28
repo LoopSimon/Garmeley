@@ -1,3 +1,8 @@
+- 2026-08-28T1832 · Third War of Elbae Aggression
+- 2026-08-28T1701 · Hainach
+- 2026-08-28T1659 · Second War of Elbae Aggression
+- 2026-08-28T1654 · First War of Elbae Aggression
+- 2026-08-28T1534 · Wars of Elbae Aggression
 - 2026-08-28T1441 · Qahori
 - 2026-08-28T1438 · Qarzi
 - 2026-08-28T1435 · Elbae
@@ -193,8 +198,3 @@
 - 2026-08-18T0150 · Gisela II
 - 2026-08-18T0150 · Varald I
 - 2026-08-18T0150 · Odrick von Fulmer
-- 2026-08-18T0150 · Madeley IV
-- 2026-08-18T0149 · Gisela IV
-- 2026-08-18T0148 · Lukomok Trep
-- 2026-08-18T0148 · Gislif Mellwing
-- 2026-08-18T0138 · Roygviil
