@@ -180,8 +180,10 @@
         <h3>Age of Silver</h3>
         <div class="timeline-list">
             <div class="timeline-item" data-date="1PA">Burning Decades begin</div>
+            <div class="timeline-item" data-date="2PA">A majority of elves on the surface of Ilrakhan pass due to sudden sickness, in Rogyn and Behera, Aelfs of the far north are barely impacted</div>
             <div class="timeline-item" data-date="10PA">The Fading, Rakh has become a Wasteland of Ash and Magical Residue</div>
             <div class="timeline-item" data-date="12PA">Harrusham declares himself the Lord of New Rakh in Gibaresh, the few surviving rakhi loyalists gather around him</div>
+            <div class="timeline-item" data-date="22PA">Izzmu Alik defeats Abghazi during the Wars of Ash in eastern Behera</div>
             <div class="timeline-item" data-date="27PA">Kerleani Bodyguards kill Harrusham and sacrifice over five thousand rakhi survivors to Mornal, crowning Arvald as the new Lord of Kerleas</div>
             <div class="timeline-item" data-date="28PA">Remaining rakhi officials and families in the urien provinces that had gathered in "New Rakh" are forced to venture into the Wastes</div>
             <div class="timeline-item" data-date="29PA">As rakhi administration in the urien provinces has ended, Kingdoms of Arester & Urland are declared</div>
@@ -234,7 +236,7 @@
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, Rise of the petty Kings of Korsfall, Morelle & Rulais</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite, Day of Brothers</div>
             <div class="timeline-item" data-date="263PA">Gethric Teachings are spreading beyond Vihr in Meadland, Urland and Grachy</div>
-            <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends his armies to Timoq, essentially occupying the city after killings houndreds of locals</div>
+            <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends troops to Timoq, essentially occupying the city after killings houndreds of locals</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
             <div class="timeline-item" data-date="275PA">The myth of Sochor ends, as Sochor ascendes and becomes sole God of Naigan and the Yppori</div>
             <div class="timeline-item" data-date="277PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>
@@ -312,7 +314,7 @@
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
-            <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon if formed following the Battle of Wightswound</div>
+            <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="495PA">Leveli conquest of central Amurez, Conclave of 495 canonises Vazena of Kairos</div>
             <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan</div>
@@ -360,7 +362,7 @@
         <div class="timeline-list">
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
             <div class="timeline-item" data-date="581PA">Saint Luca resolves the Crisis of Parsa</div>
-            <div class="timeline-item" data-date="582PA">Bihra form Rha-Gis in the Limsul Peaks, The Kherovan Inquisition tries and kills the Witch Yezofia following her three decade establishment of a witches court in the Yellow Moor</div>
+            <div class="timeline-item" data-date="582PA">Bihra form Rha-Gis in the Limsul Peaks, Precursors to the Kherovan Inquisition judge and kill the Witch Yezofia following her three decade establishment of a witches court in the Yellow Moor</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="586PA">Meadi reconquest of northern Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>
@@ -521,7 +523,7 @@
             <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled, First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet</div>
-            <div class="timeline-item" data-date="843PA">Herat unites and declares the Great Work, First War of the Gryphon ends, successful reconquest of Turv</div>
+            <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work, First War of the Gryphon ends, successful reconquest of Turv</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree, beginning of the Great Eastern War, "Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
