@@ -1,11 +1,12 @@
+- 2026-08-28T1441 · Qahori
+- 2026-08-28T1438 · Qarzi
+- 2026-08-28T1435 · Elbae
+- 2026-08-28T1431 · Wars of Qahori Subjugation
 - 2026-08-28T1315 · Qalmyr
 - 2026-08-28T1309 · Complete Timeline
 - 2026-08-28T1302 · Lizun I
-- 2026-08-28T1247 · Elbae
 - 2026-08-28T0437 · Jiravid
 - 2026-08-28T0431 · Rulers of the Beheran Elves
-- 2026-08-28T0159 · Wars of Qahori Subjugation
-- 2026-08-28T0158 · Qarzi
 - 2026-08-28T0140 · 90 Days War
 - 2026-08-28T0138 · Urbridge
 - 2026-08-28T0138 · Eldmar
@@ -197,4 +198,3 @@
 - 2026-08-18T0148 · Lukomok Trep
 - 2026-08-18T0148 · Gislif Mellwing
 - 2026-08-18T0138 · Roygviil
-- 2026-08-18T0138 · Ukiolla
