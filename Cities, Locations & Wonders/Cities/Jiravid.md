@@ -45,3 +45,4 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/jiravid.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Jiravid at Night</i></small>
 </div>
+<p>As the core of the complex web of Elbae Administration, Jiravid is the home to various powerful institutions within the Sultanate, primarily the Palace of Eternity and the Ar-Dirhun, where the most powerful figures of the realm gather to council the absolute ruler of their world.</p>
