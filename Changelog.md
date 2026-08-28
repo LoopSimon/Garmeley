@@ -1,12 +1,14 @@
-- 2026-08-28T1854 · Complete Timeline
+- 2026-08-28T1911 · Hainach
+- 2026-08-28T1911 · Vihr
+- 2026-08-28T1908 · Elbae
+- 2026-08-28T1903 · Grevenna
+- 2026-08-28T1858 · Complete Timeline
 - 2026-08-28T1849 · Wars of Elbae Aggression
 - 2026-08-28T1832 · Third War of Elbae Aggression
-- 2026-08-28T1701 · Hainach
 - 2026-08-28T1659 · Second War of Elbae Aggression
 - 2026-08-28T1654 · First War of Elbae Aggression
 - 2026-08-28T1441 · Qahori
 - 2026-08-28T1438 · Qarzi
-- 2026-08-28T1435 · Elbae
 - 2026-08-28T1431 · Wars of Qahori Subjugation
 - 2026-08-28T1315 · Qalmyr
 - 2026-08-28T1302 · Lizun I
@@ -43,7 +45,6 @@
 - 2026-08-26T1432 · Lyandra
 - 2026-08-25T2204 · Codex Thereticum
 - 2026-08-25T1851 · Yellow War
-- 2026-08-25T0206 · Grevenna
 - 2026-08-24T1433 · Kulum
 - 2026-08-24T1239 · Rulers of Kherova
 - 2026-08-23T2022 · Lakalism
@@ -66,7 +67,6 @@
 - 2026-08-22T2229 · Theresa Salbridge
 - 2026-08-22T2222 · Zavro Firelle
 - 2026-08-22T0053 · War of Horn and Fang
-- 2026-08-22T0023 · Vihr
 - 2026-08-21T2358 · Rulers of Vihr
 - 2026-08-21T1523 · Rulers of the Meadi
 - 2026-08-21T1505 · Pieter van Dielen

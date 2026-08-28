@@ -575,7 +575,7 @@
         <h3>Modern Age</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath</div>
-	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection if foiled</div>
+	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled</div>
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Golden Ring mini Campaign</div>
