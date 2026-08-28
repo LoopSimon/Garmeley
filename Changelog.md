@@ -1,6 +1,6 @@
+- 2026-08-28T1304 · Complete Timeline
 - 2026-08-28T1302 · Lizun I
 - 2026-08-28T1247 · Elbae
-- 2026-08-28T0617 · Complete Timeline
 - 2026-08-28T0437 · Jiravid
 - 2026-08-28T0431 · Rulers of the Beheran Elves
 - 2026-08-28T0159 · Wars of Qahori Subjugation

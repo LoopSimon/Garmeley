@@ -191,7 +191,7 @@
             <div class="timeline-item" data-date="32PA">Battle of Wyt Hill, Ogrelords are driven back into the Yellow Moor, Pilvian Vale and mountain ranges</div>
             <div class="timeline-item" data-date="35PA">Great Pagri Migration Period in eastern Nirydia begins</div>
             <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
-            <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat</div>
+            <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat, re-establishes the old tradition of the Masqar</div>
             <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
             <div class="timeline-item" data-date="77PA">Esimated birth of Kortyr Paleblood</div>
             <div class="timeline-item" data-date="78PA">Era of Shame begins on Ynkal, Minotaurs are enslaved by the Vanpur Empire</div>
@@ -203,6 +203,7 @@
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
+            <div class="timeline-item" data-date="121PA">The Dirhan is established as the Highest Council within the Sultanate</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
             <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
