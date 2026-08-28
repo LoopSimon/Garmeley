@@ -1,8 +1,8 @@
+- 2026-08-28T1849 · Wars of Elbae Aggression
 - 2026-08-28T1832 · Third War of Elbae Aggression
 - 2026-08-28T1701 · Hainach
 - 2026-08-28T1659 · Second War of Elbae Aggression
 - 2026-08-28T1654 · First War of Elbae Aggression
-- 2026-08-28T1534 · Wars of Elbae Aggression
 - 2026-08-28T1441 · Qahori
 - 2026-08-28T1438 · Qarzi
 - 2026-08-28T1435 · Elbae
