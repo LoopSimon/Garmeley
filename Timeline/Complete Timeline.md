@@ -466,7 +466,7 @@
             <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
-            <div class="timeline-item" data-date="762PA">Battle of Danipol, 1st War of Elbae Aggression ends</div>
+            <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, 1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Conclave of 763, Canonisation of Fredric and begin of the Gethric Pogroms</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire</div>
@@ -482,7 +482,8 @@
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova</div>
+            <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; Battle of the Storms</div>
+            <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
@@ -496,10 +497,11 @@
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="806PA">Komukha Naman completes the Circumnavigation of Behera </div>
-            <div class="timeline-item" data-date="810PA">Kranvalley Flood, Salvia of Firocco is betrayed and usurped by her student Harvina</div>
+            <div class="timeline-item" data-date="806PA">Battle of the Crossing; Komukha Naman completes the Circumnavigation of Behera </div>
+            <div class="timeline-item" data-date="810PA">Battle of Belzena; Kranvalley Flood, Salvia of Firocco is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars, Rivalt du Chian destroys the Silver Brotherhood</div>
-            <div class="timeline-item" data-date="812PA">Ahrmiz Saceren becomes Lord-Elect of Kulum</div>
+            <div class="timeline-item" data-date="812PA">Battle under the Stars; Ahrmiz Saceren becomes Lord-Elect of Kulum</div>
+            <div class="timeline-item" data-date="813PA">Battle of Orzina</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad, 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
             <div class="timeline-item" data-date="817PA">Pact of Orenburg is declared by the original Orenburg Nine</div>

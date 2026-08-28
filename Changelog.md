@@ -1,3 +1,4 @@
+- 2026-08-28T1854 · Complete Timeline
 - 2026-08-28T1849 · Wars of Elbae Aggression
 - 2026-08-28T1832 · Third War of Elbae Aggression
 - 2026-08-28T1701 · Hainach
@@ -8,7 +9,6 @@
 - 2026-08-28T1435 · Elbae
 - 2026-08-28T1431 · Wars of Qahori Subjugation
 - 2026-08-28T1315 · Qalmyr
-- 2026-08-28T1309 · Complete Timeline
 - 2026-08-28T1302 · Lizun I
 - 2026-08-28T0437 · Jiravid
 - 2026-08-28T0431 · Rulers of the Beheran Elves
