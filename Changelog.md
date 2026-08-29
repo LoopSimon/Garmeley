@@ -1,10 +1,17 @@
+- 2026-08-29T1749 · Complete Timeline
+- 2026-08-29T1741 · Gryphon
+- 2026-08-29T1737 · Dorian
+- 2026-08-29T1736 · Knights of the Gryphon
+- 2026-08-29T1713 · Urland
+- 2026-08-29T1705 · Eldmar
+- 2026-08-29T1621 · Mark
+- 2026-08-29T1621 · Grossi
+- 2026-08-29T1613 · Lind
+- 2026-08-29T1420 · First War of Elbae Aggression
+- 2026-08-29T0433 · Rulers of Urland
 - 2026-08-29T0325 · Wars of Elbae Aggression
 - 2026-08-29T0325 · Third War of Elbae Aggression
-- 2026-08-29T0322 · Urland
-- 2026-08-29T0322 · Rulers of Urland
-- 2026-08-29T0314 · Complete Timeline
 - 2026-08-29T0124 · Second War of Elbae Aggression
-- 2026-08-29T0010 · First War of Elbae Aggression
 - 2026-08-28T1911 · Hainach
 - 2026-08-28T1911 · Vihr
 - 2026-08-28T1908 · Elbae
@@ -18,7 +25,6 @@
 - 2026-08-28T0431 · Rulers of the Beheran Elves
 - 2026-08-28T0140 · 90 Days War
 - 2026-08-28T0138 · Urbridge
-- 2026-08-28T0138 · Eldmar
 - 2026-08-28T0137 · Gelmsburg
 - 2026-08-28T0136 · Wars of the Gryphon
 - 2026-08-28T0136 · League of the Gryphon
@@ -192,9 +198,3 @@
 - 2026-08-18T0154 · Wulfrick
 - 2026-08-18T0152 · Galiatar Inkfingers
 - 2026-08-18T0152 · Korman van Schipwig
-- 2026-08-18T0151 · Shymon Epios
-- 2026-08-18T0151 · Pavo of Alban
-- 2026-08-18T0151 · Jan van Swarn
-- 2026-08-18T0150 · Valund Baeling
-- 2026-08-18T0150 · Gisela II
-- 2026-08-18T0150 · Varald I

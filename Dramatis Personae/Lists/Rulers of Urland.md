@@ -15,7 +15,7 @@
 
 <p>Versil I, 29PA - 49PA</p>
 
-*The founding king, whose name became the most honored in Urlander tradition, adopted by many subsequent monarchs who sought to ground their claim in the kingdoms origins. The circumstances of his rise from the Province of Garm following the collapse of the Rakhian Empire are imperfectly recorded, but the kingdom he established endured for nearly seven centuries.
+*The founding king, whose name became the most honored in Urlander tradition, adopted by many subsequent monarchs who sought to ground their claim in the kingdoms origins. The circumstances of his rise from the Province of Garm following the collapse of the Rakhian Empire are imperfectly recorded, but the kingdom he established endured for nearly seven centuries.*
 
 <p>Jeoffrik I "the Red", 49PA - 66PA</p>
 <p>Versil II, 66PA - 87PA</p>

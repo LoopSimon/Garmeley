@@ -388,7 +388,7 @@
             <div class="timeline-item" data-date="620PA">First Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
-            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends </div>
+            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends, Dorian founds the Shields of Summer Chapter within the Knights of the Gryphon </div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
             Natan XXI "Illseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
