@@ -1,12 +1,14 @@
+- 2026-08-29T0322 · Urland
+- 2026-08-29T0322 · Rulers of Urland
+- 2026-08-29T0314 · Complete Timeline
+- 2026-08-29T0124 · Second War of Elbae Aggression
+- 2026-08-29T0010 · First War of Elbae Aggression
 - 2026-08-28T1911 · Hainach
 - 2026-08-28T1911 · Vihr
 - 2026-08-28T1908 · Elbae
 - 2026-08-28T1903 · Grevenna
-- 2026-08-28T1858 · Complete Timeline
 - 2026-08-28T1849 · Wars of Elbae Aggression
 - 2026-08-28T1832 · Third War of Elbae Aggression
-- 2026-08-28T1659 · Second War of Elbae Aggression
-- 2026-08-28T1654 · First War of Elbae Aggression
 - 2026-08-28T1441 · Qahori
 - 2026-08-28T1438 · Qarzi
 - 2026-08-28T1431 · Wars of Qahori Subjugation
@@ -171,7 +173,6 @@
 - 2026-08-18T1253 · Uhl
 - 2026-08-18T1253 · Trinvale
 - 2026-08-18T1253 · Garmeley
-- 2026-08-18T1252 · Urland
 - 2026-08-18T1252 · Nied
 - 2026-08-18T1250 · Targesis
 - 2026-08-18T1250 · Meynar of Jorrenstead
@@ -197,4 +198,3 @@
 - 2026-08-18T0150 · Valund Baeling
 - 2026-08-18T0150 · Gisela II
 - 2026-08-18T0150 · Varald I
-- 2026-08-18T0150 · Odrick von Fulmer

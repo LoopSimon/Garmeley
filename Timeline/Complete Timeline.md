@@ -229,7 +229,7 @@
             <div class="timeline-item" data-date="241PA">Vihiri Wars of Unifications begin</div>
             <div class="timeline-item" data-date="246PA">Battle of Tlok Valley</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
-            <div class="timeline-item" data-date="251PA">Battle of Glancz</div>
+            <div class="timeline-item" data-date="251PA">Battle of Glancz, The urland ruling Dynasty of Dunling goes to the Cadet branch of the House of Chloris</div>
             <div class="timeline-item" data-date="254PA">Gethric Doctrine of human exceptionalism is first mentioned</div>
             <div class="timeline-item" data-date="255PA">The Lower leveli form the Vocas a Levelix around the Lonely Peak</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
@@ -422,7 +422,7 @@
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
             <div class="timeline-item" data-date="679PA">The Battle at Zavix leads to the end of the battivan Conquest of Cevolia & Treaty of Ciravelli</div>
             <div class="timeline-item" data-date="680PA">Khulki begins the Great Rebellion against the Twintail and Lakal</div>
-            <div class="timeline-item" data-date="681PA">Hobgoblin Invasion, Death & Canonisation of Dorian the Kind</div>
+            <div class="timeline-item" data-date="681PA">Death & Canonisation of Dorian the Kind</div>
             <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath</div>
             <div class="timeline-item" data-date="683PA">End of the Vocas a Amurez, birth of Labella south of the Templi Heights</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
@@ -430,7 +430,7 @@
             <div class="timeline-item" data-date="686PA">Establishment of the Gaal Empire on Ynkal</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
-            <div class="timeline-item" data-date="690PA">Fall of Roygviil</div>
+            <div class="timeline-item" data-date="690PA">Hobgoblin Invasion of Urland begins, Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
              canonized as a Saint, Trazlov Guild of Alchemy is formed</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
