@@ -3,6 +3,8 @@
 [[Ak-Saray]]
 [[Dorian]]
 [[Arester]]
+[[Knights of the Gryphon]]
+[[Hobgoblin Invasion]]
 %%
 
 <div class="wiki-infobox">
@@ -49,7 +51,7 @@
 </div>
 
 
-<p>Surrounded on all sides by either Urien Rivals or the vile <a href="Ak-Saray" class="internal-link">Hobgoblins</a>, the men and women of Urbridge follow the knightly example of the legendary Hero <a href="Dorian" class="internal-link">Dorian</a>, one of the Saints of the Gethric Church, religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of <a href="Gelmsburg" class="internal-link">Gelmsburg</a>. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. </p>
+<p>Surrounded on all sides by either Urien Rivals or the vile <a href="Ak-Saray" class="internal-link">Hobgoblins</a>, the men and women of Urbridge follow the knightly example of the legendary Hero <a href="Dorian" class="internal-link">Dorian</a>, one of the Saints of the Gethric Church, religiously, striving to chivalrous ideas their Hope lies in the destruction and end of the Hobgoblin Invaders and its peoples are less interested in ideas of Urien Restoration than any of the other minors of the Region such as the proud Kingdom of <a href="Gelmsburg" class="internal-link">Gelmsburg</a>. <br> This reputation and the universal hate of all Urien for the Hobgoblins of the West has afforded them many allies. Urbridge was formed as a result of the <a href="Knights of the Gryphon" class="internal-link">Knights of the Gryphon</a> taking over the remnants of the Duchy of Ares and other counties and Earldoms after the <a href="Hobgoblin Invasion" class="internal-link">Hobgoblin Invasion</a>.</p>
 <p>The Order is divided into three administrative, regional chapters, the Whitelute, Urbridge and Leston territories are based around the three major cities within the the lands under direct protection of the order, each is lead by a Landmaster who stand under the direct authority of the Lord-Protector of the Order itself. The Landmasters fulfil a role very comparable to that of a count or baron, taking care of local needs and ensuring the local populaces support for the Order.</p>
 <p>As of the first War of the Gryphon in 841PA, Urbridge is a member and sometimes considered the leader of the so called <a href="League of the Gryphon" class="internal-link">League of the Gryphon</a> and has participated in both of the major <a href="Wars of the Gryphon" class="internal-link">Wars of the Gryphon</a>.</p>
 

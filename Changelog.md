@@ -1,9 +1,14 @@
-- 2026-08-29T1749 · Complete Timeline
+- 2026-08-30T0130 · League of the Gryphon
+- 2026-08-30T0129 · Hobgoblin Invasion
+- 2026-08-30T0043 · Urbridge
+- 2026-08-30T0042 · Gelmsburg
+- 2026-08-30T0041 · Eldmar
+- 2026-08-30T0041 · Ak-Saray
+- 2026-08-30T0040 · Urland
+- 2026-08-30T0029 · Complete Timeline
 - 2026-08-29T1741 · Gryphon
 - 2026-08-29T1737 · Dorian
 - 2026-08-29T1736 · Knights of the Gryphon
-- 2026-08-29T1713 · Urland
-- 2026-08-29T1705 · Eldmar
 - 2026-08-29T1621 · Mark
 - 2026-08-29T1621 · Grossi
 - 2026-08-29T1613 · Lind
@@ -24,10 +29,7 @@
 - 2026-08-28T0437 · Jiravid
 - 2026-08-28T0431 · Rulers of the Beheran Elves
 - 2026-08-28T0140 · 90 Days War
-- 2026-08-28T0138 · Urbridge
-- 2026-08-28T0137 · Gelmsburg
 - 2026-08-28T0136 · Wars of the Gryphon
-- 2026-08-28T0136 · League of the Gryphon
 - 2026-08-27T2335 · Trade
 - 2026-08-27T2335 · Behera
 - 2026-08-27T2335 · Grand Ziflis Company
@@ -196,5 +198,3 @@
 - 2026-08-18T0157 · Meadi
 - 2026-08-18T0154 · Muriel von Gloss
 - 2026-08-18T0154 · Wulfrick
-- 2026-08-18T0152 · Galiatar Inkfingers
-- 2026-08-18T0152 · Korman van Schipwig
