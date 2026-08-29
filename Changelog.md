@@ -1,5 +1,5 @@
+- 2026-08-30T0130 · Hobgoblin Invasion
 - 2026-08-30T0130 · League of the Gryphon
-- 2026-08-30T0129 · Hobgoblin Invasion
 - 2026-08-30T0043 · Urbridge
 - 2026-08-30T0042 · Gelmsburg
 - 2026-08-30T0041 · Eldmar
