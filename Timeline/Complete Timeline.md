@@ -424,7 +424,7 @@
             <div class="timeline-item" data-date="679PA">The Battle at Zavix leads to the end of the battivan Conquest of Cevolia & Treaty of Ciravelli</div>
             <div class="timeline-item" data-date="680PA">Khulki begins the Great Rebellion against the Twintail and Lakal</div>
             <div class="timeline-item" data-date="681PA">Death & Canonisation of Dorian the Kind</div>
-            <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath</div>
+            <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath; Urgil Cave collapses following the Shroomfever, cutting the Tirbo Clan off from the Mitimgar cave network</div>
             <div class="timeline-item" data-date="683PA">End of the Vocas a Amurez, birth of Labella south of the Templi Heights</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="685PA">Rise of Khan Jigallor in Nirydia</div>
@@ -433,12 +433,15 @@
             <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
             <div class="timeline-item" data-date="690PA">Hobgoblin Invasion of Urland begins, Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
-             canonized as a Saint, Trazlov Guild of Alchemy is formed</div>
+             canonized as a Saint, Trazlov Guild of Alchemy is formed; Battle of Elpfield</div>
             <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
-            <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period</div>
-            <div class="timeline-item" data-date="696PA">Fall of West Urland</div>
+            <div class="timeline-item" data-date="693PA">Battle of Foarley</div>
+            <div class="timeline-item" data-date="694PA">Battle of Hadley, Siege of Dursan begins</div>
+            <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period; Fall of Dursan</div>
+            <div class="timeline-item" data-date="696PA">Battle of Gobsfall Keep, Kifrir kills Tirbo, Fall of West Urland</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three, Timpo leads his people north and founds Vigzil</div>
+            <div class="timeline-item" data-date="700PA">Death of Korgaz "the Blade of Noon"</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
             <div class="timeline-item" data-date="703PA">Splintering of Urland, Jorwyn of Gelm crowns himself the King of Urland, challenged by various nobles in the Eld valley Duchess Theara of Hornsley is crowned as "Counter" Queen of Eldmar following a brief skirmish</div>

@@ -1,3 +1,4 @@
+- 2026-08-30T0148 · Complete Timeline
 - 2026-08-30T0130 · Hobgoblin Invasion
 - 2026-08-30T0130 · League of the Gryphon
 - 2026-08-30T0043 · Urbridge
@@ -5,7 +6,6 @@
 - 2026-08-30T0041 · Eldmar
 - 2026-08-30T0041 · Ak-Saray
 - 2026-08-30T0040 · Urland
-- 2026-08-30T0029 · Complete Timeline
 - 2026-08-29T1741 · Gryphon
 - 2026-08-29T1737 · Dorian
 - 2026-08-29T1736 · Knights of the Gryphon
