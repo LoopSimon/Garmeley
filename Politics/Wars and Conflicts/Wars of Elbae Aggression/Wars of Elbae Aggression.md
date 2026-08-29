@@ -28,7 +28,7 @@
  </div>
  <div class="wiki-row">
  <strong>Result</strong>
- <span>First War: Reani Coalition victory.<br>Second War: Sultanate victory,<br>Hainach subjugated.<br>Third War: Invocation of al-Biad.<br>Strait of Horad created.<br>Treaty of Danipol 815PA.</span>
+ <span>First War: Reani Coalition victory.<br>Second War: Sultanate victory,<br>Hainach subjugated.<br>Third War: Invocation of al-Biad.<br>Strait of Horad created.<br>Treaty of Danipol 815PA.<br>Orenburg Pact 817PA.</span>
  </div>
  <hr class="wiki-hr">
  <div class="wiki-row" style="display: block;">
@@ -44,7 +44,7 @@
  Princedom of Hainach (1st & 2nd wars)<br>
  Khatrym of Kherova (1st & 2nd wars)<br>
  Duchy of Garmeley (2nd & 3rd wars)<br>
- Duchy of Urbridge (3rd war)<br>
+ Order of Urbridge (3rd war)<br>
  Republic of Reanport (3rd war)<br>
  </div>
  <hr class="wiki-hr">
@@ -56,7 +56,7 @@
  </div>
 </div>
 
-<p>The Wars of Elbae Aggression were a series of three conflicts fought between the <a href="Elbae" class="internal-link">Elbae Sultanate</a> and successive Reani Coalitions between 750PA and 815PA, sixty five years of intermittent war over the Horad Isthmus, the narrow land bridge separating the Stormy Sea from the Pilvian Gulf, and by extension over the commercial and political domination of the seas connecting Behera to Ilrakhan. The wars are named by the coalitions framing rather than the Sultanates, which initiated each conflict and preferred to describe them in terms of historical rights and legitimate commercial interests. The coalition, which fought them in defence of those it already held, named them for what it understood them to be and its naming has persisted.</p>
+<p>The Wars of Elbae Aggression were a series of three conflicts fought between the <a href="Elbae" class="internal-link">Elbae Sultanate</a> and successive Reani Coalitions between 750PA and 815PA in sixty five years of intermittent war over the Horad Isthmus, the narrow land bridge separating the Stormy Sea from the Pilvian Gulf, and by extension over the commercial and political domination of the seas connecting Behera to Ilrakhan. The wars are named by the coalitions side rather than the Sultanates, which initiated each conflict and preferred to describe them in terms of historical rights and political concerns.</p>
 
 <p>Each war was fought under different conditions, by differently constituted forces, and produced a different outcome. The First was a coalition victory, secured by the arrival of Kherovan Spellbreaker regiments whose anti magic capabilities the Sultanate had not anticipated, and celebrated on the coalitions side through the figure of <a href="Fredric" class="internal-link">Fredric Foehammer</a>, who died at the Second Battle of Danipol killing both the Sultanates supreme commander and the Sultans own son. The Second was a decisive Sultanate victory, achieved through a two theatre campaign that exploited the simultaneous collapse of Kherovan participation, whether by design or fortunate coincidence remaining disputed, and ended with the <a href="Hainach" class="internal-link">Princedom of Hainach</a> subjugated as an Eyalet, its Reani population henceforth fighting for the empire their neighbours were still resisting. The Third produced no conventional military victor. It ended when <a href="Jurahim al-Biad" class="internal-link">Jurahim al-Biad</a>, the Ruby Eye of <a href="Karajal School of Insight" class="internal-link">Karajal</a>, completed an invocation he had been ordered to abandon, destroyed the Horad Isthmus, created the <a href="Strait of Horad" class="internal-link">Strait of Horad</a>, and killed thousands of soldiers on both sides including many of the war's most senior commanders. He perished with them.</p>
 

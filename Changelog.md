@@ -1,3 +1,5 @@
+- 2026-08-29T0325 · Wars of Elbae Aggression
+- 2026-08-29T0325 · Third War of Elbae Aggression
 - 2026-08-29T0322 · Urland
 - 2026-08-29T0322 · Rulers of Urland
 - 2026-08-29T0314 · Complete Timeline
@@ -7,8 +9,6 @@
 - 2026-08-28T1911 · Vihr
 - 2026-08-28T1908 · Elbae
 - 2026-08-28T1903 · Grevenna
-- 2026-08-28T1849 · Wars of Elbae Aggression
-- 2026-08-28T1832 · Third War of Elbae Aggression
 - 2026-08-28T1441 · Qahori
 - 2026-08-28T1438 · Qarzi
 - 2026-08-28T1431 · Wars of Qahori Subjugation

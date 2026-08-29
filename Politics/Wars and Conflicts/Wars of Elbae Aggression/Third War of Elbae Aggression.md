@@ -37,7 +37,7 @@
  Lordship of Grevenna<br>
  Kingdom of Vihr<br>
  Duchy of Garmeley<br>
- Duchy of Urbridge<br>
+ Order of Urbridge<br>
  Republic of Reanport<br>
  </div>
  <hr class="wiki-hr">
