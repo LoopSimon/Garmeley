@@ -1,6 +1,9 @@
 %%
 [[Kaladi Mysticism]]
 [[Hobgoblin]]
+[[Ur]]
+[[Hobgoblin Invasion]]
+[[Mitimgar]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Hobgoblin Tribes</h4>
@@ -45,4 +48,4 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Yaksaray_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p>The Ak-Saray is the overgob name for the Hobgoblin tribe of Tirbo that emerged in the 690s and conquered western Urland during what is usually known to by the urien historians as <a href="Hobgoblin Invasion" class="internal-link">the Fall of West Urland</a> or simply the Hobgoblin Invasion, leading to the downfall of the <a href="Urland" class="internal-link">Kingdom</a>. After conquering up to the western bank of the trinmo they settled the lands around Hadley Lake, which they called Lake Tirbo to honour their glorious Leader. Due to the Shroomfever and the following collapse of Urgil Cave prior to the Invasion, the Hobgoblins are essentially fully cut off from the rest of their people in the Mitimgar Cave network.</p>
+<p>The Ak-Saray is the overgob name for the Hobgoblin tribe of Tirbo that emerged in the 690s and conquered western Urland during what is usually known to by the urien historians as <a href="Hobgoblin Invasion" class="internal-link">the Fall of West Urland</a> or simply the Hobgoblin Invasion, leading to the downfall of the <a href="Urland" class="internal-link">Kingdom</a>. After conquering up to the western bank of the trinmo they settled the lands around Hadley Lake, which they called Lake Tirbo to honour their glorious <a href="Tirbo" class="internal-link">Leader</a>. Due to the Shroomfever and the following collapse of Urgil Cave prior to the Invasion, the Hobgoblins are essentially fully cut off from the rest of their people in the Mitimgar Cave network.</p>
