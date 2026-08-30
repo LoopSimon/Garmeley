@@ -1,7 +1,7 @@
 %%
 [[Darvid Maerlon]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ghant.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ghant.webp" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Ghant takes its prey</i></small>
 </div>
 <p>A Ghant is a hulking humanoid that not only survives but thrives in the moors and swamps of the World, giant like in appearance they enter extreme periods of hibernation and only wake when something enters their territories, devouring their prey without mercy. Ghant have been spotten everywhere from Sertova in western Ilrakhan to Gaal in eastern Nirydia and are sometimes associated with Ogres, Firbolg and other Tallfolk due to their statue and sheer mass alone, although there is no other reason to believe them related. The Bones of a Ghant are a rare item of luxury and often used in expert craftsmanship around the world, although only few undertake the perilous challenge to set out and purposefully bait and hunt a Ghant. </p>

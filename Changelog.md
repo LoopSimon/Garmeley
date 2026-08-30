@@ -1,9 +1,11 @@
+- 2026-08-30T2042 · Kabernos
+- 2026-08-30T1845 · Vihrmen Federation
+- 2026-08-30T1837 · Ghant
 - 2026-08-30T1351 · Anak
 - 2026-08-30T1235 · Complete Timeline
 - 2026-08-30T1233 · The Anak
 - 2026-08-30T1210 · Barzin
 - 2026-08-30T1129 · Darvid Maerlon
-- 2026-08-30T1128 · Ghant
 - 2026-08-30T0354 · Granite Crusade
 - 2026-08-30T0244 · Hobgoblin Invasion
 - 2026-08-30T0243 · Korgaz
@@ -102,7 +104,6 @@
 - 2026-08-21T0006 · Gethric
 - 2026-08-21T0005 · Razmyr
 - 2026-08-21T0003 · Volboris
-- 2026-08-20T2321 · Vihrmen Federation
 - 2026-08-20T2125 · Zervind II
 - 2026-08-20T0107 · Liandar
 - 2026-08-20T0102 · Twintail Imperium
@@ -197,4 +198,3 @@
 - 2026-08-18T1250 · Meynar of Jorrenstead
 - 2026-08-18T1249 · Jevana
 - 2026-08-18T1248 · Hubert of Tanverley
-- 2026-08-18T1247 · Nestor IX
