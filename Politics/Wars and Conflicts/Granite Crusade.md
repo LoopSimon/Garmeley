@@ -34,7 +34,7 @@ The Rockborn:
 
 Pioneer-Captain Revin of Clain Eudar
 Pioneer-Sgt. Moira Belviz
-Pioneer-Cleric Aratz
+Pioneer-Cleric [[Aratz Otxoa]]
 
 
 Pioneer Heggis

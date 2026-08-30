@@ -1,3 +1,6 @@
+- 2026-08-30T1129 · Darvid Maerlon
+- 2026-08-30T1128 · Ghant
+- 2026-08-30T0354 · Granite Crusade
 - 2026-08-30T0244 · Hobgoblin Invasion
 - 2026-08-30T0243 · Korgaz
 - 2026-08-30T0237 · Wyrdrock
@@ -67,7 +70,6 @@
 - 2026-08-23T1844 · Kheri
 - 2026-08-23T1844 · Merzigal
 - 2026-08-23T1844 · Ahrmiz Saceren
-- 2026-08-23T1843 · Darvid Maerlon
 - 2026-08-23T1842 · Zurán Barbeshvili
 - 2026-08-23T1726 · Meadrath
 - 2026-08-23T1209 · Ar
@@ -196,5 +198,3 @@
 - 2026-08-18T1247 · Hynek of Forrington
 - 2026-08-18T1246 · Coster of Melmbirth
 - 2026-08-18T1245 · Pigeye
-- 2026-08-18T1243 · Horatio Tuliper
-- 2026-08-18T1243 · Filip of Leston

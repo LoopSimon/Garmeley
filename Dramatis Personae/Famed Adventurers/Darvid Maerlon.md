@@ -2,6 +2,7 @@
 [[Kherovan Inquisition]]
 [[Fogorix]]
 [[Kheri]]
+[[Ghant]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Darvid Maerlon</h4>
@@ -39,3 +40,4 @@
 
 </div>
 <p>Sir Darvid Maerlon is a decorated member of the Tribunal of the Clear Soul and has been part of the Inquisition of the <a href="Kherova" class="internal-link">Khatrym</a> for over four decades now, giving years of his life and his right arm to the cause. A born kheri he is a cynic in terms of the religious aspects of the organisation but has a deep rooted belief in the necessity of it as a shield of the defenceless against occult powers. His veteran status as a full Inquisitor has given him the reputation of a trustworthy field agent and he usually operates in <a href="Grevenna" class="internal-link">Grevenna</a> and <a href="Vihr" class="internal-link">Vihr</a>. Darvid had recently been send on a mission relating to activities of the Darksun Cult of the Goblin Hold of <a href="Fogorix" class="internal-link">Fogorix</a>, although further details shall remain undocumented for now.</p>
+<p>In 914 Maerlon set out to hunt down and kill one of the most dangerous predators of the Swamps, a gigantic <a href="Ghant" class="internal-link">Ghant</a>, in the Yellow Moor. A feat that many parties would break before, he slew the beast alone but gave his right arm in the process.</p>
