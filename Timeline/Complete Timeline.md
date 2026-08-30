@@ -508,6 +508,7 @@
             <div class="timeline-item" data-date="813PA">Battle of Orzina</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad, 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
+            <div class="timeline-item" data-date="816PA">Barzin Laram ascends as the Lord of Marrow in Erlmondy</div>
             <div class="timeline-item" data-date="817PA">Pact of Orenburg is declared by the original Orenburg Nine</div>
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="819PA">Meynar of Jorrensteads "Historiae Uriorum" is published</div>
