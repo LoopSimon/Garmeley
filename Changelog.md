@@ -1,8 +1,10 @@
-- 2026-08-30T0210 · Zurgush
-- 2026-08-30T0206 · Tirbo
+- 2026-08-30T0244 · Hobgoblin Invasion
+- 2026-08-30T0243 · Korgaz
+- 2026-08-30T0237 · Wyrdrock
+- 2026-08-30T0236 · Kifrir
+- 2026-08-30T0234 · Tirbo
+- 2026-08-30T0228 · Zurgush
 - 2026-08-30T0206 · Ak-Saray
-- 2026-08-30T0205 · Korgaz
-- 2026-08-30T0205 · Hobgoblin Invasion
 - 2026-08-30T0157 · Suzana Dragović
 - 2026-08-30T0148 · Complete Timeline
 - 2026-08-30T0130 · League of the Gryphon
@@ -196,5 +198,3 @@
 - 2026-08-18T1245 · Pigeye
 - 2026-08-18T1243 · Horatio Tuliper
 - 2026-08-18T1243 · Filip of Leston
-- 2026-08-18T1242 · Ur
-- 2026-08-18T1242 · Elena Montegru
