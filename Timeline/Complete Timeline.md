@@ -450,6 +450,7 @@
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
+            <div class="timeline-item" data-date="711PA">Anak Montener writes the Anak Codex</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="719PA">Duke Abelard II von Kran conquers Hasterhall</div>

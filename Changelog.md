@@ -1,5 +1,7 @@
+- 2026-08-30T1235 · Complete Timeline
+- 2026-08-30T1233 · The Anak
+- 2026-08-30T1231 · Anak
 - 2026-08-30T1210 · Barzin
-- 2026-08-30T1210 · Complete Timeline
 - 2026-08-30T1129 · Darvid Maerlon
 - 2026-08-30T1128 · Ghant
 - 2026-08-30T0354 · Granite Crusade
@@ -196,5 +198,3 @@
 - 2026-08-18T1249 · Jevana
 - 2026-08-18T1248 · Hubert of Tanverley
 - 2026-08-18T1247 · Nestor IX
-- 2026-08-18T1247 · Hynek of Forrington
-- 2026-08-18T1246 · Coster of Melmbirth
