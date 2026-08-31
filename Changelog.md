@@ -1,3 +1,11 @@
+- 2026-09-01T0015 · Ghiraspir
+- 2026-09-01T0013 · Greater Spirit
+- 2026-09-01T0013 · Institute for Practical Energies
+- 2026-09-01T0012 · Xarvin Jiballo
+- 2026-09-01T0011 · Otso
+- 2026-09-01T0002 · Kareli Hierarchy
+- 2026-08-31T2342 · Complete Timeline
+- 2026-08-31T2330 · Hobgoblin Invasion
 - 2026-08-31T2320 · Paper Cities
 - 2026-08-31T2245 · Teggio
 - 2026-08-31T2227 · Bassira
@@ -9,7 +17,6 @@
 - 2026-08-31T2150 · Yaalwe
 - 2026-08-31T2122 · Ingele
 - 2026-08-31T1738 · Codex Thereticum
-- 2026-08-31T0307 · Complete Timeline
 - 2026-08-31T0304 · Addacia
 - 2026-08-31T0209 · Rean
 - 2026-08-30T2047 · Kabernos
@@ -20,7 +27,6 @@
 - 2026-08-30T1210 · Barzin
 - 2026-08-30T1129 · Darvid Maerlon
 - 2026-08-30T0354 · Granite Crusade
-- 2026-08-30T0244 · Hobgoblin Invasion
 - 2026-08-30T0243 · Korgaz
 - 2026-08-30T0237 · Wyrdrock
 - 2026-08-30T0236 · Kifrir
@@ -192,9 +198,3 @@
 - 2026-08-18T1255 · Lesmere
 - 2026-08-18T1255 · Gisvale
 - 2026-08-18T1255 · Freelands
-- 2026-08-18T1255 · Dirneux
-- 2026-08-18T1255 · Blijgrat
-- 2026-08-18T1255 · Vignasoya
-- 2026-08-18T1255 · Juelfluk
-- 2026-08-18T1255 · Baeling
-- 2026-08-18T1255 · Weadland

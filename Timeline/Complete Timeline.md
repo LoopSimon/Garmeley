@@ -400,7 +400,7 @@
             <div class="timeline-item" data-date="586PA">Meadi reconquest of northern Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
-            <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire</div>
+            <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire; Mindano emerges as self-governing city-state following the Collapse of Cevolis</div>
             <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon, Conclave of 592 canonises Luca Cadente of Cefran, Patron Saint of Cevolia</div>
             <div class="timeline-item" data-date="593PA">End of the Khari Dynasty in Kherova, Era of the Empty Seat begins.</div>
@@ -448,7 +448,7 @@
             <div class="timeline-item" data-date="669PA">Imperator Lisil IIIs Decree of Divinity</div>
             <div class="timeline-item" data-date="670PA">Emergence of the Twin Kingdoms of Ott</div>
             <div class="timeline-item" data-date="671PA"> Battle of Verivale, End of the Luchun Khaganate</div>
-            <div class="timeline-item" data-date="672PA">Battvia invades Jeledo to reunify the region of Cevolia</div>
+            <div class="timeline-item" data-date="672PA">Battvia invades Jeledo to reunify the region of Cevolia; Treaty of Ciravelli</div>
             <div class="timeline-item" data-date="674PA">Coronation of Gildher I and Unification of Meadrath</div>
             <div class="timeline-item" data-date="677PA">Avero of the Eightfolds finishes “De venenis eorumque remediis”</div>
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
@@ -493,6 +493,7 @@
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>
              <div class="timeline-item" data-date="738PA">Crisis of 738, Kur Pharabal slays Vezan the great Other</div>
             <div class="timeline-item" data-date="739PA">Queen Gisela II creates the Landgraviate of Weisch on the northern Coast of Meadland</div>
+             <div class="timeline-item" data-date="740PA">The Treaty of 740 confirms the independence of Bassira</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster</div>

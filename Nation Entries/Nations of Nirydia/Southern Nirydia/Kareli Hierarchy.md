@@ -24,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Nirydian Bihra, Qalmyri</span>
+        <span>Kareli Bihra, Qalmyri</span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
