@@ -33,25 +33,39 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="5500BA">Agriculture develops in Ancient Behera </div>
 	        <div class="timeline-item" data-date="4900BA">Earliest supposed date for the domestication of the cat</div>
+	        <div class="timeline-item" data-date="4800BA">Likely beginnings of the Hessir civilisation in northern Behera</div>
 	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
+	        <div class="timeline-item" data-date="4550BA">End of the Hessir Civilization, Inisphing Civilization rises around the Hessefi Rivers, human and elven coexistence confirmed around the Za-Jira River</div>
 	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large-scale canal systems</div>
 	        <div class="timeline-item" data-date="4200BA">First known large-scale fish fermentation in southern Trykkerog</div>
+	        <div class="timeline-item" data-date="4050BA">Collapse of the Inisphing, Beheran Dark Ages begin</div>
 	        <div class="timeline-item" data-date="4000BA">Gelfir Emergence in central Nirydia</div>
 	        <div class="timeline-item" data-date="3900BA">First recorded Contact between Ikieni and Usuni Humans in West-Behera </div>
-	        <div class="timeline-item" data-date="2625BA">First records of Cuneiform Writing from the Hessef</div>
-	        <div class="timeline-item" data-date="2500BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
+	        <div class="timeline-item" data-date="3780BA">First records of Cuneiform Writing from the Hessef, Beheran Dark Ages end</div>
+	        <div class="timeline-item" data-date="3780BA">The human City of Sahras, speculated modern day Akhdar fights a series of Wars against the elven city of Farzirash, modern day Jiravid</div>
+	        <div class="timeline-item" data-date="3500BA">Rise of the Drow Elf Empire of Murajk in Behera, first records of Elven Calendars</div>
+	        <div class="timeline-item" data-date="3300BA">Age of Thirst in Behera, Great Dry Period in Ilrakhan, fall of the Murajk</div>
+	        <div class="timeline-item" data-date="2960BA">Age of Thirst ends, The Asefi Civilization forms in northern Behera</div>
+	        <div class="timeline-item" data-date="2800BA">Likely formation of Albis, modern day Razhalbis, at the Delta of the Muhusni River in northern Behera</div>
+	        <div class="timeline-item" data-date="2700BA">The Comet of Mir crashes in the Asef Desert</div>
+	        <div class="timeline-item" data-date="2650BA">The city of Erun forms on the coast of the Stormy Sea at the mouth of the Toumis River in northern Behera</div>
+	        <div class="timeline-item" data-date="2600BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
+	        <div class="timeline-item" data-date="2550BA">Empire of the Horad dominates northern Behera</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
-	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River </div>
+	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River, the first Tomb City of Drow and High Elf </div>
 	        <div class="timeline-item" data-date="2350BA">Earliest evidence for the city of Palmunis</div>
+	        <div class="timeline-item" data-date="2300BA">Horad Empire and its successors are fully destroyed</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
 	        <div class="timeline-item" data-date="2200BA">Earliest evidence for the city of Parkymin</div>
+	        <div class="timeline-item" data-date="2150BA">Elves dominate the lands of the Az-Jir River</div>
 	        <div class="timeline-item" data-date="2150BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="2000BA">Creation of the Tageyo Field</div>
 	        <div class="timeline-item" data-date="1990BA">Likely Foundation of Lorqis</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
+	        <div class="timeline-item" data-date="1975BA">The early izian civilization rises around the River Iza in modern day Hainach, walled settlements form</div>
 	        <div class="timeline-item" data-date="1950BA">First true glass smelting occurs in Cyraclion</div>
 	        <div class="timeline-item" data-date="1845BA">Gate of Palmunis is constructed</div>
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
@@ -90,8 +104,10 @@
             <div class="timeline-item" data-date="970BA">Likely Formation of Tasch in the Merek</div>
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
+            <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
+            <div class="timeline-item" data-date="700BA">Thurl, modern day Thulmouth, is founded by Izian/proto-Reani traders.</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
             <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders, Neyadastes writes the Codex Kynosis</div>
             <div class="timeline-item" data-date="650BA">Spurshey and Vahri settlers encounter Vinjiri Safir, cultural exchange begins across the mountains</div>
@@ -119,33 +135,48 @@
             <div class="timeline-item" data-date="488BA">Rakhian Conquest of Sakra, modern day Hainach</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig</div>
             <div class="timeline-item" data-date="440BA">Rakhi Conquest of Kerlean</div>
+            <div class="timeline-item" data-date="438BA">1st Great Rakhi-Addaci Wars begin</div>
+            <div class="timeline-item" data-date="434BA">1st Great Rakhi-Addaci Wars end as Addacia cedes the great lands of the Hills to the growing Rakhi Empire</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
             <div class="timeline-item" data-date="410BA">First mention of a united Tusuli Marival</div>
+            <div class="timeline-item" data-date="404BA">2nd Great Rakhi-Addaci Wars begin</div>
+            <div class="timeline-item" data-date="402BA">Battle of Ziak</div>
+            <div class="timeline-item" data-date="400BA">Battle of Enjab, Death of Pharcias, Solor of Accadia</div>
+            <div class="timeline-item" data-date="396BA">Accadia splinters, end of the 2nd Great Rakhi-Addaci War</div>
             <div class="timeline-item" data-date="371BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="370BA">Fall of Cyraclion</div>
+            <div class="timeline-item" data-date="365BA">Later Accadian Empire rises around the Stormy Sea</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
+            <div class="timeline-item" data-date="338BA">Later Accadian Empire conquers the great City of Tuhrl, later Thulmouth, later Accadian Golden Age begins </div>
             <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm & Ares</div>
             <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
+            <div class="timeline-item" data-date="303BA">Later Accadian Empire Golden Age Ends with the Death of Seneter the Great</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
             <div class="timeline-item" data-date="299BA">The Omna of Japhal is formed, putting an end to the Durenni Age of Strife </div>
             <div class="timeline-item" data-date="297BA">Xolori Age of Wind and Wave begins</div>
             <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
+            <div class="timeline-item" data-date="293BA">3rd Great Rakhi-Accadi War begins</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
+            <div class="timeline-item" data-date="285BA">3rd Great Rakhi-Accadi War ends inconclusively after the Battle of Toilak</div>
             <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
             <div class="timeline-item" data-date="281BA">The Great Voyage, through unknown methods Minotaurs cross the Gaalian Sea and land on Ynkal, supposedly from Puthrac</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
             <div class="timeline-item" data-date="279BA">Battle of Niedwoods</div>
             <div class="timeline-item" data-date="278BA">Elves settle the east coast of  Qa and name it Il-Haena, initial contact with local Orcs is friendly</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
+            <div class="timeline-item" data-date="275BA">Rise of Hantili the Great in Rakh, Rakh, 4th Great Rakhi-Accadi War begins </div>
+            <div class="timeline-item" data-date="273BA">Fall of Ariza</div>
+            <div class="timeline-item" data-date="271BA">Fall of Cothar, conquest and end of Addacia</div>
             <div class="timeline-item" data-date="269BA">Conquest of Samyr, The Marival ends and the City is named Mereskis</div>
+            <div class="timeline-item" data-date="266BA">Cevoli Campaigns Begin</div>
             <div class="timeline-item" data-date="265BA">Meter Ban on Ilonist Cults, "Breaking of the Wheel" begins in Behera</div>
-            <div class="timeline-item" data-date="258BA">Subjugation of Cevolis</div>
-            <div class="timeline-item" data-date="210BA">Beherian Campaigns begin</div>
+            <div class="timeline-item" data-date="258BA">Subjugation of Cevolis, Peace of the Firelord begins as Rakh enters a half a century period of peace</div>
+            <div class="timeline-item" data-date="210BA">Beherian Campaigns begin, Rakh declares war on the Meter Dynasty, Fighting is centred around the southern Stormy Sea in the former lands of Addacia and Samyr</div>
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">Invocation of Uschtir</div>
             <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>

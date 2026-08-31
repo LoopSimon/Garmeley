@@ -1,8 +1,20 @@
+- 2026-08-31T2227 · Bassira
+- 2026-08-31T2221 · Mindano
+- 2026-08-31T2214 · Excavators Guild of Butera
+- 2026-08-31T2214 · Butera
+- 2026-08-31T2209 · Ligoggia
+- 2026-08-31T2203 · Albesan
+- 2026-08-31T2150 · Yaalwe
+- 2026-08-31T2122 · Ingele
+- 2026-08-31T2005 · Teggio
+- 2026-08-31T1738 · Codex Thereticum
+- 2026-08-31T0307 · Complete Timeline
+- 2026-08-31T0304 · Addacia
+- 2026-08-31T0209 · Rean
 - 2026-08-30T2047 · Kabernos
 - 2026-08-30T1845 · Vihrmen Federation
 - 2026-08-30T1837 · Ghant
 - 2026-08-30T1351 · Anak
-- 2026-08-30T1235 · Complete Timeline
 - 2026-08-30T1233 · The Anak
 - 2026-08-30T1210 · Barzin
 - 2026-08-30T1129 · Darvid Maerlon
@@ -67,7 +79,6 @@
 - 2026-08-26T1547 · Morfeld
 - 2026-08-26T1545 · Graccum
 - 2026-08-26T1432 · Lyandra
-- 2026-08-25T2204 · Codex Thereticum
 - 2026-08-25T1851 · Yellow War
 - 2026-08-24T1433 · Kulum
 - 2026-08-24T1239 · Rulers of Kherova
@@ -187,14 +198,3 @@
 - 2026-08-18T1255 · Baeling
 - 2026-08-18T1255 · Weadland
 - 2026-08-18T1254 · Auguri Dominion
-- 2026-08-18T1254 · Kerlaes
-- 2026-08-18T1254 · Baeling Empire
-- 2026-08-18T1254 · Arester
-- 2026-08-18T1253 · Uhl
-- 2026-08-18T1253 · Trinvale
-- 2026-08-18T1253 · Garmeley
-- 2026-08-18T1252 · Nied
-- 2026-08-18T1250 · Targesis
-- 2026-08-18T1250 · Meynar of Jorrenstead
-- 2026-08-18T1249 · Jevana
-- 2026-08-18T1248 · Hubert of Tanverley

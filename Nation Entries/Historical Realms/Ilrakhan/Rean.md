@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>N/A</span>
+        <span>Reanport</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

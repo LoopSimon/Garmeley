@@ -83,6 +83,17 @@ Abducted Mogyri:
 
 
 
+Captain Robar, tall, bald, bushy beard
+
+Magistrate Lirav
+
+Bowyer Hal
+
+
+
+
+
+
 
 Riddles:
 
