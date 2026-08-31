@@ -1,3 +1,5 @@
+- 2026-08-31T2320 · Paper Cities
+- 2026-08-31T2245 · Teggio
 - 2026-08-31T2227 · Bassira
 - 2026-08-31T2221 · Mindano
 - 2026-08-31T2214 · Excavators Guild of Butera
@@ -6,7 +8,6 @@
 - 2026-08-31T2203 · Albesan
 - 2026-08-31T2150 · Yaalwe
 - 2026-08-31T2122 · Ingele
-- 2026-08-31T2005 · Teggio
 - 2026-08-31T1738 · Codex Thereticum
 - 2026-08-31T0307 · Complete Timeline
 - 2026-08-31T0304 · Addacia
@@ -197,4 +198,3 @@
 - 2026-08-18T1255 · Juelfluk
 - 2026-08-18T1255 · Baeling
 - 2026-08-18T1255 · Weadland
-- 2026-08-18T1254 · Auguri Dominion
