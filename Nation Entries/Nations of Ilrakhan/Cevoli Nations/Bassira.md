@@ -25,7 +25,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Trinicism" class="internal-link">Trinicism</a>
+        <span><a href="Cevolia" class="internal-link">Turpadori</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

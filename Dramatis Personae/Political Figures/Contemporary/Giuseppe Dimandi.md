@@ -1,5 +1,6 @@
 %%
 [[Fellows of the Dancing Flame]]
+[[Cevoli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Giuseppe Dimandi</h4>
@@ -9,11 +10,11 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span> Great Master of the Dancing Flame</span>
+        <span>Great Master of the Dancing Flame</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Cevoli Human</span>
+        <span><a href="Cevoli" class="internal-link">Rialo</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

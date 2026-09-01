@@ -2,12 +2,13 @@
 [[Alana Czery]]
 [[Horatio Tuliper]]
 [[Filip of Leston]]
+[[Cevoli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Isa Tereggio</h4>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Cevoli Human</span>
+        <span><a href="Cevoli" class="internal-link">Levi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

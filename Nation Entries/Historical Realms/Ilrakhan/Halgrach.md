@@ -1,3 +1,7 @@
+%%
+[[Gethricism]]
+[[Brothers War]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Halgrach</h4>
     <div class="wiki-row">

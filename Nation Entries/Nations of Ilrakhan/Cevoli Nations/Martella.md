@@ -30,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Martelli <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Cevolia" class="internal-link">Marci</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

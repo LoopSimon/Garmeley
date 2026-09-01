@@ -1,3 +1,29 @@
+- 2026-09-01T1541 · Turpador
+- 2026-09-01T1541 · Teggio
+- 2026-09-01T1540 · Mindano
+- 2026-09-01T1540 · Martella
+- 2026-09-01T1539 · Ligoggia
+- 2026-09-01T1539 · Jeledo
+- 2026-09-01T1538 · Firocco
+- 2026-09-01T1538 · Butera
+- 2026-09-01T1538 · Battvia
+- 2026-09-01T1537 · Bassira
+- 2026-09-01T1535 · Albesan
+- 2026-09-01T1534 · Orestis
+- 2026-09-01T1533 · Halgrach
+- 2026-09-01T1533 · Cevolis
+- 2026-09-01T1457 · Mario Benvolo
+- 2026-09-01T1457 · Gisava di Parneu
+- 2026-09-01T1436 · Artor Perisco
+- 2026-09-01T1435 · Viccolo di Pora
+- 2026-09-01T1429 · Stefano Maldini
+- 2026-09-01T1429 · Giuseppe Dimandi
+- 2026-09-01T1429 · Salvia
+- 2026-09-01T1427 · Gabriella Mile
+- 2026-09-01T1427 · Isa Tereggio
+- 2026-09-01T0516 · Cevoli
+- 2026-09-01T0458 · Trinicism
+- 2026-09-01T0456 · Cevolia
 - 2026-09-01T0015 · Ghiraspir
 - 2026-09-01T0013 · Greater Spirit
 - 2026-09-01T0013 · Institute for Practical Energies
@@ -7,13 +33,7 @@
 - 2026-08-31T2342 · Complete Timeline
 - 2026-08-31T2330 · Hobgoblin Invasion
 - 2026-08-31T2320 · Paper Cities
-- 2026-08-31T2245 · Teggio
-- 2026-08-31T2227 · Bassira
-- 2026-08-31T2221 · Mindano
 - 2026-08-31T2214 · Excavators Guild of Butera
-- 2026-08-31T2214 · Butera
-- 2026-08-31T2209 · Ligoggia
-- 2026-08-31T2203 · Albesan
 - 2026-08-31T2150 · Yaalwe
 - 2026-08-31T2122 · Ingele
 - 2026-08-31T1738 · Codex Thereticum
@@ -166,7 +186,6 @@
 - 2026-08-18T1936 · Breza
 - 2026-08-18T1935 · Grachy
 - 2026-08-18T1935 · Wermia
-- 2026-08-18T1934 · Halgrach
 - 2026-08-18T1934 · Zovac Harlini
 - 2026-08-18T1932 · Viagoris
 - 2026-08-18T1932 · Kortyr
@@ -179,22 +198,3 @@
 - 2026-08-18T1927 · Vlad V
 - 2026-08-18T1927 · Oleksandr IV
 - 2026-08-18T1926 · Vormil III
-- 2026-08-18T1926 · Vasily Surovsky
-- 2026-08-18T1926 · Tadeuz Pilsud
-- 2026-08-18T1925 · Jakub Ralpia
-- 2026-08-18T1925 · Ilya Zemov
-- 2026-08-18T1924 · Eril Ruda
-- 2026-08-18T1924 · Marosz Kirelli
-- 2026-08-18T1923 · Livia Bistovka
-- 2026-08-18T1923 · Bersi Hurtfing
-- 2026-08-18T1922 · Vihri
-- 2026-08-18T1257 · Bykmåli
-- 2026-08-18T1256 · Zmalig
-- 2026-08-18T1256 · Weisch
-- 2026-08-18T1256 · Wargel
-- 2026-08-18T1256 · Risfalt
-- 2026-08-18T1256 · Morelle
-- 2026-08-18T1256 · Mear
-- 2026-08-18T1255 · Lesmere
-- 2026-08-18T1255 · Gisvale
-- 2026-08-18T1255 · Freelands

@@ -2,6 +2,8 @@
 [[Battvia]]
 [[Luminists]]
 [[Wermian Accords]]
+[[Cevoli]]
+[[Elf]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Viccolo Maria di Pora</h4>
@@ -11,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Cevoli Half-Elf</span>
+        <span><a href="Cevoli" class="internal-link">Levi</a> <a href="Elf" class="internal-link">Half-Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

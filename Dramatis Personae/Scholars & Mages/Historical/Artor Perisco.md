@@ -2,6 +2,7 @@
 [[Perisco Effect]]
 [[Turpador]]
 [[Firocco]]
+[[Cevoli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Artor Perisco da Mezar</h4>
@@ -11,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>cevoli <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Cevoli" class="internal-link">Turpadori</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

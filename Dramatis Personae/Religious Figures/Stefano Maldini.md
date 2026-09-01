@@ -20,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>cevoli <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Cevoli" class="internal-link">Levi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

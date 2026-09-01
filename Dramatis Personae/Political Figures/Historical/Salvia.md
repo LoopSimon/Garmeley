@@ -1,5 +1,6 @@
 %%
 [[Firocco]]
+[[Cevoli]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Salvia Releado</h4>
@@ -17,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Cevoli <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Cevoli" class="internal-link">Niradi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
