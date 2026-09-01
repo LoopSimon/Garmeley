@@ -1,17 +1,17 @@
-- 2026-09-01T1558 · Teggio
-- 2026-09-01T1556 · Mindano
-- 2026-09-01T1555 · Bassira
-- 2026-09-01T1552 · Butera
-- 2026-09-01T1552 · Albesan
-- 2026-09-01T1549 · Ligoggia
-- 2026-09-01T1541 · Turpador
-- 2026-09-01T1540 · Martella
-- 2026-09-01T1539 · Jeledo
-- 2026-09-01T1538 · Firocco
-- 2026-09-01T1538 · Battvia
-- 2026-09-01T1534 · Orestis
+- 2026-09-01T1647 · Cevolis
+- 2026-09-01T1647 · Orestis
+- 2026-09-01T1646 · Turpador
+- 2026-09-01T1646 · Teggio
+- 2026-09-01T1646 · Mindano
+- 2026-09-01T1646 · Martella
+- 2026-09-01T1646 · Ligoggia
+- 2026-09-01T1646 · Jeledo
+- 2026-09-01T1646 · Firocco
+- 2026-09-01T1646 · Butera
+- 2026-09-01T1646 · Bassira
+- 2026-09-01T1646 · Albesan
+- 2026-09-01T1646 · Battvia
 - 2026-09-01T1533 · Halgrach
-- 2026-09-01T1533 · Cevolis
 - 2026-09-01T1457 · Mario Benvolo
 - 2026-09-01T1457 · Gisava di Parneu
 - 2026-09-01T1436 · Artor Perisco

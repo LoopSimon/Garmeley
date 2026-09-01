@@ -32,7 +32,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span><a href="Cevolia" class="internal-link">Levi</a> <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Cevoli" class="internal-link">Levi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
@@ -53,8 +53,8 @@
 </div>
 
 <p> The largest successor state of the Kingdom of <a href="Cevolis" class="internal-link">Cevolis</a>, the Land of Battvia is one of rich farmlands and endless coasts, but the history of the Cevoli people is marked by constant infighting and wars. Pressed against the Kortopi mountains, Battvia has lost virtually all control over the rich Paper Cities of the Bay of Butera, and is involved in a century long rivalry with the Duchy of <a href="Jeledo" class="internal-link">Jeledo</a> , the legacy of grand Cevolis slowly drifting further and further into history. Battvia is divided by the Pringlades Forest and the Iago River, its green rich hills plastered by the Ruins of older civilizations like ancient <a href="Orestis" class="internal-link">Orestis</a>.</p>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Battvia1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Levi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+</div><small><i>Map of the Cevoli Heartland</i></small>
 
 <h2>People of Interest</h2>
 
