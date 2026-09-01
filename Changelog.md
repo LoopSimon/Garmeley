@@ -1,3 +1,4 @@
+- 2026-09-01T1702 · Cevolia
 - 2026-09-01T1647 · Cevolis
 - 2026-09-01T1647 · Orestis
 - 2026-09-01T1646 · Turpador
@@ -23,7 +24,6 @@
 - 2026-09-01T1427 · Isa Tereggio
 - 2026-09-01T0516 · Cevoli
 - 2026-09-01T0458 · Trinicism
-- 2026-09-01T0456 · Cevolia
 - 2026-09-01T0015 · Ghiraspir
 - 2026-09-01T0013 · Greater Spirit
 - 2026-09-01T0013 · Institute for Practical Energies
