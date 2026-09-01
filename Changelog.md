@@ -1,3 +1,8 @@
+- 2026-09-02T0136 · Battvian Civil War
+- 2026-09-02T0100 · Mercenary Culture
+- 2026-09-02T0100 · Scarlet Feather Band
+- 2026-09-02T0059 · Gilded Men
+- 2026-09-01T1850 · Palmunian Polytheism
 - 2026-09-01T1702 · Cevolia
 - 2026-09-01T1647 · Cevolis
 - 2026-09-01T1647 · Orestis
@@ -193,8 +198,3 @@
 - 2026-08-18T1930 · Avero
 - 2026-08-18T1929 · Valenty Sykes
 - 2026-08-18T1929 · Antonin Slowoska
-- 2026-08-18T1928 · Shasha Gurnakov
-- 2026-08-18T1928 · Leonyd Krunliv
-- 2026-08-18T1927 · Vlad V
-- 2026-08-18T1927 · Oleksandr IV
-- 2026-08-18T1926 · Vormil III
