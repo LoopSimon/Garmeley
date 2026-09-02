@@ -1,9 +1,10 @@
+- 2026-09-02T1714 · Scarlet Feather Band
+- 2026-09-02T1450 · Codex Thereticum
 - 2026-09-02T0208 · Paper Cities
 - 2026-09-02T0206 · Battvian Civil War
 - 2026-09-02T0204 · Complete Timeline
 - 2026-09-02T0155 · Guido II
 - 2026-09-02T0100 · Mercenary Culture
-- 2026-09-02T0100 · Scarlet Feather Band
 - 2026-09-02T0059 · Gilded Men
 - 2026-09-01T1850 · Palmunian Polytheism
 - 2026-09-01T1702 · Cevolia
@@ -42,7 +43,6 @@
 - 2026-08-31T2214 · Excavators Guild of Butera
 - 2026-08-31T2150 · Yaalwe
 - 2026-08-31T2122 · Ingele
-- 2026-08-31T1738 · Codex Thereticum
 - 2026-08-31T0304 · Addacia
 - 2026-08-31T0209 · Rean
 - 2026-08-30T2047 · Kabernos
