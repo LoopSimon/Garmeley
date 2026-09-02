@@ -497,6 +497,7 @@
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster</div>
+             <div class="timeline-item" data-date="748PA">Prince Anselmo I of Battvia grants the Great Privilege to the Cities of the Bay</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
@@ -526,9 +527,11 @@
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach, 2nd War of Elbae Aggression ends</div>
-            <div class="timeline-item" data-date="792PA">Battvian Civil War</div>
+            <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out, Battles of Gialo & Fiarco</div>
+            <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
-            <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador</div>
+            <div class="timeline-item" data-date="797PA">Sack under the Olive Trees</div>
+            <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador, Battle of Bereggio, end of the Battvian Civil War</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>

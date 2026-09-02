@@ -1,4 +1,6 @@
-- 2026-09-02T0136 · Battvian Civil War
+- 2026-09-02T0206 · Battvian Civil War
+- 2026-09-02T0204 · Complete Timeline
+- 2026-09-02T0155 · Guido II
 - 2026-09-02T0100 · Mercenary Culture
 - 2026-09-02T0100 · Scarlet Feather Band
 - 2026-09-02T0059 · Gilded Men
@@ -35,7 +37,6 @@
 - 2026-09-01T0012 · Xarvin Jiballo
 - 2026-09-01T0011 · Otso
 - 2026-09-01T0002 · Kareli Hierarchy
-- 2026-08-31T2342 · Complete Timeline
 - 2026-08-31T2330 · Hobgoblin Invasion
 - 2026-08-31T2320 · Paper Cities
 - 2026-08-31T2214 · Excavators Guild of Butera
@@ -197,4 +198,3 @@
 - 2026-08-18T1931 · Joakim zi Szarbel
 - 2026-08-18T1930 · Avero
 - 2026-08-18T1929 · Valenty Sykes
-- 2026-08-18T1929 · Antonin Slowoska

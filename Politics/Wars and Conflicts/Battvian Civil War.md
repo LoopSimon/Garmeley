@@ -8,6 +8,7 @@
 [[Gilded Men]]
 [[Paper Cities]]
 [[Jeledo]]
+[[Guido II]]
 %%
 
 <div class="wiki-infobox">
@@ -67,7 +68,7 @@ various Mercenary Companies<br>
 
 <h2>The Great Privilege and its Violation</h2>
 
-<p>The commercial cities of the Bay of Butera had lived under a specific constitutional arrangement with the Princes of Battvia since the reign of Prince Anselmo I, whose Great Privilege granted them significant autonomy and political influence over national affairs in exchange for increased taxation. This arrangement had made Battvia wealthy and the cities powerful in a productive equilibrium that required only the crowns continued willingness to honour its terms to reap the benefits of the globally dominant industries of the Bay. When Guido II declined to submit his marriage arrangements to the Grand Councils approval, choosing a local noble over the northern candidate the council had sanctioned, the cities understood immediately that a prince who would not uphold the Privilege over a marriage would not keep it over anything else that truly mattered to him.</p> 
+<p>The commercial cities of the Bay of Butera had lived under a specific constitutional arrangement with the Princes of Battvia since the reign of Prince Anselmo I, whose Great Privilege granted them significant autonomy and political influence over national affairs in exchange for increased taxation. This arrangement had made Battvia wealthy and the cities powerful in a productive equilibrium that required only the crowns continued willingness to honour its terms to reap the benefits of the globally dominant industries of the Bay. When Anselmo Is grandson <a href="Guido II" class="internal-link">Prince Guido II</a> declined to submit his marriage arrangements to the Grand Councils approval, choosing a local noble over the northern candidate the council had sanctioned, the cities understood immediately that a prince who would not uphold the Privilege over a marriage would not keep it over anything else that truly mattered to him.</p> 
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/greenlord.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 <small><i>Prince Guido II "the Lame" of Battiva</i></small>  
 </div>
