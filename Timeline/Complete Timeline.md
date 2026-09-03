@@ -105,6 +105,7 @@
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
+            <div class="timeline-item" data-date="780BA">First Records of the Walled City of Ikara</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
             <div class="timeline-item" data-date="700BA">Thurl, modern day Thulmouth, is founded by Izian/proto-Reani traders.</div>

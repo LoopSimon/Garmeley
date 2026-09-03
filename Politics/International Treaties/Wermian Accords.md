@@ -41,6 +41,7 @@
 </div>
 <p>A set of rules and restrictions regarding Magical Practice instated roughly 300 years after the <a href="Wermia">Wermian</a> <a href="The Incursion" class="internal-link">Incursions</a> , referencing them as an example of the havoc and destruction unchecked magic can wreak upon the material Plane.
 Primarily enforced by at first only Followers of <a href="Gethricism">Gethricism</a> but later virtually all nations on Ilrakhan. The Saint <a href="Palus" class="internal-link">Palus Aergestes</a> was the then Bishop responsible for the international congregation agreeing to the Accords and is hailed as the Father to the document, it is seen as an effort of near unrivalled diplomacy especially for its time, but has come under more scrutiny in recent years by academic movements such as the <a href="Luminists" class="internal-link">Luminists</a>.</p>
+<p>The Elbae Sultanate does not officially acknowledge the full extend of the Accords, but in effect practices them, particularly in its northern cities and ports, and refers to them by letter often.</p>
 
 <hr class="wiki-hr">
 

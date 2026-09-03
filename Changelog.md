@@ -1,8 +1,12 @@
+- 2026-09-03T1522 · Ikara
+- 2026-09-03T1510 · Complete Timeline
+- 2026-09-03T1508 · Eremir
+- 2026-09-03T0044 · Gynla Pemo
+- 2026-09-03T0029 · Wermian Accords
 - 2026-09-02T1714 · Scarlet Feather Band
 - 2026-09-02T1450 · Codex Thereticum
 - 2026-09-02T0208 · Paper Cities
 - 2026-09-02T0206 · Battvian Civil War
-- 2026-09-02T0204 · Complete Timeline
 - 2026-09-02T0155 · Guido II
 - 2026-09-02T0100 · Mercenary Culture
 - 2026-09-02T0059 · Gilded Men
@@ -194,7 +198,3 @@
 - 2026-08-18T1935 · Wermia
 - 2026-08-18T1934 · Zovac Harlini
 - 2026-08-18T1932 · Viagoris
-- 2026-08-18T1932 · Kortyr
-- 2026-08-18T1931 · Joakim zi Szarbel
-- 2026-08-18T1930 · Avero
-- 2026-08-18T1929 · Valenty Sykes
