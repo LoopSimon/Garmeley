@@ -400,12 +400,14 @@
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="586PA">Meadi reconquest of northern Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>
+            <div class="timeline-item" data-date="588PA">A young Cearic begins his work under the Duke of Morelle</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire; Mindano emerges as self-governing city-state following the Collapse of Cevolis</div>
             <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon, Conclave of 592 canonises Luca Cadente of Cefran, Patron Saint of Cevolia</div>
             <div class="timeline-item" data-date="593PA">End of the Khari Dynasty in Kherova, Era of the Empty Seat begins.</div>
             <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil</div>
+            <div class="timeline-item" data-date="595PA">Cearic creates his first Warden </div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>

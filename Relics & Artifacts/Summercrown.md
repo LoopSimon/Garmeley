@@ -2,6 +2,7 @@
 [[Sinlapsi]]
 [[Nostroya]]
 [[Bersi Hurtfing]]
+[[The Tragedy of the Dobrys]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Summercrown</h4>
@@ -19,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Current Owner or Location</strong>
-        <span>Varny Outskirts</span>
+        <span>Havu</span>
     </div>
     <div class="wiki-row">
         <strong>Past Owners</strong>

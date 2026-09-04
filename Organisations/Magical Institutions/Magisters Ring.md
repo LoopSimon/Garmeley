@@ -1,0 +1,8 @@
+%%
+[[Elbae]]
+[[Karajal School of Insight]]
+[[Shuyat]]
+%%
+<p>The Magisters of Behera are a broad generalisation for those individuals capable of enchanting objects, creating potions and channeling magic that walk amongst Beheras human and elven populace in accordance to the Sultans Law. Many of them have studied under the various institutions or acknowledged individuals part of this "Ring", and it stands under the greater authority of the Eyes of the  <a href="Karajal School of Insight" class="internal-link">Karajal School of Insight at Alparaz</a>. </p>
+<p>A Magister is usually identified by his most precious possession, a Talisman in the form of the North Star Malam, that identifies him as a sanctioned practitioner of Magick. Those that break the laws against Spellcraft, practice it without a Talisman or good reason in commercial or institutional fields, or cause harms to the public, are hunted down. Usually by local administrators of the law, in more severe cases by the merciless grasp of the <a href="Shuyat" class="internal-link">Shuyat</a>.</p>
+<p>The Term Magister is actually borrowed from the rakhi and later urien and garmish Magis, stemming from the old rakhi term of Teacher or master, the old beheran tongues combined it with the word "Megher" meaning simply "Enchanter" or more literal "Who makes the world", and the word Magister has been used ever since. As a term it is not exclusively used to refer to beheran mages in their loosely institutionalised form but largely associated with them, and their arcane knowledge so much, that great scholars and wizards from the north in ilrakhan have begun to refer to themselves as such.</p>

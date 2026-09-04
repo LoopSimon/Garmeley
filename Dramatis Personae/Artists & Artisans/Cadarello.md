@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>892, Viago</span>
+        <span>892PA, Viago</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

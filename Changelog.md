@@ -1,11 +1,19 @@
-- 2026-09-03T2219 · Cadarello
+- 2026-09-04T0808 · Stefano Maldini
+- 2026-09-04T0804 · Vorellan War
+- 2026-09-04T0629 · Ar
+- 2026-09-04T0512 · Golem
+- 2026-09-04T0510 · Cearic
+- 2026-09-04T0506 · Magisters Ring
+- 2026-09-04T0458 · Wermian Accords
+- 2026-09-04T0434 · Institute for Practical Energies
+- 2026-09-04T0359 · Plate of the Delver
+- 2026-09-04T0344 · Summercrown
+- 2026-09-04T0339 · Complete Timeline
+- 2026-09-03T2220 · Cadarello
 - 2026-09-03T2205 · Dulakis
-- 2026-09-03T2205 · Cearic
 - 2026-09-03T1824 · Ikara
-- 2026-09-03T1510 · Complete Timeline
 - 2026-09-03T1508 · Eremir
 - 2026-09-03T0044 · Gynla Pemo
-- 2026-09-03T0029 · Wermian Accords
 - 2026-09-02T1714 · Scarlet Feather Band
 - 2026-09-02T1450 · Codex Thereticum
 - 2026-09-02T0208 · Paper Cities
@@ -33,7 +41,6 @@
 - 2026-09-01T1457 · Gisava di Parneu
 - 2026-09-01T1436 · Artor Perisco
 - 2026-09-01T1435 · Viccolo di Pora
-- 2026-09-01T1429 · Stefano Maldini
 - 2026-09-01T1429 · Giuseppe Dimandi
 - 2026-09-01T1429 · Salvia
 - 2026-09-01T1427 · Gabriella Mile
@@ -42,7 +49,6 @@
 - 2026-09-01T0458 · Trinicism
 - 2026-09-01T0015 · Ghiraspir
 - 2026-09-01T0013 · Greater Spirit
-- 2026-09-01T0013 · Institute for Practical Energies
 - 2026-09-01T0012 · Xarvin Jiballo
 - 2026-09-01T0011 · Otso
 - 2026-09-01T0002 · Kareli Hierarchy
@@ -128,7 +134,6 @@
 - 2026-08-23T1844 · Ahrmiz Saceren
 - 2026-08-23T1842 · Zurán Barbeshvili
 - 2026-08-23T1726 · Meadrath
-- 2026-08-23T1209 · Ar
 - 2026-08-23T0704 · The Tragedy of the Dobrys
 - 2026-08-23T0552 · Meadi Othiri War
 - 2026-08-23T0551 · Rivalt du Chian
@@ -193,8 +198,3 @@
 - 2026-08-18T1938 · Selbia
 - 2026-08-18T1938 · Rovgi
 - 2026-08-18T1937 · Opuzna
-- 2026-08-18T1937 · Nuv Werm
-- 2026-08-18T1937 · Levazci
-- 2026-08-18T1936 · Iztaw
-- 2026-08-18T1936 · Breza
-- 2026-08-18T1935 · Grachy
