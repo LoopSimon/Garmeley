@@ -24,7 +24,7 @@
         <span>The Seventh Knight, <br>Ayerlan</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Delver.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Delversplate.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>The Plate of the Delver, is a mysterious artifact of immense magical potential. A living and breathing enchantement, not merely layered upon mundane plate, but woven into it, made one with it. It appears to adapt to the wearers own visual expectations of it, moulding itself ever so slightly to their physical demands and perceptions, although it displays various stellar patterns and vaguely glowing maps of the firmaments constellations when unclaimed.</p>

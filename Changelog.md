@@ -1,13 +1,13 @@
+- 2026-09-04T1606 · Magisters Ring
+- 2026-09-04T1605 · Plate of the Delver
 - 2026-09-04T0814 · Battvia
 - 2026-09-04T0808 · Stefano Maldini
 - 2026-09-04T0804 · Vorellan War
 - 2026-09-04T0629 · Ar
 - 2026-09-04T0512 · Golem
 - 2026-09-04T0510 · Cearic
-- 2026-09-04T0506 · Magisters Ring
 - 2026-09-04T0458 · Wermian Accords
 - 2026-09-04T0434 · Institute for Practical Energies
-- 2026-09-04T0359 · Plate of the Delver
 - 2026-09-04T0344 · Summercrown
 - 2026-09-04T0339 · Complete Timeline
 - 2026-09-03T2220 · Cadarello
