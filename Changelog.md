@@ -1,3 +1,4 @@
+- 2026-09-04T0814 · Battvia
 - 2026-09-04T0808 · Stefano Maldini
 - 2026-09-04T0804 · Vorellan War
 - 2026-09-04T0629 · Ar
@@ -35,7 +36,6 @@
 - 2026-09-01T1646 · Butera
 - 2026-09-01T1646 · Bassira
 - 2026-09-01T1646 · Albesan
-- 2026-09-01T1646 · Battvia
 - 2026-09-01T1533 · Halgrach
 - 2026-09-01T1457 · Mario Benvolo
 - 2026-09-01T1457 · Gisava di Parneu
