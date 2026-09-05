@@ -1,3 +1,8 @@
+- 2026-09-05T1520 · Horatio Tuliper
+- 2026-09-05T1517 · Filip of Leston
+- 2026-09-05T1515 · Alana Czery
+- 2026-09-05T1511 · Isa Tereggio
+- 2026-09-05T1507 · Complete Timeline
 - 2026-09-05T1418 · Darmil zi Perliav
 - 2026-09-05T1411 · Vihri
 - 2026-09-05T1410 · Yagund
@@ -17,7 +22,6 @@
 - 2026-09-04T0458 · Wermian Accords
 - 2026-09-04T0434 · Institute for Practical Energies
 - 2026-09-04T0344 · Summercrown
-- 2026-09-04T0339 · Complete Timeline
 - 2026-09-03T2220 · Cadarello
 - 2026-09-03T2205 · Dulakis
 - 2026-09-03T1824 · Ikara
@@ -52,7 +56,6 @@
 - 2026-09-01T1429 · Giuseppe Dimandi
 - 2026-09-01T1429 · Salvia
 - 2026-09-01T1427 · Gabriella Mile
-- 2026-09-01T1427 · Isa Tereggio
 - 2026-09-01T0516 · Cevoli
 - 2026-09-01T0458 · Trinicism
 - 2026-09-01T0015 · Ghiraspir
@@ -195,6 +198,3 @@
 - 2026-08-19T0125 · Kharnov
 - 2026-08-19T0124 · Izhevk
 - 2026-08-19T0123 · Cyraclion
-- 2026-08-19T0122 · Lorqis
-- 2026-08-19T0118 · Itharia
-- 2026-08-18T1940 · Trazlova
