@@ -1,9 +1,17 @@
+- 2026-09-05T1418 · Darmil zi Perliav
+- 2026-09-05T1411 · Vihri
+- 2026-09-05T1410 · Yagund
+- 2026-09-05T1345 · Zuzka
+- 2026-09-05T1340 · Rulers of Urland
+- 2026-09-05T1337 · Sergey Hirl
+- 2026-09-05T0515 · Morlin Oxader
+- 2026-09-05T0408 · Versy Barl
+- 2026-09-04T1952 · Ar
 - 2026-09-04T1606 · Magisters Ring
 - 2026-09-04T1605 · Plate of the Delver
 - 2026-09-04T0814 · Battvia
 - 2026-09-04T0808 · Stefano Maldini
 - 2026-09-04T0804 · Vorellan War
-- 2026-09-04T0629 · Ar
 - 2026-09-04T0512 · Golem
 - 2026-09-04T0510 · Cearic
 - 2026-09-04T0458 · Wermian Accords
@@ -85,7 +93,6 @@
 - 2026-08-29T1621 · Grossi
 - 2026-08-29T1613 · Lind
 - 2026-08-29T1420 · First War of Elbae Aggression
-- 2026-08-29T0433 · Rulers of Urland
 - 2026-08-29T0325 · Wars of Elbae Aggression
 - 2026-08-29T0325 · Third War of Elbae Aggression
 - 2026-08-29T0124 · Second War of Elbae Aggression
@@ -121,7 +128,6 @@
 - 2026-08-27T1620 · Lorana
 - 2026-08-27T1617 · Hannah of Krav
 - 2026-08-26T1601 · Ivanova Orin
-- 2026-08-26T1559 · Versy Barl
 - 2026-08-26T1547 · Morfeld
 - 2026-08-26T1545 · Graccum
 - 2026-08-26T1432 · Lyandra
@@ -192,9 +198,3 @@
 - 2026-08-19T0122 · Lorqis
 - 2026-08-19T0118 · Itharia
 - 2026-08-18T1940 · Trazlova
-- 2026-08-18T1940 · Torry
-- 2026-08-18T1938 · Tloky
-- 2026-08-18T1938 · Szievek
-- 2026-08-18T1938 · Selbia
-- 2026-08-18T1938 · Rovgi
-- 2026-08-18T1937 · Opuzna

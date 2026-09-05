@@ -40,23 +40,16 @@
 <p>Johran I, 278PA - 299PA</p>
 <p>Edric I "the Zealous", 299PA - 329PA</p>
 
-*The defining religious king of Urland's history. His thirty year reign coincided with and drove the Gethric conversion that transformed the kingdom's spiritual and institutional character.*
-
 <p>John I, 330PA - 341PA</p>
 
 <p>Wildur I, 341PA - 359PA</p>
 <p>Edric II, 359PA - 368PA</p>
 <p>Idward I "the Keen", 368PA - 399PA</p>
 
-*The first of the two rulers under whom Urland was at or near the peak of its continental power. His 31-year reign, the longest of the Dunling line, saw Urland exercise a degree of political and military influence that made it the single strongest or co-strongest nation on Ilrakhan.*
-
 <p>Wildur II, 399PA - 414PA</p>
 <p>Idward II, 414PA - 432PA</p>
 <p>Edric III, 432PA - 448PA</p>
 <p>John II "the Gryphon King", 448PA - 469PA</p>
-
-*The second of Urland's great rulers and the one whose name the kingdoms golden age is most closely associated with. Where Idward I had built the institutional foundations of Urlander dominance, John II inhabited them fully, his court becoming the cultural and political reference point for the known world.*
-
 <p>Edric IV, 469PA - 484PA</p>
 <p>Berengar I, 484PA - 490PA</p>
 <p>Cargyll I, 490PA - 494PA</p>
