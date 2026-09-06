@@ -609,6 +609,7 @@
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
             <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat</div>
+            <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
             <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure</div>

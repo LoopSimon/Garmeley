@@ -1,14 +1,20 @@
+- 2026-09-06T2032 · Sergey Hirl
+- 2026-09-06T2031 · Eliza Tergov
+- 2026-09-06T2023 · Merryl Bradovic
+- 2026-09-06T2023 · Ranni Grevil
+- 2026-09-06T1944 · Grachy
+- 2026-09-06T1922 · Seafoam Piercer
+- 2026-09-06T1653 · Bar-Dilian
+- 2026-09-05T1521 · Complete Timeline
 - 2026-09-05T1520 · Horatio Tuliper
 - 2026-09-05T1517 · Filip of Leston
 - 2026-09-05T1515 · Alana Czery
 - 2026-09-05T1511 · Isa Tereggio
-- 2026-09-05T1507 · Complete Timeline
 - 2026-09-05T1418 · Darmil zi Perliav
 - 2026-09-05T1411 · Vihri
 - 2026-09-05T1410 · Yagund
 - 2026-09-05T1345 · Zuzka
 - 2026-09-05T1340 · Rulers of Urland
-- 2026-09-05T1337 · Sergey Hirl
 - 2026-09-05T0515 · Morlin Oxader
 - 2026-09-05T0408 · Versy Barl
 - 2026-09-04T1952 · Ar
@@ -192,9 +198,3 @@
 - 2026-08-19T0142 · Falt
 - 2026-08-19T0135 · Kasimir
 - 2026-08-19T0134 · Thurimoi
-- 2026-08-19T0132 · Porto Casimiro
-- 2026-08-19T0131 · Jallbreg
-- 2026-08-19T0125 · Niedrest
-- 2026-08-19T0125 · Kharnov
-- 2026-08-19T0124 · Izhevk
-- 2026-08-19T0123 · Cyraclion

@@ -90,7 +90,7 @@
 <p>Iljya Medvov, Gram of the Nevland Region</p>
 <p>Ivan Zeresky, Gram of the Bryansk Valley Region</p>
 <p>Hesser Modva, Gram of the Modva Region</p>
-<p>Avanya Stir, Gram of the Voblag Bay Region</p>
+<p>Avanya Stare, Gram of the Voblag Bay Region</p>
 <p>Katerina Torkov, Gram of the Lower Hyll Region</p>
 <p>Sonja Modriv, Gram of the Hyllpass Region</p>
 <p>Alexey Korpov, Gram of the Upper Hyll Region</p>
