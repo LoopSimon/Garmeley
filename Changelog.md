@@ -1,5 +1,6 @@
+- 2026-09-08T2100 · Ikara
+- 2026-09-08T1731 · Karlaz the Razor
 - 2026-09-08T1652 · Complete Timeline
-- 2026-09-08T1651 · Karlaz the Razor
 - 2026-09-08T1643 · Sirmon Rezan
 - 2026-09-08T1612 · Beheran
 - 2026-09-08T1557 · Mereskis
@@ -16,7 +17,6 @@
 - 2026-09-08T1339 · Hector Razzan
 - 2026-09-08T1337 · Jezanis
 - 2026-09-08T1336 · Asper Inrates
-- 2026-09-08T1332 · Ikara
 - 2026-09-08T1331 · Meana Telamon
 - 2026-09-08T1322 · Eremir
 - 2026-09-08T1318 · Ilman Gorak
