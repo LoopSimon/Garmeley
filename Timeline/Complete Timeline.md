@@ -634,7 +634,7 @@
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords</div>
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves</div>
-            <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World"</div>
+            <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World", Karlaz the Razor sacks the port of Kalsad</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl, Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment.</div>
             <div class="timeline-item" data-date="917PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave, Independence Movements grow once again in Droil</div>

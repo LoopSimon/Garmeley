@@ -1,3 +1,6 @@
+- 2026-09-08T1652 · Complete Timeline
+- 2026-09-08T1651 · Karlaz the Razor
+- 2026-09-08T1643 · Sirmon Rezan
 - 2026-09-08T1612 · Beheran
 - 2026-09-08T1557 · Mereskis
 - 2026-09-08T1550 · Vihri
@@ -9,7 +12,6 @@
 - 2026-09-08T1550 · Bykmåli
 - 2026-09-08T1526 · Mikael Bivaldi
 - 2026-09-08T1526 · Adral Fidrakis
-- 2026-09-08T1524 · Complete Timeline
 - 2026-09-08T1523 · Glinsar
 - 2026-09-08T1339 · Hector Razzan
 - 2026-09-08T1337 · Jezanis
@@ -196,5 +198,3 @@
 - 2026-08-20T0003 · Shirin
 - 2026-08-19T1637 · Homunculus
 - 2026-08-19T1634 · Zuhuri Holy Wars
-- 2026-08-19T1633 · League of Aviv
-- 2026-08-19T1619 · Vigzil
