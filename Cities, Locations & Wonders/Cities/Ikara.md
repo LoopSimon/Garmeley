@@ -4,6 +4,7 @@
 [[Golden Dusk]]
 [[Magisters Ring]]
 [[The Alchemists Guild]]
+[[Ilman Gorak]]
 %%
 
 <div class="wiki-infobox">
@@ -14,7 +15,7 @@
  </div>
  <div class="wiki-row">
   <strong>Government</strong>
-  <span>Sanjak Ilman Gorak</span>
+  <span>Sanjak <a href="Ilman Gorak" class="internal-link">Ilman Gorak</a></span>
  </div>
  <div class="wiki-row">
   <strong>Population</strong>
@@ -45,7 +46,7 @@
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Ikara_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p>Ikara, often called the City of Fate, and known to its oldest residents by the ancient name Ikaharal, "Garden at the River" in the old Asefi tongue, is a walled city sitting on the Toumis Riverin the northern Asef Desert, at the crossroads of the roads from Erun to Larash and from Emiz to the border fortress of Dor Beher. It is administered by the <a href="Elbae" class="internal-link">Elbae Sultanate</a> under its Sanjak, Ilman Gorak, and counts itself among the older surviving cities of the eastern Asef, younger than the ancient centres of Mereskis and Erun, but centuries older than most settlements in the region, having been founded in the early 8th century BA when the Sultanate itself did not yet exist and the Asefi peoples tracked their years by the Falconer's Calendar, a dating system still used locally whose origins predate Ikara itself. The city is most celebrated for the Falcon's Pit, its great hippodrome arena whose tournaments draw visitors from across the northern Asef and beyond, but Ikara is equally a city of artisans, caravans, ancient faith, and of the particular quiet pride that belongs to places that have endured longer than the empires that govern them.</p>
+<p>Ikara, often called the City of Fate, and known to its oldest residents by the ancient name Ikaharal, "Garden at the River" in the old Asefi tongue, is a walled city sitting on the Toumis Riverin the northern Asef Desert, at the crossroads of the roads from Erun to Larash and from Emiz to the border fortress of Dor Beher. It is administered by the <a href="Elbae" class="internal-link">Elbae Sultanate</a> under its Sanjak, <a href="Ilman Gorak" class="internal-link">Ilman Gorak</a>, and counts itself among the older surviving cities of the eastern Asef, younger than the ancient centres of Mereskis and Erun, but centuries older than most settlements in the region, having been founded in the early 8th century BA when the Sultanate itself did not yet exist and the Asefi peoples tracked their years by the Falconer's Calendar, a dating system still used locally whose origins predate Ikara itself. The city is most celebrated for the Falcon's Pit, its great hippodrome arena whose tournaments draw visitors from across the northern Asef and beyond, but Ikara is equally a city of artisans, caravans, ancient faith, and of the particular quiet pride that belongs to places that have endured longer than the empires that govern them.</p>
 
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;">
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Ikara_Map.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
