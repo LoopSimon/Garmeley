@@ -2,6 +2,7 @@
 [[Nostroya]]
 [[Ukiolla]]
 [[Roygviil]]
+[[Human]]
 %%
 <p>The Pehki are the oldest human inhabitants of the lands of <a href="Nostroya" class="internal-link">Nostroya</a>, traditionally associated with the fierce fighters of the forest of modern day Ukiolla, they still hold faith with the ancient traditions of the <a href="Aeldcult" class="internal-link">Aeld</a> where almost all of their old neighbours have embraced the Candle Flame of <a href="Gethricism" class="internal-link">Gethric</a>. </p>
 <p>The three most well known divisions within the Pehki people are the Roymer, the Ukiollan and the Sehvki tribes, all with their distinct and problematic histories, often coloured by their relationship with the invaders from the west, the Grachi.</p>

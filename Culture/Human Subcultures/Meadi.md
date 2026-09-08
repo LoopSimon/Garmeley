@@ -1,5 +1,6 @@
 %%
 [[Meadland]]
+[[Human]]
 %%
 <p>The Meadi peoples, together with their closely related Weadi cousins on the Torn Sea Coast, are the inhabitants of Meadland, named after the River Mead, simply meaning "Those who come from the west" or just "West" in the tongue of the ancient tribes during the Age of the <a href="Auguri Dominion" class="internal-link">Auguri</a>, Weadi simply referring to "Men from the North" in the same way. The Meadi make up one of the largest and culturally influential groupings of humans on Inara and are largely united under the Crown of <a href="Meadrath" class="internal-link">Meadrath</a> in the modern day. </p>
 <h2>The Meadi</h2>

@@ -1,3 +1,12 @@
+- 2026-09-08T1612 · Beheran
+- 2026-09-08T1557 · Mereskis
+- 2026-09-08T1550 · Vihri
+- 2026-09-08T1550 · Urien
+- 2026-09-08T1550 · Pehki
+- 2026-09-08T1550 · Meadi
+- 2026-09-08T1550 · Kheri
+- 2026-09-08T1550 · Cevoli
+- 2026-09-08T1550 · Bykmåli
 - 2026-09-08T1526 · Mikael Bivaldi
 - 2026-09-08T1526 · Adral Fidrakis
 - 2026-09-08T1524 · Complete Timeline
@@ -8,7 +17,6 @@
 - 2026-09-08T1332 · Ikara
 - 2026-09-08T1331 · Meana Telamon
 - 2026-09-08T1322 · Eremir
-- 2026-09-08T1322 · Beheran
 - 2026-09-08T1318 · Ilman Gorak
 - 2026-09-07T0642 · Dulakis
 - 2026-09-06T2034 · Eliza Tergov
@@ -23,7 +31,6 @@
 - 2026-09-05T1515 · Alana Czery
 - 2026-09-05T1511 · Isa Tereggio
 - 2026-09-05T1418 · Darmil zi Perliav
-- 2026-09-05T1411 · Vihri
 - 2026-09-05T1410 · Yagund
 - 2026-09-05T1345 · Zuzka
 - 2026-09-05T1340 · Rulers of Urland
@@ -71,7 +78,6 @@
 - 2026-09-01T1429 · Giuseppe Dimandi
 - 2026-09-01T1429 · Salvia
 - 2026-09-01T1427 · Gabriella Mile
-- 2026-09-01T0516 · Cevoli
 - 2026-09-01T0458 · Trinicism
 - 2026-09-01T0015 · Ghiraspir
 - 2026-09-01T0013 · Greater Spirit
@@ -152,7 +158,6 @@
 - 2026-08-24T1433 · Kulum
 - 2026-08-24T1239 · Rulers of Kherova
 - 2026-08-23T2022 · Lakalism
-- 2026-08-23T1844 · Kheri
 - 2026-08-23T1844 · Merzigal
 - 2026-08-23T1844 · Ahrmiz Saceren
 - 2026-08-23T1842 · Zurán Barbeshvili
@@ -193,8 +198,3 @@
 - 2026-08-19T1634 · Zuhuri Holy Wars
 - 2026-08-19T1633 · League of Aviv
 - 2026-08-19T1619 · Vigzil
-- 2026-08-19T1548 · Greater Chihim
-- 2026-08-19T1547 · Greater Aatar
-- 2026-08-19T1513 · Goarism
-- 2026-08-19T1304 · Ruginë
-- 2026-08-19T1303 · Jateš

@@ -1,6 +1,7 @@
 %%
 [[Nostroya]]
 [[Vihr]]
+[[Human]]
 %%
 <p>The Vihri peoples are descendants of the old "Men of the Horn", the literal translation of Vihrmen and likely in reference to the Unicorns of the expanse. While all three groups share distinct lingual roots, they are usually broadly divided into the so called "Three old Families" of the Vihri, the Grachi and the Wermi peoples.</p>
 <h2>The Vihri</h2>

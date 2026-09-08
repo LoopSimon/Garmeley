@@ -4,6 +4,7 @@
 [[Kethricism]]
 [[Kherovan Inquisition]]
 [[Dwarf]]
+[[Human]]
 %%
 
 <p>The Kheri are the human peoples of the lands around Lake Kher, bound together by a shared language, the <a href="Kethricism" class="internal-link">kethric</a> faith, and a centuries old coexistence with the <a href="Dwarf" class="internal-link">dwarves</a> of Daban-Kol that has shaped their culture in ways that distinguish them from every other human people on the continent. Even though often treated as such, the Kheri are not a uniform people: the lake, the lowlands, the frontier and the coast have each produced distinct communities with their own characters..</p>
