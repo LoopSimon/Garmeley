@@ -1,5 +1,8 @@
-- 2026-09-08T1317 · Ilman Gorak
-- 2026-09-08T1311 · Ikara
+- 2026-09-08T1332 · Ikara
+- 2026-09-08T1331 · Meana Telamon
+- 2026-09-08T1322 · Eremir
+- 2026-09-08T1322 · Beheran
+- 2026-09-08T1318 · Ilman Gorak
 - 2026-09-08T1040 · Complete Timeline
 - 2026-09-07T0642 · Dulakis
 - 2026-09-06T2034 · Eliza Tergov
@@ -32,7 +35,6 @@
 - 2026-09-04T0434 · Institute for Practical Energies
 - 2026-09-04T0344 · Summercrown
 - 2026-09-03T2220 · Cadarello
-- 2026-09-03T1508 · Eremir
 - 2026-09-03T0044 · Gynla Pemo
 - 2026-09-02T1714 · Scarlet Feather Band
 - 2026-09-02T1450 · Codex Thereticum
@@ -196,5 +198,3 @@
 - 2026-08-19T0953 · Pixos
 - 2026-08-19T0907 · Zazir Brahmis
 - 2026-08-19T0242 · Taar
-- 2026-08-19T0142 · Falt
-- 2026-08-19T0135 · Kasimir

@@ -42,7 +42,7 @@
         <span><a href="Elbae" class="internal-link">Elbae Sultante</a></span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ilman.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gorak.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>The acting Sanjak of <a href="Ikara" class="internal-link">Ikara</a>, Ilman Gorak is a beheran Elf and the current Head of the Gorak Dynasty, old elven nobility from the Summer Coast. He has been in charge of the cities governance since 910PA, following the death of Sanjak Tumur Herjalan and has moved into the Palace in the cities Temple Quarter with his daughter Ishir and his Son Benmehd.</p>

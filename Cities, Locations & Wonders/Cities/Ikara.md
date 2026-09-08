@@ -5,6 +5,7 @@
 [[Magisters Ring]]
 [[The Alchemists Guild]]
 [[Ilman Gorak]]
+[[Meana Telamon]]
 %%
 
 <div class="wiki-infobox">
@@ -62,7 +63,7 @@
 <h2>Economy</h2>
 
 <p>Ikara's wealth flows from two sources that reinforce each other: the caravan trade and the Falcon's Pit. Its position on the crossroads between Erun, Larash, Emiz and Dor Beher makes it the natural resting point for commercial traffic crossing the northern Asef. The Ikara Caravanserai northwest of the walls is one of the largest such complexes in the region, and the Toumcross Market immediately north of the primary bridge captures the first commercial energy of arriving caravans before they reach the Magisters' Bazaar within the walls. The citys artisan trades, leather from the Grand Tannery, dyework from the Halls of Dyes, ceramics, carpets and metalwork from the workshops of the Bazaar Quarter and Riverside, give those caravans something worth taking out as well as bringing in.</p> 
-<p>The Falcon's Flight, the great hundred day summer tournament season, transforms this already active commercial picture into something considerably more animated: visitors from across the northern Asef and beyond arrive for the games, fill the Northern and Western Camps, spend in the Magisters Bazaar around the clock, and provide the city's merchants and artisans with a concentrated seasonal revenue that sustains prosperity through the quieter months. The Telamon Family, whose holdings along the Toumis River predate the Sultanate's presence in the region, control significant farmland that feeds the city and remain the largest single private economic force in Ikara. Meana Telamon, the familys current head and the richest person in the city, sponsors the Skyrider Company of tournament athletes whose champion Umar Nasal was crowned Summer Race winner only a week ago. The <a href="The Alchemists Guild" class="internal-link">Gildia Alchemikow of Trazlov </a>maintains an outpost east of the Pens, a signal of Ikara's commercial reach far enough north to attract even that distant guild's commercial interest.</p>
+<p>The Falcon's Flight, the great hundred day summer tournament season, transforms this already active commercial picture into something considerably more animated: visitors from across the northern Asef and beyond arrive for the games, fill the Northern and Western Camps, spend in the Magisters Bazaar around the clock, and provide the city's merchants and artisans with a concentrated seasonal revenue that sustains prosperity through the quieter months. The Telamon Family, whose holdings along the Toumis River predate the Sultanate's presence in the region, control significant farmland that feeds the city and remain the largest single private economic force in Ikara. <a href="Meana Telamon" class="internal-link">Meana Telamon</a>, the familys current head and the richest person in the city, sponsors the Skyrider Company of tournament athletes whose champion Umar Nasal was crowned Summer Race winner only a week ago. The <a href="The Alchemists Guild" class="internal-link">Gildia Alchemikow of Trazlov </a>maintains an outpost east of the Pens, a signal of Ikara's commercial reach far enough north to attract even that distant guild's commercial interest.</p>
 
 <h2>Districts</h2>
 
