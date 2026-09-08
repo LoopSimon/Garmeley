@@ -72,7 +72,7 @@
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
 	        <div class="timeline-item" data-date="1805BA">High Vendili political consolidation emerges</div>
 	        <div class="timeline-item" data-date="1790BA">Earliest Evidence for Vahri settlements along south-western Behera</div>
-            <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera</div>
+            <div class="timeline-item" data-date="1760BA">Jir unites the Tomb Cities of Behera, beginning of the modern Elven Calendar</div>
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1550BA"> End of the early cyracli Period, Begin of the Age of Cities in Cyraclion</div>
