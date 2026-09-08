@@ -2,6 +2,7 @@
 [[Mereskis]]
 [[Samyr]]
 [[Elven Dynasties]]
+[[Beheran]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Shira Jezanis</h4>
@@ -15,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Asefi <a href="Human" class="internal-link">Human</a></span>
+        <span><a href="Beheran" class="internal-link">Asefi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

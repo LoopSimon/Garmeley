@@ -1,9 +1,15 @@
+- 2026-09-08T1526 · Mikael Bivaldi
+- 2026-09-08T1526 · Adral Fidrakis
+- 2026-09-08T1524 · Complete Timeline
+- 2026-09-08T1523 · Glinsar
+- 2026-09-08T1339 · Hector Razzan
+- 2026-09-08T1337 · Jezanis
+- 2026-09-08T1336 · Asper Inrates
 - 2026-09-08T1332 · Ikara
 - 2026-09-08T1331 · Meana Telamon
 - 2026-09-08T1322 · Eremir
 - 2026-09-08T1322 · Beheran
 - 2026-09-08T1318 · Ilman Gorak
-- 2026-09-08T1040 · Complete Timeline
 - 2026-09-07T0642 · Dulakis
 - 2026-09-06T2034 · Eliza Tergov
 - 2026-09-06T2032 · Sergey Hirl
@@ -129,7 +135,6 @@
 - 2026-08-27T2334 · Orc
 - 2026-08-27T2333 · Il Haena
 - 2026-08-27T2249 · Kherovan Inquisition
-- 2026-08-27T2241 · Asper Inrates
 - 2026-08-27T2241 · Kaspar Vasser
 - 2026-08-27T2240 · Great Elbae Golomid War
 - 2026-08-27T1813 · Vazena
@@ -193,8 +198,3 @@
 - 2026-08-19T1513 · Goarism
 - 2026-08-19T1304 · Ruginë
 - 2026-08-19T1303 · Jateš
-- 2026-08-19T1259 · Luchun Khaganate
-- 2026-08-19T1258 · Zepria
-- 2026-08-19T0953 · Pixos
-- 2026-08-19T0907 · Zazir Brahmis
-- 2026-08-19T0242 · Taar

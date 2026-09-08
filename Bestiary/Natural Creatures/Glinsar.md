@@ -1,0 +1,11 @@
+%%
+[[Hubert of Tanverley]]
+[[Vihr]]
+%%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Glinsar.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>An adult male Glinsar</i></small>
+</div>
+<p>The Glinsar are feliform carnivoran mammals native to eastern ilrakhan and northern Beheran, primarily found in the wilds of Vihr, but also reported to have adapted to the southern climates of Grevenna, Kherova and even northern Behera. </p>
+<p>Their most striking characteristics are their massive extensive and prehensible tongue, their large throat sacks and their pale white, almost albino like skin, unable to grow any hair. The Glinsar hunt in packs and store food, their calloused feet are adapted for running and making quick and sharp turns with large, blunt and nonretractable claws.</p>
+<p>They are prominent in Vihri folklore, sometimes viewed as opposing the ancient Unicorns of the plains on a mythological scale between good and evil and associated with Witchcraft, with parts of their body being commonly used in traditional medicine. The Glinsar are able to tap into primal magic and their tongue can be extremely venomous. The Glinsar are mentioned in <a href="Hubert of Tanverley" class="internal-link">Hubert of Tanverleys</a> popular Bestiary series as part of his first and most successful volume concerning the lands of Vihr and Nostroya.</p>
+<p>Ras Zawis III, the last ruler of the zi Worocek Dynasty, the third royal line of <a href="Vihr" class="internal-link">Vihr</a>, held a pet Glinsar named Petro at his side and even conversed with him, thinking him domesticated. After a few months he unleashed the beast and welcomed it as his friend to dinner many of his courtiers warning the mentally unstable monarch of the creatures nature to no avail. It is said that by the entre the Ruler was laughing with Petro and by the main course Petro was feasting on the Ras himself, who never saw dessert. Thus a lone Glinsar ended one of the royal dynasties of the mightiest of the realms of men.</p>

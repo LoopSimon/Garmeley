@@ -2,6 +2,7 @@
 [[White Wars]]
 [[Old Tusul]]
 [[Tusul]]
+[[Beheran]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Asper Inrates</h4>
@@ -15,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Zipivi Human</span>
+        <span><a href="Beheran" class="internal-link">Zipivi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

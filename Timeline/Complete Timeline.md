@@ -468,7 +468,7 @@
             <div class="timeline-item" data-date="690PA">Hobgoblin Invasion of Urland begins, Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
              canonized as a Saint, Trazlov Guild of Alchemy is formed; Battle of Elpfield</div>
-            <div class="timeline-item" data-date="692PA">The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
+            <div class="timeline-item" data-date="692PA">Ras Zawis III is killed by his own pet Glinsar Petro, The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
             <div class="timeline-item" data-date="693PA">Battle of Foarley</div>
             <div class="timeline-item" data-date="694PA">Battle of Hadley, Siege of Dursan begins</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, begin of the early Yoroy Period; Fall of Dursan</div>

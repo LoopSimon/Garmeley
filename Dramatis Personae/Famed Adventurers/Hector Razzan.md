@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Beheran Human</span>
+        <span><a href="Beheran" class="internal-link">Asefi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
