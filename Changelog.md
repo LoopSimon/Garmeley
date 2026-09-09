@@ -1,3 +1,9 @@
+- 2026-09-09T2358 · Raxor
+- 2026-09-09T2352 · Rapodor
+- 2026-09-09T2350 · Owlbear
+- 2026-09-09T2347 · Lehad
+- 2026-09-09T2343 · Cormian
+- 2026-09-09T2150 · Eremir
 - 2026-09-08T2100 · Ikara
 - 2026-09-08T1731 · Karlaz the Razor
 - 2026-09-08T1652 · Complete Timeline
@@ -18,7 +24,6 @@
 - 2026-09-08T1337 · Jezanis
 - 2026-09-08T1336 · Asper Inrates
 - 2026-09-08T1331 · Meana Telamon
-- 2026-09-08T1322 · Eremir
 - 2026-09-08T1318 · Ilman Gorak
 - 2026-09-07T0642 · Dulakis
 - 2026-09-06T2034 · Eliza Tergov
@@ -193,8 +198,3 @@
 - 2026-08-20T2125 · Zervind II
 - 2026-08-20T0107 · Liandar
 - 2026-08-20T0102 · Twintail Imperium
-- 2026-08-20T0050 · Khulki
-- 2026-08-20T0038 · Miarat
-- 2026-08-20T0003 · Shirin
-- 2026-08-19T1637 · Homunculus
-- 2026-08-19T1634 · Zuhuri Holy Wars
