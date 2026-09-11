@@ -1,3 +1,6 @@
+- 2026-09-11T0627 · Astafir
+- 2026-09-11T0622 · Safir
+- 2026-09-10T1808 · Yari
 - 2026-09-09T2358 · Raxor
 - 2026-09-09T2352 · Rapodor
 - 2026-09-09T2350 · Owlbear
@@ -195,6 +198,3 @@
 - 2026-08-21T0006 · Gethric
 - 2026-08-21T0005 · Razmyr
 - 2026-08-21T0003 · Volboris
-- 2026-08-20T2125 · Zervind II
-- 2026-08-20T0107 · Liandar
-- 2026-08-20T0102 · Twintail Imperium

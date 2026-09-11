@@ -22,6 +22,7 @@ There are very few of them, likely under 30 in total, and they often take the sh
 </div>
 
 <h5>known Yari</h5>
+<p>Atul, the Creator</p>
 <p>Arishi, Queen of the Moon: she resides in the Hicui of Ir-Arishi</p>
 <p>Tizinpoc, Evermother</p>
 <p>Pra, the Songmaker</p>
@@ -31,3 +32,6 @@ There are very few of them, likely under 30 in total, and they often take the sh
 <p>Vomentesh, Father of Blood</p>
 <p>Caunet, the Faceless</p>
 <p>Pnurfezec, Mistwatcher: Absorbed and killed by the Yarimanji <a href="Hilcarax" class="internal-link">Hilcarax</a></p>
+<p>Nictor, the Slaying God</p>
+<p>Aletez, Bound-by-Time</p>
+<p>Oleithec, Hallowed One</p>
