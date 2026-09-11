@@ -26,20 +26,11 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Prava <a href="Safir" class="internal-link">Safir</a></span>
+        <span>Pravi <a href="Safir" class="internal-link">Safir</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
         <span>Pravi</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Racial Demographics</strong>
-        <span>
-            <a href="Safir" class="internal-link">Safir</a>, 
-            <a href="Human" class="internal-link">Human</a>,
-            <a href="Hatara" class="internal-link">Hatara</a>
-        </span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

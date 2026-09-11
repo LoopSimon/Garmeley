@@ -1,6 +1,15 @@
+- 2026-09-11T1713 · Oleimir
+- 2026-09-11T1712 · Zirom
+- 2026-09-11T1712 · Yar-Oleia
+- 2026-09-11T1711 · Tiazol
+- 2026-09-11T1710 · Qorol
+- 2026-09-11T1710 · Pravazik
+- 2026-09-11T1710 · Ensolos
+- 2026-09-11T1709 · Enrash
+- 2026-09-11T1709 · Ahrzin
+- 2026-09-11T1636 · Yari
 - 2026-09-11T0627 · Astafir
 - 2026-09-11T0622 · Safir
-- 2026-09-10T1808 · Yari
 - 2026-09-09T2358 · Raxor
 - 2026-09-09T2352 · Rapodor
 - 2026-09-09T2350 · Owlbear
@@ -189,12 +198,3 @@
 - 2026-08-21T1505 · Pieter van Dielen
 - 2026-08-21T1438 · Order of the Silver Wheel
 - 2026-08-21T1202 · Rulers of the Shirin
-- 2026-08-21T1201 · Natan VI
-- 2026-08-21T1159 · Kubil no Vang
-- 2026-08-21T0210 · Knights of the Unicorn
-- 2026-08-21T0205 · Luca
-- 2026-08-21T0203 · Palus
-- 2026-08-21T0152 · Tytus
-- 2026-08-21T0006 · Gethric
-- 2026-08-21T0005 · Razmyr
-- 2026-08-21T0003 · Volboris
