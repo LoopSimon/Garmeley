@@ -1,3 +1,4 @@
+- 2026-09-11T1714 · Tzalur
 - 2026-09-11T1713 · Oleimir
 - 2026-09-11T1712 · Zirom
 - 2026-09-11T1712 · Yar-Oleia
@@ -197,4 +198,3 @@
 - 2026-08-21T1523 · Rulers of the Meadi
 - 2026-08-21T1505 · Pieter van Dielen
 - 2026-08-21T1438 · Order of the Silver Wheel
-- 2026-08-21T1202 · Rulers of the Shirin
