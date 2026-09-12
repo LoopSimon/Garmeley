@@ -1,14 +1,16 @@
-- 2026-09-11T1714 · Tzalur
+- 2026-09-12T1407 · Zirom
+- 2026-09-12T1406 · Yar-Oleia
+- 2026-09-12T1406 · Tzalur
+- 2026-09-12T1405 · Tiazol
+- 2026-09-12T1405 · Qorol
+- 2026-09-12T1404 · Ensolos
+- 2026-09-12T1404 · Enrash
+- 2026-09-12T1403 · Ahrzin
+- 2026-09-12T1403 · Pravazik
+- 2026-09-12T1353 · Yari
+- 2026-09-12T0656 · Complete Timeline
+- 2026-09-12T0655 · Tageyo
 - 2026-09-11T1713 · Oleimir
-- 2026-09-11T1712 · Zirom
-- 2026-09-11T1712 · Yar-Oleia
-- 2026-09-11T1711 · Tiazol
-- 2026-09-11T1710 · Qorol
-- 2026-09-11T1710 · Pravazik
-- 2026-09-11T1710 · Ensolos
-- 2026-09-11T1709 · Enrash
-- 2026-09-11T1709 · Ahrzin
-- 2026-09-11T1636 · Yari
 - 2026-09-11T0627 · Astafir
 - 2026-09-11T0622 · Safir
 - 2026-09-09T2358 · Raxor
@@ -19,7 +21,6 @@
 - 2026-09-09T2150 · Eremir
 - 2026-09-08T2100 · Ikara
 - 2026-09-08T1731 · Karlaz the Razor
-- 2026-09-08T1652 · Complete Timeline
 - 2026-09-08T1643 · Sirmon Rezan
 - 2026-09-08T1612 · Beheran
 - 2026-09-08T1557 · Mereskis
@@ -197,4 +198,3 @@
 - 2026-08-21T2358 · Rulers of Vihr
 - 2026-08-21T1523 · Rulers of the Meadi
 - 2026-08-21T1505 · Pieter van Dielen
-- 2026-08-21T1438 · Order of the Silver Wheel

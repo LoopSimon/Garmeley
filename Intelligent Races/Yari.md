@@ -1,4 +1,4 @@
-Ol%%
+%%
 [[Pravazik]] [[Behera]] [[Spiritual Realm]] [[Material Realm]] [[Yokosch]] [[Hilcarax]] [[Yari Cults]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Yarimaru.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
@@ -35,3 +35,5 @@ There are very few of them, likely under 30 in total, and they often take the sh
 <p>Nictor, the Slaying God</p>
 <p>Aletez, Bound-by-Time</p>
 <p>Oleithec, Hallowed One</p>
+
+<p>Telecor, God of Stories</p>

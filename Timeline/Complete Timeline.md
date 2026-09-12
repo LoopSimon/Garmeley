@@ -17,6 +17,7 @@
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
+		    <div class="timeline-item" data-date="16000BA">Creation of the Tageyo Field</div>
 	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
 	        <div class="timeline-item" data-date="14500BA">Zamiili Event, areas around the northern pole experience rapid cooling, while the southern hemisphere experiences warming</div>
 	        <div class="timeline-item" data-date="14450BA">Zamiili Event, The period of temperature change ends rapidly, with dramatic warming over five decades, the impact crater at Sirenna known as the Giolad is dated to this period</div>
@@ -62,7 +63,6 @@
 	        <div class="timeline-item" data-date="2150BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
-	        <div class="timeline-item" data-date="2000BA">Creation of the Tageyo Field</div>
 	        <div class="timeline-item" data-date="1990BA">Likely Foundation of Lorqis</div>
 	        <div class="timeline-item" data-date="1980BA">Shirin settle the Mondi Delta</div>
 	        <div class="timeline-item" data-date="1975BA">The early izian civilization rises around the River Iza in modern day Hainach, walled settlements form</div>

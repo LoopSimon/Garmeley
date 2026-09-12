@@ -17,12 +17,12 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span></span>
+        <span>Rune of Telecor upon Mount Qorol</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Pravazik Pantheon" class="internal-link">Pravazik Pantheon</a>
+        <span>Telecor Worship</span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -37,5 +37,6 @@
         <strong>Preceded by</strong>
         <span>N/A</span>
     </div>
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Qorol_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
     
 </div>
