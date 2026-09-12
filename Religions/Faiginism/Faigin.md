@@ -6,6 +6,9 @@
 [[Levelix]]
 [[Richelet]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Faigin.webp" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Faigin, the benevolent Mother</i></small>
+</div>
 <p>The Faigin Faith believes in the benevolent Mother Faigain who is believed to have created all life as she bled out during the birth of the world.
 Her two children Gespar and Bilia, often referred to as the Star Children, wander the land and seas of the globe, protecting their mothers grand work.
 The religion is organized within the Faigin Church.</p>

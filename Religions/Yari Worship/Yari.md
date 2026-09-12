@@ -33,7 +33,7 @@ There are very few of them, likely under 30 in total, and they often take the sh
 <p>Caunet, the Faceless</p>
 <p>Pnurfezec, Mistwatcher: Absorbed and killed by the Yarimanji <a href="Hilcarax" class="internal-link">Hilcarax</a></p>
 <p>Nictor, the Slaying God</p>
-<p>Aletez, Bound-by-Time</p>
+<p>Jiletez, Bound-by-Time</p>
 <p>Oleithec, Hallowed One</p>
 
 <p>Telecor, God of Stories</p>

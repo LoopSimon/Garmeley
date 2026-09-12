@@ -8,7 +8,7 @@
 	        <div class="timeline-item" data-date="300000BA">Likely evolution of the modern human in southern Behera</div>
 	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
 	        <div class="timeline-item" data-date="130000BA">Oldest evidence of ancient seafaring from the island of Sarash</div>
-	        <div class="timeline-item" data-date="120000BA">Age of Ash</div>
+	        <div class="timeline-item" data-date="120000BA">Era of Ash</div>
 	        <div class="timeline-item" data-date="110000BA">Astafir develop sentience</div>
 	        <div class="timeline-item" data-date="100000BA">Earliest evidence for upright Bihra in southern Nirydia</div>
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>

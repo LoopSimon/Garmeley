@@ -1,5 +1,25 @@
+- 2026-09-12T1631 · Gianor
+- 2026-09-12T1623 · Arishi
+- 2026-09-12T1617 · Safir
+- 2026-09-12T1617 · Atul
+- 2026-09-12T1616 · Telecor
+- 2026-09-12T1615 · Pra
+- 2026-09-12T1615 · Oleithec
+- 2026-09-12T1615 · Nictor
+- 2026-09-12T1615 · Jiletez
+- 2026-09-12T1614 · Caunet
+- 2026-09-12T1613 · Aleac
+- 2026-09-12T1543 · Vomentesh
+- 2026-09-12T1542 · Faigin
+- 2026-09-12T1540 · Pnurzefec
+- 2026-09-12T1540 · Ihisa
+- 2026-09-12T1540 · Tizinpoc
+- 2026-09-12T1535 · Yar-Oleia
+- 2026-09-12T1534 · Cult of Ihisa
+- 2026-09-12T1534 · Yari
+- 2026-09-12T1528 · Pravazik Pantheon
+- 2026-09-12T1426 · Complete Timeline
 - 2026-09-12T1407 · Zirom
-- 2026-09-12T1406 · Yar-Oleia
 - 2026-09-12T1406 · Tzalur
 - 2026-09-12T1405 · Tiazol
 - 2026-09-12T1405 · Qorol
@@ -7,12 +27,8 @@
 - 2026-09-12T1404 · Enrash
 - 2026-09-12T1403 · Ahrzin
 - 2026-09-12T1403 · Pravazik
-- 2026-09-12T1353 · Yari
-- 2026-09-12T0656 · Complete Timeline
 - 2026-09-12T0655 · Tageyo
-- 2026-09-11T1713 · Oleimir
 - 2026-09-11T0627 · Astafir
-- 2026-09-11T0622 · Safir
 - 2026-09-09T2358 · Raxor
 - 2026-09-09T2352 · Rapodor
 - 2026-09-09T2350 · Owlbear
@@ -182,19 +198,3 @@
 - 2026-08-23T1844 · Merzigal
 - 2026-08-23T1844 · Ahrmiz Saceren
 - 2026-08-23T1842 · Zurán Barbeshvili
-- 2026-08-23T1726 · Meadrath
-- 2026-08-23T0704 · The Tragedy of the Dobrys
-- 2026-08-23T0552 · Meadi Othiri War
-- 2026-08-23T0551 · Rivalt du Chian
-- 2026-08-23T0421 · War of Trout and Drake
-- 2026-08-23T0333 · Lissvalley
-- 2026-08-23T0333 · Cimfon
-- 2026-08-23T0306 · Knights of the Green Tree
-- 2026-08-22T2235 · Beryl Lenkov
-- 2026-08-22T2234 · Ayerlan
-- 2026-08-22T2229 · Theresa Salbridge
-- 2026-08-22T2222 · Zavro Firelle
-- 2026-08-22T0053 · War of Horn and Fang
-- 2026-08-21T2358 · Rulers of Vihr
-- 2026-08-21T1523 · Rulers of the Meadi
-- 2026-08-21T1505 · Pieter van Dielen

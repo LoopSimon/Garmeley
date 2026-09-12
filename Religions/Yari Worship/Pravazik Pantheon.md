@@ -1,14 +1,10 @@
-
-The [[Yari]] members of this Pantheon are often theorised to be of [[Protean]] Nature or Origin, although there is no direct evidence outside of comparative observation.
-
-In the Lands of the Smaragd Sea, the Moon deity Arishi is the greatest divine being, believed to be more powerful than the sun, as the moon appeared by night and day.
-She is notably exclusively associated with [[Luna Major]].
-Arishi is believed to control the weather and growth of crops, devotees sacrifice animals, birds and sentient creatures to the Moon god, in extreme cases even their own children whom they believed would become deified.
-
-The Lesser deities of the Yari include Ihisa the Forest, Gianor the Sun and Aleac the Sea.
-The Naga of southern Behera are believed to be the cursed children of Aleac, found unworthy to worship Arishi.
-
-The Yari Faith is practiced in local shrines, that vary in importance called Hicui, who can be found along the Jungles of Behera, usually built around a sacred place or object of worship with an associated legend and Cult.
-
-The three Greatest Shrines are those to Ihisa in Yokosch, Aleac in Niztapur and Arishi in the holy City of Yar-Arishi.
-
+%%
+[[Pravazik]]
+[[Yari]]
+%%
+<p>The Pantheon of Pravazik is the state religion of <a href="Pravazik" class="internal-link">the Empire of the same name</a> and its Dominions. An Imperial Cult that worships three of the demigods of Behera, the <a href="Yari" class="internal-link">Yari</a>, above all others.</p>
+<p>The Great Yari of the Pantheon are Arishi, Gianor and Pra, with Arishi taking up a premier position even amongst them, being hailed as the Queen of the Moon herself. The Capital of the Empire, Yar-Arishi, is build beneath the great shrine where the Yari herself resides within and the royal line of Empresses of Pravazik are ordained as such by partaking in the Ichor of the Yari.</p>
+<p>The hicui of Pra in Pra-Miz and the hicui of Gianor in Tzikun complete the trinity of these so called "Great Three" who are the patrons of the Empire, having declared themselves the ultimate guides and rulers of the entire world, with those Safir that serve them as their ordained children. All three of the Hicui of the Great Three are part of the Tageyo network and bolster the Field of suppression around them, with Tageyo island itself being within the borders of the Pantheon and forbidden to visit. </p>
+<p>The elevation of the Great Three above the other Yari is one aspect of the Imperial Cult, another being the clear caste system that divides the Safir by the subcultural denomination, shuns interbreeding and gives all of the four major colour groups a role within the hierarchy, ordering the Safir from Pravi to Zoroi, to Irud and lastly to Vekti reinforcing racist and old sentiments between the individual colours. The so called "Decree of the Moon", issued by Arishi herself in a rare instance, declares all those Safir born with albino white skin, known as the Kash, as ill begotten and unnatural bringers of doom, to be killed and never be named.</p>
+<p>The creation of Ginru is practiced within the Empire, and the most powerful and loyal servants of the imperial seat partake in the ichor of the Great Three becoming sage diviners, powerful champions and observant inquisitors of their walking gods.</p>
+<p>Other Yaris existence is acknowledged as such by the Cult but not only is their power and importance diminished in favour of Arishi, Gianor and Pra, but they are viewed as corrupt and black shepherds, reclusive fools and tragic relics at best, not worthy of worship and in some cases opposing the benevolent will of the Great Three.</p>

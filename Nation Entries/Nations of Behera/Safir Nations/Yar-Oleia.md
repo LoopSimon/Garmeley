@@ -1,6 +1,6 @@
 %%
 [[Safir]]
-[[Oleimir]]
+[[Oleithec]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"></h4>
@@ -23,7 +23,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Oleimir" class="internal-link">Oleimir</a>
+        <a href="Oleithec" class="internal-link">Cult of Oleithec</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
