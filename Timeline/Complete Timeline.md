@@ -60,7 +60,8 @@
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
 	        <div class="timeline-item" data-date="2200BA">Earliest evidence for the city of Parkymin</div>
 	        <div class="timeline-item" data-date="2150BA">Elves dominate the lands of the Az-Jir River</div>
-	        <div class="timeline-item" data-date="2150BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
+	        <div class="timeline-item" data-date="2140BA">Safiri cities around the northern Smaragd Sea unite under the teachings of Telecor in the Diacor Union</div>
+	        <div class="timeline-item" data-date="2130BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
 	        <div class="timeline-item" data-date="2100BA">Toggling Harpoons are invented in the Ukiollan Aeld</div>
 	        <div class="timeline-item" data-date="2002BA">Proto-Gupter Civilization emerges</div>
 	        <div class="timeline-item" data-date="1990BA">Likely Foundation of Lorqis</div>
@@ -77,6 +78,7 @@
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1550BA"> End of the early cyracli Period, Begin of the Age of Cities in Cyraclion</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
+            <div class="timeline-item" data-date="1430BA">Zalo emerges in southern Behera and forms the Great Dominion</div>
             <div class="timeline-item" data-date="1350BA">First recorded intentional channeling on the Haira Tablets in Palmunia</div>
             <div class="timeline-item" data-date="1300BA">Approximate emergence of the Vokti Gnomes</div>
             <div class="timeline-item" data-date="1285BA">Tale of Aras venture into Cyraclion</div>
@@ -105,6 +107,7 @@
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
+            <div class="timeline-item" data-date="845BA">The Diacor Union is declared as the Empire of Diacor under Zenzetan VI</div>
             <div class="timeline-item" data-date="780BA">First Records of the Walled City of Ikara</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
@@ -288,6 +291,7 @@
             <div class="timeline-item" data-date="308PA">Banishment of the Four</div>
             <div class="timeline-item" data-date="312PA">Council of the Old Moon, Baqamon unites almost all the tribes in a defensive alliance</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
+            <div class="timeline-item" data-date="316PA">Nictor the Slayer defeats Zalo in Personal Combat and absorbs her powers, the Zalo Dominion collapses</div>
             <div class="timeline-item" data-date="320PA">Urien Conquest of Kerleas begins</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="323PA">The Alliance of the Old Moon grows</div>
@@ -340,6 +344,7 @@
             <div class="timeline-item" data-date="457PA">Destruction of Qa, end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="458PA">First Kethirc Conclave at Opzuna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
+            <div class="timeline-item" data-date="470PA">Empire of Pravazik is formed around the Bay of Arishi on the ruins of the Great Rite of Pra and the Diacor Empire</div>
             <div class="timeline-item" data-date="471PA">Second Kethric Conclave at Volazc, Kherova declares independence from Iztaw, Archbishop Adzul becomes Patriarch Adzul I, Kethric Schism</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
@@ -467,7 +472,7 @@
             <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
             <div class="timeline-item" data-date="690PA">Hobgoblin Invasion of Urland begins, Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
-             canonized as a Saint, Trazlov Guild of Alchemy is formed; Battle of Elpfield</div>
+             canonized as a Saint, Trazlov Guild of Alchemy is formed; Battle of Elpfield; Yokosch wins independence from Pravazik</div>
             <div class="timeline-item" data-date="692PA">Ras Zawis III is killed by his own pet Glinsar Petro, The Great Assembly elects Miskomir II of House Ralpia as King of Vihr, Gallfever breaks out in Cevolia</div>
             <div class="timeline-item" data-date="693PA">Battle of Foarley</div>
             <div class="timeline-item" data-date="694PA">Battle of Hadley, Siege of Dursan begins</div>
