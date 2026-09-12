@@ -1,23 +1,24 @@
+- 2026-09-12T1803 · Pnurzefec
+- 2026-09-12T1724 · Pravazik Pantheon
+- 2026-09-12T1721 · Tasch
+- 2026-09-12T1720 · Oleithec
 - 2026-09-12T1715 · Pra
 - 2026-09-12T1631 · Gianor
 - 2026-09-12T1623 · Arishi
 - 2026-09-12T1617 · Safir
 - 2026-09-12T1617 · Atul
 - 2026-09-12T1616 · Telecor
-- 2026-09-12T1615 · Oleithec
 - 2026-09-12T1615 · Nictor
 - 2026-09-12T1615 · Jiletez
 - 2026-09-12T1614 · Caunet
 - 2026-09-12T1613 · Aleac
 - 2026-09-12T1543 · Vomentesh
 - 2026-09-12T1542 · Faigin
-- 2026-09-12T1540 · Pnurzefec
 - 2026-09-12T1540 · Ihisa
 - 2026-09-12T1540 · Tizinpoc
 - 2026-09-12T1535 · Yar-Oleia
 - 2026-09-12T1534 · Cult of Ihisa
 - 2026-09-12T1534 · Yari
-- 2026-09-12T1528 · Pravazik Pantheon
 - 2026-09-12T1426 · Complete Timeline
 - 2026-09-12T1407 · Zirom
 - 2026-09-12T1406 · Tzalur
@@ -197,4 +198,3 @@
 - 2026-08-23T2022 · Lakalism
 - 2026-08-23T1844 · Merzigal
 - 2026-08-23T1844 · Ahrmiz Saceren
-- 2026-08-23T1842 · Zurán Barbeshvili

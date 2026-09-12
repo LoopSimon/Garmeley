@@ -22,7 +22,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Tasch Bloodcult</span>
+        <span>Tasch <a href="Oleithec" class="internal-link">Cult of Oleithec</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
