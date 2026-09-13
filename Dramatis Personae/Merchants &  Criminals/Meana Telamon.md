@@ -6,7 +6,7 @@
     <h4 class="wiki-header">Meana Tofir Telamon</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Head of the Telmon</span>
+        <span>Head of the Telamon</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
