@@ -99,6 +99,7 @@
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="1050BA">The Palmunian Hero Saga "The Legend of Telipir" is written</div>
             <div class="timeline-item" data-date="1040BA">Approximate creation of surface cities outside Ximsalim-Vokt</div>
+            <div class="timeline-item" data-date="1030BA">The Yari Focozal is killed and absorbed by a mortal, creating the first Yarimanji</div>
             <div class="timeline-item" data-date="1021BA">The City Walls of Aleikos are built by the pilreani traders of Pilvis</div>
             <div class="timeline-item" data-date="1004BA">First Mention of Spurshey swamp settlements in Danbry from Vahri records </div>
             <div class="timeline-item" data-date="1000BA">The Lands of Ur are dominated by what would later become the tribes of Garm, Gim, Turv, Urna and Ares</div>
