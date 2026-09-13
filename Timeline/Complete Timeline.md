@@ -17,6 +17,7 @@
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
+		    <div class="timeline-item" data-date="16100BA">The Primal War between Yari and the Others breaks out in Behera</div>
 		    <div class="timeline-item" data-date="16000BA">Creation of the Tageyo Field</div>
 	        <div class="timeline-item" data-date="15000BA">Earliest known use of pottery in modern day Grevenna </div>
 	        <div class="timeline-item" data-date="14500BA">Zamiili Event, areas around the northern pole experience rapid cooling, while the southern hemisphere experiences warming</div>
