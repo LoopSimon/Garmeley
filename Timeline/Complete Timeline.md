@@ -239,10 +239,12 @@
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
+            <div class="timeline-item" data-date="119PA">Sarloni Migration south, Invasion of western Kherova</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
             <div class="timeline-item" data-date="121PA">The Dirhan is established as the Highest Council within the Sultanate</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
+            <div class="timeline-item" data-date="133PA">Sarloni Migration ends, sack of Yevaryn, Rascy zi Leok is established south of the Ravenleaf</div>
             <div class="timeline-item" data-date="135PA">Geol undergoes a political shift, becomes a republic</div>
             <div class="timeline-item" data-date="141PA">The Upper Leveli form the Vocas a Amurez around Lake Murez</div>
             <div class="timeline-item" data-date="148PA">Barali Invasion of Drizan, Mogyri Shogunate takes power</div>
@@ -334,8 +336,9 @@
             <div class="timeline-item" data-date="427PA">Following nearly 3 decades of death, the Empire of Vanpur collapses under the plague, splintering into numerous island kingdoms and city states</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="429PA">Ardol V "the Blessed" von Gismar becomes the first Gethric born King of Korsfall, augurism and turvik paganism are dwindling as Gethricism is now the predominant religion in Meadland</div>
-            <div class="timeline-item" data-date="432PA">1st Great Underwar begins</div>
-            <div class="timeline-item" data-date="432PA">End of the Kingdom of Les</div>
+            <div class="timeline-item" data-date="430PA">1st Vihri-Leoki War breaks out</div>
+            <div class="timeline-item" data-date="432PA">1st Great Underwar begins, End of the Kingdom of Les</div>
+            <div class="timeline-item" data-date="434PA">1st Vihri-Leoki War ends in Leoki defeat, Conquest of Volazc</div>
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishment of Nuv Werm</div>
             <div class="timeline-item" data-date="445PA">The Church of Faigin is officially created from the Motherly Priesthood in Richelet</div>
@@ -344,7 +347,7 @@
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, end of Qahori Subjugation</div>
-            <div class="timeline-item" data-date="458PA">First Kethirc Conclave at Opzuna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
+            <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opzuna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
             <div class="timeline-item" data-date="470PA">Empire of Pravazik is formed around the Bay of Arishi on the ruins of the Great Rite of Pra and the Diacor Empire</div>
             <div class="timeline-item" data-date="471PA">Second Kethric Conclave at Volazc, Kherova declares independence from Iztaw, Archbishop Adzul becomes Patriarch Adzul I, Kethric Schism</div>
@@ -380,8 +383,7 @@
             <div class="timeline-item" data-date="526PA">Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
-            <div class="timeline-item" data-date="536PA">Wermian Accords</div>
-            <div class="timeline-item" data-date="536PA">Khan Luchun rises in Nirydia</div>
+            <div class="timeline-item" data-date="536PA">Wermian Accords, Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="543PA">Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins</div>
             <div class="timeline-item" data-date="544PA">Urland conquers lands east of Lake Dim from Garmeley in the War of the Lake</div>
@@ -427,10 +429,12 @@
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
             <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh"</div>
+            <div class="timeline-item" data-date="619PA">2nd Vihri-Leoki War breaks out</div>
             <div class="timeline-item" data-date="620PA">First Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean, end of the Kingdom of Rean</div>
             <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends, Dorian founds the Shields of Summer Chapter within the Knights of the Gryphon </div>
+            <div class="timeline-item" data-date="625PA">2nd Vihri-Leoki War ends, Rascy zi Dalniz is formed, end of the Rascy zi Leok</div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”, 
             Natan XXI "Illseed" dies without a clear successor, the Silent War begins in the Imperial Palace</div>
