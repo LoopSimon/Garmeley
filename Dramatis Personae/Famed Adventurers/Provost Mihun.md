@@ -42,7 +42,7 @@
     </div>
     
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/RamKnight.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/RamKnight1.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>Provost Mihun, better known as "the Ram" is the exiled Count of Retsky and formerly part of the highest ranks of the Dalnizi Nobility. In 918, the then acting Count of the important trade city of Retsky was discovered to be a major facilitator in the Sarloni Drug trade, flowing from Nirydia and southern Behera into Vihr and greater Ilrakhan, as well as having ordered the murder of multiple noble and common born men to protect his business, he was brought in connection with the infamous Criminal <a href="Marosz Kirelli" class="internal-link">Marosz Kirelli</a> , who had apparently been bankrolling Provost after he fell on hard times, in exchange for his good name and connections within the Dalzini establishment and beyond. </p>

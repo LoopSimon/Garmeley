@@ -1,6 +1,8 @@
+- 2026-09-14T1417 · Ikara
+- 2026-09-14T1414 · Kessim Miximur
+- 2026-09-14T1402 · Provost Mihun
 - 2026-09-14T1400 · Melara
 - 2026-09-14T1400 · Turvik Paganism
-- 2026-09-14T1357 · Provost Mihun
 - 2026-09-13T1503 · Dalniz
 - 2026-09-13T1450 · Leok
 - 2026-09-13T1442 · Complete Timeline
@@ -56,7 +58,6 @@
 - 2026-09-09T2347 · Lehad
 - 2026-09-09T2343 · Cormian
 - 2026-09-09T2150 · Eremir
-- 2026-09-08T2100 · Ikara
 - 2026-09-08T1731 · Karlaz the Razor
 - 2026-09-08T1643 · Sirmon Rezan
 - 2026-09-08T1612 · Beheran
@@ -197,4 +198,3 @@
 - 2026-08-27T2333 · Il Haena
 - 2026-08-27T2249 · Kherovan Inquisition
 - 2026-08-27T2241 · Kaspar Vasser
-- 2026-08-27T2240 · Great Elbae Golomid War
