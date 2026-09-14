@@ -20,4 +20,6 @@ Dielsa, God of the Hunt and the Woods
 
 Heagur, God of Wisdom and Death
 
-Ollku, God of the Rivers and Seas
+Ollku, God of the Seas
+
+Mera, God of the Rivers
