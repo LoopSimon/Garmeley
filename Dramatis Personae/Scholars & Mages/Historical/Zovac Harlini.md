@@ -7,6 +7,7 @@
 [[Vihri]]
 [[Weaving]]
 [[Jevana]]
+[[Harlinis Theorem]]
 [[Wars of Elbae Aggression]]
 %%
 <div class="wiki-infobox">
@@ -53,4 +54,5 @@
 
 </div>
 <p>Zovac "Marblehand" Harlini, usually referred to as just Harlini, was one of the most important researchers into the connection of the spiritual realm, dulmic gates and the forces governing the transition between both, as well as essentially founding the science of Realmatic Theory itself, he is often referred to as the Father of Realmatic Theory. Harlini, was a politically influential member of the Court of Vihr and would serve multiple monarchs at Zavlech as Kar-Zavr before publicly disavowing the Gethric Pogroms of elves and leaving the court and politics behind to become the Archmage of Edessa. Two of the most important students Harlini taught were Jevana of Liston, who would make monumental strides in the discovery of the Leyprism and the Mirai herself, the elven progidy Carassa al-Kael. </p>
+<p>The Discovery of Harlinic Space, the specification of the so called "harlinic forces" that govern it, and his ultimate considerations in the so called <a href="Harlinis Theorem" class="internal-link">"Harlinis Theorem"</a>, have earned him a place among the greatest scholars to ever live. His final work before his disappearance, the "Treatise on the Fabric of Reality", included various obscure theorems and considerations on the creation of reality itself and is lauded by his followers as the first step to a post-romantic view on universal modelling.</p>
 <p>Harlini was born the firstborn son and heir to the Gri of Direszk, a title he would later hold himself before renouncing it in 763PA following his departure from <a href="Vihr" class="internal-link">vihri</a> politics. Hailed a genius at the Szievek University for Natural Sciences he was called to serve as an advisor to the ruling Ras, Jasper IV, in 753PA at the age of only 25. At 29 he inherited the position of Kar-Zavr and instituted the Royal Aptitude Census, shortened to R.A.C. that is still conducted once every two years by the office of Kar-Zavr to this date. Under the rule of Jaspers heir, Ras <a href="Rulers of Vihr" class="internal-link">Miskomir III "the Black"</a>, the consequence of the ongoing wars with the elbae sultanate to the south would escalate further and further and the Ras began implementing racist policies and propaganda at first, and eventually decided to outlaw "Elvenkind" itself in 763PA leading to the infamous Gethric Pogroms that were nothing short of government & church mandated mass murder in the eyes of Harlini. He would officially retire from politics renouncing the killings and move to the southern Tower of Edessa where his years of realmatic research and tutelage began.</p>

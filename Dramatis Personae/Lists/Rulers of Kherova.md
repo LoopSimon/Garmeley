@@ -30,7 +30,7 @@
 <p>Arsen of Kher, 224PA - 243PA</p>
 <p>Giorat of Kher, 243PA - 262PA</p>
 
-*Oversaw the negotiations that produced the Day of Brothers in 262PA, formally uniting the city states under the Khatrym. His son was crowned as Tiblin II, the first formal Khat, taking the dynastic name in honour of the great ancestor.*
+*Oversaw the negotiations that would lead to the Day of Brothers in 262PA, formally uniting the city states under the Khatrym. His son was crowned as Tiblin II, the first formal Khat, taking the dynastic name in honour of the great ancestor.*
 
 <h5>Khari Dynasty (Post-Unification)</h5>
 <p>Tiblin II "the Unifier", 262PA - 284PA</p>

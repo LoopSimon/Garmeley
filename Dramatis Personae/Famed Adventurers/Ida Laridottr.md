@@ -1,5 +1,6 @@
 %%
-[[Juelfluk]]
+[[Bykmåli]]
+[[Alma Laridottr]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Ida Laridottr</h4>
@@ -32,3 +33,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ida.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Ida Laridottr is the elder of the two daughters of Lari the White, and a legendary Ranger from eastern Trykkerog, together with her sister <a href="Alma Laridottr" class="internal-link">Alma</a>  she  slew the White Death, a demonic monster that haunted the lands and destroyed the fortress of Norgud Point. Alma ventured south in the following years and has been lost to the histories as of now, her sister Ida has crossed the Torn Sea and is searching for her ever since.</p>

@@ -20,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>781, Kulum</span>
+        <span>781PA, Kulum</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

@@ -21,11 +21,11 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>636, <a href="Mitimgar" class="internal-link">Mitimgar Dirgae Quarters</a></span>
+        <span>636PA, <a href="Mitimgar" class="internal-link">Mitimgar Dirgae Quarters</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>700, Hobgiliath</span>
+        <span>700PA, Hobgiliath</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>

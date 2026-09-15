@@ -396,6 +396,7 @@
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="572PA">End of the Leveli Civil War, Foundation of Richelet</div>
+            <div class="timeline-item" data-date="576PA">The Hessefi Daemonologist Visham is assassinated on Ziflis Island</div>
             <div class="timeline-item" data-date="577PA">End of the Geoli Republic, The Conclave of 577 canonises Palus Aergestes</div>
             
         </div>
@@ -596,6 +597,7 @@
              <div class="timeline-item" data-date="854PA">"Dance of Husks" in southern Vihr and most dominantly affects Garmeley, central and southern Ur and the lands around the Stormy Sea, slowly reaches Cevolia but doesn't seem to be as effective in the northern lands.</div>
             <div class="timeline-item" data-date="855PA">Battle of Orsfurt, Death King Arngil II von Kor and accession of Gilmar I, "Dance of Husks" ravages Cevolia and reaches Sertova </div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
+            <div class="timeline-item" data-date="858PA">The Dwarf Bazur becomes the final Bearer of the Seal of Ran</div>
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan, after many deaths in cevolia and Sertova, the "Dance of Husks" perishes</div>
 	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat, Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>

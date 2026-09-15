@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>670, Trilom</span>
+        <span>670PA, Trilom</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

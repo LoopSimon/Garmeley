@@ -16,17 +16,22 @@ Her Domains are Air, Fire, Chaos and Liberation and her favoured weapon is the W
 
 Ogul-Makar, All Knowing
 <p>The God of <a href="Ogul-Vosko" class="internal-link">Ogul-Vosko</a>, associated with granite.
-His Domains are Knowledge, Protection, Death, Repose and Earth and his favoured weapon is the heavy mace.</p>
+His Domains are Knowledge, Protection and Earth and his favoured weapon is the heavy mace.</p>
 
 Karavdan, Life Breathing
-<p>The God of <a href="Xer-Kol" class="internal-link">Xer-Kol</a>, associated with limestone.
-His Domains are Healing, Plant, Strength, War and Good and his favoured weapon is the Warhammer.</p>
+<p>The God of <a href="Avdan-Kol" class="internal-link">Avdan-Kol</a>, associated with limestone.
+His Domains are Healing, Plant, Strength, War and Good and his favoured weapon is the Glaive.</p>
 Axo-For, Spell Weaving
 <p>Lost God of the Fogor-Kol, now the <a href="Cult of the Darksun" class="internal-link">Dark Sun</a> of <a href="Fogorix" class="internal-link">Fogorix</a> associated with corundum.
 His Domains are Magic, Darkness, Sun and Void and his favoured weapon is the Manople.</p>
 Untizin, Law Giving
 <p>The God of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, associated with gneiss.
-Her Domains are Law, Nobiliy, Rune and Community and her favoured weapon is the Glaive.</p>
+Her Domains are Law, Nobiliy and Community and her favoured weapon is the Greatspear.</p>
+
+Ran, Grave Singing
+<p>The God of the forgotten hold, associated with Malachite.
+His Domains are Death, Runes and Repose and his favoured weapon is the Warhammer.</p>
+
 Zul-Subra, Mind Speaking
 <p>The God of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a>, associated with slate. The citizens of Sulbra-Kol have largely converted to a form of kalbin <a href="Panrity" class="internal-link">Panrity</a> combining classical worship of the Terem Zal with kalbin ideals.
 Her Domains are Water, Trickery, Travel and Weather and her favoured weapon is the heavy Pick.</p>
