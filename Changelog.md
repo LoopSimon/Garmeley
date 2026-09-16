@@ -1,8 +1,16 @@
+- 2026-09-16T1118 · Onar Despotate
+- 2026-09-16T1100 · Golomid
+- 2026-09-16T0933 · The 927 Falcons Flight
+- 2026-09-16T0900 · Onar
+- 2026-09-16T0850 · Onari Empire
+- 2026-09-16T0848 · Complete Timeline
+- 2026-09-16T0845 · Cities of Dreams
+- 2026-09-16T0832 · Krestasi
+- 2026-09-16T0721 · Risen Reef
 - 2026-09-15T1840 · Ida Laridottr
 - 2026-09-15T1840 · Alma Laridottr
 - 2026-09-15T1825 · Lario
 - 2026-09-15T1823 · Bazur
-- 2026-09-15T1007 · Complete Timeline
 - 2026-09-15T0958 · Terem-Zal
 - 2026-09-15T0733 · Farkiz II
 - 2026-09-15T0710 · Ahrmiz Saceren
@@ -190,11 +198,3 @@
 - 2026-08-29T1420 · First War of Elbae Aggression
 - 2026-08-29T0325 · Wars of Elbae Aggression
 - 2026-08-29T0325 · Third War of Elbae Aggression
-- 2026-08-29T0124 · Second War of Elbae Aggression
-- 2026-08-28T1911 · Hainach
-- 2026-08-28T1911 · Vihr
-- 2026-08-28T1903 · Grevenna
-- 2026-08-28T1441 · Qahori
-- 2026-08-28T1438 · Qarzi
-- 2026-08-28T1431 · Wars of Qahori Subjugation
-- 2026-08-28T1315 · Qalmyr

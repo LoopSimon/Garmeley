@@ -55,6 +55,7 @@
 	        <div class="timeline-item" data-date="2550BA">Empire of the Horad dominates northern Behera</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
+	        <div class="timeline-item" data-date="2390BA">Onar the Voice becomes the first Emperor of the Pry Krestasi</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River, the first Tomb City of Drow and High Elf </div>
 	        <div class="timeline-item" data-date="2350BA">Earliest evidence for the city of Palmunis</div>
 	        <div class="timeline-item" data-date="2300BA">Horad Empire and its successors are fully destroyed</div>
@@ -106,6 +107,7 @@
             <div class="timeline-item" data-date="1000BA">The Lands of Ur are dominated by what would later become the tribes of Garm, Gim, Turv, Urna and Ares</div>
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="970BA">Likely Formation of Tasch in the Merek</div>
+            <div class="timeline-item" data-date="950BA">Pacci Krestasi create the Pact of Dreams on the Floor of the Tirean Ocean</div>
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
@@ -331,8 +333,10 @@
             <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil, Shiring-Xungin Wars end</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants</div>
             <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin</div>
+            <div class="timeline-item" data-date="414PA">Fall of the Onari Empire</div>
             <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
+            <div class="timeline-item" data-date="423PA">Despot Hargio takes leadership of the beheri ocean Krestasi after the fall of the Onari Empire</div>
             <div class="timeline-item" data-date="427PA">Following nearly 3 decades of death, the Empire of Vanpur collapses under the plague, splintering into numerous island kingdoms and city states</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
             <div class="timeline-item" data-date="429PA">Ardol V "the Blessed" von Gismar becomes the first Gethric born King of Korsfall, augurism and turvik paganism are dwindling as Gethricism is now the predominant religion in Meadland</div>
@@ -597,18 +601,21 @@
              <div class="timeline-item" data-date="854PA">"Dance of Husks" in southern Vihr and most dominantly affects Garmeley, central and southern Ur and the lands around the Stormy Sea, slowly reaches Cevolia but doesn't seem to be as effective in the northern lands.</div>
             <div class="timeline-item" data-date="855PA">Battle of Orsfurt, Death King Arngil II von Kor and accession of Gilmar I, "Dance of Husks" ravages Cevolia and reaches Sertova </div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
+            <div class="timeline-item" data-date="857PA">The Risen Reef Dominion completes its ascension process to the surface</div>
             <div class="timeline-item" data-date="858PA">The Dwarf Bazur becomes the final Bearer of the Seal of Ran</div>
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan, after many deaths in cevolia and Sertova, the "Dance of Husks" perishes</div>
+	        <div class="timeline-item" data-date="860PA">Tensions between the Risen Reef and niryd Sea traders begin escalating</div>
 	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat, Muriel of Gloss defeats Viagoris in a magical duel</div>
             <div class="timeline-item" data-date="862PA">Granite Crusade begins</div>
             <div class="timeline-item" data-date="863PA">Droil is granted nominal autonomy under the Crown of Tintarol to appease Independence movements</div>
+            <div class="timeline-item" data-date="864PA">Qarzi diplomats successfully establish an embassy on the risen reef</div>
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge, Andre of Trydlew kills Muriel von Gloss</div>
             <div class="timeline-item" data-date="866PA"> 2nd Battle of Tears, Treaty of Uhl</div>
             <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks.</div>
-            <div class="timeline-item" data-date="869PA">Andrew of Trydlew founds the Knights of the Unicorn</div>
-            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry </div>
-            <div class="timeline-item" data-date="871PA">Golomid-Elbae War begins</div>
+            <div class="timeline-item" data-date="869PA">Andrew of Trydlew founds the Knights of the Unicorn, Qarzi-Golomid relations worsen following a string of communication based incidents</div>
+            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry, Elbae traders strand on the Risen Reef and are never heard from again</div>
+            <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="874PA">Andrew of Trydlew dies of unknown circumstances, suspected poisoning</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>

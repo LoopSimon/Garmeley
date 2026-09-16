@@ -1,19 +1,19 @@
 %%
-[[Krestasi]] [[Great Elbae Golomid War]][[Crustlords]]
+[[Krestasi]] [[Great Elbae Golomid War]][[Crustlords]][[Golomid]][[Il Haena]][[Qarzi]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Golomid Empire</h4>
+    <h4 class="wiki-header">Risen Reef</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Theocratic Empire</span>
+        <span>Imperial Dominion</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Emperor Cuorastes</span>
+        <span>Shellspeaker Jeztemuk</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Shillgaelomon</span>
+        <span>Anshor</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -30,21 +30,19 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Mertongue</span>
+        <span>An-Go</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
         <span>
-            
+            <a href="Golomid" class="internal-link">Golomid Empire</a>
+        </span>
+        </div>
+        <div class="wiki-row">
+        <strong>Formed</strong>
+        <span>
+            late 8th century PA
         </span>
     </div>
 </div>
-<p> The Golomid Empire stretches out across the Risen Reef and the southern coast of <a href="Il Haena" class="internal-link">Il-Haena</a> and the seafloor below. Its crustacean citizens are extremely isolationist and rarely seek out contact with other species of the surface, although they entertain a reasonably amicable relationship with the seafarers of the <a href="Elbae" class="internal-link">Sultanate</a> and the <a href="Qahori" class="internal-link">Qahori Federation</a>.</p>
-<p>Important People</p>
-Cuorastes
-
-Emperor of the Golomid
-
-Jeztemuk
-	First Shellspeaker
