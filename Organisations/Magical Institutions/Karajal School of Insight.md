@@ -3,7 +3,7 @@
 [[Orenburg Pact]]
 %%
 
-Named after the **Great Mage Karajal of Alparaz**(304PA-581PA), this Institution represents not only the modern nexus of magical research, but also is a symbol of the historical dominance the [[Behera|Beheran]] [[Elf|Elves]] have held in the higher Sciences of Mathematics, Magic and Astronomy.
+Named after the **Great Mage Karajal of Alparaz**(381PA-548PA), this Institution represents not only the modern nexus of magical research, but also is a symbol of the historical dominance the [[Behera|Beheran]] [[Elf|Elves]] have held in the higher Sciences of Mathematics, Magic and Astronomy.
 
 Indeed, Karajal as an Academic is one of the greatest in a line of greats, a scholar that can trace back his influences to the beginning of the Sultanate under his mentor, Kwarzimi of Corbaik who himself is known as the Father of elven spell-craft and the Leypoint Model. 
 

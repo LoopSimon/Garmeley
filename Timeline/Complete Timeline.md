@@ -115,9 +115,10 @@
             <div class="timeline-item" data-date="780BA">First Records of the Walled City of Ikara</div>
             <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
+            <div class="timeline-item" data-date="710BA">Neyadastes compiles the Codex Kynosis</div>
             <div class="timeline-item" data-date="700BA">Thurl, modern day Thulmouth, is founded by Izian/proto-Reani traders.</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
-            <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders, Neyadastes writes the Codex Kynosis</div>
+            <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders,</div>
             <div class="timeline-item" data-date="650BA">Spurshey and Vahri settlers encounter Vinjiri Safir, cultural exchange begins across the mountains</div>
 	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
             <div class="timeline-item" data-date="640BA">Genevi finds the Keystar north of the Ronra</div>
@@ -368,7 +369,7 @@
             <div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
-            <div class="timeline-item" data-date="503PA">Karajal funds the Alparaz School of Insight</div>
+            <div class="timeline-item" data-date="503PA">Karajal founds the Alparaz School of Insight</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
@@ -392,6 +393,7 @@
             <div class="timeline-item" data-date="543PA">Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins</div>
             <div class="timeline-item" data-date="544PA">Urland conquers lands east of Lake Dim from Garmeley in the War of the Lake</div>
             <div class="timeline-item" data-date="545PA">Tytus defeats the Lich Mendizaba at Xurugam, ending the undead occupation of Xer-Kol</div>
+            <div class="timeline-item" data-date="546PA">Frog Sickness breaks out in Il-Haena and western Behera</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland,</div>
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity</div>
@@ -507,6 +509,7 @@
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy II</div>
             <div class="timeline-item" data-date="731PA">Council of Patwin Tower</div>
+            <div class="timeline-item" data-date="733PA">Izrafur theorizes the 4-Axis Model</div>
             <div class="timeline-item" data-date="735PA">Uhl accepts Vihr as her liege as Duke Kaspar I von Kran threatens to lay siege to its Walls</div>
             <div class="timeline-item" data-date="736PA">Knights of the Gryphon refound themselves at Urbridge Keep and create the Order of Urbridge in central Ur</div>
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, canonization of Yahrwick</div>

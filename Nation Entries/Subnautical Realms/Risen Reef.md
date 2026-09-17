@@ -2,7 +2,7 @@
 [[Krestasi]] [[Great Elbae Golomid War]][[Crustlords]][[Golomid]][[Il Haena]][[Qarzi]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Risen Reef</h4>
+    <h4 class="wiki-header">Parol Anshor</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Imperial Dominion</span>
@@ -46,3 +46,5 @@
         </span>
     </div>
 </div>
+<p>The Imperial Dominion of Parol-Anshor, better known as "The Risen Reef" is a massive interconnected and living Coral structure south of <a href="Il Haena" class="internal-link">Il-Haena</a>, that is populated by a surface dwelling caste of the <a href="Golomid" class="internal-link">Golomid Empire</a>, it was constructed on the ocean floor around the Anshor Coral Complex during the 8th century PA and later ascended to its destined place on the Oceans surface in the year 857PA.</p>
+<p>The Reef represents the first large scale contact between the Krestasi power structures and greater Krestasi society and the surface dwellers, although various Safiri of the Smaragd Sea have stood in contact with remnants of the Pry of the Beheran Ocean Floor for millenia already.</p>

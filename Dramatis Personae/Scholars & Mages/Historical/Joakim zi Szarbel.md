@@ -30,6 +30,14 @@
         <strong>Field of Research</strong>
         <span>Positive & Negative Planar Energy<br>, Divination,<br>Hemomancy</span>
     </div>
+    <div class="wiki-row">
+        <strong>Known Teachers</strong>
+        <span>N/A</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Known Students</strong>
+        <span><a href="Farkiz II" class="internal-link">Farkiz II</a></span>
+    </div>
     <hr class="wiki-hr">
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Dean.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 

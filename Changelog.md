@@ -1,12 +1,27 @@
+- 2026-09-17T1318 · Phiodales
+- 2026-09-17T1314 · Kwarzimi
+- 2026-09-17T1310 · Alparaz
+- 2026-09-17T1307 · Karajal
+- 2026-09-17T1306 · Karajal School of Insight
+- 2026-09-17T1303 · Complete Timeline
+- 2026-09-17T1302 · Izrafur
+- 2026-09-17T1257 · Onar
+- 2026-09-17T1256 · Alfred the Younger
+- 2026-09-17T1225 · Rugior
+- 2026-09-17T1211 · Carassa al-Kael
+- 2026-09-17T1159 · Pixos
+- 2026-09-17T1158 · Neyadastes
+- 2026-09-17T1153 · Kasthemis
+- 2026-09-17T1150 · Cyraclion
+- 2026-09-17T1149 · Alchemy
+- 2026-09-17T1121 · Joakim zi Szarbel
+- 2026-09-16T1136 · Risen Reef
 - 2026-09-16T1118 · Onar Despotate
 - 2026-09-16T1100 · Golomid
 - 2026-09-16T0933 · The 927 Falcons Flight
-- 2026-09-16T0900 · Onar
 - 2026-09-16T0850 · Onari Empire
-- 2026-09-16T0848 · Complete Timeline
 - 2026-09-16T0845 · Cities of Dreams
 - 2026-09-16T0832 · Krestasi
-- 2026-09-16T0721 · Risen Reef
 - 2026-09-15T1840 · Ida Laridottr
 - 2026-09-15T1840 · Alma Laridottr
 - 2026-09-15T1825 · Lario
@@ -183,18 +198,3 @@
 - 2026-08-30T0234 · Tirbo
 - 2026-08-30T0228 · Zurgush
 - 2026-08-30T0206 · Ak-Saray
-- 2026-08-30T0157 · Suzana Dragović
-- 2026-08-30T0130 · League of the Gryphon
-- 2026-08-30T0043 · Urbridge
-- 2026-08-30T0042 · Gelmsburg
-- 2026-08-30T0041 · Eldmar
-- 2026-08-30T0040 · Urland
-- 2026-08-29T1741 · Gryphon
-- 2026-08-29T1737 · Dorian
-- 2026-08-29T1736 · Knights of the Gryphon
-- 2026-08-29T1621 · Mark
-- 2026-08-29T1621 · Grossi
-- 2026-08-29T1613 · Lind
-- 2026-08-29T1420 · First War of Elbae Aggression
-- 2026-08-29T0325 · Wars of Elbae Aggression
-- 2026-08-29T0325 · Third War of Elbae Aggression
