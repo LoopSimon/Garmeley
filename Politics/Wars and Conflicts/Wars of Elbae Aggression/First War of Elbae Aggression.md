@@ -46,7 +46,7 @@
  Inrafir Elbae † <br>
  Ferik Herem ab-Faet<br>
  Mons Garyal "the Butterfly",<br>
- White Eye of Karajal †<br>
+ Citrine Eye of Karajal †<br>
  <br>
  <em>Coalition:</em><br>
  Grand Lord Lorgis of Rofea †<br>
@@ -73,7 +73,7 @@
 
 <h2>The Opening Campaign </h2>
 
-<p>The Sultanate committed the full weight of its professional military under the overall command of Masir Hazir ab-Keyel, commander of the Dawn Army. Hazirs strategy was built around the Horads geography: secure Danipol at the isthmus's northern mouth, establish naval supremacy over the Pilvian Gulf, land forces on Grevenni soil, and push north before the coalition could assemble a coherent response. The arcane component of the campaign was entrusted to Mons Garyal, the White Eye of <a href="Karajal School of Insight" class="internal-link">Karajal</a>, an old and deeply eccentric mage who expressed all his magical workings through conjured butterflies, a personal aesthetic choice whose practical results were among the most devastating in the wars history. Ferik Herem ab-Faet, a Drow Oracle who had spent years bridging the Sultanates occult traditions and its material military command, led the arcane regiments. The Sultans own son, Inrafir Elbae, commanded the elite Falcon Brigade.</p>
+<p>The Sultanate committed the full weight of its professional military under the overall command of Masir Hazir ab-Keyel, commander of the Dawn Army. Hazirs strategy was built around the Horads geography: secure Danipol at the isthmus's northern mouth, establish naval supremacy over the Pilvian Gulf, land forces on Grevenni soil, and push north before the coalition could assemble a coherent response. The arcane component of the campaign was entrusted to Mons Garyal, the Citrine Eye of <a href="Karajal School of Insight" class="internal-link">Karajal</a>, an old and deeply eccentric mage who expressed all his magical workings through conjured butterflies, a personal aesthetic choice whose practical results were among the most devastating in the wars history. Ferik Herem ab-Faet, a Drow Oracle who had spent years bridging the Sultanates occult traditions and its material military command, led the arcane regiments. The Sultans own son, Inrafir Elbae, commanded the elite Falcon Brigade.</p>
 
 <p>The First Battle of Danipol opened the war with a decisive Sultanate victory. Ferik Tashima Zun led the assault on Danipols southern approaches, and the coalitions initial defensive effort collapsed. Lorgis of Rofea, Grand Lord of Grevenna and the coalitions supreme commander, was killed in the fighting. His daughter Siari of Rofea, seventeen years old, inherited the Grand Lordship of Grevenna and with it command of a coalition reeling from its first major defeat.</p>
 
@@ -100,12 +100,12 @@
 
 <h2>The Second Battle of Danipol</h2>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Mons.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
-<small><i>Mons Garyal, White Eye of Karajal</i></small>  
+<small><i>Mons Garyal, Citrine Eye of Karajal</i></small>  
 </div>
 
 <p>The coalition regrouped and advanced south. The Sultanate, its northern campaign checked and its supply lines under growing pressure, consolidated at Danipol for the final engagement. At the Second Battle of Danipol the full coalition met the assembled Sultanate forces in the field, and both sides committed everything remaining to them.</p>
 
-<p>Mons Garyal opened the engagement with what witnesses on both sides described as a spectacle of genuine terror. Thousands of conjured butterflies, luminous, impossible, rising in dense formations from the Sultanate's lines, drove into the coalitions formations and detonated in cascading explosions that shattered organized resistance wherever they struck. The White Eye of Karajal killed in hundreds before the Kherovan Spellbreakers reached him. He died on a mountain of his own dead, surrounded by two dozen Spellbreakers whose mirror shields had stripped him of the magical expression that defined his entire practice. Whatever he said in those final moments was not recorded as his butterflies vanished.</p>
+<p>Mons Garyal opened the engagement with what witnesses on both sides described as a spectacle of genuine terror. Thousands of conjured butterflies, luminous, impossible, rising in dense formations from the Sultanate's lines, drove into the coalitions formations and detonated in cascading explosions that shattered organized resistance wherever they struck. The Citrine Eye of Karajal killed in hundreds before the Kherovan Spellbreakers reached him. He died on a mountain of his own dead, surrounded by two dozen Spellbreakers whose mirror shields had stripped him of the magical expression that defined his entire practice. Whatever he said in those final moments was not recorded as his butterflies vanished.</p>
 
 <p>With Garyal dead and the arcane pressure lifted, the coalitions formations reformed. Fredric Foehammer drove directly into the Sultanates command structure. He killed Hazir ab-Keyel himself, the Masir who had planned and led the entire campaign, in personal combat then turned and duelled Inrafir Elbae, the Sultan's son and commander of the Falcon Brigade, slaying him as well. An arrow caught Fredric in the throat after he lost his helmet in the fight with Inrafir. He was dead before the battle ended. The Sultanate sounded the retreat and withdrew behind the Horad. The First War of Elbae Aggression was over.</p>
 

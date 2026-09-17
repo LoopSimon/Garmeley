@@ -15,11 +15,11 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>286PA, <a href="Jiravid" class="internal-link">Jiravid</a></span>
+        <span>136PA, <a href="Jiravid" class="internal-link">Jiravid</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>435PA, Rahzalbis</span>
+        <span>285PA, Rahzalbis</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>

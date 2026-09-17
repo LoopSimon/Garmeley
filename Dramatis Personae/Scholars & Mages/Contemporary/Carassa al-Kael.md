@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Zeressa Ar-Sires, <br> White Eye of Karajal(formerly)</span>
+        <span>Zeressa Ar-Sires, <br> Citrine Eye of Karajal</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>

@@ -307,6 +307,7 @@
             <div class="timeline-item" data-date="327PA">The United Forces of Arester and Urland conquer Kerleas, Kerlan nobility and resistance flees into the southern  Wilderness</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
+            <div class="timeline-item" data-date="331PA">Karajal founds the School of Insight at Alparak</div>
             <div class="timeline-item" data-date="332PA">The Duchy of Nied is created by the Kings of Urland to oversee old Kerlaen</div>
             <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
             <div class="timeline-item" data-date="340PA">The Dovesplague breaks out in major ports of the Torn Sea</div>
@@ -369,7 +370,6 @@
             <div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
-            <div class="timeline-item" data-date="503PA">Karajal founds the Alparaz School of Insight</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
@@ -381,6 +381,7 @@
             <div class="timeline-item" data-date="518PA">Siege of Sulbra-Kol ends</div>
             <div class="timeline-item" data-date="519PA">Antigor of Kisnau declares Grevennen Independence</div>
             <div class="timeline-item" data-date="520PA">The Duke of Battvia declares himself Prince, formation of modern day Battvia as a Kingdom</div>
+            <div class="timeline-item" data-date="521PA">Edict of the Sultan elevates the School of Karajal</div>
             <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
             <div class="timeline-item" data-date="524PA">The Vanpuri successor state of Faarmish fully loses its hold on Ynkal, falling to various local warlords, Era of warring Hordes begins on the island</div>
             <div class="timeline-item" data-date="526PA">Sarloni Uprising begins in Vihr</div>
@@ -552,7 +553,7 @@
             <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out, Battles of Gialo & Fiarco</div>
             <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
-            <div class="timeline-item" data-date="797PA">Sack under the Olive Trees</div>
+            <div class="timeline-item" data-date="797PA">Battle under the Olive Trees</div>
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador, Battle of Bereggio, end of the Battvian Civil War</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>

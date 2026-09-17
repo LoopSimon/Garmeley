@@ -7,7 +7,7 @@
     <h4 class="wiki-header">Karajal ar-Farroul</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Founder of the Karajal School of Insight</span>
+        <span>Founder of the <a href="Karajal School of Insight" class="internal-link">Karajal School of Insight</a></span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
@@ -15,11 +15,11 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>381PA, <a href="Jiravid" class="internal-link">Jiravid</a></span>
+        <span>231PA, <a href="Jiravid" class="internal-link">Jiravid</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>548PA, Alparaz</span>
+        <span>398PA, Alparaz</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
