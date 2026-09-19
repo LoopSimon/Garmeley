@@ -37,7 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
-        <span>Elena Rofea</span>
+        <span>none</span>
     </div>
     <div class="wiki-row">
         <strong>Dynasty</strong>

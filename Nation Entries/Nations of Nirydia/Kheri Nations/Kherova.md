@@ -52,7 +52,7 @@
 
 
 <h3>Geography</h3>
-<p>The defining feature of Kherova is the great Lake Kher, which sits in the Kher-Basin at the southern slopes of the Mistspires. Often described as the Kher Sea, it is the world's largest lake by far and reaches depths of over 1000 metres.</p>
+<p>The defining feature of Kherova is the great Lake Kher, which sits in the Kher-Basin at the southern slopes of the <a href="Mistspires" class="internal-link">Mistspires</a>. Often described as the Kher Sea, it is the world's largest lake by far and reaches depths of over 1000 metres.</p>
 <p>The Kulum Lowlands in the south are the country's access to the rich trade of the Pilvian Gulf and the climate grows notably warmer here, whereas the eastern half of the nation reaches into the <a href="Nirydia" class="internal-link">Nirydian Steppe</a> and the desolated northern wastes of Thamiras Rest.</p>
 <p>The lake itself is also bordered by the smaller Kurini mountains in the south.</p>
 <p>Central Kherova is hilly and temperate, the lake itself creating a very welcoming and hospitable climate.</p>

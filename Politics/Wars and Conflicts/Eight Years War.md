@@ -1,3 +1,6 @@
+%%
+[[Trollbacks]]
+%%
 Belligerents: The Kingdoms of [[Vihr]] and [[Garmeley]] 
 
 *Date: *644PA - 650PA

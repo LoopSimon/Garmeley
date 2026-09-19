@@ -59,7 +59,7 @@
 
 <hr class="wiki-hr">
 <h3>Geography</h3>
-<p>Garmeley borders the minor Urlandi Realms of <a href="Trinvale" class="internal-link">Trinvale</a>, Eldmar and Urbrdige in the North-West, the Kingdom of Vihr in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the Trollback Mountains.</p>
+<p>Garmeley borders the minor Urlandi Realms of <a href="Trinvale" class="internal-link">Trinvale</a>, Eldmar and Urbrdige in the North-West, the Kingdom of Vihr in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the <a href="Trollbacks" class="internal-link">Trollback</a> Mountains.</p>
 
 <p>The nation is defined by its rivers, notably the <b>Melm</b> and the <b>Trinmo</b> (the largest river in the known world), which flows into Lake Forr. The <b>Garmish Planes</b> in the south represent the lowest and most arable elevation of the country, while the <b>Thull</b> river serves as the major economic trade route.</p>
 
