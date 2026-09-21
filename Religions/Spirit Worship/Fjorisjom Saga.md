@@ -6,7 +6,7 @@
 [[Giant]]
 [[Ylva]]
 [[Toski]]
-[[Skemring]]
+[[Skemril]]
 [[Aeldcult]]
 %%
 
@@ -27,8 +27,8 @@ Toski bade Millgi’s finest huscarls to strike him with their sharpest swords. 
 <p>Then came the booming laugh of <a href="Egill" class="internal-link">Egill Wavebeard</a> . He smelled of brine and winter storms, a champion blessed by the Salt Mother herself.  
 "You measure wealth in dry metal, Millgi," Egill roared, "but the sea swallows all kings!"  
 Using his supernatural strength, Egill struck the stone floor with his bare fist. The rock cracked, and a geyser of seawater erupted into the hall. Guided by his magic, the water did not flood the hearths, but gently deposited the barnacle crusted treasures of a hundred sunken ships gold from lost empires and pearls the size of apples. "The Salt Mother's vault is my purse," Egill boasted.</p>
-<p>Last to step forward was <a href="Skemring" class="internal-link">Skemring, Prince of the Aelfs.</a>.He moved with the quiet grace of falling snow, his pale skin glowing in the firelight. He drew a single, blindingly bright golden axe, and twisted a silver ring upon his finger. In a flash of winter light, one hundred Skemrings stood in the hall. Moving as one, the hundred princes struck the stone with their golden axes, carving a flawless, towering throne of solid rock and frost magic in mere seconds.  
-"A rich man buys labor," spoke the true Skemring, as his ninetynine phantoms bowed. "I am a host unto myself, wielding the craft of my ancestors. My wealth is the power to build empires in the span of a single breath."</p>
+<p>Last to step forward was <a href="Skemril" class="internal-link">Skemril, Prince of the Aelfs. </a>.He moved with the quiet grace of falling snow, his pale skin glowing in the firelight. He drew a single, blindingly bright golden axe, and twisted a silver ring upon his finger. In a flash of winter light, one hundred Skemrils stood in the hall. Moving as one, the hundred princes struck the stone with their golden axes, carving a flawless, towering throne of solid rock and frost magic in mere seconds.  
+"A rich man buys labor," spoke the true Skemril, as his ninetynine phantoms bowed. "I am a host unto myself, wielding the craft of my ancestors. My wealth is the power to build empires in the span of a single breath."</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Sagainvasion.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Sjodurs Invasion</i></small>
 </div>
@@ -38,16 +38,16 @@ Using his supernatural strength, Egill struck the stone floor with his bare fist
 <p>Jarl Millgi leaned forward, his eyes wide with wonder. Never had such power and riches been displayed under one roof. He opened his mouth to declare who among them was the greatest: but the words never left his throat. The roaring hearth fires suddenly turned a sickly, blinding blue, and then went entirely black. The great oak doors of the hall did not just open, but exploded into kindling.</p>
 <p>
 Into the hall stepped doom. First came Sjodur, a Fire Giant of terrifying, mountainous muscle. The heat radiating from his molten flesh was so intense that the shields hung on the walls began to warp, and the pearls Egill had summoned cracked from the sudden, blistering air. Beside him glided Lygrauga, an Ice Giant of cruel beauty and wicked cunning in the shape of a brittle elder. Where Sjodur brought roaring heat, Lygrauga brought the biting silence of the grave.</p>
-<p>With a laugh that sounded like cracking glaciers, Lygrauga raised his hands. A wave of ancient, freezing magic swept through the hall. Toski’s invincible beard was frozen stiff to the floorboards, Ylva’s voice was stolen by the freezing air, Egill’s summoned waters turned instantly to solid ice, trapping his legs and Skemring’s magical phantoms shattered like glass in the unnatural frost.</p>
+<p>With a laugh that sounded like cracking glaciers, Lygrauga raised his hands. A wave of ancient, freezing magic swept through the hall. Toski’s invincible beard was frozen stiff to the floorboards, Ylva’s voice was stolen by the freezing air, Egill’s summoned waters turned instantly to solid ice, trapping his legs and Skemril’s magical phantoms shattered like glass in the unnatural frost.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/SagaFrozen.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Spell of Lygrauga</i></small>
 </div>
 <p>Before the mighty Jarl could even draw his blade, Sjodur stepped over the frozen feast tables. With one massive, burning hand, the Fire Giant snatched the terrified Princess Gudrun from her seat. "Keep your parlour tricks and sunken gold, little men!" Lygrauga mocked, the giants voice echoing in the ruined hall. "The Giants of Jeturlund take the only treasure that matters!" With a roar of fire and a blast of freezing mist, the two giants vanished into the northern night, leaving the great hall of Millgi in ruins.</p>
-<p>As the magical ice finally thawed, the four heroes broke free of their bindings. They looked upon the weeping Jarl, their legendary pride wounded and their boasts turned to ash. There, amidst the melted gold and splintered oak, Egill, Ylva, Toski, and Skemring crossed their weapons and swore an oath. They would not rest, nor claim a single coin of wealth, until they had crossed the frozen wastes of Jeturlund, slain the giants, and brought the Princess Gudrun home.</p>
+<p>As the magical ice finally thawed, the four heroes broke free of their bindings. They looked upon the weeping Jarl, their legendary pride wounded and their boasts turned to ash. There, amidst the melted gold and splintered oak, Egill, Ylva, Toski, and Skemril crossed their weapons and swore an oath. They would not rest, nor claim a single coin of wealth, until they had crossed the frozen wastes of Jeturlund, slain the giants, and brought the Princess Gudrun home.</p>
 <h2>The Four Ships</h2>
 
-<p>Ylva would lead the Lahraði, Toski the Rauttafein, Skemring the Arfagna and Egill the Öldubring as the four assembled their crews on these vessels and began the perilous journey north. </p>
-<h2>Skemring and Laettr</h2>
+<p>Ylva would lead the Lahraði, Toski the Rauttafein, Skemril the Arfagna and Egill the Öldubring as the four assembled their crews on these vessels and began the perilous journey north. </p>
+<h2>Skemril and Laettr</h2>
 <h2>Ylva and Fagnir</h2>
 <h2>Tosko and Kalme</h2>
 <h2>Egill and Sjordur</h2>

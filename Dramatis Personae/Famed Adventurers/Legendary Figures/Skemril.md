@@ -6,7 +6,7 @@
 [[Aeldcult]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Skemring</h4>
+    <h4 class="wiki-header">Skemril</h4>
     <div class="wiki-row">
         <strong>Epitath</strong>
         <span>Houndred Stike</span>
@@ -37,4 +37,4 @@
 
 </div>
 
-<p>Prince Skemring was a legendary Prince of the Aelfs of the North, during the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a> he was once of the four heroes that would swear an oath to rescue the stolen Gudrun. He fought against his elder brother the Prince Laettr during the events of the Saga and his ship was the Arfagna.</p>
+<p>Prince Skemril was a legendary Prince of the Aelfs of the North, during the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a> he was once of the four heroes that would swear an oath to rescue the stolen Gudrun. He fought against his elder brother the Prince Laettr during the events of the Saga and his ship was the Arfagna.</p>

@@ -1,10 +1,12 @@
+- 2026-09-21T1913 · Tragna
+- 2026-09-21T1908 · Fjorisjom Saga
+- 2026-09-21T1907 · Skemril
 - 2026-09-21T1906 · Drow
 - 2026-09-21T1849 · Vurun
 - 2026-09-21T1840 · Biadarkyr
 - 2026-09-21T1839 · Tur Ajk
 - 2026-09-21T1838 · Nua
 - 2026-09-21T1838 · Aelf
-- 2026-09-21T1429 · Skemring
 - 2026-09-21T1425 · Complete Timeline
 - 2026-09-21T1419 · Half-Elf
 - 2026-09-21T1419 · Elf
@@ -196,5 +198,3 @@
 - 2026-09-08T1550 · Bykmåli
 - 2026-09-08T1526 · Mikael Bivaldi
 - 2026-09-08T1526 · Adral Fidrakis
-- 2026-09-08T1523 · Glinsar
-- 2026-09-08T1339 · Hector Razzan
