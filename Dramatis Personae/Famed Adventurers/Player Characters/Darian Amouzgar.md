@@ -1,12 +1,13 @@
 %%
 [[Hainach]]
 [[Niedrest Incident]]
+[[Half-Elf]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Darian Amouzgar</h4>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Reani Half <a href="Elf" class="internal-link">Elf</a></span>
+        <span>Reani <a href="Half-Elf" class="internal-link">Half-Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

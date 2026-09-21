@@ -31,7 +31,7 @@
         <span>Telepathy</span>
     </div>
     <hr class="wiki-hr">
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Farrouk.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/BeheriMagi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>Farrouk Nalar is a Magister of Behera, bearing the Talisman of Malam as Sign of his standing. He is an industrious yet often mysterious figure in the day and night life of <a href="Ikara" class="internal-link">Ikara</a>, where he currently resides. His specialisation in the often frowned upon school of Telepathy and considerably knowledge in the field has made him somewhat of an outsider in the local establishment, as Ikara is home to over a dozen Magisters, many in the employment of the Sanjak, rich Patricians or influential Politicians.</p>

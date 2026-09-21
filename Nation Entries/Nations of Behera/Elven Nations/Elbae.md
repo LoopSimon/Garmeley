@@ -4,6 +4,8 @@
 [[Iz-Almadus]]
 [[Fasmer II]]
 [[Jiravid]]
+[[Elf]]
+[[Drow]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Elbae Sultanate</h4>

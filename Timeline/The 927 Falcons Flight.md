@@ -1,4 +1,6 @@
 %%
 [[Ikara]]
+[[Kessim Miximur]]
 %%
 <p>The tournament Season known as the Falcons Flight in the Ilrakhi Calender Year of 927PA. The Summer Race portion was won by Umar Nasal of the Skyriders who repeated his triumph from the previous year. </p>
+<p>Trouble began early in the season as one of the three primary holders of a titled company, the Dye Merchant <a href="Kessim Miximur" class="internal-link">Kessim Miximur</a>, lost most of his martial athletes when the Velvet Jesters were linked to the Drug Trade around the Demons Blood that had taken over the criminal underbelly of the city and had to flee over night. Miximur was left without champions to take on his name and sponsor. On the 35th of May, only days before the City Championship would begin, he had two groups appear in his villa beyond Riverside: <a href="The Golden Gambit" class="internal-link">The Golden Gambit</a> and the Blue Giant Slayers. After a quick and heated exchange that culminated in the loss of a hand, the Golden Gambit cam out victorious and a deal was struck, Mixmiur would have his athletes for the coveted Championship.</p>

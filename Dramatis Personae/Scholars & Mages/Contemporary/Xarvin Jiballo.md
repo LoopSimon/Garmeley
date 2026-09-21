@@ -5,6 +5,7 @@
 [[Iz-Almadus]]
 [[Standoff at Dimrods Shrine]]
 [[Charatov Podlim]]
+[[Half-Elf]]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Xarvin Jiballo</h4>
@@ -14,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Almadi Half-Elf</span>
+        <span>Almadi <a href="Half-Elf" class="internal-link">Half-Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

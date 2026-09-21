@@ -1,8 +1,8 @@
 %%
-[[Elf]]
+[[Aelf]]
 [[Fjorisjom Saga]]
 [[Bykmali Paganism]]
-
+[[Skemfing]]
 [[Aeldcult]]
 %%
 <div class="wiki-infobox">
@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kemfi <a href="Elf" class="internal-link">Aelf</a></span>
+        <span>Kemfi <a href="Aelf" class="internal-link">Aelf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

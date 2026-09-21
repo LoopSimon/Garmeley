@@ -2,6 +2,7 @@
 [[Garmeley]]
 [[Karajal School of Insight]]
 [[Kindly Lords]]
+[[Half-Elf]]
 [[Markur]]
 %%
 <div class="wiki-infobox">
@@ -16,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span><a href="Urien" class="internal-link">Garmish</a> <a href="Elf" class="internal-link">Half-Elf</a></span>
+        <span><a href="Urien" class="internal-link">Garmish</a> <a href="Half-Elf" class="internal-link">Half-Elf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

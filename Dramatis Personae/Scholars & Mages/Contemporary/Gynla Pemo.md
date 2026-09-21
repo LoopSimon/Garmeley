@@ -3,6 +3,7 @@
 [[Janez Vajkard Valvasor]]
 [[The Alchemists Guild]]
 [[Korman van Schipwig]]
+[[Beheran]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Gynla Pemo</h4>
@@ -12,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Beheran Human</span>
+        <span><a href="Beheran" class="internal-link">Asefi</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
