@@ -1,9 +1,11 @@
+- 2026-09-21T1923 · White Wars
+- 2026-09-21T1923 · Golden Dusk
+- 2026-09-21T1923 · Biadarkyr
 - 2026-09-21T1913 · Tragna
 - 2026-09-21T1908 · Fjorisjom Saga
 - 2026-09-21T1907 · Skemril
 - 2026-09-21T1906 · Drow
 - 2026-09-21T1849 · Vurun
-- 2026-09-21T1840 · Biadarkyr
 - 2026-09-21T1839 · Tur Ajk
 - 2026-09-21T1838 · Nua
 - 2026-09-21T1838 · Aelf
@@ -196,5 +198,3 @@
 - 2026-09-08T1550 · Kheri
 - 2026-09-08T1550 · Cevoli
 - 2026-09-08T1550 · Bykmåli
-- 2026-09-08T1526 · Mikael Bivaldi
-- 2026-09-08T1526 · Adral Fidrakis
