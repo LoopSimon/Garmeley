@@ -47,12 +47,13 @@
 	        <div class="timeline-item" data-date="4033BA">Rise of the Drow undercity of Anazirt in the beheri underlands </div>
 	        <div class="timeline-item" data-date="4000BA">Gelfir Emergence in central Nirydia</div>
 	        <div class="timeline-item" data-date="3900BA">First recorded Contact between Ikieni and Usuni Humans in West-Behera </div>
-	        <div class="timeline-item" data-date="3800BA">Approximate begin of the drow high civilisation of Tur-Enzal</div>
+	        <div class="timeline-item" data-date="3800BA">Approximate begin of the drow high civilisation of Tur Enzal</div>
 	        <div class="timeline-item" data-date="3790BA">First records of Cuneiform Writing from the Hessef, Beheran Dark Ages end</div>
 	        <div class="timeline-item" data-date="3780BA">The human City of Sahras, speculated modern day Akhdar fights a series of Wars against the elven city of Farzirash, modern day Jiravid</div>
 	        <div class="timeline-item" data-date="3500BA">Rise of the Drow Empire of Murajk in Behera, first records of Elven Calendars</div>
 	        <div class="timeline-item" data-date="3300BA">Age of Thirst in Behera, Great Dry Period in Ilrakhan, fall of the Murajk</div>
 	        <div class="timeline-item" data-date="2960BA">Age of Thirst ends, The Asefi Civilization forms in northern Behera</div>
+	        <div class="timeline-item" data-date="2900BA">The drow undercities of the central enzali underlands unite as the Empire of Tur Enzal</div>
 	        <div class="timeline-item" data-date="2800BA">Likely formation of Albis, modern day Razhalbis, at the Delta of the Muhusni River in northern Behera</div>
 	        <div class="timeline-item" data-date="2700BA">The Comet of Mir crashes in the Asef Desert</div>
 	        <div class="timeline-item" data-date="2650BA">The city of Erun forms on the coast of the Stormy Sea at the mouth of the Toumis River in northern Behera</div>
@@ -60,18 +61,18 @@
 	        <div class="timeline-item" data-date="2580BA">The First Mitimgar is built near Timgar Lake in the northern Underlands by the Timgari Goblins</div>
 	        <div class="timeline-item" data-date="2550BA">Empire of the Horad dominates northern Behera</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
-	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur-Enzal begins</div>
-	        <div class="timeline-item" data-date="2420BA">The great drow city Tur-Ajk is founded in the ruins of Murajk</div>
+	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur Enzal begins</div>
+	        <div class="timeline-item" data-date="2420BA">The great drow city Tur Ajk is founded in the ruins of Murajk</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
 	        <div class="timeline-item" data-date="2390BA">Onar the Voice becomes the first Emperor of the Pry Krestasi</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River, the first Tomb City of Drow and High Elf in both surface and underland</div>
 	        <div class="timeline-item" data-date="2350BA">Earliest evidence for the city of Palmunis</div>
-	        <div class="timeline-item" data-date="2310BA">Era of Civil Wars in Tur-Enzal ends, Vurun zealots fleet further east</div>
+	        <div class="timeline-item" data-date="2310BA">Era of Civil Wars in Tur Enzal ends, Vuron zealots fleet further east</div>
 	        <div class="timeline-item" data-date="2300BA">Horad Empire and its successors are fully destroyed</div>
 	        <div class="timeline-item" data-date="2250BA">First Record of Vendili civilization in the Ud-Vendili Plain</div>
-	        <div class="timeline-item" data-date="2245BA">The Day of Pain: Drow Vurun zealots siege and burn down the goblin Undercity of Mitimgar</div>
+	        <div class="timeline-item" data-date="2245BA">The Day of Pain: Drow Vuron zealots siege and burn down the goblin Undercity of Mitimgar</div>
 	        <div class="timeline-item" data-date="2200BA">Earliest evidence for the city of Parkymin</div>
-	        <div class="timeline-item" data-date="2170BA">The Drow Vurun zealots found the Empire of Tur-Vurun in the northern Underlands.</div>
+	        <div class="timeline-item" data-date="2170BA">The Drow Vuron zealots found the Empire of Tur Vuron in the northern Underlands.</div>
 	        <div class="timeline-item" data-date="2150BA">Elves dominate the lands of the Az-Jir River</div>
 	        <div class="timeline-item" data-date="2140BA">Safiri cities around the northern Smaragd Sea unite under the teachings of Telecor in the Diacor Union</div>
 	        <div class="timeline-item" data-date="2130BA">Stonemasonry in ancient Cevolia around the Prioni Delta</div>
@@ -82,7 +83,7 @@
 	        <div class="timeline-item" data-date="1975BA">The early izian civilization rises around the River Iza in modern day Hainach, walled settlements form</div>
 	        <div class="timeline-item" data-date="1950BA">First true glass smelting occurs in Cyraclion</div>
 	        <div class="timeline-item" data-date="1845BA">Gate of Palmunis is constructed</div>
-	        <div class="timeline-item" data-date="1840BA">The Drow Empire of Tur Vurun in the northern Underlands collapses for unknown reasons, few of its cities remain and isolate themselves.</div>
+	        <div class="timeline-item" data-date="1840BA">The Drow Empire of Tur Vuron in the northern Underlands collapses for unknown reasons, few of its cities remain and isolate themselves.</div>
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
 	        <div class="timeline-item" data-date="1805BA">High Vendili political consolidation emerges</div>
@@ -104,7 +105,7 @@
             <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
             <div class="timeline-item" data-date="1210BA">Eruption of Al-Kortop</div>
             <div class="timeline-item" data-date="1204BA">Coins are first made in Palmunis</div>
-            <div class="timeline-item" data-date="1202BA">First records of the beheran dwarven hold of Avdan-Kol in the records of Tur-Ajk</div>
+            <div class="timeline-item" data-date="1202BA">First records of the beheran dwarven hold of Avdan-Kol in the records of Tur Ajk</div>
             <div class="timeline-item" data-date="1201BA">The dwarves of Ogul-Vosko venture north and conquer the 2nd Mitimgar, enslaving its population for centuries, beginning of the Granite Rivalry</div>
 	        <div class="timeline-item" data-date="1170BA">Destruction of the Jiravid Dynasty</div>
         </div>
@@ -128,10 +129,10 @@
             <div class="timeline-item" data-date="996BA">Cyracli - Palmuni Wars</div>
             <div class="timeline-item" data-date="970BA">Likely Formation of Tasch in the Merek</div>
             <div class="timeline-item" data-date="965BA">Timgar Goblins are freed under the leadership of the Hinmak Sect of Warriors, Timgar Silver Age begins</div>
-            <div class="timeline-item" data-date="960BA">1st Alparid Conquest of the Drow Empire of Tur-Ajk</div>
+            <div class="timeline-item" data-date="960BA">1st Alparid Conquest of the Drow Empire of Tur Ajk</div>
             <div class="timeline-item" data-date="950BA">Pacci Krestasi create the Pact of Dreams on the Floor of the Tirean Ocean</div>
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
-            <div class="timeline-item" data-date="890BA">2nd Alparid Conquest of the Drow Empire of Tur-Ajk, end of Tur-Ajk</div>
+            <div class="timeline-item" data-date="890BA">2nd Alparid Conquest of the Drow Empire of Tur Ajk, end of Tur Ajk</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
             <div class="timeline-item" data-date="845BA">The Diacor Union is declared as the Empire of Diacor under Zenzetan VI</div>
@@ -142,7 +143,7 @@
             <div class="timeline-item" data-date="700BA">Thurl, modern day Thulmouth, is founded by Izian/proto-Reani traders.</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
             <div class="timeline-item" data-date="670BA">The Vahri town Lyde becomes an important trading hub for beheran goods with cyracli and palmunian traders,</div>
-            <div class="timeline-item" data-date="662BA">Vengeance of Mitimgar, the great goblin Warlord Opronik leads his people in a genocidal campaign against the splintered drow cities of Tur Vurun and annihilates their civilization</div>
+            <div class="timeline-item" data-date="662BA">Vengeance of Mitimgar, the great goblin Warlord Opronik leads his people in a genocidal campaign against the splintered drow cities of Tur Vuron and annihilates their civilization</div>
             <div class="timeline-item" data-date="650BA">Spurshey and Vahri settlers encounter Vinjiri Safir, cultural exchange begins across the mountains</div>
 	        <div class="timeline-item" data-date="644BA">Earliest known record of Sunborn settlements in the Durenni Desert</div>
 	        <div class="timeline-item" data-date="643BA">Alparid dynasty enslaves the the beheri drow population </div>

@@ -1,4 +1,0 @@
-%%
-[[Drow]]
-[[Elven Dynasties]]
-%%
