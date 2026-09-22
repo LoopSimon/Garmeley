@@ -1,3 +1,4 @@
+
 <div class="grid-2x2">    
     <div class="grid-item span-col-2">
         <h2>A Broad Timeline of Major Historical Events</h2>
@@ -5,19 +6,21 @@
 	  <div class="grid-item span-col-2-single-block">
         <h3>Age of Stone</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="300000BA">Likely evolution of the modern human in southern Behera</div>
+	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman human in southern Behera</div>
+	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor, the Narzoi evolves in central of Aisligos from their Purman ancestor</div>
 	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
 	        <div class="timeline-item" data-date="130000BA">Oldest evidence of ancient seafaring from the island of Sarash</div>
 	        <div class="timeline-item" data-date="120000BA">Era of Ash</div>
 	        <div class="timeline-item" data-date="110000BA">Astafir develop sentience</div>
 	        <div class="timeline-item" data-date="100000BA">Earliest evidence for upright Bihra in southern Nirydia</div>
 	        <div class="timeline-item" data-date="75000BA">Fellwins Comet hits in the modern day beheran Desert</div>
-	        <div class="timeline-item" data-date="50000BA">Tua Elfs are being replaced by the Drow</div>
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
+	        <div class="timeline-item" data-date="35000BA">Approximate dating for the murals on the Spire of On</div>
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
+			<div class="timeline-item" data-date="30000BA">Nua Elfs are rapidly being replaced by the Drow</div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
-	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems</div>
+	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems, Elven Diaspora begins</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
 		    <div class="timeline-item" data-date="16100BA">The Primal War between Yari and the Others breaks out in Behera</div>
 		    <div class="timeline-item" data-date="16000BA">Creation of the Tageyo Field</div>
@@ -83,7 +86,6 @@
 	        <div class="timeline-item" data-date="1975BA">The early izian civilization rises around the River Iza in modern day Hainach, walled settlements form</div>
 	        <div class="timeline-item" data-date="1950BA">First true glass smelting occurs in Cyraclion</div>
 	        <div class="timeline-item" data-date="1845BA">Gate of Palmunis is constructed</div>
-	        <div class="timeline-item" data-date="1840BA">The Drow Empire of Tur Vuron in the northern Underlands collapses for unknown reasons, few of its cities remain and isolate themselves.</div>
 	        <div class="timeline-item" data-date="1830BA">End of the Beheran humid period, growth in Hessefi settlements</div>
 	        <div class="timeline-item" data-date="1819BA">Heatrons Star Calendar</div>
 	        <div class="timeline-item" data-date="1805BA">High Vendili political consolidation emerges</div>
@@ -92,6 +94,7 @@
             <div class="timeline-item" data-date="1680BA">Dilgrange is built in northern Urland</div>
             <div class="timeline-item" data-date="1655BA">High Vendili Golden Age</div>
             <div class="timeline-item" data-date="1550BA"> End of the early cyracli Period, Begin of the Age of Cities in Cyraclion</div>
+            <div class="timeline-item" data-date="1540BA">The Drow Empire of Tur Vuron in the northern Underlands collapses for unknown reasons, few of its cities remain and isolate themselves.</div>
             <div class="timeline-item" data-date="1535BA">Drow Empire of Tur-Ajk blossoms in the beheran underlands around the city or Tur Ajk</div>
             <div class="timeline-item" data-date="1521BA">Aecelcor the Great unites the Leveli of the Steppes </div>
             <div class="timeline-item" data-date="1430BA">Zalo emerges in southern Behera and forms the Great Dominion</div>
@@ -239,7 +242,7 @@
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
             <div class="timeline-item" data-date="68BA">First Bear-King of the Locni, approximate beginning of the Kingdom of Thirdonis</div>
-            <div class="timeline-item" data-date="66PA">Tur Aman, the great City of the Drow, is formed in the central niryd Underlands</div>
+            <div class="timeline-item" data-date="66PA">The Kiln, the great City of the amani Drow, is formed in the central niryd Underlands</div>
             <div class="timeline-item" data-date="61PA">Khariels Journeys</div>
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="40BA">Horn Lords of the Vihri begin organizing coordinated leadership across the river plain, proto Federation period begins</div>
@@ -266,7 +269,7 @@
             <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat, re-establishes the old tradition of the Masqar</div>
             <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
-            <div class="timeline-item" data-date="72PA">Drow emerge in northern Nirydia from Tur Aman, Slaughter of the First Night</div>
+            <div class="timeline-item" data-date="72PA">Drow emerge in northern Nirydia from the underlands, Slaughter of the First Night</div>
             <div class="timeline-item" data-date="75PA">Great Seal of Tur Aman begins construction</div>
             <div class="timeline-item" data-date="77PA">Esimated birth of Kortyr Paleblood</div>
             <div class="timeline-item" data-date="78PA">Era of Shame begins on Ynkal, Minotaurs are enslaved by the Vanpur Empire</div>
@@ -276,12 +279,12 @@
             <div class="timeline-item" data-date="99PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
-            <div class="timeline-item" data-date="110PA">The Drow of Nirydia collapse the entrance to the nirydian underlands, Great Seal of Tur Aman is finished</div>
+            <div class="timeline-item" data-date="110PA">The Drow of Nirydia collapse the entrance to the nirydian underlands, Great Seal of Tur Aman is finished, Union of the Amani Drow under Tur Aman</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
-            <div class="timeline-item" data-date="114PA">The Aelf Tragna rises as the prominent Warlord of the north</div>
             <div class="timeline-item" data-date="119PA">Sarloni Migration south, Invasion of western Kherova</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
             <div class="timeline-item" data-date="121PA">The Dirhan is established as the Highest Council within the Sultanate</div>
+            <div class="timeline-item" data-date="123PA">The Aelf Tragna rises as the prominent Warlord of the north</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="129PA">Tragna becomes the Queen of Skemfing, birth of Skemfing</div>
             <div class="timeline-item" data-date="130PA">First Records of the Vihrmen Federation as a political entity</div>
@@ -393,6 +396,7 @@
             <div class="timeline-item" data-date="445PA">The Church of Faigin is officially created from the Motherly Priesthood in Richelet</div>
             <div class="timeline-item" data-date="446PA">The Conclave of 446 canonises Ralond the Scaleslayer</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
+            <div class="timeline-item" data-date="451PA">The Kingdom of Tur Filash is almost destroyed in the Crisis of the 4th Period</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, end of Qahori Subjugation</div>
@@ -444,10 +448,12 @@
             <div class="timeline-item" data-date="553PA">End of the Sznimo Dynasty in Vihr, Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
+            <div class="timeline-item" data-date="557PA">Rebellion of Tur Filash begins</div>
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="572PA">End of the Leveli Civil War, Foundation of Richelet</div>
+            <div class="timeline-item" data-date="573PA">Rebellion of Tur Filash ends, Union of Tur Filash succeeds the Kingdom of Tur Filash</div>
             <div class="timeline-item" data-date="576PA">The Hessefi Daemonologist Visham is assassinated on Ziflis Island</div>
             <div class="timeline-item" data-date="577PA">End of the Geoli Republic, The Conclave of 577 canonises Palus Aergestes</div>
             

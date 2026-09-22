@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Population</strong>
-        <span>ca. 31000</span>
+        <span>ca. 38000</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

@@ -1,4 +1,7 @@
-<p>A great misconception is that the Troll is related to  the Giant and Ogre, when in actuality these species share essentially no common origin with the large stewards of the lands. Their large appearance and differing phenotypes relative to their environment can of course seem rather similar to these races but one should take care to avoid this common mistake.</p>
+%%
+[[Trog]]
+%%
+<p>A great misconception is that the Troll is related to  the Giant and Ogre, when in actuality these species share essentially no common origin with the large stewards of the lands. Their large appearance and differing phenotypes relative to their environment can of course seem rather similar to these races but one should take care to avoid this common mistake. In all likelyhood the Troll is the ancestor of the Trog and therefore the distant ancestor of Gnomes & Dwarves as well as their offspring as well.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Troll.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Meadi Hill Troll</i></small>
 </div>
