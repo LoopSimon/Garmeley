@@ -1,3 +1,6 @@
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gnome2.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>An almadi male Gnome</i></small>
+</div>
 The Cousins and distant relatives of Dwarves, Gnomefolk dislike the underground and prefer to live under the sun and moon of the world instead.  
 As opposed to their [[Dwarf]] relatives, they can barely grow a beard and are even smaller at an average 4ft. While reaching the same lifespan of about 150 years.
 

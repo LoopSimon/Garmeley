@@ -1,23 +1,22 @@
 %%
-[[Ikara]]
-[[Beheran]]
-[[Cường Đức Lý]]
-[[Meana Telamon]]
 [[The 927 Falcons Flight]]
+[[Ikara]]
+[[Kaito]]
+[[Meana Telamon]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Hiraz Narel</h4>
+    <h4 class="wiki-header">Cường Đức Lý</h4>
     <div class="wiki-row">
         <strong>Epiteth</strong>
-        <span>Bluebeard</span>
+        <span>The Duke</span>
 	    </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span><a href="Beheran" class="internal-link">Horadi</a> <a href="Human" class="internal-link">Human</a></span>
+        <span>Yppori <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>Dor Horad, 890PA</span>
+        <span>unknown</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -25,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>37 Years old</span>
+        <span>unknown</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -33,6 +32,6 @@
         <span>Skyrider Company, <br><a href="Meana Telamon" class="internal-link">Meana Telamon</a></span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Bluebeard.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Cuong.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>

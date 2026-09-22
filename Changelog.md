@@ -1,12 +1,16 @@
-- 2026-09-22T1818 · Svirfneblin
-- 2026-09-22T1813 · Krili
+- 2026-09-22T1834 · Gnome
+- 2026-09-22T1832 · Krili
+- 2026-09-22T1832 · Svirfneblin
+- 2026-09-22T1831 · Hiraz Bluebeard
+- 2026-09-22T1828 · Idir
+- 2026-09-22T1828 · Lario
+- 2026-09-22T1825 · Cường Đức Lý
 - 2026-09-22T1746 · Trog
 - 2026-09-22T1742 · Troll
 - 2026-09-22T1741 · Halfling
 - 2026-09-22T1739 · Wilgar
 - 2026-09-22T1738 · Nua
 - 2026-09-22T1728 · Complete Timeline
-- 2026-09-22T1428 · Hiraz Bluebeard
 - 2026-09-22T0752 · Tur Filash
 - 2026-09-22T0741 · Onosiam
 - 2026-09-22T0718 · Vuron
@@ -131,7 +135,6 @@
 - 2026-09-16T0832 · Krestasi
 - 2026-09-15T1840 · Ida Laridottr
 - 2026-09-15T1840 · Alma Laridottr
-- 2026-09-15T1825 · Lario
 - 2026-09-15T1823 · Bazur
 - 2026-09-15T0958 · Terem-Zal
 - 2026-09-15T0710 · Ahrmiz Saceren
@@ -195,6 +198,3 @@
 - 2026-09-12T1540 · Tizinpoc
 - 2026-09-12T1534 · Yari
 - 2026-09-12T0655 · Tageyo
-- 2026-09-11T0627 · Astafir
-- 2026-09-09T2358 · Raxor
-- 2026-09-09T2350 · Owlbear
