@@ -38,3 +38,5 @@
 </div>
 
 <p>Prince Skemril was a half-elven legendary Prince of the Aelfs of the North and the son of <a href="Tragna" class="internal-link">Queen Tragna of Skemfing</a>, during the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a> he was once of the four heroes that would swear an oath to rescue the stolen Gudrun. He fought against his elder brother the Prince <a href="Laettr" class="internal-link">Laettr</a> during the events of the Saga and his ship was the Arfagna.</p>
+
+<p>Both Skemril and Laettr were born from union of the human hero Ralder and Queen Tragna of the Aelfs, who had over her century long lifetime taken to many husbands and sired many Princes, including short-lived humans such as Ralder.</p>

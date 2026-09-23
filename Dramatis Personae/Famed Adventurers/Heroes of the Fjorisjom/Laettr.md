@@ -37,3 +37,4 @@
 
 </div>
 <p>Prince Laettr was a half-elven legendary Prince of the Aelfs of the North and the son of <a href="Tragna" class="internal-link">Queen Tragna of Skemfing</a>, during the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a> he was an antagonist of the four legendary heroes and fought against his younger brother the Prince <a href="Skemril" class="internal-link">Skemril</a> during the events of the Saga, who was one of the four heroes that set out to save Princess Gudrun, Laettrs duel with Skemril is one of the major parts of the Saga.</p>
+<p>Both Laettr and Skemril were born from union of the human hero Ralder and Queen Tragna of the Aelfs, who had over her century long lifetime taken to many husbands and sired many Princes, including short-lived humans such as Ralder.</p>
