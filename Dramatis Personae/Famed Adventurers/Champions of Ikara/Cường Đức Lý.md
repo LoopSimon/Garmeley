@@ -3,6 +3,7 @@
 [[Ikara]]
 [[Kaito]]
 [[Meana Telamon]]
+[[Sochor]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Cường Đức Lý</h4>
@@ -29,7 +30,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span>Skyrider Company, <br><a href="Meana Telamon" class="internal-link">Meana Telamon</a></span>
+        <span>Skyrider Company, <br><a href="Meana Telamon" class="internal-link">Meana Telamon</a>, <br><a href="Sochor" class="internal-link">Faith of Sochor</a></span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Cuong.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
