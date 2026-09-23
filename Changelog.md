@@ -1,3 +1,8 @@
+- 2026-09-23T2000 · Laettr
+- 2026-09-23T1956 · Skemril
+- 2026-09-23T1956 · Tragna
+- 2026-09-23T1950 · Aelf
+- 2026-09-23T1246 · Provost Mihun
 - 2026-09-23T1238 · Ued al-Raban
 - 2026-09-23T1214 · Hiraz Bluebeard
 - 2026-09-22T1840 · Lario
@@ -24,12 +29,9 @@
 - 2026-09-22T0237 · Tur Ajk
 - 2026-09-22T0213 · Enzal Pantheon
 - 2026-09-22T0201 · Murajk
-- 2026-09-21T2242 · Aelf
-- 2026-09-21T2225 · Tragna
 - 2026-09-21T1923 · White Wars
 - 2026-09-21T1923 · Golden Dusk
 - 2026-09-21T1908 · Fjorisjom Saga
-- 2026-09-21T1907 · Skemril
 - 2026-09-21T1419 · Half-Elf
 - 2026-09-21T1419 · Elf
 - 2026-09-21T1418 · Skemfing
@@ -150,7 +152,6 @@
 - 2026-09-14T1421 · Rulers of Kherova
 - 2026-09-14T1417 · Ikara
 - 2026-09-14T1414 · Kessim Miximur
-- 2026-09-14T1402 · Provost Mihun
 - 2026-09-14T1400 · Melara
 - 2026-09-14T1400 · Turvik Paganism
 - 2026-09-13T1450 · Leok
@@ -197,4 +198,3 @@
 - 2026-09-12T1542 · Faigin
 - 2026-09-12T1540 · Ihisa
 - 2026-09-12T1540 · Tizinpoc
-- 2026-09-12T1534 · Yari

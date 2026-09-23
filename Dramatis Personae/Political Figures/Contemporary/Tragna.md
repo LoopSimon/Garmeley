@@ -2,6 +2,7 @@
 [[Aelf]]
 [[Skemril]]
 [[Skemfing]]
+[[Laettr]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Tragna Reasna</h4>
@@ -42,5 +43,5 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tragna.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Tragna Reasna is the eternal Queen of the <a href="Aelf" class="internal-link">Aelfrealm</a> of Skemfing in the lands of ice eternal of Jeturlund. She has ruled her people for over half a millenia and guards their unique culture and survival fiercely. She stands in contact to mysterious powers and is said to have promised her heart to beings of Night and Ice to saveguard her people. She is the mother of various Princes of the Aelfs, including the norse hero <a href="Skemril" class="internal-link">Skemril</a> who is a half-elf of human blood that has long passed away. </p>
+<p>Tragna Reasna is the eternal Queen of the <a href="Aelf" class="internal-link">Aelfrealm</a> of Skemfing in the lands of ice eternal of Jeturlund. She has ruled her people for over half a millenia and guards their unique culture and survival fiercely. She stands in contact to mysterious powers and is said to have promised her heart to beings of Night and Ice to saveguard her people. She is the mother of various Princes of the Aelfs, including the norse heroes <a href="Skemril" class="internal-link">Skemril</a> and <a href="Laettr" class="internal-link">Laettr</a> who were half-elves of human blood that have long passed away and are important characters within the <a href="Fjorisjom Saga" class="internal-link">Fjorisjom Saga</a>. </p>
  <p>The standard elven lifespan does not account for Tragna. She is said to have promised her heart to beings of Night and Ice in exchange for the safeguarding of her people, a bargain whose supernatural dimensions are accepted as fact in Aelf tradition and approached with considerably more scepticism by outside scholars who nonetheless cannot easily explain her continued existence. Whether Tragna is immortal, extraordinarily long-lived by means of her pact, or something more difficult to categorize, she is the most significant living political figure in the far north and one of the oldest known living beings in Inara.</p>

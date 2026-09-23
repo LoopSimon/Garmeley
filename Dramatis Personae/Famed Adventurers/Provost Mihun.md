@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>885PA,</span>
+        <span>881PA,</span>
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>44</span>
+        <span>48</span>
     </div>
     <div class="wiki-row">
         <strong>Issue</strong>
