@@ -1,6 +1,7 @@
 %%
 [[Cyraclion]]
 [[Paper Cities]]
+[[Wasteland of Rakh]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Butera_Guild_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Seal of the Excavators Guild</i></small>
@@ -15,4 +16,4 @@ Controlling all major entryways, and essentially most resources in terms of navi
 
 Due to the major demand for elder Artefacts by Academic Institutions like [[Korsfall College]], the Guild has enjoyed financial prosperity for the majority of the last 3 centuries and now basically controls the island of Butera, being a major factor to the outcome of the Battvian Civil war.
 
-In modern times the Buterans have launched multiple expeditions into southern Itharia, yet to public knowledge without any success whatsoever, while also keeping a stern eye on their control over the Rakhian Wasteland, to the dismay and ire of countries like [[Hainach]] or [[Garmeley]]. 
+In modern times the Buterans have launched multiple expeditions into southern Itharia, yet to public knowledge without any success whatsoever, while also keeping a stern eye on their control over the <a href="Wasteland of Rakh" class="internal-link">Wasteland of Rakh</a>, to the dismay and ire of countries like [[Hainach]] or [[Garmeley]]. 

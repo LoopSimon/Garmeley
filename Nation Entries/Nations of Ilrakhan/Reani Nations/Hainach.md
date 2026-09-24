@@ -1,5 +1,6 @@
 %%
 [[Kindly Lords]]
+[[Wasteland of Rakh]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Princedom of Hainach</h4>
@@ -46,7 +47,7 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Hainach_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p> Nestled against the slopes of the <a href="Cloudscratchers" class="internal-link">Cloudscratchers</a> lies the Princedom of Hainach, one of the last remnants of what was once the old Kingdom of <a href="Rean" class="internal-link">Rean</a>. Now an Eyalet of the Sultanate and forced to open its gates to elven influences, the border realm is currently one of the only settled nation actively attempting to reclaim parts of the Wasteland of <a href="Rakh" class="internal-link">Rakh</a>. </p>
+<p> Nestled against the slopes of the <a href="Cloudscratchers" class="internal-link">Cloudscratchers</a> lies the Princedom of Hainach, one of the last remnants of what was once the old Kingdom of <a href="Rean" class="internal-link">Rean</a>. Now an Eyalet of the Sultanate and forced to open its gates to elven influences, the border realm is currently one of the only settled nation actively attempting to reclaim parts of the <a href="Wasteland of Rakh" class="internal-link">Wasteland of Rakh</a>. </p>
 <p>Hainach borders the Sultanate at the Mesovo River in east and the Duchy of Garmeley within the Vale of Rean, roughly along the height of Nea Reanis.</p>
 
 <h2>Geography</h2>

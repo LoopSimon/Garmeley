@@ -8,6 +8,8 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman human in southern Behera</div>
 	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor, the Narzoi evolves in central of Aisligos from their Purman ancestor</div>
+	        <div class="timeline-item" data-date="250000BA">Underland Trolls slowly evolve into the smaller Trogs</div>
+	        <div class="timeline-item" data-date="210000BA">Trog cultures dominate the pre historic underlands</div>
 	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
 	        <div class="timeline-item" data-date="130000BA">Oldest evidence of ancient seafaring from the island of Sarash</div>
 	        <div class="timeline-item" data-date="120000BA">Era of Ash</div>
@@ -716,7 +718,7 @@
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl, Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment.</div>
             <div class="timeline-item" data-date="917PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave, Independence Movements grow once again in Droil</div>
-            <div class="timeline-item" data-date="919PA">Vorellan Wars end, Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach</div>
+            <div class="timeline-item" data-date="919PA">Vorellan Wars end; Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach; The Goblin Poet Taggazan performs at the Rectors Ball of Reanport</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords, Gaal-Renessi War breaks out</div>
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world, The Derianov Uprising is put down</div>
             <div class="timeline-item" data-date="922PA">Death of Duchess Agnes of Garmeley, Fairriver Incident, Dwarven Invasion of Yokosch</div>

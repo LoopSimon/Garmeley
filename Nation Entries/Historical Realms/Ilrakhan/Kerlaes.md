@@ -4,6 +4,7 @@
 [[Arester]]
 [[Rakh]]
 [[Garmeley]]
+[[Wasteland of Rakh]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of the Kerleans</h4>
@@ -51,7 +52,7 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Kerleas_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>Kerlaen was a Silver Age Nation situated north-east to the wastes of <a href="Rakh" class="internal-link">Rakh</a>, centred around the Trinvale and Lake Eresh, it fell during a War with the northern Kingdom of <a href="Urland" class="internal-link">Urland</a> after being betrayed by its ally, the Kingdom of <a href="Arester" class="internal-link">Arester</a> during the 320s. Some could consider eastern <a href="Garmeley" class="internal-link">Garmeley</a> and the <a href="Trinvale" class="internal-link">Trinvale Republics</a> "successors" to the old realm but both nations dont really fit the claim as is and true Kerlean traditions are only practiced in the aptly named "Kerlean Wilderness", a stretch of swamps and Hills south of Lake Eresh leading into the Windy Rocks and the Wasteland itself. </p>
+<p>Kerlaen was a Silver Age Nation situated north-east to the wastes of <a href="Rakh" class="internal-link">Rakh</a>, centred around the Trinvale and Lake Eresh, it fell during a War with the northern Kingdom of <a href="Urland" class="internal-link">Urland</a> after being betrayed by its ally, the Kingdom of <a href="Arester" class="internal-link">Arester</a> during the 320s. Some could consider eastern <a href="Garmeley" class="internal-link">Garmeley</a> and the <a href="Trinvale" class="internal-link">Trinvale Republics</a> "successors" to the old realm but both nations dont really fit the claim as is and true Kerlean traditions are only practiced in the aptly named "Kerlean Wilderness", a stretch of swamps and Hills south of Lake Eresh leading into the Windy Rocks and the <a href="Wasteland of Rakh" class="internal-link">Wasteland</a> itself. </p>
 <p>Following the apocalyptic collapse and destruction of the Empire, the remaining Rakhi officials and civilians that were unaffected by the "Fading" gathered in the city of Gibaresh, modern day Calmbrook, and declared the "Empire of New Rakh" under their leader Harrusham in 12PA. Severely outnumbered the remaining rakhians underlined on the sentiment they were simply "born and bred to rule" over the lesser urien, kerlaen population and relied on Kerlaen Mercenaries and Guards to protect them and enforce their rule. Unfortunately for them, old sentiments, claims of divine rule from foreign gods, and promises of gold riches inspired little loyalty in their protectors and "New Rakh" fell under the boots of the Warlord Arvald only 15 years after its inception.
 </p>
 <p>Kerlaes is notable for upholding the <a href="Turvik Paganism" class="internal-link">Turvik Pantheon</a> the longest of any historical realm of men as a widespread state religion, even observing its traditional human sacrifices until the fall of the realm.</p>

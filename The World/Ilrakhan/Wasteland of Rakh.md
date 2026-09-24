@@ -1,0 +1,8 @@
+%%
+[[Nurlight]]
+[[Rakh]]
+[[Ilrakhan]]
+[[Excavators Guild of Butera]]
+%%
+<p>This treacherous and mysterious area located in south-western <a href="Ilrakhan" class="internal-link">Ilrakhan</a> is subject to various strange and largely unexplained phenomena and extremely dangerous to traverse. It was the home of the infamous Empire of <a href="Rakh" class="internal-link">Rakh</a>, that controlled vast stretches of Ilrakhan, the continent itself being named after the civilization. The so called "Common Calendar" used by a majority of civilizations in Behera and Ilrakhan, date the year 0 to the eruption of Al-Akka, the massive volcano in the centre of Rakh that lead to the downfall of the Empire and the change in the landscape over the course of mere moments and the years beyond. Today the Wasteland is dominated still by the central silhouette of what remains of Al-Akka due to the strange phenomena displayed above it, called the <a href="Nurlight" class="internal-link">Nurlight</a>.</p>
+<p>Beginning with the so called "Great Expedition" of 580PA, archaeologists and daring adventurers began exploring the broken ruins and fallen cities of the Empire, as well as the various stretches of the Wasteland, often finding mysterious and powerful artefacts, as well as invaluable historical relics. These Expeditions would eventually be organized and helmet within the organisation known as the <a href="Excavators Guild of Butera" class="internal-link">"Excavators Guild of Butera"</a>.</p>
