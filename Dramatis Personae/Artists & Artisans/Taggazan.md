@@ -34,7 +34,7 @@
         <span>Heroics, Patriotism</span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Taggazan.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tagazan.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>The Bard Taggazan On-Sis is one of the most beloved living singers and poets of goblinkind in the lands around the Stormy Sea, having travelled from court to court and city to city for decades now, he has recently settled down around the Dwarven Hold turned Goblin City of <a href="Fogorix" class="internal-link">Fogorix</a> as far as the public is aware of, with no news of future plans or publications inbound as of 927PA.</p>

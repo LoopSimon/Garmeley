@@ -17,7 +17,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>unknown</span>
+        <span>889PA, Purple Seas</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -25,7 +25,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>unknown</span>
+        <span>38</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -33,6 +33,6 @@
         <span>Skyrider Company, <br><a href="Meana Telamon" class="internal-link">Meana Telamon</a>, <br><a href="Sochor" class="internal-link">Faith of Sochor</a></span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Cuong.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Duc.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>

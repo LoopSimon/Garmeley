@@ -1,0 +1,7 @@
+%%
+[[Tur Enzal]]
+[[Underlands]]
+%%
+<p>Glintstone is a underlands refined mineral with special luminous capabilities. If left untouched for a few seconds, refined Glintstone will emit a dim and cold green-yellowish Light in its vicinity, but return to darkness if moved at all. If observed while moved, Glintstone looks like a granite like grey-darkish substance.  </p>
+<p>The refinement of Glintstone was one of the earliest achievements of the <a href="Drow" class="internal-link">Drow</a> High-Cultures like <a href="Tur Enzal" class="internal-link">Tur Enzal</a> but seemingly spread beyond their Cities over millennia, however procuring raw Glint or its exact methods of refinement have not been subjects easy to investigate or achieve due to the Great Flooding of the Enzalad Cave, creating the massive underlands sea known now as the Obsidian Desert. It seems like the Drow of Tur Enzal used Glintstone as a mark of status and wealth and may have even incorporated it within their pre-prosum artificery.</p>
+<p>Glintstone is sometimes carried to the surface by expedition parties or sold by deeper underlands residents that are in exchange with the more surface oriented communities, as it is a rare curiosity for many eccentrics and can fetch a decent price, there are rumours of entire Ballrooms in Cevolia decorated in Glintstone. Another use is for those surface dwellers not accustomed to the deeps to utilize the material as a reliable light source underground and its motion dependency can actually have surprising advantages in certain situations.</p>
