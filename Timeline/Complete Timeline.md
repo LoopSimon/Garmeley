@@ -139,10 +139,10 @@
             <div class="timeline-item" data-date="900BA">Discovery of Kynosis in Cyraclion</div>
             <div class="timeline-item" data-date="890BA">2nd Alparid Conquest of the Drow Empire of Tur Ajk, end of Tur Ajk</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
+            <div class="timeline-item" data-date="881BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
             <div class="timeline-item" data-date="845BA">The Diacor Union is declared as the Empire of Diacor under Zenzetan VI</div>
             <div class="timeline-item" data-date="780BA">First Records of the Walled City of Ikara</div>
-            <div class="timeline-item" data-date="751BA">The Founding of the Great City of Rakh</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
             <div class="timeline-item" data-date="710BA">Neyadastes compiles the Codex Kynosis</div>
             <div class="timeline-item" data-date="700BA">Thurl, modern day Thulmouth, is founded by Izian/proto-Reani traders.</div>
@@ -199,6 +199,7 @@
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
             <div class="timeline-item" data-date="299BA">The Omna of Japhal is formed, putting an end to the Durenni Age of Strife </div>
+            <div class="timeline-item" data-date="298BA">The Paragma: The Priesthood of Rakh rises against the Fireking and is divided before being brutally put down</div>
             <div class="timeline-item" data-date="297BA">Xolori Age of Wind and Wave begins</div>
             <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
             <div class="timeline-item" data-date="293BA">3rd Great Rakhi-Accadi War begins</div>

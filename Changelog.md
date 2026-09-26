@@ -1,3 +1,12 @@
+- 2026-09-26T0400 · Rakh
+- 2026-09-26T0353 · Nursili
+- 2026-09-26T0343 · Hantili
+- 2026-09-26T0335 · Harrusham
+- 2026-09-26T0327 · Complete Timeline
+- 2026-09-26T0319 · Rakhi-Meter Wars
+- 2026-09-25T2057 · Ptamon
+- 2026-09-25T2016 · Children of Dust
+- 2026-09-25T2008 · Bassara
 - 2026-09-25T1717 · Wasteland of Rakh
 - 2026-09-25T1657 · Glintstone
 - 2026-09-25T0236 · Dulakis
@@ -14,8 +23,6 @@
 - 2026-09-24T1852 · Excavators Guild of Butera
 - 2026-09-24T1852 · Nurlight
 - 2026-09-24T1851 · Timut
-- 2026-09-24T1845 · Children of Dust
-- 2026-09-24T1643 · Complete Timeline
 - 2026-09-23T2003 · Skemril
 - 2026-09-23T2003 · Laettr
 - 2026-09-23T1950 · Aelf
@@ -191,10 +198,3 @@
 - 2026-09-12T2236 · Ensolos
 - 2026-09-12T2236 · Enrash
 - 2026-09-12T2236 · Ahrzin
-- 2026-09-12T2232 · Puoqer
-- 2026-09-12T2231 · Qezinas
-- 2026-09-12T1831 · Aleac
-- 2026-09-12T1803 · Pnurzefec
-- 2026-09-12T1724 · Pravazik Pantheon
-- 2026-09-12T1721 · Tasch
-- 2026-09-12T1720 · Oleithec

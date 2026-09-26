@@ -1,49 +1,152 @@
-%% [[Rakhian Mythology]] %%
+%%
+[[Rakhian Mythology]]
+[[Palmunia]]
+[[Addacia]]
+[[Nurlight]]
+[[Wasteland of Rakh]]
+[[Auguri Dominion]]
+[[Kerlaes]
+[[Children of Dust]]
+[[Excavators Guild of Butera]]
+[[Rakhi-Meter Wars]]
+%%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Rakhian Empire</h4>
-    <div class="wiki-row">
-        <strong>Government</strong>
-        <span>Imperial Elective</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Head of State</strong>
-        <span>N/A</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Capital</strong>
-        <span>Rakh</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Heraldic Symbol</strong>
-        <span>Winged Serpent with Wolfhead</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Primary Religion</strong>
-        <a href="Rakhian Mythology" class="internal-link">Rakhian Mythology</a>
-    </div>
-    <div class="wiki-row">
-        <strong>Primary Culture</strong>
-        <span>Rakhian</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Official Language</strong>
-        <span>High Rakhi</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Preceded by</strong>
-        <span>N/A</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Formed</strong>
-        <span>751BA</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Disbanded</strong>
-        <span>0PA</span>
-    </div>
-    <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/rakh_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+ <h4 class="wiki-header">Rakhian Empire</h4>
+ <div class="wiki-row">
+ <strong>Government</strong>
+ <span>Imperial Elective</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Head of State</strong>
+ <span>Lord of Cities (early); Fireking (from 560BA)</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Capital</strong>
+ <span>Rakh</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Heraldic Symbol</strong>
+ <span>Winged Serpent with Wolfhead</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Primary Religion</strong>
+ <a href="Rakhian Mythology" class="internal-link">Rakhian Mythology</a>
+ </div>
+ <div class="wiki-row">
+ <strong>Primary Culture</strong>
+ <span>Rakhian <a href="Human" class="internal-link">Human</a></span>
+ </div>
+ <div class="wiki-row">
+ <strong>Official Language</strong>
+ <span>High Rakhi</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Preceded by</strong>
+ <span>N/A</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Formed</strong>
+ <span>881BA</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Disbanded</strong>
+ <span>0PA</span>
+ </div>
+ <hr class="wiki-hr">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/rakh_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p></p>
+
+<p>The Empire of Rakh, commonly referred to simply as Rakh, was an ancient human civilisation that dominated south-western Ilrakhan for roughly seven centuries, from its founding as a city-state in 881BA until its sudden and catastrophic destruction in 0PA. At its greatest extent, Rakh encompassed the western coastline of the Smoking Sea, the fertile river valleys of the Kippir and Ussar, the conquered territories of <a href="Palmunia" class="internal-link">Palmunis</a> and Sakra, the former lands of the <a href="Addacia" class="internal-link">Addacian Empire</a>, the hill-tribes of Garm and Ares, the forests of Cevolia, and the northern shores of the Stormy Sea, a domain that stretched from the Cloudscratcher mountains in the south to the Pilvian highlands in the east and the northern Kortopis in the north. Its capital, the Great City of Rakh at the mouth of the Ussar Delta on the Bay of Rakh, was among the largest and most celebrated urban centres of the ancient world.</p>
+
+<p>The Rakhi were a human people whose culture bore the deep imprint of the Palmunian civilisation from which they had grown. Their early rulers inherited Palmunian civic traditions, their architects drew on Palmunian forms, and their earliest religious life blended indigenous Ilrakhani belief with Palmunian polytheism. Over centuries of conquest, war, and synthesis, the Rakhi developed a culture unmistakably their own, a literate, monumental, fiercely martial civilisation whose emperors were simultaneously warlords and high priests, whose temples towered above the river plains, and whose armies reshaped the political map of western Ilrakhan again and again.</p>
+
+<p>The destruction of Rakh, the eruption of the volcano Al-Akka in the year that defines the Common Calendar's point of zero, remains one of the most debated events in world history. The civilisation did not merely collapse: its people vanished. What occurred in the <a href="Wasteland of Rakh" class="internal-link">Wastes of Rakh</a> during the final hours of the empire is unknown. The crimson shine of the <a href="Nurlight" class="internal-link">Nurlight</a>, visible for hundreds of miles above the crater of Al-Akka, has burned without ceasing for over nine hundred years. It is the most enduring monument to a people who have otherwise left only ruins.</p>
+
+<h2>Sources and Scholarship</h2>
+
+<p>What is known of Rakh arrives through a narrow set of surviving sources, each carrying its own limitations. The most significant primary document is the Alwazattar Tablets, inscribed by the scholar <a href="Phiodales" class="internal-link">Phiodales of Mizk</a> around 33BA, a mere generation before the fall, and recovered from the ruins of the city of Alwazattar by expeditions of the <a href="Excavators Guild of Butera" class="internal-link">Excavators Guild of Butera</a>. They offer a partial window into the administrative, religious, and intellectual life of the late empire, but they are a single voice from a single moment. Beyond them, knowledge of Rakh is assembled from the ruins themselves, which the Excavators Guild has systematically documented since the Great Expedition of 580PA; the accounts of neighbouring peoples, Urien, Kerlaeni, and others, who recorded their dealings with Rakh before and after its fall; and the theoretical frameworks constructed by later scholars, of whom the gnomish physicist <a href="Larkomas" class="internal-link">Larkomas Mi Terix</a>, author of the Syntropic-Collapse Hypothesis, remains the most influential. The Guild's monopoly on sanctioned excavation has shaped which sites are known and which findings are published; a parallel and entirely unsanctioned body of research has been conducted by the loose network of scholars known as the <a href="Children of Dust" class="internal-link">Children of Dust</a>, who have accessed the Wastes through back channels the Guild does not control and whose findings circulate through private correspondence rather than formal publication. Either way, the Wastes offer their secrets slowly and at considerable cost.</p>
+
+<h2>Religion and the Emperor-Priest</h2>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/elderdays.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
+<small><i>rakhi Priesthood</i></small>  
+</div>
+
+<p>The religious life of the empire centred on four great gods, whose identities and associations developed over the empire's history to reflect its changing character. Izmarid the Great Serpent of Chaos was the supreme deity, a red-scaled, winged serpent with the head of a wolf, whose emblem adorned the heraldic standards of the empire and whose image was carved above the gates of every Rakhian city. Izmarid was associated with fire, with catastrophe, with the destructive forces of the natural world, but also crucially with life and with victory in war. Kirnek the Wind God, depicted as a man with the upper body of an eagle, governed the sea and the sky, the winds that drove Rakhian ships along the Smoking Sea coast. Kolohoz the Old Guide was the psychopomp, the conductor of souls, depicted as a severely overweight, senile naked old man riding a floating stone platform; scholars have noted his close parallel to <a href="Turvik Paganism" class="internal-link">Heagur</a>, the Turvik god of wisdom and death, suggesting a deep cultural exchange between the two traditions at some early period. Chimar the Sun Hunter is the most contested of the four; later scholars have theorised that Chimar represents an amalgamation of the Rakhian rulers themselves, a deified figure whose identity crystallised over centuries of imperial mythology until he became a god in his own right.</p>
+
+<p>The Rakhian ruler was not merely a king. The Fireking was simultaneously a secular commander and a sacred figure, a liminal presence standing between the divine world and the human one. The god Izmarid, in the Rakhian understanding, had entrusted the ruler with the land and with his household: the civilisation of Rakh was not a human project operating in a neutral cosmos but a sacred commission, held in divine trust. There were no regularly scheduled religious ceremonies. Instead, rituals were performed in response to events: in answer to hard times, to mark military victories, to address catastrophes, to consecrate new conquests. The ruler performed these rites as high priest; the ritual was often a re-enactment of myth, a performance of the divine stories in which the gods had established the patterns of existence. Myth and ritual were not separate domains but two faces of the same sacred reality.</p>
+
+<h2>Government</h2>
+
+<p>The Rakhian system of government was designated Imperial Elective, a form in which the Fireking was not automatically succeeded by his heir but was chosen by the Kizzim, the great senate of the Rakhian aristocracy. The Kizzimi, the hereditary noble class whose collective body constituted both the empires elective college and its most powerful deliberative institution, numbered between approximately one hundred and twenty and one hundred and fifty members depending on the period. Drawn from the great houses of the Rakhian heartland but congregating almost entirely in the capital city of Rakh, the Kizzimi were the wealthiest and most powerful individuals in the empire. The Kizzim met in a vast palace complex in the Great City, the remains of which were identified by the Third Expedition of the <a href="Excavators Guild of Butera" class="internal-link">Excavators Guild of Butera</a>, whose archaeologists uncovered a monumental ruined hall decorated with frescos depicting the assembled Kizzimi in formal session. The tension between the elective principle and dynastic ambition was a recurring source of political friction throughout the empire's history.</p>
+
+<p>The third pillar of the Rakhian upper class was the Priesthood, whose organisation was closely intertwined with the practice of Thaumaturgy: the wielding of supernatural power derived from the gods. In the Rakhian understanding, magic and religion were not separate domains. All extraordinary power flowed from the same divine source, granted by the gods to the Rakhi as part of the covenant established when Izmarid entrusted the ruler with the land. The Priesthood was divided into distinct sects organised around the four major gods, each with its own High Temple in a different location across the empire. These sects were nominally part of a single greater institution, but the practical degree of coordination between them appears to have been loose at best. Records of the internal organisation of the Priesthood are scarce; it remains unclear in surviving sources whether the title of Thaumaturge, attested in documents such as the Alwazattar Tablets, which name the author and scholar <a href="Phiodales" class="internal-link">Phiodales</a> by this designation, applied to all priests or only to those who manifested genuine supernatural gifts. In the later empire, the Fireking formally assumed the position of Head of the Priests, placing himself at the apex of both secular and religious authority. This consolidation of power would not go uncontested.</p>
+
+<h3>The Paragma (298BA)</h3>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Rakhimagus.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
+<small><i>Thaumaturge of Rakh</i></small>  
+</div>
+
+<p>In 298BA, the Firekings assertion of supreme religious authority fractured the Priesthood. A significant faction refused to acknowledge his claim over sacred offices they regarded as beyond secular reach, and rose in open revolt. The crisis became known as the Paragma. It was ended not by military force but by a judgment that contemporaries and later historians alike regarded as among the most terrible acts in Rakhian history. The loyal Thaumaturges, those within the Priesthood who had remained faithful to the Fireking, turned on their rebellious colleagues in a mass act of sacred punishment. The condemned were subjected to a process in which their intellect and sensory perception were preserved intact while their bodies were transmuted into stone. They remained aware, they could perceive, yet they could not move, speak, or act. The petrified priests were displayed as a monument to the cost of defiance against the Fireking's authority. The Paragma establishedthe supremacy of the throne over the temple with a finality to it. The explorer <a href="Mario Benvolo" class="internal-link">Mario Benvolo</a> of the Excavators Guild of Butera later suffered the same fate during his own expeditions into the Wastes.</p>
+
+<h2>Society</h2>
+
+<p>Rakhian society was organised into a clear hierarchy of classes. At the apex stood the Fireking, and beneath him the Kizzimi and the Priesthood. Below these, the middle stratum comprised the scribes, the literate administrative class who recorded taxation, managed the great grain stores and supply chains, and staffed the bureaucratic apparatus through which the empire governed its vast territories alongside artisans and craftsmen, including jewellers, sculptors, potters, and physicians who served the elite and the temples. Soldiers of the professional military class occupied the border between middle and upper strata; those who distinguished themselves in the empires campaigns were rewarded with grants of land and a share of captured wealth, allowing successful military careers to accumulate, over generations, the kind of material standing that might approach the lower edges of the Kizzimi. The lower class consisted of farmers and peasants, the vast majority of the population, estimated at approximately eighty to ninety percent, who worked the agricultural land of the river valleys and provided the surplus on which the empire's cities, armies, and temples depended. Below them were slaves, typically prisoners of war drawn from conquered territories, who worked in elite households, in the mines, and on the great construction projects that the Rakhian state built across its domains. Rakhian slavery was not without legal constraint: slaves retained certain rights, including the capacity to own property.</p>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/rakhburial.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
+<small><i>Burial of a Kizzimi</i></small>  
+</div>
+
+<p>The empire governed its subject populations, Palmuni, Kerlaeni, Addacians, Uriens, Cevolians, Pilvians, and others, with a combination of firm control and studied indifference to their internal affairs. The Rakhi imposed their authority through military presence, taxation, and the conscription of soldiers into various armies, but did not systematically attempt to impose Rakhian culture, language, or religion on those they had conquered. Local traditions, local gods, and local languages persisted throughout the provincial territories. What the empire did impose was taxation and infrastructure. The Rakhian roads that connected the heartland cities to the outer provinces served military and commercial purposes simultaneously, and the great bathhouses constructed in conquered cities such as the still utilized Eastcorner Bathhouse of <a href="Niedrest" class="internal-link">Niedrest</a>, became one of the most recognisable signatures of Rakhian presence in archaeological contexts across the former empire's territory. Alongside them came the tax collectors, the garrison troops, and the slave-takers who harvested prisoners of war from every new conquest to feed the empires labour demands. The language of administration and of the court was High Rakhi, a formal register of the Rakhian tongue developed over centuries for diplomatic and sacred use; local languages persisted throughout the territories while High Rakhi established itself as the language of power and prestige.</p>
+
+<h2>Origins</h2>
+
+<p>To understand Rakh is to first understand <a href="Palmunia" class="internal-link">Palmunis</a>, the civilisation that preceded it and from which it grew. The Palmunian civilisation, whose origins stretch back to the 3rd millenia BA along the Lameidus and the River Urza delta, was the dominant power of south-western Ilrakhan for nearly two thousand years. The Palmuni had spread their culture across the coastlines and river valleys of the region through trade, diplomacy, and the establishment of colonies, outposts of Palmunian civic life planted at the mouths of rivers and at natural harbours along the Smoking Sea. The city that would become Rakh was one such colony. Before it was an empire, it was a settlement at the mouth of the Ussar River, established on the broad bay of Rakh a trading post in the Palmunian orbi. The Rakhi themselves, the scholars of the Great Expedition era would later conclude, were essentially pastiches of the Palmuni in their early traditions and a peoples who had absorbed and transformed what they inherited rather than creating wholly from nothing.</p>
+
+<p>But there was something else woven into the Rakhi character from the beginning: an inheritance from the indigenous peoples of Ilrakhan itself as the proto-Rakhi tribes who had long inhabited the river valleys and coastal plains of what would become the heartland of the empire. From this older stock came something harder and more austere than the relatively cosmopolitan Palmuni, perhaps a certain quality of endurance, a reverence for fire and catastrophe, a culture in which the gods were not merely benefactors but forces of overwhelming and terrible power.</p>
+
+<p>The Great City of Rakh was formally founded in 881BA and the Ussar Delta provided rich agricultural land and easy access inland, the bay offered shelter for ships, and the position at the south-western edge of Ilrakhan placed the city at a natural crossroads between the Palmunian world to the south and west and the less-tamed interior to the north and east. What is clear is that by approximately 880BA, just before Rakhs traditional founding, the region already supported walled settlements capable of sustained trade. Its founding represented not the imposition of civilisation onto wilderness but the crystallisation of a particular power within an already complex system of city-states and colonies.</p>
+
+<h2>The Birth of Empire</h2>
+
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Nursili2.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
+<small><i>Nursili the Conqueror</i></small>  
+</div>
+
+<p>In 610BA, <a href="Nursili" class="internal-link">Nursili I</a>, later called the Conqueror, rose to power as Lord of Cities, the title borne by Rakh's rulers in the early era of expansion. Under Nursili and his successors, Rakh moved with deliberate aggression against its neighbours. The smaller Palmunian colonies, city-states and trading posts that had coexisted uneasily for generations, were absorbed one by one into the growing Rakhian domain. By 560BA, the conquest was complete: <a href="Palmunia" class="internal-link">Palmunia</a> itself, the ancient heart of the civilisation from which Rakh had grown, fell to Rakhian armies. It was at this moment  that the Rakhian ruler's title changed. The Lord of Cities became the Fireking: sovereign not merely of a federation of urban centres but of a true empire, heir to all that Palmunis had been and conqueror of everything beyond it. By absorbing Palmunia, Rakh declared itself not merely a successor but a transformation, the vessel into which all that Palmunis had been would be poured and remade. The ruler-priests of Rakh positioned themselves as the legitimate inheritors of all that was old and sacred in the known world, even as they created something unmistakably new.</p>
+
+<p>Not every campaign succeeded. In 511BA, Rakhian armies pushed against <a href="Cyraclion" class="internal-link">Cyraclion</a> to the northwest and were decisively repelled at the Battle of Milasam. The empire turned its energies elsewhere and the conquest of Sakra (modern <a href="Hainach" class="internal-link">Hainach</a>) in 488BA and the subjugation of <a href="Kerlaes" class="internal-link">Kerlaes</a> in 440BA extended rakkhi reach into new territory, the uplands and coastal plains to the south and east. The Kerlaeni in particular would prove to be a people of extraordinary resilience: subjugated in 440BA, they would maintain their <a href="Turvik Paganism" class="internal-link">Turvik</a> religious traditions even under rakhi rule, and it would be Kerlaeni mercenaries, centuries later, who would be the last to raise arms in the Rakhian name and then the first to turn those arms against their masters.</p>
+
+<h2>The Addacian Wars</h2>
+
+<p>No chapter of Rakhian history is longer, costlier, or more central to the empire's self-understanding than its centuries long conflict with the <a href="Addacia" class="internal-link">Addacian Empire</a> to the east. The Four Great Rakhi Addaci Wars stretched from 438BA to 271BA in nearly two centuries of intermittent but devastating conflict between the two dominant human powers of western Ilrakhan. The Addacians were old and proud, their empire had been founded in the mid 9th century BA and they were a people with their own proud traditions, their own conquest history and their own theological framework centred on the <a href="Kindly Lords" class="internal-link">Kindly Lords</a>. They were also the predecessors of what would become the Reani and a civilisation that had survived and sometimes thrived by adapting to changing powers around it. Against Rakh, they would prove uniquely difficult to destroy.</p>
+
+<p>The First Great Rakhi-Addaci War began in 438BA and ended four years later in 434BA when Addacia ceded the great lands of the Hills, significant territory but not a decisive blow. The pattern was established: Rakh could fight Addacia to a favourable outcome without being able to destroy it. The Second War opened in 404BA and is remembered for the Battle of Ziak (402BA) and the Battle of Enjab (400BA), the second notable for the death of Pharcias, Solor of Addacia. When Addacia finally splintered in 396BA, it was internal dissolution as much as external conquest that brought it about. The Third Great Rakhi-Addaci War began in 293BA and ended inconclusively after the Battle of Toilak in 285BA after eight years of fighting, and without resolution.</p>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hantili.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
+<small><i>Hantili the Great</i></small>  
+</div>
+<p>Then, in 275BA, everything changed. <a href="Hantili" class="internal-link">Hantili the Great</a> rose to power in Rakh. Of all the rulers whose names survive from the long centuries of the empire, Hantili stands apart, one of the great conquerors of the ancient world whose campaigns in a single generation fundamentally transformed the extent and character of the Rakhian domain. The Fourth Great Rakhi-Addaci War began in the year of his rise. It would be the last. In 271BA, Rakhian armies stormed the Addacian capital of Cothar  and conquered it. The Addacian Empire, which had endured for nearly six centuries and survived four wars against Rakh, was ended. In 269BA, the conquest of the stonelands (modern day eastern Hainach) completed the absorption of Addacian territory. The Cevoli Campaigns that followed (266–258BA) swept across the forests to the northwest, and by 258BA Cevolia too had been subjugated. Hantili concluded this extraordinary run of conquests with what his court called the Peace of the Firelord in a generation of enforced calm with the empire digesting its conquests, rebuilding its administration, and settling its new territories lasting nearly fifty years.</p>
+
+
+<h2>The Middle Empire</h2>
+
+<p>The peace that Hantili established broke in 210BA, when Rakh declared war on the <a href="Elven Dynasties" class="internal-link">Meter Dynasty</a>, the ruling elven house of the great Cities of Eastern Behera and by this period the empire's most formidable rival. The conflict, known in Rakhian records as the Beheran Campaigns and to the Meter as the <a href="Rakhi-Meter Wars" class="internal-link">Rakhi-Meter Wars</a>, was fought primarily across the southern Stormy Sea and the former Addacian borderlands, territory where the two empires' ambitions overlapped most dangerously, and where the absorption of Addacia had left Rakhian settlers and Meter political influence in uncomfortably close proximity. Twenty one years of campaigning settled nothing and the war ended at the Battle of Alma-Nexis in 189BA with neither side decisively victorious, the frontier between them largely unchanged. It was the only conflict of Rakh's imperial history in which the empire committed fully to war against a rival and came away with nothing to show for it. The northern frontier reasserted itself in 160BA, when Dinrohl of Pilvia assaulted Rakhian settlers in the southern Pilvian highlands. The Pilvian Wars stretched three decades before the Battle of Miograd in 130BA brought the subjugation of Pilvia and the extension of formal Rakhian authority across the northern shorelines of the Stormy Sea.</p>
+
+<p>And yet there were limits. The empire's attempt to extend further, into the vast territories of the <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a>, the ancient magocracy centred at Praum, ended in catastrophe. At the Battle of Gisfurt in 88BA, the Army of Zunirel was annihilated by the Auguri Sages. It was the worst military defeat Rakh had suffered in centuries, and the Auguri Dominion was one of the few powers of the ancient world that Rakh simply could not break. By 71BA, the empire was nevertheless regarded as having reached the height of its power, an extraordinary reach, centuries in the making, consolidated through war, administration, and the slow work of cultural absorption. Around 33BA, Phiodales of Mizk inscribed his Tablets in the city of Alwazattar a monument to a civilisation that seemed, in that moment, permanent.</p>
+
+<p>The last decades before the end were not ones of obvious decline. In 15BA, Sippuluma I, among the last of the rulers whose name survives, won a decisive victory against the Mogori Empire at the Fist of Nilmundis. It was the final great military triumph of Rakhian arms. No source describes what occurred in the final years between Nilmundis and the eruption.</p>
+
+<h2>The Fall</h2>
+
+<p>On the date that defines the Common Calendars year 0, the volcano Al-Akka, which rose above the central Rakhian heartland between the cities of Romur and Geneza, erupted with a violence that exceeded anything in the historical record of the Ilrakhani world. The empire did not survive it. The city of Rakh itself, the capital at the Ussar Delta, was not destroyed by the eruption in any conventional sense, but the rakhi people across the breadth of their empire vanished. This is what the sources call the "Rakhi Disappearance": not merely that the empire fell but that its people ceased to be present. Not scattered. Not enslaved. Not absorbed by conquerors. Gone.</p>
+
+<p>What happened is not known. The gnomish physicist <a href="Larkomas" class="internal-link">Larkomas Mi Terix</a>, who visited the ruins of Tarsus in 618PA and formulated the Syntropic-Collapse Hypothesis, proposed that the eruption had caused a catastrophic failure of the boundary between the Concrete and Ideal Planes, that Al-Akka had not merely produced volcanic fire but had torn something fundamental in the fabric of planar reality. Where the Rakhi went, in this hypothesis, was not into death but into the Ideal Plane, translated perhaps into a form of existence that left no trace accessible to those who remained behind. Above the crater of Al-Akka, the <a href="Nurlight" class="internal-link">Nurlight</a>, a crimson sphere of light, unaffected by day or night, visible for hundreds of miles, has burned without ceasing since the end of the Burning Decades around 30PA. Those who approach it suffer a progressively devastating sequence of symptoms: mutations, bone weakness, hallucinations, blindness, skin burns, organ failure, death. Their descendants carry the mark of proximity in hereditary changes that persist for generations.</p>
+
+<h2>Aftermath</h2>
+
+<p>A remnant state, New Rakh, was declared in 12PA in the city of Gibaresh (modern Calmbrook) by <a href="Harrusham" class="internal-link">Harrusham</a>, a Rakhian loyalist who claimed the right to rule on the basis of birth and lineage. For fifteen years he held together a diminished court in exile, maintaining the forms of Rakhian imperial administration and the traditions of the old religion. In 27PA, Harrusham's Kerlaeni mercenary bodyguards killed him. They sacrificed more than five thousand surviving Rakhi to <a href="Turvik Paganism" class="internal-link">Mornal</a>, the Turvik Goddess of Earth and Family, and crowned their own warlord Arvald as the new Lord of <a href="Kerlaes" class="internal-link">Kerlaes</a>. The remaining Rakhian officials and noble families in the outer provinces were expelled in 28PA, forced to enter the Wastes. Rakhian administration ceased across the former empire's territories in 29PA, as the successor kingdoms of <a href="Arester" class="internal-link">Arester</a> and <a href="Urland" class="internal-link">Urland</a> were declared. By 30PA, when the Nurlight was first observed from beyond the Wastes and the Burning Decades were declared over, the landscape of south-western Ilrakhan had been transformed beyond recognition. The seven great cities of Rakh stood empty or half-buried in ash and the rivers ran toxic. The Wastes settled into the form they hold today: a vast ash-grey desolation under a crimson light, controlled since the Great Expedition of 580PA by the <a href="Excavators Guild of Butera" class="internal-link">Excavators Guild of Butera</a>.</p>
+
+<h2>Legacy</h2>
+
+<p>Rakh is, in many ways, more present in its absence than many civilisations are in their survival. The Common Calendar itself is organised around the moment of Rakh's destruction in 0PA, the Eruption of Al-Akka, is the hinge on which all historical time turns. Every date in the recorded history of the post-Rakhian world is measured from that point. The <a href="Nurlight" class="internal-link">Nurlight</a> endures as a monument and a warning. The Syntropic-Collapse Hypothesis of <a href="Larkomas" class="internal-link">Larkomas Mi Terix</a>, who himself died of Nur-Disease in 691PA at the age of 121 after having spent decades in the ruins, remains the most developed theoretical framework for what happened. The Alwazattar Tablets of <a href="Phiodales" class="internal-link">Phiodales of Mizk</a>, composed a mere generation before the fall, are the most complete primary document of the empire that survives, housed under Excavators Guild control and studied with the intensity reserved for the irreplaceable. What the Rakhi believed, how they lived, what they built and destroyed and thought and prayed, all of this is the work of the Great Expedition and its successors to recover. Whether the Rakhi themselves left anything else is a question to which no answer has yet been found.</p>

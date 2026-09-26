@@ -40,3 +40,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
+<p>The former territories of <a href="Palmunia" class="internal-link">Palmunia</a> that were not destroyed or depopulated by the catastrophe of 0PA are today largely occupied by Bassara, a collection of cult city-states whose inhabitants, the Lisa, practice a religion known as the <a href="Zahhak" class="internal-link">The Zahhak</a>: the worship of entities that most outside observers describe as demonic. The Lisa are not merely religiously distinct from the surrounding world; they are actively, sometimes violently, hostile to outsiders, and the interior Palmunian ruins that would be most valuable to scholarship lie within or near their territory.</p>
