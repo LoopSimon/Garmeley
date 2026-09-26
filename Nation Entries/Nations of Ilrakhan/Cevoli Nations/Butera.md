@@ -10,7 +10,7 @@
     <h4 class="wiki-header">Butera</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Criminal Hegemony<br>(nominal city council)</span>
+        <span>Merchant Republic</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

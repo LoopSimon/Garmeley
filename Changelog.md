@@ -1,3 +1,5 @@
+- 2026-09-26T2320 · Butera
+- 2026-09-26T2318 · Jeledo
 - 2026-09-26T2315 · Complete Timeline
 - 2026-09-26T2314 · Vannsi
 - 2026-09-26T2314 · Vannsi Deep Worship
@@ -196,5 +198,3 @@
 - 2026-09-12T2240 · Yar-Oleia
 - 2026-09-12T2239 · Tzalur
 - 2026-09-12T2239 · Tiazol
-- 2026-09-12T2239 · Qorol
-- 2026-09-12T2239 · Pravazik
