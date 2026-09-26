@@ -1,4 +1,5 @@
-%%[[Vannsi]]][[Juelfluk]][[Vannsi Deep Worship]][[Trykkerog]][[Bykmåli]][[Skemfing]]
+%%
+[[Vannsi Deep Worship]][[Trykkerog]][[Bykmåli]][[Skemfing]]
 %%
 
 <div class="wiki-infobox">
