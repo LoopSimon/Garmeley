@@ -104,7 +104,7 @@
             <div class="timeline-item" data-date="1350BA">First recorded intentional channeling on the Haira Tablets in Palmunia</div>
             <div class="timeline-item" data-date="1315BA">2nd Founding of Mitimgar</div>
             <div class="timeline-item" data-date="1300BA">Approximate emergence of the Vokti Gnomes</div>
-            <div class="timeline-item" data-date="1285BA">Tale of Aras venture into Cyraclion</div><div class="timeline-item" data-date="1285BA">Tale of Aras venture into Cyraclion</div>
+            <div class="timeline-item" data-date="1285BA">Tale of Aras venture into Cyraclion</div>
             <div class="timeline-item" data-date="1266BA">Approximate Founding of the City of Samyr, modern day Mereskis</div>
             <div class="timeline-item" data-date="1250BA">Approximate Founding of the City of Kairos at lake Kher</div>
             <div class="timeline-item" data-date="1228BA">Vendili Collapse begins</div>
@@ -161,7 +161,7 @@
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
             <div class="timeline-item" data-date="618BA">Rise of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="615BA">First records of Gorati cities</div>
-            <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes Fireking of Rakh</div>
+	        <div class="timeline-item" data-date="610BA">Nursili I "the Conqueror" becomes rakhi Lord of Cities</div>
             <div class="timeline-item" data-date="605BA">The City of Geol is build by the Vahri</div>
             <div class="timeline-item" data-date="600BA">Rohu Culture dominates western Nirydia</div>
             <div class="timeline-item" data-date="590BA">The League of Orestis is formed in Cevolia</div>
@@ -182,29 +182,29 @@
             <div class="timeline-item" data-date="410BA">First mention of a united Tusuli Marival</div>
             <div class="timeline-item" data-date="404BA">2nd Great Rakhi-Addaci Wars begin</div>
             <div class="timeline-item" data-date="402BA">Battle of Ziak</div>
-            <div class="timeline-item" data-date="400BA">Battle of Enjab, Death of Pharcias, Solor of Accadia</div>
-            <div class="timeline-item" data-date="396BA">Accadia splinters, end of the 2nd Great Rakhi-Addaci War</div>
+            <div class="timeline-item" data-date="400BA">Battle of Enjab, Death of Pharcias, Solor of Addacia</div>
+            <div class="timeline-item" data-date="396BA">Addacia splinters, end of the 2nd Great Rakhi-Addaci War</div>
             <div class="timeline-item" data-date="371BA">Pixos creates the "Heart of Pixos"</div>
             <div class="timeline-item" data-date="370BA">Fall of Cyraclion</div>
-            <div class="timeline-item" data-date="365BA">Later Accadian Empire rises around the Stormy Sea</div>
+            <div class="timeline-item" data-date="365BA">Later Addacian Empire rises around the Stormy Sea</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
-            <div class="timeline-item" data-date="338BA">Later Accadian Empire conquers the great City of Tuhrl, later Thulmouth, later Accadian Golden Age begins </div>
+            <div class="timeline-item" data-date="338BA">Later Addacian Empire conquers the great City of Tuhrl, later Thulmouth, later Addacian Golden Age begins </div>
             <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
+            <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm & Ares</div>
-            <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
-            <div class="timeline-item" data-date="303BA">Later Accadian Empire Golden Age Ends with the Death of Seneter the Great</div>
+            <div class="timeline-item" data-date="303BA">Later Addacia Empire Golden Age Ends with the Death of Seneter the Great</div>
             <div class="timeline-item" data-date="302BA">Beginning of the Meter Dynasty</div>
             <div class="timeline-item" data-date="300BA">The City of Yokosch is founded alongside the Smaragd Sea</div>
             <div class="timeline-item" data-date="299BA">The Omna of Japhal is formed, putting an end to the Durenni Age of Strife </div>
             <div class="timeline-item" data-date="298BA">The Paragma: The Priesthood of Rakh rises against the Fireking and is divided before being brutally put down</div>
             <div class="timeline-item" data-date="297BA">Xolori Age of Wind and Wave begins</div>
             <div class="timeline-item" data-date="295BA">Rise of the Augur</div>
-            <div class="timeline-item" data-date="293BA">3rd Great Rakhi-Accadi War begins</div>
+            <div class="timeline-item" data-date="293BA">3rd Great Rakhi-Addaci War begins</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
-            <div class="timeline-item" data-date="285BA">3rd Great Rakhi-Accadi War ends inconclusively after the Battle of Toilak</div>
+            <div class="timeline-item" data-date="285BA">3rd Great Rakhi-Addaci War ends inconclusively after the Battle of Toilak</div>
             <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
             <div class="timeline-item" data-date="281BA">The Great Voyage, through unknown methods Minotaurs cross the Gaalian Sea and land on Ynkal, supposedly from Puthrac</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
@@ -212,7 +212,7 @@
             <div class="timeline-item" data-date="278BA">Elves settle the east coast of  Qa and name it Il-Haena, initial contact with local Orcs is friendly</div>
             <div class="timeline-item" data-date="277BA">Meter Wars of Conquest begin</div>
             <div class="timeline-item" data-date="276BA">Meteri Liberation of the drow Slaves, elevation of the drow priesthood</div>
-            <div class="timeline-item" data-date="275BA">Rise of Hantili the Great in Rakh, Rakh, 4th Great Rakhi-Accadi War begins </div>
+            <div class="timeline-item" data-date="275BA">Rise of Hantili the Great in Rakh, Rakh, 4th Great Rakhi-Addaci War begins </div>
             <div class="timeline-item" data-date="273BA">Fall of Ariza</div>
             <div class="timeline-item" data-date="271BA">Fall of Cothar, conquest and end of Addacia</div>
             <div class="timeline-item" data-date="269BA">Conquest of Samyr, The Marival ends and the City is named Mereskis</div>
@@ -221,10 +221,10 @@
             <div class="timeline-item" data-date="258BA">Subjugation of Cevolis, Peace of the Firelord begins as Rakh enters a half a century period of peace</div>
             <div class="timeline-item" data-date="245BA">Drow refugees in northern Jeturlund have now fully assimilated and turned into the northern Aelfs</div>
             <div class="timeline-item" data-date="240BA">"Birth of the End" Earthquake destroys large part of the western Ilrakhi underlands, Age of Isolation begins in the Underlands as holds like Ogul-Vosko and Mitimgar are not able to contact anyone for houndreds of years, Drow civilizations near the Sundered Coast are largely destroyed</div>
-            <div class="timeline-item" data-date="210BA">Beherian Campaigns begin, Rakh declares war on the Meter Dynasty, Fighting is centred around the southern Stormy Sea in the former lands of Addacia and Samyr</div>
+            <div class="timeline-item" data-date="210BA">Beheran Campaigns begin, Rakh declares war on the Meter Dynasty, Fighting is centred around the southern Stormy Sea in the former lands of Addacia and Samyr</div>
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">Invocation of Uschtir</div>
-            <div class="timeline-item" data-date="189BA">Battle of Alma-Naxis, End of Beherian Campaigns</div>
+            <div class="timeline-item" data-date="189BA">Battle of Alma-Nexis, End of Beheran Campaigns</div>
             <div class="timeline-item" data-date="185BA">Various Xolori towns and communities band together as the Xor-Ub</div>
             <div class="timeline-item" data-date="182BA">Slaughter of the Firstborn in ancient Sertova</div>
             <div class="timeline-item" data-date="177BA">League of Orestis disbands following the destruction of Oris</div>
@@ -245,8 +245,8 @@
             <div class="timeline-item" data-date="88BA">Battle of Gisfurt</div>
             <div class="timeline-item" data-date="71BA">Height of the Rakhian Empire</div>
             <div class="timeline-item" data-date="68BA">First Bear-King of the Locni, approximate beginning of the Kingdom of Thirdonis</div>
-            <div class="timeline-item" data-date="66PA">The Kiln, the great City of the amani Drow, is formed in the central niryd Underlands</div>
-            <div class="timeline-item" data-date="61PA">Khariels Journeys</div>
+            <div class="timeline-item" data-date="66BA">The Kiln, the great City of the amani Drow, is formed in the central niryd Underlands</div>
+            <div class="timeline-item" data-date="61BA">Khariels Journeys</div>
             <div class="timeline-item" data-date="52BA">Brystone is discovered in Danbry</div>
             <div class="timeline-item" data-date="40BA">Horn Lords of the Vihri begin organizing coordinated leadership across the river plain, proto Federation period begins</div>
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
@@ -371,6 +371,7 @@
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="385PA">The Alliance of the Old Moon, now lead by Kamer of the New Fire, attack Timoq and reconquer it from elven rule, the Sultanate is unable to effectively respond due to the Crisis of the Golden Throne.</div>
             <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, begin of the Age of Disgrace for the Empire of Aerlan</div>
+            <div class="timeline-item" data-date="392PA">Approximate first Inamid Council of the Zreni Vannsi in Jeturlund</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", Gethricism has become the most popular religion on the Continent</div>
             <div class="timeline-item" data-date="401PA">The Plague of Flesh breaks out in the Empire of Vanpur</div>
@@ -383,7 +384,6 @@
             <div class="timeline-item" data-date="414PA">Fall of the Onari Empire</div>
             <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia</div>
             <div class="timeline-item" data-date="418PA">The Hold of Fogor-Kol begins to rapidly expand in the beheri underlands</div>
-            <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
             <div class="timeline-item" data-date="422PA">Fogor-Kol and Avdan-Kol ally and divide the central beheri underlands between them</div>
             <div class="timeline-item" data-date="423PA">Despot Hargio takes leadership of the beheri ocean Krestasi after the fall of the Onari Empire</div>
@@ -457,6 +457,7 @@
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="572PA">End of the Leveli Civil War, Foundation of Richelet</div>
             <div class="timeline-item" data-date="573PA">Rebellion of Tur Filash ends, Union of Tur Filash succeeds the Kingdom of Tur Filash</div>
+            <div class="timeline-item" data-date="574PA">Bykmåli begin integrating into the Vannsi society of Zren in northern Trykkerog</div>
             <div class="timeline-item" data-date="576PA">The Hessefi Daemonologist Visham is assassinated on Ziflis Island</div>
             <div class="timeline-item" data-date="577PA">End of the Geoli Republic, The Conclave of 577 canonises Palus Aergestes</div>
             
