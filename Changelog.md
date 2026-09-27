@@ -1,3 +1,7 @@
+- 2026-09-27T0418 · Fjorisjom Saga
+- 2026-09-27T0305 · Gudrun
+- 2026-09-27T0303 · Ylva
+- 2026-09-27T0250 · Seafoam Piercer
 - 2026-09-27T0029 · Zren
 - 2026-09-26T2359 · Vannsi
 - 2026-09-26T2320 · Butera
@@ -59,7 +63,6 @@
 - 2026-09-22T0201 · Murajk
 - 2026-09-21T1923 · White Wars
 - 2026-09-21T1923 · Golden Dusk
-- 2026-09-21T1908 · Fjorisjom Saga
 - 2026-09-21T1419 · Half-Elf
 - 2026-09-21T1419 · Elf
 - 2026-09-21T1418 · Skemfing
@@ -195,6 +198,3 @@
 - 2026-09-12T2247 · Diacor
 - 2026-09-12T2245 · Zalo Dominion
 - 2026-09-12T2240 · Zirom
-- 2026-09-12T2240 · Yar-Oleia
-- 2026-09-12T2239 · Tzalur
-- 2026-09-12T2239 · Tiazol
