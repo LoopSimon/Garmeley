@@ -17,11 +17,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>alive</span>
+        <span>904PA, Drow Ruins</span>
     </div>
     <div class="wiki-row">
-        <strong>Age</strong>
-        <span>45 (in 904PA)</span>
+        <strong>Cause of Death</strong>
+        <span> Necrotic Shock, 45 Years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

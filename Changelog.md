@@ -1,3 +1,4 @@
+- 2026-09-27T2328 · Filip of Leston
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0418 · Fjorisjom Saga
 - 2026-09-27T0305 · Gudrun
@@ -79,7 +80,6 @@
 - 2026-09-20T1553 · The Golden Ring
 - 2026-09-20T1545 · Alana Czery
 - 2026-09-20T1544 · Horatio Tuliper
-- 2026-09-20T1544 · Filip of Leston
 - 2026-09-20T1543 · Isa Tereggio
 - 2026-09-20T0423 · The Golden Gambit
 - 2026-09-20T0413 · Standoff at Dimrods Shrine
