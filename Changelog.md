@@ -1,3 +1,5 @@
+- 2026-09-28T0052 · The Bad Omen
+- 2026-09-28T0044 · Sturrla
 - 2026-09-27T2328 · Filip of Leston
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0418 · Fjorisjom Saga
@@ -196,5 +198,3 @@
 - 2026-09-13T0018 · Cult of Ihisa
 - 2026-09-13T0010 · Zalo
 - 2026-09-13T0009 · Nictor
-- 2026-09-12T2247 · Diacor
-- 2026-09-12T2245 · Zalo Dominion
