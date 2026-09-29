@@ -1,8 +1,6 @@
 %%
 [[Vaergriff]]
-[[Filip of Leston]]
-[[Horatio Tuliper]]
-[[Isa Tereggio]]
+[[The Golden Ring]]
 [[Vihri]]
 %%
 <div class="wiki-infobox">

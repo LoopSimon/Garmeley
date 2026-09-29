@@ -1,7 +1,8 @@
 %%
 [[Hainach]]
 [[Grivil]]
-[[Mikael Bivaldi]]
+[[Xara Ilig]]
+[[The Merry Three]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Adral Fidrakis</h4>
@@ -28,7 +29,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span><a href="Hainach" class="internal-link">Hainach</a></span>
+        <span><a href="Hainach" class="internal-link">Hainach</a>,<br><a href="The Merry Three" class="internal-link">The Merry Three</a> (formerly)</span>
     </div>
     <div class="wiki-row">
         <strong>Issue</strong>
@@ -39,4 +40,5 @@
 
 </div>
 <p>Adral Fidrakis is somewhat of a local legend in eastern Hainach and currently the acting Sheriff of Kontini and the surrounding Region. Although of advanced age, his physical presence has not been diminished and his impressive white hair and woolly beard frame a weathered and uncompromising face; Fidrakis has seen over 7 decades pass and his mind has only grown sharper with time.</p>
-<p>As a younger man Adral served in the Princely Army during the Thieves War against the bands of <a href="Grivil" class="internal-link">Grivil</a> and later travelled the lands of the Stormy Sea as first a mercenary and later an investigator and enforcer for the mages of Patwin Tower. Famously he was a member of the party that slew the red Ahool, a monster that plagued the Vale of Rean at night, alongside the legendary <a href="Mikael Bivaldi" class="internal-link">Mikael Bivaldi</a>. For unknown reasons Fidrakis fell out with the Mages of Patwin Tower during the 890s and travelled back to his hometown Gelreas at the Border with the Sultanate soon after. Iorgal of House Sirdovis, the then Baron of Edgral, personally offered the experienced adventurer the position of Sherrif of Kontini, a peaceful region where managing the politics of the Border was often more important than bringing criminals to justice. </p>
+<p>As a younger man Adral served in the Princely Army during the Thieves War against the bands of <a href="Grivil" class="internal-link">Grivil</a> and later travelled the lands of the Stormy Sea as first a mercenary and later an investigator and enforcer for the mages of Patwin Tower. Famously he was a member of the <a href="The Merry Three" class="internal-link">Merry Three</a> adventuring party that slew the red Ahool, a monster that plagued the Vale of Rean at night, alongside the legendary <a href="Mikael Bivaldi" class="internal-link">Mikael Bivaldi</a> and the dwarven bounty hunter <a href="Xara Ilig" class="internal-link">Xara Ilig</a> with whom Adral was rumoured to have had an affair.</p> 
+<p>For unknown reasons Fidrakis fell out with the Mages of Patwin Tower during the 890s and travelled back to his hometown Gelreas at the Border with the Sultanate soon after. Iorgal of House Sirdovis, the then Baron of Edgral, personally offered the experienced adventurer the position of Sherrif of Kontini, a peaceful region where managing the politics of the Border was often more important than bringing criminals to justice. </p>

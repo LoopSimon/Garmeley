@@ -1,7 +1,21 @@
+- 2026-09-29T1807 · Piero Digolo
+- 2026-09-29T1807 · Jana Rikolore
+- 2026-09-29T1804 · Mikael Bivaldi
+- 2026-09-29T1754 · Elena Montegru
+- 2026-09-29T1752 · Piero & Friends
+- 2026-09-29T1751 · The Merry Three
+- 2026-09-29T1743 · Complete Timeline
+- 2026-09-29T1738 · Sturla
+- 2026-09-29T1737 · Xara Ilig
+- 2026-09-29T1732 · Adral Fidrakis
+- 2026-09-29T1459 · Hobgoblin Invasion
+- 2026-09-29T1458 · The Malagul
+- 2026-09-28T1319 · Isa Tereggio
+- 2026-09-28T1319 · Horatio Tuliper
+- 2026-09-28T1319 · Filip of Leston
+- 2026-09-28T1318 · Alana Czery
 - 2026-09-28T0157 · The Poem of the Bad Omen
 - 2026-09-28T0157 · The Bad Omen
-- 2026-09-28T0157 · Sturla
-- 2026-09-27T2328 · Filip of Leston
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0418 · Fjorisjom Saga
 - 2026-09-27T0305 · Gudrun
@@ -11,7 +25,6 @@
 - 2026-09-26T2359 · Vannsi
 - 2026-09-26T2320 · Butera
 - 2026-09-26T2318 · Jeledo
-- 2026-09-26T2315 · Complete Timeline
 - 2026-09-26T2314 · Vannsi Deep Worship
 - 2026-09-26T1628 · Beric of Nargo
 - 2026-09-26T0401 · Wilgar
@@ -81,9 +94,6 @@
 - 2026-09-21T0316 · Zurán Barbeshvili
 - 2026-09-21T0316 · Darian Amouzgar
 - 2026-09-20T1553 · The Golden Ring
-- 2026-09-20T1545 · Alana Czery
-- 2026-09-20T1544 · Horatio Tuliper
-- 2026-09-20T1543 · Isa Tereggio
 - 2026-09-20T0423 · The Golden Gambit
 - 2026-09-20T0413 · Standoff at Dimrods Shrine
 - 2026-09-20T0412 · The 927 Falcons Flight
@@ -133,7 +143,6 @@
 - 2026-09-19T1303 · Lissvalley
 - 2026-09-19T1303 · Knights of the Gryphon
 - 2026-09-19T1303 · Hubert of Tanverley
-- 2026-09-19T1303 · Hobgoblin Invasion
 - 2026-09-19T1302 · Gisvale
 - 2026-09-19T1301 · Cevolia
 - 2026-09-19T1300 · Battvian Civil War
@@ -189,12 +198,3 @@
 - 2026-09-14T1400 · Turvik Paganism
 - 2026-09-13T1450 · Leok
 - 2026-09-13T1334 · Jan van Swarn
-- 2026-09-13T0240 · Focozal
-- 2026-09-13T0231 · Zenofer
-- 2026-09-13T0227 · Yokosch
-- 2026-09-13T0208 · Malav
-- 2026-09-13T0034 · Cearic
-- 2026-09-13T0034 · Meana Telamon
-- 2026-09-13T0031 · Rapodor
-- 2026-09-13T0018 · Cult of Ihisa
-- 2026-09-13T0010 · Zalo

@@ -1,7 +1,4 @@
 %%
-[[Alana Czery]]
-[[Horatio Tuliper]]
-[[Isa Tereggio]]
 [[The Golden Ring]]
 [[Urien]]
 %%

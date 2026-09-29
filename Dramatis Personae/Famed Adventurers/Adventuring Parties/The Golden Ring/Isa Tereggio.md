@@ -1,7 +1,4 @@
 %%
-[[Alana Czery]]
-[[Horatio Tuliper]]
-[[Filip of Leston]]
 [[Cevoli]]
 [[Cult of Vibattu]]
 [[The Golden Ring]]

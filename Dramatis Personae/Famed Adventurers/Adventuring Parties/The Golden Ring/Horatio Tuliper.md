@@ -1,7 +1,6 @@
 %%
-[[Alana Czery]]
-[[Filip of Leston]]
-[[Isa Tereggio]]
+[[The Golden Ring]]
+
 [[Halfling]]
 %%
 <div class="wiki-infobox">

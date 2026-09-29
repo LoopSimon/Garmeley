@@ -122,9 +122,9 @@
 
 <h2>Aftermath</h2>
 
-<p>Elamak, having refused to cross the Trinmo, established his own temples in the lands west of the river after the wars conclusion with his monastic sect becoming the foundation of the Malagul, a school of martial and contemplative practice that persists within Ak-Saray to the present day, its existence a reminder that the Tirbo Clan had never been entirely unified in its purposes.</p>
+<p>Elamak, having refused to cross the Trinmo, established his own temples in the lands west of the river after the wars conclusion with his monastic sect becoming the foundation of the <a href="The Malagul" class="internal-link">Malagul</a>, a school of martial and contemplative practice that persists within Ak-Saray to the present day, its existence a reminder that the Tirbo Clan had never been entirely unified in its purposes.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hobmonk.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
-<small><i>Elemak, the Silence in the Storm</i></small>  
+<small><i>Elamak, the Silence in the Storm</i></small>  
 </div>
 <p>East of the Trinmo the political situation deteriorated rapidly into something that the surviving lords found almost as threatening as the invasion itself. In 702PA, Ricter of Gelm attempted to use <a href="Morfeld" class="internal-link">Morfeld's Key</a>, an artifact of catastrophic necromantic power belonging to the necromancer <a href="Morfeld" class="internal-link">Morfeld</a> that Saint <a href="Lyandra" class="internal-link">Lyandra</a> had seen burned to death at Uhl decades prior, to summon energies that would destroy the Hobgoblin occupation and crown himself King of all Urland. The invocation required the sacrifice of the entire city of Lindmol, and there was no evidence that the resulting energies could have been controlled even had the sacrifice been completed. A group of adventurers foiled the plot and killed Ricter before either could occur. He is remembered in the histories as a lower villain, not a desperate patriot but a man who would have gladly sacrificed his own people as the price of his ambition.</p>
 
