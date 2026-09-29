@@ -1,3 +1,4 @@
+- 2026-09-29T1811 · Fjorisjom Saga
 - 2026-09-29T1807 · Piero Digolo
 - 2026-09-29T1807 · Jana Rikolore
 - 2026-09-29T1804 · Mikael Bivaldi
@@ -17,7 +18,6 @@
 - 2026-09-28T0157 · The Poem of the Bad Omen
 - 2026-09-28T0157 · The Bad Omen
 - 2026-09-27T1416 · Merfolk
-- 2026-09-27T0418 · Fjorisjom Saga
 - 2026-09-27T0305 · Gudrun
 - 2026-09-27T0303 · Ylva
 - 2026-09-27T0250 · Seafoam Piercer

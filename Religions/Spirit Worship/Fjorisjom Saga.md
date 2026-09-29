@@ -8,9 +8,11 @@
 [[Toski]]
 [[Skemril]]
 [[Aeldcult]]
+[[Laettr]]
+[[Gudrun]]
 %%
 
-<p>The Fjorisjom Saga, sometimes referred to as the Fjorisom or Saga of the Four Heroes, is a legendary bkymali saga, covering topics including the quarrel between Egill and Sjodur, the origin of the Seal Lords of Juelfluk and the taming of the legendary <a href="Dragon" class="internal-link">Dragon</a> Fagnir. At the core of the saga lies the quest of four heroes to save the Princess Gudrun, stolen away by the Giants Sjodur and Lygrauga far into the north of Jeturlund. The Fjorisjom is the most important and central tale of the bykmali heroic saga cycle and referenced often up to and within the modern day in the arts.</p>
+<p>The Fjorisjom Saga, sometimes referred to as the Fjorisom or Saga of the Four Heroes, is a legendary bkymali saga, covering topics including the quarrel between Egill and Sjodur, the origin of the Seal Lords of <a href="Juelfluk" class="internal-link">Juelfluk</a> and the taming of the legendary <a href="Dragon" class="internal-link">Dragon</a> Fagnir. At the core of the saga lies the quest of four heroes to save the Princess <a href="Gudrun" class="internal-link">Gudrun</a>, stolen away by the Giants Sjodur and Lygrauga far into the north of Jeturlund. The Fjorisjom is the most important and central tale of the bykmali heroic saga cycle and referenced often up to and within the modern day in the arts.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Millgi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Jarl Millgi</i></small>
 </div>
@@ -18,6 +20,9 @@
 <p>It is said that Jarl Millgi was the richest man on land and sea, the Weavers would beg to serve at his seat, his halls never stay silent, his table be set every night and his ships bring slaves and riches, but no treasure was as great as his daughter, the beautiful Gudrun. Every gift was granted Millgi by the gods except for one, a son: for decades he cursed his fate and lamented that no man was born to his loins. At the mid summer celebrations of Millgis 50th namesday he would issue a challenge, whomever could prove they were richer than the Jarl would be granted his daughters hand in marriage and his hall and treasures as Millgis heir.</p>
 
 <p>Many kings and petty lords answered the Jarl’s call, dragging heavy  chests of silver, amber, and foreign silks into the great hall. But Jarl Millgi only laughed from his high seat, for his own vaults held ten times what the greatest kings could offer. It seemed no man could claim the beautiful Gudrun, until four strangers of great renown stepped over the threshold. They brought no wagons of coin, yet they came to answer the challenge.</p>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gudrun.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Gudrun</i></small>
+</div>
 <p>First strode forth <a href="Toski" class="internal-link">Toski Golleki</a>, a man whose beard was a great, tumbling river of red hair that wrapped around his broad shoulders like a cloak of woven iron. He stood before the Jarl and spoke:  
 "What good is a mountain of silver to a dead man? True wealth is breath that cannot be stolen."  
 Toski bade Millgi’s finest huscarls to strike him with their sharpest swords. Three mighty warriors swung their blades, but as the steel met Toski’s beard, the swords shattered into glittering shards. The hall gasped, for Toski’s beard made him immortal, a man who possessed the boundless wealth of eternal life.</p>
