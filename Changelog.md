@@ -1,4 +1,10 @@
-- 2026-09-29T1811 · Fjorisjom Saga
+- 2026-09-29T2218 · Fjorisjom Saga
+- 2026-09-29T2156 · Asza
+- 2026-09-29T2155 · Vannsi Deep Worship
+- 2026-09-29T2154 · Nural
+- 2026-09-29T2148 · Codex Thereticum
+- 2026-09-29T2144 · Minruism
+- 2026-09-29T2113 · Enzal Pantheon
 - 2026-09-29T1807 · Piero Digolo
 - 2026-09-29T1807 · Jana Rikolore
 - 2026-09-29T1804 · Mikael Bivaldi
@@ -25,7 +31,6 @@
 - 2026-09-26T2359 · Vannsi
 - 2026-09-26T2320 · Butera
 - 2026-09-26T2318 · Jeledo
-- 2026-09-26T2314 · Vannsi Deep Worship
 - 2026-09-26T1628 · Beric of Nargo
 - 2026-09-26T0401 · Wilgar
 - 2026-09-26T0400 · Rakh
@@ -77,7 +82,6 @@
 - 2026-09-22T0313 · Biadarkyr
 - 2026-09-22T0249 · Tur Enzal
 - 2026-09-22T0237 · Tur Ajk
-- 2026-09-22T0213 · Enzal Pantheon
 - 2026-09-22T0201 · Murajk
 - 2026-09-21T1923 · White Wars
 - 2026-09-21T1923 · Golden Dusk
@@ -194,7 +198,3 @@
 - 2026-09-14T1421 · Rulers of Kherova
 - 2026-09-14T1417 · Ikara
 - 2026-09-14T1414 · Kessim Miximur
-- 2026-09-14T1400 · Melara
-- 2026-09-14T1400 · Turvik Paganism
-- 2026-09-13T1450 · Leok
-- 2026-09-13T1334 · Jan van Swarn

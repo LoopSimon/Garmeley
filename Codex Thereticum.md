@@ -10,16 +10,6 @@ The Grachy Generals sued for peace with vihr who had been at the backfoot for a 
 
 Vihr never forgot the shameful result of the war in their eyes and even among the more content and otherwise oriented voices, Vormil II is remembered negatively. His epitaph as the "Axebreaker" begin self given following the war due to the dissolution of Halgrach, whos symbol had always been the Axe,  taking on an almost mocking aspect essentially immediately after the peace. 
 
-Morfelds Conjecture
-Talnod-Swarn Gradient, Observations on the resurrected
-Turnometer
-Secrets of Alahmid
-
-Grave Salt
-Dust of Emulation
-Clamor Box
-Burglars Bracers
-
 
 The Verali
 
@@ -29,94 +19,10 @@ Four Banished creatures working tirelessly to escape bondage and enter the mater
 
 
 
-Marianna: hard moral situations
 
-Beryl Rhimond, Captain of the Guard at the Mesovo Crossing, Hainach side.
-Neoda Safri, Bey of the Dor Beher at the Mesovo Crossing, Elbae side.
- joined command
-
-Shrine:
-Lorana, Guardian
-Dimitri, Fighter and loyal supporter of Lorana
-Esper, Archer and loyal supporter of Lorana
-Daxos, Conflicted Fighter
-
-Oroyo, Captured Safir
-Rafira, Captured Elf
-Jiballo, Captured Half-Elf Professor
-
-Semron, captured dwarven Mercenary
-Ilyza, captured human Mercenary
-Astia, captured human Mercenary, heavily wounded
-
-
-Mercs:
-Hector, Leader of the Laughing Cloud, human
-Melina, Second in Command, human
-Nozzra, Explosives Expert, goblin
-Trevil, Head Scout, human
-Veoda, Mercenary, dwarf
 
 Guard of Reol, soldiers of the Third Moon Fleet, 
 contracts are put out at Azuvke for 
-
-
-Abducted Mogyri:
-
-
-Died on Boat:
-Tenzin Lhamo
-
-
-Died During the Experiments:
-Pema Dolkar
-Yeshe Wangmo
-Sonam Tashi
-Pemba Sherpa
-Karma Shamo
-Tenpa Gyaltsen
-
-Migmar Shamten (found shroomless and barely alive)
-
-
-Died trying to escape:
-Tsomo Norbu  
-Dolma Gunbu
-
-Got Away during escape:
-Lhakpa Norbu 
-
-Taken by a Strange Knight weeks ago:
-Phurba Yarsto
-
-
-
-
-
-
-
-
-
-
-
-**Female**
-
-1. **Tenzin Lhamo** — traditional, "holder of the teachings" + "goddess"
-	she is dead and yara saw her in her visions. Died on Journey
-2. **Pema Dolkar** — traditional, "lotus" + "white Tara". First Knight
-3. **Yeshe Wangmo** — traditional, "wisdom" + "powerful lady" Second Knight
-4. **Karma Shamo** — : surname drawn straight from "shamo," the word for mushroom — fitting for a forager, herbalist, or someone from a fungus-trading family Fourth Knight
-5. **Norbu Tsomo** — traditional, "jewel" + "lady of the lake" Sixth Knight
-6. **Dolma Gunbu** —  "Gunbu"  , a good name for a healer or someone touched by luck Seventh Knight
-
-**Male**  
-7. **Sonam Tashi** — traditional, "merit" + "auspicious"  Failed Experiment, dead
-8. **Pemba Sherpa** — traditional, common Sherpa/Himalayan surname   Fifth Knight
-9. **Migmar Shamten** —mushroom  (to hold/support) roughly fungusblessed or kept by the mushroom, good for a mystic or forest-dweller  barely alive, dying
-10. **Lhakpa Norbu** — traditional, "Middleborn" + "jewel"  
-11. **Tenpa Gyaltsen** — traditional, "steadfast" + "victory banner"  Failed Experiment
-12. **Phurba Yarsto** — shortened nod to _yartsa gunbu_, works well as a hunter's or gatherer's name tied to the high mountains 
-
 
 
 Captain Robar, tall, bald, bushy beard
@@ -128,47 +34,18 @@ Bowyer Hal
 
 
 
+Higher Beings:
 
+The Flickering Light of Will.
 
+The Blood of Life in Motion.
 
-Riddles:
+The Eye that takes.
 
-I hide in the hollows, I sleep in the stone,  
-I am born from a whisper, but die all alone.  
-I mock the proud king, I weep with the slave,  
-I speak every language, but rest in the grave.  
-What am I?
-- Echo
+The Primordial Lake.
 
-I bite without teeth, I bleed without veins,  
-I slowly devour the lords and their chains.  
-The sharpest of swords is a feast for my maw,  
-I crumble the iron without any jaw.  
-What am I?
-- Rust
+The Arc of burdened Souls.
 
-I build no bridges, but I cross the stream,  
-I have no eyes, but I blind the gleam.  
-I cast no shadow, I leave no track,  
-I swallow the morning and paint the world black.  
-What am I?
-- Fog
+The Child of desired Time.
 
-I weave without a loom, I build without a stone,  
-I make a deadly tapestry to catch flesh and bone.  
-I glisten in the morning dew, the careless traveler's bane,  
-I bind the struggling prisoner without a single chain.  
-What am I?
-- Spiderweb
-
-I hollow marble to its bone,
-no armys ever breached my throne.
-I gave the king the weight he bore,
-Ive buried every thing before.
-Who am i?
-
-I take your form but not your skin,
-By light alone am I let in.
-Rest eyes at night and I am gone,
-I have no weight to lean upon.
-Who am i?
+The Voice giving purpuse.
