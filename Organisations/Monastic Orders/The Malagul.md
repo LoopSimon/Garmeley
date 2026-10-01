@@ -1,4 +1,7 @@
 %%
 [[Hobgoblin Invasion]]
-
+[[Hobgoblin]]
 %%
+<p>The Malagul are an almost entirely <a href="Hobgoblin" class="internal-link">Hobgoblin</a> sect of martial artists following the teachings of Elamak, the Silence in the Storm. They are as much warriors as philosophers and have drifted further and further apart from wider urien hobgoblin culture ever since the years of the <a href="Hobgoblin Invasion" class="internal-link">Invasion</a>, fully rejecting the notion of participating in efforts of a unified Hobgoblin force during the <a href="Wars of the Gryphon" class="internal-link">Wars of the Gryphon</a>.</p>
+<p>The headquarters of the Malagul are in the northern forests of the Trinbend at naked mountain and they are largely left in peace by neighbouring human and hobgoblin communities. Reports of hobgoblins of the malagul being considerably more tolerant and embracing of other races are substantiated and there are tales of human and dwarven practitioners within their ranks as well.</p>
+<p>The Malaguls primary philosophy teaches its followers selflessness, patience and introspective under the guiding principle of the many leafed tree. As Elamak said, all creatures in the world are leafs slowly drifting to the ground, while different breezes may take them their journey is determined nonetheless and all things must eventually reach the earth. </p>

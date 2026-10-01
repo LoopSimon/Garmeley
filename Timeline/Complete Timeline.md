@@ -587,13 +587,15 @@
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, 1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Conclave of 763, Canonisation of Fredric and begin of the Gethric Pogroms</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
-            <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire</div>
+            <div class="timeline-item" data-date="766PA">Remillion usurps the Trifflands</div>
+            <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire, Remillion slaughters the ducal Host</div>
             <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed</div>
             <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionizes modern Anatomy</div>
             <div class="timeline-item" data-date="772PA">Treeplagues big initial outbreak in Grachy, Vihr and Trykkerog</div>
             <div class="timeline-item" data-date="773PA">Gelmsburg attacks Eldmar in the war of 90 days, war ends inconclusively after the Battle of Silverfields and the Death of George the Brave </div>
+            <div class="timeline-item" data-date="774PA">Remillion defeats the Sister of Storms in personal combat</div>
             <div class="timeline-item" data-date="775PA">Following their successful Revolution, the Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
             <div class="timeline-item" data-date="776PA">Treeplague ravages Ur and southern Vihr</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith, Treeplague reaches Grevenna, Kherova and Garmeley and fades in the southern climates</div>
@@ -603,10 +605,12 @@
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; Battle of the Storms</div>
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
+            <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach, 2nd War of Elbae Aggression ends</div>
+              <div class="timeline-item" data-date="791PA">Remillion is gone from the Trifflands, the Council of Triff takes over and administers his domain</div>
             <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out, Battles of Gialo & Fiarco</div>
             <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>

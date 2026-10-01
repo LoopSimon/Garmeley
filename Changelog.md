@@ -1,4 +1,18 @@
-- 2026-09-29T2218 · Fjorisjom Saga
+- 2026-10-01T2240 · Anna the Moth
+- 2026-10-01T2235 · Bernard Gresko
+- 2026-10-01T2233 · Kamzi
+- 2026-10-01T2231 · Zeressa
+- 2026-10-01T2144 · Red Monk
+- 2026-10-01T2140 · Cinderstone Temple
+- 2026-10-01T1745 · The Malagul
+- 2026-09-30T1532 · Fjorisjom Saga
+- 2026-09-30T1117 · Remillion
+- 2026-09-30T0459 · Trifflands
+- 2026-09-30T0451 · Complete Timeline
+- 2026-09-30T0426 · Elena Montegru
+- 2026-09-30T0426 · Jana Rikolore
+- 2026-09-30T0328 · Merengrad
+- 2026-09-30T0326 · Manymirror
 - 2026-09-29T2156 · Asza
 - 2026-09-29T2155 · Vannsi Deep Worship
 - 2026-09-29T2154 · Nural
@@ -6,17 +20,13 @@
 - 2026-09-29T2144 · Minruism
 - 2026-09-29T2113 · Enzal Pantheon
 - 2026-09-29T1807 · Piero Digolo
-- 2026-09-29T1807 · Jana Rikolore
 - 2026-09-29T1804 · Mikael Bivaldi
-- 2026-09-29T1754 · Elena Montegru
 - 2026-09-29T1752 · Piero & Friends
 - 2026-09-29T1751 · The Merry Three
-- 2026-09-29T1743 · Complete Timeline
 - 2026-09-29T1738 · Sturla
 - 2026-09-29T1737 · Xara Ilig
 - 2026-09-29T1732 · Adral Fidrakis
 - 2026-09-29T1459 · Hobgoblin Invasion
-- 2026-09-29T1458 · The Malagul
 - 2026-09-28T1319 · Isa Tereggio
 - 2026-09-28T1319 · Horatio Tuliper
 - 2026-09-28T1319 · Filip of Leston
@@ -188,13 +198,3 @@
 - 2026-09-15T0958 · Terem-Zal
 - 2026-09-15T0710 · Ahrmiz Saceren
 - 2026-09-15T0706 · Acceleration Theory
-- 2026-09-15T0657 · Rivalt du Chian
-- 2026-09-15T0655 · Korgaz
-- 2026-09-15T0414 · Vishams Question
-- 2026-09-15T0408 · Harlinis Theorem
-- 2026-09-15T0408 · Modern Realmatic Theory
-- 2026-09-15T0339 · Zovac Harlini
-- 2026-09-15T0029 · Anak
-- 2026-09-14T1421 · Rulers of Kherova
-- 2026-09-14T1417 · Ikara
-- 2026-09-14T1414 · Kessim Miximur

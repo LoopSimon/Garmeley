@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>994PA, Trazlov</span>
+        <span>894PA, Trazlov</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
