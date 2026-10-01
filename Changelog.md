@@ -1,8 +1,8 @@
+- 2026-10-02T0057 · Red Monk
 - 2026-10-01T2240 · Anna the Moth
 - 2026-10-01T2235 · Bernard Gresko
 - 2026-10-01T2233 · Kamzi
 - 2026-10-01T2231 · Zeressa
-- 2026-10-01T2144 · Red Monk
 - 2026-10-01T2140 · Cinderstone Temple
 - 2026-10-01T1745 · The Malagul
 - 2026-09-30T1532 · Fjorisjom Saga
