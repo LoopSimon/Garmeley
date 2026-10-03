@@ -30,7 +30,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kheri <a href="Human" class="internal-link">Human</a>, Kheri <a href="Dwarf" class="internal-link">Dwarf</a>,Qahori <a href="Orc" class="internal-link">Orc</a></span>
+        <span><a href="Kheri" class="internal-link">Kheri</a> <a href="Human" class="internal-link">Human</a>, <a href="Kheri" class="internal-link">Kheri</a> <a href="Dwarf" class="internal-link">Dwarf</a>,Qahori <a href="Orc" class="internal-link">Orc</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

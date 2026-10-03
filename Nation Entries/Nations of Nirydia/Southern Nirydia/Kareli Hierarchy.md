@@ -24,7 +24,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kareli Bihra, Qalmyri</span>
+        <span>Kareli <a href="Bihra" class="internal-link">Bihra</a>,<br> Qahori<a href="Orc" class="internal-link">Orcs</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

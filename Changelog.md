@@ -1,14 +1,27 @@
-- 2026-10-02T0057 · Red Monk
-- 2026-10-01T2240 · Anna the Moth
+- 2026-10-03T1720 · Javalim
+- 2026-10-03T1712 · Cinderstone Temple
+- 2026-10-03T1658 · Roxeria
+- 2026-10-03T1653 · Complete Timeline
+- 2026-10-03T1650 · Kareli Hierarchy
+- 2026-10-03T1648 · Azuvke
+- 2026-10-03T1646 · Kheri
+- 2026-10-03T1642 · Kherova
+- 2026-10-03T1638 · Paqor
+- 2026-10-03T1559 · Anna the Moth
+- 2026-10-03T1510 · Yelena
+- 2026-10-03T1509 · Razmyrism
+- 2026-10-03T1506 · Razmyr
+- 2026-10-03T1502 · Broken Fingers
+- 2026-10-02T0551 · Timothy Mevan
+- 2026-10-02T0547 · The 927 Falcons Flight
+- 2026-10-02T0542 · Zeressa
+- 2026-10-02T0538 · Red Monk
+- 2026-10-02T0234 · Kamzi
 - 2026-10-01T2235 · Bernard Gresko
-- 2026-10-01T2233 · Kamzi
-- 2026-10-01T2231 · Zeressa
-- 2026-10-01T2140 · Cinderstone Temple
 - 2026-10-01T1745 · The Malagul
 - 2026-09-30T1532 · Fjorisjom Saga
 - 2026-09-30T1117 · Remillion
 - 2026-09-30T0459 · Trifflands
-- 2026-09-30T0451 · Complete Timeline
 - 2026-09-30T0426 · Elena Montegru
 - 2026-09-30T0426 · Jana Rikolore
 - 2026-09-30T0328 · Merengrad
@@ -110,7 +123,6 @@
 - 2026-09-20T1553 · The Golden Ring
 - 2026-09-20T0423 · The Golden Gambit
 - 2026-09-20T0413 · Standoff at Dimrods Shrine
-- 2026-09-20T0412 · The 927 Falcons Flight
 - 2026-09-19T1843 · Farrouk Nalar
 - 2026-09-19T1336 · Trollbacks
 - 2026-09-19T1336 · Mistspires
@@ -124,7 +136,6 @@
 - 2026-09-19T1312 · Pehki
 - 2026-09-19T1312 · Nirydia
 - 2026-09-19T1312 · Levazci
-- 2026-09-19T1311 · Kherova
 - 2026-09-19T1311 · Inara
 - 2026-09-19T1311 · Ilrakhan
 - 2026-09-19T1311 · Grachy
@@ -187,14 +198,3 @@
 - 2026-09-17T1149 · Alchemy
 - 2026-09-17T1121 · Joakim zi Szarbel
 - 2026-09-16T1136 · Risen Reef
-- 2026-09-16T1118 · Onar Despotate
-- 2026-09-16T1100 · Golomid
-- 2026-09-16T0850 · Onari Empire
-- 2026-09-16T0845 · Cities of Dreams
-- 2026-09-16T0832 · Krestasi
-- 2026-09-15T1840 · Ida Laridottr
-- 2026-09-15T1840 · Alma Laridottr
-- 2026-09-15T1823 · Bazur
-- 2026-09-15T0958 · Terem-Zal
-- 2026-09-15T0710 · Ahrmiz Saceren
-- 2026-09-15T0706 · Acceleration Theory

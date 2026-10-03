@@ -32,6 +32,7 @@
         <span>Abjuration</span>
     </div>
     <hr class="wiki-hr">
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Zeressa/BeheriMagi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Zeressa.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<p>Zeressa Ifil is a Magister of the Ring and the leader of the Tower of Goal within Ikara, the City of Fate. In this role it also falls into her responsibilities to organise the arcane protections and guidelines during the Falcons Flight tournament, during which her special talent for abjuration magic and wards has come in rather handy. She is a scion of house Ifil, a house of lesser nobility from the old city of Erun.</p>
