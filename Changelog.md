@@ -1,7 +1,9 @@
+- 2026-10-03T1805 · Complete Timeline
+- 2026-10-03T1805 · Rox
+- 2026-10-03T1800 · Fenhir
 - 2026-10-03T1735 · Cinderstone Temple
 - 2026-10-03T1733 · Javalim
 - 2026-10-03T1733 · Roxeria
-- 2026-10-03T1653 · Complete Timeline
 - 2026-10-03T1650 · Kareli Hierarchy
 - 2026-10-03T1648 · Azuvke
 - 2026-10-03T1646 · Kheri
@@ -196,5 +198,3 @@
 - 2026-09-17T1153 · Kasthemis
 - 2026-09-17T1150 · Cyraclion
 - 2026-09-17T1149 · Alchemy
-- 2026-09-17T1121 · Joakim zi Szarbel
-- 2026-09-16T1136 · Risen Reef

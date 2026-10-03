@@ -452,6 +452,7 @@
             <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="557PA">Rebellion of Tur Filash begins</div>
+            <div class="timeline-item" data-date="558PA">Fenhir the Seer becomes the Prophet of the Javalim in the eastern cities of Azuvke</div>
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
@@ -486,6 +487,7 @@
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
+            <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again, Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
             <div class="timeline-item" data-date="605PA">Rebels seize the Capital of Aerlan, end of the Aerlian Empire, Ravland is declared</div>
