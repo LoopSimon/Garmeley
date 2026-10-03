@@ -1,6 +1,6 @@
-- 2026-10-03T1720 · Javalim
-- 2026-10-03T1712 · Cinderstone Temple
-- 2026-10-03T1658 · Roxeria
+- 2026-10-03T1735 · Cinderstone Temple
+- 2026-10-03T1733 · Javalim
+- 2026-10-03T1733 · Roxeria
 - 2026-10-03T1653 · Complete Timeline
 - 2026-10-03T1650 · Kareli Hierarchy
 - 2026-10-03T1648 · Azuvke

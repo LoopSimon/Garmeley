@@ -6,14 +6,14 @@
 [[Javalim]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">The Principality of Roxeria</h4>
+    <h4 class="wiki-header">The Chosen Realm of Roxeria</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Absolute Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Prince Meadaz Rox II</span>
+        <span>Lord Meadaz Rox II</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
