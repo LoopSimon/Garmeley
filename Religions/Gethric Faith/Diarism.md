@@ -1,0 +1,9 @@
+%%
+[[Gethric]]
+[[Gethricism]]
+[[Augurism]]
+[[Kalbinism]]
+[[Perrin Diar]]
+%%
+<p>Diarism is a gethric religious movement active in western weadland and <a href="Meadland" class="internal-link">Meadland</a> as well as in <a href="Othirdon" class="internal-link">Othirdon</a>, named after the Philosopher <a href="Perrin Diar" class="internal-link">Perrin Diar</a>. Its core tenant is the unification of <a href="Kalbinism" class="internal-link">kalbinist</a> and <a href="Gethricism" class="internal-link">gethric</a> beliefs and it claims that <a href="Gethric" class="internal-link">Gethric</a> himself was the only true incarnation of the Creator himself. Diarism rejects the divinity of any later prophets of classical kalbinism or any of the traditional gethric Saints, elevating Gethric himself above all in singularity. A less discussed fact is its incorporation of older, regional traditions pertaining to the worship of <a href="Augurism" class="internal-link">Augur Ralfantis</a> and how the figure of "Gethric the Creator and Saviour" in reality resembles the Augur more than either of the two more major religions.</p>
+<p>Perrins address at the University of Jera in western <a href="Meadrath" class="internal-link">Meadraths</a> Archduchy of <a href="Dirneux" class="internal-link">Dirneux</a> marks the official birth of Diarism in the year 894PA, the heresy to some and true faith to others spread with much welcome in western Mead- and Weadland as well as central Othirdon over the following decades, but is still a young denomination that has barely been in clerical discourse for three decades. Perrin Diar himself is still active and enjoys the protection of Treffyn Effel, the Lord of Ballina, a city that has become the unofficial centre of Diarism.</p>

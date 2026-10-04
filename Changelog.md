@@ -1,4 +1,11 @@
-- 2026-10-03T1805 · Complete Timeline
+- 2026-10-04T2313 · The Poem of the Bad Omen
+- 2026-10-04T1847 · Sword of the Abjurer
+- 2026-10-04T1445 · Complete Timeline
+- 2026-10-04T0856 · Vasily Surovsky
+- 2026-10-04T0855 · Tadeuz Pilsud
+- 2026-10-04T0730 · Perrin Diar
+- 2026-10-04T0545 · Diarism
+- 2026-10-03T1913 · Broken Fingers
 - 2026-10-03T1805 · Rox
 - 2026-10-03T1800 · Fenhir
 - 2026-10-03T1735 · Cinderstone Temple
@@ -13,7 +20,6 @@
 - 2026-10-03T1510 · Yelena
 - 2026-10-03T1509 · Razmyrism
 - 2026-10-03T1506 · Razmyr
-- 2026-10-03T1502 · Broken Fingers
 - 2026-10-02T0551 · Timothy Mevan
 - 2026-10-02T0547 · The 927 Falcons Flight
 - 2026-10-02T0542 · Zeressa
@@ -46,7 +52,6 @@
 - 2026-09-28T1319 · Horatio Tuliper
 - 2026-09-28T1319 · Filip of Leston
 - 2026-09-28T1318 · Alana Czery
-- 2026-09-28T0157 · The Poem of the Bad Omen
 - 2026-09-28T0157 · The Bad Omen
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0305 · Gudrun
@@ -193,8 +198,3 @@
 - 2026-09-17T1302 · Izrafur
 - 2026-09-17T1257 · Onar
 - 2026-09-17T1256 · Alfred the Younger
-- 2026-09-17T1159 · Pixos
-- 2026-09-17T1158 · Neyadastes
-- 2026-09-17T1153 · Kasthemis
-- 2026-09-17T1150 · Cyraclion
-- 2026-09-17T1149 · Alchemy

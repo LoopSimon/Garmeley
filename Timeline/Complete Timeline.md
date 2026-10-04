@@ -6,7 +6,7 @@
 	  <div class="grid-item span-col-2-single-block">
         <h3>Age of Stone</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman human in southern Behera</div>
+	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman in southern Behera</div>
 	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor, the Narzoi evolves in central of Aisligos from their Purman ancestor</div>
 	        <div class="timeline-item" data-date="250000BA">Underland Trolls slowly evolve into the smaller Trogs</div>
 	        <div class="timeline-item" data-date="210000BA">Trog cultures dominate the pre historic underlands</div>
@@ -701,6 +701,7 @@
             <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat</div>
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
+            <div class="timeline-item" data-date="894PA">Perrin Diar adresses the public at the University of Jera, birth of Diarism</div>
             <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
@@ -711,7 +712,7 @@
         <h3>Modern Age</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath</div>
-	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled</div>
+	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled, Diarism is spreading in western Mead- and Weadland as well as in central Othirdon</div>
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Golden Ring</div>
@@ -722,6 +723,7 @@
             <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
+            <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords</div>
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World", Karlaz the Razor sacks the port of Kalsad</div>

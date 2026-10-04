@@ -72,3 +72,36 @@ Cruel illusion born of fear to paralyze and hurt.
 
 They broke the spell and won the day, but paid a bitter cost... 
 For Sturla with his trusty bow was tragically lost
+
+With Sturla gone and spirits low, they marched through web and stone, 
+To face the darkest depths of all: the ancient spider's throne. 
+
+And there beneath the violet light, the Golden Ring they found, 
+Their broken minds and silken tombs held captive underground. 
+
+Upon that seat sat Queen Azag, a husk of dust and bone, 
+Who sought to pull the Anchor's power and make the world her own. 
+
+She channelled magic from the void to rise up from the dead, 
+And called the massive Matriarch to fill their souls with dread. 
+
+The darkened spiders crashed ahead to tear them all apart, 
+But Orlatz threw his heavy axe and struck them near the heart! 
+
+He chugged his potions in the fray, a frantic, deadly dance, 
+While Harold parried fate itself to give his friends a chance. 
+
+Then Jorji raised his holy blade, a Paladin so bright, 
+And burned a hundred spiders down with the Creators might! 
+
+While Maiwynn marched into the void and claimed the Anchors spark, 
+To rip her stolen soul right back from out the cosmic dark. 
+
+She turned the ancient Queen to ash and broke the magic chain, 
+And split the fated, twin born bond that both might live again! 
+
+But with the anchor ripped away, the vault began to crack, 
+Tur Agazon was caving in, there was no turning back. 
+
+They sprinted through the falling halls, outrunning dust and doom, 
+And clawed their way into the wind from out the Drow made to
