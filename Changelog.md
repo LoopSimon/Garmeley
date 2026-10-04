@@ -1,5 +1,5 @@
+- 2026-10-05T0017 · Sword of the Abjurer
 - 2026-10-04T2313 · The Poem of the Bad Omen
-- 2026-10-04T1847 · Sword of the Abjurer
 - 2026-10-04T1445 · Complete Timeline
 - 2026-10-04T0856 · Vasily Surovsky
 - 2026-10-04T0855 · Tadeuz Pilsud
