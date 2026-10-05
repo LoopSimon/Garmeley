@@ -1,3 +1,8 @@
+- 2026-10-05T2356 · Human
+- 2026-10-05T2353 · Ogre
+- 2026-10-05T2345 · Giantkin
+- 2026-10-05T2343 · Wrydir
+- 2026-10-05T2343 · Giant
 - 2026-10-05T1706 · Vannsi
 - 2026-10-05T1706 · Cities of Dreams
 - 2026-10-05T1704 · Perrin Diar
@@ -193,8 +198,3 @@
 - 2026-09-19T1306 · Cormian
 - 2026-09-19T1306 · Barlon
 - 2026-09-19T1306 · Adeen
-- 2026-09-19T1305 · Vulpus
-- 2026-09-19T1304 · Teggio
-- 2026-09-19T1304 · Othirdon
-- 2026-09-19T1303 · Mossbrook Affair
-- 2026-09-19T1303 · Meadrath

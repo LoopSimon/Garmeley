@@ -1,1 +1,7 @@
-[[Giantsrul]] [[Aeldcult]]
+%%
+[[Giantsrul]] 
+[[Ogre]]
+[[Wrydir]]
+[[Otso]]
+[[Firbolg]]
+%%

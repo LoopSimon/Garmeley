@@ -7,6 +7,8 @@ Nevertheless it is precisely in this incredible diversity of thought and body th
 
 Human cultural groups on Ilrakhan, Behera and Nirydia include:
 
+*see Human Subcultures for a more detailed and up to date listing of the more important human subcultures*
+
 Ilrakhani:
 
 Bykmali: primarily the Olbellinge, Jueli and Skori people of Trykkerog.
