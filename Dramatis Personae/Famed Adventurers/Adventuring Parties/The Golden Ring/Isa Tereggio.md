@@ -15,11 +15,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>alive</span>
+        <span>904PA, Drow Ruins of Azagon</span>
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>40(in 904PA)</span>
+        <span>blood loss, 40 years of age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

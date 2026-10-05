@@ -1,3 +1,11 @@
+- 2026-10-05T0245 · Drow
+- 2026-10-05T0140 · Isa Tereggio
+- 2026-10-05T0139 · Horatio Tuliper
+- 2026-10-05T0138 · Alana Czery
+- 2026-10-05T0057 · Orlatz
+- 2026-10-05T0054 · Harold
+- 2026-10-05T0046 · Maiwynn
+- 2026-10-05T0046 · Jorj
 - 2026-10-05T0017 · Sword of the Abjurer
 - 2026-10-04T2313 · The Poem of the Bad Omen
 - 2026-10-04T1445 · Complete Timeline
@@ -48,10 +56,7 @@
 - 2026-09-29T1737 · Xara Ilig
 - 2026-09-29T1732 · Adral Fidrakis
 - 2026-09-29T1459 · Hobgoblin Invasion
-- 2026-09-28T1319 · Isa Tereggio
-- 2026-09-28T1319 · Horatio Tuliper
 - 2026-09-28T1319 · Filip of Leston
-- 2026-09-28T1318 · Alana Czery
 - 2026-09-28T0157 · The Bad Omen
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0305 · Gudrun
@@ -107,7 +112,6 @@
 - 2026-09-22T0718 · Vuron
 - 2026-09-22T0601 · Kilvea
 - 2026-09-22T0543 · Tur Aman
-- 2026-09-22T0442 · Drow
 - 2026-09-22T0442 · Tur Vuron
 - 2026-09-22T0313 · Biadarkyr
 - 2026-09-22T0249 · Tur Enzal
@@ -194,7 +198,3 @@
 - 2026-09-17T1734 · Kwarzimi
 - 2026-09-17T1725 · Lizun I
 - 2026-09-17T1318 · Phiodales
-- 2026-09-17T1310 · Alparaz
-- 2026-09-17T1302 · Izrafur
-- 2026-09-17T1257 · Onar
-- 2026-09-17T1256 · Alfred the Younger

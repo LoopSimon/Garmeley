@@ -19,11 +19,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>alive</span>
+        <span>904PA, Drow Ruins of Azagon</span>
     </div>
     <div class="wiki-row">
-        <strong>Age</strong>
-        <span>in her 30s(in 904PA)</span>
+        <strong>Cause of Death</strong>
+        <span>burned alive</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

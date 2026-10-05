@@ -15,11 +15,11 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>alive</span>
+        <span>904PA, Drow Ruins of Azagon</span>
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>63(in 904PA)</span>
+        <span>Dagger to the Heart, 63</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
