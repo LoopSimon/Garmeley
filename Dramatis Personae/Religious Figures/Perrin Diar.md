@@ -30,7 +30,7 @@
         <span>Diarist Movement</a>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Perrin.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Diar.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>Perrin Diar, born Perrin Ulrink, is a meadi theologian and leader of the reformist Diarist Movement. Following his infamous address at Jera, where he pontificated at the University about the nature of divinity and worship, the religious movement based on his teachings was born and he soon adopted the nickname Diar, in the old locni tongue meaning "servant of truth", wich in turn would become the origin for his movement being called "Diarism".</p>

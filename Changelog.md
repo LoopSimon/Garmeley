@@ -1,3 +1,5 @@
+- 2026-10-05T1704 · Perrin Diar
+- 2026-10-05T1704 · Geldfield Unie van Vrijhandel
 - 2026-10-05T1700 · Hiqae
 - 2026-10-05T1700 · Anzum
 - 2026-10-05T1659 · Daigonis Xiguo
@@ -15,7 +17,6 @@
 - 2026-10-05T1608 · Peadyr
 - 2026-10-05T1608 · Cities of Dreams
 - 2026-10-05T1608 · Treaty of Lotsprings
-- 2026-10-05T1608 · Geldfield Unie van Vrijhandel
 - 2026-10-05T1608 · The Discovery of Aisligos
 - 2026-10-05T1608 · Globus
 - 2026-10-05T1607 · Aldergrounds
@@ -40,7 +41,6 @@
 - 2026-10-05T0017 · Sword of the Abjurer
 - 2026-10-04T0856 · Vasily Surovsky
 - 2026-10-04T0855 · Tadeuz Pilsud
-- 2026-10-04T0730 · Perrin Diar
 - 2026-10-04T0545 · Diarism
 - 2026-10-03T1913 · Broken Fingers
 - 2026-10-03T1805 · Rox
