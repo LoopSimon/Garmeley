@@ -1,13 +1,14 @@
+- 2026-10-05T0313 · Sturla
+- 2026-10-05T0312 · Orlatz
+- 2026-10-05T0312 · Maiwynn
+- 2026-10-05T0312 · Jorj
+- 2026-10-05T0312 · Harold
 - 2026-10-05T0310 · Azag
-- 2026-10-05T0248 · Harold
 - 2026-10-05T0247 · The Bad Omen
 - 2026-10-05T0245 · Drow
 - 2026-10-05T0140 · Isa Tereggio
 - 2026-10-05T0139 · Horatio Tuliper
 - 2026-10-05T0138 · Alana Czery
-- 2026-10-05T0057 · Orlatz
-- 2026-10-05T0046 · Maiwynn
-- 2026-10-05T0046 · Jorj
 - 2026-10-05T0017 · Sword of the Abjurer
 - 2026-10-04T2313 · The Poem of the Bad Omen
 - 2026-10-04T1445 · Complete Timeline
@@ -54,7 +55,6 @@
 - 2026-09-29T1804 · Mikael Bivaldi
 - 2026-09-29T1752 · Piero & Friends
 - 2026-09-29T1751 · The Merry Three
-- 2026-09-29T1738 · Sturla
 - 2026-09-29T1737 · Xara Ilig
 - 2026-09-29T1732 · Adral Fidrakis
 - 2026-09-29T1459 · Hobgoblin Invasion

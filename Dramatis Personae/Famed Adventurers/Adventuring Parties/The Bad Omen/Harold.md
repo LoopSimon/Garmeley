@@ -38,3 +38,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Harold.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<small><i>this article concerns a Player Character played by Luky during Mini Game 3</i></small>
