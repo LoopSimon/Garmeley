@@ -1,5 +1,5 @@
 %%
-[[Aisligos]]
+[[The World/Aisligos/Aisligos]]
 [[Narzoi]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Pharang1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

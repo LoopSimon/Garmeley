@@ -1,6 +1,6 @@
 %%
 [[Krestasi]] 
-[[Aisligos]]
+[[The World/Aisligos/Aisligos]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Cities of Dreams</h4>

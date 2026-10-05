@@ -1,6 +1,6 @@
 %%
 [[Blijgrat]]
-[[Aisligos]]
+[[The World/Aisligos/Aisligos]]
 [[Treaty of Lotsprings]]
 [[Sertova]]
 [[Gesellschaft für Westmeadischen Handel]]

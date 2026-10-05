@@ -104,4 +104,7 @@ But with the anchor ripped away, the vault began to crack,
 Tur Agazon was caving in, there was no turning back. 
 
 They sprinted through the falling halls, outrunning dust and doom, 
-And clawed their way into the wind from out the Drow made to
+And clawed their way into the wind from out the Drow made tomb.
+
+They burst into the autumn chill, the nightmare finally done,
+And breathed beneath a starry sky, a brand new life begun.

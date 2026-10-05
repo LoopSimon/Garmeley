@@ -3,6 +3,7 @@
 [[Horatio Tuliper]]
 [[Filip of Leston]]
 [[Alana Czery]]
+[[The Poem of the Bad Omen]]
 %%
 <p>The Golden Ring was an adventuring group that was active from the early 890s to 904PA, consisting of:</p>
 <p><a href="Horatio Tuliper" class="internal-link">Horatio Tuliper</a>, a <a href="Halfling" class="internal-link">Halfling</a> Sorcerer from Calmbrook, of eccentric interests,</p>
@@ -11,3 +12,4 @@
 <p><a href="Alana Czery" class="internal-link">Alana Czery</a> known as "the Mole", a <a href="Vihri" class="internal-link">vihri</a> ex member of the <a href="Vaergriff" class="internal-link">Vaergriff</a> and cunning infiltrator.</p>
 <p>The group was founded by the friends Filip and Horatio who had met at Gelmsburg and would later be joined by the travelling Medicus, Alchemist and Scholar Isa. During the so called "Jallbreg Affair" of 892PA, the on-the-run rogue Alana would first con and later help and join the three adventurers as well, fully assembling the Golden Ring.</p>
 <p>Somewhere during the first half of the year of 904PA, the Golden Ring would venture into the howling Henge, an old turvik burial ground within the Wormwoods, half a days travel south of the urien town of Ansley. As they never emerged, a group of unlikely heroes would follow the calling of two twins from the west to find out what happened to the local heroes.</p>
+<p>The tale of these adventurers, the <a href="The Bad Omen" class="internal-link">Bad Omen</a>, venture deep into the lost drow ruins of Azagaon, on the footsteps of the Golden Ring, is told within the eponymous <a href="The Poem of the bad Omen" class="internal-link">Poem of the bad Omen</a>.</p>

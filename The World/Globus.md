@@ -7,7 +7,7 @@ orbited by [[Luna Major]] and [[Luna Minor]]
 		The large islands of Durenni and Il-Haena are often considered as subcontinents on Inara.
 	
 
- [[Aisligos]]:
+ [[The World/Aisligos/Aisligos]]:
 	Aisligos, Peadyr and Bulug;
 	These lands are found to the far west of Ilrakhan and sometimes referred to as a single continent, although they are distinct landmasses.
 

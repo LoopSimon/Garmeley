@@ -7,7 +7,7 @@
         <h3>Age of Stone</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman in southern Behera</div>
-	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor, the Narzoi evolves in central of Aisligos from their Purman ancestor</div>
+	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor</div>
 	        <div class="timeline-item" data-date="250000BA">Underland Trolls slowly evolve into the smaller Trogs</div>
 	        <div class="timeline-item" data-date="210000BA">Trog cultures dominate the pre historic underlands</div>
 	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
@@ -15,11 +15,13 @@
 	        <div class="timeline-item" data-date="120000BA">Era of Ash</div>
 	        <div class="timeline-item" data-date="110000BA">Astafir develop sentience</div>
 	        <div class="timeline-item" data-date="100000BA">Earliest evidence for upright Bihra in southern Nirydia</div>
-	        <div class="timeline-item" data-date="75000BA">Fellwins Comet hits in the modern day beheran Desert</div>
+	        <div class="timeline-item" data-date="75000BA">The Tisrock Comet hits in Aisligos, The Age of Roil ends in Aisligos and the land rests</div>
+	        <div class="timeline-item" data-date="50000BA">Birth of the Alder in Aisligos, start of the Aldercycle</div>
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
 	        <div class="timeline-item" data-date="35000BA">Approximate dating for the murals on the Spire of On</div>
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
 			<div class="timeline-item" data-date="30000BA">Nua Elfs are rapidly being replaced by the Drow</div>
+			<div class="timeline-item" data-date="30500BA">Fellwins Comet hits in the southern beheran Desert</div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems, Elven Diaspora begins</div>
@@ -44,6 +46,7 @@
 	        <div class="timeline-item" data-date="5500BA">Agriculture develops in Ancient Behera </div>
 	        <div class="timeline-item" data-date="4900BA">Earliest supposed date for the domestication of the cat</div>
 	        <div class="timeline-item" data-date="4800BA">Likely beginnings of the Hessir civilisation in northern Behera</div>
+	        <div class="timeline-item" data-date="4720BA">Year 0 of the First Alder Calendar</div>
 	        <div class="timeline-item" data-date="4600BA">Corn is domesticated in eastern Sirenna, quickly becoming the dominant staple of the continent</div>
 	        <div class="timeline-item" data-date="4550BA">End of the Hessir Civilization, Inisphing Civilization rises around the Hessefi Rivers, human and elven coexistence confirmed around the Za-Jira River</div>
 	        <div class="timeline-item" data-date="4500BA">The Alev Swamp in the Motherlands becomes a cradle of agriculture with large-scale canal systems</div>
@@ -51,6 +54,7 @@
 	        <div class="timeline-item" data-date="4050BA">Collapse of the Inisphing, Beheran Dark Ages begin</div>
 	        <div class="timeline-item" data-date="4033BA">Rise of the Drow undercity of Anazirt in the beheri underlands </div>
 	        <div class="timeline-item" data-date="4000BA">Gelfir Emergence in central Nirydia</div>
+	        <div class="timeline-item" data-date="3950BA">The Great Gift, The Alder begin to  turn the primitive Purmen of Aisligos into the Narzoi</div>
 	        <div class="timeline-item" data-date="3900BA">First recorded Contact between Ikieni and Usuni Humans in West-Behera </div>
 	        <div class="timeline-item" data-date="3800BA">Approximate begin of the drow high civilisation of Tur Enzal</div>
 	        <div class="timeline-item" data-date="3790BA">First records of Cuneiform Writing from the Hessef, Beheran Dark Ages end</div>
@@ -60,6 +64,7 @@
 	        <div class="timeline-item" data-date="2960BA">Age of Thirst ends, The Asefi Civilization forms in northern Behera</div>
 	        <div class="timeline-item" data-date="2900BA">The drow undercities of the central enzali underlands unite as the Empire of Tur Enzal</div>
 	        <div class="timeline-item" data-date="2800BA">Likely formation of Albis, modern day Razhalbis, at the Delta of the Muhusni River in northern Behera</div>
+	        <div class="timeline-item" data-date="2750BA">The Alder being their fight against the Great Enemy</div>
 	        <div class="timeline-item" data-date="2700BA">The Comet of Mir crashes in the Asef Desert</div>
 	        <div class="timeline-item" data-date="2650BA">The city of Erun forms on the coast of the Stormy Sea at the mouth of the Toumis River in northern Behera</div>
 	        <div class="timeline-item" data-date="2600BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
@@ -68,6 +73,7 @@
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur Enzal begins</div>
 	        <div class="timeline-item" data-date="2420BA">The great drow city Tur Ajk is founded in the ruins of Murajk</div>
+	        <div class="timeline-item" data-date="2415BA">The Catarmon, the Aldermon civilisation is destroyed</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
 	        <div class="timeline-item" data-date="2390BA">Onar the Voice becomes the first Emperor of the Pry Krestasi</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River, the first Tomb City of Drow and High Elf in both surface and underland</div>
@@ -140,6 +146,7 @@
             <div class="timeline-item" data-date="890BA">2nd Alparid Conquest of the Drow Empire of Tur Ajk, end of Tur Ajk</div>
             <div class="timeline-item" data-date="885BA">The Founding of Kher, Kherovan Age of Cities begins</div>
             <div class="timeline-item" data-date="881BA">The Founding of the Great City of Rakh</div>
+             <div class="timeline-item" data-date="862BA">The Pharang are now the most populous species on Aisligos, present in almost all of the continent</div>
             <div class="timeline-item" data-date="850BA">The Old Addacian Empire forms in modern day Hainach after Addac the Mighty conquers various cities on the Iza River</div>
             <div class="timeline-item" data-date="845BA">The Diacor Union is declared as the Empire of Diacor under Zenzetan VI</div>
             <div class="timeline-item" data-date="780BA">First Records of the Walled City of Ikara</div>
@@ -188,6 +195,7 @@
             <div class="timeline-item" data-date="370BA">Fall of Cyraclion</div>
             <div class="timeline-item" data-date="365BA">Later Addacian Empire rises around the Stormy Sea</div>
             <div class="timeline-item" data-date="360BA">Rise of Lakalism</div>
+            <div class="timeline-item" data-date="350BA">A subsect of the Pharang develop the Viktorai Code</div>
             <div class="timeline-item" data-date="345BA">The Lionlords defeat the forces of Orestis and unite under the first Kingdom of Cevolis.</div>
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
             <div class="timeline-item" data-date="338BA">Later Addacian Empire conquers the great City of Tuhrl, later Thulmouth, later Addacian Golden Age begins </div>
@@ -205,6 +213,7 @@
             <div class="timeline-item" data-date="293BA">3rd Great Rakhi-Addaci War begins</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
             <div class="timeline-item" data-date="285BA">3rd Great Rakhi-Addaci War ends inconclusively after the Battle of Toilak</div>
+            <div class="timeline-item" data-date="283BA">Eruption of the Uraz, massive periods of drought and famine begin in Aisligos</div>
             <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
             <div class="timeline-item" data-date="281BA">The Great Voyage, through unknown methods Minotaurs cross the Gaalian Sea and land on Ynkal, supposedly from Puthrac</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
@@ -287,6 +296,7 @@
             <div class="timeline-item" data-date="119PA">Sarloni Migration south, Invasion of western Kherova</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
             <div class="timeline-item" data-date="121PA">The Dirhan is established as the Highest Council within the Sultanate</div>
+            <div class="timeline-item" data-date="122PA">The Destruction wrought by the Uraz ends, the lands of Naltor are lost under the Seas</div>
             <div class="timeline-item" data-date="123PA">The Aelf Tragna rises as the prominent Warlord of the north</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="129PA">Tragna becomes the Queen of Skemfing, birth of Skemfing</div>
@@ -455,6 +465,7 @@
             <div class="timeline-item" data-date="558PA">Fenhir the Seer becomes the Prophet of the Javalim in the eastern cities of Azuvke</div>
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins</div>
+            <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Aisligos</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="564PA">Revolution of Rox ends, Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
@@ -490,6 +501,7 @@
             <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again, Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
+            <div class="timeline-item" data-date="603PA">The Hicae found their realm of Lazatec in Bulug, southern Aisligos</div>
             <div class="timeline-item" data-date="605PA">Rebels seize the Capital of Aerlan, end of the Aerlian Empire, Ravland is declared</div>
             <div class="timeline-item" data-date="606PA">The Conclave of 606 canonises Kasimir the Martyr</div>
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
@@ -715,7 +727,7 @@
 	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled, Diarism is spreading in western Mead- and Weadland as well as in central Othirdon</div>
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
-            <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Golden Ring</div>
+            <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
             <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
             <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal, Tourney at Mitrad</div>

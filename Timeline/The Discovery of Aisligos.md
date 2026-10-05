@@ -1,4 +1,5 @@
-%%[[Aisligos]]
+%%
+[[The World/Aisligos/Aisligos]]
 [[Vignasoya]]
 %%
 <p><a href="Aisligos" class="internal-link">Aisligos</a>, a continent across the North Tirean Ocean, was first discovered by skori sailors from <a href="Vignasoya" class="internal-link">Vignasoya</a> in the 7th century PA, although early settlements were quickly abandoned and the larger scale exploration and cross Tirean colonisation would only begin in the mid to late 9th century. </p>

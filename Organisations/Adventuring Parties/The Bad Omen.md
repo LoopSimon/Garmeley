@@ -13,3 +13,4 @@
 <p><a href="Orlatz" class="internal-link">Orlatz</a>, a <a href="Vihri" class="internal-link">low vihri</a> Axethrower and mercenary,</p>
 <p><a href="Jorj" class="internal-link">Jorj Ainé Ael</a>, a sertovi <a href="Half-Elf" class="internal-link">Half-Elf</a> Knight and devout <a href="Panrity" class="internal-link">follower of the Creator</a>, ever masked.</p>
 <p><a href="Maiwynn" class="internal-link">Maiwynn Armelle Ainé Ael</a>, a sertovi <a href="Half-Elf" class="internal-link">Half-Elf</a> Wizard of pale complexion, always at her brothers side.</p>
+<p>The tale of the Bad Omens venture deep into the lost drow ruins of Azagaon, on the footsteps of the Golden Ring, is told within the eponymous <a href="The Poem of the bad Omen" class="internal-link">Poem of the bad Omen</a>.</p>

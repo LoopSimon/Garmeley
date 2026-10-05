@@ -3,7 +3,7 @@
 [[Blijgrat]]
 [[Meadrath]]
 [[Geldfield Unie van Vrijhandel]]
-[[Aisligos]]
+[[The World/Aisligos/Aisligos]]
 [[Othirdon]]
 [[Sertova]]
 %%

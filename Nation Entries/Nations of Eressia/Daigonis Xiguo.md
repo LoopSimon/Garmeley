@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span> Starshell Pagian Hiqae</span>
+        <span> Starshell Pagian Anzum</span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
