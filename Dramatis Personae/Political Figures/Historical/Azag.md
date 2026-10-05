@@ -6,6 +6,7 @@
 [[The Bad Omen]]
 [[Tur Vuron]]
 [[Maiwynn]]
+[[Horatio Tuliper]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Azag</h4>
