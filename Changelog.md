@@ -1,9 +1,10 @@
+- 2026-10-05T0248 · Harold
+- 2026-10-05T0247 · The Bad Omen
 - 2026-10-05T0245 · Drow
 - 2026-10-05T0140 · Isa Tereggio
 - 2026-10-05T0139 · Horatio Tuliper
 - 2026-10-05T0138 · Alana Czery
 - 2026-10-05T0057 · Orlatz
-- 2026-10-05T0054 · Harold
 - 2026-10-05T0046 · Maiwynn
 - 2026-10-05T0046 · Jorj
 - 2026-10-05T0017 · Sword of the Abjurer
@@ -57,7 +58,6 @@
 - 2026-09-29T1732 · Adral Fidrakis
 - 2026-09-29T1459 · Hobgoblin Invasion
 - 2026-09-28T1319 · Filip of Leston
-- 2026-09-28T0157 · The Bad Omen
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0305 · Gudrun
 - 2026-09-27T0303 · Ylva
