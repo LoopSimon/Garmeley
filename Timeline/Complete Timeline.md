@@ -73,7 +73,7 @@
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur Enzal begins</div>
 	        <div class="timeline-item" data-date="2420BA">The great drow city Tur Ajk is founded in the ruins of Murajk</div>
-	        <div class="timeline-item" data-date="2415BA">The Catarmon, the Aldermon civilisation is destroyed</div>
+	        <div class="timeline-item" data-date="2415BA">The Catarmon, the Aldermur civilisation is destroyed</div>
 	        <div class="timeline-item" data-date="2410BA">Nangalith of Othir is constructed</div>
 	        <div class="timeline-item" data-date="2390BA">Onar the Voice becomes the first Emperor of the Pry Krestasi</div>
 	        <div class="timeline-item" data-date="2370BA">Biadarkyr forms near the central Ajit River, the first Tomb City of Drow and High Elf in both surface and underland</div>

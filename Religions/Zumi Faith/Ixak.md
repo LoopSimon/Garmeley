@@ -1,0 +1,6 @@
+%%
+[[Lazatec]]
+[[Piril]]
+%%
+<p>The Ixak is one of the primary schools within the greater <a href="Piril" class="internal-link">Piril</a> religious belief system, worshipping the Aspect of Ixak on the overarching quest to enlightenment and ascendence. It is primarily practiced by the <a href="Hiqae" class="internal-link">Hiqae</a> of <a href="Lazatec" class="internal-link">Lazatec</a>, the successors of the Eternal Arks that set out to cross the Tempest into their promised Paradise, settling down on southern shores of the Island of <a href="Bulug" class="internal-link">Bulug</a>, in the continental sphere of <a href="Aisligos" class="internal-link">Aisligos</a>.</p>
+<p>The Ixak views the quest of the Piril, to find and deepen ones connection with the primordial essence, as the chosen path for the Zumi peoples specifically and beliefs in the principle of ancestral guidance and genetic divination. Holding truth that those of their path that have achieved ascendence guide their followers on the road to enlightenment. The connection of the physical and the spiritual and its fusion and harmony is another important distinctive issue within the Ixak, the body is seen as a part and "root" of the Soul itself, and it is as important to change it and mold it as ones soul. Only if body and mind are in harmony, the next steps on the path of the Ixak can be taken. </p>

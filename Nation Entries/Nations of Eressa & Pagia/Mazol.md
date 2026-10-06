@@ -1,42 +1,43 @@
 %%
-[[Hiqae]]
-[[Bulug]]
-[[Ixak]]
+[[Eressa]]
+[[Pagia]]
+[[Zumi]]
+[[Ophaqim]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Lazatec</h4>
+    <h4 class="wiki-header">Empire of Mazol</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Absolute Monarchy</span>
+        <span>Imperial Theocracy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Orazakor</span>
+        <span>The Oracle</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Aphel Ro</span>
+        <span>Tohel</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>Dial of Lazatec</span>
+        <span>Dial of Mazol</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span><a href="Ixak" class="internal-link">The Ixak</a></span>
+        <span><a href="Ophaqim" class="internal-link">The Ophaqim</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span><a href="Hiqae" class="internal-link">Hiqae</a></span>
+        <span>Iter <a href="Zumi" class="internal-link">Zumi</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Hiqae</span>
+        <span>Iteri</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Eternal Arks, <a href="Daigonis Xiguo" class="internal-link">Daigonis Xiguo</a></span>
+        <span>The False Lords</span>
     </div>
 </div>

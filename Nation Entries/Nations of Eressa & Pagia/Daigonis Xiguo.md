@@ -1,5 +1,6 @@
 %%
-[[Eressa]]
+[[Pagia]]
+[[Yin]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Daigonis Xiguo</h4>
@@ -26,7 +27,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span> Starshell Pagian Anzum</span>
+        <span> Starshell <a href="Yin" class="internal-link">Yin</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

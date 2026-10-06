@@ -1,3 +1,19 @@
+- 2026-10-06T1948 · Ophaqim
+- 2026-10-06T1944 · Ixak
+- 2026-10-06T1941 · Piril
+- 2026-10-06T1932 · Mazol
+- 2026-10-06T1930 · Hiqae
+- 2026-10-06T1929 · Zumi
+- 2026-10-06T1927 · Lazatec
+- 2026-10-06T1925 · Daigonis Xiguo
+- 2026-10-06T1920 · Yin
+- 2026-10-06T1733 · Bulug
+- 2026-10-06T1602 · Aldergrounds
+- 2026-10-06T1554 · Viktorai
+- 2026-10-06T1549 · Complete Timeline
+- 2026-10-06T1549 · Alder
+- 2026-10-06T1549 · Heire
+- 2026-10-06T1548 · Pharang
 - 2026-10-05T2356 · Human
 - 2026-10-05T2353 · Ogre
 - 2026-10-05T2345 · Giantkin
@@ -7,26 +23,16 @@
 - 2026-10-05T1706 · Cities of Dreams
 - 2026-10-05T1704 · Perrin Diar
 - 2026-10-05T1704 · Geldfield Unie van Vrijhandel
-- 2026-10-05T1700 · Hiqae
-- 2026-10-05T1700 · Anzum
-- 2026-10-05T1659 · Daigonis Xiguo
 - 2026-10-05T1659 · Narzoi
 - 2026-10-05T1658 · Sarmi
-- 2026-10-05T1657 · Complete Timeline
 - 2026-10-05T1639 · Aisligos
-- 2026-10-05T1636 · Alder
 - 2026-10-05T1619 · Calendars
-- 2026-10-05T1609 · Lazatec
-- 2026-10-05T1608 · Aldermon
-- 2026-10-05T1608 · Pharang
+- 2026-10-05T1608 · Aldermur
 - 2026-10-05T1608 · Verzi
-- 2026-10-05T1608 · Bulug
 - 2026-10-05T1608 · Peadyr
 - 2026-10-05T1608 · Treaty of Lotsprings
 - 2026-10-05T1608 · The Discovery of Aisligos
 - 2026-10-05T1608 · Globus
-- 2026-10-05T1607 · Aldergrounds
-- 2026-10-05T1607 · Heire
 - 2026-10-05T1606 · Molemor
 - 2026-10-05T1520 · The Poem of the Bad Omen
 - 2026-10-05T1519 · The Golden Ring
@@ -192,9 +198,3 @@
 - 2026-09-19T1307 · Pukluwuk
 - 2026-09-19T1307 · Jakub Ralpia
 - 2026-09-19T1307 · Gryphon
-- 2026-09-19T1306 · Garmeley
-- 2026-09-19T1306 · Eldmar
-- 2026-09-19T1306 · Eight Years War
-- 2026-09-19T1306 · Cormian
-- 2026-09-19T1306 · Barlon
-- 2026-09-19T1306 · Adeen

@@ -1,9 +1,10 @@
 %%
-[[The World/Aisligos/Aisligos]]
-[[Narzoi]]
+[[Viktorai]]
+[[Heire]]
+[[Aisligos]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Pharang1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Viktorai Guard of the Pharang species found in Aisligos</i></small>
 </div>
-<p>The Pharang are a large and diverse family of sentient creatures containing over a thousand species of Hymenoptera Insectoids, primarily home to the continent of <a href="Aisligos" class="internal-link">Aisligos</a>. They are mainly found within the southern islands of the continent and have organized within high cultures and prospering societies for over a thousand years. The Pharang particularly are the dominant culture of southern Aisligos and the most populous group of species ahead of the <a href="Narzoi" class="internal-link">Narzoi</a>.</p>
-<p>A strong chivalric culture has developed within many of the societies formed by the Pharang, as well as their natural aversion to water and sea travel, likely due to a cultural and religious taboo and disdain based on simple biological imperative of a physiology, that does not do well underwater.</p>
+<p>The Pharang are a large and diverse family of sentient creatures containing over a thousand species of Hymenoptera Insectoids, primarily home to the continent of <a href="Aisligos" class="internal-link">Aisligos</a>. They are mainly found within the eastern parts of the continent and have organized within high cultures and prospering societies for over a thousand years. The Pharang particularly are the dominant culture of southern Aisligos and the most populous group of species ahead of the <a href="Narzoi" class="internal-link">Narzoi</a>. The Pharang are the old creations of the <a href="Heire" class="internal-link">Heire</a>, who once controlled their every will and decisions. Following the Catarmon, the devastating event that caused the fall of the <a href="Alder" class="internal-link">Alder</a>, the Heire were significantly weakened as well and, wether in an act of revolution or something merely similar, the Pharang servants of these beasts broke free and have been, for the most part, ever since.</p>
+<p>A strong chivalric culture has developed within many of the societies formed by the Pharang, as well as their natural aversion to water and sea travel, likely due to a cultural and religious taboo and disdain based on simple biological imperative of a physiology, that does not do well underwater. Many of these social norms and rituals have become a living breathing mandate observed by the Pharang, called the Viktorai Code. The Viktorai means more to them, on a biological level, than any religion or mere social contract ever could and seems to have replaced an older, more primordial covenant, or at least keep it at bay.</p>

@@ -1,3 +1,5 @@
 %%
 [[Pharang]]
 %%
+<p>There are many names for the Heire, the <a href="Pharang" class="internal-link">Pharang</a> of the <a href="Viktorai" class="internal-link">Viktorai</a> call them "the Old Devourers", the <a href="Alder" class="internal-link">Alder</a> named them as "the Great Enemy" and to those fanatical pharang still loyal to them to this day, they are simply the "Masters". The Heire are a race of horrifying beasts, many of them large and few of them uniform, boasting an incredibly intelligence and the ability to manipulate the world around them like clay, as well as to affect the emotional spectrum of other, lesser, creatures in a horrifying way as a tool used in war and dominion.</p>
+<p>There is no known number as to how many Heire there once were and how many still remain, they fought against the Alder in ancient times but were put into catatonic and weakened states, if not in many cases outright killed, by the event known as the Catarmon that also ended the great Alder civilisation of <a href="Aldermur" class="internal-link">Aldermur</a>.</p>
