@@ -344,6 +344,7 @@
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="288PA">Wrath of Isara hits Sertovis & Othirdon</div>
             <div class="timeline-item" data-date="291PA">Reani-Vihri War breaks out following King Salkon I du Reans declaration</div>
+            <div class="timeline-item" data-date="295PA"> Riarang, the first Empire of the independent Pharang emerges following the end of the Urazi Period of Famine</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="297PA">Hagrash of Ynkal leads thousands of Minotaurs into rebellion against their Vanpuri Slavemasters</div>
             <div class="timeline-item" data-date="298PA">Rise of Khan Genbela in Nirydia</div>
@@ -483,6 +484,7 @@
             <div class="timeline-item" data-date="580PA">Great Expedition</div>
             <div class="timeline-item" data-date="581PA">Saint Luca resolves the Crisis of Parsa</div>
             <div class="timeline-item" data-date="582PA">Bihra form Rha-Gis in the Limsul Peaks, Precursors to the Kherovan Inquisition judge and kill the Witch Yezofia following her three decade establishment of a witches court in the Yellow Moor</div>
+            <div class="timeline-item" data-date="584PA">A school of scholars emerges within Riarang, studying the remnants of the Alder civilisation</div>
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition</div>
             <div class="timeline-item" data-date="586PA">Meadi reconquest of northern Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>
@@ -529,6 +531,7 @@
             <div class="timeline-item" data-date="648PA">Battle of Greyfields</div>
             <div class="timeline-item" data-date="649PA">The former Lords of middle Aerlan form the Kingdom of Erlmondy</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach</div>
+            <div class="timeline-item" data-date="656PA">The Path of the Old Gods forms within Riarang, creating deep ideological tensions within the Empire</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
             <div class="timeline-item" data-date="659PA">Dissolution of Levelix and Creation of Balerey and Sebera; Battle of Summerlake, death of the Count of Mussling; decisive loyalist victory breaks the last Medlan field army.</div>
@@ -556,6 +559,7 @@
             <div class="timeline-item" data-date="686PA">Establishment of the Gaal Empire on Ynkal</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
+             <div class="timeline-item" data-date="689PA">Tensions between the Paths grow within Riarang, the Empire begins to fully splinter from within</div>
             <div class="timeline-item" data-date="690PA">Hobgoblin Invasion of Urland begins, Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
              canonized as a Saint, Trazlov Guild of Alchemy is formed; Battle of Elpfield; Yokosch wins independence from Pravazik</div>
@@ -592,6 +596,7 @@
              <div class="timeline-item" data-date="740PA">The Treaty of 740 confirms the independence of Bassira</div>
             <div class="timeline-item" data-date="743PA">Death of Gaden, End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II, Ichori Choir is created</div>
+             <div class="timeline-item" data-date="746PA">The Followers of Duria emerge victorious from the fall of Riarang, birth of the Path of Duria</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster</div>
              <div class="timeline-item" data-date="748PA">Prince Anselmo I of Battvia grants the Great Privilege to the Cities of the Bay</div>
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression</div>

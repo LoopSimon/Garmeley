@@ -1,8 +1,11 @@
+- 2026-10-07T0603 · Riarang
+- 2026-10-07T0603 · Complete Timeline
+- 2026-10-07T0550 · Duria
+- 2026-10-07T0545 · Adate
+- 2026-10-07T0156 · Kavi
 - 2026-10-06T2239 · Senso
 - 2026-10-06T2239 · Nuguli
 - 2026-10-06T2238 · Kombe
-- 2026-10-06T2238 · Kavi
-- 2026-10-06T2237 · Adate
 - 2026-10-06T2231 · Narzoi
 - 2026-10-06T1949 · Bulug
 - 2026-10-06T1948 · Ophaqim
@@ -16,7 +19,6 @@
 - 2026-10-06T1920 · Yin
 - 2026-10-06T1602 · Aldergrounds
 - 2026-10-06T1554 · Viktorai
-- 2026-10-06T1549 · Complete Timeline
 - 2026-10-06T1549 · Alder
 - 2026-10-06T1549 · Heire
 - 2026-10-06T1548 · Pharang
@@ -196,5 +198,3 @@
 - 2026-09-19T1310 · Arevi Yerkir
 - 2026-09-19T1308 · Xerental
 - 2026-09-19T1308 · Vihrmen Federation
-- 2026-09-19T1307 · Vihri
-- 2026-09-19T1307 · Urland

@@ -28,3 +28,4 @@
     </div>
     <hr class="wiki-hr">
 </div>
+<p>The Kavi tribe is one of the largest Narzoi tribes on the island of Peadyr, roaming and cultivating its northern coastline and eastern highlands, they were the first tribe of the Narzoi peoples to encounter sefairers from Ilrakhan.</p>
