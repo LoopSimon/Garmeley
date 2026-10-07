@@ -1,13 +1,16 @@
-- 2026-10-07T0606 · Alder
+- 2026-10-07T1812 · Alder
+- 2026-10-07T1811 · Narzoi
+- 2026-10-07T1811 · Sarmi
+- 2026-10-07T1810 · Heire
+- 2026-10-07T0624 · Complete Timeline
+- 2026-10-07T0622 · The Discovery of Aisligos
 - 2026-10-07T0603 · Riarang
-- 2026-10-07T0603 · Complete Timeline
 - 2026-10-07T0550 · Duria
 - 2026-10-07T0545 · Adate
 - 2026-10-07T0156 · Kavi
 - 2026-10-06T2239 · Senso
 - 2026-10-06T2239 · Nuguli
 - 2026-10-06T2238 · Kombe
-- 2026-10-06T2231 · Narzoi
 - 2026-10-06T1949 · Bulug
 - 2026-10-06T1948 · Ophaqim
 - 2026-10-06T1944 · Ixak
@@ -20,7 +23,6 @@
 - 2026-10-06T1920 · Yin
 - 2026-10-06T1602 · Aldergrounds
 - 2026-10-06T1554 · Viktorai
-- 2026-10-06T1549 · Heire
 - 2026-10-06T1548 · Pharang
 - 2026-10-05T2356 · Human
 - 2026-10-05T2353 · Ogre
@@ -31,14 +33,12 @@
 - 2026-10-05T1706 · Cities of Dreams
 - 2026-10-05T1704 · Perrin Diar
 - 2026-10-05T1704 · Geldfield Unie van Vrijhandel
-- 2026-10-05T1658 · Sarmi
 - 2026-10-05T1639 · Aisligos
 - 2026-10-05T1619 · Calendars
 - 2026-10-05T1608 · Aldermur
 - 2026-10-05T1608 · Verzi
 - 2026-10-05T1608 · Peadyr
 - 2026-10-05T1608 · Treaty of Lotsprings
-- 2026-10-05T1608 · The Discovery of Aisligos
 - 2026-10-05T1608 · Globus
 - 2026-10-05T1606 · Molemor
 - 2026-10-05T1520 · The Poem of the Bad Omen

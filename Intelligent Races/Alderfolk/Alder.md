@@ -6,6 +6,9 @@
 [[Heire]]
 [[Sarmi]]
 %%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Alder1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>Alder</i></small>
+</div>
 <p>The Alder are the mysterious precursors to the modern day Narzoi, often associated with the so called "Great Gift" that gave the primitive Purmen great abilities and elevated them to the race now known as the Narzoi. </p>
 <p>The first records of the Alder describe them already as "those who become" indicating to their unique trait of bodily adaption and shape changing, they displayed a great knowledge of the making of the world itself and put much value on individualism.</p>
 <p>The Alder build a great culture and civilisation known as <a href="Aldermur" class="internal-link">Aldermur</a> following the Age of Roil, the prehistoric times of elemental rule and primordial chaos of ancient <a href="Aisligos" class="internal-link">Aisligos</a>. They constructed many wonders and grand cities, works of power and mystery whose true purpose is now lost to the souls wandering their lands in the modern day, but some of which, such as the famous Alderways, are still able to fulfil their original purpose thousands of years after the Alder fell. The ruins and sites of where great Alder once build their structures are commonly referred to as <a href="Aldergrounds" class="internal-link">Aldergrounds</a>, and much of what we know about this mysterious race is derived from discoveries, murals, and findings in these Aldergrounds.</p>

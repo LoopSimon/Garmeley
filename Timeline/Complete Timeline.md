@@ -670,7 +670,7 @@
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas, Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
-            <div class="timeline-item" data-date="840PA">Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
+            <div class="timeline-item" data-date="840PA">Marino Viamali discoveres Peadyr and greater Aisligos meeting the Narzoi of the Kavi Tribe; Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled, First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work, First War of the Gryphon ends, successful reconquest of Turv</div>
