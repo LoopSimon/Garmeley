@@ -1,3 +1,4 @@
+- 2026-10-07T0606 · Alder
 - 2026-10-07T0603 · Riarang
 - 2026-10-07T0603 · Complete Timeline
 - 2026-10-07T0550 · Duria
@@ -19,7 +20,6 @@
 - 2026-10-06T1920 · Yin
 - 2026-10-06T1602 · Aldergrounds
 - 2026-10-06T1554 · Viktorai
-- 2026-10-06T1549 · Alder
 - 2026-10-06T1549 · Heire
 - 2026-10-06T1548 · Pharang
 - 2026-10-05T2356 · Human
