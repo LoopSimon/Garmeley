@@ -1,3 +1,6 @@
+- 2026-10-08T0734 · Haozon
+- 2026-10-08T0731 · Adate
+- 2026-10-08T0728 · Aldermur
 - 2026-10-08T0713 · Aisligos
 - 2026-10-08T0708 · Phiodales
 - 2026-10-08T0706 · Ulrike Metzen
@@ -21,7 +24,6 @@
 - 2026-10-07T0622 · The Discovery of Aisligos
 - 2026-10-07T0603 · Riarang
 - 2026-10-07T0550 · Duria
-- 2026-10-07T0545 · Adate
 - 2026-10-06T2239 · Nuguli
 - 2026-10-06T2238 · Kombe
 - 2026-10-06T1949 · Bulug
@@ -41,7 +43,6 @@
 - 2026-10-05T1704 · Perrin Diar
 - 2026-10-05T1704 · Geldfield Unie van Vrijhandel
 - 2026-10-05T1619 · Calendars
-- 2026-10-05T1608 · Aldermur
 - 2026-10-05T1608 · Verzi
 - 2026-10-05T1608 · Peadyr
 - 2026-10-05T1608 · Treaty of Lotsprings
@@ -197,4 +198,3 @@
 - 2026-09-19T1311 · Inara
 - 2026-09-19T1311 · Ilrakhan
 - 2026-09-19T1311 · Grachy
-- 2026-09-19T1311 · Dragon

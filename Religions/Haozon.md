@@ -1,0 +1,6 @@
+%%
+[[Alder]]
+%%
+<p>The Haozon, usually shortened to Haoism, is an ancient philosophical and religious school first practiced by the mysterious race of the <a href="Alder" class="internal-link">Alder</a>, various sects of the Haozon have been kept alive or refunded in societies of the Ai <a href="Narzoi" class="internal-link">Narzoi</a>, who consider themselves the spiritual and material successors to the ancient Alder peoples. The core concept within the Haozon is the Hao, the collective spiritual community of all sentient life, a greater subconscious of reality. Various ancient and modern Sects ascribe different qualities to the Hao and some consider only certain individuals or even species part of the Hao.</p>
+<p>The so called "New Haozon" is the most well known sect of Haoism as it is practiced as the primary state-religion of the Ai Narzoi realm known as the <a href="Alder" class="internal-link">Alder Firmament</a>. </p>
+<p>The Mark of the Beast, sometimes called the Ehil, is a concept within the Haozon, describing and individual capable of great destruction and malice that has lost themselves within self-worship, unable to rejoin with the greater Hao.</p>
