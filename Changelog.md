@@ -1,15 +1,16 @@
-- 2026-10-08T1941 · New Fryd
-- 2026-10-08T1941 · Livoa
-- 2026-10-08T1941 · Grynborg
-- 2026-10-08T1941 · Faarhovn
-- 2026-10-08T1940 · Dueren
-- 2026-10-08T1940 · Almersport
-- 2026-10-08T1940 · Alinanora
+- 2026-10-08T2238 · Dueren
+- 2026-10-08T2238 · Alinanora
+- 2026-10-08T2238 · Almersport
+- 2026-10-08T2233 · New Fryd
+- 2026-10-08T2229 · Faarhovn
+- 2026-10-08T2228 · Livoa
+- 2026-10-08T2225 · Grynborg
+- 2026-10-08T2158 · Aisligos
+- 2026-10-08T2102 · Complete Timeline
 - 2026-10-08T1940 · Wadi
 - 2026-10-08T1940 · Spinemarder
 - 2026-10-08T1939 · Pangomor
 - 2026-10-08T1939 · Frugg
-- 2026-10-08T1857 · Complete Timeline
 - 2026-10-08T1839 · Durfall
 - 2026-10-08T1730 · Gethricism in the New World
 - 2026-10-08T1704 · Mior
@@ -19,7 +20,6 @@
 - 2026-10-08T0734 · Haozon
 - 2026-10-08T0731 · Adate
 - 2026-10-08T0728 · Aldermur
-- 2026-10-08T0713 · Aisligos
 - 2026-10-08T0708 · Phiodales
 - 2026-10-08T0656 · Conflux
 - 2026-10-07T1857 · Mazol
