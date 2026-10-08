@@ -583,6 +583,7 @@
             <div class="timeline-item" data-date="711PA">Anak Montener writes the Anak Codex</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
+            <div class="timeline-item" data-date="719PA">Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos</div>
             <div class="timeline-item" data-date="719PA">Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy II</div>
@@ -603,6 +604,7 @@
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
             <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
+            <div class="timeline-item" data-date="758PA">The Ravlander Explorer Balan Reyd sets foot on Peadyr</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, 1st War of Elbae Aggression ends</div>
@@ -621,7 +623,7 @@
             <div class="timeline-item" data-date="776PA">Treeplague ravages Ur and southern Vihr</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, Great Fire of Tesegith, Treeplague reaches Grevenna, Kherova and Garmeley and fades in the southern climates</div>
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
-            <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
+            <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath; The united sertovi colony of New Rav on Peadyr is destroyed following hostile encounters with the local Narzoi population</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; Battle of the Storms</div>
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
@@ -635,6 +637,7 @@
             <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out, Battles of Gialo & Fiarco</div>
             <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal, end of the Jigallori Khaganate</div>
+            <div class="timeline-item" data-date="795PA">Weadi traders map the western shores of Peadyr and Aisligos, Beginning of the Kelzen Route sealane</div>
             <div class="timeline-item" data-date="797PA">Battle under the Olive Trees</div>
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador, Battle of Bereggio, end of the Battvian Civil War</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
@@ -653,7 +656,7 @@
             <div class="timeline-item" data-date="817PA">Pact of Orenburg is declared by the original Orenburg Nine</div>
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="819PA">Meynar of Jorrensteads "Historiae Uriorum" is published</div>
-            <div class="timeline-item" data-date="820PA">Fall of Kulum</div>
+            <div class="timeline-item" data-date="820PA">Fall of Kulum; Bykmali Explorers set foot on mainland Aisligos again, a plague quickly begins to spread in Grynborg and adjacent settlements in the tirean isles are quarantined</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins, Battle of Skyroar</div>
             <div class="timeline-item" data-date="825PA">Battle of Arvale</div>
@@ -665,14 +668,14 @@
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
             <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Grachy</div>
-            <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic</div>
+            <div class="timeline-item" data-date="835PA">End of the Brothers War, Grachy is reorganized as a Republic; A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas, Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali discoveres Peadyr and greater Aisligos meeting the Narzoi of the Kavi Tribe; Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled, First War of the Gryphon begins</div>
-            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet</div>
+            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; Jaime di Dilin negotiates with Narzoi Natives in Peadyr</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work, First War of the Gryphon ends, successful reconquest of Turv</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
@@ -688,7 +691,7 @@
             <div class="timeline-item" data-date="855PA">Battle of Orsfurt, Death King Arngil II von Kor and accession of Gilmar I, "Dance of Husks" ravages Cevolia and reaches Sertova </div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
             <div class="timeline-item" data-date="857PA">The Risen Reef Dominion completes its ascension process to the surface</div>
-            <div class="timeline-item" data-date="858PA">The Dwarf Bazur becomes the final Bearer of the Seal of Ran</div>
+            <div class="timeline-item" data-date="858PA">The Dwarf Bazur becomes the final Bearer of the Seal of Ran; Livoa is founded in the New World</div>
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan, after many deaths in cevolia and Sertova, the "Dance of Husks" perishes</div>
 	        <div class="timeline-item" data-date="860PA">Tensions between the Risen Reef and niryd Sea traders begin escalating</div>
 	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat, Muriel of Gloss defeats Viagoris in a magical duel</div>
@@ -705,7 +708,9 @@
             <div class="timeline-item" data-date="874PA">Andrew of Trydlew dies of unknown circumstances, suspected poisoning</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
+            <div class="timeline-item" data-date="878PA">Port Faarhoven is founded in the New World</div>
             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II</div>
+            <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously, Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal</div>
             <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins, Battle at Garlin</div>
@@ -719,7 +724,7 @@
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively, peace at Algolom</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresses the public at the University of Jera, birth of Diarism</div>
-            <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl</div>
+            <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl; Almersport is founded in the New World</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
             <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy</div>
@@ -728,7 +733,7 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Modern Age</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath</div>
+	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath; Alinanora is founded in the New World</div>
 	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled, Diarism is spreading in western Mead- and Weadland as well as in central Othirdon</div>
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
@@ -749,7 +754,7 @@
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave, Independence Movements grow once again in Droil</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach; The Goblin Poet Taggazan performs at the Rectors Ball of Reanport</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords, Gaal-Renessi War breaks out</div>
-            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world, The Derianov Uprising is put down</div>
+            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world, The Derianov Uprising is put down, Dueren is founded in the New World</div>
             <div class="timeline-item" data-date="922PA">Mini Campaign 1: Death of Duchess Agnes of Garmeley, Mini Campaign 2: Fairriver Incident, Dwarven Invasion of Yokosch</div>
             <div class="timeline-item" data-date="923PA">Campaign 1, Garmish Civil War breaks out</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla, discovery of Sirenna, Sack of Sunminster; Dwarven Invasion of Yokosch fails</div>

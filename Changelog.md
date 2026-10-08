@@ -1,3 +1,18 @@
+- 2026-10-08T1941 · New Fryd
+- 2026-10-08T1941 · Livoa
+- 2026-10-08T1941 · Grynborg
+- 2026-10-08T1941 · Faarhovn
+- 2026-10-08T1940 · Dueren
+- 2026-10-08T1940 · Almersport
+- 2026-10-08T1940 · Alinanora
+- 2026-10-08T1940 · Wadi
+- 2026-10-08T1940 · Spinemarder
+- 2026-10-08T1939 · Pangomor
+- 2026-10-08T1939 · Frugg
+- 2026-10-08T1857 · Complete Timeline
+- 2026-10-08T1839 · Durfall
+- 2026-10-08T1730 · Gethricism in the New World
+- 2026-10-08T1704 · Mior
 - 2026-10-08T0742 · Jan van Swarn
 - 2026-10-08T0740 · Ulrike Metzen
 - 2026-10-08T0737 · Wispmer
@@ -6,7 +21,6 @@
 - 2026-10-08T0728 · Aldermur
 - 2026-10-08T0713 · Aisligos
 - 2026-10-08T0708 · Phiodales
-- 2026-10-08T0703 · Complete Timeline
 - 2026-10-08T0656 · Conflux
 - 2026-10-07T1857 · Mazol
 - 2026-10-07T1856 · Ophaqim
@@ -184,17 +198,3 @@
 - 2026-09-21T0316 · Darian Amouzgar
 - 2026-09-20T0423 · The Golden Gambit
 - 2026-09-20T0413 · Standoff at Dimrods Shrine
-- 2026-09-19T1843 · Farrouk Nalar
-- 2026-09-19T1336 · Trollbacks
-- 2026-09-19T1336 · Mistspires
-- 2026-09-19T1335 · Cloudscratchers
-- 2026-09-19T1334 · Kortopis
-- 2026-09-19T1312 · Vihr
-- 2026-09-19T1312 · Vazena
-- 2026-09-19T1312 · Ukiolla
-- 2026-09-19T1312 · The Jättilkivi
-- 2026-09-19T1312 · Pintrixaz
-- 2026-09-19T1312 · Pehki
-- 2026-09-19T1312 · Nirydia
-- 2026-09-19T1312 · Levazci
-- 2026-09-19T1311 · Inara

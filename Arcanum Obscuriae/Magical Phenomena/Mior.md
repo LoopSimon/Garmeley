@@ -1,0 +1,6 @@
+ %%
+ [[Nirydia]]
+ %%
+ <p> The Mior, also known as the Mior Disease, is a curious phenomena occuring within various party of the Niryd Sea and eastern Nirydia, infecting lifeforms and slowly transforming them into uniform matter, also commonly called the Mior, that resembles a thick unguent not to dissimilar from Magma.</p>
+ <p>The first recorded instance of the Mior seems to go back to the 5th century PA and the tales of Bihra Sailors from the Melessi Islands, then still inhabited by various maritime bihra communities, sometimes in exchange with the population of Hol or even the mainland. Tales of cursed rocks in the sea, silent islands of grey and green, moving in the waves unsuspectingly like wreckage haunted the Melessi Islands then.</p>
+ <p>Little is known how the Mior reached the Melessi Islands eventually, its inhabitants described it as a foretold doom, the revenge of the dead, a witch doctors cruel summon, some even embracing it as the next stage of their life and the world as a whole. The Melessis, around 19 inhabited islands south-west of Durennis and Hol, became the dreaded forbidden islands, feared by sailors of the seas, a man who spoke of them in more than myth and warning was shunned, exiled to the seas and forbidden from setting foot ashore, out of fear he too would bring the Mior.</p>
