@@ -2,6 +2,7 @@
 [[The Discovery of Aisligos]]
 [[Narzoi]]
 [[Peadyr]]
+[[Chianism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kavi Tribe</h4>
@@ -16,7 +17,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>N/A</span>
+        <span><a href="Chianism" class="internal-link">Chianism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

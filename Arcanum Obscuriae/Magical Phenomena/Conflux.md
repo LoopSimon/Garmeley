@@ -1,0 +1,8 @@
+%%
+[[Basic Magical Theory]]
+[[Rakh]]
+[[Ulrike Metzen]]
+%%
+<p>Conflux describes a phenomenon during which extra-planar energies are especially potent and the those who can tap into them feel a surge of powers, the earliest known records of Conflux within the western Canon stems from transcriptions of rakhi Thaumaturges, the discoveries of this phenomenon influenced rakhi society tremendously, its Calendar was build around it, and important decisions of military, administrative and religious significance were influenced if not made entirely dependent on it.</p>
+<p>The astronomer <a href="Ulrike Metzen" class="internal-link">Ulrike Metzen</a> observed and determined different intensities of Conflux, and correctly determined that the phenomenon was actually occurring many more times than previously thought, up to hundreds of times a month in certain time periods she called "strong eras" and dropping to less than one a week during what she dubbed as "weak eras". Her research was  largely theoretical until the discovery of the so called <a href="Talnod-Swarn Gradient" class="internal-link">Talnod-Swarn Gradient</a> and the Turnometer made scientific cataloguing of minute conflux dependent energies possible.</p>
+<p>Aside from her discoveries of the Strong and Weak Eras and the minor Confluxes, Ulrike also determined that various Conflux events as described in historical records of the last millenia were abnormal, calling these "Super Events", or "Super Conflux", estimating they would occur roughly once every 100 to 200 years.</p>

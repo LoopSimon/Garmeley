@@ -1,5 +1,4 @@
 %%
-[[Eressa]]
 [[Pagia]]
 [[Zumi]]
 [[Ophaqim]]

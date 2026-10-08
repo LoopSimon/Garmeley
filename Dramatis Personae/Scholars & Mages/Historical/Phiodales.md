@@ -1,5 +1,6 @@
 %%
 [[Rakh]]
+[[Conflux]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Phiodales of Mizk</h4>
@@ -26,7 +27,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
-        <span>Conflux Theory</span>
+        <span>Ancient <a href="Conflux" class="internal-link">Conflux</a> Theory</span>
     </div>
     <div class="wiki-row">
         <strong>Known Teachers</strong>

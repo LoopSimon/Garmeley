@@ -1,5 +1,5 @@
 %%
-[[Pagia]]
+[[Eressa]]
 [[Yin]]
 %%
 <div class="wiki-infobox">

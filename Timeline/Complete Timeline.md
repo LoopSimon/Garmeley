@@ -733,7 +733,7 @@
             <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
-            <div class="timeline-item" data-date="905PA">“Longest-Night-Phenomenon” occurs</div>
+            <div class="timeline-item" data-date="905PA">Ulrike Metzen publishes "Conflux: Tide of the Stars"</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
             <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal, Tourney at Mitrad</div>
             <div class="timeline-item" data-date="908PA"> Treaty of Kulum </div>
