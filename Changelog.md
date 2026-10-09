@@ -1,3 +1,6 @@
+- 2026-10-09T1213 · Lisar
+- 2026-10-09T1208 · Share
+- 2026-10-09T1145 · Noktir
 - 2026-10-09T0834 · Verzi
 - 2026-10-09T0800 · Pangomor
 - 2026-10-09T0756 · Frugg
@@ -8,7 +11,6 @@
 - 2026-10-09T0621 · The Golden Gambit
 - 2026-10-09T0619 · Dagger of Discord
 - 2026-10-09T0607 · Lapis Lazuli of Azagon
-- 2026-10-09T0527 · Shir
 - 2026-10-09T0513 · New Fryd
 - 2026-10-09T0509 · Sword of the Abjurer
 - 2026-10-09T0509 · Summercrown
@@ -196,5 +198,3 @@
 - 2026-09-21T1923 · Golden Dusk
 - 2026-09-21T1419 · Half-Elf
 - 2026-09-21T1419 · Elf
-- 2026-09-21T1418 · Skemfing
-- 2026-09-21T0407 · Elbae

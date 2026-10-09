@@ -2,20 +2,22 @@
 [[Pharang]]
 [[Viktorai]]
 [[Riarang]]
+[[Heire]]
+[[Verzi]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Path of Shir</h4>
+    <h4 class="wiki-header">Path of Lisar</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Viktorai Path</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Shir Baqir</span>
+        <span>The Mother</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Shir Inur</span>
+        <span>Lisar</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
