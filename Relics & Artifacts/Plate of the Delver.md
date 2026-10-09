@@ -16,7 +16,7 @@
         <span>unknown</span>
     </div>
     <div class="wiki-row">
-        <strong>Current Owner or Location</strong>
+        <strong>Current Owner <br>or Location</strong>
         <span>Marianna Kaminski, Ikara</span>
     </div>
     <div class="wiki-row">

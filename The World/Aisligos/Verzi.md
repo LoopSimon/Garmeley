@@ -1,3 +1,3 @@
 %%
-[[The World/Aisligos/Aisligos]]
+[[Aisligos]]
 %%

@@ -1,7 +1,11 @@
 %%
+[[Peadyr]]
 [[Aisligos]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;">
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Wadi.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
  <small><i>A Peadi Wadi</i></small>
 </div>
+<p>The Wadi is a large herbivorous mammal native to the island of <a href="Peadyr" class="internal-link">Peadyr</a>, found grazing the lush inland woods, river deltas and coastal wetlands that define much of the island's interior. The body is massive and rounded, covered in short cream-coloured fur marked along the flanks and hindquarters with irregular dark spots, and the face, underbelly and the base of the tail are vivid orange-red, a colouration that intensifies in adult males during the mating season. The Wadi's most distinctive feature is its jaw, which is disproportionately powerful relative to its otherwise placid frame, fitted with broad, interlocking teeth capable of splitting and grinding the bark of the Toltree, a species of enormous native timber whose outer shell approaches the hardness of stone and defeats the dentition of every other browsing animal on the island.</p>
+
+ <p>Wadi are not territorial and pose little threat to humans in ordinary circumstances, moving in loose herds across Peadyr's lowlands and showing little aggression when encountered at close range. The danger they present is collective: a startled or panicked herd moving at full pace through narrow forest paths or settlement margins has caused considerable destruction, and <a href="Narzoi" class="internal-link">Narzoi</a> communities on Peadyr have long maintained customs around the management of grazing routes and the avoidance of herd disturbance during dry season movements. The Wadi occupies a prominent place in Narzoi folklore, appearing frequently as a symbol of the island's abundance and as a creature whose patience and strength are held in higher regard than its size alone would suggest.</p>

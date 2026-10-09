@@ -19,7 +19,7 @@
         <span>Sabrina Dobry</span>
     </div>
     <div class="wiki-row">
-        <strong>Current Owner or Location</strong>
+        <strong>Current Owner <br>or Location</strong>
         <span>Havu</span>
     </div>
     <div class="wiki-row">

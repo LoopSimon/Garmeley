@@ -17,7 +17,7 @@
         <span>Gorlan the Gallant</span>
     </div>
     <div class="wiki-row">
-        <strong>Current Owner&Location</strong>
+        <strong>Current Owner <br>or Location</strong>
         <span>Jan of Kolglade, <br><a href="Izhevk" class="internal-link">Izhevk</a></span>
     </div>
     <div class="wiki-row">

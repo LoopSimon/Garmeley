@@ -18,7 +18,7 @@
         <span><a href="Xarvin Jiballo" class="internal-link">Xarvin Jiballo</a></span>
     </div>
     <div class="wiki-row">
-        <strong>Current Owner or Location</strong>
+        <strong>Current Owner <br>or Location</strong>
         <span>Quirnux, northern Behera</span>
     </div>
     <div class="wiki-row">

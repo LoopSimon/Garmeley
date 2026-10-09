@@ -17,7 +17,7 @@
         <span>Father Tarestes of Bryansk</span>
     </div>
     <div class="wiki-row">
-        <strong>Current Owner or Location</strong>
+        <strong>Current Owner <br>or Location</strong>
         <span>unknown</span>
     </div>
     <div class="wiki-row">

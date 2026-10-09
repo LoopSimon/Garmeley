@@ -18,7 +18,7 @@
         <span>unknown, likely Auguric</span>
     </div>
     <div class="wiki-row">
-        <strong>Current Owner or Location</strong>
+        <strong>Current Owner <br>or Location</strong>
         <span>Maiwynn Armelle Ainé Ael</span>
     </div>
     <div class="wiki-row">
