@@ -1,6 +1,7 @@
 %%
 [[Pharang]]
 [[Viktorai]]
+[[Aisligos]]
 [[Riarang]]
 %%
 <div class="wiki-infobox">

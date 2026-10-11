@@ -1,6 +1,5 @@
 %%
 [[Alder]]
 [[Aldergrounds]]
-[[Narzoi]]
 [[Haozon]]
 %%

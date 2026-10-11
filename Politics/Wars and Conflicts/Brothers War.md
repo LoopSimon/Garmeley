@@ -1,4 +1,4 @@
-Belligerents: The Kingdoms of  [[Halgrach]] and [[Vihr]].
+Belligerents: The Kingdoms of  [[Nation Entries/Historical Realms/Ilrakhan/Halgrach]] and [[Vihr]].
 
 *Date:  828 PA - 835 PA 
 

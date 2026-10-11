@@ -3,6 +3,8 @@
 [[Beheran]]
 [[Ilman Gorak]]
 [[Lario]]
+[[Mara Bolo]]
+[[Aratz Otxoa]]
 [[The 927 Falcons Flight]]
 %%
 <div class="wiki-infobox">
@@ -19,10 +21,6 @@
         <strong>Born</strong>
         <span>southern Hessef Desert</span>
 	    </div>
-    <div class="wiki-row">
-        <strong>Died</strong>
-        <span>alive</span>
-    </div>
     <div class="wiki-row">
         <strong>Age</strong>
         <span>unknown</span>

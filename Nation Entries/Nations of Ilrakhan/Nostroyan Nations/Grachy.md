@@ -5,7 +5,7 @@
 [[Trazlov Consortium]]
 [[The Alchemists Guild]]
 [[Trazlova]]
-[[Halgrach]]
+[[Nation Entries/Historical Realms/Ilrakhan/Halgrach]]
 [[Vasily Surovsky]]
 [[Ivanova Orin]]
 [[Ilya Zemov]]
@@ -102,17 +102,4 @@
 <h2>History</h2>
 <small><i>for a History of Halgrach until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
 <h2>Other People of Interest</h2>
-
-
-Beryl Lenkov
-	Boyar in Wangrad
-	
-Rodir Ilvanov
-	Boyar in Bryansk
-	
-Andre Ulyanov
-	Boyar in Soludha
-	
-Katerina Ulyanov
-	Daughter of Andre
 

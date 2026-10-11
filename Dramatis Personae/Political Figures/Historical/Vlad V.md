@@ -1,5 +1,5 @@
 %%
-[[Halgrach]]
+[[Nation Entries/Historical Realms/Ilrakhan/Halgrach]]
 [[Rulers of the Grachi]]
 [[Roygviil]]
 [[Vihri]]

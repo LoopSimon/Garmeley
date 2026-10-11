@@ -1,5 +1,5 @@
 %%
-[[Aisligos]]
+[[The New World]]
 [[Baeling]]
 [[Vignasoya]]
 [[The Discovery of Aisligos]]

@@ -6,6 +6,7 @@
 	  <div class="grid-item span-col-2-single-block">
         <h3>Age of Stone</h3>
         <div class="timeline-list">
+	        <div class="timeline-item" data-date="2.8M BA"> Earliest use of Stone Tools by the Idrim</div>
 	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman in southern Behera</div>
 	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor</div>
 	        <div class="timeline-item" data-date="250000BA">Underland Trolls slowly evolve into the smaller Trogs</div>
@@ -19,6 +20,7 @@
 	        <div class="timeline-item" data-date="50000BA">Birth of the Alder in Aisligos, start of the Aldercycle</div>
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
 	        <div class="timeline-item" data-date="35000BA">Approximate dating for the murals on the Spire of On</div>
+	        <div class="timeline-item" data-date="33000BA">Trogg cultures begin settlign around the Terem Zal, entering Torpor</div>
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
 			<div class="timeline-item" data-date="30000BA">Nua Elfs are rapidly being replaced by the Drow</div>
 			<div class="timeline-item" data-date="30500BA">Fellwins Comet hits in the southern beheran Desert</div>
@@ -70,6 +72,7 @@
 	        <div class="timeline-item" data-date="2600BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
 	        <div class="timeline-item" data-date="2580BA">The First Mitimgar is built near Timgar Lake in the northern Underlands by the Timgari Goblins</div>
 	        <div class="timeline-item" data-date="2550BA">Empire of the Horad dominates northern Behera</div>
+	        <div class="timeline-item" data-date="2500BA">Terem-zal Formation Period Ends, marked by drow records in Tur-Enzal hint at biologically altered trogg colonies emerging from the Terem-Zal emergences, Birth of the modern Dwarf</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur Enzal begins</div>
 	        <div class="timeline-item" data-date="2420BA">The great drow city Tur Ajk is founded in the ruins of Murajk</div>
@@ -333,6 +336,7 @@
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, <br>Rise of the petty Kings of Korsfall, Morelle & Rulais</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite during the  Day of Brothers</div>
             <div class="timeline-item" data-date="263PA">Gethric Teachings are spreading beyond Vihr in Meadland, Urland and Grachy</div>
+	        <div class="timeline-item" data-date="264PA">The City of Halgrach is first mentioned</div>
             <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends troops to Timoq, essentially occupying the city after killings houndreds of locals</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
             <div class="timeline-item" data-date="275PA">The myth of Sochor ends as Sochor ascendes and becomes sole God of Naigan and the Yppori</div>
@@ -466,7 +470,7 @@
             <div class="timeline-item" data-date="558PA">Fenhir the Seer becomes the Prophet of the Javalim in the eastern cities of Azuvke</div>
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins</div>
-            <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Aisligos</div>
+            <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Bulug</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="564PA">Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
@@ -700,7 +704,7 @@
             <div class="timeline-item" data-date="864PA">Qarzi diplomats successfully establish an embassy on the risen reef</div>
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge Andre of Trydlew kills Muriel von Gloss</div>
             <div class="timeline-item" data-date="866PA"> 2nd Battle of Tears;<br> Treaty of Uhl</div>
-            <div class="timeline-item" data-date="867PA">Tusul surrenders to the Sultanate, end of the White Wars</div>
+            <div class="timeline-item" data-date="867PA">Founding of New Kulum;<br> Tusul surrenders to the Sultanate, end of the White Wars</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks.</div>
             <div class="timeline-item" data-date="869PA">Andrew of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br> Elbae traders strand on the Risen Reef and are never heard from again</div>
@@ -735,7 +739,6 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath;<br> Alinanora is founded in the New World</div>
 	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled;<br>Diarism is spreading in western Mead- and Weadland as well as in central Othirdon</div>
-            <div class="timeline-item" data-date="902PA">Founding of New Kulum</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
             <div class="timeline-item" data-date="905PA">Ulrike Metzen publishes "Conflux: Tide of the Stars"</div>

@@ -1,7 +1,7 @@
 %%
 [[Grachy]]
 [[Roygviil]]
-[[Halgrach]]
+[[Nation Entries/Historical Realms/Ilrakhan/Halgrach]]
 [[Izhevk]]
 [[Gethricism]]
 %%

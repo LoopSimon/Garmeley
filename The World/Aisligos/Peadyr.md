@@ -1,4 +1,5 @@
 %%
-[[The World/Aisligos/Aisligos]]
+[[The New World]]
 %%
-<p>Peadyr is a large island in the continental Sphere of Aisligos and was the first larger landmass to be discovered by sailors from the east in the so called "old world". It is geologically demographically very distinct from greater Aisligos and it was here that sailors from Inara first encountered the mysterious Narzoi.</p>
+<p>Peadyr is a large island in the continental Sphere of Aisligos, commonly referred to simply as <a href="The New World" class="internal-link">"The new World"</a> and was the first larger landmass to be discovered by sailors from the east in the so called <a href="Inara" class="internal-link">"Old World"</a>. It is geologically demographically very distinct from greater Aisligos and it was here that sailors from Inara first encountered the mysterious Narzoi.</p>
+<p>The Pea Narzoi, the islands main inhabitants and for essentially all old world explorer and settlers their primary and often only encounter with the species as a whole. The Pea are the most populous and widely distributed indigenous people in Peadyr, they are a primarily tribal group whose traditional territory spans the entire island, although they are less present in the rocky lands of the east. Historically divided into distinct subgroups based on geography and lifestyle, the Pea include the Plains Pea, who adopted hunting and nomadic culture, and the Woodland and Swampy, who relied on hunting, fishing, and gathering in the rich forests.</p>

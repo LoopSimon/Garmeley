@@ -4,6 +4,9 @@
 [[Ilman Gorak]]
 [[Tah]]
 [[The 927 Falcons Flight]]
+[[Idir]]
+[[Mara Bolo]]
+[[Aratz Otxoa]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Lario of Tah</h4>
@@ -19,10 +22,6 @@
         <strong>Born</strong>
         <span>891PA, Tah</span>
 	    </div>
-    <div class="wiki-row">
-        <strong>Died</strong>
-        <span>alive</span>
-    </div>
     <div class="wiki-row">
         <strong>Age</strong>
         <span>36</span>

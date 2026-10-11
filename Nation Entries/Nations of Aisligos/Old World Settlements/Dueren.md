@@ -1,7 +1,7 @@
 %%
 [[Gesellschaft für Westmeadischen Handel]]
 [[Gethricism in the New World]]
-[[Aisligos]]
+[[The New World]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Colony of Dueren</h4>

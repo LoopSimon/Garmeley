@@ -2,6 +2,7 @@
 [[Viagoris]]
 [[Filip of Leston]]
 [[The Poem of the Bad Omen]]
+[[Maiwynn]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Sword of the Abjurer</h4>
@@ -19,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Current Owner <br>or Location</strong>
-        <span>Maiwynn Armelle Ainé Ael</span>
+        <span><a href="Maiwynn" class="internal-link">Maiwynn Armelle Ainé Ael</a></span>
     </div>
     <div class="wiki-row">
         <strong>Past Owners</strong>

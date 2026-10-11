@@ -4,6 +4,7 @@
 [[Kaito]]
 [[Meana Telamon]]
 [[Sochor]]
+[[Hiraz Bluebeard]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Cường Đức Lý</h4>

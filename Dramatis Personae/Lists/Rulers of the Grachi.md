@@ -1,5 +1,5 @@
 %%
-[[Halgrach]]
+[[Nation Entries/Historical Realms/Ilrakhan/Halgrach]]
 [[Ilya Zemov]]
 [[Oleksandr IV]]
 [[Grachy]]

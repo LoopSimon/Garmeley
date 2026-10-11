@@ -2,6 +2,7 @@
 [[Pharang]]
 [[Viktorai]]
 [[Riarang]]
+[[Aisligos]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Path of Share</h4>

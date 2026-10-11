@@ -1,7 +1,7 @@
 %%
 [[Brothers War]]
 [[Rulers of the Grachi]]
-[[Halgrach]]
+[[Nation Entries/Historical Realms/Ilrakhan/Halgrach]]
 [[Vihri]]
 %%
 <div class="wiki-infobox">

@@ -1,0 +1,8 @@
+%%
+[[Alder]]
+[[Aldergrounds]]
+%%
+<p>While almost nothing about their functionality is known to modern day scholars, at least outside of the deeply coveted and highly secured knowledge close to the few high civilisations with existent records going back before the <a href="Uraz" class="internal-link">Uraz</a> Period and even a millenia before then before the Catarmon, the Alderbridge as a practical concept remains one of the most fascinating phenomena in the world.</p>
+<p>Perhaps the most infamous remainder and discovery in the so called <a href="Aldergrounds" class="internal-link">"Aldergrounds"</a>, the ruins of this precursor <a href="Alder" class="internal-link">race</a> of the  <a href="The New World" class="internal-link">New World of Aisligos</a>, the Alderbridge effectively crosses common perception and understanding of time and space, allowing mass to traverse one point to the other in what can only be described as Teleportation.</p>
+<p>We know that various of these Bridges can be opened temporarily or permanently through differing activation methods, that they connect to set or modal destinations and they can be collapsed. The Infamous case of the "Font of Naltos" describes one of the only permanently active locations projecting such a Bridge, unfortunately sunken deep into the abyss of the Silken Sea, in the Aldergrounds of Naltos itself. Various levels of catastrophe have been recorded of another Bridge being connected and opened to the Font of Naltos, cause devastating pressure of water to be released, in many cases destroying the other sides infrastructure in turn.</p>
+

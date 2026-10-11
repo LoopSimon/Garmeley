@@ -3,7 +3,7 @@
 [[Ukiolla]]
 [[Grachy]]
 [[Giant]]
-[[Halgrach]]
+[[Nation Entries/Historical Realms/Ilrakhan/Halgrach]]
 [[Roygviil]]
 [[Giantsrul]]
 [[Brothers War]]

@@ -2,6 +2,8 @@
 [[Kherovan Inquisition]]
 [[Niedrest Incident]]
 [[Kheri]]
+[[Kulum]]
+[[Orc]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Zurán Barbeshvili</h4>
