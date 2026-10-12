@@ -1,35 +1,41 @@
+- 2026-10-12T1648 · Complete Timeline
+- 2026-10-12T1647 · Peadyr
+- 2026-10-12T1646 · The Discovery of Aisligos
+- 2026-10-12T1645 · The Colonization of Peadyr
+- 2026-10-12T1643 · Vudi
+- 2026-10-12T1643 · New Fryd
+- 2026-10-12T1641 · Livoa
+- 2026-10-12T1641 · Grynborg
+- 2026-10-12T1641 · Faarhovn
+- 2026-10-12T1641 · Dueren
+- 2026-10-12T1641 · Almersport
+- 2026-10-12T1641 · Alinanora
+- 2026-10-12T1640 · Marino Viamali
+- 2026-10-12T1640 · Jaime di Dilin
+- 2026-10-12T1640 · Jurim Eykszoon
+- 2026-10-12T1640 · Balan Reyd
+- 2026-10-12T1629 · Razmyrism
+- 2026-10-12T1611 · Rylla
+- 2026-10-12T1602 · Treaty of Lotsprings
+- 2026-10-12T1602 · Gesellschaft für Westmeadischen Handel
 - 2026-10-12T1425 · Kavi
 - 2026-10-12T1425 · Chianism
 - 2026-10-12T1425 · Uraz
 - 2026-10-12T1424 · Bethun
-- 2026-10-12T1424 · Peadyr
 - 2026-10-12T1422 · Kylian Juz
 - 2026-10-12T1420 · Karlaz the Razor
-- 2026-10-12T1420 · Marino Viamali
-- 2026-10-12T1420 · Jaime di Dilin
-- 2026-10-12T1419 · Jurim Eykszoon
-- 2026-10-12T1418 · Balan Reyd
-- 2026-10-12T1359 · Complete Timeline
-- 2026-10-12T1353 · Almersport
-- 2026-10-12T1352 · Alinanora
 - 2026-10-12T1351 · The New World
-- 2026-10-12T1338 · New Fryd
-- 2026-10-12T1320 · Faarhovn
 - 2026-10-12T1232 · Finger of Life
 - 2026-10-12T1229 · Thun
 - 2026-10-12T1225 · Ruins of Imala
 - 2026-10-12T1219 · Pangomor
-- 2026-10-12T1218 · The Discovery of Aisligos
 - 2026-10-12T1217 · Tezmer
 - 2026-10-12T1217 · Odise
 - 2026-10-12T1217 · Senso
-- 2026-10-12T1143 · Livoa
 - 2026-10-12T1131 · Teriador
 - 2026-10-12T1042 · Situation in the Paper Cities
-- 2026-10-12T1041 · The Colonization of Peadyr
 - 2026-10-12T1033 · Migner
 - 2026-10-12T0940 · Broken Fingers
-- 2026-10-12T0939 · Treaty of Lotsprings
 - 2026-10-12T0933 · Heavens Furrow
 - 2026-10-12T0920 · Juelfluk
 - 2026-10-12T0918 · Nilborg
@@ -66,8 +72,6 @@
 - 2026-10-10T0731 · Cường Đức Lý
 - 2026-10-09T1648 · Share
 - 2026-10-09T1647 · Duria
-- 2026-10-09T1647 · Grynborg
-- 2026-10-09T1647 · Dueren
 - 2026-10-09T1644 · Aldermur
 - 2026-10-09T1643 · Hiqae
 - 2026-10-09T1643 · Pharang
@@ -153,7 +157,6 @@
 - 2026-10-03T1638 · Paqor
 - 2026-10-03T1559 · Anna the Moth
 - 2026-10-03T1510 · Yelena
-- 2026-10-03T1509 · Razmyrism
 - 2026-10-03T1506 · Razmyr
 - 2026-10-02T0551 · Timothy Mevan
 - 2026-10-02T0547 · The 927 Falcons Flight
@@ -195,6 +198,3 @@
 - 2026-09-26T0335 · Harrusham
 - 2026-09-26T0319 · Rakhi-Meter Wars
 - 2026-09-25T2057 · Ptamon
-- 2026-09-25T2016 · Children of Dust
-- 2026-09-25T2008 · Bassara
-- 2026-09-25T1717 · Wasteland of Rakh

@@ -589,6 +589,7 @@
             <div class="timeline-item" data-date="711PA">Anak Montener writes the Anak Codex</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
+            <div class="timeline-item" data-date="715PA">The inhabitants of Jurland vanish for reasons unknown</div>
             <div class="timeline-item" data-date="719PA">Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos</div>
             <div class="timeline-item" data-date="719PA">Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
@@ -680,7 +681,7 @@
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled & First War of the Gryphon begins</div>
-            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with Narzoi Natives in Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
+            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
@@ -713,7 +714,7 @@
             <div class="timeline-item" data-date="874PA">Andrew of Trydlew dies of unknown circumstances, suspected poisoning</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
-            <div class="timeline-item" data-date="878PA">Port Faarhoven is founded in the New World on Jurland Island, north of Peadyr</div>
+            <div class="timeline-item" data-date="878PA">Port Faarhovn is founded on Jurland by the G.U.V.; the Diviner Adreliz opens talks with the Kavi through telepathy, securing trading rights in Kavi communities</div>
             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II</div>
             <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World on the north-eastern tip of Peadyr, at the Ruins of New Rav</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously;<br> Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
@@ -754,7 +755,7 @@
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br> Karlaz the Razor sacks the port of Kalsad</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment.</div>
-            <div class="timeline-item" data-date="917PA">Korman van Schipwig finishes “The Fractal Bridge”</div>
+            <div class="timeline-item" data-date="917PA">The Odise chief Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave;<br>Independence Movements grow once again in Droil</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>
@@ -762,7 +763,7 @@
             <div class="timeline-item" data-date="922PA">Mini Campaign 1: Death of Duchess Agnes of Garmeley;<br> Mini Campaign 2: Fairriver Incident;<br> Dwarven Invasion of Yokosch</div>
             <div class="timeline-item" data-date="923PA">Campaign 1: The Chestbearers;<br> Garmish Civil War breaks out</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla and discovery of Sirenna;<br> Sack of Sunminster; <br>Dwarven Invasion of Yokosch fails</div>
-            <div class="timeline-item" data-date="925PA">Battle of Jestrick Fields;<br> Entusul Uprising is put down by Emir Zazir Brahmis</div>
+            <div class="timeline-item" data-date="925PA">Rylla is captured by Almersport and taken to the Old World, where she is burned alive in Karsord; the Odise take up arms as a whole against Almersport;<br>Battle of Jestrick Fields;<br> Entusul Uprising is put down by Emir Zazir Brahmis</div>
             <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment;<br> International Intervention in the Garmish Civil War</div>
             <div class="timeline-item" data-date="927PA">Campaign 2, Hynek of Forrington is assassinated</div>
         </div>

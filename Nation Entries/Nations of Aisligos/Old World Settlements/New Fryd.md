@@ -36,7 +36,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>880PA</span>
+        <span>as New Rav: 842PA<br>as New Frid: 880PA</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
@@ -44,5 +44,6 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Fryd_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>New Fryd is a Ravlander Sertovi settlement on the northern-easter coast of Peadyr in the Balansbay, founded in 880PA on the same ground where the ill-fated colony of New Rav once stood. New Rav had been established around 840PA by an earlier wave of Sertovi settlers and was destroyed in hostile encounters with the local Narzoi population, a catastrophe that long discouraged Ravland from further colonial investment in the new world.</p> 
+<small><i>this article concerns the <a href="The Discovery of Aisligos" class="internal-link">Discovery</a> and <a href="The Colonization of Peadyr" class="internal-link">Colonization</a> of Peadyr, for overviews look here</i></small>
+<p>New Fryd is a Ravlander Sertovi settlement on the northern-easter coast of <a href="Peadyr" class="internal-link">Peadyr</a> in the Balansbay, founded in 880PA on the same ground where the ill-fated colony of New Rav once stood. New Rav had been established around 842PA by an earlier wave of Sertovi settlers and was destroyed in hostile encounters with the local Narzoi population, a catastrophe that long discouraged Ravland from further colonial investment in the new world.</p> 
 <p>The sight of neighbouring powers pressing west in greater numbers through the 860s and 870s eventually overcame that reluctance, and a new expedition, led by returning military veterans rather than traders, reestablished a <a href="Ravland" class="internal-link">ravlander</a> presence on Peadyr in deliberate defiance of the <a href="Narzoi" class="internal-link">Narzoi</a> tribes’ continued opposition to settlement on their lands. New Fryd retains this martial foundation in its character, a Kalbinist community built by men accustomed to difficult ground, and has settled mainland Peadyr against the expressed wishes of the indigenous peoples without the diplomatic cover that distinguishes its northern neighbour <a href="Faarhovn" class="internal-link">Faarhovn</a>. Ravland itself has served in recent decades as a bridgehead for Meadi and Weadi merchants and settlers crossing into Sertova and beyond, a role that has deepened its entanglements with the greater powers of the Torn Sea even as New Fryd remains a comparatively modest outpost.</p>
