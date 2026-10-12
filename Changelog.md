@@ -1,8 +1,10 @@
+- 2026-10-12T1843 · Bethun
+- 2026-10-12T1843 · Senso
+- 2026-10-12T1842 · Thun
 - 2026-10-12T1838 · Tezmer
 - 2026-10-12T1830 · Chianism
 - 2026-10-12T1829 · Finger of Life
 - 2026-10-12T1816 · Peadyr
-- 2026-10-12T1816 · Senso
 - 2026-10-12T1815 · Dueren
 - 2026-10-12T1814 · Triagal
 - 2026-10-12T1814 · Triarog
@@ -28,11 +30,9 @@
 - 2026-10-12T1602 · Treaty of Lotsprings
 - 2026-10-12T1602 · Gesellschaft für Westmeadischen Handel
 - 2026-10-12T1425 · Uraz
-- 2026-10-12T1424 · Bethun
 - 2026-10-12T1422 · Kylian Juz
 - 2026-10-12T1420 · Karlaz the Razor
 - 2026-10-12T1351 · The New World
-- 2026-10-12T1229 · Thun
 - 2026-10-12T1225 · Ruins of Imala
 - 2026-10-12T1219 · Pangomor
 - 2026-10-12T1131 · Teriador
