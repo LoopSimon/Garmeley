@@ -216,7 +216,7 @@
             <div class="timeline-item" data-date="293BA">3rd Great Rakhi-Addaci War begins</div>
             <div class="timeline-item" data-date="290BA">Mogyri Successor Period begins</div>
             <div class="timeline-item" data-date="285BA">3rd Great Rakhi-Addaci War ends inconclusively after the Battle of Toilak</div>
-            <div class="timeline-item" data-date="283BA">Eruption of the Uraz, massive periods of drought and famine begin in Aisligos</div>
+            <div class="timeline-item" data-date="283BA">Eruption of the Uraz, preceded by great earthquakes that shatter and sink the lands of Naltor and sever Peadyr from the mainland;<br>Massive periods of drought and famine begin in Aisligos</div>
             <div class="timeline-item" data-date="282BA">Barbuhr forms the Hegemony of Geol, uniting many Vahri Cities</div>
             <div class="timeline-item" data-date="281BA">The Great Voyage, through unknown methods Minotaurs cross the Gaalian Sea and land on Ynkal, supposedly from Puthrac</div>
             <div class="timeline-item" data-date="280BA">First historical mention of the Vihrmen in regards to rakhian amber trade </div>
@@ -299,7 +299,7 @@
             <div class="timeline-item" data-date="119PA">Sarloni Migration south, Invasion of western Kherova</div>
             <div class="timeline-item" data-date="120PA">The Pragala is presumably written in Direnni</div>
             <div class="timeline-item" data-date="121PA">The Dirhan is established as the Highest Council within the Sultanate</div>
-            <div class="timeline-item" data-date="122PA">The Destruction wrought by the Uraz ends, the lands of Naltor are lost under the Seas</div>
+            <div class="timeline-item" data-date="122PA">The ash clouds and famines wrought by the Uraz finally end, the survivors take stock of a changed Aisligos with Naltor lost beneath the Seas and Peadyr severed from the mainland</div>
             <div class="timeline-item" data-date="123PA">The Aelf Tragna rises as the prominent Warlord of the north</div>
             <div class="timeline-item" data-date="124PA">Fidor of Trazlov sails the Iron Claw and settles the eastern Bank</div>
             <div class="timeline-item" data-date="129PA">Tragna becomes the Queen of Skemfing, birth of Skemfing</div>
@@ -379,7 +379,8 @@
             <div class="timeline-item" data-date="375PA">The Kingdom of Korsfall declares war on the King of Rulais following the Feast of Dragons</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
             <div class="timeline-item" data-date="378PA">The ancient Cult of Volok has fully merged with local Irati traditions, laying the foundations for modern Gaali Iratism on Ynkal</div>
-            <div class="timeline-item" data-date="380PA">Miasas ascension & Harmony of the Hera</div>
+			<div class="timeline-item" data-date="379PA">The Laso, a fanatic tribe of western Peadyr related to the Senso, destroy the Aldergrounds of Imala and the Alderbridge within, believing them the work of evil spirits</div>
+			<div class="timeline-item" data-date="380PA">Miasas ascension & Harmony of the Hera</div>
             <div class="timeline-item" data-date="381PA">Korsfall conquers Dirneux, Thierry du Jera is declared Duke of Dirneux</div>
             <div class="timeline-item" data-date="382PA">Kallevo I unifies the Pehki Tribes under the rule of Ukiolla, <br>Crisis of the Golden Throne in Elbae</div>
             <div class="timeline-item" data-date="383PA">The Fellows of the Dancing Flame propagate Gethricism militarily in Cevolis</div>
@@ -433,7 +434,8 @@
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="495PA">Leveli conquest of central Amurez, Conclave of 495 canonises Vazena of Kairos</div>
             <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan</div>
-            <div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
+			<div class="timeline-item" data-date="497PA">The Thuni Narzoi of Bethun begin crossing the Heroes Grave and make first contact with the Senso of southern Peadyr</div>
+			<div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
@@ -608,7 +610,6 @@
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
             <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
-            <div class="timeline-item" data-date="758PA">The Ravlander Explorer Balan Reyd sets foot on Peadyr</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, <br>1st War of Elbae Aggression ends</div>
@@ -632,7 +633,7 @@
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; <br>Battle of the Storms</div>
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
-            <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat</div>
+            <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat;<br> The Ravlander explorer Balan Reyd lands on the north-eastern shores of Peadyr and founds Camp Reyd, but he and many of his men die of disease within a week and the survivors return home with a map of the north-eastern coast</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
@@ -641,7 +642,7 @@
             <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out;<br>Battle of Gialo;<br>Battle of Fiarco</div>
             <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal and end of the Jigallori Khaganate</div>
-            <div class="timeline-item" data-date="795PA">Weadi traders map the western shores of Peadyr and Aisligos, marking the start of the Kelzen Route sealane</div>
+            <div class="timeline-item" data-date="795PA">Weadi traders open the Kelzen Route sealane, linking the Torn Sea to the Gerjodi Islands and the northern shores of Aisligos</div>
             <div class="timeline-item" data-date="797PA">Battle under the Olive Trees</div>
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador;<br>Battle of Bereggio and end of the Battvian Civil War</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
@@ -671,15 +672,15 @@
             <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
-            <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Stir, last Monarch of Halgrach</div>
+            <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the mage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
-            <div class="timeline-item" data-date="840PA">Marino Viamali discovers Peadyr and greater Aisligos meeting the Narzoi of the Kavi Tribe;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
+            <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled & First War of the Gryphon begins</div>
-            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with Narzoi Natives in Peadyr;<br> Foundation of New Rav in eastern Peadyr by Sertovi settlers</div>
+            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with Narzoi Natives in Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>

@@ -5,7 +5,7 @@
 [[Chianism]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Kavi Tribe</h4>
+    <h4 class="wiki-header">Kavi Federation</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Narzoi Tribal</span>

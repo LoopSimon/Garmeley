@@ -32,7 +32,7 @@
         <span>Black Sails Company, <br><a href="Ilman Gorak" class="internal-link">Ilman Gorak</a></span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Mara.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Mara.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>Mara Bolo, sometime going by "Marbolo", is an Orcish Magus from the Islands of the Qahori Federation, north of Il-Haena, most famous for her adventures on the sides of the <a href="Wispmer" class="internal-link">Wispmer</a> <a href="Lario" class="internal-link">Lario of Tah</a> with whom she would later join in the current and most infamous incarnation of the Black Sails group of Atheletes, sponsored by <a href="Ilman Gorak" class="internal-link">Ilman Gorak</a>, the ruling Sanjak of Ikara.</p> 
