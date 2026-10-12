@@ -1,3 +1,4 @@
+- 2026-10-12T1838 · Tezmer
 - 2026-10-12T1830 · Chianism
 - 2026-10-12T1829 · Finger of Life
 - 2026-10-12T1816 · Peadyr
@@ -11,7 +12,6 @@
 - 2026-10-12T1752 · Odise
 - 2026-10-12T1750 · Kavi
 - 2026-10-12T1749 · Vudi
-- 2026-10-12T1707 · Tezmer
 - 2026-10-12T1659 · Wars of Qahori Subjugation
 - 2026-10-12T1646 · The Discovery of Aisligos
 - 2026-10-12T1643 · New Fryd
