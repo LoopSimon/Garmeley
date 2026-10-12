@@ -1,24 +1,29 @@
+- 2026-10-12T1425 · Kavi
+- 2026-10-12T1425 · Chianism
+- 2026-10-12T1425 · Uraz
+- 2026-10-12T1424 · Bethun
+- 2026-10-12T1424 · Peadyr
+- 2026-10-12T1422 · Kylian Juz
+- 2026-10-12T1420 · Karlaz the Razor
+- 2026-10-12T1420 · Marino Viamali
+- 2026-10-12T1420 · Jaime di Dilin
+- 2026-10-12T1419 · Jurim Eykszoon
+- 2026-10-12T1418 · Balan Reyd
+- 2026-10-12T1359 · Complete Timeline
+- 2026-10-12T1353 · Almersport
+- 2026-10-12T1352 · Alinanora
+- 2026-10-12T1351 · The New World
 - 2026-10-12T1338 · New Fryd
-- 2026-10-12T1338 · Bethun
 - 2026-10-12T1320 · Faarhovn
-- 2026-10-12T1232 · Bone of Life
-- 2026-10-12T1231 · Complete Timeline
+- 2026-10-12T1232 · Finger of Life
 - 2026-10-12T1229 · Thun
 - 2026-10-12T1225 · Ruins of Imala
 - 2026-10-12T1219 · Pangomor
-- 2026-10-12T1218 · Almersport
 - 2026-10-12T1218 · The Discovery of Aisligos
 - 2026-10-12T1217 · Tezmer
-- 2026-10-12T1217 · Chianism
-- 2026-10-12T1217 · Kavi
 - 2026-10-12T1217 · Odise
 - 2026-10-12T1217 · Senso
-- 2026-10-12T1144 · Alinanora
 - 2026-10-12T1143 · Livoa
-- 2026-10-12T1142 · Jurim Eykszoon
-- 2026-10-12T1135 · Jaime di Dilin
-- 2026-10-12T1131 · Marino Viamali
-- 2026-10-12T1131 · Balan Reyd
 - 2026-10-12T1131 · Teriador
 - 2026-10-12T1042 · Situation in the Paper Cities
 - 2026-10-12T1041 · The Colonization of Peadyr
@@ -51,11 +56,9 @@
 - 2026-10-11T1032 · Alderbridge
 - 2026-10-11T1023 · Aldergrounds
 - 2026-10-11T0925 · Adate
-- 2026-10-11T0917 · Uraz
 - 2026-10-11T0909 · Riarang
 - 2026-10-11T0909 · Red Scars
 - 2026-10-11T0909 · Aisligos
-- 2026-10-11T0907 · Peadyr
 - 2026-10-11T0904 · Narzoi
 - 2026-10-11T0718 · Lagan
 - 2026-10-10T0734 · Idir
@@ -65,7 +68,6 @@
 - 2026-10-09T1647 · Duria
 - 2026-10-09T1647 · Grynborg
 - 2026-10-09T1647 · Dueren
-- 2026-10-09T1645 · The New World
 - 2026-10-09T1644 · Aldermur
 - 2026-10-09T1643 · Hiqae
 - 2026-10-09T1643 · Pharang
@@ -196,5 +198,3 @@
 - 2026-09-25T2016 · Children of Dust
 - 2026-09-25T2008 · Bassara
 - 2026-09-25T1717 · Wasteland of Rakh
-- 2026-09-25T1657 · Glintstone
-- 2026-09-25T0236 · Dulakis

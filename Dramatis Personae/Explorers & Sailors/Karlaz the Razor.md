@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Captain of the Seaworm</span>
+        <span>Pirate Captain of the Seaworm</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>

@@ -696,7 +696,7 @@
             <div class="timeline-item" data-date="855PA">Battle of Orsfurt;<br> Death of King Arngil II von Kor and accession of Gilmar I;<br> "Dance of Husks" ravages Cevolia and reaches Sertova </div>
             <div class="timeline-item" data-date="856PA">Viccolo di Pora renounces Gethricism</div>
             <div class="timeline-item" data-date="857PA">The Risen Reef Dominion completes its ascension process to the surface</div>
-            <div class="timeline-item" data-date="858PA">The Dwarf Bazur becomes the final Bearer of the Seal of Ran;<br> Livoa is founded in the New World</div>
+            <div class="timeline-item" data-date="858PA">The Dwarf Bazur becomes the final Bearer of the Seal of Ran;<br> Livoa is founded in the New World in the Pear Isles, off the east coast of Peadyr</div>
 	        <div class="timeline-item" data-date="859PA">Giulia Seberet invents the Printing Press in Albesan;<br> After many deaths in cevolia and Sertova, the "Dance of Husks" perishes</div>
 	        <div class="timeline-item" data-date="860PA">Tensions between the Risen Reef and niryd Sea traders begin escalating</div>
 	        <div class="timeline-item" data-date="861PA">Geldfield Unie van Vrijhandel is formed in Blijgrat;<br> Muriel of Gloss defeats Viagoris in a magical duel</div>
@@ -713,9 +713,9 @@
             <div class="timeline-item" data-date="874PA">Andrew of Trydlew dies of unknown circumstances, suspected poisoning</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
-            <div class="timeline-item" data-date="878PA">Port Faarhoven is founded in the New World</div>
+            <div class="timeline-item" data-date="878PA">Port Faarhoven is founded in the New World on Jurland Island, north of Peadyr</div>
             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II</div>
-            <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World</div>
+            <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World on the north-eastern tip of Peadyr, at the Ruins of New Rav</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously;<br> Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal</div>
             <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins;<br> Battle at Garlin</div>
@@ -729,7 +729,7 @@
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresses the public at the University of Jera, birth of Diarism</div>
-            <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World</div>
+            <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
             <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy</div>
@@ -738,7 +738,7 @@
     <div class="grid-item span-col-2-single-block">
         <h3>Modern Age</h3>
         <div class="timeline-list">
-	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath;<br> Alinanora is founded in the New World</div>
+	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath;<br> Alinanora is founded in the New World on the eastern coast of Peadyr</div>
 	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled;<br>Diarism is spreading in western Mead- and Weadland as well as in central Othirdon</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
