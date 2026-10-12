@@ -1,3 +1,4 @@
+- 2026-10-12T1959 · Teriador
 - 2026-10-12T1843 · Bethun
 - 2026-10-12T1843 · Senso
 - 2026-10-12T1842 · Thun
@@ -35,7 +36,6 @@
 - 2026-10-12T1351 · The New World
 - 2026-10-12T1225 · Ruins of Imala
 - 2026-10-12T1219 · Pangomor
-- 2026-10-12T1131 · Teriador
 - 2026-10-12T1042 · Situation in the Paper Cities
 - 2026-10-12T1033 · Migner
 - 2026-10-12T0940 · Broken Fingers
