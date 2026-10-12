@@ -1,13 +1,23 @@
-- 2026-10-12T1648 · Complete Timeline
-- 2026-10-12T1647 · Peadyr
+- 2026-10-12T1830 · Chianism
+- 2026-10-12T1829 · Finger of Life
+- 2026-10-12T1816 · Peadyr
+- 2026-10-12T1816 · Senso
+- 2026-10-12T1815 · Dueren
+- 2026-10-12T1814 · Triagal
+- 2026-10-12T1814 · Triarog
+- 2026-10-12T1757 · Complete Timeline
+- 2026-10-12T1756 · The Colonization of Peadyr
+- 2026-10-12T1754 · Rylla
+- 2026-10-12T1752 · Odise
+- 2026-10-12T1750 · Kavi
+- 2026-10-12T1749 · Vudi
+- 2026-10-12T1707 · Tezmer
+- 2026-10-12T1659 · Wars of Qahori Subjugation
 - 2026-10-12T1646 · The Discovery of Aisligos
-- 2026-10-12T1645 · The Colonization of Peadyr
-- 2026-10-12T1643 · Vudi
 - 2026-10-12T1643 · New Fryd
 - 2026-10-12T1641 · Livoa
 - 2026-10-12T1641 · Grynborg
 - 2026-10-12T1641 · Faarhovn
-- 2026-10-12T1641 · Dueren
 - 2026-10-12T1641 · Almersport
 - 2026-10-12T1641 · Alinanora
 - 2026-10-12T1640 · Marino Viamali
@@ -15,23 +25,16 @@
 - 2026-10-12T1640 · Jurim Eykszoon
 - 2026-10-12T1640 · Balan Reyd
 - 2026-10-12T1629 · Razmyrism
-- 2026-10-12T1611 · Rylla
 - 2026-10-12T1602 · Treaty of Lotsprings
 - 2026-10-12T1602 · Gesellschaft für Westmeadischen Handel
-- 2026-10-12T1425 · Kavi
-- 2026-10-12T1425 · Chianism
 - 2026-10-12T1425 · Uraz
 - 2026-10-12T1424 · Bethun
 - 2026-10-12T1422 · Kylian Juz
 - 2026-10-12T1420 · Karlaz the Razor
 - 2026-10-12T1351 · The New World
-- 2026-10-12T1232 · Finger of Life
 - 2026-10-12T1229 · Thun
 - 2026-10-12T1225 · Ruins of Imala
 - 2026-10-12T1219 · Pangomor
-- 2026-10-12T1217 · Tezmer
-- 2026-10-12T1217 · Odise
-- 2026-10-12T1217 · Senso
 - 2026-10-12T1131 · Teriador
 - 2026-10-12T1042 · Situation in the Paper Cities
 - 2026-10-12T1033 · Migner
@@ -195,6 +198,3 @@
 - 2026-09-26T0400 · Rakh
 - 2026-09-26T0353 · Nursili
 - 2026-09-26T0343 · Hantili
-- 2026-09-26T0335 · Harrusham
-- 2026-09-26T0319 · Rakhi-Meter Wars
-- 2026-09-25T2057 · Ptamon
