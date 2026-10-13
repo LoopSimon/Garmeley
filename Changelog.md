@@ -1,3 +1,7 @@
+- 2026-10-13T1756 · Ulbreek
+- 2026-10-13T1755 · Vaggerport
+- 2026-10-13T1754 · Dalesire
+- 2026-10-13T1731 · Vudi
 - 2026-10-13T1729 · Pastelliora
 - 2026-10-13T1729 · Narzoi
 - 2026-10-13T1729 · Odise
@@ -11,9 +15,6 @@
 - 2026-10-13T1724 · Gethricism in the New World
 - 2026-10-13T1656 · Narzoi Slavetrade
 - 2026-10-13T1620 · Doggerism
-- 2026-10-13T1603 · Ulbreek
-- 2026-10-13T1559 · Vaggerport
-- 2026-10-13T1556 · Dalesire
 - 2026-10-13T1503 · Aldergrounds
 - 2026-10-13T1501 · Peadyr
 - 2026-10-13T1500 · Ruins of Imala
@@ -32,7 +33,6 @@
 - 2026-10-12T1829 · Finger of Life
 - 2026-10-12T1814 · Triagal
 - 2026-10-12T1814 · Triarog
-- 2026-10-12T1749 · Vudi
 - 2026-10-12T1659 · Wars of Qahori Subjugation
 - 2026-10-12T1641 · Grynborg
 - 2026-10-12T1641 · Faarhovn
