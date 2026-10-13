@@ -6,14 +6,14 @@
 
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Archuchy of Dirneux</h4>
+    <h4 class="wiki-header">Archduchy of Dirneux</h4>
     <div class="wiki-row">
         <strong>Government</strong>
         <span>Feudal Monarchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Archduke Jean du Jera</span>
+        <span>Archduke <a href="Jean du Jera" class="internal-link">Jean du Jera</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>

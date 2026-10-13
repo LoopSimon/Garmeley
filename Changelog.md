@@ -1,16 +1,22 @@
-- 2026-10-13T1906 · Eleanor Grig
-- 2026-10-13T1900 · Marrin Andil
-- 2026-10-13T1900 · Jean du Jera
-- 2026-10-13T1806 · Complete Timeline
+- 2026-10-13T2014 · Complete Timeline
+- 2026-10-13T2012 · Narzoi Slavetrade
+- 2026-10-13T2012 · Odrick von Fulmer
+- 2026-10-13T2011 · Gisela IV
+- 2026-10-13T2010 · Dirneux
+- 2026-10-13T2010 · Pastelliora
+- 2026-10-13T2010 · Runsby
+- 2026-10-13T2009 · Ulbreek
+- 2026-10-13T2008 · Dalesire
+- 2026-10-13T2006 · Gabriella Mile
+- 2026-10-13T2005 · Jean du Jera
+- 2026-10-13T2004 · Eleanor Grig
+- 2026-10-13T2003 · Marrin Andil
+- 2026-10-13T1914 · Meadrath
 - 2026-10-13T1802 · Brystone
-- 2026-10-13T1802 · Runsby
 - 2026-10-13T1801 · Peadyr
 - 2026-10-13T1800 · The Colonization of Peadyr
-- 2026-10-13T1756 · Ulbreek
 - 2026-10-13T1755 · Vaggerport
-- 2026-10-13T1754 · Dalesire
 - 2026-10-13T1731 · Vudi
-- 2026-10-13T1729 · Pastelliora
 - 2026-10-13T1729 · Narzoi
 - 2026-10-13T1729 · Odise
 - 2026-10-13T1729 · Kavi
@@ -20,7 +26,6 @@
 - 2026-10-13T1725 · Almersport
 - 2026-10-13T1725 · Alinanora
 - 2026-10-13T1724 · Gethricism in the New World
-- 2026-10-13T1656 · Narzoi Slavetrade
 - 2026-10-13T1620 · Doggerism
 - 2026-10-13T1503 · Aldergrounds
 - 2026-10-13T1500 · Ruins of Imala
@@ -193,8 +198,3 @@
 - 2026-09-29T2113 · Enzal Pantheon
 - 2026-09-29T1807 · Piero Digolo
 - 2026-09-29T1804 · Mikael Bivaldi
-- 2026-09-29T1752 · Piero & Friends
-- 2026-09-29T1751 · The Merry Three
-- 2026-09-29T1737 · Xara Ilig
-- 2026-09-29T1732 · Adral Fidrakis
-- 2026-09-29T1459 · Hobgoblin Invasion

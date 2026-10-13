@@ -741,7 +741,7 @@
         <h3>Modern Age</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates westen trade between Blijgrat and Meadrath;<br> Alinanora is founded in the New World on the eastern coast of Peadyr</div>
-	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled;<br>Diarism is spreading in western Mead- and Weadland as well as in central Othirdon</div>
+	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled;<br>Diarism is spreading in western Mead- and Weadland as well as in central Othirdon;<br>Lady Eleanor Grig dies in a riding accident</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
             <div class="timeline-item" data-date="905PA">Ulrike Metzen publishes "Conflux: Tide of the Stars";<br> Dalesire is chartered as a colony of Runsby on the Loreli Islands in the New World</div>
@@ -752,8 +752,8 @@
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach</div>
             <div class="timeline-item" data-date="911PA">9th War of Baeling Succession</div>
             <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina</div>
-            <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath</div>
-            <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves</div>
+            <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Jean du Jera leaves court for Jera after Gisela IV takes full governance;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath</div>
+            <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves;<br>Archibald Grig, first Lord-Governour of Dalesire, dies</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br> Karlaz the Razor sacks the port of Kalsad</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment.</div>
             <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
