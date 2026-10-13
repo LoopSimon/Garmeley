@@ -1,3 +1,6 @@
+- 2026-10-13T1906 · Eleanor Grig
+- 2026-10-13T1900 · Marrin Andil
+- 2026-10-13T1900 · Jean du Jera
 - 2026-10-13T1806 · Complete Timeline
 - 2026-10-13T1802 · Brystone
 - 2026-10-13T1802 · Runsby
@@ -195,6 +198,3 @@
 - 2026-09-29T1737 · Xara Ilig
 - 2026-09-29T1732 · Adral Fidrakis
 - 2026-09-29T1459 · Hobgoblin Invasion
-- 2026-09-28T1319 · Filip of Leston
-- 2026-09-27T1416 · Merfolk
-- 2026-09-27T0305 · Gudrun
