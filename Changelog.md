@@ -1,3 +1,9 @@
+- 2026-10-13T1543 · Dalesire
+- 2026-10-13T1541 · Doggerism
+- 2026-10-13T1526 · Narzoi Slavetrade
+- 2026-10-13T1525 · Kylian Juz
+- 2026-10-13T1520 · Vaggerport
+- 2026-10-13T1520 · Ulbreek
 - 2026-10-13T1503 · Aldergrounds
 - 2026-10-13T1501 · Peadyr
 - 2026-10-13T1500 · Ruins of Imala
@@ -34,7 +40,6 @@
 - 2026-10-12T1602 · Treaty of Lotsprings
 - 2026-10-12T1602 · Gesellschaft für Westmeadischen Handel
 - 2026-10-12T1425 · Uraz
-- 2026-10-12T1422 · Kylian Juz
 - 2026-10-12T1420 · Karlaz the Razor
 - 2026-10-12T1351 · The New World
 - 2026-10-12T1219 · Pangomor
@@ -193,8 +198,3 @@
 - 2026-09-27T0303 · Ylva
 - 2026-09-27T0029 · Zren
 - 2026-09-26T2320 · Butera
-- 2026-09-26T2318 · Jeledo
-- 2026-09-26T1628 · Beric of Nargo
-- 2026-09-26T0401 · Wilgar
-- 2026-09-26T0400 · Rakh
-- 2026-09-26T0353 · Nursili

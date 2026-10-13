@@ -1,4 +1,4 @@
-%%
+Lo%%
 [[Geol]]
 [[Spursley]]
 [[Bilsworth]]
