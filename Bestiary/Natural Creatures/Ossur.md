@@ -1,0 +1,16 @@
+%%
+[[Il Haena]]
+[[Orc]]
+[[Qahori]]
+[[Qarzi]]
+[[Kamerzin]]
+[[Igulan]]
+%%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ossur.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+ <small><i>An Ossur in flight</i></small>
+</div>
+<p>The Ossur is a winged predator of the high mountains of <a href="Il Haena" class="internal-link">Il-Haena</a>, found nowhere else in the world. It is a lean, long-tailed animal, wider across the wings than a ship's longboat is long, with dark spined scales along its back, a banded tawny underside, talons on its hind legs, and wings of thin violet membrane that the storms of the heights often leave torn at the edges. Its head is its most striking feature: the skull is armoured in a casque of pale gold bone that forms a hooked beak and sweeps back into a pair of ringed horns, above a mouth set with teeth and eyes of bright red.</p>
+<p>The Ossur nests on the crags of the Maqari Mountains, the highest ground of the island and, to the <a href="Orc" class="internal-link">Orcs</a>, the closest place on earth to Qastor, and hunts across the slopes for ibex, taking them from the cliffs in its talons. It is rarely seen below the high passes except at dusk, when it glides down the valleys toward the coast, and its cry carries far through the mountains. Like the <a href="Igulan" class="internal-link">Igulan</a> it is native to Il-Haena alone, and the Qari hold it in particular regard as the animal that lives nearest the summit of Qastor's mountain.</p>
+<p>Ossur bone is hollow, thin-walled and very strong for its weight. The long wing bones are carved into the screens and lattices of Qari halls and shrines, where the heavy bone of the Igulan carries the weight; thin plates of it are laced into the lightest boneplate and into the scale-coats, cloaks and collars that sailors wear at sea; and the broad shoulder-bones are favoured by navigators, who carve their charts and sea routes into them. The golden bone of the skull is the rarest of all. It is pale as ivory when fresh and deepens with age and handling, and it is cut into masks, helms, jewellery and the carved prayers of the Qari, which are held to be the dearer for being made of the bone of the animal that lived nearest Qastor. See <a href="Orc" class="internal-link">Bone-Craft</a>.</p>
+<p>As with the Igulan, the Qari do not hunt the Ossur for sport, and for the Ossur the hunt is nearly impossible, since it means climbing to the nests of the high crags. Most Ossur bone is taken from animals that die in the passes and are found by the climbers who go up for it, and a skull of golden bone that was found, not taken, is held to be the best. Ossur bone leaves the island by the same routes as that of the Igulan, through the <a href="Qarzi" class="internal-link">Qarzi</a> and the ports of the Sultanate, and Ossur gold is the bone kept for regalia and heirlooms, the old pieces carried out of Qa and handed down in the great houses of the <a href="Kamerzin" class="internal-link">Kamerzin</a> and the old families of the <a href="Qahori" class="internal-link">Qahori</a>.</p>

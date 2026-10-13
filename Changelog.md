@@ -1,3 +1,6 @@
+- 2026-10-13T2352 · Ossur
+- 2026-10-13T2351 · Igulan
+- 2026-10-13T2351 · Elabar
 - 2026-10-13T2346 · Elbae
 - 2026-10-13T2345 · Wars of Qahori Subjugation
 - 2026-10-13T2340 · Complete Timeline
@@ -5,8 +8,6 @@
 - 2026-10-13T2339 · Great Elbae Golomid War
 - 2026-10-13T2339 · Path of the Third Moon
 - 2026-10-13T2338 · Abaleq
-- 2026-10-13T2334 · Ossur
-- 2026-10-13T2334 · Igulan
 - 2026-10-13T2332 · Karlaz the Razor
 - 2026-10-13T2332 · Sirmon Rezan
 - 2026-10-13T2329 · Malham
@@ -33,7 +34,6 @@
 - 2026-10-13T2240 · Zolra
 - 2026-10-13T2240 · Qastor
 - 2026-10-13T2240 · Ikval
-- 2026-10-13T2237 · Elabar
 - 2026-10-13T2236 · Path of the Second Moon
 - 2026-10-13T2040 · War of Horn and Fang
 - 2026-10-13T2039 · Jean du Jera

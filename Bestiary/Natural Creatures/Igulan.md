@@ -1,0 +1,16 @@
+%%
+[[Il Haena]]
+[[Orc]]
+[[Qahori]]
+[[Qarzi]]
+[[Kamerzin]]
+[[Ossur]]
+%%
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Igulan.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+ <small><i>An adult Igulan, with a hunter for scale</i></small>
+</div>
+<p>The Igulan is a great upright predator of the dry country of <a href="Il Haena" class="internal-link">Il-Haena</a>, found nowhere else in the world. It stands five or six metres tall on powerful hind legs, with a thin, whip-like tail half as long again, and its forelimbs end in great hooked claws of dark horn. A crest of pale spines runs from its narrow, long-jawed head along its back, and its body is banded from neck to tail in overlapping plates of salmon, rust and ochre that match the stone and sand of its home. These plates are not scales but bone, set into the skin like armour, and they are what the <a href="Orc" class="internal-link">Orcs</a> prize it for.</p>
+<p>It keeps to the arid interior of the island, the badlands beneath the Maqari Mountains and the dry plateau between them and the eastern coast, where it hunts the ibex of the foothills and eats whatever the heat leaves behind. The Igulan is solitary, patient and slow to anger, but a cornered or provoked Igulan is among the most dangerous animals on Il-Haena. It never stops growing, and the oldest are said to reach sizes far beyond that of any hunter's quarry, vast and slow beasts that few have seen and that the Qari do not hunt.</p>
+<p>Igulan bone is dense, hard and surprisingly light, and it is the great bone of the <a href="Orc" class="internal-link">Bone-Craft</a> of Qa. The ribs and long limb bones of a large animal are cut into the beams and arches of halls and shrines, the banded plates are cut and laced into boneplate armour that does not rust in the salt air, the claws are fitted as heads for spears and harpoons, and the bones of the tail make hafts for daggers and clubs. The Qari speak of the Igulan and the <a href="Ossur" class="internal-link">Ossur</a> as a pair, the beast of the dry earth and the beast of the high air, and the finest work of the bone-carvers, the shrines of Benwaral among it, is framed in the bone of both.</p>
+<p>The Qari do not hunt the Igulan for sport. A hunt begins with a prayer and nothing of the animal is wasted, but the greatest are left alone, and the best bone is held to be that of animals found dead in the dry country, which the Quiet and the <a href="Qarzi" class="internal-link">Qarzi</a> of the island still gather. Elven nobles of the Sultanate hunt the Igulan as a trophy, a practice the Qari, for whom no hunt is a sport, find distasteful. The animal was never numerous and is rarer than it was in the days of Qa, and its bone is among the most valued goods of the Orcish world. Carved Igulan bone leaves the island with the Qarzi, who send it out together with their coffee, and old pieces carried out of Qa before the Destruction are heirlooms in the great houses of the <a href="Kamerzin" class="internal-link">Kamerzin</a> and the old families of the <a href="Qahori" class="internal-link">Qahori</a>.</p>
