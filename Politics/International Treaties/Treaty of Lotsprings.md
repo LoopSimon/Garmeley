@@ -16,7 +16,7 @@
         Stadtholder Willem van Barnevelt of <a href="Blijgrat" class="internal-link">Blijgrat</a><br>
         <a href="Gethricism" class="internal-link">Gethricism</a><br>
         Hendrik Fagel, Kamerspreker of the <a href="Geldfield Unie van Vrijhandel" class="internal-link">G.U.V.</a><br>
-        Count Heinrich von Redling, Syndic of the <a href="Gesellschaft für Westmeadischen Handel" class="internal-link">G.W.H.</a><br>
+        Count Heinrich von Redling, Syndic of the <a href="Gesellschaft für Westmeadischen Handel" class="internal-link">K.G.W</a><br>
     </div>
 </div>
 <p>Signed on the 16th of May 900PA, the Treaty of Lotsprings regulates customs and trade between Blijgrat and the Realms of the Meadi Crown, trade relations of the G.U.V. and K.G.W. on the continent and in Sertova & Othirdon, unified charters in international ports for ships of both companies and the colonization of lands west of the Tirean Ocean. Furthermore the treaty essentially guarantees mutual military defence of Company holdings, within international waters, on foreign shores and reaffirms the Continental Borders. </p>

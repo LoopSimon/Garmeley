@@ -1,17 +1,21 @@
+- 2026-10-13T2040 · War of Horn and Fang
+- 2026-10-13T2039 · Jean du Jera
+- 2026-10-13T2037 · Gisela IV
+- 2026-10-13T2037 · Meadrath
+- 2026-10-13T2031 · Alinanora
+- 2026-10-13T2031 · Alderbridge
+- 2026-10-13T2030 · Treaty of Lotsprings
 - 2026-10-13T2014 · Complete Timeline
 - 2026-10-13T2012 · Narzoi Slavetrade
 - 2026-10-13T2012 · Odrick von Fulmer
-- 2026-10-13T2011 · Gisela IV
 - 2026-10-13T2010 · Dirneux
 - 2026-10-13T2010 · Pastelliora
 - 2026-10-13T2010 · Runsby
 - 2026-10-13T2009 · Ulbreek
 - 2026-10-13T2008 · Dalesire
 - 2026-10-13T2006 · Gabriella Mile
-- 2026-10-13T2005 · Jean du Jera
 - 2026-10-13T2004 · Eleanor Grig
 - 2026-10-13T2003 · Marrin Andil
-- 2026-10-13T1914 · Meadrath
 - 2026-10-13T1802 · Brystone
 - 2026-10-13T1801 · Peadyr
 - 2026-10-13T1800 · The Colonization of Peadyr
@@ -24,7 +28,6 @@
 - 2026-10-13T1728 · Kylian Juz
 - 2026-10-13T1726 · Livoa
 - 2026-10-13T1725 · Almersport
-- 2026-10-13T1725 · Alinanora
 - 2026-10-13T1724 · Gethricism in the New World
 - 2026-10-13T1620 · Doggerism
 - 2026-10-13T1503 · Aldergrounds
@@ -50,7 +53,6 @@
 - 2026-10-12T1640 · Jaime di Dilin
 - 2026-10-12T1640 · Balan Reyd
 - 2026-10-12T1629 · Razmyrism
-- 2026-10-12T1602 · Treaty of Lotsprings
 - 2026-10-12T1602 · Gesellschaft für Westmeadischen Handel
 - 2026-10-12T1425 · Uraz
 - 2026-10-12T1420 · Karlaz the Razor
@@ -82,7 +84,6 @@
 - 2026-10-11T1106 · Zurán Barbeshvili
 - 2026-10-11T1053 · Yellow War
 - 2026-10-11T1036 · Sword of the Abjurer
-- 2026-10-11T1032 · Alderbridge
 - 2026-10-11T0925 · Adate
 - 2026-10-11T0909 · Riarang
 - 2026-10-11T0909 · Red Scars
@@ -197,4 +198,3 @@
 - 2026-09-29T2144 · Minruism
 - 2026-09-29T2113 · Enzal Pantheon
 - 2026-09-29T1807 · Piero Digolo
-- 2026-09-29T1804 · Mikael Bivaldi

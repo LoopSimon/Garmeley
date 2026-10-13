@@ -5,6 +5,7 @@
 [[Peadyr]]
 [[Kavi]]
 [[Jaime di Dilin]]
+[[Livoa]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Colony of Alinanora</h4>
