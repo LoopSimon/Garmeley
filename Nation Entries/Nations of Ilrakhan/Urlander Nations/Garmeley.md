@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Duchess Agnes I</span>
+        <span>Civil War</span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>

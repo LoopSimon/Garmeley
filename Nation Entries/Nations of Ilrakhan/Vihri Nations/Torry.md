@@ -2,6 +2,7 @@
 [[Gethricism]]
 [[Vihr]]
 [[War of Horn and Fang]]
+[[Iztaw]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Vadcy zi Torry</h4>
@@ -19,7 +20,7 @@
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
-        <span>two dueling Unicorns, Red on White</span>
+        <span>Quartered Unicorn Gate and Ferret</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -37,7 +38,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <a href="Vihrmen Federation" class="internal-link">Vihrmen Federation</a>
+        <a href="Iztaw" class="internal-link">Iztaw</a> (in part)
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
@@ -46,4 +47,4 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Torry_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> Situated alongside the former wermian border, Torry is one of the major Vadcy within Vihr. While geographically the smallest Vadcy of the Realm it holds a sizeable portion of the Vihri population in its coastal settlements. Its creation during the Council of 870 was cause for much uproar among the countries elite as it was seen as a clear move again encroaching church power following sentiments that the clergy had "betrayed and sabotaged" the country during the preceding <a href="War of Horn and Fang" class="internal-link">Great War with Meadrath</a>.</p>
+<p> Situated alongside the former wermian border, Torry is the newest of the major Vadcy within <a href="Vihr" class="internal-link">Vihr</a>. While geographically the smallest Vadcy of the Realm it holds a sizeable portion of the Vihri population in its coastal settlements. Its creation during the Council of 870 was cause for much uproar among the countries elite as it was seen as a clear move again encroaching church power following sentiments that the clergy had "betrayed and sabotaged" the country during the preceding <a href="War of Horn and Fang" class="internal-link">Great War with Meadrath</a>.</p>

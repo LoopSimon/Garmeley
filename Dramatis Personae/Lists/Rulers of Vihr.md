@@ -23,9 +23,9 @@
 
 *Lords' Crisis 377PA, Zervind II held by the Candleguard, Lords march on Zavlech*
 
-<p>Boris I "the Pious", 388PA - 407PA</p>
+*Honoured Assembly formally established 384PA, still under Zervind II*
 
-*Honoured Assembly formally established 384PA under Boris I*
+<p>Boris I "the Pious", 388PA - 407PA</p>
 
 <p>Jasper III, 407PA - 438PA</p>
 <p>Martis I, 438PA - 450PA</p>
@@ -33,7 +33,7 @@
 <p>Viago V "the Merry", 456PA - 486PA</p>
 <p>Martis III "the Unlucky", 486PA - 501PA</p>
 
-<h3>The Sznimo Dynasty</h3>
+<h3>The Szinmo Dynasty</h3>
 <small>501PA - 553PA</small>
 
 <p>Kasimir I "the Elder", 501PA - 508PA</p>

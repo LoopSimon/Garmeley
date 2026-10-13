@@ -45,5 +45,5 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Rovgi_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> Rovgi is one of the major Vadcy within Vihr, holding the Oathhills north of the Tryd River, it is closely associated with the religious history of the Realm and the newest Vadcy. </p>
+<p> Rovgi is one of the major Vadcy within Vihr, holding the Oathhills north of the Tryd River, it is closely associated with the religious history of the Realm of <a href="Vihr" class="internal-link">Vihr</a>.</p>
 <p>Known for their stubborn attitudes and fierce loyalty, the warriors of Rovgi have fought both alongside and even against the Knights of the Silver Wheel to their west across the Rebka River, where true no mans land begins and stretches onward in hundreds of deep valleys, dangerous forests and unmapped hills. Isolated settlements and rural communities here have to fight over roaming orgre hordes from the ruby valley the waking terrors of the Oathhills, and guard the roads west and north of Pjaz.</p>

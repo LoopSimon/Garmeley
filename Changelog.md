@@ -1,3 +1,29 @@
+- 2026-10-14T0134 · Meadrath
+- 2026-10-14T0133 · Fredric
+- 2026-10-14T0133 · Garmeley
+- 2026-10-14T0124 · Complete Timeline
+- 2026-10-14T0124 · Leok
+- 2026-10-14T0122 · Kethricism
+- 2026-10-14T0121 · Opuzna
+- 2026-10-14T0121 · Human
+- 2026-10-14T0118 · Wermia
+- 2026-10-14T0118 · Rovgi
+- 2026-10-14T0117 · Torry
+- 2026-10-14T0116 · Lyandra
+- 2026-10-14T0115 · Eight Years War
+- 2026-10-14T0114 · Vihr
+- 2026-10-14T0113 · Vormil III
+- 2026-10-14T0113 · Tloky
+- 2026-10-14T0113 · Selbia
+- 2026-10-14T0105 · Joakim zi Szarbel
+- 2026-10-14T0105 · Grachy
+- 2026-10-14T0104 · Alfred the Younger
+- 2026-10-14T0104 · Tadeuz Pilsud
+- 2026-10-14T0103 · Uhl
+- 2026-10-14T0103 · Treaty of Uhl
+- 2026-10-14T0101 · Levazci
+- 2026-10-14T0101 · Andre
+- 2026-10-14T0057 · Rulers of Vihr
 - 2026-10-14T0027 · Risen Reef
 - 2026-10-14T0027 · Elbae
 - 2026-10-14T0026 · Ramper
@@ -10,7 +36,6 @@
 - 2026-10-14T0020 · Sirmon Rezan
 - 2026-10-14T0019 · Abaleq
 - 2026-10-14T0019 · Il Haena
-- 2026-10-14T0018 · Complete Timeline
 - 2026-10-14T0000 · Moraq
 - 2026-10-13T2352 · Ossur
 - 2026-10-13T2351 · Igulan
@@ -45,7 +70,6 @@
 - 2026-10-13T2040 · War of Horn and Fang
 - 2026-10-13T2039 · Jean du Jera
 - 2026-10-13T2037 · Gisela IV
-- 2026-10-13T2037 · Meadrath
 - 2026-10-13T2031 · Alinanora
 - 2026-10-13T2031 · Alderbridge
 - 2026-10-13T2030 · Treaty of Lotsprings
@@ -106,12 +130,10 @@
 - 2026-10-12T0920 · Juelfluk
 - 2026-10-12T0918 · Nilborg
 - 2026-10-12T0907 · Vignasoya
-- 2026-10-11T2221 · Rovgi
 - 2026-10-11T1746 · Kulum
 - 2026-10-11T1703 · Mara Bolo
 - 2026-10-11T1702 · Geipra
 - 2026-10-11T1701 · Halgrach City
-- 2026-10-11T1411 · Grachy
 - 2026-10-11T1405 · Halgrach
 - 2026-10-11T1401 · Vlad V
 - 2026-10-11T1401 · Oleksandr IV
@@ -176,25 +198,3 @@
 - 2026-10-06T1944 · Ixak
 - 2026-10-06T1941 · Piril
 - 2026-10-06T1927 · Lazatec
-- 2026-10-06T1554 · Viktorai
-- 2026-10-05T2356 · Human
-- 2026-10-05T2353 · Ogre
-- 2026-10-05T2345 · Giantkin
-- 2026-10-05T2343 · Wrydir
-- 2026-10-05T2343 · Giant
-- 2026-10-05T1706 · Vannsi
-- 2026-10-05T1706 · Cities of Dreams
-- 2026-10-05T1704 · Perrin Diar
-- 2026-10-05T1704 · Geldfield Unie van Vrijhandel
-- 2026-10-05T1608 · Globus
-- 2026-10-05T1606 · Molemor
-- 2026-10-05T1520 · The Poem of the Bad Omen
-- 2026-10-05T1519 · The Golden Ring
-- 2026-10-05T1518 · The Bad Omen
-- 2026-10-05T1518 · Harold
-- 2026-10-05T1516 · Vannsi Deep Worship
-- 2026-10-05T1510 · Remillion
-- 2026-10-05T1508 · Roxeria
-- 2026-10-05T0347 · Azag
-- 2026-10-05T0313 · Sturla
-- 2026-10-05T0312 · Orlatz

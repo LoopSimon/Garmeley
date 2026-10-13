@@ -23,7 +23,7 @@ Urien: primarily Eldien and Trinmen peoples
 
 Margi:  primarily the Garmish, Reani, Pilvian, Fredi and Melmen
 
-Vihrmen: primarily the Trydzhi, Truzhi, Tloki and Zazhki peoples
+Vihrmen: primarily the High Vihri, Low Vihri, Tloky, Wyt and Sarloni peoples
 
 Grachy: primarily the Halgrachi, Hyllfolk and Giormen peoples
 

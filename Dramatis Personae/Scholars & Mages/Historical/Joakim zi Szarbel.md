@@ -23,7 +23,7 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Heart Attack<br>85 years of Age</span>
+        <span>Heart Attack<br>83 years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
