@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Almersport</span>
+        <span>Kalbia</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -49,3 +49,5 @@
 </div>
 <small><i>this article concerns the <a href="The Discovery of Aisligos" class="internal-link">Discovery</a> and <a href="The Colonization of Peadyr" class="internal-link">Colonization</a> of Peadyr, for overviews look here</i></small>
 <p>Almersport is a joint colonial venture of the Lissvalley Federation and the Kingdom of Erlmondy, founded in 895PA on the south-eastern coast of <a href="Peadyr" class="internal-link">Peadyr</a> as a commercial port and colonial holding of the Visian League powers. Where other settlements have sought accommodation or at least the appearance of it with the indigenous <a href="Narzoi" class="internal-link">Narzoi</a>, Almersport has pursued expansion with open aggression, and by the modern day finds itself in a state of declared war with the <a href="Odise" class="internal-link">Odise</a> Federation whose ancestral lands the settlement has encroached upon. The colony reflects the combined ambitions of its two founding patrons, Lissvalley’s commercial appetite and Erlmondy’s proud martial tradition, and has become the most belligerent Ilrakhan presence on Peadyr, its conflicts with the Odise an ongoing source of tension not only with the native peoples but with the more diplomatically minded settlements to its north. Almersport’s aggression has in particular strained relations with Faarhovn, whose carefully maintained Kavi alliance is threatened by the wider resentment that Almersport’s conduct generates among the Narzoi tribes of Peadyr.</p>
+
+<p>The capital of the colony is Kalbia, and its most contested ground is Fort Triq, a new town within its borders that has become the greatest hotspot of the war with the Odise. The war has also made Almersport a source of slaves for the <a href="Narzoi Slavetrade" class="internal-link">Narzoi Slavetrade</a>. Captured Odise warriors and increasingly ordinary members of the federation's larger tribes are enslaved by the colony's Sertovi and Othiri settlers, who offer no justification beyond their own dominance and treat their slaves by far the worst of any colonists on the island.</p>

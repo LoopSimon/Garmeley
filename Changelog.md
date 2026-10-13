@@ -1,15 +1,24 @@
+- 2026-10-13T1729 · Pastelliora
+- 2026-10-13T1729 · Narzoi
+- 2026-10-13T1729 · Odise
+- 2026-10-13T1729 · Kavi
+- 2026-10-13T1729 · New Fryd
+- 2026-10-13T1728 · The Colonization of Peadyr
+- 2026-10-13T1728 · Kylian Juz
+- 2026-10-13T1726 · Livoa
+- 2026-10-13T1725 · Almersport
+- 2026-10-13T1725 · Alinanora
+- 2026-10-13T1724 · Gethricism in the New World
 - 2026-10-13T1656 · Narzoi Slavetrade
 - 2026-10-13T1620 · Doggerism
 - 2026-10-13T1603 · Ulbreek
 - 2026-10-13T1559 · Vaggerport
 - 2026-10-13T1556 · Dalesire
-- 2026-10-13T1525 · Kylian Juz
 - 2026-10-13T1503 · Aldergrounds
 - 2026-10-13T1501 · Peadyr
 - 2026-10-13T1500 · Ruins of Imala
 - 2026-10-13T1440 · Thun
 - 2026-10-13T1438 · Complete Timeline
-- 2026-10-13T1438 · The Colonization of Peadyr
 - 2026-10-13T1437 · The Discovery of Aisligos
 - 2026-10-13T1437 · Jurim Eykszoon
 - 2026-10-13T1436 · Senso
@@ -23,16 +32,10 @@
 - 2026-10-12T1829 · Finger of Life
 - 2026-10-12T1814 · Triagal
 - 2026-10-12T1814 · Triarog
-- 2026-10-12T1752 · Odise
-- 2026-10-12T1750 · Kavi
 - 2026-10-12T1749 · Vudi
 - 2026-10-12T1659 · Wars of Qahori Subjugation
-- 2026-10-12T1643 · New Fryd
-- 2026-10-12T1641 · Livoa
 - 2026-10-12T1641 · Grynborg
 - 2026-10-12T1641 · Faarhovn
-- 2026-10-12T1641 · Almersport
-- 2026-10-12T1641 · Alinanora
 - 2026-10-12T1640 · Marino Viamali
 - 2026-10-12T1640 · Jaime di Dilin
 - 2026-10-12T1640 · Balan Reyd
@@ -74,7 +77,6 @@
 - 2026-10-11T0909 · Riarang
 - 2026-10-11T0909 · Red Scars
 - 2026-10-11T0909 · Aisligos
-- 2026-10-11T0904 · Narzoi
 - 2026-10-11T0718 · Lagan
 - 2026-10-10T0734 · Idir
 - 2026-10-10T0734 · Lario
@@ -104,7 +106,6 @@
 - 2026-10-09T0508 · Hunters Edge
 - 2026-10-09T0459 · Ginnil
 - 2026-10-08T1839 · Durfall
-- 2026-10-08T1730 · Gethricism in the New World
 - 2026-10-08T1704 · Mior
 - 2026-10-08T0742 · Jan van Swarn
 - 2026-10-08T0740 · Ulrike Metzen
@@ -197,4 +198,3 @@
 - 2026-09-27T0305 · Gudrun
 - 2026-09-27T0303 · Ylva
 - 2026-09-27T0029 · Zren
-- 2026-09-26T2320 · Butera
