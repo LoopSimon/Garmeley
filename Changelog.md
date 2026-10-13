@@ -1,3 +1,5 @@
+- 2026-10-13T2346 · Elbae
+- 2026-10-13T2345 · Wars of Qahori Subjugation
 - 2026-10-13T2340 · Complete Timeline
 - 2026-10-13T2339 · Qarzi
 - 2026-10-13T2339 · Great Elbae Golomid War
@@ -31,7 +33,6 @@
 - 2026-10-13T2240 · Zolra
 - 2026-10-13T2240 · Qastor
 - 2026-10-13T2240 · Ikval
-- 2026-10-13T2238 · Wars of Qahori Subjugation
 - 2026-10-13T2237 · Elabar
 - 2026-10-13T2236 · Path of the Second Moon
 - 2026-10-13T2040 · War of Horn and Fang
@@ -197,4 +198,3 @@
 - 2026-10-05T0139 · Horatio Tuliper
 - 2026-10-05T0138 · Alana Czery
 - 2026-10-04T0856 · Vasily Surovsky
-- 2026-10-04T0855 · Tadeuz Pilsud
