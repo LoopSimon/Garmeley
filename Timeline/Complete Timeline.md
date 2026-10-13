@@ -395,7 +395,7 @@
             <div class="timeline-item" data-date="403PA">Crisis of the Golden Throne ends</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
             <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil, Shiring-Xungin Wars end</div>
-            <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants</div>
+            <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants;<br>Karrod, the red Omen Star, flares in the night sky above Qa; the Qahori later remember it as the beginning of Zolra's whispering</div>
             <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="414PA">Fall of the Onari Empire</div>
             <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia</div>
@@ -405,7 +405,7 @@
             <div class="timeline-item" data-date="423PA">Despot Hargio takes leadership of the beheri ocean Krestasi after the fall of the Onari Empire</div>
             <div class="timeline-item" data-date="427PA">Following nearly 3 decades of death, the Empire of Vanpur collapses under the plague, splintering into numerous island kingdoms and city states</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
-            <div class="timeline-item" data-date="429PA">Ardol V "the Blessed" von Gismar becomes the first Gethric born King of Korsfall, <br>Augurism and turvik paganism are dwindling as Gethricism is now the predominant religion in Meadland</div>
+            <div class="timeline-item" data-date="429PA">Ardol V "the Blessed" von Gismar becomes the first Gethric born King of Korsfall;<br>Augurism and turvik paganism are dwindling as Gethricism is now the predominant religion in Meadland</div>
             <div class="timeline-item" data-date="430PA">1st Vihri-Leoki War breaks out</div>
             <div class="timeline-item" data-date="431PA">Dwarven warriors attack drow settlements and threaten connecting caves between Fogor and Elbae underland territory</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins as the beheri dwarves attack the elbae underlands, <br>End of the Kingdom of Les</div>
@@ -420,11 +420,13 @@
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, <br>Successful end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opzuna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
+            <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
             <div class="timeline-item" data-date="470PA">Empire of Pravazik is formed around the Bay of Arishi on the ruins of the Great Rite of Pra and the Diacor Empire</div>
             <div class="timeline-item" data-date="471PA">Second Kethric Conclave at Volazc, <br>Kherova declares independence from Iztaw, <br>Archbishop Adzul becomes Patriarch Adzul I as the Kethric Schism is completed</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
+			<div class="timeline-item" data-date="485PA">The Kamerzin sail east from the Qahori Archipelago and settle on Durennis</div>
             <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
@@ -638,6 +640,7 @@
             <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat;<br> The Ravlander explorer Balan Reyd lands on the north-eastern shores of Peadyr and founds Camp Reyd, but he and many of his men die of disease within a week and the survivors return home with a map of the north-eastern coast</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis</div>
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
+            <div class="timeline-item" data-date="788PA">The Night of Zolrai on the Fazaar Isles: Glarraq becomes Elabar and founds the Path of the Second Moon</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach and 2nd War of Elbae Aggression ends</div>
               <div class="timeline-item" data-date="791PA">Remillion is gone from the Trifflands, the Council of Triff takes over and administers his domain</div>
@@ -710,7 +713,7 @@
             <div class="timeline-item" data-date="867PA">Founding of New Kulum;<br> Tusul surrenders to the Sultanate, end of the White Wars</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks.</div>
             <div class="timeline-item" data-date="869PA">Andrew of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
-            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br> Elbae traders strand on the Risen Reef and are never heard from again</div>
+            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again;<br>The Path of the Third Moon emerges as a distinct denomination of Qalmyr</div>
             <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="874PA">Andrew of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world</div>
             <div class="timeline-item" data-date="876PA">Andrew of Trydlew is canonized as a Saint at the Conclave of 876PA</div>

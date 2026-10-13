@@ -1,0 +1,9 @@
+%%  
+[[Qalmyr]] [[Luna Major]] [[Zolra]] [[Ikval]] [[Qinari]] [[Il Haena]] [[Path of the Second Moon]] [[Path of the Third Moon]]  
+%%  
+<p>Qastor, the Pale Father, is the supreme being of <a href="Qalmyr" class="internal-link">Qalmyr</a> and the larger of the two moons, <a href="Luna Major" class="internal-link">Luna Major</a>, which the elves call Milin. To the Qari he is male, all-knowing and benevolent, the god of Prosperity and the supreme being of the universe, associated with the summer, clear skies and warmth. His larger appearance in the skies is seen not only as a sign of his greatness but of his true love for his creation.</p>  
+<h2>Before and After the Ikval</h2>  
+<p>Qastor was once the single universal and transcendental being, the sum of all good and evil in the world. In the <a href="Ikval" class="internal-link">Ikval</a> he cast away his destructive tendencies, his evil thoughts and his lesser desires, and what he cast away became <a href="Zolra" class="internal-link">Zolra</a>. He emerged free of all imperfection and evil but stripped of his power of creation, a being of perfect goodness that can love and watch its creation but no longer remake it.</p>  
+<h2>Worship</h2>  
+<p>The First Path honours Qastor not in temples but in the lives of its followers: righteous deeds done for their own sake, endurance, and a refusal to take up the sword. The Maqari Mountains in the centre of Qa are held to be the place closest to him, and the holy city of Ensihr stands nearest their summit. The First Path reckons its holy days by his long round of roughly 39.5 days.</p>  
+<p>The Second Path holds that Qastor remains pure but can no longer act, and that the world answers to Zolra. The Third Path loves Qastor but does not wait on him: the paradise he can no longer make, it teaches, must be made by mortals.</p>

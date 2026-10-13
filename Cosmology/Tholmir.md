@@ -1,0 +1,50 @@
+%%
+[[Starworship]]
+[[Qinari]]
+[[Third Moon Fleet]]
+[[The Discovery of Sirenna]]
+%%
+<div class="wiki-infobox">
+ <h4 class="wiki-header">Tholmir</h4>
+ <div class="wiki-row">
+ <strong>Constellation</strong>
+ <span>The Keel</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Appearance</strong>
+ <span>Pale gold, low over the<br>southern horizon</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Cyclopi Deity</strong>
+ <span>Kuraz, the Wayfinder,<br>God of Journeys and Distance</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Qahori</strong>
+ <span>Mahzir<br>"the Warden"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Beheran Elvish</strong>
+ <span>Sehiri<br>"the Far Lamp"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Urien</strong>
+ <span>Kielwacht<br>"Keelwatch"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Lihbare</strong>
+ <span>Ushtal</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Hanshi</strong>
+ <span>Seonbo<br>"the Pilot"</span>
+ </div>
+</div>
+<p>Tholmir is the brightest star of the Keel-Constellation, a pale golden light that hangs low over the southern horizon and is visible only in the far south. Sailors who follow the Beheran Ocean southward watch <a href="Malham" class="internal-link">Malham</a> sink toward the horizon behind them until it is lost, and take up Tholmir in its place. It is the great guide star of the southern seas.</p>
+<h2>The Southern Seas</h2>
+<p>The Voyage of the Cylla, which sailed south from Gyedo in 923PA and found Sirenna the following year, is the best known of the voyages made under it. The Hanshi call it Seonbo, "the Pilot", the Urien sailors Kielwacht, "Keelwatch", and the Bihra of western Nirydia Ushtal. The Elves know it as Sehiri, "the Far Lamp". The <a href="Qahori" class="internal-link">Qahori</a>, whose merchant charts from Raximan suggest that they were the first Inarans to reach the southern continent, knew it long before any of them as Mahzir.</p>
+<h2>In Qalmyr</h2>
+<p>To the Qari of the <a href="Qalmyr" class="internal-link">Qalmyr</a> it is Mahzir, "the Warden", the <a href="Qinari" class="internal-link">Qinari</a> who stayed low above the southern water to keep watch over the fallen Qinari of the depths. Qahori sailors pray to Mahzir to keep the beasts below the keel.</p>
+<p>For the followers of the <a href="Path of the Third Moon" class="internal-link">Path of the Third Moon</a> it is something more. The <a href="Third Moon Fleet" class="internal-link">Third Moon Fleet</a> plans to set sail south in 928PA, and its Qari expect to watch Qisvahl, the hope handed to every child at birth, sink behind them while Mahzir rises ahead. The Third Path teaches that Qa is a paradise you make yourself, and the Warden is the hope that is made rather than given. The Bihra and humans aboard the Fleet know the same star by their own names.</p>
+<h2>In Starworship</h2>
+<p><a href="Starworship" class="internal-link">Starworship</a> counts it among the lesser powers as Kuraz, the Wayfinder, God of Journeys and Distance.</p>

@@ -1,0 +1,50 @@
+%%
+[[Starworship]]
+[[Qinari]]
+[[Zolra]]
+[[Wars of Qahori Subjugation]]
+%%
+<div class="wiki-infobox">
+ <h4 class="wiki-header">Karrod</h4>
+ <div class="wiki-row">
+ <strong>Constellation</strong>
+ <span>The Spear</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Appearance</strong>
+ <span>Deep red, slightly variable</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Cyclopi Deity</strong>
+ <span>Morgren, God of War,<br>Fate and Ruin</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Qahori</strong>
+ <span>Zolqir<br>"Zolra's Ear"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Beheran Elvish</strong>
+ <span>Ehrin<br>"the Ember"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>High Meadi</strong>
+ <span>Haldrath<br>"the Warlord's Fire"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Urien</strong>
+ <span>Rotbrand<br>"Red-Brand"</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Asefi</strong>
+ <span>Hesmarun</span>
+ </div>
+</div>
+<p>Karrod is the deep red spearhead of the Spear-Constellation. It is a slightly variable star, and every few decades it flares to a baleful brightness for months at a time, with no schedule that astronomers have been able to find. Every culture that has noticed it has linked it to the same things: war, ruin and the failure of the harvest. Rulers and astrologers keep watch for its flares, and those flares are recorded in the annals of many peoples.</p>
+<h2>In Qalmyr</h2>
+<p>To the Qari of the <a href="Qalmyr" class="internal-link">Qalmyr</a> it is Zolqir, "Zolra's Ear", also called the Listener. It is the <a href="Qinari" class="internal-link">Qinari</a> who heard Zolra's whisper at the <a href="Ikval" class="internal-link">Ikval</a> and, unlike the fallen, did not fall, but was marked red by it. When Zolqir flares, it is said, Zolra is whispering.</p>
+<p>Zolqir flared in the years before 413PA, and the Qahori later read it as the moment Zolra began to whisper to the tribes of Qa. In the Qalmyr view, the decision to unite and take up arms in the <a href="Wars of Qahori Subjugation" class="internal-link">Wars of Qahori Subjugation</a> was the tribes listening to that whisper. The First Path treats a flare as a warning. To the Zolraii of the <a href="Path of the Second Moon" class="internal-link">Path of the Second Moon</a> it is holy, the Qinari closest to Zolra.</p>
+<h2>In Starworship</h2>
+<p><a href="Starworship" class="internal-link">Starworship</a> counts it among the lesser powers as Morgren, God of War, Fate and Ruin.</p>
+<h2>Other Names</h2>
+<p>The Elves call it Ehrin, "the Ember". In High Meadi it is Haldrath, "the Warlord's Fire", a star the war leaders of the Auguri tribes watched closely. The Urien call it Rotbrand, "Red-Brand", and in Asefi it is Hesmarun.</p>

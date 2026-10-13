@@ -1,0 +1,10 @@
+%%  
+[[Qalmyr]] [[Luna Minor]] [[Qastor]] [[Ikval]] [[Qinari]] [[Wars of Qahori Subjugation]] [[Qarzi]] [[Path of the Second Moon]]  
+%%  
+<p>Zolra, the Ruinous Mother, also known as the Great Serpent, is the smaller of the two moons, <a href="Luna Minor" class="internal-link">Luna Minor</a>, which the elves call Hidja. To the Qari she is female, the antithesis of <a href="Qastor" class="internal-link">Qastor</a>, less a sister than a dark mirror to the creator god. She is associated with the winter, the storm and the cold, and her smaller stature in the skies is seen by the First Path as a sign of her lesser power and her inability to pass Qastor's protection.</p>  
+<h2>Nature</h2>  
+<p>Zolra is everything Qastor cast away in the <a href="Ikval" class="internal-link">Ikval</a>: his destructive tendency, his evil thoughts and his lesser desires. She tempts mortals down a path of ignorance, greed, base desires and egoism. The great beasts of the depths are often seen as fallen <a href="Qinari" class="internal-link">Qinari</a>, her first victims and the greatest insult to the greatness of Qastor.</p>  
+<h2>The Whispers</h2>  
+<p>In the First Path Zolra is no distant enemy but a voice within every soul, and the faith's central struggle is the refusal to heed her whispers. The Destruction of Qa taught the cost of listening: the Alliance of the Old Moon took up arms against the elves and was, in the faith's reading, answering Zolra, and the Qahori called the conqueror Masir Amr al-Ziyar "Zolra's fury made flesh". Even Qarzi survival is condemned by the other Qari as "Zolra's pragmatism".</p>  
+<h2>The Zolraii</h2>  
+<p>To the Zolraii of the <a href="Path of the Second Moon" class="internal-link">Second Path</a> she is not evil but honest, the hunger and ambition of the living world itself, and she won the struggle with Qastor when the elves took Qa. They worship her above all as the Night, and keep their feasts by her short round of roughly 22 days.</p>
