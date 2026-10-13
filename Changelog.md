@@ -1,20 +1,27 @@
-- 2026-10-14T0002 · Abaleq
-- 2026-10-14T0001 · Il Haena
+- 2026-10-14T0027 · Risen Reef
+- 2026-10-14T0027 · Elbae
+- 2026-10-14T0026 · Ramper
+- 2026-10-14T0026 · Neoda Isheb
+- 2026-10-14T0025 · Fasmer II
+- 2026-10-14T0021 · Kareli Hierarchy
+- 2026-10-14T0021 · Elven Dynasties
+- 2026-10-14T0021 · Lizun I
+- 2026-10-14T0020 · Path of the Second Moon
+- 2026-10-14T0020 · Sirmon Rezan
+- 2026-10-14T0019 · Abaleq
+- 2026-10-14T0019 · Il Haena
+- 2026-10-14T0018 · Complete Timeline
 - 2026-10-14T0000 · Moraq
 - 2026-10-13T2352 · Ossur
 - 2026-10-13T2351 · Igulan
 - 2026-10-13T2351 · Elabar
-- 2026-10-13T2346 · Elbae
 - 2026-10-13T2345 · Wars of Qahori Subjugation
-- 2026-10-13T2340 · Complete Timeline
 - 2026-10-13T2339 · Qarzi
 - 2026-10-13T2339 · Great Elbae Golomid War
 - 2026-10-13T2339 · Path of the Third Moon
 - 2026-10-13T2332 · Karlaz the Razor
-- 2026-10-13T2332 · Sirmon Rezan
 - 2026-10-13T2329 · Malham
 - 2026-10-13T2329 · Tholmir
-- 2026-10-13T2328 · Elven Dynasties
 - 2026-10-13T2327 · Raximan
 - 2026-10-13T2327 · Zilkand
 - 2026-10-13T2326 · Paqor
@@ -35,7 +42,6 @@
 - 2026-10-13T2240 · Zolra
 - 2026-10-13T2240 · Qastor
 - 2026-10-13T2240 · Ikval
-- 2026-10-13T2236 · Path of the Second Moon
 - 2026-10-13T2040 · War of Horn and Fang
 - 2026-10-13T2039 · Jean du Jera
 - 2026-10-13T2037 · Gisela IV
@@ -192,9 +198,3 @@
 - 2026-10-05T0347 · Azag
 - 2026-10-05T0313 · Sturla
 - 2026-10-05T0312 · Orlatz
-- 2026-10-05T0312 · Maiwynn
-- 2026-10-05T0312 · Jorj
-- 2026-10-05T0245 · Drow
-- 2026-10-05T0140 · Isa Tereggio
-- 2026-10-05T0139 · Horatio Tuliper
-- 2026-10-05T0138 · Alana Czery

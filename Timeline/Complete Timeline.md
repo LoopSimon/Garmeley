@@ -713,7 +713,7 @@
             <div class="timeline-item" data-date="867PA">Founding of New Kulum;<br> Tusul surrenders to the Sultanate, end of the White Wars</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks.</div>
             <div class="timeline-item" data-date="869PA">Andrew of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
-            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again;<br>The Path of the Third Moon emerges as a distinct denomination of Qalmyr</div>
+            <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again</div>
             <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
             <div class="timeline-item" data-date="874PA">Andrew of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world</div>
             <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr</div>

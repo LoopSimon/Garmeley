@@ -6,7 +6,7 @@
 [[Elabar]]
 [[Zolra]]
 [[Krestasi]]
-[[Abaleq]]
+[[Moraq]]
 %%
 
 <div class="wiki-infobox">
