@@ -1,3 +1,8 @@
+- 2026-10-13T1806 · Complete Timeline
+- 2026-10-13T1802 · Brystone
+- 2026-10-13T1802 · Runsby
+- 2026-10-13T1801 · Peadyr
+- 2026-10-13T1800 · The Colonization of Peadyr
 - 2026-10-13T1756 · Ulbreek
 - 2026-10-13T1755 · Vaggerport
 - 2026-10-13T1754 · Dalesire
@@ -7,7 +12,6 @@
 - 2026-10-13T1729 · Odise
 - 2026-10-13T1729 · Kavi
 - 2026-10-13T1729 · New Fryd
-- 2026-10-13T1728 · The Colonization of Peadyr
 - 2026-10-13T1728 · Kylian Juz
 - 2026-10-13T1726 · Livoa
 - 2026-10-13T1725 · Almersport
@@ -16,10 +20,8 @@
 - 2026-10-13T1656 · Narzoi Slavetrade
 - 2026-10-13T1620 · Doggerism
 - 2026-10-13T1503 · Aldergrounds
-- 2026-10-13T1501 · Peadyr
 - 2026-10-13T1500 · Ruins of Imala
 - 2026-10-13T1440 · Thun
-- 2026-10-13T1438 · Complete Timeline
 - 2026-10-13T1437 · The Discovery of Aisligos
 - 2026-10-13T1437 · Jurim Eykszoon
 - 2026-10-13T1436 · Senso
@@ -196,5 +198,3 @@
 - 2026-09-28T1319 · Filip of Leston
 - 2026-09-27T1416 · Merfolk
 - 2026-09-27T0305 · Gudrun
-- 2026-09-27T0303 · Ylva
-- 2026-09-27T0029 · Zren
