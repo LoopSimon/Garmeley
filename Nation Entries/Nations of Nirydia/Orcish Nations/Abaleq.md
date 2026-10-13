@@ -6,6 +6,7 @@
 [[Elabar]]
 [[Zolra]]
 [[Krestasi]]
+[[Abaleq]]
 %%
 
 <div class="wiki-infobox">
@@ -57,7 +58,7 @@
 <h2>History</h2>
 <p>The Fazaar Isles were once part of the Qahori Federation. The split came in the 8th century as part of a religious schism, and it is remembered by the Night of Zolrai in 788PA, when the prophet Glarraq announced his truth, took the name <a href="Elabar" class="internal-link">Elabar</a> and became the first Sandimar of Abaleq. Elabar's followers hosted a massive feast that overtook the isles in debauchery, and in the rush various people died, largely by accident. To the orthodox this is the Night of Zolrai massacre. To the Zolraii it is the night Elabar announced his truth.</p>
 <h2>Faith and Society</h2>
-<p>The Zolraii worship <a href="Zolra" class="internal-link">Zolra</a>, the Night more than the sea, and believe that she won her struggle with Qastor when the elves took Qa. They embrace her tendencies and emotions, and hedonism plays a large part in the life of the kingdom. "The Path of the Damned" is a name given by outsiders. The Zolraii call themselves Zolraii and nothing else, and they are no bloodthirsty killers. Abaleq is a kingdom of settled farms, harbours and cities, with a life of feasts and night markets, not a nation of wanderers.</p>
+<p>The Zolraii worship <a href="Zolra" class="internal-link">Zolra</a>, the Night more than the sea, and believe that she won her struggle with Qastor when the elves took Qa. They embrace her tendencies and emotions, and hedonism plays a large part in the life of the kingdom. "The Path of the Damned" is a name given by outsiders. The Zolraii call themselves Zolraii and nothing else, and they are no bloodthirsty killers. The violence of the lone brigand <a href="Moraq" class="internal-link">Moraq</a>, who preaches a bloody strain of the Path on the mainland of Il-Haena, is not claimed by the kingdom. Abaleq is a kingdom of settled farms, harbours and cities, with a life of feasts and night markets, not a nation of wanderers.</p>
 <p>Its carvers work the bone-craft of the Qari in the manner of the Zolraii, lavish and ornamental, with masks, jewellery and wear carved with Zolra the Great Serpent and the Second Moon.</p>
 <h2>Foreign Relations</h2>
 <p>Devout Qahori do not trade with the followers of the Second Path. The traders who do sail to the Fazaar Isles dock at Yaran, on Eheribi, a city that remains part of the Federation, and sail from there. The Zolraii of Abaleq trade with the <a href="Krestasi" class="internal-link">Krestasi</a> of the Risen Reef, and the Elbae Sultanate, which does not care about Orcish philosophies, trades with anyone. The Kamerzin hate the Zolraii as much as the Federation does.</p>

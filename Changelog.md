@@ -1,3 +1,5 @@
+- 2026-10-14T0002 · Abaleq
+- 2026-10-14T0001 · Il Haena
 - 2026-10-14T0000 · Moraq
 - 2026-10-13T2352 · Ossur
 - 2026-10-13T2351 · Igulan
@@ -8,7 +10,6 @@
 - 2026-10-13T2339 · Qarzi
 - 2026-10-13T2339 · Great Elbae Golomid War
 - 2026-10-13T2339 · Path of the Third Moon
-- 2026-10-13T2338 · Abaleq
 - 2026-10-13T2332 · Karlaz the Razor
 - 2026-10-13T2332 · Sirmon Rezan
 - 2026-10-13T2329 · Malham
@@ -18,7 +19,6 @@
 - 2026-10-13T2327 · Zilkand
 - 2026-10-13T2326 · Paqor
 - 2026-10-13T2324 · Third Moon Fleet
-- 2026-10-13T2324 · Il Haena
 - 2026-10-13T2324 · Kamerzin
 - 2026-10-13T2322 · Qahori
 - 2026-10-13T2321 · Orc
