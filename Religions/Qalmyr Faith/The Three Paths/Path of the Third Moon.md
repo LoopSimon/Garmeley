@@ -1,10 +1,15 @@
-%%  
-[[Qalmyr]] [[Malham]] [[Third Moon Fleet]] [[Sirenna]] [[The Discovery of Sirenna]] [[Il Haena]] [[Path of the Second Moon]]  
-%%  
-<p>The Path of the Third Moon, or the Third Path, is a smaller sect of <a href="Qalmyr" class="internal-link">Qalmyr</a> that is close to the original faith and not maligned by the other Qari. It arose as a distinct denomination in the 870s out of various older philosophies, though its followers hold that it was always there in spirit. Its name is a reaction to both of the paths before it: the First Path of Qastor and the <a href="Path of the Second Moon" class="internal-link">Path of the Second Moon</a>.</p>  
-<h2>Belief</h2>  
-<p>The Third Path teaches that Qa is indeed a paradise, but one that must be made for oneself. At its simplest this means finding Qa as an inner peace and hope within one's own life. More directly it means making a new home for one's community, so that the paradise the Qari lost is not something to be mourned or won back, but something to be built. Its followers steer by <a href="Malham" class="internal-link">Malham</a>, the child of destiny, and speak of the Third Moon as the one not given in the sky, the one that is raised by one's own hands.</p>  
-<h2>Force and Killing</h2>  
-<p>Unlike the First Path, the Third Path does not hold pacifism as an absolute tenet. Its teachers ask their students to use force when it is needed to quell a greater force and a greater suffering. But it keeps an absolute taboo on killing, and its followers train to subdue, disarm, bind and drive off, never to slay.</p>  
-<h2>The Third Moon Fleet</h2>  
-<p>Many followers of the Third Path live among the First Path, and the Qari of Il-Haena are often both. When news reached the northern shores of the New World to the south, of <a href="Sirenna" class="internal-link">Sirenna</a> and the <a href="The Discovery of Sirenna" class="internal-link">Voyage of the Cylla</a>, many adherents saw in it the Qa they had been told to make. They came together to form the original basis of the <a href="Third Moon Fleet" class="internal-link">Third Moon Fleet</a>, which plans to sail in 928PA and which also draws many humans and Bihra. Outsiders often mistake the Fleet for a pacifist endeavour, but that is not what the Path teaches.</p>
+%%
+[[Qalmyr]]
+[[Third Moon Fleet]]
+[[Great Elbae Golomid War]]
+[[Tholmir]]
+%%
+<p>The Path of the Third Moon, or the Third Path, is a denomination of <a href="Qalmyr" class="internal-link">Qalmyr</a> that holds that Qa is a paradise, but one that must be made for oneself. It is much closer to the original Qalmyr faith than the Second Path, is not maligned at all, and is a smaller sect than the First Path. The name is a reaction to both: where the First Path follows Qastor and the Second Path follows Zolra, the Third Moon is the one that is not in the sky, the moon the faithful raise for themselves.</p>
+<h2>Origins</h2>
+<p>The Third Path arose from various philosophies in the 870s as a concrete, distinct denomination, although it was always there in spirit. Its rise followed the outbreak of the <a href="Great Elbae Golomid War" class="internal-link">Great Elbae Golomid War</a> in 871PA, a war fought around Il-Haena between the Sultanate and the Golomid Empire of the Risen Reef, which began when the Qarzi diplomacy with the Reef broke down. For the first time since the Destruction of Qa the Qari found themselves caught between two great powers, and neither of the old answers seemed to serve them. The endurance of the First Path offered no protection from a war fought in their waters, and the embrace of Zolra offered none either. The Third Path took the old teachings that Qa is made and not inherited, and that force may answer force while no life may be taken, and gathered them into a faith of its own.</p>
+<h2>Belief</h2>
+<p>To the Third Path, Qa is indeed a paradise, but one that must be made. For some this means finding Qa as an inner peace and hope within one's life. More directly, it means making a new home for the community. <a href="Malham" class="internal-link">Qisvahl</a>, the child of destiny, is the hope that is handed to every child at birth, and <a href="Tholmir" class="internal-link">Mahzir</a>, the Warden, is the hope that is made rather than given.</p>
+<h2>Force and Killing</h2>
+<p>The Third Path rejects pacifism as an absolute tenet. It asks its students for force when force is needed to quell greater force and suffering, but it maintains an absolute taboo on killing. Its followers favour the shield and the bone-plate of the Qari over the blade.</p>
+<h2>The Third Moon Fleet</h2>
+<p>News of the New World in the south, Sirenna, found the Third Path ready. Many of its adherents have come together to form the core of the <a href="Third Moon Fleet" class="internal-link">Third Moon Fleet</a>, an alliance of seafarers and settlers which is to set sail in 928PA from the ports of Paqor, New Kulum, Mereskis and Kahtis. The Fleet includes many humans and Bihra, and it is not an Orcish endeavour alone.</p>

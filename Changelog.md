@@ -1,6 +1,12 @@
+- 2026-10-13T2340 · Complete Timeline
+- 2026-10-13T2339 · Qarzi
+- 2026-10-13T2339 · Great Elbae Golomid War
+- 2026-10-13T2339 · Path of the Third Moon
+- 2026-10-13T2338 · Abaleq
+- 2026-10-13T2334 · Ossur
+- 2026-10-13T2334 · Igulan
 - 2026-10-13T2332 · Karlaz the Razor
 - 2026-10-13T2332 · Sirmon Rezan
-- 2026-10-13T2330 · Complete Timeline
 - 2026-10-13T2329 · Malham
 - 2026-10-13T2329 · Tholmir
 - 2026-10-13T2328 · Elven Dynasties
@@ -10,7 +16,6 @@
 - 2026-10-13T2324 · Third Moon Fleet
 - 2026-10-13T2324 · Il Haena
 - 2026-10-13T2324 · Kamerzin
-- 2026-10-13T2323 · Qarzi
 - 2026-10-13T2322 · Qahori
 - 2026-10-13T2321 · Orc
 - 2026-10-13T2300 · Qalmyr
@@ -27,9 +32,7 @@
 - 2026-10-13T2240 · Qastor
 - 2026-10-13T2240 · Ikval
 - 2026-10-13T2238 · Wars of Qahori Subjugation
-- 2026-10-13T2237 · Abaleq
 - 2026-10-13T2237 · Elabar
-- 2026-10-13T2236 · Path of the Third Moon
 - 2026-10-13T2236 · Path of the Second Moon
 - 2026-10-13T2040 · War of Horn and Fang
 - 2026-10-13T2039 · Jean du Jera
@@ -195,6 +198,3 @@
 - 2026-10-05T0138 · Alana Czery
 - 2026-10-04T0856 · Vasily Surovsky
 - 2026-10-04T0855 · Tadeuz Pilsud
-- 2026-10-04T0545 · Diarism
-- 2026-10-03T1805 · Rox
-- 2026-10-03T1800 · Fenhir

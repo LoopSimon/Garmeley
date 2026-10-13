@@ -6,6 +6,8 @@
 [[Orc]]
 [[Il Haena]]
 [[Third Moon Fleet]]
+[[Great Elbae Golomid War]]
+[[Risen Reef]]
 %%
 
 <div class="wiki-infobox">
@@ -61,3 +63,5 @@
 <p>The Qarzi are a loyal subject of the Sultanate, and the Kingdom is rich and successful. The Qarzi are allowed to practice all their religious activities in peace, and there have been essentially no issues with uprisings. As the Elayat thrived together with the rest of the Elbae sphere of prosperity it was granted more and more autonomous privileges. The port of Kahtis, the coastal trade hub of the Elayat, is also one of the ports from which the <a href="Third Moon Fleet" class="internal-link">Third Moon Fleet</a> is to sail.</p>
 <h2>Bone-Craft</h2>
 <p>The Qarzi keep the bone-craft of Qa in its old forms. The shrines of Benwaral, preserved intact when so much else of Qa was lost, are the finest surviving example of the bone architecture of the old holy land, framed in the bone of the <a href="Igulan" class="internal-link">Igulan</a> and the <a href="Ossur" class="internal-link">Ossur</a>, and its carvers are among the most sought after of the Orcish world. Carved bone of Il-Haena is one of the goods the Qarzi send out together with their coffee.</p>
+<h2>The Reef</h2>
+<p>The Qarzi were the Orcs who dealt with the Krestasi of the <a href="Risen Reef" class="internal-link">Risen Reef</a>, which rose to the surface south of Il-Haena in 857PA. In 864PA Qarzi diplomats successfully established an embassy there, but relations worsened in 869PA after a string of communication-based incidents, and in 871PA the diplomacy broke down fully and the <a href="Great Elbae Golomid War" class="internal-link">Great Elbae Golomid War</a> began. The war was fought around Il-Haena for twenty-two years.</p>
