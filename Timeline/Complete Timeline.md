@@ -673,7 +673,7 @@
             <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
-            <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the mage Teriador, who fears a plague</div>
+            <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
@@ -683,7 +683,7 @@
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled & First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv</div>
-            <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas</div>
+            <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas;<br>Edmund Teriador dies of Self Poisoning</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree and beginning of the Great Eastern War;<br>"Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms;<br>The united sertovi colony of New Rav on Peadyr is destroyed following hostile encounters with the local Narzoi tribe of the Rele</div>
@@ -755,17 +755,17 @@
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br> Karlaz the Razor sacks the port of Kalsad</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment.</div>
-            <div class="timeline-item" data-date="917PA">The Odise chief Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
+            <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave;<br>Independence Movements grow once again in Droil</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>
-            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down, Dueren is founded in the New World</div>
+            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World</div>
             <div class="timeline-item" data-date="922PA">Mini Campaign 1: Death of Duchess Agnes of Garmeley;<br> Mini Campaign 2: Fairriver Incident;<br> Dwarven Invasion of Yokosch</div>
             <div class="timeline-item" data-date="923PA">Campaign 1: The Chestbearers;<br> Garmish Civil War breaks out</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla and discovery of Sirenna;<br> Sack of Sunminster; <br>Dwarven Invasion of Yokosch fails</div>
             <div class="timeline-item" data-date="925PA">Rylla is captured by Lord Eric Zallon of Almersport and taken to the Old World, where she is burned alive in Karsord; the Odise take up arms as a whole against Almersport;<br>Battle of Jestrick Fields;<br> Entusul Uprising is put down by Emir Zazir Brahmis</div>
             <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment;<br> International Intervention in the Garmish Civil War</div>
-            <div class="timeline-item" data-date="927PA">Campaign 2, Hynek of Forrington is assassinated</div>
+            <div class="timeline-item" data-date="927PA">Campaign 2;<br> Hynek of Forrington is assassinated</div>
         </div>
     </div>
 </div>
