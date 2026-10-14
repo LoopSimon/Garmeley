@@ -1,0 +1,30 @@
+%%
+[[Vihr]]
+[[Gethricism]]
+[[Trinicism]]
+[[Church of Iztaw]]
+[[Candleguard]]
+[[First War of Elbae Aggression]]
+[[Wars of Elbae Aggression]]
+[[Rulers of Vihr]]
+[[Zovac Harlini]]
+[[Gisela II]]
+[[Joakim zi Szarbel]]
+[[Fredric]]
+%%
+<p>The Gethric Pogroms were the persecution of elves, half-elves and those of known elven blood in the lands of the Gethric Church, begun in 763PA and ended in 778PA. They were ratified by the Conclave of 763, proclaimed by the High-Bisop of Iztaw and carried out by the crown of Vihr, and in the eyes of the Church's critics they were nothing less than government and church mandated mass murder. They cost the Church its western half, for the Great Schism of 764PA followed within the year, and their memory is the main reason that almost no elves live in Vihr today.</p>
+<h2>Background</h2>
+<p>The roots of the Pogroms are older than the Church of Iztaw itself. The Doctrine of Human Exceptionalism was first formally set down in 254PA, and over the following centuries it hardened in the Gethric theology of Vihr into something close to a hatred of elvenkind. Elves were described as demonspawn and demon-kin, and the children of mixed blood as half-breeds. The wars of the Elbae Sultanate gave the old sentiment a face. In the <a href="First War of Elbae Aggression" class="internal-link">First War of Elbae Aggression</a>, from 750PA to 762PA, Gri Waskor zi Treblin commanded the forces of Vihr, and his racial convictions shaped the framing of the whole war. Ras Miskomir III, who had come to the throne in 753PA, answered the war with racist policies and propaganda at first. When the war ended, with the death of <a href="Fredric" class="internal-link">Fredric</a> at Danipol in 762PA, the temper of Vihr was ready for more.</p>
+<h2>The Conclave of 763</h2>
+<p>The Conclave of 763 canonised Fredric Foehammer, the Hero of Danipol, and in the same session it ratified the Gethric Pogroms. High-Bisop Manral I issued the Bull that declared elves ontologically evil and opposed to the divine truth of the Prophet. In the same year Miskomir III, who would be remembered as the Black, outlawed elvenkind in Vihr, and ordered the banishment, imprisonment and execution of any elves or those of known elven blood, in Vihr and in all the countries of the true faith. <a href="Joakim zi Szarbel" class="internal-link">Joakim zi Szarbel</a>, the Bishop of Tlokyemy and a scholar of high standing, was among the most eager supporters of the policy.</p>
+<h2>The Persecution</h2>
+<p>The Pogroms were enforced by the crown, the Gris and the town watches, with the clergy at their side. The Church's own militia, the <a href="Candleguard" class="internal-link">Candleguard</a>, had been confined to church grounds since the settlement of 377PA, so its part was limited to the cathedrals and great churches, where its cells and sanctuaries held the accused. For work beyond those walls the Church turned, as it often does, to hired adventurers of pure spirit. The persecution was hardest in Vihr and in Grachy, and it reached parts of Urland. Families of mixed blood were broken apart, and those who could flee did so, mostly to Grevenna and Meadrath. No count of the dead was kept, and none survives.</p>
+<h2>Opposition and the Schism</h2>
+<p>The Pogroms were not accepted everywhere, or even in Vihr. <a href="Zovac Harlini" class="internal-link">Zovac Harlini</a>, the Kar-Zavr of Vihr and one of the great scholars of his age, publicly condemned the killings, resigned his post and renounced his title as Gri of Direszk in 763PA. Queen <a href="Gisela II" class="internal-link">Gisela II</a> of Meadrath called the Pogroms politically motivated barbarianism, ordered by a puppet Bisop under the control of the Vihri crown. In 764PA a Conclave met at Trinfurt to consider the matter, and the Order of the Silver Wheel marched to dissolve it by force. They were met by local heroes and by the armed forces of the Meadi king, and they failed. The Conclave was not dissolved, and the western churches broke with Iztaw to form <a href="Trinicism" class="internal-link">Trinicism</a>. Gisela II joined the Trinic cause, supported local militias against Gethric violence, and purged the Meadi clergy of those who stood with Iztaw. In Trinic lands no Bishop may raise a Candleguard of his own.</p>
+<p>The Gethric view of these years differs. In Vihri tradition the Pogroms followed a war in which the Sultanate had been the aggressor, and the great Saint had died in battle against the elves. To many Vihri chroniclers the edict was an act of defence, and the Schism was the work of western bishops who wished to escape the authority of Iztaw. The Trinic view holds that the Pogroms were persecution under the cover of faith, and that the Schism was the lesser evil.</p>
+<h2>The End</h2>
+<p>The Treeplague of 772 to 777PA ravaged the south of Vihr, and a realm in mourning had less appetite for the hunt. Ras Orian I, who came to the throne in 778PA, ended them in the same year. The Church did not repeal the ratification of 763, but it ceased to enforce it.</p>
+<h2>Legacy</h2>
+<p>There are almost no elven or half-elven citizens in Vihr to this day. The Pogroms did not end the Schism, and the Trinic Church has never forgotten them. Harlini, who left the court over the killings, later taught the elven prodigy Carassa al-Kael at Edessa. The half-elven archmage <a href="Viccolo di Pora" class="internal-link">Viccolo di Pora</a> of Cevolia, whose writings against the Gethric clergy are widely read, makes his case in the shadow of the Pogroms. In Vihr itself the Church prefers to speak of them as a thing of a harder age.</p>
+<h2>People of Interest</h2>
+<p>Miskomir III, Ras of Vihr, called the Black<br>Manral I, High-Bisop of Iztaw<br><a href="Joakim zi Szarbel" class="internal-link">Joakim zi Szarbel</a>, Bishop of Tlokyemy<br><a href="Zovac Harlini" class="internal-link">Zovac Harlini</a>, Kar-Zavr of Vihr<br><a href="Gisela II" class="internal-link">Gisela II</a>, Queen of Meadrath<br>Orian I, Ras of Vihr</p>

@@ -60,5 +60,6 @@ The Accords ban the practice, teaching or preservation of the following:
 
 <hr class="wiki-hr">
 
-<p>Signed at the Headquarters of the Order of the Silver Wheel, in the town of Morael and close to the remnants of Old Wermia, the Accords where very much dictated by the paramilitary Orders of the <a href="Church of Iztaw">Church of Iztaw</a>, that at the time enjoyed never before or since seen political power.
+<p>
+Signed in Stagbone Hall in the town of Morael, close to the remnants of Old Wermia, the Accords were very much dictated by the paramilitary Orders of the <a href="Church of Iztaw">Church of Iztaw</a>, that at the time enjoyed never before or since seen political power.
 Although the Accords also offered many monarchs and rulers foreign to Vihr justification to crack down on the political power of Mages within their own countries.</p>

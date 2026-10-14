@@ -1,4 +1,4 @@
-%% [[Gethricism]] [[Wermia]]  [[Dorian]] %%
+%% [[Gethricism]] [[Wermia]]  [[Dorian]] [[Nuv Werm]]%%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Silver_Wheel_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Heraldry of the Silver Wheel</i></small>
 </div>

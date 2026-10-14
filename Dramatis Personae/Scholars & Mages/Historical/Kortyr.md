@@ -2,6 +2,7 @@
 [[Turvik Paganism]]
 [[Vihrmen Federation]]
 [[Half-Elf]]
+[[Ravenleaf Forest]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kortyr</h4>
@@ -11,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>High Priest of the Ravenleaf</span>
+        <span>High Priest of the <a href="Ravenleaf Forest" class="internal-link">Ravenleaf</a></span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>

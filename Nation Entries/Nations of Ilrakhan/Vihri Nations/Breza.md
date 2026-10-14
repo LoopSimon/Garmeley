@@ -2,6 +2,7 @@
 [[Gethricism]]
 [[Vihr]]
 [[Andre]]
+[[Trydlew]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Vadcy zi Breza</h4>
@@ -15,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Trydlew</span>
+        <span><a href="Trydlew" class="internal-link">Trydlew</a></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

@@ -3,6 +3,7 @@
 [[Urland]]
 [[Vrieman Bank of Uhl]]
 [[Treaty of Uhl]]
+[[Taar]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Free City of Uhl</h4>
