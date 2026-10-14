@@ -2,6 +2,7 @@
 [[Vihr]]
 [[Zervind II]]
 [[Vormil III]]
+[[Honoured Assembly]]
 %%
 
 <p>The Rasi of Vihr and Wermia</p>
@@ -23,7 +24,7 @@
 
 *Lords' Crisis 377PA, Zervind II held by the Candleguard, Lords march on Zavlech*
 
-*Honoured Assembly formally established 384PA, still under Zervind II*
+*[[Honoured Assembly]] formally established 384PA under Zervind II*
 
 <p>Boris I "the Pious", 388PA - 407PA</p>
 

@@ -419,7 +419,7 @@
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, <br>Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, <br>Successful end of Qahori Subjugation</div>
-            <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opzuna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
+            <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opuzna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
             <div class="timeline-item" data-date="470PA">Empire of Pravazik is formed around the Bay of Arishi on the ruins of the Great Rite of Pra and the Diacor Empire</div>
@@ -473,7 +473,7 @@
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins</div>
             <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Bulug</div>
-            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek</div>
+            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br> The Vadcy of Szievek is cut down by two thirds</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="564PA">Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
             <div class="timeline-item" data-date="572PA">End of the Leveli Civil War, Foundation of Richelet</div>
@@ -562,14 +562,14 @@
             <div class="timeline-item" data-date="683PA">End of the Vocas a Amurez, <br>Birth of Labella south of the Templi Heights</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
             <div class="timeline-item" data-date="685PA">Rise of Khan Jigallor in Nirydia</div>
-            <div class="timeline-item" data-date="686PA">Establishment of the Gaal Empire on Ynkal</div>
+            <div class="timeline-item" data-date="686PA">Establishment of the Gaal Empire on Ynkal;<br>The Usily Plot against Zawis III is uncovered, House Terjan is raised to the Vadcy of Opuzna</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
             <div class="timeline-item" data-date="688PA">Skori Sailors first discover Aisligos</div>
              <div class="timeline-item" data-date="689PA">Tensions between the Paths grow within Riarang, the Empire begins to fully splinter from within</div>
             <div class="timeline-item" data-date="690PA">Hobgoblin Invasion of Urland begins, <br>Fall of Roygviil</div>
             <div class="timeline-item" data-date="691PA">Markur of the Many Eyes & Lyandra of Fairriver are
              canonized as a Saint; <br>Trazlov Guild of Alchemy is formed; <br>Battle of Elpfield; Yokosch wins independence from Pravazik<br></div>
-            <div class="timeline-item" data-date="692PA">Ras Zawis III is killed by his own pet Glinsar Petro, <br>The Honooured Assembly elects Miskomir II of House Ralpia as King of Vihr, <br>Gallfever breaks out in Cevolia</div>
+            <div class="timeline-item" data-date="692PA">Ras Zawis III is killed by his own pet Glinsar Petro, <br>The Honoured Assembly elects Miskomir II of House Ralpia as King of Vihr, <br>Gallfever breaks out in Cevolia</div>
             <div class="timeline-item" data-date="693PA">Battle of Foarley</div>
             <div class="timeline-item" data-date="694PA">Battle of Hadley, <br>Siege of Dursan begins</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, <br>Early Yoroy Period begins in the Twintail Empire; <br>Fall of Dursan</div>
@@ -651,6 +651,7 @@
             <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador;<br>Battle of Bereggio and end of the Battvian Civil War</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite</div>
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
+            <div class="timeline-item" data-date="802PA">House Tryn is raised to the Vadcy of Levazci after the House zi Kerv dies out</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
             <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
@@ -673,10 +674,10 @@
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="828PA">Brothers War begins in Vihr and Nostroya</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes</div>
-            <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova</div>
+            <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova;<br> Battle under the Red Cloud</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
-            <div class="timeline-item" data-date="834PA">Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
+            <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
