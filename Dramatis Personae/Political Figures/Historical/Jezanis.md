@@ -7,7 +7,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Shira Jezanis</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Nightingale</span>
     </div>
     <div class="wiki-row">

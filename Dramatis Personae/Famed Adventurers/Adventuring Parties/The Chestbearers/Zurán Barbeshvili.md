@@ -8,7 +8,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Zurán Barbeshvili</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Hound of Kulum</span>
     </div>
     <div class="wiki-row">

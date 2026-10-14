@@ -6,7 +6,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Sergey Hirl</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>"Sergeys Salty Spoils"</span>
     </div>
     <div class="wiki-row">

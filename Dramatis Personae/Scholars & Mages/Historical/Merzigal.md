@@ -7,7 +7,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Merzigal</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Great Sculptor</span>
     </div>
     <div class="wiki-row">

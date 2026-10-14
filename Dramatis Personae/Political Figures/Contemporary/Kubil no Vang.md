@@ -8,7 +8,7 @@
 <div class="wiki-infobox">
  <h4 class="wiki-header">Kubil no Vang</h4>
  <div class="wiki-row">
- <strong>Epitath</strong>
+ <strong>Epiteth</strong>
  <span>the Amethyst</span>
  </div>
  <div class="wiki-row">

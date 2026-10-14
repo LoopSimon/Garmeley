@@ -7,7 +7,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Vlad Andrejovic of Jerinov</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>the Cursed</span>
     </div>
     <div class="wiki-row">

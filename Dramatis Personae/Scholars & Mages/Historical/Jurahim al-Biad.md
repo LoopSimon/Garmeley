@@ -9,7 +9,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jurahim al-Biad</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>Urul Horad</span>
     </div>
     <div class="wiki-row">

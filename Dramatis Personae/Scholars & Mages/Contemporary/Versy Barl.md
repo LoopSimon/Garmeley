@@ -7,7 +7,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Versy Barl</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>the Fleshmonger</span>
     </div>
     <div class="wiki-row">

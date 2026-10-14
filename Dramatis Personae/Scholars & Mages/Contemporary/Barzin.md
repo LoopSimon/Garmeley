@@ -5,7 +5,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Drogo Barzin</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Lord of Marrow</span>
     </div>
     <div class="wiki-row">

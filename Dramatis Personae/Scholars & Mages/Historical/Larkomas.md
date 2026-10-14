@@ -8,7 +8,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Larkomas Mi Terix</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>of Ott</span>
     </div>
     <div class="wiki-row">

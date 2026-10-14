@@ -6,7 +6,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Parniva</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>Summersire</span>
     </div>
     <div class="wiki-row">

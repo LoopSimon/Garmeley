@@ -4,7 +4,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Bar-Dilian</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Wilting Whisper, <br> The Paling Tear</span>
     </div>
     <div class="wiki-row">

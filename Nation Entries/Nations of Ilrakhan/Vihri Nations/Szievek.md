@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Szievek_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> Szievek is one of the major Vadcy within Vihr, controlling lands in the northern Expanse, it sits between Zavlech itself and the central Grachyll. Its capital, the city of Szievek itself, is home to the largest University in all Vihr as well as the Eye of Kasimir a massive Astrolabe in the centre of the city.</p>
+<p> Szievek is one of the major Vadcy within Vihr, controlling lands in the northern Expanse, it sits between Zavlech itself and the central Grachhyll. Its capital, the city of Szievek itself, is home to the largest University in all Vihr as well as the Eye of Kasimir, a massive astrolabe in the centre of the city.</p>
 <h2>Geography</h2>
 <p>Szievek lies in the northern Vihri Expanse, on the Lehva River, with the crownlands of Zavlech to the west and the foothills of the Grachhyll to the north-east. The Lehva comes up out of <a href="Levazci" class="internal-link">Levazci</a> to the south-east and turns north at Szievek on its way to the sea at <a href="Trazlova" class="internal-link">Trazlov</a>, so the Vadcy stands on the river road between the heart of the Expanse and the northern coast. Trazlova borders it on the north and <a href="Breza" class="internal-link">Breza</a> on the south. The plains are flat and temperate, and the farmland is rich.</p>
 <h2>History</h2>

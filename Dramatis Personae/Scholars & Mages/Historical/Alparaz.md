@@ -8,7 +8,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Alparaz IV</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Binder</span>
     </div>
     <div class="wiki-row">

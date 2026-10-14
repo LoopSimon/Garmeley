@@ -8,7 +8,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Skemril Reasna</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>Houndred Stike</span>
     </div>
     <div class="wiki-row">

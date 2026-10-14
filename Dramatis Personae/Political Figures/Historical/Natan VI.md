@@ -7,7 +7,7 @@
 <div class="wiki-infobox">
  <h4 class="wiki-header">Natan VI of the Twintail</h4>
  <div class="wiki-row">
- <strong>Epitath</strong>
+ <strong>Epiteth</strong>
  <span>the Wise</span>
  </div>
  <div class="wiki-row">

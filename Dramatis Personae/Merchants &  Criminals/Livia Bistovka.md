@@ -5,7 +5,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Livia Bistovka</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>Grandmother Livia</span>
     </div>
     <div class="wiki-row">

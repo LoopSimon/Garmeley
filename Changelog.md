@@ -1,14 +1,81 @@
-- 2026-10-14T0354 · Vihr
-- 2026-10-14T0338 · Selbia
+- 2026-10-14T0433 · Trinicism
+- 2026-10-14T0433 · The Incursion
+- 2026-10-14T0432 · Situation in the Paper Cities
+- 2026-10-14T0432 · The Alchemists Guild
+- 2026-10-14T0432 · Trazlova
+- 2026-10-14T0430 · Jana Rikolore
+- 2026-10-14T0430 · Valenty Sykes
+- 2026-10-14T0429 · Vihr
+- 2026-10-14T0428 · Levazci
+- 2026-10-14T0428 · Szievek
+- 2026-10-14T0428 · Selbia
+- 2026-10-14T0427 · Torry
+- 2026-10-14T0427 · Breza
+- 2026-10-14T0425 · Rovgi
+- 2026-10-14T0422 · Ylva
+- 2026-10-14T0422 · Zurán Barbeshvili
+- 2026-10-14T0422 · Zovac Harlini
+- 2026-10-14T0422 · Vlad V
+- 2026-10-14T0422 · Wulfrick
+- 2026-10-14T0422 · Versy Barl
+- 2026-10-14T0422 · Vormil III
+- 2026-10-14T0422 · Valund Baeling
+- 2026-10-14T0422 · Toski
+- 2026-10-14T0422 · Targesis
+- 2026-10-14T0422 · Telipir
+- 2026-10-14T0422 · Shasha Gurnakov
+- 2026-10-14T0422 · Skemril
+- 2026-10-14T0422 · Sergey Hirl
+- 2026-10-14T0422 · Salvia
+- 2026-10-14T0422 · Rulers of the Beheran Elves
+- 2026-10-14T0422 · Rox
+- 2026-10-14T0421 · Remillion
+- 2026-10-14T0421 · Plysfir
+- 2026-10-14T0421 · Pharabal
+- 2026-10-14T0421 · Parniva
+- 2026-10-14T0421 · Oro Yominga
+- 2026-10-14T0421 · Natan VI
+- 2026-10-14T0421 · Morlamir
+- 2026-10-14T0421 · Morfeld
+- 2026-10-14T0421 · Mikael Bivaldi
+- 2026-10-14T0421 · Miasa
+- 2026-10-14T0421 · Miarat
+- 2026-10-14T0421 · Merzigal
+- 2026-10-14T0421 · Lukomok Trep
+- 2026-10-14T0421 · Loomman
+- 2026-10-14T0421 · Livia Bistovka
+- 2026-10-14T0421 · Lempo
+- 2026-10-14T0421 · Larkomas
+- 2026-10-14T0421 · Laettr
+- 2026-10-14T0421 · Kubil no Vang
+- 2026-10-14T0421 · Kortyr
+- 2026-10-14T0421 · Khulki
+- 2026-10-14T0421 · Jurahim al-Biad
+- 2026-10-14T0420 · Jezanis
+- 2026-10-14T0420 · Jan van Swarn
+- 2026-10-14T0420 · Hilcarax
+- 2026-10-14T0420 · Hien-Ro
+- 2026-10-14T0420 · Gudrun
+- 2026-10-14T0420 · Giuseppe Dimandi
+- 2026-10-14T0420 · Gisela II
+- 2026-10-14T0420 · Galiatar Inkfingers
+- 2026-10-14T0420 · Fasmer II
+- 2026-10-14T0420 · Egill
+- 2026-10-14T0420 · Cernela nu Bas
+- 2026-10-14T0420 · Carassa al-Kael
+- 2026-10-14T0420 · Barzin
+- 2026-10-14T0420 · Bar-Dilian
+- 2026-10-14T0420 · Avero
+- 2026-10-14T0420 · Asper Inrates
+- 2026-10-14T0420 · Ar
+- 2026-10-14T0420 · Alparaz
+- 2026-10-14T0420 · Antigor I
+- 2026-10-14T0420 · Alana Czery
+- 2026-10-14T0419 · Ahrmiz Saceren
+- 2026-10-14T0419 · Aessymia
 - 2026-10-14T0338 · Opuzna
-- 2026-10-14T0337 · Levazci
 - 2026-10-14T0336 · Complete Timeline
-- 2026-10-14T0334 · Breza
-- 2026-10-14T0333 · Trazlova
-- 2026-10-14T0332 · Rovgi
-- 2026-10-14T0332 · Torry
 - 2026-10-14T0249 · Tloky
-- 2026-10-14T0248 · Szievek
 - 2026-10-14T0210 · Honoured Assembly
 - 2026-10-14T0151 · Tadeuz Pilsud
 - 2026-10-14T0149 · Rulers of Vihr
@@ -22,7 +89,6 @@
 - 2026-10-14T0118 · Wermia
 - 2026-10-14T0116 · Lyandra
 - 2026-10-14T0115 · Eight Years War
-- 2026-10-14T0113 · Vormil III
 - 2026-10-14T0105 · Joakim zi Szarbel
 - 2026-10-14T0105 · Grachy
 - 2026-10-14T0104 · Alfred the Younger
@@ -33,7 +99,6 @@
 - 2026-10-14T0027 · Elbae
 - 2026-10-14T0026 · Ramper
 - 2026-10-14T0026 · Neoda Isheb
-- 2026-10-14T0025 · Fasmer II
 - 2026-10-14T0021 · Kareli Hierarchy
 - 2026-10-14T0021 · Elven Dynasties
 - 2026-10-14T0021 · Lizun I
@@ -128,7 +193,6 @@
 - 2026-10-12T1425 · Uraz
 - 2026-10-12T1351 · The New World
 - 2026-10-12T1219 · Pangomor
-- 2026-10-12T1042 · Situation in the Paper Cities
 - 2026-10-12T1033 · Migner
 - 2026-10-12T0940 · Broken Fingers
 - 2026-10-12T0933 · Heavens Furrow
@@ -140,7 +204,6 @@
 - 2026-10-11T1702 · Geipra
 - 2026-10-11T1701 · Halgrach City
 - 2026-10-11T1405 · Halgrach
-- 2026-10-11T1401 · Vlad V
 - 2026-10-11T1401 · Oleksandr IV
 - 2026-10-11T1401 · Rulers of the Grachi
 - 2026-10-11T1401 · Nostroya
@@ -149,7 +212,6 @@
 - 2026-10-11T1357 · Strait of Horad
 - 2026-10-11T1245 · Haozon
 - 2026-10-11T1221 · Cult of the Dancing God
-- 2026-10-11T1106 · Zurán Barbeshvili
 - 2026-10-11T1053 · Yellow War
 - 2026-10-11T1036 · Sword of the Abjurer
 - 2026-10-11T0925 · Adate
@@ -186,7 +248,6 @@
 - 2026-10-09T0459 · Ginnil
 - 2026-10-08T1839 · Durfall
 - 2026-10-08T1704 · Mior
-- 2026-10-08T0742 · Jan van Swarn
 - 2026-10-08T0740 · Ulrike Metzen
 - 2026-10-08T0737 · Wispmer
 - 2026-10-08T0708 · Phiodales
@@ -219,7 +280,6 @@
 - 2026-10-05T1518 · The Bad Omen
 - 2026-10-05T1518 · Harold
 - 2026-10-05T1516 · Vannsi Deep Worship
-- 2026-10-05T1510 · Remillion
 - 2026-10-05T1508 · Roxeria
 - 2026-10-05T0347 · Azag
 - 2026-10-05T0313 · Sturla
@@ -229,10 +289,8 @@
 - 2026-10-05T0245 · Drow
 - 2026-10-05T0140 · Isa Tereggio
 - 2026-10-05T0139 · Horatio Tuliper
-- 2026-10-05T0138 · Alana Czery
 - 2026-10-04T0856 · Vasily Surovsky
 - 2026-10-04T0545 · Diarism
-- 2026-10-03T1805 · Rox
 - 2026-10-03T1800 · Fenhir
 - 2026-10-03T1735 · Cinderstone Temple
 - 2026-10-03T1733 · Javalim
@@ -252,7 +310,6 @@
 - 2026-09-30T1532 · Fjorisjom Saga
 - 2026-09-30T0459 · Trifflands
 - 2026-09-30T0426 · Elena Montegru
-- 2026-09-30T0426 · Jana Rikolore
 - 2026-09-30T0328 · Merengrad
 - 2026-09-30T0326 · Manymirror
 - 2026-09-29T2156 · Asza
@@ -261,7 +318,6 @@
 - 2026-09-29T2144 · Minruism
 - 2026-09-29T2113 · Enzal Pantheon
 - 2026-09-29T1807 · Piero Digolo
-- 2026-09-29T1804 · Mikael Bivaldi
 - 2026-09-29T1752 · Piero & Friends
 - 2026-09-29T1751 · The Merry Three
 - 2026-09-29T1737 · Xara Ilig
@@ -269,8 +325,6 @@
 - 2026-09-29T1459 · Hobgoblin Invasion
 - 2026-09-28T1319 · Filip of Leston
 - 2026-09-27T1416 · Merfolk
-- 2026-09-27T0305 · Gudrun
-- 2026-09-27T0303 · Ylva
 - 2026-09-27T0029 · Zren
 - 2026-09-26T2320 · Butera
 - 2026-09-26T2318 · Jeledo
@@ -292,15 +346,12 @@
 - 2026-09-24T1856 · Trinvale
 - 2026-09-24T1855 · The Concrete Plane
 - 2026-09-24T1855 · The Ideal Plane
-- 2026-09-24T1853 · Larkomas
 - 2026-09-24T1853 · Kerlaes
 - 2026-09-24T1853 · Hainach
 - 2026-09-24T1853 · Grivil
 - 2026-09-24T1852 · Excavators Guild of Butera
 - 2026-09-24T1852 · Nurlight
 - 2026-09-24T1851 · Timut
-- 2026-09-23T2003 · Skemril
-- 2026-09-23T2003 · Laettr
 - 2026-09-23T1950 · Aelf
 - 2026-09-23T1246 · Provost Mihun
 - 2026-09-23T1238 · Ued al-Raban
@@ -327,8 +378,6 @@
 - 2026-09-21T1419 · Half-Elf
 - 2026-09-21T1419 · Elf
 - 2026-09-21T1418 · Skemfing
-- 2026-09-21T0319 · Kortyr
-- 2026-09-21T0319 · Avero
 - 2026-09-21T0319 · Xarvin Jiballo
 - 2026-09-21T0318 · Viccolo di Pora
 - 2026-09-21T0318 · Gynla Pemo
@@ -349,52 +398,3 @@
 - 2026-09-19T1311 · Inara
 - 2026-09-19T1311 · Ilrakhan
 - 2026-09-19T1311 · Dragon
-- 2026-09-19T1311 · Dalniz
-- 2026-09-19T1310 · Beheran
-- 2026-09-19T1310 · Behera
-- 2026-09-19T1310 · Arevi Yerkir
-- 2026-09-19T1308 · Xerental
-- 2026-09-19T1308 · Vihrmen Federation
-- 2026-09-19T1307 · Vihri
-- 2026-09-19T1307 · Urland
-- 2026-09-19T1307 · Urien
-- 2026-09-19T1307 · Ur
-- 2026-09-19T1307 · Pukluwuk
-- 2026-09-19T1307 · Jakub Ralpia
-- 2026-09-19T1307 · Gryphon
-- 2026-09-19T1306 · Eldmar
-- 2026-09-19T1306 · Cormian
-- 2026-09-19T1306 · Barlon
-- 2026-09-19T1306 · Adeen
-- 2026-09-19T1305 · Vulpus
-- 2026-09-19T1304 · Teggio
-- 2026-09-19T1304 · Othirdon
-- 2026-09-19T1303 · Mossbrook Affair
-- 2026-09-19T1303 · Meadland
-- 2026-09-19T1303 · Lissvalley
-- 2026-09-19T1303 · Knights of the Gryphon
-- 2026-09-19T1303 · Hubert of Tanverley
-- 2026-09-19T1302 · Gisvale
-- 2026-09-19T1301 · Cevolia
-- 2026-09-19T1300 · Battvian Civil War
-- 2026-09-19T1300 · Battvia
-- 2026-09-19T0348 · Unðimaðr
-- 2026-09-19T0342 · Ganbeast
-- 2026-09-19T0333 · Krelling
-- 2026-09-18T1328 · Farkiz II
-- 2026-09-18T0141 · Mahrab Visham
-- 2026-09-17T2128 · Karajal School of Insight
-- 2026-09-17T2033 · Jevana
-- 2026-09-17T2032 · Rugior
-- 2026-09-17T2011 · Carassa al-Kael
-- 2026-09-17T2011 · Ulesha Garyal
-- 2026-09-17T1744 · First War of Elbae Aggression
-- 2026-09-17T1734 · Karajal
-- 2026-09-17T1734 · Kwarzimi
-- 2026-09-17T1310 · Alparaz
-- 2026-09-17T1302 · Izrafur
-- 2026-09-17T1257 · Onar
-- 2026-09-17T1159 · Pixos
-- 2026-09-17T1158 · Neyadastes
-- 2026-09-17T1153 · Kasthemis
-- 2026-09-17T1150 · Cyraclion

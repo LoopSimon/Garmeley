@@ -9,7 +9,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Galiatar Mardim</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>Inkfingers</span>
     </div>
     <div class="wiki-row">

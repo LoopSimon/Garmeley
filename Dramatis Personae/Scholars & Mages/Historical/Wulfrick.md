@@ -8,7 +8,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Wulfrick von Inberg</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Elder</span>
     </div>
     <div class="wiki-row">

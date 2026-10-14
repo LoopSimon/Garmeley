@@ -10,7 +10,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jan van Swarn</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>of the Stone</span>
     </div>
     <div class="wiki-row">

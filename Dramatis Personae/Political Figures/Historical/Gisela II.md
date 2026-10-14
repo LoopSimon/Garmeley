@@ -9,7 +9,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Gisela Rianna Bring von Kor</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>the Good</span>
     </div>
     <div class="wiki-row">

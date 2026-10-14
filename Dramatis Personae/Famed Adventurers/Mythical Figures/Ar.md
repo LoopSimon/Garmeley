@@ -6,7 +6,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Ar Megyllion</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>of the Hills</span>
     </div>
     <div class="wiki-row">

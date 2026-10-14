@@ -1,7 +1,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Gudrun</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>Darnoda</span>
     </div>
     <div class="wiki-row">

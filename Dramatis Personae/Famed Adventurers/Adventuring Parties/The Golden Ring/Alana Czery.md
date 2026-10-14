@@ -6,7 +6,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Alana Czery</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>"the Mole"</span>
     </div>
     <div class="wiki-row">

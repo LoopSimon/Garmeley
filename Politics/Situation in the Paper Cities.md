@@ -16,7 +16,7 @@ The War lasted for 8 years and at the dawn of the 9th century, the royalist part
   
   
 
-Over 100 years later, the city of Vorella attempted to secede from the Battvian Throne as well and join ranks with the rich cities of the Gulf, however as war broke out again Queen Gisella V of Meadrath joined forces with Prince Canto I of Battvia in what many theorise to be an attempt to stop the spread of anti-monarchist thought in Meadrath's southern neighbour.
+Over 100 years later, the city of Vorella attempted to secede from the Battvian Throne as well and join ranks with the rich cities of the Gulf, however as war broke out again Queen Gisella IV of Meadrath joined forces with Prince Canto I of Battvia in what many theorise to be an attempt to stop the spread of anti-monarchist thought in Meadrath's southern neighbour.
 
 And so it was that for 9 long years, the soldiers and mercenaries of the Paper Cities fought against the armies of the Duchy of Battvia and reinforcements from Meadrath,a war that saw the first use of gunpowder as gnomish mortars rained terror on the battlefields and flintlock rifles were used by especially rich or lucky mercenaries.
 

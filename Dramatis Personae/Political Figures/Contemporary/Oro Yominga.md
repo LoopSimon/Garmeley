@@ -4,7 +4,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Oro Yominga</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Prince of Worms</span>
     </div>
     <div class="wiki-row">

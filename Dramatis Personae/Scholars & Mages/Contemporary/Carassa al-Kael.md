@@ -9,7 +9,7 @@
 <div class="wiki-infobox">
     <h4 class="wiki-header">Carassa al-Kael</h4>
     <div class="wiki-row">
-        <strong>Epitath</strong>
+        <strong>Epiteth</strong>
         <span>The Mirai</span>
     </div>
     <div class="wiki-row">

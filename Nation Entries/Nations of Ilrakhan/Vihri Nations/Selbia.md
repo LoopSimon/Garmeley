@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Selbia_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> Selbia is one of the major Vadcy within Vihr, it holds parts of the Expanse and is the southernmost Vadcy of the Realm, with a strong military culture, with a strong military culture. Its second largest city, Itarsky, is held by the Gri Michal of House Zrimiz.</p>
+<p> Selbia is one of the major Vadcy within Vihr, it holds parts of the Expanse and is the southernmost Vadcy of the Realm, with a strong military culture. Its second largest city, Itarsky, is held by the Gri Michal of House Zrimiz.</p>
 <h2>Geography</h2>
 <p>Selbia lies in the south of the Vihri Expanse, south of <a href="Breza" class="internal-link">Breza</a>, with the capital Ibozka directly south of Trydlew. The Ibor River runs through the heart of the Vadcy. In the south it reaches the valley of the Pilv, the river valley of Fairriver and the lands upriver of it, which Vihr took from <a href="Rean" class="internal-link">Rean</a> at the end of the Rean war in 306PA, a country of hills, mines and good arable land. Its southern tip is the town of Fairriver. Beyond it lie the Grevy mountains and the dangerous ogre country around them. The Fairriver Valley is the western road from Vihr into <a href="Grevenna" class="internal-link">Grevenna</a>.</p>
 <h2>History</h2>
