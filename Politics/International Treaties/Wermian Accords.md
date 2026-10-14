@@ -63,3 +63,5 @@ The Accords ban the practice, teaching or preservation of the following:
 <p>
 Signed in Stagbone Hall in the town of Morael, close to the remnants of Old Wermia, the Accords were very much dictated by the paramilitary Orders of the <a href="Church of Iztaw">Church of Iztaw</a>, that at the time enjoyed never before or since seen political power.
 Although the Accords also offered many monarchs and rulers foreign to Vihr justification to crack down on the political power of Mages within their own countries.</p>
+
+<p>The Accords were tested in Vihr itself in the Vihri War of Succession of 553 to 562PA. The Szinmo faction under Dobrov Szinmo took uncontrolled mages into its ranks and broke them openly, a breach that cost it the lords who had waited and helped hand the crown to <a href="Zawis I" class="internal-link">Zawis I</a>. <a href="Tytus" class="internal-link">Tytus</a> was canonised in 555PA as a symbol of how necessary they were.</p></p>

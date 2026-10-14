@@ -1,3 +1,28 @@
+- 2026-10-14T2221 · Alfin I
+- 2026-10-14T2219 · Jonek Two Tongues
+- 2026-10-14T2216 · Agnes I
+- 2026-10-14T2215 · Viago I
+- 2026-10-14T2214 · Zawis I
+- 2026-10-14T2214 · Waśko Ralpia
+- 2026-10-14T1640 · Complete Timeline
+- 2026-10-14T1638 · Kasimir
+- 2026-10-14T1638 · Iztaw
+- 2026-10-14T1637 · Wermian Accords
+- 2026-10-14T1637 · Tytus
+- 2026-10-14T1636 · Breza
+- 2026-10-14T1636 · Levazci
+- 2026-10-14T1633 · Trazlova
+- 2026-10-14T1633 · Opuzna
+- 2026-10-14T1632 · Honoured Assembly
+- 2026-10-14T1631 · Rulers of Vihr
+- 2026-10-14T1631 · Vihr
+- 2026-10-14T1630 · Szievek
+- 2026-10-14T1457 · Eye of Kasimir
+- 2026-10-14T1423 · Zavlech
+- 2026-10-14T1421 · Zervind II
+- 2026-10-14T1419 · Jakub Ralpia
+- 2026-10-14T1418 · Vormil III
+- 2026-10-14T1415 · Rovgi
 - 2026-10-14T0556 · Uhl
 - 2026-10-14T0555 · Order of the Silver Wheel
 - 2026-10-14T0555 · Yagund
@@ -6,31 +31,19 @@
 - 2026-10-14T0554 · Kortyr
 - 2026-10-14T0553 · Zovac Harlini
 - 2026-10-14T0553 · Church of Iztaw
-- 2026-10-14T0552 · Opuzna
-- 2026-10-14T0552 · Breza
-- 2026-10-14T0552 · Vihr
-- 2026-10-14T0549 · Complete Timeline
-- 2026-10-14T0549 · Rovgi
-- 2026-10-14T0547 · Wermian Accords
-- 2026-10-14T0546 · Vormil III
 - 2026-10-14T0544 · Taar
 - 2026-10-14T0543 · Nuv Werm
-- 2026-10-14T0543 · Iztaw
 - 2026-10-14T0543 · Ravenleaf Forest
 - 2026-10-14T0543 · Candleguard
 - 2026-10-14T0543 · Gethric Pogroms
 - 2026-10-14T0542 · Trydlew
-- 2026-10-14T0542 · Zavlech
 - 2026-10-14T0457 · Andre
 - 2026-10-14T0433 · Trinicism
 - 2026-10-14T0433 · The Incursion
 - 2026-10-14T0432 · Situation in the Paper Cities
 - 2026-10-14T0432 · The Alchemists Guild
-- 2026-10-14T0432 · Trazlova
 - 2026-10-14T0430 · Jana Rikolore
 - 2026-10-14T0430 · Valenty Sykes
-- 2026-10-14T0428 · Levazci
-- 2026-10-14T0428 · Szievek
 - 2026-10-14T0428 · Selbia
 - 2026-10-14T0427 · Torry
 - 2026-10-14T0422 · Ylva
@@ -92,10 +105,7 @@
 - 2026-10-14T0419 · Ahrmiz Saceren
 - 2026-10-14T0419 · Aessymia
 - 2026-10-14T0249 · Tloky
-- 2026-10-14T0210 · Honoured Assembly
 - 2026-10-14T0151 · Tadeuz Pilsud
-- 2026-10-14T0149 · Rulers of Vihr
-- 2026-10-14T0149 · Zervind II
 - 2026-10-14T0134 · Meadrath
 - 2026-10-14T0133 · Fredric
 - 2026-10-14T0133 · Garmeley
@@ -388,13 +398,3 @@
 - 2026-09-22T0237 · Tur Ajk
 - 2026-09-22T0201 · Murajk
 - 2026-09-21T1923 · White Wars
-- 2026-09-21T1923 · Golden Dusk
-- 2026-09-21T1419 · Half-Elf
-- 2026-09-21T1419 · Elf
-- 2026-09-21T1418 · Skemfing
-- 2026-09-21T0319 · Xarvin Jiballo
-- 2026-09-21T0318 · Viccolo di Pora
-- 2026-09-21T0318 · Gynla Pemo
-- 2026-09-21T0317 · Gharel Talnod
-- 2026-09-21T0316 · Darian Amouzgar
-- 2026-09-20T0413 · Standoff at Dimrods Shrine

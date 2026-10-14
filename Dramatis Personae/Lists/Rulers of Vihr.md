@@ -2,6 +2,8 @@
 [[Vihr]]
 [[Zervind II]]
 [[Vormil III]]
+[[Viago I]]
+[[Zawis I]]
 [[Honoured Assembly]]
 %%
 
@@ -10,7 +12,7 @@
 <h3>The Zav Dynasty</h3>
 <small>241PA - 501PA</small>
 
-<p>Viago I "Firespear", 241PA - 258PA</p>
+<p><a href="Viago I" class="internal-link">Viago I "Firespear"</a>, 241PA - 258PA</p>
 <p>Viago II, 258PA - 262PA</p>
 <p>Jasper I, 262PA - 262PA</p>
 
@@ -42,12 +44,12 @@
 <p>Viago VI "the Boy King", 530PA - 532PA</p>
 <p>Katerina I, 532PA - 553PA</p>
 
-*Vihri War of Succession*
+*Vihri War of Succession, 553PA - 562PA. Dobrov Szinmo of Szievek claimed the crown against Zawis of Nediv.*
 
 <h3>The Worocek Dynasty</h3>
 <small>562PA - 692PA</small>
 
-<p>Zawis I "Silverbeard", 562PA - 580PA</p>
+<p><a href="Zawis I" class="internal-link">Zawis I "Silverbeard"</a>, 562PA - 580PA</p>
 <p>Miskomir I, 580PA - 607PA</p>
 <p>Zawis II, 607PA - 629PA</p>
 <p>Kasimir III "the Pale", 629PA - 635PA</p>
