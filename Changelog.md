@@ -1,10 +1,34 @@
+- 2026-10-15T1415 · Hainach
+- 2026-10-15T1414 · Lyandra
+- 2026-10-15T0722 · Qalmyr
+- 2026-10-15T0722 · Luna Minor
+- 2026-10-15T0721 · Luna Major
+- 2026-10-15T0647 · Eight Years War
+- 2026-10-15T0602 · Complete Timeline
+- 2026-10-15T0534 · Kindly Lords
+- 2026-10-15T0533 · Garmish Succession Crisis
+- 2026-10-15T0532 · Garmeley
+- 2026-10-15T0531 · Forrington
+- 2026-10-15T0531 · Sunminster
+- 2026-10-15T0516 · Jonek Two Tongues
+- 2026-10-15T0516 · Agnes I
+- 2026-10-15T0515 · Elena Montegru
+- 2026-10-15T0515 · Meynar of Jorrenstead
+- 2026-10-15T0513 · Rulers of Vihr
+- 2026-10-15T0512 · Vihr
+- 2026-10-15T0508 · Patwin Tower
+- 2026-10-15T0507 · Dolm
+- 2026-10-15T0506 · Redflow
+- 2026-10-15T0505 · Rulers of Garmeley
+- 2026-10-15T0453 · Eye of Kasimir
+- 2026-10-15T0448 · Coster of Melmbirth
+- 2026-10-15T0446 · Mark
+- 2026-10-15T0445 · Third War of Elbae Aggression
+- 2026-10-15T0445 · Second War of Elbae Aggression
 - 2026-10-14T2221 · Alfin I
-- 2026-10-14T2219 · Jonek Two Tongues
-- 2026-10-14T2216 · Agnes I
 - 2026-10-14T2215 · Viago I
 - 2026-10-14T2214 · Zawis I
 - 2026-10-14T2214 · Waśko Ralpia
-- 2026-10-14T1640 · Complete Timeline
 - 2026-10-14T1638 · Kasimir
 - 2026-10-14T1638 · Iztaw
 - 2026-10-14T1637 · Wermian Accords
@@ -14,10 +38,7 @@
 - 2026-10-14T1633 · Trazlova
 - 2026-10-14T1633 · Opuzna
 - 2026-10-14T1632 · Honoured Assembly
-- 2026-10-14T1631 · Rulers of Vihr
-- 2026-10-14T1631 · Vihr
 - 2026-10-14T1630 · Szievek
-- 2026-10-14T1457 · Eye of Kasimir
 - 2026-10-14T1423 · Zavlech
 - 2026-10-14T1421 · Zervind II
 - 2026-10-14T1419 · Jakub Ralpia
@@ -108,13 +129,10 @@
 - 2026-10-14T0151 · Tadeuz Pilsud
 - 2026-10-14T0134 · Meadrath
 - 2026-10-14T0133 · Fredric
-- 2026-10-14T0133 · Garmeley
 - 2026-10-14T0124 · Leok
 - 2026-10-14T0122 · Kethricism
 - 2026-10-14T0121 · Human
 - 2026-10-14T0118 · Wermia
-- 2026-10-14T0116 · Lyandra
-- 2026-10-14T0115 · Eight Years War
 - 2026-10-14T0105 · Joakim zi Szarbel
 - 2026-10-14T0105 · Grachy
 - 2026-10-14T0104 · Alfred the Younger
@@ -148,7 +166,6 @@
 - 2026-10-13T2324 · Kamerzin
 - 2026-10-13T2322 · Qahori
 - 2026-10-13T2321 · Orc
-- 2026-10-13T2300 · Qalmyr
 - 2026-10-13T2258 · Calendars
 - 2026-10-13T2258 · Qinari
 - 2026-10-13T2258 · Starworship
@@ -156,8 +173,6 @@
 - 2026-10-13T2257 · Karrod
 - 2026-10-13T2256 · Sarhen
 - 2026-10-13T2256 · Urden
-- 2026-10-13T2242 · Luna Minor
-- 2026-10-13T2241 · Luna Major
 - 2026-10-13T2240 · Zolra
 - 2026-10-13T2240 · Qastor
 - 2026-10-13T2240 · Ikval
@@ -333,7 +348,6 @@
 - 2026-10-01T1745 · The Malagul
 - 2026-09-30T1532 · Fjorisjom Saga
 - 2026-09-30T0459 · Trifflands
-- 2026-09-30T0426 · Elena Montegru
 - 2026-09-30T0328 · Merengrad
 - 2026-09-30T0326 · Manymirror
 - 2026-09-29T2156 · Asza
@@ -371,7 +385,6 @@
 - 2026-09-24T1855 · The Concrete Plane
 - 2026-09-24T1855 · The Ideal Plane
 - 2026-09-24T1853 · Kerlaes
-- 2026-09-24T1853 · Hainach
 - 2026-09-24T1853 · Grivil
 - 2026-09-24T1852 · Excavators Guild of Butera
 - 2026-09-24T1852 · Nurlight
@@ -385,16 +398,3 @@
 - 2026-09-22T1832 · Svirfneblin
 - 2026-09-22T1746 · Trog
 - 2026-09-22T1742 · Troll
-- 2026-09-22T1741 · Halfling
-- 2026-09-22T1738 · Nua
-- 2026-09-22T0752 · Tur Filash
-- 2026-09-22T0741 · Onosiam
-- 2026-09-22T0718 · Vuron
-- 2026-09-22T0601 · Kilvea
-- 2026-09-22T0543 · Tur Aman
-- 2026-09-22T0442 · Tur Vuron
-- 2026-09-22T0313 · Biadarkyr
-- 2026-09-22T0249 · Tur Enzal
-- 2026-09-22T0237 · Tur Ajk
-- 2026-09-22T0201 · Murajk
-- 2026-09-21T1923 · White Wars

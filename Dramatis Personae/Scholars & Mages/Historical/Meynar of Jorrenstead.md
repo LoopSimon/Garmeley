@@ -6,7 +6,7 @@
     <h4 class="wiki-header">Meynar Stipjan of Jorrenstead</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Historian, advisor to Zigmund II</span>
+        <span>Historian, advisor to Zigmund III</span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>

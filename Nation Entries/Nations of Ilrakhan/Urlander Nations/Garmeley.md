@@ -1,17 +1,15 @@
 %%
-[[Kindly Lords]]
-[[Gethricism]]
-[[Kerlaes]]
+[[Kindly Lords]] [[Gethricism]] [[Kerlaes]] [[Urland]] [[Rulers of Garmeley]] [[Garmish Succession Crisis]] [[Redflow]] [[Forrington]] [[Sunminster]] [[Dolm]] [[Patwin Tower]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Duchy of Garmeley</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span>Feudal Monarchy</span>
+        <span>Feudal Duchy</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Civil War</span>
+        <span>Vacant, see <a href="Garmish Succession Crisis" class="internal-link">Garmish Succession Crisis</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -44,74 +42,16 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Garmeley_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
+<p>The Duchy of Garmeley is the rich heartland of southern Ur, a country of rivers, silver mines and old spirit worship that lies between the Trollback Mountains and the Stormy Sea. For almost six centuries it was a kingdom of the Riverkings of Garm, and since 648PA it has been a duchy of great and half-independent lords, ruled from the Riverthrone at <a href="Redflow" class="internal-link">Redflow</a>. The Garmish are the most distinct people of the Urien lands, and their country has always been thought of as the jewel of Ur. In 927PA it has no undisputed ruler. Duchess Agnes I died childless in 922PA, and her death has split the Duchy between the Gethric north and the spirit-worshipping south in the war known as the <a href="Garmish Succession Crisis" class="internal-link">Garmish Succession Crisis</a>.</p> 
 
-<p>South of the splintered lands of <a href="Urland" class="internal-link">Urland</a> lies the rich and peaceful Duchy of Garmeley, an independent nation profiting from arable land, rich silver mines and trade with all of its neighbours.</p>
 
-<hr class="wiki-hr">
-<h3>History</h3>
-<p>The Tribes of Garm were subjugated by the <a href="Rakh" class="internal-link">Rakhian Empire</a> in the early 3rd Century BA, with many of the old Rakhian roads still in use to this day. During the height of the Rakhian dominance the Province of Garm was no longer considered a borderland but instead a core part of the Empire.</p>
+<h2>Geography</h2> <p>Garmeley lies in the middle of southern Ur. To the north are the Eld Valley and the petty kingdom of <a href="Eldmar" class="internal-link">Eldmar</a>, and to the north-west the knights of <a href="Urbridge" class="internal-link">Urbridge</a>. In the west the hills of the Lock and the river Trinmo separate the Duchy from <a href="Trinvale" class="internal-link">Trinvale</a>, and south of them lies the Kerlaen Wilderness. In the south the flatlands run down to the Vale of Rean and <a href="Hainach" class="internal-link">Hainach</a>. In the east the <a href="Trollbacks" class="internal-link">Trollback Mountains</a> stand between Garmeley and <a href="Vihr" class="internal-link">Vihr</a>, with the dwarven hold of <a href="Xer-Kol" class="internal-link">Xer-Kol</a> within them, and in the south-east the Stormy Sea washes the coast.</p> 
+<p>The nation is defined by its rivers. The Melm rises in the northern highlands, passes Jorrenstead and Redflow and runs south into Lake Forr at Forrington. The Trinmo, the largest river in the known world, comes down from the west past Niedrest and Calmbrook, crosses the south of the Duchy by Lake Forr and reaches the sea near Patwin Tower, and it is the great trade road of the realm. In the east the Kol River runs by Koltree, and in the far south the Thul reaches the sea at Thulmouth.</p> 
 
-<p>After the Eruption of Al-Akka and the end of the Rakhian Empire, the native tribes of Garm rose up against the remaining Rakhian people in union with the newly formed Kingdom of <a href="Urland" class="internal-link">Urland</a>. Alfin I was crowned as the first Riverking of Garm in matrimony with the Nyad Zivalla and entered into the Old Pact, vowing to protect the Gladewood in exchange for the cooperation of the <a href="Kindly Lords" class="internal-link">Kindly Lords</a>.</p>
-
-<p>With the death of King Ahlef II during the <a href="Eight Years War" class="internal-link">Eight Years War</a> at the <b>Battle of Greyfields</b> (648PA), the line of Alfin ended. The successor, Tyla of Aldale, chose to reject the crown and instead proclaim herself <b>Duchess of Garmeley</b> to prevent a fatal civil war. Under the subsequent rule of Dukes Albrecht V, Eadwin II, and the current <b>Duchess Agnes I</b>, the land has enjoyed over a century of peace.</p>
-
-<small><i>see <a href="Garmish Civil War" class="internal-link">Garmish Civil War</a></i></small>
-
-<hr class="wiki-hr">
-<h3>Geography</h3>
-<p>Garmeley borders the minor Urlandi Realms of <a href="Trinvale" class="internal-link">Trinvale</a>, Eldmar and Urbrdige in the North-West, the Kingdom of Vihr in the East and <a href="Hainach" class="internal-link">Hainach</a> in the South. It encapsulates the entirety of the <b>Gladewood</b> and is bordered by the Stormy Sea and the <a href="Trollbacks" class="internal-link">Trollback</a> Mountains.</p>
-
-<p>The nation is defined by its rivers, notably the <b>Melm</b> and the <b>Trinmo</b> (the largest river in the known world), which flows into Lake Forr. The <b>Garmish Planes</b> in the south represent the lowest and most arable elevation of the country, while the <b>Thull</b> river serves as the major economic trade route.</p>
-
-<hr class="wiki-hr">
-<h3>Politics</h3>
-<p>The Duchy is ruled through <b>absolute cognatic primogeniture</b>. Since the transition from a Kingdom to a Duchy, power has become less centralized, with feudal lords enjoying significant autonomy. The primary nobility form the <b>Council of Lords</b>, including the Counts of Melmbirth, Forrington, Tewkford, and Sunminster.</p>
-
-<p>Garmeley maintains strong alliances with <a href="Trinvale" class="internal-link">Trinvale</a>, <a href="Hainach" class="internal-link">Hainach</a>, and <a href="Urbridge" class="internal-link">Urbridge</a>, and acts as the official <b>Defender of the City of Reanport</b>. The <b>College of Patwin Tower</b> regulates magical affairs, adhering to the <a href="Wermian Accords" class="internal-link">Wermian Accords</a>.</p>
-
-<hr class="wiki-hr">
-<h3>Demographics</h3>
-<p>The population is estimated at <b>million</b>. The largest city is <b>Forrington</b> (44k), followed by the capital <b>Redflow</b> (). While <a href="Reanport" class="internal-link">Reansport</a> is not officially part of the Duchy, it houses nearly  citizens and remains under Garmish protection.</p> 
-
-<ul>
-    <li><b>Humans:</b> Garmish majority, with Urian and Hainachi minorities.</li>
-    <li><b>Dwarves:</b> Sizable populations in Dolm and Whistlemine.</li>
-    <li><b>Gnomes & Elves:</b> Mostly concentrated in Redflow and Jorrenstead.</li>
-</ul>
-
-<hr class="wiki-hr">
-<h3>Religion</h3>
-<small><i>see <a href="Kindly Lords" class="internal-link">Kindly Lords</a></i></small>
-<p>The state religion is the worship of the <b>Kindly Lords of Glade and River</b>, overseen by the Leafpriests of Sunminster. While the <a href="Gods of Forge and Fire" class="internal-link">Gods of Forge and Fire</a> are respected, <a href="Gethricism" class="internal-link">Gethric</a> communities are merely tolerated for diplomatic reasons. Small <a href="Elf" class="internal-link">Elven</a> minorities continue to uphold the faith of the Paragons of <a href="Elbae" class="internal-link">Elbae</a>.</p>
-
-<h2>People of Interest</h2>
-
- Agnes, first of her name of House Redflow
-	 late Duchess of House Garm
-	 
-Coster of House Melmo
-	 Lord of Melmbirth, leader of the Green Banner League
-	 
-Hinek of House Forrington
-	Count of Forrington, leader of the Garmish Alliance
-	
-Mirosh Gocar
-	Leafpriest of Sunminster, undeclared
-	
-Gustav Aichel
-	Lord-Mayor of Jorrenstead, declared for the Green Banner League
-	
-Kylian Brezina
-	Castellan of Redflow Keep, declared for the Green Banner League
-	
-Nadya of House Celak
-	Countess of Dimglade, declared for the Green Banner League
-	
-Roderick of House Jiric
-	Count of Aldale, declared for the Garmish Alliance
-	
-Elric of House Thul
-	Count of Thulmouth, declared for the Garmish Alliance
-	
-Vaelon Divis
-	Archmage of Patwin Tower, declared for the Garmish Alliance
+<p>The land rises from south to north. The Garmian Flatlands in the south are the lowest and most fertile part of the country, and the Barrens, a belt of poor heath, lie in the middle. In the west the hills of the Lock hold the mines of Dolm. In the north-east the Ares Highlands rise toward the mountains, with Lake Dim and Dimglade at their foot and the dark Ironwood behind. The whole of the south-east belongs to the Gladewood, also called the Greenglade, the great forest that the Riverkings swore to protect and that the Duchy still holds entire.</p> 
+<h2>Demographics</h2> 
+<p>The Garmish make up most of the population, with Urien in the north-west, Reani in the east and Hainachi in the south. Dwarves live in the mining towns of Dolm and Whistlemine, and gnomes and elves mostly in Redflow and Jorrenstead. A fair number of half-elves live in the Duchy, and small elven communities keep the faith of the Paragons of Elbae. The largest city is Forrington on Lake Forr, with some 44,000 people, followed by the capital Redflow with about 30,000 and the port of Thulmouth with about 24,000. The city of <a href="Reanport" class="internal-link">Reanport</a> is not part of the Duchy, but the Duchy is its official Defender and it lives under Garmish protection.</p> <h2>Economy</h2> <p>Garmeley is rich, and it has been rich for a long time. The flatlands of the south feed the country and send grain to its neighbours, and the silver of Dolm and Whistlemine pays for much of the rest. The Garmsmark, also called the Silvermark, has been the coin of the realm for centuries and is still its regulated <a href="Mark" class="internal-link">currency</a>, although in the ports of the south the Gryphon is now the favoured coin.</p> 
+<p>Trade is the other source of wealth. The goods of Battvia and the Buteran Gulf come through the pass of Ogul-Vosko to Niedrest and down the Trinmo into the Duchy, and Thulmouth sends them on across the Stormy Sea. Most of the trade of Hainach is done with Garmeley, and the barges of Lake Forr and the Melm carry the grain and silver of the interior to the sea.</p> <h2>Religion</h2> <small><i>see <a href="Kindly Lords" class="internal-link">Kindly Lords</a></i></small> <p>The state religion is the worship of the Kindly Lords, the spirits of river, glade and hill that the Garmish and Reani have honoured since before the Rakhian conquest. The Duchy and Hainach are their strongest homes. Palmir the Gladelord rules the Greenglade, the Farrman has Lake Forr, Grandmother Dilm keeps the Ironwood and the Karolian walks the burrows of the middle country, and each has a local following that is rarely found outside its own domain. The faith has little organisation and no church. Its priests are the Leafpriests, oracles, soothsayers, augurs and druids who speak between the spirits and the common people, and the most revered of their seats is <a href="Sunminster" class="internal-link">Sunminster</a>, where the Karolian is especially worshipped. The oldest bond of the faith is the Old Pact of the Riverkings, which binds the realm to protect the Gladewood in exchange for the cooperation of the spirits.</p> 
+<p>The Garmish resisted the Gethric conversions of the Silver Age and never took the <a href="Gethricism" class="internal-link">Gethric</a> faith as a state church, but Gethric communities have lived in the Duchy for centuries and are now the majority in much of the north. Garmeley has given the Gethric canon one of its best loved saints in <a href="Dorian" class="internal-link">Dorian the Kind</a>, who was born a Garmish commoner in 641PA. The dwarves of Dolm and Whistlemine honour the Gods of Forge and Fire. The divide between the two main faiths has always followed the divide between the poorer, thinly settled north and the rich south, and it is the root of the present war.</p> 
+<p>The war has split the faith as it has split the country. The priests and druids of the Farrman have taken up arms for the south, while other cults and many Leafpriests are divided. After the northern raiders laid waste to the east, most of the druids withdrew into the Gladewood, and some survivors of the eastern villages have joined them and hold up a guerrilla war from the shadows of the trees. The northern forces do not dare to follow them in, for fear that the druids and the spirits of the wood will tear them to shreds.</p> <h2>Politics</h2> <small><i>see <a href="Rulers of Garmeley" class="internal-link">The Rulers of Garmeley</a></i></small> <p>The Duchy is ruled through absolute cognatic primogeniture, by which the eldest child inherits regardless of sex. The ruler sits on the Riverthrone at Redflow Keep, but since the end of the kingdom power has been less centralised, and the feudal lords enjoy great autonomy. The great nobles form the Council of Lords, which includes the Counts of Melmbirth, Forrington and Thulmouth, the Countess of Dimglade and the Count of Koltree. The Duchy keeps no standing army beyond the household of the Riverthrone, and war is made by the levies and knights of the lords.</p> 
+<p>Garmeley is a party to the <a href="Wermian Accords" class="internal-link">Wermian Accords</a> and the Treaty of Danipol and takes its place in the councils of the continent. Its closest ties are with Hainach and the Trinvale cities, through trade and in Hainach's case through religion as well, and these ties decided the south's choice of side in the present war. Urbridge and Eldmar, its neighbours in the north, have chosen the other. Magical affairs are regulated by the College of <a href="Patwin Tower" class="internal-link">Patwin Tower</a>, which holds to the Wermian Accords and the <a href="Orenburg Pact" class="internal-link">Orenburg Pact</a>.</p> <h2>History</h2> <h3>The Tribes and the Riverkings</h3> <p>The Tribes of Garm lived around Lake Forr, and in 310BA they were subjugated by the Rakhian Empire, along with the neighbouring tribes of Ares. In the centuries of Rakhian rule the Province of Garm ceased to be a borderland and became a core part of the empire, and many of the old Rakhian roads are still in use. After the Eruption of Al-Akka and the end of the empire, the Garmish rose against the Rakhian officials who remained, in union with the newly formed Kingdom of <a href="Urland" class="internal-link">Urland</a>, whose founder Versil I had himself risen from the Province of Garm.</p> <p><a href="Alfin I" class="internal-link">Alfin I</a>, called Leafback, was crowned the first Riverking of Garm in 51PA, in matrimony with the nyad Zivalla. He entered the Old Pact, vowing to protect the Gladewood in exchange for the cooperation of the Kindly Lords, and his son Hyrek I followed him on the Riverthrone. Garmeley became one of the four great realms of the Silver Age, with Urland, Arester and <a href="Kerlaes" class="internal-link">Kerlaes</a>. When Kerlaes fell in 327PA, the city of Tringlen swore loyalty to the Riverking and was taken into the realm, and Arester was later absorbed between Garmeley and Urland. In 544PA Urland took the lands east of Lake Dim in the War of the Lake. In 609PA Garmish excavators found rich silver under Dolm Mountain and flooded the morlock shafts beneath it, an act remembered as the Dolm Catastrophe.</p> <h3>The Eight Years War and the Duchy</h3> <p>In 644PA Vihr marched on Garmeley, and the <a href="Eight Years War" class="internal-link">Eight Years War</a> began. In 648PA King Ahlef II fell at the Battle of Greyfields, and the line of Alfin ended. The next in succession, Tyla of Aldale, refused the crown and proclaimed herself Duchess of Garmeley to prevent a fatal civil war, and her house took the name of Redflow. The war went on under her until 652PA and ended as a Garmish victory.</p> <p>In the centuries after the war, Garmeley's fighting was done abroad. Duke Jakub III sent Garmish knights to the last stand of Urland against the hobgoblins in the 690s, and in the <a href="Second War of Elbae Aggression" class="internal-link">second</a> and <a href="Third War of Elbae Aggression" class="internal-link">third</a> wars against the Elbae Sultanate Garmeley stood with the Reani Coalition, losing among others Count Gregor Riedek of Melmbirth. The Dance of Husks of 854PA and the Wolfsplague of 910PA struck the Duchy harder than most. Under the Dukes Albrecht V and Eadwin II, and then under Duchess Agnes I, the land enjoyed a long peace.</p> <h3>The Succession Crisis</h3> <p>Agnes I died at the Midsummer Festival of 922PA, killed by the rogue sorcerer <a href="Jonek Two Tongues" class="internal-link">Jonek Two-Tongues</a>, who had escaped from prison. A party of adventurers, <a href="Piero & Friends" class="internal-link">Piero and Friends</a>, hunted him down. Agnes was twenty-six and had no children, and her heir by blood was her nephew <a href="Hynek of Forrington" class="internal-link">Hynek of Forrington</a>, the son of her half-sister. <a href="Coster of Melmbirth" class="internal-link">Coster of Melmbirth</a> refused him, claimed the Riverthrone by ancient custom and raised the Green Banner League for the Gethric north, and the south answered with the Garmish Alliance. The war that followed has drawn in Eldmar, Urbridge, Trinvale and Hainach, and the <a href="Knights of the Unicorn" class="internal-link">Knights of the Unicorn</a> of Vihr. It has seen the siege and fall of Dolm, the sack of Sunminster and the battle of Jestrick Fields, and in February 927PA Hynek was killed by an assassin outside Redflow, which the Alliance has been besieging since the end of 926. The war is not over, and for the full account see the <a href="Garmish Succession Crisis" class="internal-link">Garmish Succession Crisis</a>.</p> <h2>Society and Culture</h2> <p>The Garmish are a river people, and the old customs have lasted. The Garmish Skull, the ram's skull with crimson horns and red wings that marks the Duchy's arms, is an old sign of the Kindly Lords. The Riverkings were once married to a daughter of the Feywild, and although the custom lapsed with the coming of feudalism, the idea that the realm and the spirits share a bond still gives the Garmish their sense of themselves. The Midsummer Festival is the great feast of the year. The Duchy has also been a land of scholars. The historian <a href="Meynar of Jorrenstead" class="internal-link">Meynar of Jorrenstead</a> studied at Redflow College, and two archmages of Patwin Tower, <a href="Avero" class="internal-link">Avero</a> and <a href="Rugior" class="internal-link">Meyzar Rugior</a>, were born in the Duchy.</p> <h2>Places of Note</h2> <p>Redflow is the capital and Forrington the greatest city, and Thulmouth is the port of the south coast. Jorrenstead, at the bend of the Melm, is the largest town of the north, and Melmbirth is the seat of the Counts of Melmbirth. Sunminster, south of the Barrens, is the holy city of the Kindly Lords and the chief shrine of the Karolian, and Dolm is the mining town of the Lock. Dimglade stands on Lake Dim, Koltree on the Kol River, Aldale on the Trinmo and Tringlen in the west. Patwin Tower stands alone at the edge of the Gladewood, and Fellpass Castle watches the pass into the mountains.</p> <h2>People of Interest</h2> <p><a href="Agnes I" class="internal-link">Agnes I of House Redflow</a>, late Duchess of Garmeley<br><a href="Hynek of Forrington" class="internal-link">Hynek of House Forr</a>, late Count of Forrington, leader of the Garmish Alliance<br><a href="Coster of Melmbirth" class="internal-link">Coster of House Riedek</a>, Count of Melmbirth, leader of the Green Banner League<br>Almos Brezina, Castellan of Redflow Keep, declared for the Green Banner League<br>Nadya of House Celak, Countess of Dimglade, declared for the Green Banner League<br>Gustav Aichel, Lord-Mayor of Jorrenstead, declared for the Green Banner League<br>Roderick of House Jiric, Baron of Aldale, declared for the Garmish Alliance<br>Elric of House Thul, Count of Thulmouth, declared for the Garmish Alliance<br>Vaelon Divis, Archmage of Patwin Tower, declared for the Garmish Alliance<br>Mirosh Gocar, Leafpriest of Sunminster, undeclared</p>

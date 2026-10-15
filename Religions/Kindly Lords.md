@@ -21,18 +21,18 @@ There is well documented evidence that ancient Garmish and Reani peoples sacrifi
 
 The evolution of the Druidic worship of powerful natural spirits into regional and local cults was a gradual one, but can largely be attributed to the emergency of Feudalism and a shift in the way the population was distributed, specifically in Garmeley, old traditions such as the ceremonial marriage of the Riverking of Garm to a Daughter of the Feywild of Greenglade fading away due to political developments have led to a gradual distance between the physical realms more preformative worship and the spiritual realms reception and reaction to it.
 
-Whereas once deities such as the Farrman would often physically commune with Priests and Druids, events such as these are exceedingly rare.
+Whereas once deities such as the Farrman would often physically commune with Priests and Druids, events such as these are exceedingly rare. The faith has no church in the Gethric sense. Its priests, the Leafpriests, are diviners and go-betweens of the spirits and the common people, oracles, soothsayers, augurs and druids, and they are organised only loosely.
 The last time a spirit has actively interfered in an event was when the Karolian, a spirit of the Burrows, was seen in active conflict with the rogue Mage Jonek Two-Tongues.
 
 A list of the known major Spirits and their domains of power and worship:
 
  - Palmir the Gladelord, the mystical Spiritlord of the Greenglade, husband to the Feyqueen Rilfana.
 
-- The Farrman, the Water-Spirit of Lake Farr, worshipped primarily by the citizen of Forrington and its adjacent settlements.
+- The Farrman, the Water-Spirit of Lake Forr, worshipped primarily by the citizen of Forrington and its adjacent settlements. Its priests and druids fight for the Garmish Alliance in the Succession Crisis.
 
 - Grandmother Dilm, a Great Tree spirit, sometimes appearing in the form of an old women of oaken skin, who holds domain in the Ironwood in northern Garmeley.
 
-- The Karolian, a godlike spirit who takes the form of a hooded man, walking the burrows of central Garmeley and protecting the remains of those buried within.
+- The Karolian, a godlike spirit who takes the form of a hooded man, walking the burrows of central Garmeley and protecting the remains of those buried within. He is worshipped above all at Sunminster, which lies just south of the Barrens.
 
 - lmelmo, a spirit deity akin to a trickster deities, who is said to have left his domain, the River Melm, and been imprisoned in the mountain range of the Lock, in western Garmeley.
 

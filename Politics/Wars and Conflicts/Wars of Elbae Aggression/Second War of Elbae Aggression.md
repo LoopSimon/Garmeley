@@ -53,7 +53,7 @@
  Prince Agia I "the Broken"<br>
  Baron Marion of Triloska † <br>
  Ser Esper "Whiteshield" Theral †<br>
- Count Heyrim of Thoulmouth † <br>
+ Count Heyrim of Thulmouth † <br>
  Count Deydrik of Forrington <br>
  Lady Gistan of Melldock † <br>
  </div>
@@ -78,7 +78,7 @@
 <small><i>Ulsuns Army crosses the Mesovo</i></small>  
 </div>
 
-<p>The Battle of Mesovo opened the Hainach campaign in 781PA as Paraks forces crossed the river from Dor Beher into Hainachi territory. The coalitions response was hampered from the outset by a critical timing failure: Count Heyrim of Thoulmouth, commanding the powerful Knights who represented Garmeleys contribution to the coalitions southern defence, arrived late. How late and why have been debated in Garmish military history since, but the effect was immediate, Hainachs forces were forced to fight without the Garmish reinforcement that had been expected, and the crossing succeeded. Ser Esper "Whiteshield" Theral, a Hainachi knight of considerable personal reputation, fought with distinction in Hainachs defence at Mesovo and would continue to appear at every subsequent major engagement of the campaign.</p>
+<p>The Battle of Mesovo opened the Hainach campaign in 781PA as Paraks forces crossed the river from Dor Beher into Hainachi territory. The coalitions response was hampered from the outset by a critical timing failure: Count Heyrim of Thulmouth, commanding the powerful Knights who represented Garmeleys contribution to the coalitions southern defence, arrived late. How late and why have been debated in Garmish military history since, but the effect was immediate, Hainachs forces were forced to fight without the Garmish reinforcement that had been expected, and the crossing succeeded. Ser Esper "Whiteshield" Theral, a Hainachi knight of considerable personal reputation, fought with distinction in Hainachs defence at Mesovo and would continue to appear at every subsequent major engagement of the campaign.</p>
 
 <p>At the Horad Isthmus, Gri Waskor zi Treblin of Vihr, who had survived the First War as coalition commander and retained both his command and his fierce racial convictions about elves, led the coalitions attempt to break through at Dor Horad and relieve the pressure on Hainach. He did not succeed. Mosul Horvan held the fortification against sustained pressure, and Waskor zi Treblin died in the fighting at the Battle of Horads insurmountable fortifications, the Vihri Gri whose ideological hatred of elves had been a defining force in the coalitions character across both wars, killed at the bottleneck he could not breach. Lord Arjak of Bilin, commanding Grevennas forces at Horad, assumed what coordination remained possible for the northern theatre.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Horadhold.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
@@ -89,7 +89,7 @@
 
 <h2>The Hainach Campaign</h2>
 
-<p>With Kherovas withdrawal confirmed and the Horad held, Parak advanced deeper into Hainach. The coalitions rearguard tried to slow him at Rithea, where Count Heyrim of Thoulmouth, belatedly present after his late arrival at Mesovo, mounted an impressive defensive action to cover the Reani retreat. It cost him his life. Count Deydrik of Forrington, the other senior Garmish commander, took over after Heyrims death and fought at Rithea and subsequently at Ankros. Ser Esper Theral was present at both engagements, still fighting with honour and excellence on the losing side.</p>
+<p>With Kherovas withdrawal confirmed and the Horad held, Parak advanced deeper into Hainach. The coalitions rearguard tried to slow him at Rithea, where Count Heyrim of Thulmouth, belatedly present after his late arrival at Mesovo, mounted an impressive defensive action to cover the Reani retreat. It cost him his life. Count Deydrik of Forrington, the other senior Garmish commander, took over after Heyrims death and fought at Rithea and subsequently at Ankros. Ser Esper Theral was present at both engagements, still fighting with honour and excellence on the losing side.</p>
 
 <p>The years between Rithea and Ankros were years of slow and grinding Sultanate advance through a country whose population had not asked for this war, whose coalition allies were increasingly unable to support it, and whose commander, Prince Agia I of Pikris, was watching the options available to her narrow with each passing season. Kherovas separate peace removed any remaining hope of the spellbreakers intervention that had saved Grevenna in the First War. The coalition's northern forces were pinned at the Horad. Garmeley's most effective field commander was dead at Rithea and Parak was advancing slowly but certainly into Hainachs heartland.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Esper.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  

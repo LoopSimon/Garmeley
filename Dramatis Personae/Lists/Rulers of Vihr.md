@@ -28,7 +28,9 @@
 
 *[[Honoured Assembly]] formally established 384PA under Zervind II*
 
-<p>Boris I "the Pious", 388PA - 407PA</p>
+<p>Boris II "Hornsword", 635PA - 648PA</p>
+
+*Eight Years War with Garmeley, 644PA - 652PA. Boris II died in 648PA, and Valena I saw the war to its end.*
 
 <p>Jasper III, 407PA - 438PA</p>
 <p>Martis I, 438PA - 450PA</p>

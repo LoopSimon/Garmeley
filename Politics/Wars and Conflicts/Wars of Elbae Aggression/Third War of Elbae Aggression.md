@@ -60,7 +60,7 @@
  Lord Tabis of Slobosi † <br>
  Sir Boris of Szulblood †<br>
  Duke Aras II of Garm<br>
- Count Ulrik of Thoulmouth<br>
+ Count Ulrik of Thulmouth<br>
  Count Gregor Riedek of Melmbirth †<br>
  Sir William "the Staunch" of Merville<br>
  Sir Richard of Rassel †<br>

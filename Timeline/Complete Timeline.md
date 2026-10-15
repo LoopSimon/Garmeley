@@ -13,8 +13,9 @@
 	        <div class="timeline-item" data-date="210000BA">Trog cultures dominate the pre historic underlands</div>
 	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
 	        <div class="timeline-item" data-date="130000BA">Oldest evidence of ancient seafaring from the island of Sarash</div>
-	        <div class="timeline-item" data-date="120000BA">Era of Ash</div>
-	        <div class="timeline-item" data-date="110000BA">Astafir develop sentience</div>
+	        <div class="timeline-item" data-date="120000BA">Birth of Luna Minor; Era of Ash and Ice begins</div>
+	        <div class="timeline-item" data-date="111000BA">Era of Ash and Ice ends</div>
+	        <div class="timeline-item" data-date="100500BA">Astafir develop sentience</div>
 	        <div class="timeline-item" data-date="100000BA">Earliest evidence for upright Bihra in southern Nirydia</div>
 	        <div class="timeline-item" data-date="75000BA">The Tisrock Comet hits in Aisligos, The Age of Roil ends in Aisligos and the land rests</div>
 	        <div class="timeline-item" data-date="50000BA">Birth of the Alder in Aisligos, start of the Aldercycle</div>
@@ -281,7 +282,7 @@
             <div class="timeline-item" data-date="30PA">The Nurlight is seen for the first time from beyond the Wastes; <br>Burning Decades have ended</div>
             <div class="timeline-item" data-date="32PA">Battle of Wyt Hill, <br>Ogrelords are driven back into the Yellow Moor, Pilvian Vale and mountain ranges</div>
             <div class="timeline-item" data-date="35PA">Great Pagri Migration Period in eastern Nirydia begins</div>
-            <div class="timeline-item" data-date="51PA">Alfred I is crowned as first Riverking of Garm</div>
+            <div class="timeline-item" data-date="51PA">Alfin I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat, re-establishes the old tradition of the Masqar</div>
             <div class="timeline-item" data-date="69PA">Approximate Creation of the Auguri Stone of Burd</div>
             <div class="timeline-item" data-date="72PA">Drow emerge in northern Nirydia from the underlands, Slaughter of the First Night</div>
@@ -532,7 +533,7 @@
             <div class="timeline-item" data-date="639PA">Trazlov Consortium is founded</div>
             <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis</div>
             <div class="timeline-item" data-date="642PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, <br>Lisil Period begins in the Twintail Empire</div>
-            <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley</div>
+            <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley begins the Eight Years War</div>
             <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields, King Ahlef II of Garmeley dies and the line of Alfin ends</div>
             <div class="timeline-item" data-date="649PA">The former Lords of middle Aerlan form the Kingdom of Erlmondy</div>
@@ -665,7 +666,6 @@
             <div class="timeline-item" data-date="816PA">Barzin Laram ascends as the Lord of Marrow in Erlmondy</div>
             <div class="timeline-item" data-date="817PA">Pact of Orenburg is declared by the original Orenburg Nine</div>
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
-            <div class="timeline-item" data-date="819PA">Meynar of Jorrensteads "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum;<br> Bykmali Explorers set foot on mainland Aisligos again, a plague quickly begins to spread in Grynborg and adjacent settlements in the tirean isles are quarantined</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins;<br> Battle of Skyroar</div>
@@ -680,7 +680,7 @@
             <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
-            <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori</div>
+            data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>

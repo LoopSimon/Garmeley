@@ -16,7 +16,7 @@ The Duchess passed on at the age of 26 unmarried and without any offspring, leav
 Soon after her death, Coster of Melmbirth declares the Green Banner League and his claim to the Riverthrone of Redflow, in reference to ancient custom.
 The Green Banner is a primarily religious group, assembled to support the interests of the majority Gethric northern lands of the Duchy, powerful local supporters include Lord Kylian the Castellan of Redflow Keep, Countess Nadya of Dimglade and the Lord-Mayor Gustav of Jorrenstead.
 
-While their members cannot hope to compete with the riches of the south, and the northern lands are less densely populated, the foreign support for the Green Banner League is large.
+While their members cannot hope to compete with the riches of the south, and the northern lands are less densely populated, the foreign support for the Green Banner League is large, and since 925PA Kherova, offended by the Niedrest Incident, has added its official financial and political backing.
 Primarily aligned with the Urien Lords of Eldmar and Urbridge, the most influential ally of Coster is the powerful Kingdom of Vihr across the Trollback Mountains.
 Even though the conversion of the rich Garmeley to Gethricism is a main motivation, any supporter of the Count of Melmbirth may count on large influence upon the Realm in the case of his victory, considering his vague claim and weak position.
 
@@ -26,17 +26,18 @@ In response <a href="Hynek of Forrington" class="internal-link">Count Hynek of F
 The rich and traditionally spirit-worshipping South, is supported primarily by the Princedom of Hainach, as blood ties bind the nobility of Pikris to the Count of Forrington and the Trinvale Republics who enjoy old and profitable trade relations with the cities on the mouth of the Trinmo.
 
 <h2> The War</h2>
-In 923PA, Lady Regia of house Forrington, the younger Sister of Count Hynek of Forrington and a potential claimaint to the River Throne was captured and taken hostage  following a raid on Vormy Estate by the forces of the Green Banner League. After news reached Forrington, Count Hynek had declared open war on the so called Garmish Alliance, declaring them traitors to the country and common criminals. The military capture of the 14 year old girl was condemned by the southern lords unanimously and led to a declaration of support by the Prince of Hainach inviting foreign intervention from other sides.
+In 923PA, Lady Regia of house Forrington, the younger Sister of Count Hynek of Forrington and a potential claimant to the River Throne was captured and taken hostage  following a raid on Vormy Estate by the forces of the Green Banner League. After news reached Forrington, Count Hynek had declared open war on the so called Garmish Alliance, declaring them traitors to the country and common criminals. The military capture of the 14 year old girl was condemned by the southern lords unanimously and led to a declaration of support by the Prince of Hainach inviting foreign intervention from other sides.
 
 The Green Banner League secured support from various mercenary and adventuring bands, promising rich loot and pay from the wealthy southerners but failed to secure the backing of any singular throne. Notable Prince Jakub of Vihr, who had visited the city of Niedrest to joust at the Tourney of Citykeeper Rimond in the February 923 PA, led a militant force of knights in support of Count Coster, while the royal family of Vihr itself refused to acknowledge Jakubs actions as anything more than individual heroics.
 
-The Siege of Dolm began in the early autumn of 923PA, as the City had declared for the Green Banner largely in an effort to gain independence from Forrintgon and Tringlen and was in possession of impressive mountain fortifications. While most of Hyneks armies were assembled around Dolm, Forrington and the western Flatlands, Coster decided against marching his forces to relieve the city at uncertain odds against the numerically superior southern forces.
-Instead a large scale pillaging campaign began within the eastern countryside, destroying vast amounts of farmsteads and villages east of the barrens, culminating in the sack of Koltree.
+The Siege of Dolm began in the early autumn of 923PA, as the City had declared for the Green Banner largely in an effort to gain independence from Forrington and Tringlen and was in possession of impressive mountain fortifications. While most of Hyneks armies were assembled around Dolm, Forrington and the western Flatlands, Coster decided against marching his forces to relieve the city at uncertain odds against the numerically superior southern forces.
+Instead a large scale pillaging campaign began within the eastern countryside, destroying vast amounts of farmsteads and villages east of the barrens, culminating in the sack of Koltree. The druids of the Gladewood withdrew into the forest before the raiders, and survivors of the eastern villages joined them and began a guerrilla war from the shadows of the trees, which the northern forces do not dare to enter for fear of the druids and the spirits of the wood. The priests and druids of the Farrman, meanwhile, took up arms openly for the southern alliance.
 
-In response, while Hynek himself remained with a smaller force at Dolm, Baron Roderick of Aldale gathered the majority of forces of the southern alliance at Forrington. The seasoned military commander secured Koltree and marched on the neutral bishopric of Sunminster, denouncing the northern lords as "Gethric Barbarians and Villains". The token military force of the church-city itself was not enough to offer any resistance to Aldale and yielded after a minor engagement.
+
+In response, while Hynek himself remained with a smaller force at Dolm, Baron Roderick of Aldale gathered the majority of forces of the southern alliance at Forrington. The seasoned military commander secured Koltree and marched on the neutral holy city of Sunminster, denouncing the northern lords as "Gethric Barbarians and Villains". The token military force of the church-city itself was not enough to offer any resistance to Aldale and yielded after a minor engagement.
 Bishop Pityr of Sunminster was taken as hostage and the entire Church looted, a plethora of artefacts and gold being shipped south towards Forrington.
 
-Following the taking of Sunminster, the southern Lords and a vast contingent of hainach soldiers under Baron Roderick of Aldale met the combined forces of the Green Banner League in open battle at Jestrick Fields in 925PA, north of Koltree. The bloody battle ended in a devastating loss for the northern army and the death of Kylian of Redflow Keep and the two sons and heirs of Nadya of Dimglade, while the southern army sustained only minor losses but suffered the death of Count Miklas of Koltree at the hands of Jakub of Vihr.
+Following the taking of Sunminster, the southern Lords and a vast contingent of hainach soldiers under Baron Roderick of Aldale met the combined forces of the Green Banner League in open battle at Jestrick Fields in 925PA, north of Koltree. The bloody battle ended in a devastating loss for the northern army and the death of Kylian of Redflow Keep, whose son Almos took over the castellany, and of the two sons and heirs of Nadya of Dimglade, while the southern army sustained only minor losses but suffered the death of Count Miklas of Koltree at the hands of Jakub of Vihr.
 
 The Sack of Sunminster and the devastating defeat of the northern armies at Jestrick Fields spelled dire news for Costers League, but led to unforeseen developments. As the War became increasingly more divided on religious lines and not just cultural and political allegiances, and one of the oldest bishoprics in the country was destroyed, foreign sentiment shifted.
 in the early months of 926, both the Queen of Eldmar and the old Lord Gorlan of Urbridge pledged their support and allegiance to the Green Banner, while many adventurers from Vihr arrived to support the heroic struggle against vile heathens of the young Prince Jakub.
@@ -60,7 +61,7 @@ Count Elric of Thulmouth
 Count Miklas of Koltree
 Countess Ryvena of Tringlen
  Baron Roderick of Aldale
-Archmage Kynis of Patin Tower
+Archmage Vaelon Divis of Patwin Tower
 
 Prince-Regent Yorgos, Prince of Diniv
 Baroness Pigella of Avern
@@ -75,6 +76,7 @@ Oleg of Zacin, General of the Trinvale
 Count Coster of Melmbirth
 Countess Nadya of Dimglade
 Lord Kylian, Castellan of Redflow Keep
+Lord Almos, Castellan of Redflow Keep
 Lord-Mayor Gustav of Jorrenstead
 
 Prince Jakub of Vihr, Knight of the Order of the Unicorn

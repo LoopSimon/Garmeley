@@ -22,7 +22,7 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>927PA, The Barrens</span>
+		<span>922PA, The Barrens</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>

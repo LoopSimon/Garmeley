@@ -1,6 +1,7 @@
 %%
 [[Urien]]
 [[Garmeley]]
+[[Jonek Two Tongues]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Agnes</h4>
@@ -18,7 +19,7 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>923PA</span>
+        <span>922PA</span>
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
