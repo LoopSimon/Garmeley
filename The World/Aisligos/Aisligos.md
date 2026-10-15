@@ -1,7 +1,6 @@
 %%
 [[The New World]]
-[[Verzi]]
-[[Peadyr]]
+[[The Tis]]
 %%
 <p>Aisligos is both the overall name for the "new world in the west" encompassing the massive landmasses and islands across the Tirean Ocean, as well as the largest single landmass of them, usually referred to as a continent in itself. This article will discuss the Landmass of Aisligos, for the greater continental Sphere see <a href="The New World" class="internal-link">The New World</a>. It stretches from icy wastes in the north down to the warm waters of the Silken Sea and is connected to Verzi along a small landbridge, making Verzi in itself part of the continent of Aisligos.</p>
 <p>The most populous sentient and civilized races in the lands of Aisligos in the modern day are the humanoid Narzoi and the insectoid Pharang.</p>

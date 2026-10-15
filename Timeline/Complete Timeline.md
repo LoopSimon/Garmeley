@@ -17,7 +17,7 @@
 	        <div class="timeline-item" data-date="111000BA">Era of Ash and Ice ends</div>
 	        <div class="timeline-item" data-date="100500BA">Astafir develop sentience</div>
 	        <div class="timeline-item" data-date="100000BA">Earliest evidence for upright Bihra in southern Nirydia</div>
-	        <div class="timeline-item" data-date="75000BA">The Tisrock Comet hits in Aisligos, The Age of Roil ends in Aisligos and the land rests</div>
+	        <div class="timeline-item" data-date="75000BA">The Tis, a comet, breaks apart as it nears the world and its main body strikes the far side of Luna Major; the Tisrock hits in Aisligos, The Age of Roil ends in Aisligos and the land rests</div>
 	        <div class="timeline-item" data-date="50000BA">Birth of the Alder in Aisligos, start of the Aldercycle</div>
 	        <div class="timeline-item" data-date="40000BA">Humans can be found everywhere in Inara, colonization of the Hykmar, Zefellis and Sirenna.</div>
 	        <div class="timeline-item" data-date="35000BA">Approximate dating for the murals on the Spire of On</div>
@@ -688,7 +688,7 @@
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas;<br>Edmund Teriador dies of Self Poisoning</div>
-            <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia</div>
+            <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia;<br>The comets of the Tis return, as they do every few centuries, and are seen over the following years</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree and beginning of the Great Eastern War;<br>"Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms;<br>The united sertovi colony of New Rav on Peadyr is destroyed following hostile encounters with the local Narzoi tribe of the Rele</div>
             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate as White Wars begin in Behera</div>

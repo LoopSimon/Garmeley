@@ -1,18 +1,27 @@
+- 2026-10-15T1624 · Globus
+- 2026-10-15T1623 · The Tis
+- 2026-10-15T1621 · The Sun
+- 2026-10-15T1621 · Aisligos
+- 2026-10-15T1620 · Alder
+- 2026-10-15T1620 · Wispmer
+- 2026-10-15T1619 · Complete Timeline
+- 2026-10-15T1619 · Starworship
+- 2026-10-15T1618 · Qalmyr
+- 2026-10-15T1618 · Qinari
+- 2026-10-15T1617 · Path of the Second Moon
+- 2026-10-15T1617 · Zolra
+- 2026-10-15T1617 · Qastor
+- 2026-10-15T1612 · Luna Minor
+- 2026-10-15T1612 · Luna Major
+- 2026-10-15T1606 · Conflux
 - 2026-10-15T1426 · Salvia
 - 2026-10-15T1425 · Ilonism
 - 2026-10-15T1424 · Luca
-- 2026-10-15T1423 · Path of the Second Moon
 - 2026-10-15T1423 · Ikval
-- 2026-10-15T1422 · Zolra
-- 2026-10-15T1422 · Qastor
 - 2026-10-15T1420 · Calendars
 - 2026-10-15T1418 · Hainach
 - 2026-10-15T1414 · Lyandra
-- 2026-10-15T0722 · Qalmyr
-- 2026-10-15T0722 · Luna Minor
-- 2026-10-15T0721 · Luna Major
 - 2026-10-15T0647 · Eight Years War
-- 2026-10-15T0602 · Complete Timeline
 - 2026-10-15T0534 · Kindly Lords
 - 2026-10-15T0533 · Garmish Succession Crisis
 - 2026-10-15T0532 · Garmeley
@@ -172,8 +181,6 @@
 - 2026-10-13T2324 · Kamerzin
 - 2026-10-13T2322 · Qahori
 - 2026-10-13T2321 · Orc
-- 2026-10-13T2258 · Qinari
-- 2026-10-13T2258 · Starworship
 - 2026-10-13T2257 · Dyrrim
 - 2026-10-13T2257 · Karrod
 - 2026-10-13T2256 · Sarhen
@@ -258,7 +265,6 @@
 - 2026-10-11T0925 · Adate
 - 2026-10-11T0909 · Riarang
 - 2026-10-11T0909 · Red Scars
-- 2026-10-11T0909 · Aisligos
 - 2026-10-11T0718 · Lagan
 - 2026-10-10T0734 · Idir
 - 2026-10-10T0734 · Lario
@@ -269,7 +275,6 @@
 - 2026-10-09T1643 · Hiqae
 - 2026-10-09T1643 · Pharang
 - 2026-10-09T1643 · Heire
-- 2026-10-09T1642 · Alder
 - 2026-10-09T1641 · Frugg
 - 2026-10-09T1629 · Verzi
 - 2026-10-09T1254 · Welcome
@@ -290,9 +295,7 @@
 - 2026-10-08T1839 · Durfall
 - 2026-10-08T1704 · Mior
 - 2026-10-08T0740 · Ulrike Metzen
-- 2026-10-08T0737 · Wispmer
 - 2026-10-08T0708 · Phiodales
-- 2026-10-08T0656 · Conflux
 - 2026-10-07T1857 · Mazol
 - 2026-10-07T1856 · Ophaqim
 - 2026-10-07T1855 · Zumi
@@ -314,7 +317,6 @@
 - 2026-10-05T1706 · Cities of Dreams
 - 2026-10-05T1704 · Perrin Diar
 - 2026-10-05T1704 · Geldfield Unie van Vrijhandel
-- 2026-10-05T1608 · Globus
 - 2026-10-05T1606 · Molemor
 - 2026-10-05T1520 · The Poem of the Bad Omen
 - 2026-10-05T1519 · The Golden Ring
@@ -396,5 +398,3 @@
 - 2026-09-23T1238 · Ued al-Raban
 - 2026-09-23T1214 · Hiraz Bluebeard
 - 2026-09-22T1834 · Gnome
-- 2026-09-22T1832 · Krili
-- 2026-09-22T1832 · Svirfneblin
