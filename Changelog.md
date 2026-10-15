@@ -1,4 +1,12 @@
-- 2026-10-15T1415 · Hainach
+- 2026-10-15T1426 · Salvia
+- 2026-10-15T1425 · Ilonism
+- 2026-10-15T1424 · Luca
+- 2026-10-15T1423 · Path of the Second Moon
+- 2026-10-15T1423 · Ikval
+- 2026-10-15T1422 · Zolra
+- 2026-10-15T1422 · Qastor
+- 2026-10-15T1420 · Calendars
+- 2026-10-15T1418 · Hainach
 - 2026-10-15T1414 · Lyandra
 - 2026-10-15T0722 · Qalmyr
 - 2026-10-15T0722 · Luna Minor
@@ -79,7 +87,6 @@
 - 2026-10-14T0422 · Shasha Gurnakov
 - 2026-10-14T0422 · Skemril
 - 2026-10-14T0422 · Sergey Hirl
-- 2026-10-14T0422 · Salvia
 - 2026-10-14T0422 · Rulers of the Beheran Elves
 - 2026-10-14T0422 · Rox
 - 2026-10-14T0421 · Remillion
@@ -144,7 +151,6 @@
 - 2026-10-14T0021 · Kareli Hierarchy
 - 2026-10-14T0021 · Elven Dynasties
 - 2026-10-14T0021 · Lizun I
-- 2026-10-14T0020 · Path of the Second Moon
 - 2026-10-14T0020 · Sirmon Rezan
 - 2026-10-14T0019 · Abaleq
 - 2026-10-14T0019 · Il Haena
@@ -166,16 +172,12 @@
 - 2026-10-13T2324 · Kamerzin
 - 2026-10-13T2322 · Qahori
 - 2026-10-13T2321 · Orc
-- 2026-10-13T2258 · Calendars
 - 2026-10-13T2258 · Qinari
 - 2026-10-13T2258 · Starworship
 - 2026-10-13T2257 · Dyrrim
 - 2026-10-13T2257 · Karrod
 - 2026-10-13T2256 · Sarhen
 - 2026-10-13T2256 · Urden
-- 2026-10-13T2240 · Zolra
-- 2026-10-13T2240 · Qastor
-- 2026-10-13T2240 · Ikval
 - 2026-10-13T2040 · War of Horn and Fang
 - 2026-10-13T2039 · Jean du Jera
 - 2026-10-13T2037 · Gisela IV
@@ -396,5 +398,3 @@
 - 2026-09-22T1834 · Gnome
 - 2026-09-22T1832 · Krili
 - 2026-09-22T1832 · Svirfneblin
-- 2026-09-22T1746 · Trog
-- 2026-09-22T1742 · Troll

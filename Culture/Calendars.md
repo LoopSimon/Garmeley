@@ -17,4 +17,4 @@ It is Commonly used in lands on the Beheran Subcontinent.
 
 **The Alder Calendar**
 Usually called the Alder Calendar, this is a lunar calendar that bases each month on a full cycle of the Moon's phases, lunation, without regard for the solar year. Its current year 0 is dated to approximately 819PA. Notably the Calendar is "reset" during times of great importance by the Narzoi, while other cultures such as the pharang tend to keep to the "true calendar", that dates the year 0 to approximately 4720BA, making it the oldest kept calendar in the known world.
-The Alder Calendar observes Luna Major that completes a lunar orbit roughly every 39.5 days, as such the inaran calendars that date a month to exactly 40 days tend to drift away from the Alder Calendar.
+The Alder Calendar observes Luna Major, whose phases run through a full cycle roughly every 39.5 days, as such the inaran calendars that date a month to exactly 40 days tend to drift away from the Alder Calendar.

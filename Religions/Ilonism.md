@@ -2,7 +2,7 @@
 <small><i>The Dog of the Wheel</i></small>
 </div>
 <p>Ilonism, also known as "The Cult of the Wheel" is a polytheistic Faith, often ascribed as a philosophy, that worships the so called "divine Wheel", the three goods that make up the spans of this wheel are Agmor, Welmo and Ruxis, representing the past, the present and the future.
-The Wheel is generally understand in the ilonist sense as a process of transformation of the world around oneself through oneself first, seen best within its first tenant.</p>
+The Wheel is generally understood in the ilonist sense as a process of transformation of the world around oneself through oneself first, seen best within its first tenet.</p>
 <p>"Ilon" refers to the beheran word for truth, usually represented as the centre of the wheel that the three divine gods spin on as its spokes.
 Ilonism is treated as a distinct tradition with its own scriptures and ritual systems but has long been closely connected with beheren folk religions, spirit worship and elemental cults.</p>
 
