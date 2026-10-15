@@ -1,3 +1,9 @@
+- 2026-10-15T1826 · Shimun
+- 2026-10-15T1826 · Ralzig
+- 2026-10-15T1826 · Gahenna
+- 2026-10-15T1822 · History of Astronomy
+- 2026-10-15T1752 · Kasthemis
+- 2026-10-15T1751 · Tripparch
 - 2026-10-15T1724 · Elven Paragonworship
 - 2026-10-15T1724 · Elven Dynasties
 - 2026-10-15T1723 · Behera
@@ -392,9 +398,3 @@
 - 2026-09-25T1657 · Glintstone
 - 2026-09-25T0236 · Dulakis
 - 2026-09-24T1928 · Tragna
-- 2026-09-24T1924 · Taggazan
-- 2026-09-24T1856 · Trinvale
-- 2026-09-24T1855 · The Concrete Plane
-- 2026-09-24T1855 · The Ideal Plane
-- 2026-09-24T1853 · Kerlaes
-- 2026-09-24T1853 · Grivil
