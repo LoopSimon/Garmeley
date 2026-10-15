@@ -206,6 +206,7 @@
             <div class="timeline-item" data-date="339BA">Approximate founding of the City of Firocco</div>
             <div class="timeline-item" data-date="338BA">Later Addacian Empire conquers the great City of Tuhrl, later Thulmouth, later Addacian Golden Age begins </div>
             <div class="timeline-item" data-date="330BA">Collapse of the Voktator Civilization in modern day Geol & Dandry</div>
+            <div class="timeline-item" data-date="322BA">Shimun of Hantepe compiles the Night Tables, joining the rakhi diaries of the sky to the models of the cyracli schools</div>
             <div class="timeline-item" data-date="314BA">Garm and Ares become rakhi provinces</div>
             <div class="timeline-item" data-date="313BA">End of the Rahaz Dynasty</div>
             <div class="timeline-item" data-date="310BA">Subjugation of the Tribes of Garm & Ares</div>
@@ -370,6 +371,7 @@
             <div class="timeline-item" data-date="327PA">The United Forces of Arester and Urland conquer Kerleas, Kerlan nobility and resistance flees into the southern  Wilderness</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="330PA">Ardol of the House of Gismar forms the Kingdom of Gisvale</div>
+            <div class="timeline-item" data-date="328PA">Ralzig, a Gethric Minister, writes the Ordered Heavens, the Globus-centred Cosmology that will hold the schools of the west for nearly six centuries</div>
             <div class="timeline-item" data-date="331PA">Karajal founds the School of Insight at Alparak</div>
             <div class="timeline-item" data-date="332PA">The Duchy of Nied is created by the Kings of Urland to oversee old Kerlaen</div>
             <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
@@ -439,6 +441,7 @@
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="495PA">Leveli conquest of central Amurez, Conclave of 495 canonises Vazena of Kairos</div>
             <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan</div>
+            <div class="timeline-item" data-date="497PA">Gahenna of Jiravid writes On the Wheeling of the Globus, the first known account of a Globus that circles the Sun, which finds no following</div>
 			<div class="timeline-item" data-date="497PA">The Thuni Narzoi of Bethun begin crossing the Heroes Grave and make first contact with the Senso of southern Peadyr</div>
 			<div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter</div>
@@ -682,7 +685,7 @@
             <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
-            data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>
+            <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is founded in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
@@ -737,10 +740,11 @@
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresses the public at the University of Jera, birth of Diarism</div>
+	        <div class="timeline-item" data-date="897PA">Reanport University, under Korman van Schipwig, takes up the treatise of Gahenna and teaches the Wheeling beside the Cosmology of Ralzig</div>
             <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath</div>
-            <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy;<br>The Eye of Kasimir is completed in Szievek</div></div>
+            <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy;<br>The Eye of Kasimir is completed in Szievek</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -752,6 +756,7 @@
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
             <div class="timeline-item" data-date="905PA">Ulrike Metzen publishes "Conflux: Tide of the Stars";<br> Dalesire is chartered as a colony of Runsby on the Loreli Islands in the New World</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
+            <div class="timeline-item" data-date="908PA">The magi towers of Patwin and Edessa adopt the Wheeling of Gahenna</div>
             <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal;<br> Tourney at Mitrad</div>
             <div class="timeline-item" data-date="908PA"> Treaty of Kulum </div>
             <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published</div>
@@ -763,6 +768,7 @@
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Orthel II is elected High-Bisop of Iztaw</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment.</div>
             <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
+            <div class="timeline-item" data-date="916PA">The Karajal School of Insight accepts the Wheeling of Gahenna</div>
             <div class="timeline-item" data-date="918PA">Battle of Modim Cave;<br>Independence Movements grow once again in Droil</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>

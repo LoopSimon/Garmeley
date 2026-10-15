@@ -1,13 +1,24 @@
-- 2026-10-15T1826 · Shimun
+- 2026-10-15T1840 · Complete Timeline
+- 2026-10-15T1836 · Shimun
+- 2026-10-15T1835 · History of Astronomy
+- 2026-10-15T1834 · Korsfall College
+- 2026-10-15T1833 · Jiravid
+- 2026-10-15T1833 · Karajal School of Insight
+- 2026-10-15T1833 · Galiatar Inkfingers
+- 2026-10-15T1832 · Korman van Schipwig
+- 2026-10-15T1832 · Ulrike Metzen
+- 2026-10-15T1832 · The Tis
+- 2026-10-15T1831 · Starworship
+- 2026-10-15T1831 · Tripparch
+- 2026-10-15T1831 · Cult of the Dancing God
+- 2026-10-15T1830 · Luna Minor
+- 2026-10-15T1830 · The Sun
 - 2026-10-15T1826 · Ralzig
 - 2026-10-15T1826 · Gahenna
-- 2026-10-15T1822 · History of Astronomy
 - 2026-10-15T1752 · Kasthemis
-- 2026-10-15T1751 · Tripparch
 - 2026-10-15T1724 · Elven Paragonworship
 - 2026-10-15T1724 · Elven Dynasties
 - 2026-10-15T1723 · Behera
-- 2026-10-15T1723 · Complete Timeline
 - 2026-10-15T1722 · Globus
 - 2026-10-15T1721 · Conflux
 - 2026-10-15T1721 · Elf
@@ -18,18 +29,14 @@
 - 2026-10-15T1718 · Nawiunic Event
 - 2026-10-15T1713 · Viago I
 - 2026-10-15T1658 · Nua
-- 2026-10-15T1623 · The Tis
-- 2026-10-15T1621 · The Sun
 - 2026-10-15T1621 · Aisligos
 - 2026-10-15T1620 · Alder
 - 2026-10-15T1620 · Wispmer
-- 2026-10-15T1619 · Starworship
 - 2026-10-15T1618 · Qalmyr
 - 2026-10-15T1618 · Qinari
 - 2026-10-15T1617 · Path of the Second Moon
 - 2026-10-15T1617 · Zolra
 - 2026-10-15T1617 · Qastor
-- 2026-10-15T1612 · Luna Minor
 - 2026-10-15T1612 · Luna Major
 - 2026-10-15T1426 · Salvia
 - 2026-10-15T1425 · Ilonism
@@ -142,7 +149,6 @@
 - 2026-10-14T0420 · Gudrun
 - 2026-10-14T0420 · Giuseppe Dimandi
 - 2026-10-14T0420 · Gisela II
-- 2026-10-14T0420 · Galiatar Inkfingers
 - 2026-10-14T0420 · Fasmer II
 - 2026-10-14T0420 · Egill
 - 2026-10-14T0420 · Cernela nu Bas
@@ -274,7 +280,6 @@
 - 2026-10-11T1401 · Brothers War
 - 2026-10-11T1357 · Strait of Horad
 - 2026-10-11T1245 · Haozon
-- 2026-10-11T1221 · Cult of the Dancing God
 - 2026-10-11T1053 · Yellow War
 - 2026-10-11T1036 · Sword of the Abjurer
 - 2026-10-11T0925 · Adate
@@ -309,7 +314,6 @@
 - 2026-10-09T0459 · Ginnil
 - 2026-10-08T1839 · Durfall
 - 2026-10-08T1704 · Mior
-- 2026-10-08T0740 · Ulrike Metzen
 - 2026-10-08T0708 · Phiodales
 - 2026-10-07T1857 · Mazol
 - 2026-10-07T1856 · Ophaqim
@@ -394,7 +398,3 @@
 - 2026-09-25T2057 · Ptamon
 - 2026-09-25T2016 · Children of Dust
 - 2026-09-25T2008 · Bassara
-- 2026-09-25T1717 · Wasteland of Rakh
-- 2026-09-25T1657 · Glintstone
-- 2026-09-25T0236 · Dulakis
-- 2026-09-24T1928 · Tragna

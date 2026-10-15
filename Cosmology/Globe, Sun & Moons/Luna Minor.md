@@ -62,5 +62,9 @@
 <p>About 120,000 years ago a large asteroid struck the near side of Luna Major. The blast threw up a cloud of debris, and the fragments collided and gathered into Luna Minor, so that it is made of the moon's own missing piece. The crater is the scar on the face of Luna Major that never turns away.</p>
 <p>Some of the debris fell on the Globus as meteorites, and the heavy meteor showers that followed are the likely cause of the Era of Ash and Ice that began in the same age (see the <a href="Complete Timeline" class="internal-link">Complete Timeline</a>). The impact changed nothing in the orbit of Luna Major or the tides, and Luna Minor itself holds no more than a seventy-millionth of the great moon's weight, too little to move any orbit or any sea. The age of the impact is far beyond the reach of any tradition, and no people remember it.</p>
 
+<h2>In Aisligos</h2>
+<p>The Geipra of <a href="Aisligos" class="internal-link">Aisligos</a> know the small moon as the Dancing God, for the way it loops about the great moon through the night, and take it for a god that circles the world itself (see <a href="Cult of the Dancing God" class="internal-link">Cult of the Dancing God</a>).</p>
+
+
 <h2>In Qalmyr</h2>
 <p>The Orcs of the <a href="Qalmyr" class="internal-link">Qalmyr</a> faith know the small moon as <a href="Zolra" class="internal-link">Zolra</a>, the Ruinous Mother, and the elves call her Hidja. To the Qari she is everything that Qastor cast away in the <a href="Ikval" class="internal-link">Ikval</a>, and her bright light, forever circling him and never able to leave his side, is read as the sign of what was torn from him. The First Path takes her small size for a sign of her lesser power. The Zolraii of the <a href="Path of the Second Moon" class="internal-link">Path of the Second Moon</a> keep their feasts by her round, counted in days of three and four.</p>

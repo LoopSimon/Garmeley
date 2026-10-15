@@ -12,4 +12,7 @@
 <p>Marhim Ereyon, The Onyx Eye</p>
 <p>The Amber Eye of Karajal is currently vacant.</p>
 
-<p>The School oversees the broader Beheran magical Establishment via the so called <a href="Magisters Ring" class="internal-link">"Magisters Ring"</a>, handling arcane mandates and licenses as best it can with authority granted to it via the Sultans Edict of 521PA. With this Edict, the School was elevated over the other, some hundreds of years older, Houses of Learning that also taught the Arcane, however notably the School of Insight restricts itself to only matters of magick.</p>
+<p>The School oversees the broader Beheran magical Establishment via the so called <a href="Magisters Ring" class="internal-link">"Magisters Ring"</a>, handling arcane mandates and licenses as best it can with authority granted to it via the Sultans Edict of 521PA. With this Edict, the School was elevated over the other, some hundreds of years older, Houses of Learning that also taught the Arcane, however notably the School of Insight restricts itself to only matters of magick.</p>  
+  
+
+<p>Though it teaches no astronomy of its own, the School was among the first houses of the arcane to accept the Wheeling of <a href="Gahenna" class="internal-link">Gahenna</a>, about 916PA, within a few years of the universities and the magi towers of the west. Its city of Alparak had kept the shadow measures on which Gahenna built, and her vindication was taken at Karajal as a vindication of elven learning (see <a href="History of Astronomy" class="internal-link">History of Astronomy</a>).</p>

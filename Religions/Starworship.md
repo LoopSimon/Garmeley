@@ -18,5 +18,9 @@
 <h2>The Broken Star</h2>
 <p>Beside the fixed stars the Cyclopi kept the record of one that moves. The Broken Star, the family of comets of the <a href="The Tis" class="internal-link">Tis</a>, comes back together every few centuries and crosses the sky for some years, and its returns were entered in the temple tables of Cyraclion for generations. It has no god and no place among the six powers, for it is not a light that stays, but the League read each return as a sign that the heavens were shifting, and <a href="Tripparch" class="internal-link">Tripparch</a> is said to have been the first to see that the returns were one cycle. The meteors that fall each year from the same quarter of the sky are held to be its dust.</p>
 
+<h2>The Heavens in Doctrine</h2>
+<p>The models that <a href="Tripparch" class="internal-link">Tripparch</a> drew for the Moons and the Sun are held within Starworship as part of the order of the heavens, and the Cyclopi of <a href="Lorqis" class="internal-link">Lorqis</a> teach them still. They set the Moons and the Sun on circles about the Globus, and to move the Globus would be to unsettle them. Starworship has made no ruling on the Wheeling of <a href="Gahenna" class="internal-link">Gahenna</a> (see <a href="History of Astronomy" class="internal-link">History of Astronomy</a>), and the Cyclopi who keep the tables are said to be divided on it.</p>
+
+
 <h2>Names</h2>
 <p>The names the Cyclopi gave these stars remain the names by which they are known in the wider world, even where other peoples revere them differently. Each star's page lists the names used by the other cultures. The Qari, who know many of the same stars as the <a href="Qinari" class="internal-link">Qinari</a> of Qalmyr, have names of their own for them.</p>
