@@ -8,7 +8,10 @@
 <p>Elves possess humanoid statue with noticeable differences, the largest one being their almost parchment like skin, extended wire like hair, massive eyes, and elongated hands and ears.
 They stop carrying children at a young age of around 30, which has historically led to various attempts of artificially growing their population through science and magic and a rather protective attitude to the younger generations within society.</p>
 
-<p>All Elves own an organ unique to their race, the Jawahr. A relatively small bean-shaped bulb that sits behind the Pelvis protected by its bone. The exact function and evolutionary necessity for it are unknown and research into this is essentially non existent in public circles, although the Jawahr takes a primary place along with heart, liver and brain during the process of Paragon-mummification.</p>
+<p>All Elves own an organ unique to their race, the Jawahr. A relatively small bean-shaped bulb that sits behind the Pelvis protected by its bone. The exact function and evolutionary necessity for it are unknown and research into this is essentially non existent in public circles, although the Jawahr takes a primary place along with heart, liver and brain during the process of Paragon-mummification. It is larger and more responsive to planar energy than the same organ in the <a href="Drow" class="internal-link">Drow</a>, as the few who have seen both will say (see <a href="Jawahr" class="internal-link">Jawahr</a>).</p>  
+  
+
+<p>Elven tradition keeps no account of the beginning of the people other than the Nawiu, a tale of a gift from the outer gods that raised those who dared to question existence as it is into a greater light, told for so long that it has changed beyond recognition. The rest is asked in the closed halls of Karajal and answered nowhere (see <a href="Nawiunic Event" class="internal-link">Nawiunic Event</a>).</p>
 
 
 

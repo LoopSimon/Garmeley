@@ -7,4 +7,6 @@ The largest mountain range on Inara are the <a href="Cloudscratchers" class="int
 Behera can be divided into three subcontinents, the Beheran Desert in the north, the Kaito Subcontinent in the East and the Vinjira Subcontinent in the West.
 <a href="Kaito" class="internal-link">Kaito</a> and <a href="Vinjira" class="internal-link">Vinjira</a> are divided by the intercontinental Smaragd Sea, that flows through the Moons Gate into the greater Beheran Ocean.
 
-The [[Tageyo]] Field, emanating from the island of the same name in the southern Smaragd Sea is perhaps the most unique feature of the continent, its exact function or origin is unknown but in effect it suppresses planar energy in its field.
+The [[Tageyo]] Field, emanating from the island of the same name in the southern Smaragd Sea is perhaps the most unique feature of the continent, its exact function or origin is unknown but in effect it suppresses planar energy in its field.  
+  
+The caves beneath eastern Behera hold the stone <a href="Lizion" class="internal-link">Lizion</a>, found nowhere else, and lie under a broad region where the magnetic field that guards the Globus is weaker than anywhere else in the world (see <a href="Globus" class="internal-link">Globus</a>).

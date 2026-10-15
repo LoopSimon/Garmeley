@@ -1,10 +1,22 @@
-- 2026-10-15T1624 · Globus
+- 2026-10-15T1724 · Elven Paragonworship
+- 2026-10-15T1724 · Elven Dynasties
+- 2026-10-15T1723 · Behera
+- 2026-10-15T1723 · Complete Timeline
+- 2026-10-15T1722 · Globus
+- 2026-10-15T1721 · Conflux
+- 2026-10-15T1721 · Elf
+- 2026-10-15T1720 · Drow
+- 2026-10-15T1719 · Sphinx
+- 2026-10-15T1718 · Lizion
+- 2026-10-15T1718 · Jawahr
+- 2026-10-15T1718 · Nawiunic Event
+- 2026-10-15T1713 · Viago I
+- 2026-10-15T1658 · Nua
 - 2026-10-15T1623 · The Tis
 - 2026-10-15T1621 · The Sun
 - 2026-10-15T1621 · Aisligos
 - 2026-10-15T1620 · Alder
 - 2026-10-15T1620 · Wispmer
-- 2026-10-15T1619 · Complete Timeline
 - 2026-10-15T1619 · Starworship
 - 2026-10-15T1618 · Qalmyr
 - 2026-10-15T1618 · Qinari
@@ -13,7 +25,6 @@
 - 2026-10-15T1617 · Qastor
 - 2026-10-15T1612 · Luna Minor
 - 2026-10-15T1612 · Luna Major
-- 2026-10-15T1606 · Conflux
 - 2026-10-15T1426 · Salvia
 - 2026-10-15T1425 · Ilonism
 - 2026-10-15T1424 · Luca
@@ -43,7 +54,6 @@
 - 2026-10-15T0445 · Third War of Elbae Aggression
 - 2026-10-15T0445 · Second War of Elbae Aggression
 - 2026-10-14T2221 · Alfin I
-- 2026-10-14T2215 · Viago I
 - 2026-10-14T2214 · Zawis I
 - 2026-10-14T2214 · Waśko Ralpia
 - 2026-10-14T1638 · Kasimir
@@ -158,7 +168,6 @@
 - 2026-10-14T0026 · Ramper
 - 2026-10-14T0026 · Neoda Isheb
 - 2026-10-14T0021 · Kareli Hierarchy
-- 2026-10-14T0021 · Elven Dynasties
 - 2026-10-14T0021 · Lizun I
 - 2026-10-14T0020 · Sirmon Rezan
 - 2026-10-14T0019 · Abaleq
@@ -329,7 +338,6 @@
 - 2026-10-05T0312 · Orlatz
 - 2026-10-05T0312 · Maiwynn
 - 2026-10-05T0312 · Jorj
-- 2026-10-05T0245 · Drow
 - 2026-10-05T0140 · Isa Tereggio
 - 2026-10-05T0139 · Horatio Tuliper
 - 2026-10-04T0856 · Vasily Surovsky
@@ -390,11 +398,3 @@
 - 2026-09-24T1855 · The Ideal Plane
 - 2026-09-24T1853 · Kerlaes
 - 2026-09-24T1853 · Grivil
-- 2026-09-24T1852 · Excavators Guild of Butera
-- 2026-09-24T1852 · Nurlight
-- 2026-09-24T1851 · Timut
-- 2026-09-23T1950 · Aelf
-- 2026-09-23T1246 · Provost Mihun
-- 2026-09-23T1238 · Ued al-Raban
-- 2026-09-23T1214 · Hiraz Bluebeard
-- 2026-09-22T1834 · Gnome

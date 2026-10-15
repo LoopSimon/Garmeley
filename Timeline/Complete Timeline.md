@@ -26,7 +26,9 @@
 			<div class="timeline-item" data-date="30000BA">Nua Elfs are rapidly being replaced by the Drow</div>
 			<div class="timeline-item" data-date="30500BA">Fellwins Comet hits in the southern beheran Desert</div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
-	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, extreme amount of cosmic radiation hit the Globe</div>
+	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, a distant star bursts and outshines Luna Major for weeks, the greatest Super Conflux in the history of the Globe, a surge of cosmic radiation hits the Globe, most severe in the caves of eastern Behera</div>  
+			 <div class="timeline-item" data-date="24800BA">The magnetic field of the Globe is at its weakest for centuries, cosmic radiation stays raised and auroras are seen far from the poles</div>  
+			 <div class="timeline-item" data-date="22000BA">The Drow of the shallow caves of eastern Behera begin to change, their Jawahr growing larger and more sensitive to planar energy, a change that takes millennia</div>
 	        <div class="timeline-item" data-date="18000BA">Elven cultures emerge out of  eastern Beheran cave systems, Elven Diaspora begins</div>
 		    <div class="timeline-item" data-date="16500BA">Evidence for Fibre use in the Kherovan Vale</div>
 		    <div class="timeline-item" data-date="16100BA">The Primal War between Yari and the Others breaks out in Behera</div>
@@ -67,7 +69,7 @@
 	        <div class="timeline-item" data-date="2960BA">Age of Thirst ends, The Asefi Civilization forms in northern Behera</div>
 	        <div class="timeline-item" data-date="2900BA">The drow undercities of the central enzali underlands unite as the Empire of Tur Enzal</div>
 	        <div class="timeline-item" data-date="2800BA">Likely formation of Albis, modern day Razhalbis, at the Delta of the Muhusni River in northern Behera</div>
-	        <div class="timeline-item" data-date="2750BA">The Alder being their fight against the Great Enemy</div>
+	        <div class="timeline-item" data-date="2750BA">The Alder begin their fight against the Great Enemy</div>
 	        <div class="timeline-item" data-date="2700BA">The Comet of Mir crashes in the Asef Desert</div>
 	        <div class="timeline-item" data-date="2650BA">The city of Erun forms on the coast of the Stormy Sea at the mouth of the Toumis River in northern Behera</div>
 	        <div class="timeline-item" data-date="2600BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
@@ -682,7 +684,7 @@
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory</div>
-            <div class="timeline-item" data-date="839PA">Porto Casimiro is build in western Itharia by cevoli sailors</div>
+            <div class="timeline-item" data-date="839PA">Porto Casimiro is founded in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled & First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>

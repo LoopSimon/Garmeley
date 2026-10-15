@@ -6,5 +6,7 @@ The last known Awakening occurred in 321PA after the Death and Paragonhood of Ir
 
 Shortly after, in 329PA, the current Sultan Lizun Elbae declared only those of royal blood would be allowed entry as Paragons within the Tomb Cities henceforth in what is now known as the Doctrine of Elbae Exceptionalism.
 
-The Priesthood of the Golden Dusk is tasked with maintaining the earthly remains, guarding the tomb complexes and organizing the worship of the Paragons themselves, they are an extremly influential and important institution within the Sultant.
+The Priesthood of the Golden Dusk is tasked with maintaining the earthly remains, guarding the tomb complexes and organizing the worship of the Paragons themselves, they are an extremly influential and important institution within the Sultant.  
+  
+The Paragons are not to be studied. Requests to examine them under an academic lens, among them one from Arouf Dimelis al-Dezer, the Ruby Eye of <a href="Karajal School of Insight" class="internal-link">Karajal</a>, have been refused as yet.
 
