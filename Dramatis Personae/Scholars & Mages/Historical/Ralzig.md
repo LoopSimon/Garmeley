@@ -52,7 +52,7 @@
  <strong>Known Students</strong>
  <span>N/A</span>
  </div>
-  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Gahenna.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Ralzig.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 
 <p>Ralzig was an Urien Minister of the <a href="Gethricism" class="internal-link">Gethric</a> Church and the author of the Ordered Heavens, the book that gave the west its classical picture of the sky. In Ralzig's Cosmology the Globus stands still at the centre of all things and everything else turns about it. For close to six centuries it was the account of the heavens taught in the schools of the west, and in the schools of the Church it is taught still. Its classical form has since been set aside by the astronomers of the great schools (see <a href="History of Astronomy" class="internal-link">History of Astronomy</a>).</p>

@@ -1,20 +1,55 @@
-- 2026-10-15T1840 · Complete Timeline
+- 2026-10-16T1930 · Coster of Melmbirth
+- 2026-10-16T1929 · Garmish Succession Crisis
+- 2026-10-16T1929 · Garmeley
+- 2026-10-16T1928 · Alfin I
+- 2026-10-16T1927 · Polgo Fiago
+- 2026-10-16T1922 · Muxul
+- 2026-10-16T1828 · Codex Thereticum
+- 2026-10-16T1704 · Hynek of Forrington
+- 2026-10-16T1703 · Hainach
+- 2026-10-16T1658 · Grivil
+- 2026-10-16T1501 · Lizion
+- 2026-10-16T1448 · Droil
+- 2026-10-16T1447 · Complete Timeline
+- 2026-10-16T1435 · Lotung
+- 2026-10-16T1432 · Yaalwe
+- 2026-10-16T1431 · Ukiolla
+- 2026-10-16T1431 · Vlad V
+- 2026-10-16T1430 · Aeldcult
+- 2026-10-16T1430 · Nostroya
+- 2026-10-16T1429 · Halgrach
+- 2026-10-16T1405 · Roygviil
+- 2026-10-16T1052 · Skemfing
+- 2026-10-16T0227 · Ott
+- 2026-10-16T0217 · Institute for Practical Energies
+- 2026-10-16T0051 · Talent
+- 2026-10-16T0018 · Mitimgar
+- 2026-10-16T0017 · Goblin Mysticism
+- 2026-10-16T0017 · Gnome
+- 2026-10-16T0005 · Voktator
+- 2026-10-16T0005 · Arzum
+- 2026-10-16T0002 · Goblinoid
+- 2026-10-15T2202 · Nawiunic Event
+- 2026-10-15T2153 · History of Astronomy
+- 2026-10-15T2016 · Gahenna
+- 2026-10-15T2011 · Ralzig
+- 2026-10-15T2010 · The Tis
+- 2026-10-15T2010 · Tripparch
+- 2026-10-15T2009 · Galiatar Inkfingers
+- 2026-10-15T2004 · Basic Magical Theory
+- 2026-10-15T2003 · Calendars
+- 2026-10-15T2002 · Phiodales
+- 2026-10-15T2001 · Urien
+- 2026-10-15T1956 · The Sun
 - 2026-10-15T1836 · Shimun
-- 2026-10-15T1835 · History of Astronomy
 - 2026-10-15T1834 · Korsfall College
 - 2026-10-15T1833 · Jiravid
 - 2026-10-15T1833 · Karajal School of Insight
-- 2026-10-15T1833 · Galiatar Inkfingers
 - 2026-10-15T1832 · Korman van Schipwig
 - 2026-10-15T1832 · Ulrike Metzen
-- 2026-10-15T1832 · The Tis
 - 2026-10-15T1831 · Starworship
-- 2026-10-15T1831 · Tripparch
 - 2026-10-15T1831 · Cult of the Dancing God
 - 2026-10-15T1830 · Luna Minor
-- 2026-10-15T1830 · The Sun
-- 2026-10-15T1826 · Ralzig
-- 2026-10-15T1826 · Gahenna
 - 2026-10-15T1752 · Kasthemis
 - 2026-10-15T1724 · Elven Paragonworship
 - 2026-10-15T1724 · Elven Dynasties
@@ -24,9 +59,7 @@
 - 2026-10-15T1721 · Elf
 - 2026-10-15T1720 · Drow
 - 2026-10-15T1719 · Sphinx
-- 2026-10-15T1718 · Lizion
 - 2026-10-15T1718 · Jawahr
-- 2026-10-15T1718 · Nawiunic Event
 - 2026-10-15T1713 · Viago I
 - 2026-10-15T1658 · Nua
 - 2026-10-15T1621 · Aisligos
@@ -42,13 +75,9 @@
 - 2026-10-15T1425 · Ilonism
 - 2026-10-15T1424 · Luca
 - 2026-10-15T1423 · Ikval
-- 2026-10-15T1420 · Calendars
-- 2026-10-15T1418 · Hainach
 - 2026-10-15T1414 · Lyandra
 - 2026-10-15T0647 · Eight Years War
 - 2026-10-15T0534 · Kindly Lords
-- 2026-10-15T0533 · Garmish Succession Crisis
-- 2026-10-15T0532 · Garmeley
 - 2026-10-15T0531 · Forrington
 - 2026-10-15T0531 · Sunminster
 - 2026-10-15T0516 · Jonek Two Tongues
@@ -62,11 +91,9 @@
 - 2026-10-15T0506 · Redflow
 - 2026-10-15T0505 · Rulers of Garmeley
 - 2026-10-15T0453 · Eye of Kasimir
-- 2026-10-15T0448 · Coster of Melmbirth
 - 2026-10-15T0446 · Mark
 - 2026-10-15T0445 · Third War of Elbae Aggression
 - 2026-10-15T0445 · Second War of Elbae Aggression
-- 2026-10-14T2221 · Alfin I
 - 2026-10-14T2214 · Zawis I
 - 2026-10-14T2214 · Waśko Ralpia
 - 2026-10-14T1638 · Kasimir
@@ -109,7 +136,6 @@
 - 2026-10-14T0427 · Torry
 - 2026-10-14T0422 · Ylva
 - 2026-10-14T0422 · Zurán Barbeshvili
-- 2026-10-14T0422 · Vlad V
 - 2026-10-14T0422 · Wulfrick
 - 2026-10-14T0422 · Versy Barl
 - 2026-10-14T0422 · Valund Baeling
@@ -244,7 +270,6 @@
 - 2026-10-13T1436 · Senso
 - 2026-10-13T1436 · Dueren
 - 2026-10-13T1436 · Rylla
-- 2026-10-12T2014 · Institute for Practical Energies
 - 2026-10-12T1959 · Teriador
 - 2026-10-12T1843 · Bethun
 - 2026-10-12T1838 · Tezmer
@@ -272,10 +297,8 @@
 - 2026-10-11T1703 · Mara Bolo
 - 2026-10-11T1702 · Geipra
 - 2026-10-11T1701 · Halgrach City
-- 2026-10-11T1405 · Halgrach
 - 2026-10-11T1401 · Oleksandr IV
 - 2026-10-11T1401 · Rulers of the Grachi
-- 2026-10-11T1401 · Nostroya
 - 2026-10-11T1401 · Igor
 - 2026-10-11T1401 · Brothers War
 - 2026-10-11T1357 · Strait of Horad
@@ -314,7 +337,6 @@
 - 2026-10-09T0459 · Ginnil
 - 2026-10-08T1839 · Durfall
 - 2026-10-08T1704 · Mior
-- 2026-10-08T0708 · Phiodales
 - 2026-10-07T1857 · Mazol
 - 2026-10-07T1856 · Ophaqim
 - 2026-10-07T1855 · Zumi
@@ -374,27 +396,5 @@
 - 2026-09-30T0326 · Manymirror
 - 2026-09-29T2156 · Asza
 - 2026-09-29T2154 · Nural
-- 2026-09-29T2148 · Codex Thereticum
 - 2026-09-29T2144 · Minruism
 - 2026-09-29T2113 · Enzal Pantheon
-- 2026-09-29T1807 · Piero Digolo
-- 2026-09-29T1752 · Piero & Friends
-- 2026-09-29T1751 · The Merry Three
-- 2026-09-29T1737 · Xara Ilig
-- 2026-09-29T1732 · Adral Fidrakis
-- 2026-09-29T1459 · Hobgoblin Invasion
-- 2026-09-28T1319 · Filip of Leston
-- 2026-09-27T1416 · Merfolk
-- 2026-09-27T0029 · Zren
-- 2026-09-26T2320 · Butera
-- 2026-09-26T2318 · Jeledo
-- 2026-09-26T1628 · Beric of Nargo
-- 2026-09-26T0401 · Wilgar
-- 2026-09-26T0400 · Rakh
-- 2026-09-26T0353 · Nursili
-- 2026-09-26T0343 · Hantili
-- 2026-09-26T0335 · Harrusham
-- 2026-09-26T0319 · Rakhi-Meter Wars
-- 2026-09-25T2057 · Ptamon
-- 2026-09-25T2016 · Children of Dust
-- 2026-09-25T2008 · Bassara

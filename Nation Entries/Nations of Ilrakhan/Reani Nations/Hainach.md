@@ -1,6 +1,7 @@
 %%
 [[Kindly Lords]]
 [[Wasteland of Rakh]]
+[[Grivil]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Princedom of Hainach</h4>
@@ -88,6 +89,8 @@ Theris I of Pikris succeeded his mother, Prince Theresa I, at the age of 22 and 
 <h3>Modern Day</h3>
 <p>Hainach, now an Eyalet of the Sultanate, would nominally join against the 3rd Reani coalition but was not called upon to take arms and join the major engagements at the Isthmus of Horad by elven leadership. This immediate policy of diplomatic appeasement, understanding and tolerance between the Sultanate and the Princedom would continue into the modern day.</p>
 <p>Under the rule of Prince Miriam I, the the middle and later 9th century, Hainach would regain large parts of its political autonomy after signing the so called "Sultans Peace" in 877PA. The Prince agreed to welcome the Sultans Overseers into her country, granting them Baronies within Hainach and heed their advice, as long as Hainachs cultural and religious freedom remained untouched. Miriams decision to cooperate closely with these Overseers would prove successful: Operating only under the Prince directly, they acted as enforcers within the Princedom, allowing for a period of centralization and reforms, paving the way to the modern political structure of Hainach where the Barons still hold extensive authorities but are well and clearly servants of the Prince in Pikris.</p>
+<p>In 890PA the Thieves War was fought over the Windy Rocks Highlands, which Hainach held by right and counted among its fiefs along their southern, south-eastern and eastern sides. When the upstart syndicates of <a href="Grivil" class="internal-link">Grivil</a> began to claim the highlands as their own, the Prince set out to crush these thieves, but the Princely Army was dragged into a brutal war in the mountain passes and crags of unfamiliar country, and the Prince was captured. The Prince was released only after swearing the Stolen Oath, a blood oath never again to send taxmen or soldiers into the hills.</p>
+
 <p>The Wolfsplague of 910 PA hit Hainach and Garmeley particularly severe, leading to the loss of 1 in 20 citizens. The severe impact on agriculture and threat of starvation, due to the plagues destruction of vast numbers of livestock, was lessened by emergency grain shipments from the ports of the Sultanate and the country managed to recover relatively fast. </p>
 <p>Following the death of Duchess Agnes of Garmeley in 922PA, Hainach has declared support and sympathy for Count Hynek of Forrington and his Garmish Alliance, in opposition to the Green Banner League pressing the claim of Count Coster of Melmbirth, largely due to Hainachs close economic, cultural and religious ties to southern Garmeley. </p>
 <h2>People of Interest</h2>

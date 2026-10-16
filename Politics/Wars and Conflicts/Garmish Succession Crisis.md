@@ -1,4 +1,4 @@
-[[Garmeley]] [[Hainach]] [[Vihr]] [[Eldmar]] [[Trinvale]] 
+%%[[Garmeley]] [[Hainach]] [[Vihr]] [[Eldmar]] [[Trinvale]] [[Coster of Melmbirth]]%%
 
 
 Belligerents: Conflict within Garmeley, including the realms of Vihr, Eldmar, Trinvale, Hainach and Urbridge. 
@@ -13,7 +13,7 @@ Belligerents: Conflict within Garmeley, including the realms of Vihr, Eldmar, Tr
 Duchess Agnes died during the Midsummer Festival of 922 PA as a result of Jonek Two-Tongues Prison break, the infamous Sorcerer was later hunted down and brought to justice by brave adventurers.
 The Duchess passed on at the age of 26 unmarried and without any offspring, leaving behind a realm deeply divided by religious and economic policies and realities.
 
-Soon after her death, Coster of Melmbirth declares the Green Banner League and his claim to the Riverthrone of Redflow, in reference to ancient custom.
+Soon after her death, Coster of Melmbirth declares the Green Banner League and his claim to the Riverthrone of Redflow, in reference to the <a href="Alfin I" class="internal-link">ancient custom of the Riverkings</a>.
 The Green Banner is a primarily religious group, assembled to support the interests of the majority Gethric northern lands of the Duchy, powerful local supporters include Lord Kylian the Castellan of Redflow Keep, Countess Nadya of Dimglade and the Lord-Mayor Gustav of Jorrenstead.
 
 While their members cannot hope to compete with the riches of the south, and the northern lands are less densely populated, the foreign support for the Green Banner League is large, and since 925PA Kherova, offended by the Niedrest Incident, has added its official financial and political backing.

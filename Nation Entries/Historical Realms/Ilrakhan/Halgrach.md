@@ -1,6 +1,7 @@
 %%
 [[Gethricism]]
 [[Brothers War]]
+[[Nostroya]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Rascy zi Halgrach</h4>
@@ -36,8 +37,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Grachi Tribes, <br>
-            <a href="Roygviil" class="internal-link">Roygviil Principality</a> </span>
+        <span>Eastern <a href="Vihri" class="internal-link">Vihri</a> Colonies </span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

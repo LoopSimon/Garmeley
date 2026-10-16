@@ -1,50 +1,6 @@
-%%
-[[Garmeley]]
-%%
-<div class="wiki-infobox">
-    <h4 class="wiki-header">Alfin Garm</h4>
-    <div class="wiki-row">
-        <strong>Epiteth</strong>
-        <span>Leafback</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Occupation</strong>
-        <span>Riverking of Garm</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Successor</strong>
-        <span>Hyrek I</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Culture</strong>
-        <span><a href="Urien" class="internal-link">Garmish</a> <a href="Human" class="internal-link">Human</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Born</strong>
-        <span></span>
-	    </div>
-    <div class="wiki-row">
-        <strong>Died</strong>
-        <span></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span></span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Issue</strong>
-        <span>Hyrek Garm</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Dynasty</strong>
-        <span>Garm</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Allegiance</strong>
-        <span><a href="Garmeley" class="internal-link">Garmeley</a></span>
-    </div>
-    <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/FirstGarmKing.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+%% [[Garmeley]] [[Urien]] [[Fey]] [[Kindly Lords]] [[Eight Years War]] [[Rulers of Garmeley]] [[Coster of Melmbirth]] [[Garmish Succession Crisis]] %%
 
-</div>
+<div class="wiki-infobox"> <h4 class="wiki-header">Alfin Garm</h4> <div class="wiki-row"> <strong>Epiteth</strong> <span>Leafback</span> </div> <div class="wiki-row"> <strong>Occupation</strong> <span>Riverking of Garm</span> </div> <div class="wiki-row"> <strong>Successor</strong> <span>Hyrek I</span> </div> <div class="wiki-row"> <strong>Culture</strong> <span><a href="Urien" class="internal-link">Garmish</a> <a href="Human" class="internal-link">Human</a></span> </div> <div class="wiki-row"> <strong>Born</strong> <span></span> </div> <div class="wiki-row"> <strong>Died</strong> <span></span> </div> <div class="wiki-row"> <strong>Cause of Death</strong> <span></span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Spouse</strong> <span>Zivalla, a daughter of the Gladefolk</span> </div> <div class="wiki-row"> <strong>Issue</strong> <span>Hyrek Garm</span> </div> <div class="wiki-row"> <strong>Dynasty</strong> <span>Garm</span> </div> <div class="wiki-row"> <strong>Allegiance</strong> <span><a href="Garmeley" class="internal-link">Garmeley</a></span> </div> <hr class="wiki-hr"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/FirstGarmKing.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> </div> <p>Alfin I, called Leafback, was the first Riverking of Garm, crowned King of Glade and River in 51PA, and the founder of the House of Garm, whose kings held the Riverthrone of <a href="Garmeley" class="internal-link">Garmeley</a> for almost six centuries.</p> <h2>The First Riverking</h2> <p>The Tribes of Garm lived around Lake Forr, and in 310BA they were subjugated by the Rakhian Empire. After the Eruption of Al-Akka ended the empire, the Garmish rose against the Rakhian officials who remained. In 51PA Alfin was crowned the first Riverking of Garm, after the oldest of the rites between the Garmish and the druids of the Greenglade, and the realm that was to become Garmeley was born.</p> <h2>The Marriage of Glade and River</h2> <p>The Gladefolk, the druids of the Greenglade who serve the spirits and the <a href="Fey" class="internal-link">Fey</a> and live removed from the world of mortals, kings and thought, chose a daughter of their own to marry the man who was to be king of the Lands of Rivers, as the druids' prophecies called the land that would later be named Garmeley. The two hunted together through the forest for a night, naked and alone, and then lay together. The man was crowned King of Glade and River, and the daughter stayed within the forest and carried his child, as a symbol of the pact between the Garmish of the Riverlands and the Gladefolk.</p> <p>The tales do not say what became of the child. Some hold that the kings who later consummated marriages of their own found it born again as their firstborn, some that it became a King of the Glade and a great druid, and some that it was born as one of the Fey. The custom is likely hundreds of years older than Alfin, a symbolic bond between the Garmish and the Gladefolk. Alfin completed the rite with Zivalla, who is named only in the later tales. It is not known whether the kings after him kept it, though the earliest are assumed to have done so, and it lapsed with the coming of feudalism.</p> <h2>The Leaf Cloak and the Blade of Stone</h2> <p>Alfin was called Leafback for his cloak of leaves, a magical mantle that let him take any form or shape he wished and warded off evil and death. He was also granted a Blade of Stone, a symbol of the pact between his line and the glade, which was said to shine as the morning light breaks in through the canopy of the trees. He is pictured as a bearded man in a crown of flowers and leaves, with the cloak on his back and the Blade in his hands. What became of the cloak and the Blade is unknown.</p>  
+<h2>The Ancient Custom</h2>
+
+<p>Alfin entered the Old Pact, vowing to protect the Gladewood, the great forest of the south-east also called the Greenglade, in exchange for the cooperation of the <a href="Kindly Lords" class="internal-link">Kindly Lords</a>. It is the oldest bond of the faith, and the Duchy still holds the Gladewood entire.</p>  <p>His son Hyrek I followed him on the Riverthrone, and the House of Garm ruled Garmeley until 648PA, when King Ahlef II fell at the Battle of Greyfields in the <a href="Eight Years War" class="internal-link">Eight Years War</a> and the line of Alfin ended. The Riverkings and Dukes after him are listed in <a href="Rulers of Garmeley" class="internal-link">The Rulers of Garmeley</a>.</p>  <p>The Riverthrone outlived the kingdom, and since 922PA it has been contested in the <a href="Garmish Succession Crisis" class="internal-link">Garmish Succession Crisis</a>. When <a href="Coster of Melmbirth" class="internal-link">Coster of Melmbirth</a> claimed it by ancient custom, it was this rite that he meant. Coster went into the Gladewood and took a woman of the circles there by force, a perverse aberration of the rite of Glade and River.</p>

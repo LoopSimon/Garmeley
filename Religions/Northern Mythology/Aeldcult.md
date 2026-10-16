@@ -1,7 +1,7 @@
 Originated from the practice of Pehki Druidism and [[Giantsrul]] traditions, the Aeldcult, sometimes referred to by southerners as "Eldcult" is a naturalistic Faith that can be related to other forms of Spirit worship such as the worship of the [[Kindly Lords]] or the [[Terem-Zal]].
 However where these practices worship specific [[Greater Spirit]]s, the Aeldcult believes in a greater consciousness of the land itself and views the [[Fey]] of the Eldveil as divine beings and messengers of the land itself.
 It is in many parts hard to differentiate it from the [[Bykmali Paganism]] traditions and worships the same greater spirits and gods as the cult in large parts.
-The Aeldveil, a stretch of dense Forest between Ukiolla and the Waekajokull, is seen as a holy place of worship within the Cult. It is still common practice to send elders ready for death out into the veil as well as bury the fallen there. 
+The Aeldveil, a stretch of dense Forest between Ukiolla and the Waelajokull, is seen as a holy place of worship within the Cult. It is still common practice to send elders ready for death out into the veil as well as bury the fallen there. 
 
 Traditional Aeldcult Practice is generally considered to be Animism.
 The Pehki belief that all significant objects, like rocks animals or plants, possess a soul, and from western perspective, Pehki religious teachings include a multitude of spirits as mentioned above.
@@ -11,7 +11,7 @@ The office of the First Druid is often as respected as that of the Grand Prince 
 The Cult itself is extremely decentralized and more of an overarching grouping, sometimes referring to the belief system of the pehki, sometimes to the protectors of the Aeldveil and sometimes specifically to the various druidic circles throughout Nostroya.
 
 <h2>Historic & Modern Day Politics within the Cult</h2>
-When the then First Druid of the Aeld, Asria Mikkavo, declared the Aeldcircle would remain neutral during the outbreak of the first war of 487PA between Roygviil and Halgrach, despite the call to arms from the roymer High Prince Usse the druids of the cult and the Principality of Ukiolla itself would stay their arms and not participate in the war.
+When the then First Druid of the Aeld, Asria Mikkavo, declared the Aeldcircle would remain neutral during the outbreak of the first war of 487PA between Roygviil and Halgrach, despite the call to arms from the current roymer Prince Usse the druids of the cult and the Principality of Ukiolla itself would stay their arms and not participate in the war.
 
 Many have severely critized and disavowed both her decision and the Grand Prince for following her word, although bound by blood to the First Druid, and her exact motivations are unknown to us to this day outside the realm of speculation.
 Regardless, this passive stance caused the event only known to us as the Splintering of the Circles, where many druids rejected Mikkavos stance and abandoned the united circle, chief among them the various isolated groves in the south, not directly connected to the Veil. 

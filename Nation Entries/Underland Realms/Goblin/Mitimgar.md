@@ -1,33 +1,3 @@
-[[Underlands]] [[Goblin Mysticism]]
-<div class="wiki-infobox">
-    <h4 class="wiki-header">Hive City of Mitimgar</h4>
-    <div class="wiki-row">
-        <strong>Government</strong>
-        <span>Goblin elective Autocracy</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Head of State</strong>
-        <span></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Capital</strong>
-        <span>Mitimgar</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Heraldic Symbol</strong>
-        <span></span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Primary Religion</strong>
-        <a href="Goblin Mysticism">Goblin Mysticism</a>
-    </div>
-    <div class="wiki-row">
-        <strong>Primary Culture</strong>
-        <span>Mitimgari <a href="Goblinoid">Goblinoid</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Official Language</strong>
-        <span>Undergob</span>
-    </div>
-</div>
+%% [[Underlands]] [[Goblin Mysticism]] [[Goblinoid]] [[Pintrixaz]] [[Tur Enzal]] [[Tur Vuron]] [[Ogul-Vosko]] [[Hobgoblin]] [[Tirbo]] [[Korgaz]] [[Hobgoblin Invasion]] [[Granite Crusade]] %%
+
+<div class="wiki-infobox"> <h4 class="wiki-header">Hive City of Mitimgar</h4> <div class="wiki-row"> <strong>Government</strong> <span>Goblin elective Autocracy</span> </div> <div class="wiki-row"> <strong>Head of State</strong> <span></span> </div> <div class="wiki-row"> <strong>Capital</strong> <span>Mitimgar</span> </div> <div class="wiki-row"> <strong>Heraldic Symbol</strong> <span></span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Primary Religion</strong> <span><a href="Goblin Mysticism" class="internal-link">Goblin Mysticism</a></span> </div> <div class="wiki-row"> <strong>Primary Culture</strong> <span>Mitimgari <a href="Goblinoid" class="internal-link">Goblinoid</a></span> </div> <div class="wiki-row"> <strong>Official Language</strong> <span>Undergob</span> </div> </div> <p>Mitimgar is a Hive City of the goblins of Timgar Lake in the northern <a href="Underlands" class="internal-link">Underlands</a>, one of the few settlements still bordering the Enzalad, the great underlands sea. Once so great and rich it could rival <a href="Pintrixaz" class="internal-link">Pintrixaz</a>, it is ruled by an elected autocrat. It follows <a href="Goblin Mysticism" class="internal-link">Goblin Mysticism</a> and is known for its storyteller cultures.</p> <h2>History</h2> <p>The first Mitimgar was built near Timgar Lake in 2580BA by the Timgari goblins. In 2245BA the Vuron zealots, exiled from the civil wars of <a href="Tur Enzal" class="internal-link">Tur Enzal</a>, besieged and burned it in the Day of Pain and went on to found <a href="Tur Vuron" class="internal-link">Tur Vuron</a>. The goblins resettled the lake in 1400BA and founded the second Mitimgar in 1315BA, only for the dwarves of <a href="Ogul-Vosko" class="internal-link">Ogul-Vosko</a> to conquer it in 1201BA and enslave its people for centuries, the beginning of the Granite Rivalry. The goblins were freed in 965BA under the Hinmak Sect of Warriors, the beginning of the Timgar Silver Age, and in 662BA the warlord Opronik led the Vengeance of Mitimgar and annihilated the last cities of Tur Vuron. The Silver Age ended with the Death of the Sects in 445BA, and after the Birth of the End earthquake of about 240BA Mitimgar lost contact with the world for hundreds of years.</p> <h2>The Cave Network</h2> <p>Hobgoblin clans lived beside the goblins within the vast Mitimgar cave network, and <a href="Tirbo" class="internal-link">Tirbo</a> and <a href="Korgaz" class="internal-link">Korgaz</a> were both born in the Dirgae Quarters of Mitimgar. When the <a href="Hobgoblin" class="internal-link">hobgoblins</a> cornered the food supply and threatened to hold the more numerous but weaker goblins hostage, its ruler Kerez-Ik collapsed the tunnel to Urgil Cave, where they were encamped. The Tirbo Clan, cut off from the network, emerged in 690PA in the <a href="Hobgoblin Invasion" class="internal-link">Hobgoblin Invasion</a> of Urland.</p> <h2>The Granite Crusade</h2> <p>In 862PA Ogul-Vosko marched on Mitimgar in the <a href="Granite Crusade" class="internal-link">Granite Crusade</a>, after a prophecy of victory by the High Priest of Ogul-Makar. The war became a struggle of attrition through the caves around the Modim Cavern, and although Ogul-Vosko won the Battle of Modim Cave in 916PA it lost almost its entire 2nd Army, and the war goes on. Supplied by its undercity settlements across the great lake to its north, Mitimgar is cut off from almost all outside communication and has come to rely on questionable rituals and desperate experiments. The enmity between Drow and goblins that began with the Day of Pain still shapes the politics of the Underlands in 927PA.</p>

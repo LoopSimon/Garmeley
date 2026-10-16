@@ -6,4 +6,4 @@
 <small><i>Yaalwe of the Winds</i></small>
 </div>
 <p>Yaalwe, God of Storms, is worshipped by many often disjointed communities across the north of Ilrakhan, primarily within Nostroya and Trykkerog. Unlike many other deities of the Bykmal and Aeld Pantheon, Yaalwes followers are usually less organised and institutionalized and at most band together in groups to complete the dangerous pilgrimages to his holy sites, such as the Yaalpeak in the Stormlands of Eastern Trykkerog. Yaalwe preaches individualism and a truthful ferocity and love both, his enemies are those who lie to others as much as to themselves and hide behind Law and Friend to deceive the world of their own natures.</p>
-<p></p>
+<p>The princes of <a href="Roygviil" class="internal-link">Roygviil</a> were attached to Yaalwe more closely than to any other god of the Aeld, and their wandering court was called the Court of Winds. In the old stories Vytaur, the legendary first Prince of Roygviil, wrestled Yaalwe for four days and four nights until the god judged him worthy and showed him his true form, the great eagle.</p>

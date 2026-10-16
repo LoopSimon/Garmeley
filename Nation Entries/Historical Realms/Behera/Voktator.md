@@ -16,7 +16,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Xinsalim-Vokt</span>
+        <span>Ximsalim-Vokt</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
