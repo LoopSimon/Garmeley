@@ -1,3 +1,4 @@
+- 2026-10-16T1932 · Ralzig
 - 2026-10-16T1930 · Coster of Melmbirth
 - 2026-10-16T1929 · Garmish Succession Crisis
 - 2026-10-16T1929 · Garmeley
@@ -32,7 +33,6 @@
 - 2026-10-15T2202 · Nawiunic Event
 - 2026-10-15T2153 · History of Astronomy
 - 2026-10-15T2016 · Gahenna
-- 2026-10-15T2011 · Ralzig
 - 2026-10-15T2010 · The Tis
 - 2026-10-15T2010 · Tripparch
 - 2026-10-15T2009 · Galiatar Inkfingers
