@@ -1,3 +1,6 @@
+- 2026-10-16T2343 · Mear
+- 2026-10-16T2343 · Morelle
+- 2026-10-16T2343 · Dirneux
 - 2026-10-16T2327 · Zeeport
 - 2026-10-16T2327 · Giselstatt
 - 2026-10-16T2327 · Meadhavn
@@ -260,7 +263,6 @@
 - 2026-10-13T2030 · Treaty of Lotsprings
 - 2026-10-13T2012 · Narzoi Slavetrade
 - 2026-10-13T2012 · Odrick von Fulmer
-- 2026-10-13T2010 · Dirneux
 - 2026-10-13T2010 · Pastelliora
 - 2026-10-13T2010 · Runsby
 - 2026-10-13T2009 · Ulbreek
@@ -396,5 +398,3 @@
 - 2026-10-03T1800 · Fenhir
 - 2026-10-03T1735 · Cinderstone Temple
 - 2026-10-03T1733 · Javalim
-- 2026-10-03T1648 · Azuvke
-- 2026-10-03T1646 · Kheri
