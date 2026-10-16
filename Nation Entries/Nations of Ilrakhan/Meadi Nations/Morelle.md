@@ -1,20 +1,15 @@
 %%
 [[Meadrath]]
 [[Meadland]]
-[[Meadi]]
 [[Trinicism]]
 [[Auguri Dominion]]
 [[Dirneux]]
 [[Mear]]
-[[Gisvale]]
-[[Trinmo]]
 [[Freelands]]
 [[Rivalt du Chian]]
 [[Meadi Othiri War]]
 [[Cearic]]
-[[Marrin Andil]]
 [[Ulrike Metzen]]
-[[Ulbreek]]
 %%
 <div class="wiki-infobox">
  <h4 class="wiki-header">Duchy of Morelle</h4>

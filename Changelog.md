@@ -1,6 +1,12 @@
-- 2026-10-16T2344 · Mear
+- 2026-10-16T2352 · Complete Timeline
+- 2026-10-16T2352 · Gesellschaft für Westmeadischen Handel
+- 2026-10-16T2351 · Jean du Jera
+- 2026-10-16T2349 · Gisela II
+- 2026-10-16T2349 · Meadi Othiri War
+- 2026-10-16T2348 · Meadrath
+- 2026-10-16T2345 · Morelle
+- 2026-10-16T2345 · Mear
 - 2026-10-16T2344 · Dirneux
-- 2026-10-16T2343 · Morelle
 - 2026-10-16T2327 · Zeeport
 - 2026-10-16T2327 · Giselstatt
 - 2026-10-16T2327 · Meadhavn
@@ -11,12 +17,8 @@
 - 2026-10-16T2257 · Yahrwick
 - 2026-10-16T2257 · Galiatar Inkfingers
 - 2026-10-16T2256 · War of Trout and Drake
-- 2026-10-16T2254 · Jean du Jera
 - 2026-10-16T2254 · Knights of the Green Tree
 - 2026-10-16T2253 · Rivalt du Chian
-- 2026-10-16T2252 · Meadi Othiri War
-- 2026-10-16T2250 · Complete Timeline
-- 2026-10-16T2246 · Meadrath
 - 2026-10-16T2241 · Trinmo
 - 2026-10-16T2239 · Rulers of the Meadi
 - 2026-10-16T2236 · Meadland
@@ -200,7 +202,6 @@
 - 2026-10-14T0420 · Hien-Ro
 - 2026-10-14T0420 · Gudrun
 - 2026-10-14T0420 · Giuseppe Dimandi
-- 2026-10-14T0420 · Gisela II
 - 2026-10-14T0420 · Fasmer II
 - 2026-10-14T0420 · Egill
 - 2026-10-14T0420 · Cernela nu Bas
@@ -305,7 +306,6 @@
 - 2026-10-12T1640 · Jaime di Dilin
 - 2026-10-12T1640 · Balan Reyd
 - 2026-10-12T1629 · Razmyrism
-- 2026-10-12T1602 · Gesellschaft für Westmeadischen Handel
 - 2026-10-12T1425 · Uraz
 - 2026-10-12T1351 · The New World
 - 2026-10-12T1219 · Pangomor
