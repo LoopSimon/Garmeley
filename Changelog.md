@@ -1,10 +1,31 @@
+- 2026-10-16T2258 · Turvik Paganism
+- 2026-10-16T2258 · Situation in the Paper Cities
+- 2026-10-16T2257 · Yahrwick
+- 2026-10-16T2257 · Galiatar Inkfingers
+- 2026-10-16T2256 · War of Trout and Drake
+- 2026-10-16T2254 · Jean du Jera
+- 2026-10-16T2254 · Knights of the Green Tree
+- 2026-10-16T2253 · Rivalt du Chian
+- 2026-10-16T2252 · Meadi Othiri War
+- 2026-10-16T2250 · Complete Timeline
+- 2026-10-16T2246 · Meadrath
+- 2026-10-16T2241 · Trinmo
+- 2026-10-16T2239 · Rulers of the Meadi
+- 2026-10-16T2236 · Meadland
+- 2026-10-16T2234 · Royal Congress
+- 2026-10-16T2234 · Auguri Dominion
+- 2026-10-16T2234 · Meadi
+- 2026-10-16T2233 · Gismar
+- 2026-10-16T2125 · Gisvale
+- 2026-10-16T2045 · Orlatz
+- 2026-10-16T2007 · Garmeley
+- 2026-10-16T2006 · Leok
 - 2026-10-16T1944 · Redflow
 - 2026-10-16T1943 · Forrington
 - 2026-10-16T1943 · Dolm
 - 2026-10-16T1932 · Ralzig
 - 2026-10-16T1930 · Coster of Melmbirth
 - 2026-10-16T1929 · Garmish Succession Crisis
-- 2026-10-16T1929 · Garmeley
 - 2026-10-16T1928 · Alfin I
 - 2026-10-16T1927 · Polgo Fiago
 - 2026-10-16T1922 · Muxul
@@ -14,7 +35,6 @@
 - 2026-10-16T1658 · Grivil
 - 2026-10-16T1501 · Lizion
 - 2026-10-16T1448 · Droil
-- 2026-10-16T1447 · Complete Timeline
 - 2026-10-16T1435 · Lotung
 - 2026-10-16T1432 · Yaalwe
 - 2026-10-16T1431 · Ukiolla
@@ -38,7 +58,6 @@
 - 2026-10-15T2016 · Gahenna
 - 2026-10-15T2010 · The Tis
 - 2026-10-15T2010 · Tripparch
-- 2026-10-15T2009 · Galiatar Inkfingers
 - 2026-10-15T2004 · Basic Magical Theory
 - 2026-10-15T2003 · Calendars
 - 2026-10-15T2002 · Phiodales
@@ -128,7 +147,6 @@
 - 2026-10-14T0457 · Andre
 - 2026-10-14T0433 · Trinicism
 - 2026-10-14T0433 · The Incursion
-- 2026-10-14T0432 · Situation in the Paper Cities
 - 2026-10-14T0432 · The Alchemists Guild
 - 2026-10-14T0430 · Jana Rikolore
 - 2026-10-14T0430 · Valenty Sykes
@@ -191,9 +209,7 @@
 - 2026-10-14T0419 · Aessymia
 - 2026-10-14T0249 · Tloky
 - 2026-10-14T0151 · Tadeuz Pilsud
-- 2026-10-14T0134 · Meadrath
 - 2026-10-14T0133 · Fredric
-- 2026-10-14T0124 · Leok
 - 2026-10-14T0122 · Kethricism
 - 2026-10-14T0121 · Human
 - 2026-10-14T0118 · Wermia
@@ -233,7 +249,6 @@
 - 2026-10-13T2256 · Sarhen
 - 2026-10-13T2256 · Urden
 - 2026-10-13T2040 · War of Horn and Fang
-- 2026-10-13T2039 · Jean du Jera
 - 2026-10-13T2037 · Gisela IV
 - 2026-10-13T2031 · Alinanora
 - 2026-10-13T2031 · Alderbridge
@@ -367,7 +382,6 @@
 - 2026-10-05T1508 · Roxeria
 - 2026-10-05T0347 · Azag
 - 2026-10-05T0313 · Sturla
-- 2026-10-05T0312 · Orlatz
 - 2026-10-05T0312 · Maiwynn
 - 2026-10-05T0312 · Jorj
 - 2026-10-05T0140 · Isa Tereggio
@@ -384,17 +398,3 @@
 - 2026-10-03T1510 · Yelena
 - 2026-10-03T1506 · Razmyr
 - 2026-10-02T0551 · Timothy Mevan
-- 2026-10-02T0547 · The 927 Falcons Flight
-- 2026-10-02T0542 · Zeressa
-- 2026-10-02T0538 · Red Monk
-- 2026-10-02T0234 · Kamzi
-- 2026-10-01T2235 · Bernard Gresko
-- 2026-10-01T1745 · The Malagul
-- 2026-09-30T1532 · Fjorisjom Saga
-- 2026-09-30T0459 · Trifflands
-- 2026-09-30T0328 · Merengrad
-- 2026-09-30T0326 · Manymirror
-- 2026-09-29T2156 · Asza
-- 2026-09-29T2154 · Nural
-- 2026-09-29T2144 · Minruism
-- 2026-09-29T2113 · Enzal Pantheon

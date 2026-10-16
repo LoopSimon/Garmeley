@@ -3,10 +3,11 @@
 [[Gisela II]]
 [[Meadrath]]
 [[Gisela IV]]
+[[Gisela IV]] [[Gismar]] [[Royal Congress]]
 %%
 
 <h3>Rulers of the Gisvale, following the dissolution of the Augur.</h3>
-<small>273PA - 664PA<small>
+<small>273PA - 664PA</small>
 <p>Ardol I von Gismar, 273PA - 292PA</p>
 <p>Hildegunde I von Gismar, 292PA - 312PA</p>
 <p>Gisling I "Silverwing" von Gismar, 312PA - 338PA</p>
@@ -27,8 +28,10 @@
 <p>Ringil I  von Medlan, 622PA - 660PA </p>
 <p>Liara I von Gismar, 660PA - 664PA</p>
 
+<p><i>The House von Gismar, descended from the hero <a href="Gismar" class="internal-link">Gismar</a>, held the throne until Diedrik of Medlan usurped it in 589PA. The von Medlan ruled until Liara I restored the line in 660PA. Ardol V "the Blessed" was the first Gethric born King of Gisvale.</i></p>
+
 <h3>Rulers of Korsfall, following the dissolution of the Augur.</h3>
-<small>260PA - 664PA<small>
+<small>260PA - 664PA</small>
 <p>Torvald I "the Tall" von Weide, 262PA - 288PA</p>
 <p>Siegmar I von Weide, 288PA - 301PA</p>
 <p>Siegmar II von Weide, 301PA - 309PA</p>
@@ -51,6 +54,8 @@
 <p>Karl IV von Kor, 620PA - 641PA</p>
 <p>Gunther III von Kor, 641PA - 664PA</p>
 
+<p><i>The von Weide ended with Siegmar V "the last Tree" in 469PA, and the von Kor line began with Gernot I.</i></p>
+
 <h3>Monarchs following the Union of Meadrath in 664PA.</h3>
 <small>664PA - present<small>
 <p>Gildher I "Springbringer" von Kor, 664PA - 680PA </p>
@@ -66,3 +71,5 @@
 <p>Gilmar I von Kor, 858PA - 883PA</p>
 <p>Gisela III "the Kind" von Kor, 883PA - 910PA</p>
 <p><a href="Gisela IV" class="internal-link">Gisela IV von Kor</a>, 910PA - current</p>
+
+<p><i>The union of Korsfall and Gisvale was proclaimed in 664PA, and Gunther III and Liara I ruled the united realms together until their firstborn son Gildher I was crowned King of Meadrath in 674PA. The crown passes to the eldest child regardless of sex. Margaret II was followed in 829PA by her younger brother Giselher I, who had fought the Meadi Othiri War of 824PA to 827PA as Prince Giselher. The <a href="Royal Congress" class="internal-link">Royal Congress</a> was founded under Gisela III in 898PA.</i></p>

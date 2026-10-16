@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>874PA, Urbridge</span>
+        <span>874PA, Torring</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
@@ -18,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
-        <span>unknown</span>
+        <span>53</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

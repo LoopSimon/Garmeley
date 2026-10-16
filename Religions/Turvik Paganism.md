@@ -22,4 +22,4 @@ Heagur, God of Wisdom and Death
 
 Ollku, God of the Seas
 
-Mera, God of the Rivers
+Mera, Goddess of the Rivers
