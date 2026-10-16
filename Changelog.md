@@ -1,3 +1,6 @@
+- 2026-10-16T1944 · Redflow
+- 2026-10-16T1943 · Forrington
+- 2026-10-16T1943 · Dolm
 - 2026-10-16T1932 · Ralzig
 - 2026-10-16T1930 · Coster of Melmbirth
 - 2026-10-16T1929 · Garmish Succession Crisis
@@ -78,7 +81,6 @@
 - 2026-10-15T1414 · Lyandra
 - 2026-10-15T0647 · Eight Years War
 - 2026-10-15T0534 · Kindly Lords
-- 2026-10-15T0531 · Forrington
 - 2026-10-15T0531 · Sunminster
 - 2026-10-15T0516 · Jonek Two Tongues
 - 2026-10-15T0516 · Agnes I
@@ -87,8 +89,6 @@
 - 2026-10-15T0513 · Rulers of Vihr
 - 2026-10-15T0512 · Vihr
 - 2026-10-15T0508 · Patwin Tower
-- 2026-10-15T0507 · Dolm
-- 2026-10-15T0506 · Redflow
 - 2026-10-15T0505 · Rulers of Garmeley
 - 2026-10-15T0453 · Eye of Kasimir
 - 2026-10-15T0446 · Mark
