@@ -1,3 +1,8 @@
+- 2026-10-16T2327 · Zeeport
+- 2026-10-16T2327 · Giselstatt
+- 2026-10-16T2327 · Meadhavn
+- 2026-10-16T2327 · Jera
+- 2026-10-16T2327 · Korsfall
 - 2026-10-16T2258 · Turvik Paganism
 - 2026-10-16T2258 · Situation in the Paper Cities
 - 2026-10-16T2257 · Yahrwick
@@ -393,8 +398,3 @@
 - 2026-10-03T1733 · Javalim
 - 2026-10-03T1648 · Azuvke
 - 2026-10-03T1646 · Kheri
-- 2026-10-03T1642 · Kherova
-- 2026-10-03T1559 · Anna the Moth
-- 2026-10-03T1510 · Yelena
-- 2026-10-03T1506 · Razmyr
-- 2026-10-02T0551 · Timothy Mevan
