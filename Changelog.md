@@ -1,16 +1,30 @@
-- 2026-10-16T2352 · Complete Timeline
-- 2026-10-16T2352 · Gesellschaft für Westmeadischen Handel
-- 2026-10-16T2351 · Jean du Jera
+- 2026-10-17T2157 · Orlatz
+- 2026-10-17T2110 · Yellow Eyed Man
+- 2026-10-17T2108 · Timut
+- 2026-10-17T1649 · Jan van de Spiegel
+- 2026-10-17T1529 · Gesellschaft für Westmeadischen Handel
+- 2026-10-17T1528 · Morelle
+- 2026-10-17T1528 · Mear
+- 2026-10-17T1526 · Meadhavn
+- 2026-10-17T1442 · Zmalig
+- 2026-10-17T1442 · Weisch
+- 2026-10-17T1442 · Wargel
+- 2026-10-17T1442 · Risfalt
+- 2026-10-17T1442 · Gisvale
+- 2026-10-17T1442 · Lesmere
+- 2026-10-17T1437 · Complete Timeline
+- 2026-10-17T1435 · Giselstatt
+- 2026-10-17T1423 · Dirneux
+- 2026-10-17T1423 · Perrin Diar
+- 2026-10-17T1422 · Jean du Jera
+- 2026-10-17T1408 · Jera
+- 2026-10-17T0345 · Meadrath
+- 2026-10-17T0339 · Freelands
+- 2026-10-17T0316 · Gismar
+- 2026-10-17T0315 · Wulfrick
 - 2026-10-16T2349 · Gisela II
 - 2026-10-16T2349 · Meadi Othiri War
-- 2026-10-16T2348 · Meadrath
-- 2026-10-16T2345 · Morelle
-- 2026-10-16T2345 · Mear
-- 2026-10-16T2344 · Dirneux
 - 2026-10-16T2327 · Zeeport
-- 2026-10-16T2327 · Giselstatt
-- 2026-10-16T2327 · Meadhavn
-- 2026-10-16T2327 · Jera
 - 2026-10-16T2327 · Korsfall
 - 2026-10-16T2258 · Turvik Paganism
 - 2026-10-16T2258 · Situation in the Paper Cities
@@ -25,9 +39,6 @@
 - 2026-10-16T2234 · Royal Congress
 - 2026-10-16T2234 · Auguri Dominion
 - 2026-10-16T2234 · Meadi
-- 2026-10-16T2233 · Gismar
-- 2026-10-16T2125 · Gisvale
-- 2026-10-16T2045 · Orlatz
 - 2026-10-16T2007 · Garmeley
 - 2026-10-16T2006 · Leok
 - 2026-10-16T1944 · Redflow
@@ -164,7 +175,6 @@
 - 2026-10-14T0427 · Torry
 - 2026-10-14T0422 · Ylva
 - 2026-10-14T0422 · Zurán Barbeshvili
-- 2026-10-14T0422 · Wulfrick
 - 2026-10-14T0422 · Versy Barl
 - 2026-10-14T0422 · Valund Baeling
 - 2026-10-14T0422 · Toski
@@ -378,7 +388,6 @@
 - 2026-10-05T2343 · Giant
 - 2026-10-05T1706 · Vannsi
 - 2026-10-05T1706 · Cities of Dreams
-- 2026-10-05T1704 · Perrin Diar
 - 2026-10-05T1704 · Geldfield Unie van Vrijhandel
 - 2026-10-05T1606 · Molemor
 - 2026-10-05T1520 · The Poem of the Bad Omen
@@ -389,12 +398,3 @@
 - 2026-10-05T1508 · Roxeria
 - 2026-10-05T0347 · Azag
 - 2026-10-05T0313 · Sturla
-- 2026-10-05T0312 · Maiwynn
-- 2026-10-05T0312 · Jorj
-- 2026-10-05T0140 · Isa Tereggio
-- 2026-10-05T0139 · Horatio Tuliper
-- 2026-10-04T0856 · Vasily Surovsky
-- 2026-10-04T0545 · Diarism
-- 2026-10-03T1800 · Fenhir
-- 2026-10-03T1735 · Cinderstone Temple
-- 2026-10-03T1733 · Javalim

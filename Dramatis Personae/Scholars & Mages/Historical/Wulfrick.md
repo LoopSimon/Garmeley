@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Court Magus of Korsfall,<br>Rector of <a href="Korsfall College" class="internal-link">Korsfall College</a>, Advisor to the Duke von Praum </span>
+        <span>Court Magus of Korsfall,<br>Rector of <a href="Korsfall College" class="internal-link">Korsfall College</a>, Advisor to the Count von Praum </span>
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>

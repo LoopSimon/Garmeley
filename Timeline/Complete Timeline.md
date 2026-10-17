@@ -441,7 +441,7 @@
             <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
-            <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire</div>
+            <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
             <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
@@ -548,6 +548,7 @@
             <div class="timeline-item" data-date="648PA">Battle of Greyfields, King Ahlef II of Garmeley dies and the line of Alfin ends</div>
             <div class="timeline-item" data-date="649PA">The former Lords of middle Aerlan form the Kingdom of Erlmondy</div>
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach; <br>The Eight Years War ends in a Garmish victory</div>
+			 <div class="timeline-item" data-date="655PA">Battle of Wormill, the last two sons of Giselher of Gisvale fall, Count Heinrich von Lot takes the old seat of Medlan</div>
             <div class="timeline-item" data-date="656PA">The Path of the Old Gods forms within Riarang, creating deep ideological tensions within the Empire</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
@@ -596,7 +597,7 @@
             <div class="timeline-item" data-date="706PA">Kaarmina brings the Mothers Word to her people</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, <br>Rise of the Tyrant Salvia in Firocco</div>
-            <div class="timeline-item" data-date="710PA">The 1000 Faithful settle Zmalig</div>
+            <div class="timeline-item" data-date="710PA">The 4000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="711PA">Anak Montener writes the Anak Codex</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
@@ -676,7 +677,7 @@
             <div class="timeline-item" data-date="817PA">Pact of Orenburg is declared by the original Orenburg Nine</div>
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum;<br> Bykmali Explorers set foot on mainland Aisligos again, a plague quickly begins to spread in Grynborg and adjacent settlements in the tirean isles are quarantined;<br>Margaret II von Kor becomes Queen of Meadrath</div>
-            <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821</div>
+            <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821, amid a civil war between pro Meadi and pro Cimfon communities</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins;<br> Battle of Skyroar</div>
             <div class="timeline-item" data-date="825PA">Battle of Arvale</div>
             <div class="timeline-item" data-date="826PA">Battle of Red Oak, Prince Giselher is left crippled</div>
@@ -730,7 +731,7 @@
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="878PA">Port Faarhovn is founded on Jurland by the G.U.V.; the Diviner Adreliz opens talks with the Kavi through telepathy, securing trading rights in Kavi communities;<br>Nale Dirrenger ends his fourth voyage, having charted the southern seas and set up supply posts between Nalesland and the Dark Islands</div>
             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II</div>
-            <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World on the north-eastern tip of Peadyr, at the Ruins of New Rav</div>
+            <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World on the north-eastern tip of Peadyr, at the Ruins of New Rav;<br>Archduke Gisrol II builds Castle von Mart in Giselstatt</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously;<br>Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
             <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal;<br>Lady Eleanor Grig leads a Spurshey expedition through the Spring Sea and discovers Grigs Landing and the Loreli Islands</div>
             <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins;<br> Battle at Garlin;<br>Gisela III the Kind becomes Queen of Meadrath</div>
@@ -756,7 +757,7 @@
 	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates western trade between Blijgrat and Meadrath;<br> Alinanora is founded in the New World on the eastern coast of Peadyr</div>
 	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled;<br>Diarism is spreading in western Mead- and Weadland as well as in central Othirdon;<br>Lady Eleanor Grig dies in a riding accident</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
-            <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring</div>
+            <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring;<br>The Academy of Visdack is founded in Weisch</div>
             <div class="timeline-item" data-date="905PA">Ulrike Metzen publishes "Conflux: Tide of the Stars";<br> Dalesire is chartered as a colony of Runsby on the Loreli Islands in the New World</div>
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
             <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal;<br> Tourney at Mitrad</div>

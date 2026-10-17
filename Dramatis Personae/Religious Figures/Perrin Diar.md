@@ -2,6 +2,7 @@
 [[Diarism]]
 [[Lissvalley]]
 [[Meadi]]
+[[Jera]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header"> Perrin Diar</h4>

@@ -4,6 +4,7 @@
 [[Dirneux]]
 [[Odrick von Fulmer]]
 [[Marrin Andil]]
+[[Jera]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jean du Jera</h4>
@@ -17,7 +18,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>875PA, Jera</span>
+        <span>875PA, <a href="Jera" class="internal-link">Jera</a></span>
     </div>
     <div class="wiki-row">
         <strong>Age</strong>
@@ -45,4 +46,5 @@
 <p>Jean married Queen Gisela III, called the Kind, and became her Prince-Consort. The match was arranged, as matches between the crown and the great houses are, but Gisela is said to have truly loved him, and he her. Their daughter, the later Gisela IV, was born in 897PA, and they had a son, Renard. The last decade of the queen's reign was dominated by the rivalry between her husband and her High-Chancellor, a clash between two visions of the realm. Von Fulmer led the new wave of realpoliticians, the so called universalists, who wished to concentrate power in Korsfall under the crown and make the realm as a whole more powerful. Du Jera stood for the old guard of the nobility from across the realm, who favoured the decentralization of power and saw the Royal Congress, which had left the archdukes with a permanent chair and little else, as the loss of an old order. The two men are said to have come to hate each other truly.</p> 
 <p>Gisela III died in 910PA, and as the head of the regency council for his young daughter du Jera had the upper hand at last. Von Fulmer was banished from court in all but name and lost much of his influence. Du Jera strengthened the duchies again and, in what many see as a doomed attempt to turn back the clock that came too late, tried to disband the Royal Congress. The men of his circle rose with him, among them the Morelle lord <a href="Marrin Andil" class="internal-link">Marrin Andil</a>. He was not in favour of involving Meadrath in the <a href="Vorellan War" class="internal-link">Vorellan Wars</a> in Battvia, which began the same year, but when the realm did intervene through the Pass of <a href="Ott" class="internal-link">Ott</a>, he admitted afterwards that even he could not have planned a better outcome for Meadrath. It is the only instance of admiration for von Fulmer he is known to have voiced, though it could also be read as a conciliatory gesture towards his daughter.</p> 
 <p>His regency ended in 913PA, when Gisela IV took the government into her own hands. She dismissed much of the palace staff, recalled the exiled dignitaries and restored Count von Fulmer to his office, and du Jera, relieved of his duties at court, left Korsfall for Jera. The details of the relationship between the queen and her father are unknown, but the rift was plain, and the faction of the old guard fell with him. Andil, fearing persecution, left for the new world and founded <a href="Ulbreek" class="internal-link">Ulbreek</a>, and it is rumoured that part of the profits of that free port find their way back to Jera, as an insurance for the Archduke should the fortunes of the old guard turn, a rumour that Count von Fulmer is said to take seriously. Those who knew him say that he has been a harsher man since the death of his wife.</p> 
-<p>Du Jera now rules Dirneux from Jera, where <a href="Diarism" class="internal-link">Diarism</a> was born at the university in 894PA. A Trinicist, he has little love for the movement but has never moved against the university. His heir is his son Renard, for under the royal arrangements of Meadrath between the crown and the great houses, Gisela IV, though his firstborn, will not inherit the du Jera title, an ancient custom. Renard is currently on a diplomatic mission to Ott in the name of his father, negotiating with the <a href="Gnome" class="internal-link">gnomes</a> of the Kortopi Mountains, whose lands Dirneux borders.</p>
+
+<p>Du Jera now rules Dirneux from <a href="Jera" class="internal-link">Jera</a>, where<a href="Diarism" class="internal-link">Diarism</a> was born at the university in 894PA. A Trinicist, he has little love for the movement but has never moved against the university. His heir is his son Renard, for under the royal arrangements of Meadrath between the crown and the great houses, Gisela IV, though his firstborn, will not inherit the du Jera title, an ancient custom. Renard is currently on a diplomatic mission to Ott in the name of his father, negotiating with the <a href="Gnome" class="internal-link">gnomes</a> of the Kortopi Mountains, whose lands Dirneux borders.</p>

@@ -10,7 +10,7 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>874PA, Torring</span>
+        <span>874PA, <a href="Torry" class="internal-link">Torring</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
