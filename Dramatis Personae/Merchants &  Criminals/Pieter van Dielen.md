@@ -1,6 +1,7 @@
 %%
 [[Blijgrat]]
 [[Geldfield Unie van Vrijhandel]]
+[[Jan van de Spiegel]]
 %%
 
 <div class="wiki-infobox">
@@ -35,4 +36,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/van Dielen.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>The current Kamerspreker of the Kamer van gelijke, the ruling body of the Geldfield Unie van Vrijhandel is a man in his late 30s, he is the 3rd individual holding the role of Kamerspreker following the Charter of 891PA demanding it electing a presiding chairman. Van Dielen assumed the position in 920PA, having previously worked as the Governour of the Visian Kontors where he amassed a great following and extensive popularity within the Company. He is an outspoke supporter of Stadtholder Jan van de Spiegel, the current Head of the <a href="Blijgrat">Blijgrat League</a>.</p>
+<p>The current Kamerspreker of the Kamer van gelijke, the ruling body of the Geldfield Unie van Vrijhandel is a man in his late 30s, he is the 3rd individual holding the role of Kamerspreker following the Charter of 891PA demanding it electing a presiding chairman. Van Dielen assumed the position in 920PA, having previously worked as the Governour of the Visian Kontors where he amassed a great following and extensive popularity within the Company. He is an outspoke supporter of Stadtholder <a href="Jan van de Spiegel" class="internal-link">Jan van de Spiegel</a>, the current Head of the <a href="Blijgrat">Blijgrat League</a>. Van de Spiegel is his patron and ally, and van Dielen is in effect the man he is grooming to succeed him as Stadtholder.</p>

@@ -51,5 +51,7 @@
     </div>
 <p>The Maelzad of Tintarol is the oldest continuous Realm in the Regions of Othirdon & Sertova, excluding the elf realm of <a href="Rogyn" class="internal-link">Rogyn</a>, it lies in the north of Othirdon and is home to the northern Locni peoples, culturally extremely close to both <a href="Cimfon" class="internal-link">Cimfon</a> and <a href="Droil" class="internal-link">Droil</a>. Its history has been an ebb and flow of prosperity and ruin, of survival through hardship, invasion, natural disaster and political crisis, ever enduring. Tintarol is now closely allied with the dwarven hold of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a> in the Urdfall Peaks although their history is marred by conflict. </p>
 <p>Tintarol was his especially hard during the Wrath of Isara, and many of its coastal cities and towns at the time now lie buried in the Ocean, swallowed by the dark Waters of the Wrahi Sea.</p>
+
+<p>In the 4th century the Maelzad of Tintarol crossed the Urdfall Peaks and took Diralais, a land of Morelle on the north-western coast of Meadland, and renamed it Dirdale. The Meadi reconquered it later, but the name Dirdale stuck, and it now belongs to <a href="Mear" class="internal-link">Mear</a>.</p>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Tintarol1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>

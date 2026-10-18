@@ -3,17 +3,7 @@
 [[Human]]
 [[Meadrath]]
 [[Auguri Dominion]]
-[[Gismar]]
-[[Dragon]]
-[[Trinicism]]
-[[Augurism]]
-[[Turvik Paganism]]
-[[Melara]]
-[[Urden]]
-[[Karrod]]
-[[Lesmere]]
 [[Blijgrat]]
-[[Weadland]]
 %%
 <p>The Meadi peoples, together with their closely related Weadi cousins on the Gullsong Sea coast, are the inhabitants of <a href="Meadland" class="internal-link">Meadland</a>, named after the River Mead. In the tongue of the ancient tribes of the Age of the <a href="Auguri Dominion" class="internal-link">Auguri</a>, "Meadi" simply meant "Those who come from the west" or just "West", and "Weadi" in the same way "Men from the North". The Meadi make up one of the largest and most influential groupings of humans on Inara and are largely united under the Crown of <a href="Meadrath" class="internal-link">Meadrath</a> in the modern day.</p>
 <h2>The Meadi</h2>
@@ -23,4 +13,8 @@
 <h2>Faith and Custom</h2>
 <p>Today the Meadi are overwhelmingly followers of <a href="Trinicism" class="internal-link">Trinicism</a>, but traditions from the time before Gethricism survive all the same. The Green Week, a festival around midsummer, is one of them, and the old ways in general are stronger in the western lands than in the centre or the east. <a href="Augurism" class="internal-link">Augurism</a> lives on in small communities in the larger western cities, almost nothing is left of the <a href="Turvik Paganism" class="internal-link">Turvik</a> cults east of Korsfall, and various cults along the Trinmo still worship <a href="Melara" class="internal-link">Melara</a>, the Trinmother, as their patron and goddess. The Meadi have kept the Auguri reverence for scholars, physicians and mages, and learning is held in high regard from the court to the countryside.</p>
 <h2>The Weadi</h2>
-<p>The Weadi, or Weadmer, are often seen as their own cultural group, largely because of their different albeit related language, their political independence from Meadrath and their more liberal and autonomous culture, beyond obvious historic differences and challenges. They count themselves among the Four Tribes of Wead, the Lotmer, Frijmer and Osmer, named after the Lot, the Frij and the Ostor, the three largest rivers dividing the flatlands of Weadland, and the Kranmer of the Moors, who are ruled by <a href="Lesmere" class="internal-link">Lesmere</a> as a Duchy under Meadrath. The first three are largely united within the loose political entity of the <a href="Blijgrat" class="internal-link">League of Blijgrat</a> in modern times. For their older history see <a href="Weadland" class="internal-link">Weadland</a>.</p>
+<p>The Weadi, or Weadmer, are often seen as their own cultural group, largely because of their different albeit related language, their political independence from Meadrath and their more liberal and autonomous culture, beyond obvious historic differences and challenges. They count themselves among the Four Tribes of Wead, the Lotmer, Frijmer and Osmer, named after the Lot, the Frij and the Ostor, the three largest rivers dividing the flatlands of Weadland, and the Kranmer of the Moors, who are ruled by <a href="Lesmere" class="internal-link">Lesmere</a> as a Duchy under Meadrath. The first three are largely united within the loose political entity of the <a href="Blijgrat" class="internal-link">League of Blijgrat</a> in modern times. </p>
+
+<p>The Weadi live in the low and watery lands between the Trinwood and the sea, and they have shaped those lands with their own hands. With irrigation, ditches, dams and dikes they have drained fens, held back the tides and turned the rivers to their purposes, and their country is one of reclaimed fields, canals and windmills, with great hills here and there on which the oldest lords of the land once built their seats. The lords of old Weadland took the title of Highlord from these hills.</p>
+
+<p>The Lotmer of the north-west around <a href="Zeeport" class="internal-link">Zeeport</a> and the Lot, the Frijmer of the north-east around Hevn and the Frij, and the Osmer of the south-east around Schipwig and the Ostor differ in dialect and custom, but they share the Weadi tongue, which is related to High Meadi and easily told from it, and the custom of styling their houses "van". The Weadi are a people of burghers, traders and seafarers, proud of their liberty and wary of kings, and their cities are governed by councils, guilds and patrician families more than by lords. Most of them are Trinicists like the Meadi. For their older history see <a href="Weadland" class="internal-link">Weadland</a>.</p>

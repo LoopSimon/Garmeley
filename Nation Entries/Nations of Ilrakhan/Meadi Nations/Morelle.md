@@ -5,9 +5,7 @@
 [[Auguri Dominion]]
 [[Dirneux]]
 [[Mear]]
-[[Freelands]]
-[[Rivalt du Chian]]
-[[Meadi Othiri War]]
+[[Tintarol]]
 [[Cearic]]
 [[Ulrike Metzen]]
 [[Meadhavn]]
@@ -50,7 +48,7 @@
  </div>
  <div class="wiki-row">
  <strong>Formed</strong>
- <span>as Kingdom: 260PA<br>as Archduchy: 361PA<br>as Duchy: 833PA</span>
+ <span>as Kingdom: 262PA<br>as Archduchy: 361PA<br>as Duchy: 833PA</span>
  </div>
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Morelle_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
@@ -63,7 +61,7 @@
 <p>The Dukes du Bregelle descend from the line of the petty kings of Morelle. Morelle was held in high regard from the day of its submission and was the premier vassal of Korsfall, and alongside <a href="Dirneux" class="internal-link">Dirneux</a> and later <a href="Gisvale" class="internal-link">Gisvale</a> it was one of only three realms granted the title of Archduchy. For more than four centuries the du Bregelle bore it, until one of them threw it away.</p>
 <p>Since the Fiseux Uprising the house has been dishonoured by history. The du Bregelle are still hailed as Oathbreakers behind their backs almost a century later, and "Platis" has become synonymous with traitor in the Meadi tongue.</p>
 <h2>History</h2>
-<p>War between Morelle and Korsfall broke out in 282PA, and after the Battle of the Voiceless in 285PA the king of Morelle bent the knee and Korsfall came to dominate northern Meadland. The kings of Morelle were raised to Archdukes in 361PA, and in 399PA the Archdukes founded the fortified port of <a href="Meadhavn" class="internal-link">Meadhavn</a> at the mouth of the Mead, to protect the shores of Morelle against the raids of the Bykmåli of Trykkerog. In 588PA a young Cearic began his work under Duke Pippin du Bregelle, and he would die in the Whisperhills in 620PA, torn apart on the orders of Ingerma, the Duke's own daughter, after he refused to serve her as he had her father. In 811PA the Crown's man <a href="Rivalt du Chian" class="internal-link">Rivalt du Chian</a> destroyed the Silver Brotherhood, the robber barons of the Lutewoods whom the Duke du Bregelle had failed to suppress for years.</p>
+<p>War between Morelle and Korsfall broke out in 282PA, and after the Battle of the Voiceless in 285PA the king of Morelle bent the knee and Korsfall came to dominate northern Meadland. The battle was fought in a mist so thick and still that the horns of Morelle could not be heard across the field, and the army of the king could neither be commanded nor rallied. The kings of Morelle were raised to Archdukes in 361PA, and in 399PA the Archdukes founded the fortified port of <a href="Meadhavn" class="internal-link">Meadhavn</a> at the mouth of the Mead, to protect the shores of Morelle against the raids of the Bykmåli of Trykkerog. The lands of Diralais in the north-west had been taken from Morelle in the 4th century by <a href="Tintarol" class="internal-link">Tintarol</a>, across the Urdfall Peaks, and renamed Dirdale, and when the Meadi reconquered them in 586PA the new name stuck. In 588PA a young Cearic began his work under Duke Pippin du Bregelle, and he would die in the Whisperhills in 620PA, torn apart on the orders of Ingerma, the Duke's own daughter, after he refused to serve her as he had her father. In 811PA the Crown's man <a href="Rivalt du Chian" class="internal-link">Rivalt du Chian</a> destroyed the Silver Brotherhood, the robber barons of the Lutewoods whom the Duke du Bregelle had failed to suppress for years.</p>
 <p>After the <a href="Meadi Othiri War" class="internal-link">Meadi Othiri War</a> Archduke Platis du Bregelle read a king crippled at Red Oak as a target of opportunity and moved to seize the throne in 832PA. The plot is known to history as the Fiseux Uprising, after the Count of Fiseux who stood at its head in the field. Among the conspirators was a magus who channelled his spells through his blade, a sword that always seemed to pulse as if alive. Bernard du Jera of Dirneux slew him and took the blade in turn, and was vanquished by the necrotic energies bound within it. Meanwhile Count von Firsberg, a lesser noble of the Crownlands, was visiting the king with his eldest son when the guards of the two sides came to blows, and he took the Count of Fiseux hostage. The guards of Fiseux seized the son in turn and threatened him unless the count was freed. Father and son only nodded to each other, for loyalty to the king came first, and the boy died. Fiseux cried out in desperation and was later brought before the king, his plot foiled.</p>
 <p>The king had Platis hanged together with his two eldest sons. In 833PA Morelle lost its title of Archduchy and roughly half of its lands in the north, wwith the important port of <a href="Meadhavn" class="internal-link">Meadhavn</a>, which went to Count von Firsberg as the first Duke of <a href="Mear" class="internal-link">Mear</a>. The du Bregelle kept the south as mere Dukes.</p>
 <p>The duchy has given the realm other names since. <a href="Marrin Andil" class="internal-link">Marrin Andil</a>, a lord of Morelle born at Andil and a follower of Archduke Jean du Jera, left for the new world after the fall of the old guard in 913PA and founded <a href="Ulbreek" class="internal-link">Ulbreek</a>. <a href="Ulrike Metzen" class="internal-link">Ulrike Metzen</a>, the third child of the Count of Metzen in the south of the duchy, became one of the leading astronomers of her day.</p>
