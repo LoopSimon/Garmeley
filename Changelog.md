@@ -1,3 +1,13 @@
+- 2026-10-18T1837 · Yahrwick
+- 2026-10-18T1836 · Torvald I
+- 2026-10-18T1836 · Korsfall College
+- 2026-10-18T1836 · Trinmo
+- 2026-10-18T1835 · Royal Congress
+- 2026-10-18T1834 · Meadrath
+- 2026-10-18T1812 · Gisela II
+- 2026-10-18T1800 · Korsfall
+- 2026-10-18T1641 · Alma Laridottr
+- 2026-10-18T1641 · Ida Laridottr
 - 2026-10-18T1640 · Krindor
 - 2026-10-18T1613 · Medlan
 - 2026-10-18T1505 · Tintarol
@@ -14,10 +24,8 @@
 - 2026-10-18T0747 · Morelle
 - 2026-10-18T0746 · Dirneux
 - 2026-10-18T0743 · Rulers of the Meadi
-- 2026-10-18T0728 · Meadrath
 - 2026-10-18T0721 · Complete Timeline
 - 2026-10-18T0716 · Ulrike I
-- 2026-10-18T0715 · Torvald I
 - 2026-10-18T0711 · Marlina I
 - 2026-10-18T0710 · Ardol III
 - 2026-10-18T0351 · Faarhovn
@@ -35,7 +43,6 @@
 - 2026-10-18T0029 · Weisch
 - 2026-10-18T0029 · Meadi
 - 2026-10-18T0023 · Kaspar Vasser
-- 2026-10-18T0021 · Yahrwick
 - 2026-10-18T0021 · Baeling Empire
 - 2026-10-18T0019 · Gesellschaft für Westmeadischen Handel
 - 2026-10-18T0019 · Meadhavn
@@ -54,16 +61,12 @@
 - 2026-10-17T0339 · Freelands
 - 2026-10-17T0316 · Gismar
 - 2026-10-17T0315 · Wulfrick
-- 2026-10-16T2349 · Gisela II
 - 2026-10-16T2349 · Meadi Othiri War
-- 2026-10-16T2327 · Korsfall
 - 2026-10-16T2258 · Turvik Paganism
 - 2026-10-16T2258 · Situation in the Paper Cities
 - 2026-10-16T2257 · Galiatar Inkfingers
 - 2026-10-16T2254 · Knights of the Green Tree
 - 2026-10-16T2253 · Rivalt du Chian
-- 2026-10-16T2241 · Trinmo
-- 2026-10-16T2234 · Royal Congress
 - 2026-10-16T2007 · Garmeley
 - 2026-10-16T2006 · Leok
 - 2026-10-16T1944 · Redflow
@@ -110,7 +113,6 @@
 - 2026-10-15T2001 · Urien
 - 2026-10-15T1956 · The Sun
 - 2026-10-15T1836 · Shimun
-- 2026-10-15T1834 · Korsfall College
 - 2026-10-15T1833 · Jiravid
 - 2026-10-15T1833 · Karajal School of Insight
 - 2026-10-15T1832 · Korman van Schipwig
@@ -396,5 +398,3 @@
 - 2026-10-07T1855 · Yin
 - 2026-10-07T1855 · Daigonis Xiguo
 - 2026-10-07T1811 · Sarmi
-- 2026-10-06T2239 · Nuguli
-- 2026-10-06T2238 · Kombe

@@ -31,6 +31,7 @@
 [[Treaty of Uhl]]
 [[Treaty of Lotsprings]]
 [[Gesellschaft für Westmeadischen Handel]]
+[[Korsfall]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Meadrath</h4>
@@ -44,7 +45,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>Korsfall</span>
+        <span><a href="Korsfall" class="internal-link">Korsfall</a></span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>
@@ -76,7 +77,7 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Meadrath_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> Dominated by two mighty Rivers, the Mead in the west and the <a href="Trinmo" class="internal-link">Trinmo</a> to the east, the lands of the meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world as far as population is concerned, Meadraths largest cities are the Capital Korsfall, the population centres of Praum, Bellhome, Jera, Morelle and Wormill as well as its largest port Meadhavn. The Banner of the Kingdom shows the Black Dragon <a href="Dragon" class="internal-link">Heximar</a>, known as the Unlit, that was slain at what is now known as Drakesfall Hills by the legendary Hero <a href="Gismar" class="internal-link">Gismar</a>.</p>
+<p> Dominated by two mighty Rivers, the Mead in the west and the <a href="Trinmo" class="internal-link">Trinmo</a> to the east, the lands of the meadi are rich and prosperous. Second only to the Gethric Kingdom of <a href="Vihr" class="internal-link">Vihr</a> in the east, Meadrath remains one of the largest human realms in the known world as far as population is concerned, Meadraths largest cities are the Capital <a href="Korsfall" class="internal-link">Korsfall</a>, the population centres of Praum, Bellhome, Jera, Morelle and Wormill as well as its largest port Meadhavn. The Banner of the Kingdom shows the Black Dragon <a href="Dragon" class="internal-link">Heximar</a>, known as the Unlit, that was slain at what is now known as Drakesfall Hills by the legendary Hero <a href="Gismar" class="internal-link">Gismar</a>.</p>
 <p>Sometimes referred to as the "Meadi Empire", Meadrath projects political authority over official and unofficial vassal states in Meadland but also across the seas, growing increasingly more interested in dominance over both the western half of Ilrakhan but also lands across the ocean in Aisligos. The Country is ruled by the Crown of Meadrath, currently held by Queen <a href="Gisela IV" class="internal-link">Gisela IV</a> as well as the <a href="Royal Congress" class="internal-link">Royal Congress</a>, an advisory board administrating the Kingdom and its dependencies. Meadrath has often been considered one of the "Three Great Powers" of contemporary politics alongside the <a href="Vihr" class="internal-link">Rascy zi Vihr</a> and the <a href="Elbae" class="internal-link">Elbae Sultante</a>, as all three nations dominate their regions and keep each other in check, economically, militarily and scientifically.</p>
 
 <h2>Geography</h2>
@@ -84,7 +85,7 @@
 <h2>Demographics</h2>
 <p>The Majority population in Meadrath is made up of Meadi and Weadi human, with Urien Human, Half-elfs, Gnomes and Halflings making up the largest minorities. While some Trykkerogi have settled and assimilated in the northern coastal towns, they remain a small minority. <br> The traditionally lax and welcoming attitude of the Meadi Kings and Queens, in combination with the stellar reputation of the <a href="Korsfall College" class="internal-link">Korsfall College</a>, has lead to a larger than average percentage of Arcane practitioners in Meadrath, surpassed in numbers only by the <a href="Elbae" class="internal-link">Elbae Sultanate.</a> </p>
 <h2>Economy</h2>
-<p>In the early 10th century, Meadrath alongside Blijgrat dominates Ilrakhani trade and manufacturing, merchants in Korsvale, Giselstatt and Meadhavn have developed large business organizations such as Whisperhill Shipping or the Gisvale Trade Company.  
+<p>In the early 10th century, Meadrath alongside Blijgrat dominates Ilrakhani trade and manufacturing, merchants in <a href="Korsfall" class="internal-link">Korsfall</a>, Giselstatt and Meadhavn have developed large business organizations such as Whisperhill Shipping or the Gisvale Trade Company.  
 The introduction of the high-temperature forge in the mountainous Meadrath has led to mineral mining, although the country is forced to import copper, bronze and tin from Battvia, Vihr and Urland. Mines and glasswork are benefitting greatly from royal tax exemptions since the early 10 century. Silk production, introduced in Jera, Bellhome and Praum in the late 9th century, enabled the Meadi to join a thriving market, but meadi products remain of lesser quality than Cevoli Silk. Wool production is widespread in the country, just like the production of linen and hemp; all major export production. </p>
 
 <p>Giselstatt serves as the center of Meadrath`s banking and international trade markets, fairs occur six times a year and facilitate the export of meadi goods like the aforementioned fabrics and import of international goods as well as allowing the importation of more exotic goods from the south such as alum, glass, spices and dyes. Trade was roughly balanced with the Blijgrat League, but Meadrath ran a large trade deficit for a long time with Battvia due to the latter's silks and exotic goods, a fact that has changed in the last century due to the political control exerted on the south during the Cevolian Civil Wars.</p>
@@ -95,7 +96,7 @@ The introduction of the high-temperature forge in the mountainous Meadrath has l
 <small><i>see <a href="Trinicism" class="internal-link">Trinicism</a></i></small>
 <p>The vast majority of the population follows the decentralized and diverse local Churches of the Trinicist Faith, strongest in the Lands around the Trinmo and Gisvale, for it was at Trinfurt on the eastern border of the Kingdom, in the Bend of the Trinmo, that the Conclave of 764PA and the Great Schism between the Gethric and Trinicist Church took place.<br> Further west, small communities and specific social demographics in the larger cities still practice <a href="Augurism" class="internal-link">Augurism</a> while almost no remnants of pre-Gethric belief such as <a href="Turvik Paganism" class="internal-link">Turvik Cults</a> can be found east of Korsfall.</p>
 <h2>Politics</h2>
-<p> The Kingdom of Meadrath is one of the most important political entities on Inara and the Nucleus of the "Meadi Empire" encompassing a sphere of influence stretching from Trinvale and Uhl, the Weadlands and central Meadrath all the way to the Halfling Freelands to the west. <br> The political nexus of all these nations inevitably is the Korsfall Court in the Kingdoms Capital that is dominated by the Royal Congress, a Council of dignitaries of the three estates that advises the Monarch on matters of economic, national and international policy. <br>
+<p> The Kingdom of Meadrath is one of the most important political entities on Inara and the Nucleus of the "Meadi Empire" encompassing a sphere of influence stretching from Trinvale and Uhl, the Weadlands and central Meadrath all the way to the Halfling Freelands to the west. <br> The political nexus of all these nations inevitably is the <a href="Korsfall" class="internal-link">Korsfall Court</a> in the Kingdoms Capital that is dominated by the Royal Congress, a Council of dignitaries of the three estates that advises the Monarch on matters of economic, national and international policy. <br>
 The so called "Meadi Empire" as it is referred to colloquially, describes the various minor or major nations and cities ruled directly or indirectly by the decisions of the Royal Court, this architecture of dependency and alliances is often referred to as the Fulmer-System, named after High-Chancellor <a href="Odrick von Fulmer" class="internal-link">Odrick von Fulmer</a> who was instrumental in the creation and organization of the modern day Royal Congress.</p>
 <h3>The Realms of the Crown</h3>
 <p>Besides the Crownlands around Korsfall, which the Crown holds directly, the Kingdom is ringed by ten great vassals, all of whom sit in the <a href="Royal Congress" class="internal-link">Royal Congress</a> and enjoy varying degrees of local autonomy. Two of them are Archduchies, five are Duchies and one is a Landgraviate, and two, Zmalig and the Freelands, stand apart in their form of rule.</p>
@@ -169,8 +170,10 @@ The Kingdom of <a href="Gisvale" class="internal-link">Gisvale</a> was formed in
 The mighty Diedrick would rule Gisvale until his death when his son Ringil, who had married an urien Princess would succeed him in 622PA. 
 Tibors son, a boy called Giselher, now grown up and with children of his own, had spent the decades since rallying loyalists and allies to his banner and would now, with the Lord of Korsfall at his side, dare to make a bid for the Throne in Giselstatt.
 The following conflict is known to history as <a href="War of Trout and Drake" class="internal-link">The War of Trout and Drake</a> and last for over three decades. At its end, Giselstatt was conquered, the line of Diedrik extinguished and the Dragon Banner of Gismar raised in supreme victory, but not without its costs. Tens of thousands had died and the vast majority of the rich farmlands and fields of the Gisvale been devastated, Giselher himself as well as his sons had died in battle and only his daughter Liara remained.</p>
+
 <p>And so it was that on the even of Fall, in 664PA, Liara of the House of Gismar would marry Gunther of the House of Kor, the Lord of Korsfall and her fathers strongest supporter.
-Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. The Union of the two realms was proclaimed in 664PA, and Gunther III and Liara ruled the united lands together until, in 674PA, their firstborn son Gildher was crowned as the first King of Meadrath, the unified Lands of his ancestors.</p>
+Liara would be declared Queen in Giselestatt like her Grandfather had been and the two ruled the lands of Korsfall and Gisvale together. The Union of the two realms was proclaimed in 664PA, and Gunther III and Liara ruled the united lands together until, in 674PA, their firstborn son Gildher was crowned as the first King of Meadrath, the unified Lands of his ancestors. The Union is still remembered every year on the eve of Fall at <a href="Korsfall" class="internal-link">Korsfall</a> as Union Day.</p>
+
 <p>Under the rule of Gildher II, in 682PA the Crown would break apart the dominions of Diedrik, as they were before his usurpation of Gisvale, in the central meadi Highlands, creating the Duchies of Risfalt in the west and Wargel in the east instead and granting them to Houses loyal to Korsfall during the war that had refused to aid Diedrik during the War.</p>
 <h3>Gisela II & the Rise of Trinicism</h3>
 <p>In the year 704PA, Gisela of House Kor would be crowned Queen Gisela II of Meadrath, after the death of her father, Gildher II. Her reign lasted for over 68 years and usher in an age of prosperity and progress for the meadi people that would leave the Kingdom as one of the premier powers of the Inaran continent. During her formative years as a young monarch, Gisela succesfully confronted rebellious vassals and was guided by her mother, the late Queen-Mother Margaret of Jera.</p>
@@ -216,6 +219,9 @@ Frederick von Mart
 Odrick von Fulmer
 	High-Chancellor of Meadrath, Count of Fulmer
 	
+Louis du Beurin
+	 Count du Beurin, Lord of Korsfall
+	 
 Jean du Jera
 	Archduke of Dirneux, Father to the Queen, in exile from court
 	
