@@ -3,6 +3,7 @@
 [[Gethricism]]
 [[Vihr]]
 [[Candleguard]]
+[[Deacon]]
 %%
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Iztaw.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Candleflame Banner</i></small>
@@ -54,7 +55,7 @@ A gethric Bishop is the overseer of an ecclesiastical province, they have oversi
 
  ##### Deacon
 
-A Deacon is an ordained Minister or Father of the Faith that acts as a co worker and right-hand to the Bishop, but is usually focused on direct service, public outreach and more "direct" protection of the faith within the ecclesiastical province, a Bishop tends to have only a single Deacon although this tradition has been broken in the past, a Deacon is chosen at the personal request of his Bishop. In some cases the role of a Deacon is forgone entirely, particularly in Bishoprics that are smaller or work in close cooperation with a gethric Order of Knights or equivalent organization, when the Vicar simply assumes the remaining responsibility of the role.
+A Deacon is an ordained Minister or Father of the Faith that acts as a co worker and right-hand to the Bishop, but is usually focused on direct service, public outreach and more "direct" protection of the faith within the ecclesiastical province, a Bishop tends to have only a single Deacon although this tradition has been broken in the past, a Deacon is chosen at the personal request of his Bishop. In some cases the role of a Deacon is forgone entirely, particularly in Bishoprics that are smaller or work in close cooperation with a gethric Order of Knights or equivalent organization, when the Vicar simply assumes the remaining responsibility of the role. Among the Meadi and Weadi the title is also given to a minister of the law whom a noble lord, a lord castellan or a city council calls on, see [[Deacon]].
 
  ##### Vicar
 

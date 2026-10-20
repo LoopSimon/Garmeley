@@ -1,0 +1,8 @@
+%%
+[[Terem-Zal]]
+[[Ott]]
+[[Sulbra-Kol]]
+%%
+<p>Stone Chronology, often called the "Nuznud Mapping" is a relatively minor school of thought originating from the <a href="Muxul" class="internal-link">Muxul</a> of <a href="Ott" class="internal-link">Ott</a>, where the gnomish scholar Nuznud developed it as a counter argument to the classical theology of the dwarvish <a href="Terem-Zal" class="internal-link">Terem-Zal</a>, it is considered heresy to many if no all mayor Terem-Zal Temples and sects.</p>
+<p>Nuznud build and published his theory in the early 9th century, although it gained traction within the dwarven Halls of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a> especially only around the middle 9th century, following the "Nuznud Incident" in 868PA that saw riots break out and a mob of zealots kill a delegation of ottian Stone Chronologists.</p>
+<p>As Nuznud posits, mapping the strata shows that the Terem-Zal priesthood’s creation myth matches the order of the rocks, therefore the gods of the Terem-Zal are younger than the world. This lets us map the movement of the Terem-Zal as regular phyiscal body over the course of tens of thousands of years, based on residue and histories. In practice the Nuznud Mapping has led to a full on heresy trial between Ott and the Hold and perhaps even more fundamental,  a forbidden map of the Algarak’s holy sites which, read in order, traces the gods sinking.</p>

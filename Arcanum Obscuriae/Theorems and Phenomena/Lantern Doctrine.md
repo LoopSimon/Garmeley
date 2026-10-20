@@ -1,0 +1,8 @@
+%%
+[[Tageyo]]
+[[Golden Dusk]]
+[[Elven Paragonworship]]
+%%
+<p>The Lantern Doctrine is an almost doom cult like school of thought, evolving from a radical sect within the <a href="Golden Dusk" class="internal-link">Golden Dusk</a>, the elvish traditional institution of <a href="Elven Paragonworship" class="internal-link">Paragonworship</a>. It is most prevalent in the southern lands of the <a href="Elbae" class="internal-link">Elbae Sultante</a>  in the modern day. The core claim of the Doctrine is that our world shines in the dark between worlds, and what shines within it is thought itself.</p>
+<p>It finds its roots in the despair felt by the most far travelling elven caravaneers the crossed the eastern deserts to the lands beyond the <a href="Yorgos" class="internal-link">yorgosi</a> and into the realms of southern Behera, tales of this reached deeper and deeper into the lands of the central Elbae lands, eventually leading to the term "the shaded land", describing the centre of the Smaragd Sea of the Safir, without knowing it, what they sensed there is the <a href="Tageyo" class="internal-link">Tageyo Field</a> of the Yari.</p>
+<p>True adherents to the Lantern Doctrine are called the "Dimmers", they are contemplatives who practise emptied mind, making long pilgrimages to Southern Behera, into the shaded lands. According to the dimmers introspection is a sin, a noise to be quieted, leading to these on a first glance dignified pilgrims expressing behaviours perhaps more closely associated with hedonism and showing, or at least trying to show, no concern for past or future, rhyme or reason.</p>

@@ -18,7 +18,7 @@ There are very few of them, likely under 30 in total, and they often take the sh
 <p>Yari interact with mortal society through servants, known as the Ginru. They rarely communicate with anyone outside of their respective chosen servants and give them aspects of themselves. Whoever drinks the the blood of a Yari, known as the Rom, is granted boons and powers, this happens rarely but generally depends on the individual Yari. Important to note is the lack of control a Yari has over whoever they chose to grant these powers. Ginrus often work under the directive of their Yari patron and sometimes organize in sects, commanding warriors, spreading the word of their benefactor or leading cities and countries.</p>
 <p>A Yarimanji is a mortal that has fully absorbed the essence of a Yari, historically this has been done both consenually and no consensually on behalf of both Yari and Yarimanji. The results of this process are entirely unique depending on the Yari but there seem to be general effects such as large increase in physical and spiritual strength, reduced or stopped cell degeneration and aging and at least superficial prescience. One of the most famous Yarimanji is <a href="Hilcarax" class="internal-link">Hilcarax</a>, the Great Sage of <a href="Koshtir" class="internal-link">Koshtir</a>.</p>
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Pnurfezec.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-<small><i>Pnurfezec, dead Yari of the Mists</i></small>
+<small><i>Pnurzefec, dead Yari of the Mists</i></small>
 </div>
 
 <h5>known Yari</h5>
@@ -31,7 +31,7 @@ There are very few of them, likely under 30 in total, and they often take the sh
 <p>Aleac, the Deep Hunter</p>
 <p>Vomentesh, Father of Blood</p>
 <p>Caunet, the Faceless</p>
-<p>Pnurfezec, Mistwatcher: Absorbed and killed by the Yarimanji <a href="Hilcarax" class="internal-link">Hilcarax</a></p>
+<p>Pnurzefec, Mistwatcher: Absorbed and killed by the Yarimanji <a href="Hilcarax" class="internal-link">Hilcarax</a></p>
 <p>Nictor, the Slaying God</p>
 <p>Jiletez, Bound-by-Time</p>
 <p>Oleithec, Hallowed One</p>

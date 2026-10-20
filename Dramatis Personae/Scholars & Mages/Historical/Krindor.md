@@ -2,6 +2,7 @@
 [[Realmatic Nativism]]
 [[Bykmåli]]
 [[Mørbrig]]
+[[Scions of Markur]]
 [[Spiritual Realm]]
 %%
 <div class="wiki-infobox">

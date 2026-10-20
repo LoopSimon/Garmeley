@@ -1,30 +1,3 @@
-%%
-[[Starworship]]
-%%
-<div class="wiki-infobox">
- <h4 class="wiki-header">Urden</h4>
- <div class="wiki-row">
- <strong>Constellation</strong>
- <span>The Coin</span>
- </div>
- <div class="wiki-row">
- <strong>Cyclopi Deity</strong>
- <span>Shoyal, outer God of Magic<br>and the Elements</span>
- </div>
- <hr class="wiki-hr">
- <div class="wiki-row">
- <strong>Beheran Elvish</strong>
- <span>Ilmaer<br>"the Weaver"</span>
- </div>
- <div class="wiki-row">
- <strong>High Meadi</strong>
- <span>Aughral<br>"the Sage-Fire"</span>
- </div>
- <div class="wiki-row">
- <strong>Urien</strong>
- <span>Wirkstern<br>"Working-star"</span>
- </div>
-</div>
-<p>Urden is the brightest star of the Coin-Constellation. Within the Cyclopi <a href="Starworship" class="internal-link">Starworship</a>, it is the outer God of Magic and the Elements, known as the Shoyal, and one of the two strongest forces in their cosmology. The other is <a href="Malham" class="internal-link">Malham</a>, the inner God of Order, and the ability to align the two is seen as essential to the legitimacy of the First Seer and the Oracle.</p>
-<h2>Names</h2>
-<p>The Elves, whose scholars have studied the arcane for longer than any other people, call it Ilmaer, "the Weaver". In High Meadi it is Aughral, "the Sage-Fire", the star the Sages of the <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a> turned to when they built their monopoly on magic. The Urien call it Wirkstern, "Working-star".</p>
+%% [[Starworship]] %%
+
+<div class="wiki-infobox"> <h4 class="wiki-header">Urden</h4> <div class="wiki-row"> <strong>Constellation</strong> <span>The Coin</span> </div> <div class="wiki-row"> <strong>Cyclopi Deity</strong> <span>Shoyal, outer God of Magic<br>and the Elements</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Beheran Elvish</strong> <span>Ilmaer<br>"the Weaver"</span> </div> <div class="wiki-row"> <strong>High Meadi</strong> <span>Wirkstern<br>"Working-star"</span> </div> <div class="wiki-row"> <strong>Urien</strong> <span>Aughral<br>"the Sage-Fire"</span> </div> </div> <p>Urden is the brightest star of the Coin-Constellation. Within the Cyclopi <a href="Starworship" class="internal-link">Starworship</a>, it is the outer God of Magic and the Elements, known as the Shoyal, and one of the two strongest forces in their cosmology. The other is <a href="Malham" class="internal-link">Malham</a>, the inner God of Order, and the ability to align the two is seen as essential to the legitimacy of the First Seer and the Oracle.</p> <h2>Names</h2> <p>The Elves, whose scholars have studied the arcane for longer than any other people, call it Ilmaer, "the Weaver". In High Meadi it is Wirkstern, "Working-star". The Urien call it Aughral, "the Sage-Fire", and it was the star the Sages of the <a href="Auguri Dominion" class="internal-link">Auguri Dominion</a> turned to when they built their monopoly on magic.</p>

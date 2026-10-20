@@ -21,10 +21,6 @@
         <span>881PA,</span>
     </div>
     <div class="wiki-row">
-        <strong>Died</strong>
-        <span>alive</span>
-    </div>
-    <div class="wiki-row">
         <strong>Age</strong>
         <span>48</span>
     </div>

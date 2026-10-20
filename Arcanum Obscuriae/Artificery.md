@@ -1,6 +1,6 @@
 %%
 [[Basic Magical Theory]]
-[[The Ottian Syndicate 1]]
+[[The Ottian Syndicate]]
 [[Basic Magical Theory]]
 [[Auguric Rite & Autonomous Spells]]
 %%
@@ -8,12 +8,14 @@
 	<p>Tiogum: the Maintenance of an Artefact</p>
 	<p>Vellum: the Modulation of an Artefact</p>
 	<p>Ixinum: the Creation of an Artefact</p>
-<p>Notable an Artefact is a crucial step in the process of casting, also known as the manipulation of planar energies. It enables the creation of a Prism within a Fluxbridge that allows a Caster, or more likely the activating Force of a given spell, to adjust and direct planar energies. A solid grasp of  <a href="Basic Magical Theory" class="internal-link">basic</a> and <a href="Advanced Magical Theory" class="internal-link">advanced</a> magical theory is posited by the following overview of the Art of Prosum.</p>
+<p>Notable an Artefact is a crucial step in the process of casting, also known as the manipulation of planar energies. It enables the creation of a Prism within a Fluxbridge that allows a Caster, or more likely the activating Force of a given spell, to adjust and direct planar energies. A solid grasp of  <a href="Basic Magical Theory" class="internal-link">basic</a> and Advanced Magical Theory magical theory is posited by the following overview of the Art of Prosum.</p>
 
 <h2>Ottian Grading</h2>
 <p>Within the academics of Prosum, a grading system for artefacts has been established that has become widely popular in use far beyond the mere academic circles on essentially the entire subcontinent, although many cultures and regional traditions reject the idea of "Artificery" altogether or decline to view certain Objects that may hold deep religious or cultural value as mere scientific metrics.</p>
 <h5>Ran / Special Rank</h5>
 <p>Ran Grade Artefact escape the categorization of the standard 1st to 5th ranks due to being hyperspecialized tools that function fundamentally different and cannot be compared to regular artefacts, no examples available.</p>
+<h5>Plark / Residual Rank</h5>
+<small><i>see <a href="Law of the Settled Ledger" class="internal-link">The Law of the Settled Ledger</a></i></small>
 <h5>Uzd / First Rank</h5>
 <p>Uzd Grade Artefact are capable of manipulating only extremely limited amounts of Planar Energy and are usually rather one note, however often have the advantage of very easy Vellum-Modifications and Adaptability. Often times these items are so easy to create within Tiogum, that they are limited to one time uses and rely on easy, one-time prism structures. Regular Enhancements can be found here but as these rely on conditional flux bridges the complexity of the Tiogum usually exceeds this Grade. Examples include the infamous Cevolian Nail, also colloquially referred to as the "Stubborn Nail" or the popular Bottle of Jingari. All lesser Uzd-Stones are, as the name implies of this rank.</p>
 <h5>Zadan / Second Rank</h5>

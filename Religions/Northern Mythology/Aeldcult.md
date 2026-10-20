@@ -1,7 +1,7 @@
 Originated from the practice of Pehki Druidism and [[Giantsrul]] traditions, the Aeldcult, sometimes referred to by southerners as "Eldcult" is a naturalistic Faith that can be related to other forms of Spirit worship such as the worship of the [[Kindly Lords]] or the [[Terem-Zal]].
 However where these practices worship specific [[Greater Spirit]]s, the Aeldcult believes in a greater consciousness of the land itself and views the [[Fey]] of the Eldveil as divine beings and messengers of the land itself.
 It is in many parts hard to differentiate it from the [[Bykmali Paganism]] traditions and worships the same greater spirits and gods as the cult in large parts.
-The Aeldveil, a stretch of dense Forest between Ukiolla and the Waelajokull, is seen as a holy place of worship within the Cult. It is still common practice to send elders ready for death out into the veil as well as bury the fallen there. 
+The Aeldveil, a stretch of dense Forest between Ukiolla and the Waelajokull, is seen as a holy place of worship within the Cult. It is still common practice to send elders ready for death out into the veil as well as bury the fallen there. Many arcane scholars count the Aeldveil among the largest [[Dulmic Gate]]s known, though the druids have never permitted it to be studied.
 
 Traditional Aeldcult Practice is generally considered to be Animism.
 The Pehki belief that all significant objects, like rocks animals or plants, possess a soul, and from western perspective, Pehki religious teachings include a multitude of spirits as mentioned above.

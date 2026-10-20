@@ -11,7 +11,7 @@
 	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor</div>
 	        <div class="timeline-item" data-date="250000BA">Underland Trolls slowly evolve into the smaller Trogs</div>
 	        <div class="timeline-item" data-date="210000BA">Trog cultures dominate the pre historic underlands</div>
-	        <div class="timeline-item" data-date="200000BA">Terem-zal Formation Period begins</div>
+	        <div class="timeline-item" data-date="200000BA">The Terem-zal Awake around the Trog</div>
 	        <div class="timeline-item" data-date="130000BA">Oldest evidence of ancient seafaring from the island of Sarash</div>
 	        <div class="timeline-item" data-date="120000BA">Birth of Luna Minor; Era of Ash and Ice begins</div>
 	        <div class="timeline-item" data-date="111000BA">Era of Ash and Ice ends</div>
@@ -75,7 +75,7 @@
 	        <div class="timeline-item" data-date="2600BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
 	        <div class="timeline-item" data-date="2580BA">The First Mitimgar is built near Timgar Lake in the northern Underlands by the Timgari Goblins</div>
 	        <div class="timeline-item" data-date="2550BA">Empire of the Horad dominates northern Behera</div>
-	        <div class="timeline-item" data-date="2500BA">Terem-zal Formation Period Ends, marked by drow records in Tur-Enzal hint at biologically altered trogg colonies emerging from the Terem-Zal emergences, Birth of the modern Dwarf</div>
+	        <div class="timeline-item" data-date="2500BA">Birth of the modern Dwarf, marked by drow records in Tur-Enzal, that hint at biologically altered trogg colonies emerging from the Terem-Zal awakening sites,</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur Enzal begins</div>
 	        <div class="timeline-item" data-date="2420BA">The great drow city Tur Ajk is founded in the ruins of Murajk</div>
@@ -537,7 +537,7 @@
             <div class="timeline-item" data-date="620PA">First Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean & End of the Kingdom of Rean;<br>Death of Diedrik of Medlan, King of Gisvale, his son Ringil I succeeds him</div>
-            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurfezec and ascends</div>
+            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurzefec and ascends</div>
             <div class="timeline-item" data-date="625PA">2nd Vihri-Leoki War ends;<br> Rascy zi Dalniz is formed, end of the Rascy zi Leok</div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”;<br>
@@ -561,7 +561,7 @@
             <div class="timeline-item" data-date="659PA">Dissolution of Levelix and Creation of Balerey and Sebera; <br>Battle of Summerlake, death of the Count of Mussling; decisive loyalist victory breaks the last Medlan field army.</div>
             <div class="timeline-item" data-date="660PA">Yellow War begins;<br>Death of Ringil I of Medlan, Liara I von Gismar is restored as Queen of Gisvale</div>
             <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan;<br>Era of the Empty Seat ends in Kherova as the Heriod Dynasty emerges;<br>Wulfrick the Elder dies of the Spring Fever; the Wulfrick Observatorium is raised at Korsfall College in his memory in the years after</div>
-            <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends;<br>Liara I of Gisvale marries Gunther III of Korsfall, the Union of Meadrath is proclaimed</div>
+            <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends;<br>Liara I of Gisvale marries Gunther III of Korsfall, the Union of Meadrath is proclaimed;<br>Diago di Locci publishes "The Great Index"</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels</div>
             <div class="timeline-item" data-date="666PA">The Necromancer Morfeld is captured by Lyandra of Fairriver, later tried and burned alive in Uhl</div>
             <div class="timeline-item" data-date="668PA">Yellow War ends after the Peace at Kulum</div>
@@ -601,12 +601,14 @@
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="705PA">With the help of Runsby, drow settle the caverns beneath western Itharia, founding the underland Nation of Kilvea</div>
             <div class="timeline-item" data-date="706PA">Kaarmina brings the Mothers Word to her people</div>
+            <div class="timeline-item" data-date="707PA">Prince Arno di Battiva begins the great royal registrars making the goal of universal naming in di Loccas Image into real Battvian policy</div>
             <div class="timeline-item" data-date="708PA">Completion of the Timit Codex under Yoroy II "the Great"</div>
             <div class="timeline-item" data-date="709PA">Elven Colony of Almadin is granted formal autonomy, <br>Rise of the Tyrant Salvia in Firocco</div>
             <div class="timeline-item" data-date="710PA">The 4000 Faithful settle Zmalig</div>
             <div class="timeline-item" data-date="711PA">Anak Montener writes the Anak Codex</div>
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
+            <div class="timeline-item" data-date="714PA">Prince Arno di Battivas great hunts and attempts to steal the holy book of names of the Elfrealm of Rogyn reach their zenith</div>
             <div class="timeline-item" data-date="715PA">The inhabitants of Jurland vanish for reasons unknown</div>
             <div class="timeline-item" data-date="719PA">>Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos;<br>Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
@@ -727,7 +729,7 @@
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge Andre of Trydlew kills Muriel von Gloss</div>
             <div class="timeline-item" data-date="866PA"> 2nd Battle of Tears;<br> Treaty of Uhl ends the War of Horn & Fang</div>
             <div class="timeline-item" data-date="867PA">Founding of New Kulum;<br> Tusul surrenders to the Sultanate, end of the White Wars</div>
-            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks.</div>
+            <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks;<br>Nuznud Incident at Sulbra Kol after Stone Chronologists attempt to measure the Terem Zal.</div>
             <div class="timeline-item" data-date="869PA">Andre of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again</div>
             <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
