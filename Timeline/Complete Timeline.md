@@ -274,7 +274,7 @@
             <div class="timeline-item" data-date="33BA">Approximate Creation of Phiodales of Mizk´s Alwazattar Tablets</div>
             <div class="timeline-item" data-date="15BA">Sippuluma I defeats the Mogori Empire at the Fist of Nilmundis</div>
             <div class="timeline-item" data-date="12BA">Escaffar becomes the first Chimera Lord of Vanpur, end of the Xor-Ub</div>
-            <div class="timeline-item" data-date="0PA">The Eruption of Al-Akka, <br>End of the Empire of Rakh & Rakhi Disappearance; <br>Dissolution of the Meter Dynasty</div>
+            <div class="timeline-item" data-date="1BA">The Eruption of Al-Akka, <br>End of the Empire of Rakh & Rakhi Disappearance; <br>Dissolution of the Meter Dynasty</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">

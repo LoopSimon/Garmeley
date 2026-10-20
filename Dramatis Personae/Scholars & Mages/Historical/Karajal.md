@@ -1,44 +1,14 @@
+%%  
+[[Elf]]  
+[[Karajal School of Insight]]  
+[[Kwarzimi]]  
+[[Leygrid Theory]]  
+[[Jiravid]]  
 %%
-[[Elf]]
-[[Karajal School of Insight]]
-[[Kwarzimi]]
-%%
-<div class="wiki-infobox">
-    <h4 class="wiki-header">Karajal ar-Farroul</h4>
-    <div class="wiki-row">
-        <strong>Occupation</strong>
-        <span>Founder of the <a href="Karajal School of Insight" class="internal-link">Karajal School of Insight</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Culture</strong>
-        <span>Beheran <a href="Elf" class="internal-link">Elf</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Born</strong>
-        <span>231PA, <a href="Jiravid" class="internal-link">Jiravid</a></span>
-	    </div>
-    <div class="wiki-row">
-        <strong>Died</strong>
-        <span>398PA, Alparaz</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>Frog Sickness,<br>167 years of Age</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Field of Research</strong>
-        <span>Asomantic Channelling<br>Identification Magic</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Known Teachers</strong>
-        <span><a href="Kwarzimi" class="internal-link">Kwarzimi</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Known Students</strong>
-        <span>N/A</span>
-    </div>
-    <hr class="wiki-hr">
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Karajal.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
-</div>
+<div class="wiki-infobox"> <h4 class="wiki-header">Karajal ar-Farroul</h4> <div class="wiki-row"> <strong>Occupation</strong> <span>Founder of the <a href="Karajal School of Insight" class="internal-link">Karajal School of Insight</a></span> </div> <div class="wiki-row"> <strong>Culture</strong> <span>Beheran <a href="Elf" class="internal-link">Elf</a></span> </div> <div class="wiki-row"> <strong>Born</strong> <span>231PA, <a href="Jiravid" class="internal-link">Jiravid</a></span> </div> <div class="wiki-row"> <strong>Died</strong> <span>398PA, Alparak</span> </div> <div class="wiki-row"> <strong>Cause of Death</strong> <span>Frog Sickness,<br>167 years of Age</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Field of Research</strong> <span>Asomantic Channelling<br>Identification Magic</span> </div> <div class="wiki-row"> <strong>Known Teachers</strong> <span><a href="Kwarzimi" class="internal-link">Kwarzimi</a></span> </div> <div class="wiki-row"> <strong>Known Students</strong> <span>N/A</span> </div> <hr class="wiki-hr"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Karajal.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> </div> <p>Karajal ar-Farroul was an elven wizard and the founder of the <a href="Karajal School of Insight" class="internal-link">Karajal School of Insight</a>, which still bears his name as the premier institute of the arcane in the Elbae Sultanate. He was the only known student of the blind Magus <a href="Kwarzimi" class="internal-link">Kwarzimi</a>, whose Leypoint Model he carried out of Rahzalbis and made the foundation of elven arcane learning.</p> 
+
+
+<p>Born in <a href="Jiravid" class="internal-link">Jiravid</a> in 231PA, Karajal came to Kwarzimi as a young elf and studied under him at Rahzalbis until the Keeper's murder in 285PA. What he learned there he never fully set down, but his own fields, Asomantic Channelling and Identification Magic, are often read as his master's way of perceiving made into a discipline others could learn: the channelling and recognition of planar energies without the mediation of the body's senses.</p> 
+
+<p>In 331PA he founded the School of Insight at Alparak on the Muhusni River, gathering many of the splintered magical traditions of the Sultanate under one roof, with his master's model at the heart of its teaching (see <a href="Leygrid Theory" class="internal-link">Leygrid Theory</a>). He died in 398PA at the age of 167, of the Frog Sickness. The School's custom of naming its highest Magisters its Eyes came long after him, but it is often said to honour the blind master of its founder.</p>

@@ -5,6 +5,7 @@
 [[Astral Realm]]
 [[Izrafur]]
 [[Zovac Harlini]]
+[[Leygrid Theory]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Carassa al-Kael</h4>
@@ -55,6 +56,9 @@
 She even studied, controversially so in elven circles, at Edessa Tower under the Vihri Mage Harlini, one of the most influential scholars on realmatic Theory of all time, from 781PA-787PA. In the early 9th century PA, she became the first and only student of Zihar ab-Rassa, the legendary elven recluse and sorcerer known for his expansive research on the Fey and realmatic energy in relation to planar energy. </p>
 
 <p>Carassas academic achievements, specifically her improvement on Realmatic and Planar Theory, her union of both and her invention of the most complete Model of existence, the so called "Triquetra Model" have made her one of the most revolutionary scholars of all time, internationally revered not only for her brilliance and the  gravitas of her discoveries, but also her ability and willingness to seek and use cross-cultural and historical  resources and ideas; Going so far as utilising the works of the Auguri of ancient Meadland when finally making sense of the millenia old mystery of Realmatic Relativity.</p>
+
+<p>Her proof of the Astral Realm answered the millennia-old mystery of Realmatic Relativity: that journeys between the realms never seem to add up, so that a shaman's soul crosses a continent in a night and a Fey steps from one grove into another a hundred miles off. Drawing on the sigils of the Auguri, which bound a spell to a place and let it arrive there from any distance, she argued that a third space must exist in which a place is held without distance or duration, and proved it in Astral Space. She has since found leypoints within the Astral Realm itself, and is said to regard her work on the <a href="Leygrid Theory" class="internal-link">Leygrid</a> as unfinished.</p>
+
 <div class=grid-2x2>
     <div class="grid-item-centered span-col-2">
         <div class=wiki-header>

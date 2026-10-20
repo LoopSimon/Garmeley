@@ -1,4 +1,22 @@
-- 2026-10-20T1138 · Rigoran
+- 2026-10-20T2133 · Djinn
+- 2026-10-20T1842 · Rigoran
+- 2026-10-20T1738 · Complete Timeline
+- 2026-10-20T1738 · Calendars
+- 2026-10-20T1737 · Phiodales
+- 2026-10-20T1736 · Basic Magical Theory
+- 2026-10-20T1736 · Conflux
+- 2026-10-20T1736 · The Thinning
+- 2026-10-20T1735 · Wasteland of Rakh
+- 2026-10-20T1733 · Nurlight
+- 2026-10-20T1630 · Karajal
+- 2026-10-20T1630 · Kwarzimi
+- 2026-10-20T1629 · Vilkin
+- 2026-10-20T1628 · Karajal School of Insight
+- 2026-10-20T1628 · Avero
+- 2026-10-20T1627 · Gahenna
+- 2026-10-20T1626 · Galiatar Inkfingers
+- 2026-10-20T1626 · Carassa al-Kael
+- 2026-10-20T1624 · Leygrid Theory
 - 2026-10-20T1051 · Realmatic Nativism
 - 2026-10-20T1050 · Weaving
 - 2026-10-20T1050 · Harlinis Theorem
@@ -7,7 +25,6 @@
 - 2026-10-20T1049 · Jurahim al-Biad
 - 2026-10-20T1049 · Strait of Horad
 - 2026-10-20T1048 · Aeldcult
-- 2026-10-20T1048 · Basic Magical Theory
 - 2026-10-20T1048 · The Veil
 - 2026-10-20T1047 · Dulmic Gate
 - 2026-10-20T1034 · Scions of Markur
@@ -15,15 +32,11 @@
 - 2026-10-20T1033 · The Veilcurse
 - 2026-10-20T1029 · Mural Theory
 - 2026-10-20T1028 · Acceleration Theory
-- 2026-10-20T1017 · Complete Timeline
 - 2026-10-20T1010 · Crown of the World
 - 2026-10-20T1003 · Lempo
 - 2026-10-20T0950 · Krindor
-- 2026-10-20T0949 · Avero
 - 2026-10-20T0946 · Markur
-- 2026-10-19T2024 · Djinn
 - 2026-10-19T1900 · Unborn Hypothesis
-- 2026-10-19T1840 · The Thinning
 - 2026-10-19T1743 · Stone Chronology
 - 2026-10-19T1709 · Law of the Settled Ledger
 - 2026-10-19T1707 · Artificery
@@ -35,7 +48,6 @@
 - 2026-10-19T1512 · Yari
 - 2026-10-19T1512 · Pnurzefec
 - 2026-10-19T1512 · Hilcarax
-- 2026-10-19T1511 · Carassa al-Kael
 - 2026-10-19T1510 · Larkomas
 - 2026-10-19T1510 · The Ideal Plane
 - 2026-10-19T1509 · The Concrete Plane
@@ -82,7 +94,6 @@
 - 2026-10-18T1502 · Gisvale
 - 2026-10-18T1502 · Wargel
 - 2026-10-18T1501 · Risfalt
-- 2026-10-18T1456 · Vilkin
 - 2026-10-18T0748 · Blijgrat
 - 2026-10-18T0748 · Auguri Dominion
 - 2026-10-18T0747 · Morelle
@@ -124,7 +135,6 @@
 - 2026-10-16T2349 · Meadi Othiri War
 - 2026-10-16T2258 · Turvik Paganism
 - 2026-10-16T2258 · Situation in the Paper Cities
-- 2026-10-16T2257 · Galiatar Inkfingers
 - 2026-10-16T2254 · Knights of the Green Tree
 - 2026-10-16T2253 · Rivalt du Chian
 - 2026-10-16T2007 · Garmeley
@@ -159,16 +169,12 @@
 - 2026-10-16T0002 · Goblinoid
 - 2026-10-15T2202 · Nawiunic Event
 - 2026-10-15T2153 · History of Astronomy
-- 2026-10-15T2016 · Gahenna
 - 2026-10-15T2010 · The Tis
 - 2026-10-15T2010 · Tripparch
-- 2026-10-15T2003 · Calendars
-- 2026-10-15T2002 · Phiodales
 - 2026-10-15T2001 · Urien
 - 2026-10-15T1956 · The Sun
 - 2026-10-15T1836 · Shimun
 - 2026-10-15T1833 · Jiravid
-- 2026-10-15T1833 · Karajal School of Insight
 - 2026-10-15T1832 · Korman van Schipwig
 - 2026-10-15T1832 · Ulrike Metzen
 - 2026-10-15T1831 · Starworship
@@ -179,7 +185,6 @@
 - 2026-10-15T1724 · Elven Dynasties
 - 2026-10-15T1723 · Behera
 - 2026-10-15T1722 · Globus
-- 2026-10-15T1721 · Conflux
 - 2026-10-15T1721 · Elf
 - 2026-10-15T1720 · Drow
 - 2026-10-15T1719 · Sphinx
@@ -393,8 +398,3 @@
 - 2026-10-11T1702 · Geipra
 - 2026-10-11T1701 · Halgrach City
 - 2026-10-11T1401 · Oleksandr IV
-- 2026-10-11T1401 · Rulers of the Grachi
-- 2026-10-11T1401 · Igor
-- 2026-10-11T1401 · Brothers War
-- 2026-10-11T1245 · Haozon
-- 2026-10-11T1053 · Yellow War

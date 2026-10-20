@@ -2,7 +2,9 @@
 [[Material Realm]]
 [[Astral Realm]]
 [[Spiritual Realm]]
-[[Arcanists, Scholars and Mages]]
+[[Leygrid Theory]]
+[[Modern Realmatic Theory]]
+
 %%
 *This text is written from an Ilrakhi perspective and fully acknowledges and bemoans the lack of access to Nirydian Magical Studies and historical discoveries.*
 *With that in mind, the following will be a short introduction into the Metaphysical understanding of Existence throughout history by the modern [[Korsfall College]] of Astronomy and Magicks, in accordance with the ethical views of the [[Wermian Accords]].*
@@ -113,9 +115,9 @@ Non-Artefact-Casters, also known as Trueborn mages, are incredibly rare to find 
 
 A simple historiographic view is that there is no decline in trueborn mages, but reports of historical trueborn mages are wildly exaggerated due to the unreliability of historical accounts and the commonly found lack of magical knowledge in the authors of such sources.
 
-The Akkalian Theory on the other side hypothesizes the creation of an absolute fluxbridge during the Eruption of Mount Al-Akka to such a titanic extent, that it fundamentally and permanently changed the way Fluxbridges can access our plane. As most accords of trueborn mages are attributed to times prior to or closely after the Eruption it stands to reason that the event had at least some sort of effect on the birth of trueborn mages.</p>
+The Akkalian Theory on the other side hypothesizes the creation of an absolute fluxbridge during the Eruption of Mount Al-Akka to such a titanic extent, that it fundamentally and permanently changed the way Fluxbridges can access our plane. Akkalian theorists hold the <a href="Nurlight" class="internal-link">Nurlight</a> above Al-Akka to be the visible mouth of that Fluxbridge, still open. As most accords of trueborn mages are attributed to times prior to or closely after the Eruption it stands to reason that the event had at least some sort of effect on the birth of trueborn mages.</p>
 <h4>Leypoints and the Leygrid Theory</h4>
-<p>A Leypoint is a singular node in space that pierces realmatic barriers existing on all three realms at once, acting as an "access point" for planar energies. Leygrid Theory posits that all of the universe exists on a Grid of these nodes whose creation has been a mystery to this day. </p>
+<p>A Leypoint is a singular node in space that pierces realmatic barriers existing on all three realms at once, acting as an "access point" for planar energies. <a href="Leygrid Theory" class="internal-link">Leygrid Theory</a> posits that all of the universe exists on a Grid of these nodes whose creation has been a mystery to this day. </p>
 <h4>The Leyprism Model</h4>
 <p>Developed by <a href="Jevana" class="internal-link">Jevana of Leston</a>, the Leyprism Model, similarly to the Harlinic Mode in regards to Realmatic Theory, applies the distinction between Plane and Planar Force to the standing Leygrid Model.
 She posits that rather than a grid, it is much more apt to consider a Fluxbridge as a prism, that sits between two compressing forces.

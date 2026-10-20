@@ -1,44 +1,13 @@
+%%  
+[[Elf]]  
+[[Phiodales]]  
+[[Karajal]]  
+[[Jiravid]]  
+[[Karajal School of Insight]]  
+[[Basic Magical Theory]]  
+[[Galiatar Inkfingers]]  
+[[Wulfrick]]  
+[[Leygrid Theory]]  
 %%
-[[Elf]]
-[[Phiodales]]
-[[Karajal]]
-%%
-<div class="wiki-infobox">
-    <h4 class="wiki-header">Kwarzimi ar Corbaik</h4>
-    <div class="wiki-row">
-        <strong>Occupation</strong>
-        <span>Keeper of Rahzalbis</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Culture</strong>
-        <span>Beheran <a href="Elf" class="internal-link">Elf</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Born</strong>
-        <span>136PA, <a href="Jiravid" class="internal-link">Jiravid</a></span>
-	    </div>
-    <div class="wiki-row">
-        <strong>Died</strong>
-        <span>285PA, Rahzalbis</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Cause of Death</strong>
-        <span>murdered,<br>149 years of Age</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Field of Research</strong>
-        <span>Leypoint Model</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Known Teachers</strong>
-        <span>N/A</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Known Students</strong>
-        <span><a href="Karajal" class="internal-link">Karajal al-Farroul</a></span>
-    </div>
-    <hr class="wiki-hr">
-    <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Kwarzimi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
-</div>
+<div class="wiki-infobox"> <h4 class="wiki-header">Kwarzimi ar Corbaik</h4> <div class="wiki-row"> <strong>Occupation</strong> <span>Keeper of Rahzalbis</span> </div> <div class="wiki-row"> <strong>Culture</strong> <span>Beheran <a href="Elf" class="internal-link">Elf</a></span> </div> <div class="wiki-row"> <strong>Born</strong> <span>136PA, <a href="Jiravid" class="internal-link">Jiravid</a></span> </div> <div class="wiki-row"> <strong>Died</strong> <span>285PA, Rahzalbis</span> </div> <div class="wiki-row"> <strong>Cause of Death</strong> <span>murdered,<br>149 years of Age</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Field of Research</strong> <span>Leypoint Model</span> </div> <div class="wiki-row"> <strong>Known Teachers</strong> <span>N/A</span> </div> <div class="wiki-row"> <strong>Known Students</strong> <span><a href="Karajal" class="internal-link">Karajal ar-Farroul</a></span> </div> <hr class="wiki-hr"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Kwarzimi.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> </div> <p>Kwarzimi ar Corbaik was a Beheran elven Magus, Keeper of the Great Library of Rahzalbis and author of the Leypoint Model, the oldest account of the places where planar energies gather and the ground on which nearly every later model of the planes was built. Blind from birth, he is remembered as much for how he came to his model as for the model itself.</p> <h2>Life</h2> <p>Kwarzimi was born in <a href="Jiravid" class="internal-link">Jiravid</a> in 136PA and never saw. He trained as a Magus in the old Beheran tradition, whose practitioners sought ways to see beyond the eye, and he sought them harder than most, having no other. By his own account he learned instead to perceive the planar energies themselves, and in a world otherwise dark to him there were places where those energies shone. Later scholars have wondered whether he was trueborn, a question he never addressed.</p> <p>He rose to become Keeper of the Great Library of Rahzalbis, named for the old Rahaz Dynasty, and with it custodian of the greatest collection of sky records and shadow measures of the age. There he did what no one expected of a blind man: he set the places he perceived against the shadow measures and the scattered records of tombs, holy sites and wells where elven casters had felt their power strongest, and found that they agreed. The places of power stood at regular distances from one another, in a lattice that ran across the Globus. He was murdered in Rahzalbis in 285PA, at the age of 149, and his killer was never named.</p> <h2>The Leypoint Model</h2> <p>The model held that planar energies gather at fixed points, the leypoints, set in a regular arrangement across the world. Kwarzimi understood them as springs of power rising through the ground of the Globus, as water rises in the wells of the desert. How he had come to perceive them was never fully set down, and his method died with him or was kept close. His only known student, <a href="Karajal" class="internal-link">Karajal</a>, founder of the <a href="Karajal School of Insight" class="internal-link">Karajal School of Insight</a>, worked in Asomantic Channelling, which some take for his master's way of seeing given form.</p> <p>The model came west in 610PA, when <a href="Galiatar Inkfingers" class="internal-link">Galiatar Inkfingers</a> translated it in the fourth volume of his Rudimenta Targorae, Kwarzimi & Karajal, shortly before his student <a href="Wulfrick" class="internal-link">Wulfrick</a> laid the foundations of modern human magical academia. It has since grown into <a href="Leygrid Theory" class="internal-link">Leygrid Theory</a>, which holds that the whole universe lies upon a grid of such nodes. That the blind Keeper of the greatest sky records of his age should be the one to find a pattern no sighted scholar had seen is a point his admirers have never tired of making.</p>

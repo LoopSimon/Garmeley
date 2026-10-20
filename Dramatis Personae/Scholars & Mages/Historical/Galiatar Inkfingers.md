@@ -5,6 +5,7 @@
 [[Rakh]]
 [[Augurism]]
 [[Meadi]]
+[[Karajal]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Galiatar Mardim</h4>
@@ -45,7 +46,9 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Galiatar.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Galiatar Mardim, given name Heinrich Mardim, was an important <a href="Meadland" class="internal-link">meadi</a> Academic and Scholar of the 6th & 7th century. Born the 2nd son of Ulrich Mardim, Count of Trinfurt in the Kingdom of <a href="Gisvale" class="internal-link">Gisvale</a> he left politics behind for a life of learning and teaching. His most famous work are the Rudimenta Targorae, a series of seven volumes containing translations and transcriptions of elven, cyracli and rakhian works of arcane research and knowledge of natural sciences. Among the elven works was a treatise on the motion of the Globus by <a href="Gahenna" class="internal-link">Gahenna</a> of Jiravid, which lay unread in the College for nearly three centuries. The Rudimenta Targorae were his lifes work and are largely responsibly for the eventual dominance of Korsfall as the centre of human science and research in the fields of the Arcane and Astronomy.</p>
+<p>Galiatar Mardim, given name Heinrich Mardim, was an important <a href="Meadland" class="internal-link">meadi</a> Academic and Scholar of the 6th & 7th century. Born the 2nd son of Ulrich Mardim, Count of Trinfurt in the Kingdom of <a href="Gisvale" class="internal-link">Gisvale</a> he left politics behind for a life of learning and teaching. His most famous work are the Rudimenta Targorae, a series of seven volumes containing translations and transcriptions of elven, cyracli and rakhian works of arcane research and knowledge of natural sciences. 
+Its fourth volume, Kwarzimi & Karajal, first brought the Leypoint Model to human scholarship, the root of <a href="Leygrid Theory" class="internal-link">Leygrid Theory</a>.
+Among the elven works was a treatise on the motion of the Globus by <a href="Gahenna" class="internal-link">Gahenna</a> of Jiravid, which lay unread in the College for nearly three centuries. The Rudimenta Targorae were his lifes work and are largely responsibly for the eventual dominance of Korsfall as the centre of human science and research in the fields of the Arcane and Astronomy.</p>
 <p>He was called Galiatar, elven for "The Student", by his peers and colleagues both human and elvish, a moniker Mardim wholeheartedly embraced and was a lifelong enthusiast for elvish culture and history. His early views on magical idealism and arcane supremacy where judged problematic by many of his peers and obstructed his academic career for a long time until he retracted many of his younger positions. </p>
 <p>Korsfall College, formally founded only two years prior to Mardims birth, would see him graduate as one of her earliest alumni of the occult studies, upon which he would return to his home and practice as an advisor and minister under the King of Gisvale for nearly a decade. Disenchanted with the possibilities of academically motivated political change in his powerful role, he would later return to the College as its 4th Rector, a position he would hold until Wulfrick succeeded him in 614PA, in his later years a mostly honorific one. </p>
 <p>His most famous Student was without a doubt Wulfrick von Inberg, later known as Wulfrick the Elder; history has essentially declared Wulfrick and Galiatar the two Fathers of modern human magical Academia.</p>
