@@ -1,3 +1,4 @@
+- 2026-10-22T0000 · Cường Đức Lý
 - 2026-10-21T1952 · Xarelius
 - 2026-10-21T1930 · Cilenax Principle
 - 2026-10-21T1919 · Larkomas
@@ -397,4 +398,3 @@
 - 2026-10-12T1843 · Bethun
 - 2026-10-12T1838 · Tezmer
 - 2026-10-12T1830 · Chianism
-- 2026-10-12T1829 · Finger of Life
