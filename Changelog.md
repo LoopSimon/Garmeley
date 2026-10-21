@@ -1,3 +1,26 @@
+- 2026-10-21T1945 · Xarelius
+- 2026-10-21T1930 · Cilenax Principle
+- 2026-10-21T1919 · Larkomas
+- 2026-10-21T1506 · Daemon
+- 2026-10-21T1502 · Lakalism
+- 2026-10-21T1502 · Umbral
+- 2026-10-21T1501 · Luminal
+- 2026-10-21T1501 · Hinnuh
+- 2026-10-21T1501 · Kava
+- 2026-10-21T1501 · Konoii
+- 2026-10-21T1500 · Deimoi
+- 2026-10-21T1459 · Iratism
+- 2026-10-21T1454 · Noorism
+- 2026-10-21T1449 · Vas Ira
+- 2026-10-21T1446 · Fractal
+- 2026-10-21T1444 · Pothoi
+- 2026-10-21T1441 · Kyton
+- 2026-10-21T1440 · Protean
+- 2026-10-21T1440 · Celestial
+- 2026-10-21T1440 · Aeon
+- 2026-10-21T0310 · The Dance of Nissa
+- 2026-10-21T0310 · Codex Thereticum
+- 2026-10-21T0303 · Crown of the World
 - 2026-10-21T0242 · Kara Gos
 - 2026-10-21T0236 · Rigoran
 - 2026-10-20T2133 · Djinn
@@ -33,7 +56,6 @@
 - 2026-10-20T1033 · The Veilcurse
 - 2026-10-20T1029 · Mural Theory
 - 2026-10-20T1028 · Acceleration Theory
-- 2026-10-20T1010 · Crown of the World
 - 2026-10-20T1003 · Lempo
 - 2026-10-20T0950 · Krindor
 - 2026-10-20T0946 · Markur
@@ -49,7 +71,6 @@
 - 2026-10-19T1512 · Yari
 - 2026-10-19T1512 · Pnurzefec
 - 2026-10-19T1512 · Hilcarax
-- 2026-10-19T1510 · Larkomas
 - 2026-10-19T1510 · The Ideal Plane
 - 2026-10-19T1509 · The Concrete Plane
 - 2026-10-19T1508 · Tageyo
@@ -148,7 +169,6 @@
 - 2026-10-16T1929 · Garmish Succession Crisis
 - 2026-10-16T1927 · Polgo Fiago
 - 2026-10-16T1922 · Muxul
-- 2026-10-16T1828 · Codex Thereticum
 - 2026-10-16T1704 · Hynek of Forrington
 - 2026-10-16T1703 · Hainach
 - 2026-10-16T1658 · Grivil
@@ -378,23 +398,3 @@
 - 2026-10-12T1838 · Tezmer
 - 2026-10-12T1830 · Chianism
 - 2026-10-12T1829 · Finger of Life
-- 2026-10-12T1814 · Triagal
-- 2026-10-12T1814 · Triarog
-- 2026-10-12T1641 · Grynborg
-- 2026-10-12T1640 · Marino Viamali
-- 2026-10-12T1640 · Jaime di Dilin
-- 2026-10-12T1640 · Balan Reyd
-- 2026-10-12T1629 · Razmyrism
-- 2026-10-12T1425 · Uraz
-- 2026-10-12T1351 · The New World
-- 2026-10-12T1219 · Pangomor
-- 2026-10-12T1033 · Migner
-- 2026-10-12T0940 · Broken Fingers
-- 2026-10-12T0933 · Heavens Furrow
-- 2026-10-12T0920 · Juelfluk
-- 2026-10-12T0918 · Nilborg
-- 2026-10-12T0907 · Vignasoya
-- 2026-10-11T1746 · Kulum
-- 2026-10-11T1703 · Mara Bolo
-- 2026-10-11T1702 · Geipra
-- 2026-10-11T1701 · Halgrach City

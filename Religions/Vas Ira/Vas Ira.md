@@ -6,6 +6,7 @@
 [[Kareli Hierarchy]]
 [[Duol Khaganate]]
 [[Jorvistan]]
+[[Iratism]]
 [[Niryd Steppe]]
 %%
 <p>The Vas Ira describes the many religious and spiritual traditions originally of the Bihra or "Kobolds" that are unified in various agreed upon principles such as the concept of Tahan, the universal observance of the Saspi and the strife to seek Jitang. The greater Vas Ira derives itself from ancient practices of so called Bihra Shamanism, and many of the Yova, the Great Teachers, are said to have risen up from these traditions as well. Many cultures beyond just the Bihra, such as the chunri Humans, practice the Vas Ira. The major denominations within the greater umbrella of the Vas Ira are Noorism, Bigronism, Rayadan and Iratism.</p>

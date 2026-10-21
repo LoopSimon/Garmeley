@@ -1,0 +1,3 @@
+%% [[Vas Ira]] [[Konoii]] [[Iratism]] %%
+
+<p>On Tablets of the Aldercycle, they are associated with the value 12 and portrayed as entities opposite of those called the <a href="Konoii" class="internal-link">Konoii</a>, the term is derived from the Spirits of the Heavens within the <a href="Vas Ira" class="internal-link">Vas Ira</a> school known as <a href="Iratism" class="internal-link">Iratism</a>. Within the great Pantheon of the Lords of Heaven, the greatest Kava are Maduga, Inpat and Irat.</p>

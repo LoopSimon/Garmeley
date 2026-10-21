@@ -1,0 +1,3 @@
+%% [[Lakalism]] [[Protean]] [[Fractal]] %%
+
+<p>Sometimes conflated by well travelled academics with the so called <a href="Protean" class="internal-link">Proteans</a>, the Hinnuh are the cosmic force of disorder and total failure of existence, in the greater lakali traditions, sitting as the eternal antagonists of the divine Symmetry of the Lakal himself. On Tablets of the Aldercycle, they are associated with the value 10 and portrayed as entities opposite of those called the <a href="Fractal" class="internal-link">Fractals</a> within the western canon.</p>

@@ -1,16 +1,21 @@
+%%  
+[[Basic Magical Theory]]  
+[[The Abyss]]  
+[[Mahrab Visham]]  
+[[Vishams Question]]  
+[[Unborn Hypothesis]]  
+[[Open Heart Invocation]]  
+[[Shymon Epios]]  
+[[Seal of Epios]]  
+[[Wermian Accords]]  
+[[The Incursion]]  
+[[Alparaz]]  
+[[Augurism]]  
+[[Deimoi]]  
 %%
-[[Basic Magical Theory]]
-[[The Abyss]]
-%%
-<p>The academic classification for any outsiders not entirely aligned with any of the major planes, note this primarily in reference to the four plane theory of the Theorem Arcanum but still applies under more advanced models such as Vilkins Universal model that consider the existence of a multitude of major planes. Defined as possibly sentient concentrations of energy, although due to the extreme lack of knowledge of the academic public concerning sentience beyond our plane the distinction between any of them is at best guesswork.</p>
-<p>The term "Demonology" is often considered to exclusively refer to this rather specific classification of being, but in practice usually refers to the study of essentially all beings from beyond our Plane, outsiders. </p>
-<h4>Mythological Creatures associated with Daemonhood:</h4>
-Grahul the Chained
-<p>Bound by the Elf Alparaz in the 7th century BA within the [[Material Realm]].
-Though its existence was revealed to the greater world later on, it has been officially refuted by the Sultanate that the entity still resides on our Plane.</p>
-Vazmoris, Well of Despair
-<p>Easily the most famous scion of the Abyss, Vazmoris was a Greater Daemon that led the forces of the Wermian <a href="The Incursion" class="internal-link">Incursion</a> and was defeated by Gethric the Prophet at Tawring before it was known as Iztaw.</p>
+
+<p>The Daemon is the academic classification for any outsider not entirely aligned with any of the major planes. The term was coined in reference to the four plane theory of the Theorem Arcanum, but still applies under more advanced models such as Vilkin's Universal Model that consider the existence of a multitude of major planes. Daemons are held to come from <a href="The Abyss" class="internal-link">the Abyss</a>, the name for every plane that must exist but lacks evidence, and are defined as possibly sentient concentrations of energy, although due to the extreme lack of knowledge of the academic public concerning sentience beyond our plane the distinction between any of them is at best guesswork.</p> <p>The term "Demonology" is often considered to exclusively refer to this rather specific classification of being, but in practice usually refers to the study of essentially all beings from beyond our Plane, outsiders. In common speech, "daemon" has come to mean nearly any summoned creature that scholars cannot otherwise place.</p> <h2>Nature</h2> <p>What is known of daemons comes almost entirely from grimoires, tablets and the confessions of summoners, and these agree on a few points. A summoned daemon is always perceivable, and takes on a shape drawn from its surroundings and, as summoners have long warned, from what its summoner fears; the heretics of the <a href="Open Heart Invocation" class="internal-link">Open Heart Invocation</a> held that a summoning made in dread calls up a horror. Called again by the same name, a daemon returns in the same shape, in some cases centuries later, which led <a href="Mahrab Visham" class="internal-link">Mahrab Visham</a> to treat the Naming as the heart of the art (see <a href="Vishams Question" class="internal-link">Vishams Question</a>). And every account that records a daemon speaking has it loathe its name and its binding, and long for some formless state it seems to remember as almost blissful.</p> <h2>Theories</h2> <p>The conventional view holds that daemons are called from the Abyss, from planes that are real but as yet unproven. The <a href="Unborn Hypothesis" class="internal-link">Unborn Hypothesis</a>, built on the works of <a href="Shymon Epios" class="internal-link">Shymon Epios</a>, claims instead that they are made in the moment of summoning, and that a daemon's life begins and ends within the mind of its summoner; its critics point to named daemons that return unchanged long after their summoners have died. Visham himself doubted that daemons and spirits differ at all, except in the traditions that describe them.</p> <p>A smaller number of daemonologists, citing the Tablets of the Aldercycle, argue that the term hides more than it explains: that many so-called daemons are in truth the <a href="Deimoi" class="internal-link">Deimoi</a> and other beings named on the tablets, and that some summoned outsiders behave unlike daemons altogether, refusing to be dismissed when their names are taken from them.</p> <h2>Law and Practice</h2> <p>The <a href="Wermian Accords" class="internal-link">Wermian Accords</a> ban the Naming or consultation of the Daemon, as well as any spell or ritual to summon beings of intelligence and ability, citing <a href="The Incursion" class="internal-link">the Incursion</a> as the example of what such practice can unleash. Binding nonetheless has a long and secret history: Epios devised the <a href="Seal of Epios" class="internal-link">Seal of Epios</a>, a sigil to imprison an extraplanar entity, in his treatise "The Chains of Grahul, to bind and to borrow", and defined it in detail in the forbidden Grimoire Paralis.</p> <h4>Mythological Creatures associated with Daemonhood:</h4> Grahul the Chained <p>Bound by the Elf <a href="Alparaz" class="internal-link">Alparaz</a> in the 7th century BA within the [[Material Realm]]. Though its existence was revealed to the greater world later on, it has been officially refuted by the Sultanate that the entity still resides on our Plane.</p> Vazmoris, Well of Despair <p>Easily the most famous scion of the Abyss, Vazmoris was a Greater Daemon that led the forces of the Wermian <a href="The Incursion" class="internal-link">Incursion</a> and was defeated by Gethric the Prophet at Tawring before it was known as Iztaw.</p>
 
 Thalkil Twice-born
-<p>This creature is often assumed to be of daemonic nature and was supposedly slain by the Locni Three, a group of adventurers travelling the east coast of Ilrakhan in the 7th century PA.
-Rumours of his ties to Cults of [[Augurism]] and supposed experimentation on his physical remains have been largely disproven as conspiracy theories.</p>
+
+<p>This creature is often assumed to be of daemonic nature and was supposedly slain by the Locni Three, a group of adventurers travelling the east coast of Ilrakhan in the 7th century PA. Rumours of his ties to Cults of [[Augurism]] and supposed experimentation on his physical remains have been largely disproven as conspiracy theories.</p>
