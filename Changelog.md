@@ -1,5 +1,6 @@
+- 2026-10-21T0242 · Kara Gos
+- 2026-10-21T0236 · Rigoran
 - 2026-10-20T2133 · Djinn
-- 2026-10-20T1842 · Rigoran
 - 2026-10-20T1738 · Complete Timeline
 - 2026-10-20T1738 · Calendars
 - 2026-10-20T1737 · Phiodales
@@ -397,4 +398,3 @@
 - 2026-10-11T1703 · Mara Bolo
 - 2026-10-11T1702 · Geipra
 - 2026-10-11T1701 · Halgrach City
-- 2026-10-11T1401 · Oleksandr IV
