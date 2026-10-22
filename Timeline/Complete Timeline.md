@@ -135,6 +135,7 @@
 	        <div class="timeline-item" data-date="1150BA">The cyracli Tragedy of Thileus is written</div>
 	         <div class="timeline-item" data-date="1130BA">Drow nomads in the underlands of western behera build settlements near the Sundered Coast</div>
 	        <div class="timeline-item" data-date="1100BA">The City of Vilum, modern day Calmona, is founded in ancient Cevolia</div>
+	        <div class="timeline-item" data-date="1099BA">Rise of the Chagor Dynasty in ancient Tal, around the City of Char, as Chagor the Great claims the Ivory Crown of Tal</div>
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
 	        <div class="timeline-item" data-date="1090BA">The Great Flood, the Drow Empire of Tur Enzal fully collapses</div>
             <div class="timeline-item" data-date="1086BA">Rise of the Alparid Dynasty</div>
@@ -173,6 +174,7 @@
 	        <div class="timeline-item" data-date="632BA">Tripparch creates his Diolagma</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
             <div class="timeline-item" data-date="624BA">Zuhurism is first practiced by the Pagri nomads of Nirydia</div>
+            <div class="timeline-item" data-date="503BA">The Melop Dynasty rises in southern Tal under Melop the Conqueror, who claims the Ivory Crown of the Chagor</div>
             <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
             <div class="timeline-item" data-date="621BA">End of the Alparid Dynasty</div>
             <div class="timeline-item" data-date="620BA">Lhatsis Enlightenment at Lake Tsolha</div>
@@ -189,6 +191,7 @@
             <div class="timeline-item" data-date="540BA">Prigam of Tasch builds the Great Palace of Tasch</div>
             <div class="timeline-item" data-date="520BA">Approximate completion of the Record of Eclipses by Tesimene of Lorqis at the Great Library of Lorqis</div>
             <div class="timeline-item" data-date="511BA">Rakhi Invasion of Cyraclion fails at the Battle of Milasam</div>
+            <div class="timeline-item" data-date="503BA">The Muyra Dynasty begins when Muyra Enil is raised as "Lord of Lords" in southern Tal, following his defeat of the forces of the Melop, End of the Melop Dynasty</div>
             <div class="timeline-item" data-date="489BA">Aessymia Palatea commits suicide by Tanlea</div>
 	        <div class="timeline-item" data-date="488BA">Rakhian Conquest of Sakra, modern day Hainach</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig;<br>Approximate departure of the third gnomish tribe, the Xan Il, from the island of Vokt, heading east to the Ilkiztis</div>
@@ -243,6 +246,7 @@
             <div class="timeline-item" data-date="250BA">Approximate gathering of the Razhalbis Scrolls by Sitamun al-Razhalbi at the Great Library of Razhalbis, the largest body of dated observations in the world</div>
             <div class="timeline-item" data-date="245BA">Drow refugees in northern Jeturlund have now fully assimilated and turned into the northern Aelfs</div>
             <div class="timeline-item" data-date="240BA">"Birth of the End" Earthquake destroys large part of the western Ilrakhi underlands, <br>Age of Isolation begins in the Underlands as holds like Ogul-Vosko and Mitimgar are not able to contact anyone for houndreds of years, <br>Drow civilizations near the Sundered Coast are largely destroyed</div>
+            <div class="timeline-item" data-date="229PA">The Muyra Dynasty falls in the lands of the Purple Sea, beginning the Era of Thunders</div>
             <div class="timeline-item" data-date="210BA">Beheran Campaigns begin, Rakh declares war on the Meter Dynasty, Fighting is centred around the southern Stormy Sea in the former lands of Addacia and Samyr</div>
             <div class="timeline-item" data-date="200BA"> Battle of Abfurt, Geoli Invasion of Danbry fails</div>
             <div class="timeline-item" data-date="190BA">Invocation of Uschtir</div>
@@ -339,6 +343,7 @@
             <div class="timeline-item" data-date="246PA">Battle of Tlok Valley</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="251PA">Battle of Glancz; <br>The Urlander ruling Dynasty of Dunling goes to the Cadet branch of the House of Chloris</div>
+            <div class="timeline-item" data-date="253PA">The alleged Birth of Sochor as a human</div>
             <div class="timeline-item" data-date="254PA">Gethric Doctrine of human exceptionalism is first mentioned</div>
             <div class="timeline-item" data-date="255PA">The Lower leveli form the Vocas a Levelix around the Lonely Peak</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
@@ -350,14 +355,17 @@
             <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends troops to Timoq, essentially occupying the city after killings houndreds of locals</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
 			 <div class="timeline-item" data-date="273PA">Ardol I of the House of Gismar forms the Kingdom of Gisvale</div>
-            <div class="timeline-item" data-date="275PA">The myth of Sochor ends as Sochor ascendes and becomes sole God of Naigan and the Yppori</div>
+            <div class="timeline-item" data-date="275PA">The myth of Sochor ends as Sochor ascends and becomes a God; the followers of Sochor begin the Holy Work, later known as the Golden Rule</div>
             <div class="timeline-item" data-date="277PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
+            <div class="timeline-item" data-date="281PA">The Holy Work of Sochor, led by the Ashcult, recognizes the 3 year old boy Chusfun as the reincarnation of Sochor, he is declared as "Ngalas" and raised to the office of Osafar, this effectively begins the institutionalised Ashcult</div>
             <div class="timeline-item" data-date="282PA">War between Morelle & Korsfall breaks out</div>
+            <div class="timeline-item" data-date="283PA">Laizin, King of the Ran, converts to the Ashcult and is proclaimed as the Guardian of the Ngalas, effectively founding the Golden Empire</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
             <div class="timeline-item" data-date="285PA">Morelle submits following the Battle of the Voiceless, <br>Korsfall dominates northern Meadland</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="291PA">Reani-Vihri War breaks out following King Salkon I du Reans declaration</div>
+            <div class="timeline-item" data-date="294PA">The Golden Empire defeats the Army of the Warlord Tien Jijichan and end the Era of Tunders</div>
             <div class="timeline-item" data-date="295PA"> Riarang, the first Empire of the independent Pharang emerges following the end of the Urazi Period of Famine</div>
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="297PA">Hagrash of Ynkal leads thousands of Minotaurs into rebellion against their Vanpuri Slavemasters</div>

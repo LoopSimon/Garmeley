@@ -35,7 +35,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Preceded by</strong>
-        <span>Golden Empire</span>
+        <span><a href="Golden Empire" class="internal-link">The Golden Empire</a></span>
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>

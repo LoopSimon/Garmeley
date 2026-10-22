@@ -1,3 +1,7 @@
+- 2026-10-22T2007 · Naigan
+- 2026-10-22T2006 · Golden Empire
+- 2026-10-22T2004 · Complete Timeline
+- 2026-10-22T2001 · Kaito
 - 2026-10-22T1653 · Sochor
 - 2026-10-22T1652 · Tzen
 - 2026-10-22T1651 · Grand Ziflis Company
@@ -8,8 +12,6 @@
 - 2026-10-22T1550 · Hainach
 - 2026-10-22T1550 · Grivil
 - 2026-10-22T1543 · Szuan
-- 2026-10-22T1415 · Naigan
-- 2026-10-22T1414 · Complete Timeline
 - 2026-10-22T0238 · Myan-Bond
 - 2026-10-22T0228 · Thandar
 - 2026-10-22T0208 · The Veil
@@ -396,5 +398,3 @@
 - 2026-10-13T1729 · Kavi
 - 2026-10-13T1729 · New Fryd
 - 2026-10-13T1726 · Livoa
-- 2026-10-13T1725 · Almersport
-- 2026-10-13T1724 · Gethricism in the New World
