@@ -1,3 +1,11 @@
+- 2026-10-22T1543 · Szuan
+- 2026-10-22T1415 · Naigan
+- 2026-10-22T1414 · Complete Timeline
+- 2026-10-22T0238 · Myan-Bond
+- 2026-10-22T0228 · Thandar
+- 2026-10-22T0208 · The Veil
+- 2026-10-22T0207 · Elemental
+- 2026-10-22T0207 · Greater Spirit
 - 2026-10-22T0000 · Cường Đức Lý
 - 2026-10-21T1952 · Xarelius
 - 2026-10-21T1930 · Cilenax Principle
@@ -25,7 +33,6 @@
 - 2026-10-21T0242 · Kara Gos
 - 2026-10-21T0236 · Rigoran
 - 2026-10-20T2133 · Djinn
-- 2026-10-20T1738 · Complete Timeline
 - 2026-10-20T1738 · Calendars
 - 2026-10-20T1737 · Phiodales
 - 2026-10-20T1736 · Basic Magical Theory
@@ -50,7 +57,6 @@
 - 2026-10-20T1049 · Jurahim al-Biad
 - 2026-10-20T1049 · Strait of Horad
 - 2026-10-20T1048 · Aeldcult
-- 2026-10-20T1048 · The Veil
 - 2026-10-20T1047 · Dulmic Gate
 - 2026-10-20T1034 · Scions of Markur
 - 2026-10-20T1034 · Institute for Practical Energies
@@ -392,9 +398,3 @@
 - 2026-10-13T1437 · The Discovery of Aisligos
 - 2026-10-13T1437 · Jurim Eykszoon
 - 2026-10-13T1436 · Senso
-- 2026-10-13T1436 · Dueren
-- 2026-10-13T1436 · Rylla
-- 2026-10-12T1959 · Teriador
-- 2026-10-12T1843 · Bethun
-- 2026-10-12T1838 · Tezmer
-- 2026-10-12T1830 · Chianism

@@ -446,7 +446,7 @@
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
-            <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby</div>
+            <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby;<br>The Kingdom of Naigan is declared by the Lord of Naigan, who no longer recognises the Golden Rule</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="495PA">Leveli conquest of central Amurez, Conclave of 495 canonises Vazena of Kairos</div>
@@ -475,6 +475,7 @@
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble; <br>Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>
 			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall</div>
+			<div class="timeline-item" data-date="532PA">The last Golden Emperor is killed, end of the Golden Rule</div>
             <div class="timeline-item" data-date="536PA">The Wermian Accords; <br>Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="543PA">Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins</div>
@@ -493,6 +494,7 @@
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br>Dobrov Szinmo and four of his sons are executed, the Vadcy of Szievek is cut down by two thirds</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="564PA">Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
+            <div class="timeline-item" data-date="565PA">The ottian Arcanist Xarelius codifies the Cilenax Principle</div>
             <div class="timeline-item" data-date="572PA">End of the Leveli Civil War, Foundation of Richelet</div>
             <div class="timeline-item" data-date="573PA">Rebellion of Tur Filash ends; <br>Union of Tur Filash succeeds the Kingdom of Tur Filash</div>
             <div class="timeline-item" data-date="574PA">Bykmåli begin integrating into the Vannsi society of Zren in northern Trykkerog</div>
@@ -523,7 +525,7 @@
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
-            <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates</div>
+            <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates; Crisis of Dihil Peak between Ott and Ogul-Vosko</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again following the Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
             <div class="timeline-item" data-date="603PA">The Hiqae found their realm of Lazatec in Bulug, southern Aisligos</div>
@@ -549,6 +551,7 @@
             <div class="timeline-item" data-date="639PA">Trazlov Consortium is founded</div>
             <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis</div>
             <div class="timeline-item" data-date="642PA">End of the Silent War, Grand Vizier Lisil I becomes Imperator of the Twintail, <br>Lisil Period begins in the Twintail Empire</div>
+            <div class="timeline-item" data-date="643PA">Tihir Szuan theories the Myan-Bond between Elemental and Spiritual Will.</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley begins the Eight Years War</div>
             <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="648PA">Battle of Greyfields, King Ahlef II of Garmeley dies and the line of Alfin ends</div>
@@ -557,7 +560,7 @@
 			 <div class="timeline-item" data-date="655PA">Battle of Wormill, the last two sons of Giselher of Gisvale fall, Count Heinrich von Lot takes the old seat of Medlan</div>
             <div class="timeline-item" data-date="656PA">The Path of the Old Gods forms within Riarang, creating deep ideological tensions within the Empire</div>
             <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
-            <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished</div>
+            <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished; <br> Bayratha of Naigan declares himself Emperor of the Purple Sea, the Kingdomf of Naigan becomes the Empire of Naigan</div>
             <div class="timeline-item" data-date="659PA">Dissolution of Levelix and Creation of Balerey and Sebera; <br>Battle of Summerlake, death of the Count of Mussling; decisive loyalist victory breaks the last Medlan field army.</div>
             <div class="timeline-item" data-date="660PA">Yellow War begins;<br>Death of Ringil I of Medlan, Liara I von Gismar is restored as Queen of Gisvale</div>
             <div class="timeline-item" data-date="661PA">The Great Spring Fever kills thousands in western Ilrakhan;<br>Era of the Empty Seat ends in Kherova as the Heriod Dynasty emerges;<br>Wulfrick the Elder dies of the Spring Fever; the Wulfrick Observatorium is raised at Korsfall College in his memory in the years after</div>
@@ -575,7 +578,7 @@
             <div class="timeline-item" data-date="678PA">Shroomfever breaks out in the Kortopis</div>
             <div class="timeline-item" data-date="679PA">The Battle at Zavix leads to the end of the battivan Conquest of Cevolia & Treaty of Ciravelli</div>
             <div class="timeline-item" data-date="680PA">Khulki begins the Great Rebellion against the Twintail and Lakal</div>
-            <div class="timeline-item" data-date="681PA">Death & Canonisation of Dorian the Kind</div>
+            <div class="timeline-item" data-date="681PA">Death & Canonisation of Dorian the Kind;<br>Gyedo falls to the Empire of Naigan and is horrifically sacked, the Channeler Szuan dies during the storming of the city.</div>
             <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath; <br>Urgil Cave collapses following the Shroomfever, cutting the Tirbo Clan off from the Mitimgar cave network</div>
             <div class="timeline-item" data-date="683PA">End of the Vocas a Amurez, <br>Birth of Labella south of the Templi Heights</div>
             <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
@@ -641,7 +644,7 @@
             <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed when Schipwig, Hevn and Geldfields swear the Blijgrat Agreement at Blijgrat</div>
-            <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionizes modern Anatomy</div>
+            <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionises modern Anatomy;<br>The Empire of Naigan falls as Warlord Piri Cao forces the last Emperor to abdicate; <br>The Period of the Bloody Heron begins in the Purple Sea following the fall of Naigan</div>
             <div class="timeline-item" data-date="772PA">Treeplagues big initial outbreak in Grachy, Vihr and Trykkerog</div>
             <div class="timeline-item" data-date="773PA">Gelmsburg attacks Eldmar in the war of 90 days, war ends inconclusively after the Battle of Silverfields and the Death of George the Brave </div>
             <div class="timeline-item" data-date="774PA">Remillion defeats the Sister of Storms in personal combat</div>
