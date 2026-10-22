@@ -1,3 +1,5 @@
+- 2026-10-22T1550 · Hainach
+- 2026-10-22T1550 · Grivil
 - 2026-10-22T1543 · Szuan
 - 2026-10-22T1415 · Naigan
 - 2026-10-22T1414 · Complete Timeline
@@ -177,8 +179,6 @@
 - 2026-10-16T1927 · Polgo Fiago
 - 2026-10-16T1922 · Muxul
 - 2026-10-16T1704 · Hynek of Forrington
-- 2026-10-16T1703 · Hainach
-- 2026-10-16T1658 · Grivil
 - 2026-10-16T1501 · Lizion
 - 2026-10-16T1448 · Droil
 - 2026-10-16T1435 · Lotung
