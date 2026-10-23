@@ -1,3 +1,6 @@
+- 2026-10-23T1610 · Thandar
+- 2026-10-23T1610 · Szuan
+- 2026-10-23T1608 · The Pillars of Myan
 - 2026-10-23T1400 · Batbayar
 - 2026-10-23T0527 · Elik
 - 2026-10-23T0522 · Sochor
@@ -35,7 +38,6 @@
 - 2026-10-22T2227 · Elemental
 - 2026-10-22T2227 · Tur Aman
 - 2026-10-22T2227 · Hien-Ro
-- 2026-10-22T2147 · Szuan
 - 2026-10-22T2147 · Languages of the world
 - 2026-10-22T2146 · Human
 - 2026-10-22T2146 · Yppo
@@ -48,7 +50,6 @@
 - 2026-10-22T1550 · Hainach
 - 2026-10-22T1550 · Grivil
 - 2026-10-22T0238 · Myan-Bond
-- 2026-10-22T0228 · Thandar
 - 2026-10-22T0208 · The Veil
 - 2026-10-22T0207 · Greater Spirit
 - 2026-10-22T0000 · Cường Đức Lý
@@ -397,4 +398,3 @@
 - 2026-10-13T2339 · Qarzi
 - 2026-10-13T2339 · Great Elbae Golomid War
 - 2026-10-13T2339 · Path of the Third Moon
-- 2026-10-13T2332 · Karlaz the Razor
