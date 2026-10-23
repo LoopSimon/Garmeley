@@ -48,6 +48,8 @@ Palmunian: including the ancient Palmuni and usually counting the Lisa peoples
 
 Hurem: primarily the Upper Hurem, Lower Hurem and Usuni peoples
 
+Yppori: primarily the Talang, Al Ypp, Rytoku and Anpon peoples
+
 
 Nirydia:
 

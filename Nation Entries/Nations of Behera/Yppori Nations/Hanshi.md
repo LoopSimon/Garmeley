@@ -2,6 +2,7 @@
 [[Naigan]]
 [[The Discovery of Sirenna]]
 [[Sochor]]
+[[Tal]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Divine Queendom of Hanshi</h4>
