@@ -1,3 +1,18 @@
+- 2026-10-23T1400 · Batbayar
+- 2026-10-23T0527 · Elik
+- 2026-10-23T0522 · Sochor
+- 2026-10-23T0443 · Rikarma
+- 2026-10-23T0441 · Chezin
+- 2026-10-23T0437 · Soren Vin
+- 2026-10-23T0430 · Dynasties of Tal
+- 2026-10-23T0428 · Era of Thunders
+- 2026-10-23T0426 · Naigan
+- 2026-10-23T0419 · Byamon
+- 2026-10-23T0415 · Period of the Bleeding Heron
+- 2026-10-23T0413 · Koshtir
+- 2026-10-23T0410 · Chenism
+- 2026-10-23T0410 · Great Kiln
+- 2026-10-23T0335 · Hanshi
 - 2026-10-23T0305 · Complete Timeline
 - 2026-10-23T0302 · Hilcarax
 - 2026-10-23T0301 · The Discovery of Sirenna
@@ -8,31 +23,18 @@
 - 2026-10-23T0254 · Belen Yun
 - 2026-10-23T0252 · Piri Cao
 - 2026-10-23T0250 · Molopgar I
-- 2026-10-23T0248 · Naigan
 - 2026-10-23T0248 · Yppori
 - 2026-10-23T0247 · Tal
-- 2026-10-23T0246 · Dynasties of Tal
 - 2026-10-23T0246 · Muyra
 - 2026-10-23T0244 · Melop
 - 2026-10-23T0244 · Chagor
 - 2026-10-23T0244 · Jinùk
-- 2026-10-23T0240 · Sochor
 - 2026-10-23T0201 · Golden Empire
-- 2026-10-23T0200 · Byamon
-- 2026-10-23T0200 · Soren Vin
-- 2026-10-23T0200 · Rikarma
-- 2026-10-23T0200 · Chezin
-- 2026-10-23T0154 · Period of the Bleeding Heron
-- 2026-10-23T0153 · Era of Thunders
-- 2026-10-22T2317 · Hanshi
 - 2026-10-22T2240 · Mipaz
-- 2026-10-22T2240 · Elik
 - 2026-10-22T2228 · The Sun
 - 2026-10-22T2227 · Elemental
 - 2026-10-22T2227 · Tur Aman
 - 2026-10-22T2227 · Hien-Ro
-- 2026-10-22T2223 · Chenism
-- 2026-10-22T2223 · Great Kiln
 - 2026-10-22T2147 · Szuan
 - 2026-10-22T2147 · Languages of the world
 - 2026-10-22T2146 · Human
@@ -396,5 +398,3 @@
 - 2026-10-13T2339 · Great Elbae Golomid War
 - 2026-10-13T2339 · Path of the Third Moon
 - 2026-10-13T2332 · Karlaz the Razor
-- 2026-10-13T2327 · Raximan
-- 2026-10-13T2327 · Zilkand
