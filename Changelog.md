@@ -1,6 +1,8 @@
+- 2026-10-23T2355 · Tim the Enchanter
+- 2026-10-23T2225 · Manymirror
+- 2026-10-23T2014 · The Pillars of Myan
 - 2026-10-23T1610 · Thandar
 - 2026-10-23T1610 · Szuan
-- 2026-10-23T1608 · The Pillars of Myan
 - 2026-10-23T1400 · Batbayar
 - 2026-10-23T0527 · Elik
 - 2026-10-23T0522 · Sochor
@@ -396,5 +398,3 @@
 - 2026-10-13T2351 · Elabar
 - 2026-10-13T2345 · Wars of Qahori Subjugation
 - 2026-10-13T2339 · Qarzi
-- 2026-10-13T2339 · Great Elbae Golomid War
-- 2026-10-13T2339 · Path of the Third Moon
