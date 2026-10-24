@@ -1,3 +1,10 @@
+- 2026-10-25T0101 · Red Monk
+- 2026-10-24T0329 · Zheguan
+- 2026-10-24T0318 · Codex Thereticum
+- 2026-10-24T0300 · The Anak
+- 2026-10-24T0300 · Veziva
+- 2026-10-24T0259 · Gorati
+- 2026-10-24T0259 · Gorat
 - 2026-10-23T2355 · Tim the Enchanter
 - 2026-10-23T2225 · Manymirror
 - 2026-10-23T2014 · The Pillars of Myan
@@ -76,7 +83,6 @@
 - 2026-10-21T1440 · Celestial
 - 2026-10-21T1440 · Aeon
 - 2026-10-21T0310 · The Dance of Nissa
-- 2026-10-21T0310 · Codex Thereticum
 - 2026-10-21T0303 · Crown of the World
 - 2026-10-21T0242 · Kara Gos
 - 2026-10-21T0236 · Rigoran
@@ -392,9 +398,3 @@
 - 2026-10-14T0020 · Sirmon Rezan
 - 2026-10-14T0019 · Abaleq
 - 2026-10-14T0019 · Il Haena
-- 2026-10-14T0000 · Moraq
-- 2026-10-13T2352 · Ossur
-- 2026-10-13T2351 · Igulan
-- 2026-10-13T2351 · Elabar
-- 2026-10-13T2345 · Wars of Qahori Subjugation
-- 2026-10-13T2339 · Qarzi
