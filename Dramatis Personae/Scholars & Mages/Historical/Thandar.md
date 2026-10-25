@@ -1,5 +1,5 @@
 %%
-[[Kaito]]
+[[Tal]]
 [[Ptamon]]
 [[Naigan]]
 [[Elemental]]
@@ -21,11 +21,11 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>ca. 2nd century, eastern Kaito</span>
+        <span>ca. 2nd century, <a href="Tal" class="internal-link">Tal</a></span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span> 2nd - 3rc century, eastern Kaito</span>
+        <span> 2nd - 3rc century, Tal</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
