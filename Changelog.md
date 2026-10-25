@@ -1,5 +1,4 @@
 - 2026-10-25T0205 · Yellow Eyed Man
-- 2026-10-25T0203 · Golden Gambit
 - 2026-10-25T0159 · Red Monk
 - 2026-10-24T0329 · Zheguan
 - 2026-10-24T0318 · Codex Thereticum
@@ -398,3 +397,4 @@
 - 2026-10-14T0021 · Lizun I
 - 2026-10-14T0020 · Sirmon Rezan
 - 2026-10-14T0019 · Abaleq
+- 2026-10-14T0019 · Il Haena
