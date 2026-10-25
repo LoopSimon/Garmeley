@@ -1,3 +1,5 @@
+- 2026-10-25T0205 · Yellow Eyed Man
+- 2026-10-25T0203 · Golden Gambit
 - 2026-10-25T0159 · Red Monk
 - 2026-10-24T0329 · Zheguan
 - 2026-10-24T0318 · Codex Thereticum
@@ -206,7 +208,6 @@
 - 2026-10-17T2325 · The 927 Falcons Flight
 - 2026-10-17T2201 · Jorj
 - 2026-10-17T2157 · Orlatz
-- 2026-10-17T2110 · Yellow Eyed Man
 - 2026-10-17T2108 · Timut
 - 2026-10-17T1442 · Lesmere
 - 2026-10-17T1423 · Perrin Diar
@@ -397,4 +398,3 @@
 - 2026-10-14T0021 · Lizun I
 - 2026-10-14T0020 · Sirmon Rezan
 - 2026-10-14T0019 · Abaleq
-- 2026-10-14T0019 · Il Haena
