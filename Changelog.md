@@ -1,3 +1,4 @@
+- 2026-10-25T0208 · Thandar
 - 2026-10-25T0205 · Yellow Eyed Man
 - 2026-10-25T0159 · Red Monk
 - 2026-10-24T0329 · Zheguan
@@ -9,7 +10,6 @@
 - 2026-10-23T2355 · Tim the Enchanter
 - 2026-10-23T2225 · Manymirror
 - 2026-10-23T2014 · The Pillars of Myan
-- 2026-10-23T1610 · Thandar
 - 2026-10-23T1610 · Szuan
 - 2026-10-23T1400 · Batbayar
 - 2026-10-23T0527 · Elik
