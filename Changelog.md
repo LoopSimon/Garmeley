@@ -1,3 +1,10 @@
+- 2026-10-26T2207 · Heire
+- 2026-10-26T2043 · Trade
+- 2026-10-26T1812 · Izhevk
+- 2026-10-26T1812 · Kharnov
+- 2026-10-26T1810 · Green Plague
+- 2026-10-26T0225 · Rodomyr
+- 2026-10-25T2330 · The Dance of Nissa
 - 2026-10-25T0208 · Thandar
 - 2026-10-25T0205 · Yellow Eyed Man
 - 2026-10-25T0159 · Red Monk
@@ -83,7 +90,6 @@
 - 2026-10-21T1440 · Protean
 - 2026-10-21T1440 · Celestial
 - 2026-10-21T1440 · Aeon
-- 2026-10-21T0310 · The Dance of Nissa
 - 2026-10-21T0303 · Crown of the World
 - 2026-10-21T0242 · Kara Gos
 - 2026-10-21T0236 · Rigoran
@@ -146,7 +152,6 @@
 - 2026-10-19T0358 · Ak-Saray
 - 2026-10-19T0358 · Wyrdrock
 - 2026-10-19T0357 · Mithril
-- 2026-10-19T0300 · Rodomyr
 - 2026-10-19T0259 · Provost Mihun
 - 2026-10-19T0200 · Zeeport
 - 2026-10-19T0200 · Jera
@@ -393,8 +398,3 @@
 - 2026-10-14T0027 · Elbae
 - 2026-10-14T0026 · Ramper
 - 2026-10-14T0026 · Neoda Isheb
-- 2026-10-14T0021 · Kareli Hierarchy
-- 2026-10-14T0021 · Lizun I
-- 2026-10-14T0020 · Sirmon Rezan
-- 2026-10-14T0019 · Abaleq
-- 2026-10-14T0019 · Il Haena

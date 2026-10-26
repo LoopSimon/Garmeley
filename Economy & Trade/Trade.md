@@ -12,6 +12,8 @@ Native to the Pepper Islands, Drizan and Pervantes, north of the Bay of Kizac an
 Ginger:
 Native to the Wet Tropical Climates of the Hyktamok, it is mainly found in eastern Nirydia.
 
+Sugar is rarer in Ilrakhan, plentiful in the New world however and there is increased trade volume coming from Peadyr.
+
 Cardamon:
 Native to the tropical and maritime climate of the Kaito and Vinjira coastal regions around the Smaragd Sea.
 
