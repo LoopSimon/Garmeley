@@ -649,7 +649,7 @@
             <div class="timeline-item" data-date="763PA">Conclave of 763 under High-Bisop Manral I, Canonisation of Fredric and begin of the Gethric Pogroms</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="766PA">Remillion usurps the Trifflands</div>
-            <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire, Remillion slaughters the ducal Host</div>
+            <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire, Remillion slaughters the ducal Host and slays Duke Ingemar of Triff</div>
             <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed when Schipwig, Hevn and Geldfields swear the Blijgrat Agreement at Blijgrat</div>
