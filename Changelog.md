@@ -1,4 +1,4 @@
-- 2026-10-27T1847 · Wars of the Gryphon
+- 2026-10-27T1848 · Wars of the Gryphon
 - 2026-10-27T1838 · League of the Gryphon
 - 2026-10-27T1832 · Hrened
 - 2026-10-27T1618 · Urbridge
