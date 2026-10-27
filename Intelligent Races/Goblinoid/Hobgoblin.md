@@ -2,5 +2,6 @@ Even though their Urien Name alludes to it, these creatures have little in commo
 
 Burly, lanky and muscled, Hobgoblins stand at around an average of 2 metres, towering over most fellow residents of the [[Underlands]], they tend to grow up to 75 years old and possess an average aptitude for magick.
 
-Hobgoblins, also known as Dirgae in their own language, tend to reside in large caverns near the surface, preferring wet and colder climates. They are avid hunters and usually organize in smaller communities instead of larger cities.
-They have been known to organize in large warbands under strong leaders but there are few examples of continuous nation states under hogboblin majority.
+Hobgoblins, also known as Dirgae in their own language, tend to reside in large caverns near the surface, preferring wet and colder climates. They are avid hunters and usually organize in smaller communities instead of larger cities. They have been known to organize in large warbands under strong leaders but there are few examples of continuous nation states under hogboblin majority.
+
+The largest hobgoblin society on the surface is the loose federation of tribes called [[Ak-Saray]], in western Ur, where hundreds of thousands of Tirbi hobgoblins live in great tribes and clans that only rarely act as one. Since the [[Hobgoblin Invasion]] many hobgoblins, as small groups, as independent families or as whole clans, have left western Ur and Ur in general to serve as soldiers and mercenaries or to settle in surface realms elsewhere.

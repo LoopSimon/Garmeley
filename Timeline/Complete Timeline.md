@@ -602,13 +602,13 @@
             <div class="timeline-item" data-date="693PA">Battle of Foarley</div>
             <div class="timeline-item" data-date="694PA">Battle of Hadley, <br>Siege of Dursan begins</div>
             <div class="timeline-item" data-date="695PA">Yoroy I becomes Imperator of the Twintail, <br>Early Yoroy Period begins in the Twintail Empire; <br>Fall of Dursan</div>
-            <div class="timeline-item" data-date="696PA">Battle of Gobsfall Keep, Kifrir kills Tirbo, <br>Fall of West Urland is complete</div>
+            <div class="timeline-item" data-date="696PA">Battle of Gobsfall Keep, Kifrir kills Tirbo, <br>Fall of West Urland is complete, <br>Ak-Saray is formed</div>
             <div class="timeline-item" data-date="698PA">Point Meso Bridge is finished at the Elbae-Hainach Border</div>
             <div class="timeline-item" data-date="699PA">Thalkil Twice-born is slain by the Locni Three, <br>Timpo leads his people north and founds Vigzil</div>
             <div class="timeline-item" data-date="700PA">Death of Korgaz "the Blade of Noon"</div>
             <div class="timeline-item" data-date="701PA">Third Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="702PA">Ricter of Gelm is killed attempting to unleash an undeath plague upon the invading Hobgoblins</div>
-            <div class="timeline-item" data-date="703PA">Splintering of Urland, Jorwyn of Gelm crowns himself the King of Urland, challenged by various nobles in the Eld valley Duchess Theara of Hornsley is crowned as "Counter" Queen of Eldmar following a brief skirmish</div>
+            <div class="timeline-item" data-date="703PA">Splintering of Urland, Jorwyle of Gelm is crowned King in Gelmsburg by George the Brave and also claims the title of King of Urland, which no one acknowledges;<br>Various nobles in the Eld valley challenge him and Theara of Hornsley is crowned as "Counter" Queen of Eldmar following a brief skirmish</div>
             <div class="timeline-item" data-date="704PA">Rise of Gisela II in Meadrath</div>
             <div class="timeline-item" data-date="705PA">With the help of Runsby, drow settle the caverns beneath western Itharia, founding the underland Nation of Kilvea</div>
             <div class="timeline-item" data-date="706PA">Kaarmina brings the Mothers Word to her people</div>
@@ -644,7 +644,6 @@
             <div class="timeline-item" data-date="758PA">The Republic of Runsby is formed on the Runsby & Lipley Isles</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
             <div class="timeline-item" data-date="760PA">Battle of Minea</div>
-            Battle of Minea</div>
 			 <div class="timeline-item" data-date="761PA">Plague and strife in the Empire of Naigan, the Imperial City of Kiamar seals itself away for a decade</div>
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, <br>1st War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="763PA">Conclave of 763 under High-Bisop Manral I, Canonisation of Fredric and begin of the Gethric Pogroms</div>
@@ -665,7 +664,7 @@
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; <br>Battle of the Storms; <br>Warlord Piri Cao, the Hungering Wave, is murdered</div>
+            <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; <br>Battle of the Storms; <br>Warlord Piri Cao, the Hungering Wave, is murdered; <br>The Forlorn Shield is forged in Ak-Saray, the last known work of its Wyrdrock masters</div>
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
             <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat;<br> The Ravlander explorer Balan Reyd lands on the north-eastern shores of Peadyr and founds Camp Reyd, but he and many of his men die of disease within a week and the survivors return home with a map of the north-eastern coast</div>
@@ -758,7 +757,7 @@
             <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins;<br> Battle at Garlin;<br>Gisela III the Kind becomes Queen of Meadrath</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
             <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge;<br> Battle of the Lost Crowns</div>
-            <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle Merbridge;<br> end of the 2nd War of the Gryphon</div>
+            <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br> end of the 2nd War of the Gryphon</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
@@ -767,6 +766,7 @@
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresess the public at the University of Jera, birth of Diarism</div>
 	        <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr</div>
+	        <div class="timeline-item" data-date="896PA">War of 896, Turv passes from Gelmsburg to Gisvale after a coup in the city, backed by the Archduke, and the march of his knights</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure;<br>Reanport University, under Korman van Schipwig, takes up the treatise of Gahenna and teaches the Wheeling beside the Cosmology of Ralzig</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath;<br>Gisela III founds the Royal Congress</div>
             <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy;<br>The Eye of Kasimir is completed in Szievek</div>
