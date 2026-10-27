@@ -1,47 +1,8 @@
-%%
-[[Ur]]
-[[Gelmsburg]]
-[[Remillion]]
-%%
-<div class="wiki-infobox">
-    <h4 class="wiki-header">Free Lands of Triff</h4>
-    <div class="wiki-row">
-        <strong>Government</strong>
-        <span>Stratocratic Council</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Head of State</strong>
-        <span>Council of Triff</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Capital</strong>
-        <span>Ralt</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Heraldic Symbol</strong>
-        <span>none</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Primary Religion</strong>
-        <span>none</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Primary Culture</strong>
-        <span><a href="Urien" class="internal-link">various Urien</a> <a href="Human" class="internal-link">Human</a></span>
-    </div>
-    <div class="wiki-row">
-        <strong>Official Language</strong>
-        <span>Urien</span>
-    </div>
-    <hr class="wiki-hr">
-    <div class="wiki-row">
-        <strong>Preceded by</strong>
-        <span><a href="Gelmsburg" class="internal-link">Gelmsburg</a>,<br>Duchy of Triff</span>
-    </div>
-    <div class="wiki-row">
-        <strong>Formed</strong>
-        <span>766PA</span>
-    </div>
-</div>
-<p>Following the declaration and emancipation of the Free lands by the hero, or usurper depending on whom one asks, <a href="Remillion" class="internal-link">Remillion</a>, the Trifflands have become a haven to some and a thorn to others, a small commune of those bound by no flag or title that hate the gods as much as any king or Baron. They are located in the centre of the former Duchy of Triff, once part of the Kingdom of <a href="Gelmsburg" class="internal-link">Gelmsburg</a> in central Ur, and are protected by a Sect of followers and believers in Remillions way that has proven to costly and enduring to reconquer, not for a lack of trying. The Free lands of Triff are one of the smallest realms in not only Ur but all of Ilrakhan and fly no banner or sigil of their own.</p>
+%% [[Ur]] [[Gelmsburg]] [[Remillion]] [[Cockatrice]] [[Cormian]] [[Owlbear]] %%
+
+<div class="wiki-infobox"> <h4 class="wiki-header">Free Lands of Triff</h4> <div class="wiki-row"> <strong>Government</strong> <span>Stratocratic Council</span> </div> <div class="wiki-row"> <strong>Head of State</strong> <span>Council of Triff</span> </div> <div class="wiki-row"> <strong>Capital</strong> <span>Ralt</span> </div> <div class="wiki-row"> <strong>Heraldic Symbol</strong> <span>none</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Primary Religion</strong> <span>none</span> </div> <div class="wiki-row"> <strong>Primary Culture</strong> <span><a href="Urien" class="internal-link">various Urien</a> <a href="Human" class="internal-link">Human</a></span> </div> <div class="wiki-row"> <strong>Official Language</strong> <span>Urien</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Preceded by</strong> <span><a href="Gelmsburg" class="internal-link">Gelmsburg</a>,<br>Duchy of Triff</span> </div> <div class="wiki-row"> <strong>Formed</strong> <span>766PA</span> </div> </div> <p>Following the declaration and emancipation of the Free Lands by the hero, or usurper depending on whom one asks, <a href="Remillion" class="internal-link">Remillion</a>, the Trifflands have become a haven to some and a thorn to others, a small commune of those bound by no flag or title who hate the gods as much as any king or Baron. They are located in the centre of the former Duchy of Triff, once part of the Kingdom of <a href="Gelmsburg" class="internal-link">Gelmsburg</a> in central Ur, and are protected by a Sect of followers and believers in Remillion's way that has proven too costly and enduring to reconquer, not for a lack of trying. The Free Lands of Triff are one of the smallest realms in not only Ur but all of Ilrakhan and fly no banner or sigil of their own.</p> <h2>Geography</h2> <p>The Free Lands lie in the middle of Ur, on the east bank of the Trinmo, with Gelmsburg to the north and the lands of the Order of <a href="Urbridge" class="internal-link">Urbridge</a> to the south. Their capital, Ralt, stands in the middle of the country with the tower that Remillion made his home. In the west the Trinmo separates them from the hobgoblins of <a href="Ak-Saray" class="internal-link">Ak-Saray</a>, and in the south the hills and mountains are held by the warriors of Ralt against the hobgoblins and against the monsters that live there. These are horrible lands, haunted by ogres and goblins, by <a href="Cockatrice" class="internal-link">cockatrices</a>, <a href="Cormian" class="internal-link">cormians</a> and <a href="Owlbear" class="internal-link">owlbears</a> in the hills, which is part of the reason why the Crown of Gelmsburg has not thought them worth retaking for now. Gelmsburg still claims the whole of the old duchy. Hetli, to the south, is a small town with no clear connection to any realm. It is technically claimed by Gelmsburg still, but warriors from Ralt have been known to go there and defend it.</p>
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Northur.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+<small><i>Northern Ur, 927PA</i></small>
+</div>  
+
+<p>The people of the Free Lands are of various Urien stock. They are the descendants of the farmers and hill folk of the old duchy, joined over the generations by refugees, outcasts, deserters and adventurers who came for the sake of Remillion's ideals. The Ralt people, as they are called, are few in number.</p>  <p>The Council of Triff is the successor of Remillion. It is a stratocracy in the loosest sense, a country ruled by warriors and adventurers, with very little bureaucracy or organisation. The Council is a dozen veteran captains of Remillion's old host who sit at Ralt, and a seat passes by the vote of the sworn spears when a captain dies. It is largely a body of prestige. It decides little, and it mostly keeps the peace. Those who live in the Free Lands are people who still believe in dreams of ideals and honour, and that is what holds the country together.</p> <h2>Remillion's Way and the Circle of Triff</h2> <p>Remillion renounced all gods and lords, and his way is the creed of the Free Lands. It knows no gods, lords, titles or tithes. Everyone answers for themselves and stands to the common defence. The Free Lands have no church, and the priests of the Gethric Church are not welcome. His followers, who call themselves the Circle of Triff and have no relation to the mages' circle of Gelmsburg, protect his legacy and wait for his return. They would deny that they are a religion, but over the generations they have become a near religious sect in spite of themselves, and the prophecy of his return is known in every hall of the country.</p> <p>The Tower at Ralt is where Remillion rested and what he made his home. It is seen as a symbol of his legacy.</p> <h2>History</h2> <p>The Duchy of Triff was a duchy of the Kings of Gelmsburg. In 766PA Remillion renounced all gods and lords and declared the Trifflands free. In 767PA Duke Ingemar of Triff led a host against his camp, and Remillion slaughtered it and the Duke himself. The King of Gelmsburg declared him a usurper and promised the dukedom to any loyal man who could slay him, much to the chagrin of the exiled nobles of the House of Triff, who have lived at the Gelmish court ever since. The offer was never taken up, and it has never been revoked. Remillion, who defeated the Sister of Storms in 774PA and Tristen the Ironguard in 785PA, was gone from the Trifflands in 791PA, and the Council of Triff took over his domain. The Crown of Gelmsburg has tried many times to retake the country, and the cost has always been too high.</p> <p>In the Wars of the Gryphon many heroes of the Free Lands joined the <a href="League of the Gryphon" class="internal-link">League of the Gryphon</a> as individuals, but never as a decision of the country. The Free Lands hold the river and the hills against the hobgoblins, and they do not trade with them, unlike the merchants of the <a href="Trinvale" class="internal-link">Trinvale</a>. The Order of Urbridge is a wary neighbour that treats the godless commune as a nuisance, and there is little contact.</p>  <p>The Free Lands are quiet in 927PA, and the Garmish Succession Crisis has not touched them. The country lives from subsistence farming, herding, and the timber and charcoal of its woods, with some smuggling along the river. The Circle of Triff still waits for the day that Remillion's verse comes true.</p> <h2>People of Interest</h2> <p><a href="Remillion" class="internal-link">Remillion</a><br> the Usurper, Truelance, Guardian of the Trifflands</p>

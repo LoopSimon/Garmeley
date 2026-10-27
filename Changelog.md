@@ -1,3 +1,5 @@
+- 2026-10-27T1613 · Remillion
+- 2026-10-27T1612 · Trifflands
 - 2026-10-27T1558 · Ak-Saray
 - 2026-10-27T1558 · Uhl
 - 2026-10-27T1557 · Eldmar
@@ -370,7 +372,6 @@
 - 2026-10-14T0422 · Sergey Hirl
 - 2026-10-14T0422 · Rulers of the Beheran Elves
 - 2026-10-14T0422 · Rox
-- 2026-10-14T0421 · Remillion
 - 2026-10-14T0421 · Plysfir
 - 2026-10-14T0421 · Pharabal
 - 2026-10-14T0421 · Parniva
@@ -397,4 +398,3 @@
 - 2026-10-14T0420 · Cernela nu Bas
 - 2026-10-14T0420 · Barzin
 - 2026-10-14T0420 · Bar-Dilian
-- 2026-10-14T0420 · Asper Inrates
