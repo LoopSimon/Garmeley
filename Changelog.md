@@ -1,3 +1,6 @@
+- 2026-10-27T2359 · Urien
+- 2026-10-27T2358 · Urland
+- 2026-10-27T2130 · Ur
 - 2026-10-27T1919 · Zurgush
 - 2026-10-27T1918 · The Malagul
 - 2026-10-27T1917 · Trinvale
@@ -14,7 +17,6 @@
 - 2026-10-27T1612 · Trifflands
 - 2026-10-27T1558 · Uhl
 - 2026-10-27T1539 · Nied
-- 2026-10-27T1535 · Ur
 - 2026-10-27T1534 · Meadland
 - 2026-10-27T1418 · George the Brave
 - 2026-10-27T1404 · Hikon Zix
@@ -283,7 +285,6 @@
 - 2026-10-15T2153 · History of Astronomy
 - 2026-10-15T2010 · The Tis
 - 2026-10-15T2010 · Tripparch
-- 2026-10-15T2001 · Urien
 - 2026-10-15T1836 · Shimun
 - 2026-10-15T1833 · Jiravid
 - 2026-10-15T1832 · Korman van Schipwig
@@ -397,4 +398,3 @@
 - 2026-10-14T0420 · Jezanis
 - 2026-10-14T0420 · Jan van Swarn
 - 2026-10-14T0420 · Gudrun
-- 2026-10-14T0420 · Giuseppe Dimandi
