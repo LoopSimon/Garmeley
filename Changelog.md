@@ -1,23 +1,25 @@
+- 2026-10-27T1919 · Zurgush
+- 2026-10-27T1918 · The Malagul
+- 2026-10-27T1917 · Trinvale
+- 2026-10-27T1914 · Urbridge
+- 2026-10-27T1911 · Eldmar
+- 2026-10-27T1910 · Gelmsburg
+- 2026-10-27T1909 · Hobgoblin Invasion
+- 2026-10-27T1907 · Ak-Saray
+- 2026-10-27T1900 · Complete Timeline
 - 2026-10-27T1853 · Wars of the Gryphon
 - 2026-10-27T1838 · League of the Gryphon
 - 2026-10-27T1832 · Hrened
-- 2026-10-27T1618 · Urbridge
-- 2026-10-27T1618 · Complete Timeline
-- 2026-10-27T1617 · Gelmsburg
 - 2026-10-27T1613 · Remillion
 - 2026-10-27T1612 · Trifflands
-- 2026-10-27T1558 · Ak-Saray
 - 2026-10-27T1558 · Uhl
-- 2026-10-27T1557 · Eldmar
 - 2026-10-27T1539 · Nied
-- 2026-10-27T1538 · Trinvale
 - 2026-10-27T1535 · Ur
 - 2026-10-27T1534 · Meadland
 - 2026-10-27T1418 · George the Brave
 - 2026-10-27T1404 · Hikon Zix
 - 2026-10-27T1403 · Moira I
 - 2026-10-27T1259 · 90 Days War
-- 2026-10-27T0445 · Hobgoblin Invasion
 - 2026-10-27T0442 · Nestor IX
 - 2026-10-27T0441 · Andre
 - 2026-10-27T0441 · Kabernos
@@ -396,5 +398,3 @@
 - 2026-10-14T0420 · Jan van Swarn
 - 2026-10-14T0420 · Gudrun
 - 2026-10-14T0420 · Giuseppe Dimandi
-- 2026-10-14T0420 · Fasmer II
-- 2026-10-14T0420 · Egill

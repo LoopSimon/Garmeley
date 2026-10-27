@@ -23,7 +23,7 @@
  </div>
  <div class="wiki-row">
  <strong>Result</strong>
- <span>Hobgoblin victory.<br>Fall of Dursan. Rassel dynasty extinct.<br>Battle of Gobsfall Keep halts advance.<br>Trinmo established as permanent border.<br>Kingdom of Urland dissolved 696PA.<br>Ak-Saray confederation formed.</span>
+ <span>Hobgoblin victory.<br>Fall of Dursan. Rassel dynasty extinct.<br>Battle of Gobsfall Keep halts advance.<br>Trinmo established as the border, apart from a strip of the east bank held until 843PA.<br>Kingdom of Urland dissolved 696PA.<br>Ak-Saray confederation formed.</span>
  </div>
  <hr class="wiki-hr">
  <div class="wiki-row" style="display: block;">
@@ -118,7 +118,7 @@
 <small><i>Arsin of Gilkeep, Grand Master of the Gryphon</i></small>  
 </div>
 
-<p>Without Tirbo the unified Hobgoblin horde fragmented and the Trinmo held. The Hobgoblins settled west of the river permanently in the lands around Lake Tirbo,  in the city they called conquered, within the territory that became the <a href="Ak-Saray" class="internal-link">Ak-Saray</a> stratocratic confederation in 696PA. They did not cross the Trinmo in such force again. Korgaz, still recovering from the wounds Oswald III had given him at Dursans walls, was not at Gobsfall. He died four years later in ritual combat against a young champion, defending his title for the thirty second time, finally losing without a single scar in his back. The great forest north of Ak-Saray, known to Urien peoples as Silenttree, is called the Korgaz in Overgob, and has been since his death, he would be remembered as one of the finest warriors the Dirgae had ever known, and one of their greatest heroes.</p>
+<p>Without Tirbo the unified Hobgoblin horde fragmented and the Trinmo held, although the clans that had crossed with him kept a strip of the east bank, from the country below the Bend to the hills of Hetli, until the First War of the Gryphon. The Hobgoblins settled west of the river permanently in the lands around Lake Tirbo,  in the city they called conquered, within the territory that became the <a href="Ak-Saray" class="internal-link">Ak-Saray</a> stratocratic confederation in 696PA. They did not cross the Trinmo in such force again. Korgaz, still recovering from the wounds Oswald III had given him at Dursans walls, was not at Gobsfall. He died four years later in ritual combat against a young champion, defending his title for the thirty second time, finally losing without a single scar in his back. The great forest north of Ak-Saray, known to Urien peoples as Silenttree, is called the Korgaz in Overgob, and has been since his death, he would be remembered as one of the finest warriors the Dirgae had ever known, and one of their greatest heroes.</p>
 
 <h2>Aftermath</h2>
 

@@ -714,9 +714,9 @@
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is founded in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
-            <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled, financed by the Valesloan of the Trinvale Republics, & First War of the Gryphon begins</div>
-            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
-            <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv;<br> The Trinvale Republics waive the Valesloan to celebrate the victory</div>
+            <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled with the Oath at Pearfawl, financed by the Valesloan of the Trinvale Republics, & First War of the Gryphon begins</div>
+            <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers;<br> The League raises Fort Garlin on the Trinmo</div>
+            <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> Battle of Rinstree;<br> First War of the Gryphon ends in successful reconquest of Turv;<br> The Trinvale Republics waive the Valesloan to celebrate the victory</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas;<br>Edmund Teriador dies of Self Poisoning</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia;<br>The comets of the Tis return, as they do every few centuries, and are seen over the following years</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree and beginning of the Great Eastern War;<br>"Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
@@ -756,10 +756,11 @@
             <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal;<br>Lady Eleanor Grig leads a Spurshey expedition through the Spring Sea and discovers Grigs Landing and the Loreli Islands</div>
             <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins;<br> Battle at Garlin;<br>Gisela III the Kind becomes Queen of Meadrath</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
+			<div class="timeline-item" data-date="886PA">The League takes Merbridge</div>
             <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge;<br> Battle of the Lost Crowns</div>
-            <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br> end of the 2nd War of the Gryphon</div>
+            <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br>End of the 2nd War of the Gryphon</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
-            Kherovan Inquisition</div>
+            Kherovan Inquisition; <br>King Folk II of Gelmsburg dies of the Blight of Merbridge, Klovis I becomes King of Gelmsburg</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
             <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr</div>
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
