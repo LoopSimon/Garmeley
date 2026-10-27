@@ -1,5 +1,8 @@
+- 2026-10-27T1558 · Ak-Saray
+- 2026-10-27T1558 · Uhl
+- 2026-10-27T1557 · Eldmar
+- 2026-10-27T1557 · Gelmsburg
 - 2026-10-27T1540 · Urbridge
-- 2026-10-27T1540 · Ak-Saray
 - 2026-10-27T1540 · Complete Timeline
 - 2026-10-27T1539 · Nied
 - 2026-10-27T1538 · Trinvale
@@ -8,11 +11,8 @@
 - 2026-10-27T1418 · George the Brave
 - 2026-10-27T1404 · Hikon Zix
 - 2026-10-27T1403 · Moira I
-- 2026-10-27T1301 · Eldmar
-- 2026-10-27T1300 · Gelmsburg
 - 2026-10-27T1259 · 90 Days War
 - 2026-10-27T0445 · Hobgoblin Invasion
-- 2026-10-27T0442 · Uhl
 - 2026-10-27T0442 · Nestor IX
 - 2026-10-27T0441 · Andre
 - 2026-10-27T0441 · Kabernos
