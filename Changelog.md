@@ -1,4 +1,6 @@
-- 2026-10-27T1509 · Urbridge
+- 2026-10-27T1536 · Urbridge
+- 2026-10-27T1535 · Ur
+- 2026-10-27T1534 · Meadland
 - 2026-10-27T1418 · George the Brave
 - 2026-10-27T1404 · Hikon Zix
 - 2026-10-27T1403 · Moira I
@@ -197,7 +199,6 @@
 - 2026-10-18T1613 · Medlan
 - 2026-10-18T1505 · Tintarol
 - 2026-10-18T1505 · War of Trout and Drake
-- 2026-10-18T1504 · Meadland
 - 2026-10-18T1502 · Wargel
 - 2026-10-18T1501 · Risfalt
 - 2026-10-18T0748 · Blijgrat
@@ -397,4 +398,3 @@
 - 2026-10-14T0420 · Asper Inrates
 - 2026-10-14T0420 · Ar
 - 2026-10-14T0420 · Alparaz
-- 2026-10-14T0420 · Antigor I

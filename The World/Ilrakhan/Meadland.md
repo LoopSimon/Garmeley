@@ -21,7 +21,7 @@
 [[Weadland]]
 %%
 <p>Meadland is the region of northern <a href="Ilrakhan" class="internal-link">Ilrakhan</a> that lies north of the <a href="Kortopis" class="internal-link">Kortopis</a>, stretching from the Lowsteps in the west to the Bend of the <a href="Trinmo" class="internal-link">Trinmo</a> in the east, and from the Maidensea and the Bloody Strait in the north to the foot of the mountains in the south. It is the home of the ancient <a href="Meadi" class="internal-link">Meadi and Weadi</a> peoples, and today most of it lies within the sphere of the <a href="Meadrath" class="internal-link">Kingdom of Meadrath</a>, the so called "Meadi Empire".</p>
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/meadland.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/meadland.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 <small><i>Meadland, 927PA</i></small>
 </div>
 <h2>Land and Water</h2>
