@@ -1,3 +1,6 @@
+- 2026-10-27T1847 · Wars of the Gryphon
+- 2026-10-27T1838 · League of the Gryphon
+- 2026-10-27T1832 · Hrened
 - 2026-10-27T1618 · Urbridge
 - 2026-10-27T1618 · Complete Timeline
 - 2026-10-27T1617 · Gelmsburg
@@ -395,6 +398,3 @@
 - 2026-10-14T0420 · Giuseppe Dimandi
 - 2026-10-14T0420 · Fasmer II
 - 2026-10-14T0420 · Egill
-- 2026-10-14T0420 · Cernela nu Bas
-- 2026-10-14T0420 · Barzin
-- 2026-10-14T0420 · Bar-Dilian
