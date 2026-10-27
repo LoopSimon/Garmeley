@@ -1,5 +1,8 @@
+- 2026-10-27T1540 · Urbridge
+- 2026-10-27T1540 · Ak-Saray
+- 2026-10-27T1540 · Complete Timeline
+- 2026-10-27T1539 · Nied
 - 2026-10-27T1538 · Trinvale
-- 2026-10-27T1536 · Urbridge
 - 2026-10-27T1535 · Ur
 - 2026-10-27T1534 · Meadland
 - 2026-10-27T1418 · George the Brave
@@ -9,7 +12,6 @@
 - 2026-10-27T1300 · Gelmsburg
 - 2026-10-27T1259 · 90 Days War
 - 2026-10-27T0445 · Hobgoblin Invasion
-- 2026-10-27T0444 · Complete Timeline
 - 2026-10-27T0442 · Uhl
 - 2026-10-27T0442 · Nestor IX
 - 2026-10-27T0441 · Andre
@@ -18,7 +20,6 @@
 - 2026-10-27T0440 · Gelmsburg Circle
 - 2026-10-27T0438 · Brass Spire
 - 2026-10-27T0436 · War of 896
-- 2026-10-27T0350 · Ak-Saray
 - 2026-10-27T0341 · Granite Crusade
 - 2026-10-27T0341 · Mitimgar
 - 2026-10-27T0340 · Hobgoblin
@@ -397,4 +398,3 @@
 - 2026-10-14T0420 · Barzin
 - 2026-10-14T0420 · Bar-Dilian
 - 2026-10-14T0420 · Asper Inrates
-- 2026-10-14T0420 · Ar

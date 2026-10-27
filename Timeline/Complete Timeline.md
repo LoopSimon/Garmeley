@@ -714,9 +714,9 @@
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is founded in western Itharia by cevoli sailors</div>
             <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
-            <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled & First War of the Gryphon begins</div>
+            <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled, financed by the Valesloan of the Trinvale Republics, & First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers</div>
-            <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv</div>
+            <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> First War of the Gryphon ends in successful reconquest of Turv;<br> The Trinvale Republics waive the Valesloan to celebrate the victory</div>
             <div class="timeline-item" data-date="844PA">Death of Sultan Arbalas;<br>Edmund Teriador dies of Self Poisoning</div>
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia;<br>The comets of the Tis return, as they do every few centuries, and are seen over the following years</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree and beginning of the Great Eastern War;<br>"Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
