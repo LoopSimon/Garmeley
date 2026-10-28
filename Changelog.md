@@ -1,3 +1,4 @@
+- 2026-10-28T0436 · Garmish Succession Crisis
 - 2026-10-28T0433 · Ur
 - 2026-10-28T0432 · Complete Timeline
 - 2026-10-28T0430 · Vorellan War
@@ -18,7 +19,6 @@
 - 2026-10-28T0424 · Rulers of Garmeley
 - 2026-10-28T0423 · Hynek of Forrington
 - 2026-10-28T0422 · Garmeley
-- 2026-10-28T0420 · Garmish Succession Crisis
 - 2026-10-28T0405 · Agnes I
 - 2026-10-27T2359 · Urien
 - 2026-10-27T2358 · Urland
