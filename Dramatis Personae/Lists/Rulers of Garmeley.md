@@ -19,8 +19,8 @@ Duke Jakub III sent Garmish knights to the last stand of Urland against the Hobg
 
 <p>Aras II, reigning in 805PA</p> <p>Albrecht V</p> <p>Eadwin II</p> <p><a href="Agnes I" class="internal-link">Agnes I</a>, until 922PA</p>
 
-Agnes I died at the Midsummer Festival of 922PA, aged 26, unmarried and without issue.
+Agnes I died at the Midsummer Festival of 922PA, aged 26, unmarried and without issue. She was the youngest of the three children of Eadwin II, the son of Albrecht V. Her elder brother Kazlav and her elder sister Natalia died before their father. Eadwin II also had a younger sister, Fiora, who married into the House of Forr and was the mother of Hynek.
 
 <h3>The Disputed Throne</h3> <small>922PA - present</small>
 
-The Riverthrone is claimed by two parties. Hynek of Forr, the nephew of Agnes I by her half-sister, was her heir by blood, and was killed in February 927PA. Coster of Melmbirth claims the throne by ancient custom. See the [[Garmish Succession Crisis]].
+The Riverthrone is claimed by two parties. Hynek of Forr, the cousin of Agnes I and the son of her father's sister Fiora, was her heir by blood, and was killed in May 927PA.Coster of Melmbirth claims the throne by ancient custom. See the [[Garmish Succession Crisis]].

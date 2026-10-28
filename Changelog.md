@@ -1,15 +1,31 @@
+- 2026-10-28T0433 · Ur
+- 2026-10-28T0432 · Complete Timeline
+- 2026-10-28T0430 · Vorellan War
+- 2026-10-28T0429 · Ak-Saray
+- 2026-10-28T0429 · Eldmar
+- 2026-10-28T0429 · Urbridge
+- 2026-10-28T0429 · Trinvale
+- 2026-10-28T0428 · Dolm
+- 2026-10-28T0428 · Coster of Melmbirth
+- 2026-10-28T0428 · Jakub Ralpia
+- 2026-10-28T0427 · Kherova
+- 2026-10-28T0427 · Vihr
+- 2026-10-28T0426 · Miriam II
+- 2026-10-28T0426 · Hainach
+- 2026-10-28T0425 · Polgo Fiago
+- 2026-10-28T0425 · Forrington
+- 2026-10-28T0425 · Redflow
+- 2026-10-28T0424 · Rulers of Garmeley
+- 2026-10-28T0423 · Hynek of Forrington
+- 2026-10-28T0422 · Garmeley
+- 2026-10-28T0420 · Garmish Succession Crisis
+- 2026-10-28T0405 · Agnes I
 - 2026-10-27T2359 · Urien
 - 2026-10-27T2358 · Urland
-- 2026-10-27T2130 · Ur
 - 2026-10-27T1919 · Zurgush
 - 2026-10-27T1918 · The Malagul
-- 2026-10-27T1917 · Trinvale
-- 2026-10-27T1914 · Urbridge
-- 2026-10-27T1911 · Eldmar
 - 2026-10-27T1910 · Gelmsburg
 - 2026-10-27T1909 · Hobgoblin Invasion
-- 2026-10-27T1907 · Ak-Saray
-- 2026-10-27T1900 · Complete Timeline
 - 2026-10-27T1853 · Wars of the Gryphon
 - 2026-10-27T1838 · League of the Gryphon
 - 2026-10-27T1832 · Hrened
@@ -99,7 +115,6 @@
 - 2026-10-22T2144 · Krestasi
 - 2026-10-22T1652 · Tzen
 - 2026-10-22T1651 · Grand Ziflis Company
-- 2026-10-22T1550 · Hainach
 - 2026-10-22T1550 · Grivil
 - 2026-10-22T0238 · Myan-Bond
 - 2026-10-22T0208 · The Veil
@@ -254,17 +269,9 @@
 - 2026-10-16T2258 · Situation in the Paper Cities
 - 2026-10-16T2254 · Knights of the Green Tree
 - 2026-10-16T2253 · Rivalt du Chian
-- 2026-10-16T2007 · Garmeley
 - 2026-10-16T2006 · Leok
-- 2026-10-16T1944 · Redflow
-- 2026-10-16T1943 · Forrington
-- 2026-10-16T1943 · Dolm
 - 2026-10-16T1932 · Ralzig
-- 2026-10-16T1930 · Coster of Melmbirth
-- 2026-10-16T1929 · Garmish Succession Crisis
-- 2026-10-16T1927 · Polgo Fiago
 - 2026-10-16T1922 · Muxul
-- 2026-10-16T1704 · Hynek of Forrington
 - 2026-10-16T1501 · Lizion
 - 2026-10-16T1448 · Droil
 - 2026-10-16T1435 · Lotung
@@ -320,13 +327,10 @@
 - 2026-10-15T0534 · Kindly Lords
 - 2026-10-15T0531 · Sunminster
 - 2026-10-15T0516 · Jonek Two Tongues
-- 2026-10-15T0516 · Agnes I
 - 2026-10-15T0515 · Elena Montegru
 - 2026-10-15T0515 · Meynar of Jorrenstead
 - 2026-10-15T0513 · Rulers of Vihr
-- 2026-10-15T0512 · Vihr
 - 2026-10-15T0508 · Patwin Tower
-- 2026-10-15T0505 · Rulers of Garmeley
 - 2026-10-15T0453 · Eye of Kasimir
 - 2026-10-15T0446 · Mark
 - 2026-10-15T0445 · Third War of Elbae Aggression
@@ -345,7 +349,6 @@
 - 2026-10-14T1630 · Szievek
 - 2026-10-14T1423 · Zavlech
 - 2026-10-14T1421 · Zervind II
-- 2026-10-14T1419 · Jakub Ralpia
 - 2026-10-14T1418 · Vormil III
 - 2026-10-14T1415 · Rovgi
 - 2026-10-14T0555 · Order of the Silver Wheel
@@ -395,6 +398,3 @@
 - 2026-10-14T0421 · Laettr
 - 2026-10-14T0421 · Kubil no Vang
 - 2026-10-14T0421 · Khulki
-- 2026-10-14T0420 · Jezanis
-- 2026-10-14T0420 · Jan van Swarn
-- 2026-10-14T0420 · Gudrun
