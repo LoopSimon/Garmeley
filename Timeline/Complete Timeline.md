@@ -479,6 +479,7 @@
             <div class="timeline-item" data-date="521PA">Edict of the Sultan elevates the School of Karajal</div>
             <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
             <div class="timeline-item" data-date="524PA">The Vanpuri successor state of Faarmish fully loses its hold on Ynkal, falling to various local warlords, <br>Era of warring Hordes begins on Ynkal</div>
+            <div class="timeline-item" data-date="527PA">Palus Argestes creates the first Waxborn</div>
 	        <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, <br>Lissean Kingdom forms</div>
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble; <br>Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends</div>

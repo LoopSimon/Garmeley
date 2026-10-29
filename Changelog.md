@@ -1,6 +1,12 @@
-- 2026-10-28T0436 · Garmish Succession Crisis
+- 2026-10-29T1551 · Chian Genzin
+- 2026-10-29T1550 · Myan-Bond
+- 2026-10-29T1457 · Golem
+- 2026-10-29T0732 · Palus
+- 2026-10-28T2142 · Garmish Succession Crisis
+- 2026-10-28T2135 · Waxborn
+- 2026-10-28T2109 · Complete Timeline
+- 2026-10-28T1554 · Eight Years War
 - 2026-10-28T0433 · Ur
-- 2026-10-28T0432 · Complete Timeline
 - 2026-10-28T0430 · Vorellan War
 - 2026-10-28T0429 · Ak-Saray
 - 2026-10-28T0429 · Eldmar
@@ -116,7 +122,6 @@
 - 2026-10-22T1652 · Tzen
 - 2026-10-22T1651 · Grand Ziflis Company
 - 2026-10-22T1550 · Grivil
-- 2026-10-22T0238 · Myan-Bond
 - 2026-10-22T0208 · The Veil
 - 2026-10-22T0207 · Greater Spirit
 - 2026-10-22T0000 · Cường Đức Lý
@@ -323,7 +328,6 @@
 - 2026-10-15T1424 · Luca
 - 2026-10-15T1423 · Ikval
 - 2026-10-15T1414 · Lyandra
-- 2026-10-15T0647 · Eight Years War
 - 2026-10-15T0534 · Kindly Lords
 - 2026-10-15T0531 · Sunminster
 - 2026-10-15T0516 · Jonek Two Tongues
@@ -394,7 +398,3 @@
 - 2026-10-14T0421 · Merzigal
 - 2026-10-14T0421 · Lukomok Trep
 - 2026-10-14T0421 · Loomman
-- 2026-10-14T0421 · Livia Bistovka
-- 2026-10-14T0421 · Laettr
-- 2026-10-14T0421 · Kubil no Vang
-- 2026-10-14T0421 · Khulki
