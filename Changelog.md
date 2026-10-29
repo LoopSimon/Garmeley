@@ -1,3 +1,4 @@
+- 2026-10-29T1553 · Red Monk
 - 2026-10-29T1551 · Chian Genzin
 - 2026-10-29T1550 · Myan-Bond
 - 2026-10-29T1457 · Golem
@@ -65,7 +66,6 @@
 - 2026-10-25T2330 · The Dance of Nissa
 - 2026-10-25T0208 · Thandar
 - 2026-10-25T0205 · Yellow Eyed Man
-- 2026-10-25T0159 · Red Monk
 - 2026-10-24T0329 · Zheguan
 - 2026-10-24T0318 · Codex Thereticum
 - 2026-10-24T0300 · The Anak
