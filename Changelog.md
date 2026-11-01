@@ -1,3 +1,4 @@
+- 2026-11-01T1432 · Xerental
 - 2026-11-01T1430 · Keyzal 21
 - 2026-11-01T1424 · Keyzal Workshop
 - 2026-11-01T1147 · Ormir Pizak
@@ -397,4 +398,3 @@
 - 2026-10-14T0422 · Targesis
 - 2026-10-14T0422 · Telipir
 - 2026-10-14T0422 · Shasha Gurnakov
-- 2026-10-14T0422 · Skemril
