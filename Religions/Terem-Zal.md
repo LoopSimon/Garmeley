@@ -23,14 +23,18 @@ Karavdan, Life Breathing
 His Domains are Healing, Plant, Strength, War and Good and his favoured weapon is the Glaive.</p>
 Axo-For, Spell Weaving
 <p>Lost God of the Fogor-Kol, now the <a href="Cult of the Darksun" class="internal-link">Dark Sun</a> of <a href="Fogorix" class="internal-link">Fogorix</a> associated with corundum.
-His Domains are Magic, Darkness, Sun and Void and his favoured weapon is the Manople.</p>
+His Domains are Magic, Darkness and Void and his favoured weapon is the Manople.</p>
 Untizin, Law Giving
-<p>The God of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, associated with gneiss.
+<p>The God of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, associated with Osmium.
 Her Domains are Law, Nobility and Community and her favoured weapon is the Greatspear.</p>
 
 Ran, Grave Singing
 <p>The God of the forgotten hold, associated with Malachite.
-His Domains are Death, Runes and Repose and his favoured weapon is the Warhammer.</p>
+His Domains are Death and Runes and his favoured weapon is the Warhammer.</p>
+
+Norog, Purpose Changing
+<p>The God of Gar Norog, associated with Gneiss.
+His Domains are Sun and Repose and his favoured weapon is the Halberd.</p>
 
 Zul-Subra, Mind Speaking
 <p>The God of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a>, associated with slate. The citizens of Sulbra-Kol have largely converted to a form of kalbin <a href="Panrity" class="internal-link">Panrity</a> combining classical worship of the Terem Zal with kalbin ideals.

@@ -1,3 +1,20 @@
+- 2026-11-01T1323 · Keyzal Workshop
+- 2026-11-01T1147 · Ormir Pizak
+- 2026-10-31T0557 · Ziflis Trade
+- 2026-10-31T0551 · Ziflis
+- 2026-10-31T0548 · Smoking Sea Trade
+- 2026-10-31T0548 · Vanpur Pepper Trade
+- 2026-10-31T0545 · Pepper Islands
+- 2026-10-31T0533 · Winds and Currents
+- 2026-10-31T0524 · Astafar
+- 2026-10-31T0524 · Red Honey
+- 2026-10-31T0522 · Peadyr
+- 2026-10-31T0444 · Immersong
+- 2026-10-31T0407 · Odric Pizak
+- 2026-10-31T0402 · Beryl Lenkov
+- 2026-10-31T0400 · Ranni Grevil
+- 2026-10-31T0359 · Rodomyr
+- 2026-10-31T0322 · Terem-Zal
 - 2026-10-29T1553 · Red Monk
 - 2026-10-29T1551 · Chian Genzin
 - 2026-10-29T1550 · Myan-Bond
@@ -58,11 +75,10 @@
 - 2026-10-27T0339 · Kaladi Mysticism
 - 2026-10-27T0339 · Hobgiliath
 - 2026-10-26T2207 · Heire
-- 2026-10-26T2043 · Trade
+- 2026-10-26T2043 · Tradegood Hotspots (outdated)
 - 2026-10-26T1812 · Izhevk
 - 2026-10-26T1812 · Kharnov
 - 2026-10-26T1810 · Green Plague
-- 2026-10-26T0225 · Rodomyr
 - 2026-10-25T2330 · The Dance of Nissa
 - 2026-10-25T0208 · Thandar
 - 2026-10-25T0205 · Yellow Eyed Man
@@ -196,7 +212,6 @@
 - 2026-10-19T1510 · The Ideal Plane
 - 2026-10-19T1509 · The Concrete Plane
 - 2026-10-19T1508 · Tageyo
-- 2026-10-19T1508 · Terem-Zal
 - 2026-10-19T1507 · Avdan-Kol
 - 2026-10-19T1507 · Oleithec
 - 2026-10-19T1506 · Yari Cults
@@ -383,18 +398,3 @@
 - 2026-10-14T0422 · Shasha Gurnakov
 - 2026-10-14T0422 · Skemril
 - 2026-10-14T0422 · Sergey Hirl
-- 2026-10-14T0422 · Rulers of the Beheran Elves
-- 2026-10-14T0422 · Rox
-- 2026-10-14T0421 · Plysfir
-- 2026-10-14T0421 · Pharabal
-- 2026-10-14T0421 · Parniva
-- 2026-10-14T0421 · Oro Yominga
-- 2026-10-14T0421 · Natan VI
-- 2026-10-14T0421 · Morlamir
-- 2026-10-14T0421 · Morfeld
-- 2026-10-14T0421 · Mikael Bivaldi
-- 2026-10-14T0421 · Miasa
-- 2026-10-14T0421 · Miarat
-- 2026-10-14T0421 · Merzigal
-- 2026-10-14T0421 · Lukomok Trep
-- 2026-10-14T0421 · Loomman
