@@ -15,7 +15,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span>The Kiln</span>
+        <span>The Next</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

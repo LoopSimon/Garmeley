@@ -2,7 +2,7 @@
 [[Hanshi]]
 [[Byamon]]
 [[Koshtir]]
-[[Trade]]
+[[Tradegood Hotspots (outdated)]]
 [[Iz-Almadus]]
 %%
 <p>A drug created from the dried latex of Asta Poppies, Astafer is a synthetic opioid that is extremely common within the <a href="Elbae" class="internal-link">Sultanate</a>, its various sub states and the Lands of Kaito. Asta-poppies only grow on the Fitta Islands in the Purple Sea, and the trade income of the drug is a substantial reason for the regional dominance of the <a href="Hanshi" class="internal-link">Realm of Hanshi</a> .</p>

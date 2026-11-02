@@ -148,7 +148,9 @@
 				<p>Spoken by the Locni peoples west of the Lowstep Hills </p>
 			<h4>Othiri</h4>
 				<p>Spoken by the Othir of Western Ilrakhan</p>
-			<h4>Yorgosi</h4>
+			<h4>Talang</h4>
+				 <p>Spoken by the Talang of south eastern Kaito and used as the language of the Yppori states</p>
+			 <h4>Yorgosi</h4>
 				<p>Spoken by the Yorgosi of West Behera, south of Almadus </p>
 			</div>
 		</div>

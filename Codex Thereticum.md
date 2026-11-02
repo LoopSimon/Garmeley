@@ -56,6 +56,24 @@ Volburk, Steadfast in Motion
 
 
 
+At Mirigal, the Lightbenders of the Order of the Second Sun have begun excavating a great and dangerous project, kidnapping Goblins from the east for their purpose as well as taking dangerous and unwanted criminals as slaves within their confinement. Mirigal is hidden by the Magic of the Great Crystal and effectively unescapable for its prisoners, who are bound by shackles of lightmagic, not many guards are needed  and the Tower itself is hidden as a Fata Morgana within the Asef Desert.
+Two of Perzuks brothers are held at Mirigal and he aims to free them, he was told by the Mercenary Amir that the only man he heard talk in earned about Mirigal was a figure called "the Red Monk" who supposedly is a recent escapee.
+The Second Pillar, a group of southerners made up of water elementalists is hunting the Red Monk and have tracked him down to the Izker Moor, on the orders of a figure called Pilaya, who in reality is in charge for security at Mirigal.
+The Red Monk himself, a man called Cinderstone Mikur, has gone somewhat insane after his time at Mirigal and still carries around the remnants of his magical chain, now somewhat defunct. He figured out that in order to flee the Illusionary bonds, he needed to go into the desert blind, and follow an animal known as the Zheguan that is native to the deserts and seems to be immune to their magic, he has a rough idea where the prison may be.
+
+
+The Men of Glass, the Order of Alchemists meanwhile hunt Zinris for his breaking of the Iron Code, in reality they aim to understand what exactly he did to recreate his experiment.
+
+Provost Mihun, an elite bounty hunter, has been on the tale of the Golden Gambit and Perzuk specifically as his latest job: he was discreetly hired by the elf Xarvin Jiballo whose masterwork dagger the goblin stole. 
+
+Orlatz, an agent of the Vihri spy agency the Vaegriff, was hired to track down Provost Mihun, eliminate him and secure his magical ring that is supposedly holding valuable information to the Vaergriffs leadership, he us accompanying Perzuk and keeps him as Bait
+
+
+
+
+
+
+
 
 
 Sing of Nissa, chieftain of the Roymer, in the days before maps were drawn.  

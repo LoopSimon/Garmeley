@@ -1,7 +1,7 @@
 %%
 [[Hainach]]
 [[Elbae]]
-[[Trade]]
+[[Tradegood Hotspots (outdated)]]
 [[Grevenna]]
 [[Azuvke]]
 [[Kareli Hierarchy]]

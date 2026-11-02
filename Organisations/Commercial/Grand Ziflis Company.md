@@ -5,8 +5,9 @@
 [[Kareli Hierarchy]]
 [[Yl-Lhatsi]]
 [[Qarzi]]
-[[Byamon]]
+[[Rikarma]]
 [[Hanshi]]
+[[Chezin]]
 [[Koshtir]]
 [[The Amanita Cartel]]
 [[The Discovery of Sirenna]]
@@ -18,7 +19,7 @@
 
 <p>The company received its official charter in the year 754PA by Sultan Fasmer I Elbae, but its roots go back almost a century earlier to the "Fraternity of the Islands", a group of traders in close connection to the Ports of Kulum, Thulmouth and Reanport. 
 It currently enjoys no fees to trading merchants in the ports of Reanport, Aznyr, Azuvke, Thulmouth, Edgral,  and new Kulum in exchange for privileges to the local nobilities. Its second largest outpost after Ziflis is at Almadin where almost the entire trade from nations such as the <a href="Yorgos" class="internal-link">Yorgosi Marival</a>,  or the <a href="Pravazik" class="internal-link">Empire of Pravazik</a> flows into the Sultanate and greater Ilrakhan.</p>
-<p>The Grand Ziflis Company also operates in the Purple Sea, entertaining commercial relationships with the Yppori ports of <a href="Koshtir" class="internal-link">Koshtir</a>, <a href="Hanshi" class="internal-link">Hanshi</a> and <a href="Byamon" class="internal-link">Byamon</a>. Following the <a href="The Discovery of the New World" class="internal-link">discovery of Sirenna</a> in the late 920s imports from the far south have become incredibly valuable, making the companies relationships with the Yppori initially more profitable but also increasingly tense as elven colonial aspirations threaten their dominance over the new world.</p>
+<p>The Grand Ziflis Company also operates in the Purple Sea, entertaining commercial relationships with the Yppori ports of the Purple Sea, such as <a href="Koshtir" class="internal-link">Koshtir</a> and the other successor states of the  <a href="Naigan" class="internal-link">Purple Empire of Naigan</a>. Following the <a href="The Discovery of the New World" class="internal-link">discovery of Sirenna</a> in the late 920s imports from the far south have become incredibly valuable, making the companies relationships with the Yppori initially more profitable but also increasingly tense as elven colonial aspirations threaten their dominance over the new world.</p>
 
 <p>The Company is currently led by Headmaster Usval al Hamon and employs houndreds of individual merchants and multiple regional governors and is playing a large role in the colonization of southern Behera and Il-Haena.</p>
 

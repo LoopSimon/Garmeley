@@ -23,7 +23,7 @@
     </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>927, outside Redflow</span>
+        <span>May 927PA, outside Redflow</span>
     </div>
     
     <div class="wiki-row">
@@ -47,7 +47,8 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Hynek.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>The Count of Forrington, Hynek of Forr, was one of the most powerful and rich nobles during the reign of Duchess Agnes of <a href="Garmeley" class="internal-link">Garmeley</a> his late aunt. After her death at the Midsummer Festival of 922PA he was left as the heir-appearent to the Riverthrone and became the leader of the Southern Garmish Alliance opposed by the Green Banner League declared by <a href="Coster of Melmbirth" class="internal-link">Coster</a> the Count of Melmbirth. War later broke out between the southern and northern factions when Hyneks younger Sister Regia was captured by agents of the Green Banner.</p>
+<p>The Count of Forrington, Hynek of Forr, was one of the most powerful and rich nobles during the reign of Duchess Agnes of <a href="Garmeley" class="internal-link">Garmeley</a> his late cousin. After her death at the Midsummer Festival of 922PA he was left as the heir-appearent to the Riverthrone and became the leader of the Southern Garmish Alliance opposed by the Green Banner League declared by <a href="Coster of Melmbirth" class="internal-link">Coster</a> the Count of Melmbirth. War later broke out between the southern and northern factions when Hyneks younger Sister Regia was captured by agents of the Green Banner.</p>
 <p>Count Hynek was a fervent follower of the Kindly Lords, keeping up good relations with the Mages of Patwin Tower, the Druidic Sages of the Gladewoods and his southern neighbours in <a href="Hainach" class="internal-link">Hainach</a>, as the attack on his sister and the formation of the Green Banner League was largely seen as an attack also on those very values, all of these parties willingly answered his call to arms. As the protector of the south of Garmeley he had also met Baron <a href="Polgo Fiago" class="internal-link">Polgo Fiago</a> of <a href="Grivil" class="internal-link">Grivil</a> several times and came to count him a friend.</p>
 
-<p>Proving himself a clever military leader and magnetic figurehead, Hyneks cause was largely succesful in the early years of the War, further discussed <a href="Garmish Succession Crisis" class="internal-link">here</a>, likely one of the reasons why he found himself at the wrong end of an assassins blade in the february of 927PA while leading the Siege on Redflow, the Capital of Garmeley.</p>
+<p>Proving himself a clever military leader and magnetic figurehead, Hyneks cause was largely succesful in the early years of the War, further discussed <a href="Garmish Succession Crisis" class="internal-link">here</a>, likely one of the reasons why he found himself at the wrong end of an assassins blade in May of 927PA while leading the Siege on Redflow, the Capital of Garmeley.</p>
+<p>Hynek was the son of Fiora, the younger sister of Duke Eadwin II, and so the first cousin of Agnes I. His paternal grandmother came from the House of Pikris, which is why the princes of Hainach count him a kinsman. He was thirty-six years old when he died. His son Milos, a boy of six, is now Count of Forrington under the regency of Elric of Thulmouth, and his sister Regia, who is eighteen, is still held by the Green Banner League at Waterbreak Keep.</p>
