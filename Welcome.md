@@ -6,7 +6,7 @@ As this world is constantly under development, some articles may still be awaiti
 If you are a player in one of the games and worried about spoilers, you can always ping me and double check about a certain page.
 </p>
 </div>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/map_previewoc.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <iframe src="https://flanz1.github.io/world-globe-embed/v/aerthos/" width="100%" height="480" style="border:0;border-radius:8px;background:transparent" loading="lazy" allow="fullscreen" title="Aerthos globe"></iframe> 
 </div>
 <div class="grid-item span-col-2">
 <p>  Formatted for easy Access by Neko and Loop.<br> Articles written by Loop, with contributions by Dragon, Tombo, Mank & Olle.</p>
