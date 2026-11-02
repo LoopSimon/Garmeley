@@ -1,8 +1,10 @@
-%%
-[[Tizin-Kol]]
-[[Keyzal 21]]
-[[Xerental]]
+%%  
+[[Tizin-Kol]]  
+[[Keyzal 21]]  
+[[Xerental]]  
+[[Currentbending]]  
+[[Mamus Rolim]]  
 %%
 
-<p>The Keyzal Workshop, named after its founder Iris Keyzal, is an important private organisation within the underland Hold of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, working within the weapons manufacturing sector. They collaborate in many aspects with the distribution network of the <a href="Xerental" class="internal-link">Xerental</a> but are following Tizin-Kol mandates. </p>
-<p>Originally a envisioned as the research and development part of the larger Inos Mining Cartel, they made a fortune when selling the now famous Keyzal Visor as military equipment to paying mercenaries of the Mistspire Underlands, and have since the mid 800s begun to branch out into the realm of alternative weapon design. One of their most famous lines of arms is the Keyzal Osmiumthrower, like the <a href="Keyzal 21" class="internal-link">Model 21</a>, utilizing the revolutionary technology of Mamus Rolim to Currenbend Metal and allow for the devastating propulsion of refined Osmium, the incredibly dense metal holy to the industrious dwarves of Tizin-Kol </p>
+<p>The Keyzal Workshop, named after its founder Iris Keyzal, is an important private organisation within the underland Hold of <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, working within the weapons manufacturing sector. They collaborate in many aspects with the distribution network of the <a href="Xerental" class="internal-link">Xerental</a> but are following Tizin-Kol mandates.</p> <p>Originally envisioned as the research and development part of the larger Inos Mining Cartel, they made a fortune when selling the now famous Keyzal Visor, a currentbent visor whose needles sense metal, movement and hidden tunnels in total darkness, as military equipment to paying mercenaries of the Mistspire Underlands, and have since the mid 800s begun to branch out into the realm of alternative weapon design. One of their most famous lines of arms is the Keyzal Osmiumthrower, like the <a href="Keyzal 21" class="internal-link">Model 21</a>, utilizing the revolutionary technology of <a href="Mamus Rolim" class="internal-link">Mamus Rolim</a> to <a href="Currentbending" class="internal-link">Currentbend</a> Metal and allow for the devastating propulsion of refined Osmium, the incredibly dense metal holy to the industrious dwarves of Tizin-Kol.</p> <p>The Workshop's ties to the Inos Mining Cartel gave it what no rival could easily match: access to the strikestone of the Inos mines and a share of the deepforged silver of the Hold's deepest forges. Its early throwers cost it dearly, in rails gone grey, in burst strikestone and in gunners blinded by osmium fumes, and those grey years are still remembered within its halls. It was the Workshop's answer to them, from masked gunners and cooler rails to fused and jacketed cartridges, that made the Osmiumthrower a weapon rather than a hazard. Under the mandates of Tizin-Kol, its finest models are rarely permitted to leave the Underlands.</p>
+

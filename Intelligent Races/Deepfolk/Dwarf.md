@@ -1,7 +1,9 @@
+%%  
+[[Underlands]]  
+[[Terem-Zal]]  
+[[Trog]]  
+[[Tizin-Kol]]  
+[[Currentbending]]  
+%%
 
-
-Small in stature, the bearded and sturdy dwarves are masterful stone and metal workers that live in deep cavern cities and mountain holds.
-
-The greatest Dwarven Cities are built in exhausted volcanos where they believe their gods of forge and fire fought in older days, an structured as ringed vertical civilizations build around central chambers.
-
-Unlike their surface loving cousins, the dwarves of the world are less interested in the worldly affairs of war and politics, preferring to tend their ancient halls and worship through craftsmanship. They can generally live for up to 300 years, although on average live up until 200, and reach a height of at most 5 ft or 150 centimetres; their eyes are adapted to darkness and can see detail and far in dim light but struggle a little to make out details at range when in the sunlight of the surface world.
+<p>Small in stature, the bearded and sturdy dwarves are masterful stone and metal workers that live in deep cavern cities and mountain holds.</p> <h2>Origins</h2> <p>Dwarven lore tells that their people were not made but shaped. Their ancestors, the <a href="Trog" class="internal-link">Trogs</a>, descended from the earth-bound Trolls, and in the deep places of the world the gods of stone, the <a href="Terem-Zal" class="internal-link">Terem-Zal</a>, worked upon that line until it became the stone-like dwarves of today. To a dwarf, the strength of their bodies and the patience of their crafts are both inheritances of the stone.</p> <h2>Holds and Faith</h2> <p>The greatest Dwarven Cities are built in exhausted volcanos where they believe their gods of forge and fire fought in older days, and are structured as ringed vertical civilizations built around central chambers.</p> <p>Unlike their surface loving cousins, the dwarves of the world are less interested in the worldly affairs of war and politics, preferring to tend their ancient halls and worship through craftsmanship. The study of stone itself, which the dwarves call mineralism, is among the most respected of their learned arts, and in some holds the metals of the deep are held sacred: in <a href="Tizin-Kol" class="internal-link">Tizin-Kol</a>, osmium, the densest of all, is holy. Tizin-Kol is also the home of <a href="Currentbending" class="internal-link">currentbending</a>, the engineering art that has lit, drained and bound together the holds of the Underlands over the past century, though not without strife between its engineers and the more devout, which came to a head in the Crisis of the Untouched.</p> <h2>Body</h2> <p>Dwarves live on average to around 140 years. Their unusual biology and the diet of the deep can carry a rare few into their 200s, the oldest known reaching past 230, but such long lives come at a cost, and the very old are often frail in body however sharp in mind. They reach a height of at most 5 ft or 150 centimetres; their eyes are adapted to darkness and can see detail and far in dim light, but struggle a little to make out details at range in the sunlight of the surface world.</p>
