@@ -37,6 +37,8 @@
  <strong>Field of Research</strong>  
  <span>Black Powder,<br>Refinement,<br>Ballistics</span>  
  </div>  
+  <hr class="wiki-hr">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/muglig.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>  
 
 <p>Muglig Ruv was a gnomish scholar of Ott and the most influential member of the Nabat, the "School of Dust", whose work transformed <a href="Black Powder" class="internal-link">black powder</a> from a Shirin signalling curiosity into a reliable propellant. Trained in the Prosum tradition of <a href="Artificery" class="internal-link">Artificery</a>, he became one of the leading voices of the sect of Ottian scholars who turned away from magical research to study the substance, and he is regarded within the Nabat as the founder of its methods. The refinement process, the grained powder and the proving standards that bear his name made possible the first Ottian gun, completed by his students in 803PA, nine years before his death.</p>  
