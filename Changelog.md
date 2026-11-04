@@ -1,3 +1,4 @@
+- 2026-11-04T2007 · Auroch
 - 2026-11-04T1853 · Muglig Ruv
 - 2026-11-04T1735 · Muxul
 - 2026-11-04T1602 · Twintail Imperium
@@ -397,4 +398,3 @@
 - 2026-10-14T0544 · Taar
 - 2026-10-14T0543 · Nuv Werm
 - 2026-10-14T0543 · Ravenleaf Forest
-- 2026-10-14T0543 · Candleguard
