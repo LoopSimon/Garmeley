@@ -1,6 +1,96 @@
-%%  [[Gnome]] [[Underlands]] [[Muxul]] [[Kortopis]] [[Voktator]]  [[Svirfneblin]] [[Garmogol Ilwik]] [[Artificery]] [[The Ottian Syndicate]]  [[Vorellan War]] [[Meadrath]] [[Grim]] %%
+%%  
+[[Muxul]]  
+[[Dwarf]]  
+[[Gnome]]  
+[[Underlands]]  
+[[Terem-Zal]]  
+[[Kortopis]]  
+[[The Ottian Syndicate]]  
+[[Artificery]]  
+[[Black Powder]]  
+[[Muglig Ruv]]  
+[[Larkomas]]  
+[[Garmogol Ilwik]]  
+[[Xer-Kol]]  
+[[Meadrath]]  
+[[Wargel]]  
+[[Vorellan War]]  
+%%  
 
-<div class="wiki-infobox"> <h4 class="wiki-header">Twin Cities of Ott</h4> <div class="wiki-row"> <strong>Government</strong> <span>Elective Monarchy</span> </div> <div class="wiki-row"> <strong>Head of State</strong> <span>Highlord Tashmimut Zuma</span> </div> <div class="wiki-row"> <strong>Capital</strong> <span>Twin Cities of Ott</span> </div> <div class="wiki-row"> <strong>Heraldic Symbol</strong> <span>2 Towers</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Primary Religion</strong> <span><a href="Muxul" class="internal-link">Muxul</a></span> </div> <div class="wiki-row"> <strong>Primary Culture</strong> <span>Kortopi Dwarves and Gnomes</span> </div> <div class="wiki-row"> <strong>Official Language</strong> <span>Ottian Gnomish</span> </div> <hr class="wiki-hr"> <div class="wiki-row"> <strong>Preceded by</strong> <span><a href="Gnome" class="internal-link">Gnomes</a> of the Western <a href="Underlands" class="internal-link">Underlands</a>,<br>after the Gnomish Period of Migration</span> </div> <div class="wiki-row"> <strong>Formed</strong> <span>307BA</span> </div> </div> <p>Ott is the great gnomish civilisation of the central <a href="Kortopis" class="internal-link">Kortopi Mountains</a>. Its two cities are both called Ott, for gnomes love repetition, which is why the realm is spoken of as the Twin Cities, or even the Twin Kingdoms, of Ott.</p> <h2>Origins</h2> <p>The gnomes of Ott descend from the tribe of Xan Ott, later shortened to Ott, the second of three great tribes to leave their birthplace around Vokt in the Gnomish Period of Migration. The first tribe, the forgotten tribe or Xan Daor, went south about 8000BA, and the third, Xan Il, went east to the Ilkiztis only a century or two before the <a href="Voktator" class="internal-link">Voktator Civilization</a> fell apart around 310BA. The tribe of Ott left some six thousand years after the first and arrived in the Kortopis around 1900 to 1700BA, where it settled amongst the <a href="Dwarf" class="internal-link">dwarves</a> and goblins of the western Underlands. It lived for a long age amidst the dwarves of <a href="Sulbra-Kol" class="internal-link">Sulbra-Kol</a> and <a href="Ogul-Vosko" class="internal-link">Ogul-Vosko</a>, until in 307BA it left those holds behind and settled around the ruins of Al-Kortop, the start of the twin cities. The Opening of Ott in 670PA marks the emergence of Ott as a unified entity that deals with outsiders.</p> <h2>The Two Cities</h2> <p>Al-Kortop is the gnomish name for the crater of a volcanic ruin in the heart of the Kortopis. The dwarves who once lived around it called it something else, but that name has been lost in time. Those ancient dwarves worshipped the then active volcano in a doomcult, but they are said to have vanished entirely, and the gnomes settled the site soon after. The first Ott lies in its central crater, built, some believe, upon the ruins of a chained or broken and long forgotten member of the <a href="Terem-Zal" class="internal-link">Terem-Zal</a>. Further west, on Mount Gril, the spiralling second Ott climbs the mountain. Passes and valleys connect the two, and dozens of smaller gnomish communities fill them and the mountains to the west. A passage in the far west of Ott leads down into the <a href="Underlands" class="internal-link">Underlands</a>, where the gnomes have struck a partnership with the ancient <a href="Svirfneblin" class="internal-link">Svirfneblin</a>, who mine and dig for them. Some call it slavery, others worry less.</p> <h2>The Muxul</h2> <p>The <a href="Muxul" class="internal-link">Muxul</a>, a domed temple complex, stands on the far side of the crater from the first Ott. It was the first structure raised here, long before the cities, and even today it is afforded a wide space where no other construction stands. The faith that grew around it, also called Muxulism or the Great Introspection, is closer to a devotion to reality than to any supernatural being. It is practiced as well by the gnomes of the Ottian diaspora, in Cevolia, Meadland and Ur and in other dwarven holds of Ilrakhan, and its schools gave birth to Prosum and to the Akkir, whose tonal Akosophosers bend music to alter reality.</p> <h2>Government and Craft</h2> <p>Ott is an elective monarchy under a Highlord, currently Tashmimut Zuma, and its Twin Kingdoms Council once counted <a href="Garmogol Ilwik" class="internal-link">Garmogol Ilwik</a> as Minister for Foreign Relations from 891PA to 910PA. In the crater of the first Ott stands the Prosiplex, arguably the heart of all <a href="Artificery" class="internal-link">artificery</a> research on the globe, and <a href="The Ottian Syndicate" class="internal-link">The Ottian Syndicate</a> keeps its headquarters there as well. For all their craft, the gnomes of Ott have long desired the secret of <a href="Wyrdrock" class="internal-link">Wyrdrock</a>, the strange ore that only the goblins of <a href="Mitimgar" class="internal-link">Mitimgar</a> and a few hobgoblin masters know how to forge, and they have tried to buy it, to steal it and to study captured pieces without success.</p>
+<div class="wiki-infobox">  
+    <h4 class="wiki-header">Twin Cities of Ott</h4>  
+    <div class="wiki-row">  
+        <strong>Government</strong>  
+        <span>Elective Monarchy</span>  
+    </div>  
+    <div class="wiki-row">  
+        <strong>Head of State</strong>  
+        <span>Highlord Tashmimut Zuma</span>  
+    </div>  
+    <div class="wiki-row">  
+        <strong>Capital</strong>  
+        <span>Twin Cities of Ott</span>  
+    </div>  
+    <div class="wiki-row">  
+        <strong>Heraldic Symbol</strong>  
+        <span>2 Towers</span>  
+    </div>  
+    <hr class="wiki-hr">  
+    <div class="wiki-row">  
+        <strong>Primary Religion</strong>  
+        <span><a href="Muxul" class="internal-link">Muxul</a></span>  
+    </div>  
+    <div class="wiki-row">  
+        <strong>Primary Culture</strong>  
+        <span>Kortopi Dwarves and Gnomes</span>  
+    </div>  
+    <div class="wiki-row">  
+        <strong>Official Language</strong>  
+        <span>Ottian Gnomish</span>  
+    </div>  
+    <hr class="wiki-hr">  
+    <div class="wiki-row">  
+        <strong>Preceded by</strong>  
+        <span>Auguri Dominion</span>  
+    </div>  
+    <div class="wiki-row">  
+        <strong>Formed</strong>  
+        <span>670PA</span>  
+    </div>  
+</div>  
 
+<p>The Twin Cities of Ott, often simply called Ott or the Twin City, are a realm of <a href="Gnome" class="internal-link">gnomes</a> and Kortopi <a href="Dwarf" class="internal-link">dwarves</a> in the <a href="Kortopis" class="internal-link">Kortopi Mountains</a>, governed as an elective monarchy under a Highlord. Ott is the only large settlement of gnomes in the known world and is renowned across the continent as the centre of Prosum, the gnomish study of <a href="Artificery" class="internal-link">Artificery</a>, whose graduates and whose <a href="The Ottian Syndicate" class="internal-link">Syndicate</a> carry Ottian craft into the courts and cities of Ilrakhan. Since the 8th century Ott has also been the home of the Nabat, the school that developed <a href="Black Powder" class="internal-link">black powder</a> into a weapon and produced the first Ottian gun in 803PA.</p>  
 
-<h2>Arms and Neighbours</h2> <p>Ottian explosives served the dwarves of Ogul-Vosko in the <a href="Granite Crusade" class="internal-link">Granite Crusade</a>, and the mortars and rifles of the Copperheads, an Ottian mercenary company, turned the Battle of Cefran in the <a href="Vorellan War" class="internal-link">Vorellan War</a>. The Ottian government, and with it the Syndicate, is closely tied to <a href="Meadrath" class="internal-link">Meadrath</a>, and certain denominations of the Ottian <a href="Grim" class="internal-link">Grim</a> hold a set rate against the Gryphon.</p>
+<h2>Geography</h2>  
+<p>Ott lies within the Kortopi Mountains between <a href="Meadland" class="internal-link">Meadland</a> to the north and <a href="Cevolia" class="internal-link">Cevolia</a> to the south, close to the Pass of Ott, one of the primary commercial routes between the two regions. The realm consists of two cities, known to outsiders as First Ott and Second Ott and within gnomish culture as Run and Zat respectively. The northern approaches to the pass are guarded by the Meadi Duchy of <a href="Wargel" class="internal-link">Wargel</a>, while its southern end is dominated by the Battvian city of Vorella.</p>  
+
+<h2>History</h2>  
+<p>The Twin Kingdoms of Ott emerged in 670PA, uniting the two cities that give the realm its name and its heraldic symbol of two towers. The late 7th century produced the physicist and planar theorist <a href="Larkomas" class="internal-link">Larkomas Mi Terix</a>, whose work laid the foundation of modern planar theory, and in 769PA the Ottian Syndicate published the Ottian Codex, the grading manual for artefacts that is now in use across most of the subcontinent.</p>  
+<p>In the early to mid 8th century black powder, a Shirin discovery carried west along the <a href="Ziflis Trade" class="internal-link">Ziflis Trade</a>, reached Ott and was taken up by a sect of Prosum scholars. Their work grew into the Nabat, the "School of Dust", which embraced non magical research in a manner unusual for gnomish scholarship. Under scholars such as <a href="Muglig Ruv" class="internal-link">Muglig Ruv</a> the Nabat refined the substance, and in 803PA it produced the first prototype of the Ottian gun, followed by the first Ottian rifles in the 870s. In 840PA the artificer Charatov Podlim unveiled the first single core automaton, a further example of the realm's reputation for invention.</p>  
+<p>Ott sought to keep the secret of black powder within the Twin City, but the commercial instincts of its gnomes and the decentralized character of the Nabat made this impossible to sustain. Ottian explosives were used by the dwarves of Ogul-Vosko in the <a href="Granite Crusade" class="internal-link">Granite Crusade</a>, Ottian engineers shared much of the metalwork for their firearms with the hold of <a href="Xer-Kol" class="internal-link">Xer-Kol</a>, which began refining powder of its own in the mid 910s, and the Ottian mercenary company known as the Copperheads brought gnomish mortars and flintlock rifles to the <a href="Vorellan War" class="internal-link">Vorellan Wars</a>, where their use at the Battle of Cefran was the first use of black powder weapons on a surface battlefield.</p>  
+
+<h2>Politics</h2>  
+<p>Ott is ruled by a Highlord elected from within the realm, currently Tashmimut Zuma, and governed through the Twin Kingdoms Council. The Ottian Syndicate functions as a more or less official branch of the Ottian government and ties the realm closely to the Kingdom of <a href="Meadrath" class="internal-link">Meadrath</a>, whose commercial and scholarly interests it serves in many of the northern courts. Ott maintains a long relationship of partnership and rivalry with Xer-Kol, and the Paper City of <a href="Albesan" class="internal-link">Albesan</a> has entered into treaties with the Twin City in an effort to ease relations in the years after the Vorellan Wars.</p>  
+
+<h2>People of Interest</h2>  
+
+Tashmimut Zuma  
+ Highlord of Ott  
+   
+Garmogol Ilwik  
+ Annod of the Ottian Syndicate,  
+ former Minister for Foreign Relations of the Twin Kingdoms Council  
+   
+Halex Is  
+ Commandor of the Copperheads  
+
+<h3>Historic</h3>  
+
+Larkomas Mi Terix  
+ Physicist and Planar Theorist  
+   
+Muglig Ruv  
+ Scholar of the Nabat  
+   
+Charatov Podlim  
+ Artificer, creator of the first single core Automaton  

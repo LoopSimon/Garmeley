@@ -161,6 +161,7 @@
             <div class="timeline-item" data-date="780BA">First Records of the Walled City of Ikara</div>
             <div class="timeline-item" data-date="712BA">Samyri Marival is established and gains control over the Asefi City States in northern Behera</div>
             <div class="timeline-item" data-date="710BA">Neyadastes compiles the Codex Kynosis</div>
+            <div class="timeline-item" data-date="705BA">The first Priesthood of Untizin establishes the Oracle of Untizin in modern day Tizin-Kol</div>
             <div class="timeline-item" data-date="700BA">Thurl, modern day Thulmouth, is founded by Izian/proto-Reani traders</div>
             <div class="timeline-item" data-date="693BA">Nabu-Sharrim of Alwazattar begins the nightly diary of the sky kept by the priests of Rakh</div>
             <div class="timeline-item" data-date="691BA">Kasthemis of Cyraclion calculates the Globes circumference</div>
@@ -173,6 +174,7 @@
             <div class="timeline-item" data-date="640BA">Genevi finds the Keystar north of the Ronra</div>
 	        <div class="timeline-item" data-date="632BA">Tripparch creates his Diolagma</div>
             <div class="timeline-item" data-date="631BA">Alparaz binds Grahul</div>
+            <div class="timeline-item" data-date="630BA">Dwarves of the Eastern Underlands in the Mistspires and the Trollbacks begin establishing communication and pilgrimages between the Godsfall sights</div>
             <div class="timeline-item" data-date="624BA">Zuhurism is first practiced by the Pagri nomads of Nirydia</div>
             <div class="timeline-item" data-date="623BA">The Melop Dynasty rises in southern Tal under Melop the Conqueror, who claims the Ivory Crown of the Chagor</div>
             <div class="timeline-item" data-date="622BA">Veilcurse is seen for the first time</div>
@@ -194,6 +196,7 @@
             <div class="timeline-item" data-date="503BA">The Muyra Dynasty begins when Muyra Enil is raised as "Lord of Lords" in southern Tal, following his defeat of the forces of the Melop, End of the Melop Dynasty</div>
             <div class="timeline-item" data-date="489BA">Aessymia Palatea commits suicide by Tanlea</div>
 	        <div class="timeline-item" data-date="488BA">Rakhian Conquest of Sakra, modern day Hainach</div>
+	        <div class="timeline-item" data-date="468PA">The Dwarves of Untizin establish the Great Order around the Godsfall of modern day Tizin-Kol, following the proclamations of High-Priestess Neabascar</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig;<br>Approximate departure of the third gnomish tribe, the Xan Il, from the island of Vokt, heading east to the Ilkiztis</div>
             <div class="timeline-item" data-date="445BA">Death of the Sects in Mitimgar, <br>Timgar Silver Age ends and Timgar Age of Decline begins</div>
             <div class="timeline-item" data-date="440BA">Rakhi Conquest of Kerlean;<br>Iltani of Entusa finds that eclipses of the Moon return in a cycle that can be counted and foretold</div>
@@ -295,6 +298,7 @@
             <div class="timeline-item" data-date="30PA">The Nurlight is seen for the first time from beyond the Wastes; <br>Burning Decades have ended</div>
             <div class="timeline-item" data-date="32PA">Battle of Wyt Hill, <br>Ogrelords are driven back into the Yellow Moor, Pilvian Vale and mountain ranges</div>
             <div class="timeline-item" data-date="35PA">Great Pagri Migration Period in eastern Nirydia begins</div>
+            <div class="timeline-item" data-date="38PA">Mistspire Diaspora, the Dabani and Iragi Dwarves abandon the One Order</div>
             <div class="timeline-item" data-date="51PA">Alfin I is crowned as first Riverking of Garm</div>
             <div class="timeline-item" data-date="64PA">Izzmu Alik founds the Elbae Sultanat, re-establishes the old tradition of the Masqar</div>
             <div class="timeline-item" data-date="65PA">The comets of the Tis return, as they do every few centuries, and are seen over the following years</div>
@@ -308,6 +312,7 @@
             <div class="timeline-item" data-date="90PA">Estimated creation of the Pragala by Durenni Bihra</div>
             <div class="timeline-item" data-date="99PA">Rise of Merzigal in Kherova</div>
             <div class="timeline-item" data-date="100PA">Lakalism is the dominant religion in the Mondi Delta</div>
+            <div class="timeline-item" data-date="105PA">The Dabani dwarves found the Hold of Daban-Kol in the southern Mistspires</div>
             <div class="timeline-item" data-date="106PA">Aelfred Dogger begins his pilgrimage, origins of Doggerism in western Behera</div>
             <div class="timeline-item" data-date="110PA">The Drow of Nirydia collapse the entrance to the nirydian underlands, Great Seal of Tur Aman is finished, <br>Union of the Amani Drow under Tur Aman</div>
             <div class="timeline-item" data-date="112PA">Reani Wars of Unification, conquest of Mereskis</div>
@@ -377,6 +382,7 @@
             <div class="timeline-item" data-date="312PA">Council of the Old Moon, Baqamon unites almost all the tribes in a defensive alliance</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
             <div class="timeline-item" data-date="316PA">Nictor the Slayer defeats Zalo in Personal Combat and absorbs her powers, the Zalo Dominion collapses</div>
+            <div class="timeline-item" data-date="317PA">Many of the Iragi dwarves have integrated within the goblin city of Pintrixaz, while others chose to roam the lands of Nirydia in the exclave Clancaravans that still persist to the modern day</div>
             <div class="timeline-item" data-date="319PA">The Drow Realm of Tur Filash is declared in the Cave of Fire in the southern beheran Underlands as drow warlords unite the cities of Fire</div>
             <div class="timeline-item" data-date="320PA">Urien Conquest of Kerleas begins</div>
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
@@ -439,7 +445,7 @@
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="451PA">The Kingdom of Tur Filash is almost destroyed in the Crisis of the 4th Period</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, <br>Golden Age of Urland begins</div>
-            <div class="timeline-item" data-date="456PA">Invention of Gunpowder in Bardrab</div>
+            <div class="timeline-item" data-date="456PA">Invention of Gunpowder, called Huling, by alchemists of Lian in Bardrab</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, <br>Successful end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opuzna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
@@ -465,6 +471,7 @@
             <div class="timeline-item" data-date="499PA">Ogrelords splinter;<br>The royal court of Weadland moves to Grisden, where it stays until the Baeling conquest</div>
             <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
 			<div class="timeline-item" data-date="504PA">Death of Marlina I; <br>her younger sister's son becomes King Ardol VI of Gisvale</div>
+			<div class="timeline-item" data-date="505PA">The Tyrant Oxiter becomes the Ruler of the One Order in the central Mistspires</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
@@ -526,7 +533,7 @@
             <div class="timeline-item" data-date="588PA">A young Cearic begins his work under the Duke of Morelle</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire; <br>Mindano emerges as self-governing city-state following the Collapse of Cevolis;<br>Weadland is not restored, and petty lords and warders rise along its coast</div>
-            <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere</div>
+            <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere;<br> Following the Death of Oxiter, Eokil assumes control within the One Order and promises reform</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon;<br> Conclave of 592 canonises Luca Cadente of Cefran, Patron Saint of Cevolia</div>
             <div class="timeline-item" data-date="593PA">End of the Khari Dynasty in Kherova, Era of the Empty Seat begins.</div>
             <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil</div>
@@ -543,6 +550,7 @@
             <div class="timeline-item" data-date="606PA">The Conclave of 606 canonises Kasimir the Martyr</div>
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
+            <div class="timeline-item" data-date="615PA">Eokil seals the City and declares himself High-Priest of Untizin, assuming similar powers to Oxiter</div>
             <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
             <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh"</div>
             <div class="timeline-item" data-date="619PA">2nd Vihri-Leoki War breaks out</div>
@@ -557,6 +565,8 @@
             <div class="timeline-item" data-date="629PA">Grachi Disaster, Fall of Thirdonis</div>
             <div class="timeline-item" data-date="630PA">The Conclave of 630 canonises Yelena of Dreva</div>
             <div class="timeline-item" data-date="631PA">Wars of Trout and Drake begins</div>
+            <div class="timeline-item" data-date="632PA">Insurrection of Tizin-Kol begins</div>
+            <div class="timeline-item" data-date="633PA">The Goblins of Pintrixaz coem to the aid of the Tizin-Kol insurrectionists; <br>Fall of the Great Order, Dwarves establish the Serene Republic of Tizin-Kol in the wake of Oxiter & Eokils Tyranny</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">Trazlov Consortium is founded</div>
             <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis</div>
@@ -626,6 +636,7 @@
             <div class="timeline-item" data-date="719PA">>Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos;<br>Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy II</div>
+            <div class="timeline-item" data-date="730PA">Black powder reaches Ott along the Ziflis Trade</div>
             <div class="timeline-item" data-date="731PA">Council of Patwin Tower</div>
             <div class="timeline-item" data-date="733PA">Izrafur theorizes the 4-Axis Model</div>
             <div class="timeline-item" data-date="735PA">Uhl accepts Vihr as her liege as Duke Kaspar I von Kran threatens to lay siege to its Walls</div>
@@ -656,7 +667,7 @@
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed when Schipwig, Hevn and Geldfields swear the Blijgrat Agreement at Blijgrat</div>
              <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionises modern Anatomy;<br>The Empire of Naigan falls as Warlord Piri Cao forces the last Emperor, Belen Yun, to abdicate; <br>The Period of the Bleeding Heron begins in the Purple Sea following the fall of Naigan;<br>Magda Bazena Nib is born in Tizin-Kol</div>
-            <div class="timeline-item" data-date="772PA">Treeplagues big initial outbreak in Grachy, Vihr and Trykkerog; <br>The sealed throne room of Belen Yun is opened in Kiamar a year after his abdication, all within are dead</div>
+            <div class="timeline-item" data-date="772PA">Treeplagues big initial outbreak in Grachy, Vihr and Trykkerog; <br>The sealed throne room of Belen Yun is opened in Kiamar a year after his abdication, all within are dead; <br>The Nabat is recognised as a school outside the Ottian Codex</div>
             <div class="timeline-item" data-date="773PA">Gelmsburg attacks Eldmar in the war of 90 days, war ends inconclusively after the Battle of Silverfields and the Death of George the Brave </div>
             <div class="timeline-item" data-date="774PA">Remillion defeats the Sister of Storms in personal combat</div>
             <div class="timeline-item" data-date="775PA">Following their successful Revolution, the Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
@@ -685,14 +696,14 @@
             <div class="timeline-item" data-date="800PA">Paper Cities unite as the Battvian Civil War ends in peace;<br>King Gildher III ends the unrest in Zeeport with the Zeeport Agreement</div>
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
             <div class="timeline-item" data-date="802PA">House Tryn is raised to the Vadcy of Levazci after the House zi Kerv dies out</div>
-            <div class="timeline-item" data-date="803PA">Invention of the Ottian Rifle</div>
+            <div class="timeline-item" data-date="803PA">Invention of the Ottian Gun</div>
             <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="806PA">Battle of the Crossing; <br>Komukha Naman completes the Circumnavigation of Behera </div>
              <div class="timeline-item" data-date="807PA">Mamus Rolim publishes his discovery of the Current, the founding of Currentbending</div>
             <div class="timeline-item" data-date="810PA">Battle of Belzena;<br>Kranvalley Flood;<br>Salvia of Firocco is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars; <br>Rivalt du Chian destroys the Silver Brotherhood</div>
-            <div class="timeline-item" data-date="812PA">Battle under the Stars;<br> Ahrmiz Saceren becomes Lord-Elect of Kulum</div>
+            <div class="timeline-item" data-date="812PA">Battle under the Stars;<br> Ahrmiz Saceren becomes Lord-Elect of Kulum<br>Death of Muglig Ruv in a Nabat workshop explosion</div>
              <div class="timeline-item" data-date="813PA">Battle of Orzina;<br>The first currentbent signal-lines are laid in the Inos Mines of Tizin-Kol</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad and the 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
@@ -716,7 +727,7 @@
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>
             <div class="timeline-item" data-date="838PA">The Malav kills Qezinas the Yari of Memory;<br>Magda Bazena Nib achieves the Taming of Strikestone</div>
             <div class="timeline-item" data-date="839PA">Porto Casimiro is founded in western Itharia by cevoli sailors</div>
-            <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;<br> Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
+            <div class="timeline-item" data-date="840PA">Marino Viamali of Martella makes the first sustained contact with the Narzoi of Peadyr, meeting the Kavi;</div>
             <div class="timeline-item" data-date="841PA">League of the Gryphon is assembled with the Oath at Pearfawl, financed by the Valesloan of the Trinvale Republics, & First War of the Gryphon begins</div>
             <div class="timeline-item" data-date="842PA">The Day of Descension in Richelet; <br>Jaime di Dilin negotiates with the Vudi of Peadyr;<br> Foundation of New Rav on the north-eastern tip of Peadyr, at the site of Camp Reyd, by Sertovi settlers;<br> The League raises Fort Garlin on the Trinmo</div>
             <div class="timeline-item" data-date="843PA">Herat unites the Ohera and declares the Great Work;<br> Battle of Rinstree;<br> First War of the Gryphon ends in successful reconquest of Turv;<br> The Trinvale Republics waive the Valesloan to celebrate the victory</div>
@@ -748,7 +759,7 @@
             <div class="timeline-item" data-date="869PA">Andre of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again</div>
             <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
-            <div class="timeline-item" data-date="874PA">Andre of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world</div>
+            <div class="timeline-item" data-date="874PA">Andre of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world;<br>First Ottian Rifles are produced</div>
             <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr</div>
             <div class="timeline-item" data-date="876PA">Andre of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
@@ -761,7 +772,7 @@
              <div class="timeline-item" data-date="884PA">The Great Hanshi's Divine Edict outlaws the Pillars of Myan and founds the School of Chorol</div>
             <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
 			 <div class="timeline-item" data-date="886PA">The Gryphpons League takes Merbridge;<br>Magda Bazena Nib becomes Chair of the Council of Tizin-Kol</div>
-            <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge;<br> Battle of the Lost Crowns</div>
+            <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge;<br> Battle of the Lost Crowns;<br>Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br>End of the 2nd War of the Gryphon</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition; <br>King Folk II of Gelmsburg dies of the Blight of Merbridge, Klovis I becomes King of Gelmsburg</div>
@@ -794,17 +805,17 @@
             <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Jean du Jera leaves court for Jera after Gisela IV takes full governance;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath</div>
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves;<br>Archibald Grig, first Lord-Governour of Dalesire, dies</div>
-            <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Orthel II is elected High-Bisop of Iztaw</div>
-            <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment;<br>The Karajal School of Insight accepts the Wheeling of Gahenna</div>
+            <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Orthel II is elected High-Bisop of Iztaw;<br>Xer-Kol begins refining and manufacturing black powder</div>
+            <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment;<br>The Karajal School of Insight accepts the Wheeling of Gahenna;<br>Battle of Cefran, first use of black powder weapons on a surface battlefield;<br>Battle of Modim Cave;</div>
             <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
-            <div class="timeline-item" data-date="918PA">Battle of Modim Cave;<br>Independence Movements grow once again in Droil</div>
+            <div class="timeline-item" data-date="918PA">Independence Movements grow once again in Droil</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport;<br>Coster of Melmbirth marries Princess Lena of Eldmar</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World</div>
             <div class="timeline-item" data-date="922PA">Mini Campaign 1: Death of Duchess Agnes of Garmeley;<br> Mini Campaign 2: Fairriver Incident;<br> Dwarven Invasion of Yokosch</div>
              <div class="timeline-item" data-date="923PA">Campaign 1: The Chestbearers;<br> Mossbrook Affair;<br>Niedrest Incident;<br>Garmish Civil War breaks out;<br>Lady Regia of Forrington is taken hostage by the Green Banner League;<br>Siege of Dolm begins;<br>The Keyzal Workshop creates the Keyzal 21</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla and discovery of Sirenna;<br> Sack of Sunminster; <br>Dwarven Invasion of Yokosch fails</div>
-            <div class="timeline-item" data-date="925PA">Rylla is captured by Lord Eric Zallon of Almersport and taken to the Old World, where she is burned alive in Karsord; the Odise take up arms as a whole against Almersport;<br>Battle of Jestrick Fields;<br>Kherova condemns the Trinvale Republic and backs the Green Banner League;<br> Entusul Uprising is put down by Emir Zazir Brahmis;<br>Korman van Schipwig, Rector of Reanport University, falls to his death from the Cloud Tower</div>
+            <div class="timeline-item" data-date="925PA">Rylla is captured by Lord Eric Zallon of Almersport and taken to the Old World, where she is burned alive in Karsord; the Odise take up arms as a whole against Almersport;<br>Battle of Jestrick Fields;<br>Kherova condemns the Trinvale Republic and backs the Green Banner League;<br> Entusul Uprising is put down by Emir Zazir Brahmis;<br>Korman van Schipwig, Rector of Reanport University, falls to his death from the Cloud Tower;<br>The Church of Iztaw proclaims the use of firearms in the cause of the Candleflame just and right</div>
             <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment;<br> International Intervention in the Garmish Civil War;<br>Battle of Lanfield;<br>Siege of Dolm ends;<br>Siege of Redflow Keep begins;<br>The pirate Kylian Juz seizes a cevoli ship carrying Narzoi slaves half a day out of Alinanora</div>
             <div class="timeline-item" data-date="927PA">Campaign 2;<br> Hynek of Forrington is assassinated;<br>Slaughter of Karolrest;<br>Standoff at Dimrods Shrine;<br>The 927 Falcons Flight tournament season</div>
         </div>
