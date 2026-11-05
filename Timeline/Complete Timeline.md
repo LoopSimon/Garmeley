@@ -134,6 +134,7 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="1150BA">The cyracli Tragedy of Thileus is written</div>
 	         <div class="timeline-item" data-date="1130BA">Drow nomads in the underlands of western behera build settlements near the Sundered Coast</div>
+	         <div class="timeline-item" data-date="1120BA">Approximate beginning of the era of Anator-Bihr, the era of living water, among the Bihra of southern Nirydia</div>
 	        <div class="timeline-item" data-date="1100BA">The City of Vilum, modern day Calmona, is founded in ancient Cevolia</div>
 	        <div class="timeline-item" data-date="1099BA">Rise of the Chagor Dynasty in ancient Tal, around the City of Char, as Chagor the Great claims the Ivory Crown of Tal</div>
 	        <div class="timeline-item" data-date="1098BA">Vendili Civilization is fully collapsed</div>
@@ -203,6 +204,7 @@
             <div class="timeline-item" data-date="438BA">1st Great Rakhi-Addaci Wars begins</div>
             <div class="timeline-item" data-date="434BA">1st Great Rakhi-Addaci Wars end as Addacia cedes the great lands of the Hills to the growing Rakhi Empire</div>
             <div class="timeline-item" data-date="430BA">First record of the Shuyat Sect</div>
+            <div class="timeline-item" data-date="425BA">Volys the Spiritdrinker unites the Empire of Vol at Uzra</div>
             <div class="timeline-item" data-date="410BA">First mention of a united Tusuli Marival</div>
             <div class="timeline-item" data-date="404BA">2nd Great Rakhi-Addaci Wars begin</div>
             <div class="timeline-item" data-date="402BA">Battle of Ziak</div>
@@ -336,6 +338,7 @@
             <div class="timeline-item" data-date="162PA">Kwarzimi of Corbaik creates the Leypoint Model</div>
              <div class="timeline-item" data-date="168PA">The Channeller Ung Thandar completes the Circle of Thandar and founds the Art of Change</div>
             <div class="timeline-item" data-date="170PA">Wars of Storm</div>
+            <div class="timeline-item" data-date="174PA">Azuvken Golden Age begins</div>
             <div class="timeline-item" data-date="176PA">Death of Heljad the Giantslayer</div>
             <div class="timeline-item" data-date="180PA">Re-Unification of Cevolis</div>
             <div class="timeline-item" data-date="185PA">Auguri-Thirdoni Wars end;<br>Cevoli settlers in Sertova are granted royal blessings and form Martella</div>
@@ -343,7 +346,8 @@
             <div class="timeline-item" data-date="215PA">1st Wermian Incursion</div>
             <div class="timeline-item" data-date="219PA">The 1st Wermian Incursion ends & the Kingdom of Wermia ceases to exist;<br>Massacre of the Dres-Ma Clan, Rise of the Ekazadi in Drizan</div>
             <div class="timeline-item" data-date="226PA">2nd Wermian Incursion</div>
-            <div class="timeline-item" data-date="237PA">Danbry Warlord Caelmer declades himself the first King of Spursley</div>
+            <div class="timeline-item" data-date="237PA">Danbry Warlord Caelmer declares himself the first King of Spursley</div>
+            <div class="timeline-item" data-date="238PA">Azuvke conquers Uzra Vol, end of the Empire of Vol</div>
             <div class="timeline-item" data-date="240PA">Founding of the Gethric Church</div>
             <div class="timeline-item" data-date="241PA">Viago I "Firespear" proclaims the Kingdom of Vihr;<br> Vihri Wars of Unification begin</div>
             <div class="timeline-item" data-date="246PA">Battle of Tlok Valley</div>
@@ -359,6 +363,7 @@
             <div class="timeline-item" data-date="263PA">Gethric Teachings are spreading beyond Vihr in Meadland, Urland and Grachy</div>
 	        <div class="timeline-item" data-date="264PA">The City of Halgrach is first mentioned</div>
             <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends troops to Timoq, essentially occupying the city after killings houndreds of locals</div>
+            <div class="timeline-item" data-date="268PA">Founding of the Omna of Az</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
 			 <div class="timeline-item" data-date="273PA">Ardol I of the House of Gismar forms the Kingdom of Gisvale</div>
             <div class="timeline-item" data-date="275PA">The myth of Sochor ends as Sochor ascends and becomes a God; the followers of Sochor begin the Holy Work, later known as the Golden Rule</div>
@@ -369,6 +374,7 @@
             <div class="timeline-item" data-date="283PA">Laizin the Strong, King of Rin, converts to the Ashcult and is proclaimed as the Guardian of the Ngalas, effectively founding the Golden Empire</div>
             <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
              <div class="timeline-item" data-date="285PA">Morelle submits following the Battle of the Voiceless, <br>Korsfall dominates northern Meadland;<br>Kwarzimi of Corbaik, Keeper of Rahzalbis, is murdered</div>
+             <div class="timeline-item" data-date="286PA">Founding of the Omna of Ekkam</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="291PA">Reani-Vihri War breaks out following King Salkon I du Reans declaration</div>
             <div class="timeline-item" data-date="294PA">The Golden Empire defeats the Army of the Warlord Tien Jijichan and end the Era of Thunders</div>
@@ -437,6 +443,7 @@
             <div class="timeline-item" data-date="430PA">1st Vihri-Leoki War breaks out</div>
             <div class="timeline-item" data-date="431PA">Dwarven warriors attack drow settlements and threaten connecting caves between Fogor and Elbae underland territory</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins as the beheri dwarves attack the elbae underlands, <br>End of the Kingdom of Les</div>
+            <div class="timeline-item" data-date="433PA">The Omna of Ekkam retakes the Ganoa Valley from Azuvke and founds Jink on Lake Ganoa</div>
             <div class="timeline-item" data-date="434PA">1st Vihri-Leoki War ends in Leoki defeat, <br>Conquest of Volazc</div>
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs amidst the 1st underwar</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishing Nuv Werm</div>
@@ -499,7 +506,8 @@
             <div class="timeline-item" data-date="544PA">Urland conquers lands east of Lake Dim from Garmeley in the War of the Lake</div>
             <div class="timeline-item" data-date="545PA">Tytus defeats the Lich Mendizaba at Xurugam, ending the undead occupation of Xer-Kol</div>
             <div class="timeline-item" data-date="546PA">Frog Sickness breaks out in Il-Haena and eastern Behera</div>
-            <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland,</div>
+            <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
+            <div class="timeline-item" data-date="551PA">The Luchun Khaganate subjugates the Omna of Ekkam</div>
             <div class="timeline-item" data-date="553PA">End of the Szinmo Dynasty in Vihr; <br>Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
@@ -517,7 +525,7 @@
             <div class="timeline-item" data-date="574PA">Bykmåli begin integrating into the Vannsi society of Zren in northern Trykkerog</div>
             <div class="timeline-item" data-date="576PA">The Hessefi Daemonologist Visham is assassinated on Ziflis Island</div>
             <div class="timeline-item" data-date="577PA">End of the Geoli Republic, The Conclave of 577 canonises Palus Aergestes</div>
-            
+            <div class="timeline-item" data-date="578PA">Battle of Shaltrees, the Luchun Khaganate subjugates the Omna of Az</div>
         </div>
     </div>
     <div class="grid-item span-col-2-single-block">
@@ -590,7 +598,7 @@
             <div class="timeline-item" data-date="668PA">Yellow War ends after the Peace at Kulum</div>
             <div class="timeline-item" data-date="669PA">Imperator Lisil IIIs Decree of Divinity</div>
             <div class="timeline-item" data-date="670PA">Opening of Ott;<br>Dorian founds the Shields of Summer Chapter within the Knights of the Gryphon</div>
-            <div class="timeline-item" data-date="671PA"> Battle of Verivale and End of the Luchun Khaganate</div>
+            <div class="timeline-item" data-date="671PA"> Battle of Verivale and End of the Luchun Khaganate;<br>Jink regains its independence</div>
             <div class="timeline-item" data-date="672PA">Battvia invades Jeledo to reunify the region of Cevolia</div>
             <div class="timeline-item" data-date="674PA">Coronation of Gildher I as first King of Meadrath</div>
             <div class="timeline-item" data-date="675PA">Pact of Hanley: Drow and Spurshey are permanently allied on the islands of Runsby and below</div>
@@ -712,6 +720,7 @@
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum;<br> Bykmali Explorers set foot on mainland Aisligos again, a plague quickly begins to spread in Grynborg and adjacent settlements in the tirean isles are quarantined;<br>Margaret II von Kor becomes Queen of Meadrath</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821, amid a civil war between pro Meadi and pro Cimfon communities</div>
+            <div class="timeline-item" data-date="822PA">Majir raises its first Parabol Domes</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins;<br> Battle of Skyroar</div>
             <div class="timeline-item" data-date="825PA">Battle of Arvale</div>
              <div class="timeline-item" data-date="826PA">Battle of Red Oak, Prince Giselher is left crippled;<br>Floating ore carts of deepforged silver run in the Inos Mines</div>
@@ -777,11 +786,11 @@
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition; <br>King Folk II of Gelmsburg dies of the Blight of Merbridge, Klovis I becomes King of Gelmsburg</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
-            <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr</div>
+            <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr;<br>War breaks out between Jink and Majir in the Ganoa Valley</div>
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresess the public at the University of Jera, birth of Diarism</div>
-	        <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr</div>
+	        <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr;<br>A truce between Jink and Majir ends the war in the Ganoa Valley</div>
 	        <div class="timeline-item" data-date="896PA">War of 896, Turv passes from Gelmsburg to Gisvale after a coup in the city, backed by the Archduke, and the march of his knights</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure;<br>Reanport University, under Korman van Schipwig, takes up the treatise of Gahenna and teaches the Wheeling beside the Cosmology of Ralzig</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath;<br>Gisela III founds the Royal Congress</div>
