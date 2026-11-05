@@ -2,6 +2,7 @@
 [[Jink]]  
 [[Kareli Hierarchy]]  
 [[Roxeria]]  
+[[Bihra]]
 %%  
 <div class="wiki-infobox">  
  <h4 class="wiki-header">City of Majir</h4>  
@@ -28,7 +29,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span>Ganoan</span>  
+ <span>Ganoan <a href="Bihra" class="internal-link">Bihra</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  
