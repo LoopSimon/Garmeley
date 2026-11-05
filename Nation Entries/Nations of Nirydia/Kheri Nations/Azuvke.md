@@ -1,6 +1,6 @@
 %%
 [[Kethricism]] [[Orc]][[Kherova]]
-[[Roxeria]]
+[[Roxeria]] [[Vol]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Khatrym of Azuvke</h4>
@@ -44,7 +44,7 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Azuvke_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p> The Khatrym of Azuvke is a Kheri realm in the southern party of Western Nirydia, at the delta of the Osmahr River. It represents the last remaining independent city states of the pre-Kherovan age of Cities expansion and ultimate dominance of the western bay of Azuvke. The country is closely allied with the <a href="Kherova" class="internal-link">Kherovan Khatrym</a> and tentatively friendly to their former cousins from across the Bay, the Principality of <a href="Roxeria" class="internal-link">Roxiera</a>. </p>
+<p> The Khatrym of Azuvke is a Kheri realm in the southern part of Western Nirydia, at the delta of the Osmahr River. It represents the last remaining independent city states of the pre-Kherovan age of Cities expansion and ultimate dominance of the western bay of Azuvke. The country is closely allied with the <a href="Kherova" class="internal-link">Kherovan Khatrym</a> and tentatively friendly to their former cousins from across the Bay, the Principality of <a href="Roxeria" class="internal-link">Roxeria</a>. During its Golden Age in the 2nd and 3rd centuries PA, Azuvke ruled the lands of modern Roxeria and the coast east to the River Tax, and destroyed the Bihra <a href="Vol" class="internal-link">Empire of Vol</a>.</p>
 <p>In many ways, Azuvke represents the cultural and economic fluxpoint between the east and west of the Niryd Sea better than Kherova, its ports are in eager exchange with those of the remnant lands of <a href="Roxeria" class="internal-link">Roxeria</a>, albeit history has not cleansed all wounds between the cousins of differing faiths, as well as the great port of <a href="Paqor" class="internal-link">Paqor</a> and the industrious traders of the <a href="Kareli Hierarchy" class="internal-link">kareli</a>.</p>
 
 

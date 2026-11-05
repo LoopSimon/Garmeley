@@ -11,8 +11,8 @@ Soul-Dualism within Bihra Shamanism:
 A main element of Bihra Shamanism is the belief that a person has two or even more types of souls, in many cases, one of the souls is associated with body functions, usually referred to as the "base soul", whereas others could leave the body itself, usually referred to as "higher souls".
 An important characteristic of a shamans "higher soul" is its ability to undertake a spirit journey.
 
-An element of western Bihra Shamanism is the belief of a shared soul, usually with an animal companion such as the Salamander Mounts of the Bihra Khaganates within the Nirydian Steppe.
+An element of western Bihra Shamanism is the belief of a shared soul, usually with an animal companion such as the Salamander Mounts of the Bihra Khaganates within the Nirydian Steppe. The most infamous corruption of Bihra soul-dualism is the forbidden [[Soulbond|Art of the Soulbond]], attributed to Volys the Spiritdrinker of [[Vol]], in which a shaman consumes the souls of the living to prolong their own life.
 
 
-An elevated form of Bihra Shamanism, is the Dragonworship in [[Rha-Gis]], where the eternal being Noo-Rah has been accepted as the final form of all life.
+An elevated form of Bihra Shamanism, is the Dragonworship in [[Rha-Gis]], where the eternal being Noor-Rah has been accepted as the final form of all life.
 

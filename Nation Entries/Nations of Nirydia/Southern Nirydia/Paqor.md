@@ -1,7 +1,7 @@
 %%
 [[Kareli Hierarchy]]
 [[Bihra]]
-[[Vas Ira]]
+[[Karaluk]]
 [[Orc]]
 [[Elbae]]
 [[Roxeria]]
@@ -27,11 +27,11 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Vas Ira" class="internal-link">Vas Ira Traditions</a>
+        <a href="Karaluk" class="internal-link">Karaluk</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Paqori <a href="Bihra" class="internal-link">Bihra</a>, <br>Qahori <a href="Orc" class="internal-link">Orcs</a>, <br>, <br> Kheri <a href="Human" class="internal-link">Human</a></span>
+        <span>Paqori <a href="Bihra" class="internal-link">Bihra</a>, <br>Qahori <a href="Orc" class="internal-link">Orcs</a>,<br> Kheri <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

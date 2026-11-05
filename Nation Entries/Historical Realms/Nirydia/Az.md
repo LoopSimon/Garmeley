@@ -1,6 +1,6 @@
 %%  
 [[Bihra]]  
-[[Noorism]]  
+[[Karaluk]]  
 [[Vol]]  
 [[Ekkam]]  
 [[Luchun Khaganate]]  
@@ -30,7 +30,7 @@
  <hr class="wiki-hr">  
  <div class="wiki-row">  
  <strong>Primary Religion</strong>  
- <span><a href="Noorism" class="internal-link">Noorism</a></span>  
+ <span><a href="Karaluk" class="internal-link">Karaluk</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
