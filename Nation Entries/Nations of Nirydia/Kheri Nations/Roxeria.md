@@ -6,6 +6,7 @@
 [[Javalim]]
 [[Rox]]
 [[Fenhir]]
+[[Ganoan]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Chosen Realm of Roxeria</h4>
@@ -32,7 +33,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span><a href="Kheri" class="internal-link">Roxanae</a> <a href="Human" class="internal-link">Human</a>,<br>Kareli <a href="Bihra" class="internal-link">Bihra</a>,<br> Qahori <a href="Orc" class="internal-link">Orcs</a></span>
+        <span><a href="Kheri" class="internal-link">Roxanae</a> <a href="Human" class="internal-link">Human</a>,<br>Kareli <a href="Bihra" class="internal-link">Bihra</a>,<br><a href="Ganoan" class="internal-link">Ganoan</a> <a href="Human" class="internal-link">Human</a>,<br> Qahorii <a href="Orc" class="internal-link">Orcs</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

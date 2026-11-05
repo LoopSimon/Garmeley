@@ -1,19 +1,21 @@
+- 2026-11-05T2234 · Javalim
+- 2026-11-05T2234 · Kareli Hierarchy
+- 2026-11-05T2234 · Roxeria
+- 2026-11-05T2233 · Ganoan
+- 2026-11-05T2230 · Majir
+- 2026-11-05T2230 · Jink
 - 2026-11-05T2220 · Niryd Steppe
 - 2026-11-05T2220 · Azuvke
-- 2026-11-05T2219 · Javalim
 - 2026-11-05T2219 · Bihra Shamanism
 - 2026-11-05T2218 · Vas Ira
 - 2026-11-05T2217 · Luchun Khaganate
 - 2026-11-05T2217 · Gaden
 - 2026-11-05T2217 · Paqor
-- 2026-11-05T2216 · Kareli Hierarchy
 - 2026-11-05T2211 · Soulbond
 - 2026-11-05T2206 · Karaluk
 - 2026-11-05T2159 · Noorism
 - 2026-11-05T2159 · Az
 - 2026-11-05T2159 · Ekkam
-- 2026-11-05T2135 · Jink
-- 2026-11-05T2135 · Majir
 - 2026-11-05T2127 · Complete Timeline
 - 2026-11-05T2121 · Vol
 - 2026-11-05T1552 · Nabil
@@ -396,5 +398,3 @@
 - 2026-10-14T1638 · Iztaw
 - 2026-10-14T1637 · Wermian Accords
 - 2026-10-14T1637 · Tytus
-- 2026-10-14T1636 · Breza
-- 2026-10-14T1636 · Levazci
