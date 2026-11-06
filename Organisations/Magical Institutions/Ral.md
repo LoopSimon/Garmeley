@@ -1,0 +1,16 @@
+%%   
+[[Shifting]]   
+[[Nural]]   
+[[Ruginë]]   
+[[Roxeria]]   
+[[Ganoan]]   
+[[Velvet Caravan]]   
+[[Lycanthropy]]   
+[[Rivid Tepor]]   
+%%   
+<p>The Ral are the shifters of Nirydia, small clans of humans who practise the art of <a href="Shifting" class="internal-link">Shifting</a> and are known to the Kheri as the Rekri and to the Bihra as the Ivok. All Ral are believed to descend from the old traditions of the Pagri peoples of central and northern Nirydia, from where groups of them migrated south, first into the lands of Gorat and later across the <a href="Velvet Caravan" class="internal-link">Velvet Road</a> into southern Nirydia. There they can be found among many peoples, the <a href="Ganoan" class="internal-link">Ganoans</a> and the Roxanae of <a href="Roxeria" class="internal-link">Roxeria</a> among them. Many of the Ral worship the <a href="Nural" class="internal-link">Nural</a>.</p>   
+<p>While the Ral are honoured in the north-east of the continent, they are much less celebrated in the south, where they are feared and hated and unwelcome in most communities, and so prefer to keep to themselves. Their clans are sometimes hired as bodyguards, bounty hunters, trackers or wardens, but even then are always looked upon with fear. Many myths surround them: the werewolves of the <a href="Blodrise Dark" class="internal-link">Blodrise Dark</a> are said to be Ral,, as are the Soki of the highlands near the Limsul Peaks, who are said to be able to turn themselves or parts of themselves into owls and falcons and who are sometimes associated with the mountain realm of <a href="Ruginë" class="internal-link">Ruginë</a>.</p>  
+<h2>Blood and Rite</h2>  
+<p>No outsider has ever learned the art of the Ral, and the Ral say none ever can, for a Ral is made in the cradle. Each clan keeps a bloodrite performed upon its newborns, whose details it guards more closely than anything else, and which the Ral describe as giving the child to the root of the <a href="Nural" class="internal-link">Nural</a>, whose sap they believe runs in their veins. They hold their own blood in a reverence that outsiders find unsettling. Ral warriors fear bleeding more than death, take their wounded out of beast form before binding them, and burn every bloodied cloth and bandage rather than leave a drop of themselves behind. Their neighbours have read this as proof of a blood cult, and stories of Ral who bleed their infants are as old as the clans themselves. Much of what outsiders know of these customs comes from the Kheri traveller <a href="Rivid Tepor" class="internal-link">Rivid Tepor</a>, who lived among several clans for nearly twenty years and was never permitted to see the rite.</p>  
+<h2>The Curse of the Blodrise</h2>  
+<p>The southern hatred of the Ral is bound up with the Blodrise Dark. Southern tellings hold that the <a href="Lycanthropy" class="internal-link">lycanthropy</a> of the forest began as a curse: that a Ral clan, hunted down in the Dark, bled into its killers as it fell and so passed its wolves into them, and that the forest's name remembers that night. The Ral deny that any clan laid such a curse, but the tale has outlived every denial, and in the south it is reason enough to turn a Ral from any door.</p>  

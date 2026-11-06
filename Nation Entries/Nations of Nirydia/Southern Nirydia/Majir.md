@@ -4,6 +4,8 @@
 [[Jink]]  
 [[Kareli Hierarchy]]  
 [[Roxeria]]  
+[[Para]]
+[[Ganoan Dye]]
 %%  
 <div class="wiki-infobox">  
  <h4 class="wiki-header">City of Majir</h4>  
@@ -13,7 +15,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Head of State</strong>  
- <span></span>  
+ <span>Council of Majir</span>  
  </div>  
  <div class="wiki-row">  
  <strong>Capital</strong>  
@@ -47,4 +49,4 @@
  </div>  
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Majir_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 </div>  
-<p>Majir is a city on the far shore of Lake Ganoa from <a href="Jink" class="internal-link">Jink</a>, in the Ganoa Valley of southern Nirydia. It grew out of a fishing and trading post connected to Jink by ferries and was for most of its history run by the guildlords of Jink. In the early 820s Majir grew to considerable size around the Parabol Domes for which it is known today, and which release great amounts of toxic gases and fumes, while much of the wealth they produced flowed to the elites of Jink. Class conflict and other tensions between the two cities turned into open war in the Ganoa Valley in the 890s, which ended in 895PA with a careful truce that has bound Majir and Jink together ever since. Like Jink, the city is home to both Ganoan humans and Ganoan Bihra, with humans making up the larger share of its people.</p>
+<p>Majir is a city on the far shore of Lake Ganoa from <a href="Jink" class="internal-link">Jink</a>, in the Ganoa Valley of southern Nirydia. It grew out of a fishing and trading post connected to Jink by ferries and was for most of its history run by the guildlords of Jink. In the early 820s Majir grew to considerable size around the Parabol Domes for which it is known today, where the precious <a href="Ganoan Dye" class="internal-link">Ganoan Dye</a> is made from the flowers of the lake and which release great amounts of toxic smoke as well as the hallucinogenic residue known as <a href="Para" class="internal-link">Para</a>, while much of the wealth they produced flowed to the elites of Jink. Class conflict and other tensions between the two cities turned into open war in the Ganoa Valley in the 890s, which ended in 895PA with a careful truce that has bound Majir and Jink together ever since. Like Jink, the city is home to both Ganoan humans and Ganoan Bihra, with humans making up the larger share of its people.</p>

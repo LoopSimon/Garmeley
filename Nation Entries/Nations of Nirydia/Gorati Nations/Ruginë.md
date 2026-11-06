@@ -2,6 +2,7 @@
 [[Zuhurism]] 
 [[Velvet Caravan]]
 [[Kareli Hierarchy]]
+[[Ral]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Ruginë Principality</h4>
@@ -45,4 +46,4 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Rugine_flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>This landlocked country is located in the southern Limsul Peaks and part of the Gorat Region, inhabited by the largely isolationist Opmani subculture of the Gorati, they exert influence over the <a href="Velvet Caravan" class="internal-link">Velvet Road</a> due to its strategic location at the southern mountain range. The country has a long and rich history that predates many of its larger neighbours to the east, as it was a national entity even prior to the days of the Zeprian Empire. </p>
+<p>This landlocked country is located in the southern Limsul Peaks and part of the Gorat Region, inhabited by the largely isolationist Opmani subculture of the Gorati, they exert influence over the <a href="Velvet Caravan" class="internal-link">Velvet Road</a> due to its strategic location at the southern mountain range. The country has a long and rich history that predates many of its larger neighbours to the east, as it was a national entity even prior to the days of the Zeprian Empire. The Soki of the highlands near the Limsul Peaks, a people of <a href="Ral" class="internal-link">Ral</a> shifters said to turn themselves into owls and falcons, are sometimes associated with the realm.</p>

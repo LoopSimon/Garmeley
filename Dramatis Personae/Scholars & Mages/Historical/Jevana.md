@@ -3,6 +3,7 @@
 [[Gelmsburg]]
 [[Urien]]
 [[Zovac Harlini]]
+[[Muriel von Gloss]]
 [[Orenburg Pact]]
 %%
 
@@ -39,7 +40,7 @@
     </div>
     <div class="wiki-row">
         <strong>Known Students</strong>
-        <span>Muriel von Gloss</span>
+        <span><a href="Muriel von Gloss" class="internal-link">Muriel von Gloss</a></span>
     </div>
     <hr class="wiki-hr">
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Jevana.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 

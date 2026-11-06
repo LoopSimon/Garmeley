@@ -667,11 +667,11 @@
              <div class="timeline-item" data-date="760PA">Battle of Minea;<br>Mamus Rolim is born in Tizin-Kol</div>
 			 <div class="timeline-item" data-date="761PA">Plague and strife in the Empire of Naigan, the Imperial City of Kiamar seals itself away for a decade</div>
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, <br>1st War of Elbae Aggression ends</div>
-            <div class="timeline-item" data-date="763PA">Conclave of 763 under High-Bisop Manral I, Canonisation of Fredric and begin of the Gethric Pogroms</div>
+             <div class="timeline-item" data-date="763PA">Conclave of 763 under High-Bisop Manral I, Canonisation of Fredric and begin of the Gethric Pogroms;<br>Rivid Tepor publishes "Between Fang and Finger: My Journeys with the Ral"</div>
             <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
             <div class="timeline-item" data-date="766PA">Remillion usurps the Trifflands</div>
             <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire, Remillion slaughters the ducal Host and slays Duke Ingemar of Triff</div>
-            <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins</div>
+             <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins;<br>Rivid Tepor is killed by a werewolf in the Blodrise Dark</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed when Schipwig, Hevn and Geldfields swear the Blijgrat Agreement at Blijgrat</div>
              <div class="timeline-item" data-date="771PA">Artor Periscos "De corporis divinitas" is published and revolutionises modern Anatomy;<br>The Empire of Naigan falls as Warlord Piri Cao forces the last Emperor, Belen Yun, to abdicate; <br>The Period of the Bleeding Heron begins in the Purple Sea following the fall of Naigan;<br>Magda Bazena Nib is born in Tizin-Kol</div>
@@ -811,7 +811,7 @@
             <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach;<br>Vorellan Wars begin;<br>Death of Gisela III, Gisela IV becomes Queen of Meadrath</div>
              <div class="timeline-item" data-date="911PA">9th War of Baeling Succession;<br>Death of Magda Bazena Nib</div>
-            <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina</div>
+             <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina;<br>Sadizka Ovoletru of Rivno publishes "The Afterimage of the Beast"</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Jean du Jera leaves court for Jera after Gisela IV takes full governance;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath</div>
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves;<br>Archibald Grig, first Lord-Governour of Dalesire, dies</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Orthel II is elected High-Bisop of Iztaw;<br>Xer-Kol begins refining and manufacturing black powder</div>

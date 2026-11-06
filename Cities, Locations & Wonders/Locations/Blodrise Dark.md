@@ -1,0 +1,21 @@
+%%  
+[[Lycanthropy]]  
+[[Ral]]  
+[[Shifting]]  
+
+[[Nirydia]]
+[[Rivid Tepor]]  
+%%  
+<p>The Blodrise Dark is a forest in southern Nirydia, lying north of the Bay of Azuv between the Forbidden Lands and the realm of <a href="Roxeria" class="internal-link">Roxeria</a>. It is among the most feared places of the south, known across the region for its werewolves and for the <a href="Lycanthropy" class="internal-link">lycanthropy</a> they carry, and is held by the southern peoples to be cursed. Roxeria claims its southern margins, but little of the forest is truly held by anyone, and its depths are avoided by Roxanae and steppe riders alike.</p>  
+<h2>Geography</h2>  
+<p>The forest stretches along the southern edge of the Niryd Steppe, between hill country to its west and east. To the west lie the Forbidden Lands, the green southern steppe on which every Kheri settlement has failed, and to the north the grasslands of the <a href="Duol Khaganate" class="internal-link">Duol Khaganate</a> around Đuol-Rabad. To the south the trees thin into the farmland of Roxeria around its capital Bakalas, and to the south-west into the coast near Gisil. Its eastern edge reaches toward Fort Mun and the roads that lead on to Mount Javal and the Ganoa Valley. The trees grow thickest in the middle of the forest, where few roads run.</p>  
+<h2>History</h2>  
+<p>The forest takes its name from the curse that southern tellings place at its heart. According to these tellings a clan of <a href="Ral" class="internal-link">Ral</a> shifters was hunted down in the forest, and as its warriors fell they bled into the wounds of their killers and so passed their wolves into them, and the forest has borne the name of that night ever since. The tellings give no agreed date for the hunt, and the Ral deny that any clan laid such a curse. The Kheri traveller <a href="Rivid Tepor" class="internal-link">Rivid Tepor</a>, who spent nearly twenty years among the Ral, noted that no telling of the curse he could find was older than the hatred of the Ral it was used to justify, and argued in Between Fang and Finger (763PA) that the werewolves of the forest were not Ral at all. In 768PA he went into the Blodrise Dark to prove it and did not return; his remains were later found by woodsmen and identified by his journals. In the south his death was taken as proof of what he had denied.</p>  
+<p>Whatever its origin, the curse has shaped the forest's place in the region. The hatred of the Ral across the south is bound up with the Blodrise, and few southerners draw any distinction between a Ral and the beasts of the forest.</p>  
+<h2>Peoples and Creatures</h2>  
+<p>The werewolves of the Blodrise are the forest's best known inhabitants. They are larger and heavier than any wolf, and those who have survived them speak of them as monstrous in a way no natural beast is. The wolves of the forest are said to carry the affliction as surely as its people do, and the folk who live at its edges hold that the turning comes on the nights when Luna Major is full. The afflicted cannot return from the beast by any craft of their own, and are driven to spread the affliction by bite and blood.</p>  
+<p>Small communities of woodsmen, hunters and charcoal burners live along the forest's southern margins, most of them Roxanae and Kareli <a href="Bihra" class="internal-link">Bihra</a>. They are known for their wariness of strangers and of blood, and an outsider who arrives wounded is rarely let in. The forest is also one of the last refuges of the <a href="Soulbond" class="internal-link">Soulbond</a>, the forbidden art of Volys the Spiritdrinker, whose practitioners have found in its depths a place beyond the reach of the cities that would put them to death.</p>  
+<h2>Economy</h2>  
+<p>Little of the forest is worked. Along its southern edge the woodsmen cut timber and burn charcoal, much of which goes south to feed the furnaces of the Roxerian glassmakers. Bounties on the werewolves of the forest are posted in Bakalas and in the villages along its margins, and are claimed by hunters and adventurers, and at times by Ral clans hired as trackers, who are paid to hunt the beasts they are blamed for.</p>  
+
+<p><a href="Rivid Tepor" class="internal-link">Rivid Tepor</a>, traveller and chronicler of the Ral, killed in the forest in 768PA</p>  

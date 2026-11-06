@@ -1,22 +1,41 @@
+- 2026-11-06T2247 · Lycanthropy
+- 2026-11-06T2246 · Shifting
+- 2026-11-06T2241 · Rivid Tepor
+- 2026-11-06T2241 · Sadizka Ovoletru
+- 2026-11-06T2214 · Rox
+- 2026-11-06T2212 · Fenhir
+- 2026-11-06T2212 · Roxeria
+- 2026-11-06T2212 · Revolution of Rox
+- 2026-11-06T2132 · Majir
+- 2026-11-06T2132 · Jink
+- 2026-11-06T2128 · Ganoan
+- 2026-11-06T2033 · Blodrise Dark
+- 2026-11-06T2032 · Ral
+- 2026-11-06T2031 · Soulbond
+- 2026-11-06T1914 · Complete Timeline
+- 2026-11-06T1836 · Nural
+- 2026-11-06T1836 · Ruginë
+- 2026-11-06T1320 · Paqor
+- 2026-11-06T1320 · Velvet Caravan
+- 2026-11-06T1319 · Kareli Hierarchy
+- 2026-11-06T1313 · Nine Great Guilds
+- 2026-11-06T1313 · Roxerian Glass
+- 2026-11-06T1313 · Ganoan Dye
+- 2026-11-06T1312 · Para
+- 2026-11-06T0129 · Jevana
+- 2026-11-06T0012 · Mystics Guild
+- 2026-11-05T2357 · Bihra Shamanism
+- 2026-11-05T2355 · Bihra
 - 2026-11-05T2234 · Javalim
-- 2026-11-05T2234 · Kareli Hierarchy
-- 2026-11-05T2234 · Roxeria
-- 2026-11-05T2233 · Ganoan
-- 2026-11-05T2230 · Majir
-- 2026-11-05T2230 · Jink
 - 2026-11-05T2220 · Niryd Steppe
 - 2026-11-05T2220 · Azuvke
-- 2026-11-05T2219 · Bihra Shamanism
 - 2026-11-05T2218 · Vas Ira
 - 2026-11-05T2217 · Luchun Khaganate
 - 2026-11-05T2217 · Gaden
-- 2026-11-05T2217 · Paqor
-- 2026-11-05T2211 · Soulbond
 - 2026-11-05T2206 · Karaluk
 - 2026-11-05T2159 · Noorism
 - 2026-11-05T2159 · Az
 - 2026-11-05T2159 · Ekkam
-- 2026-11-05T2127 · Complete Timeline
 - 2026-11-05T2121 · Vol
 - 2026-11-05T1552 · Nabil
 - 2026-11-05T0843 · Ott
@@ -379,22 +398,3 @@
 - 2026-10-15T1426 · Salvia
 - 2026-10-15T1425 · Ilonism
 - 2026-10-15T1424 · Luca
-- 2026-10-15T1423 · Ikval
-- 2026-10-15T1414 · Lyandra
-- 2026-10-15T0534 · Kindly Lords
-- 2026-10-15T0531 · Sunminster
-- 2026-10-15T0516 · Jonek Two Tongues
-- 2026-10-15T0515 · Elena Montegru
-- 2026-10-15T0515 · Meynar of Jorrenstead
-- 2026-10-15T0513 · Rulers of Vihr
-- 2026-10-15T0508 · Patwin Tower
-- 2026-10-15T0453 · Eye of Kasimir
-- 2026-10-15T0446 · Mark
-- 2026-10-15T0445 · Third War of Elbae Aggression
-- 2026-10-15T0445 · Second War of Elbae Aggression
-- 2026-10-14T2214 · Zawis I
-- 2026-10-14T2214 · Waśko Ralpia
-- 2026-10-14T1638 · Kasimir
-- 2026-10-14T1638 · Iztaw
-- 2026-10-14T1637 · Wermian Accords
-- 2026-10-14T1637 · Tytus
