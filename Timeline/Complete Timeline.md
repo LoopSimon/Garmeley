@@ -515,7 +515,7 @@
             <div class="timeline-item" data-date="558PA">Fenhir the Seer becomes the Prophet of the Javalim in the eastern cities of Azuvke</div>
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins;<br>The Sons of the Flame tear down the Great Stones at Praum</div>
-            <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Bulug</div>
+            <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Bulug;<br>Siege of Furel begins</div>
             <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br>Dobrov Szinmo and four of his sons are executed, the Vadcy of Szievek is cut down by two thirds</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="564PA">Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
@@ -550,7 +550,7 @@
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
             <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
-            <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates; Crisis of Dihil Peak between Ott and Ogul-Vosko</div>
+            <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates; Crisis of Dihil Peak between Ott and Ogul-Vosko;<br> Fenhir proclaims the Chosen Realm of Roxeria</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again following the Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
             <div class="timeline-item" data-date="603PA">The Hiqae found their realm of Lazatec in Bulug, southern Aisligos</div>

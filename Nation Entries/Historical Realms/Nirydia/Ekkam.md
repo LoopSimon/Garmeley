@@ -32,7 +32,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span><a href="Bihra" class="internal-link">Bihra</a></span>  
+ <span><a href="Bihra" class="internal-link">Bihra</a>, </span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  

@@ -1,18 +1,23 @@
+- 2026-11-07T1929 · Tim the Enchanter
+- 2026-11-07T0045 · Majir
+- 2026-11-07T0043 · Jink
+- 2026-11-06T2343 · Complete Timeline
+- 2026-11-06T2342 · Azuvke
+- 2026-11-06T2342 · Kheri
+- 2026-11-06T2342 · Roxeria
+- 2026-11-06T2341 · Javalim
+- 2026-11-06T2335 · Ekkam
 - 2026-11-06T2247 · Lycanthropy
 - 2026-11-06T2246 · Shifting
 - 2026-11-06T2241 · Rivid Tepor
 - 2026-11-06T2241 · Sadizka Ovoletru
 - 2026-11-06T2214 · Rox
 - 2026-11-06T2212 · Fenhir
-- 2026-11-06T2212 · Roxeria
 - 2026-11-06T2212 · Revolution of Rox
-- 2026-11-06T2132 · Majir
-- 2026-11-06T2132 · Jink
 - 2026-11-06T2128 · Ganoan
 - 2026-11-06T2033 · Blodrise Dark
 - 2026-11-06T2032 · Ral
 - 2026-11-06T2031 · Soulbond
-- 2026-11-06T1914 · Complete Timeline
 - 2026-11-06T1836 · Nural
 - 2026-11-06T1836 · Ruginë
 - 2026-11-06T1320 · Paqor
@@ -26,16 +31,13 @@
 - 2026-11-06T0012 · Mystics Guild
 - 2026-11-05T2357 · Bihra Shamanism
 - 2026-11-05T2355 · Bihra
-- 2026-11-05T2234 · Javalim
 - 2026-11-05T2220 · Niryd Steppe
-- 2026-11-05T2220 · Azuvke
 - 2026-11-05T2218 · Vas Ira
 - 2026-11-05T2217 · Luchun Khaganate
 - 2026-11-05T2217 · Gaden
 - 2026-11-05T2206 · Karaluk
 - 2026-11-05T2159 · Noorism
 - 2026-11-05T2159 · Az
-- 2026-11-05T2159 · Ekkam
 - 2026-11-05T2121 · Vol
 - 2026-11-05T1552 · Nabil
 - 2026-11-05T0843 · Ott
@@ -150,7 +152,6 @@
 - 2026-10-24T0300 · Veziva
 - 2026-10-24T0259 · Gorati
 - 2026-10-24T0259 · Gorat
-- 2026-10-23T2355 · Tim the Enchanter
 - 2026-10-23T2225 · Manymirror
 - 2026-10-23T2014 · The Pillars of Myan
 - 2026-10-23T1610 · Szuan
@@ -397,4 +398,3 @@
 - 2026-10-15T1612 · Luna Major
 - 2026-10-15T1426 · Salvia
 - 2026-10-15T1425 · Ilonism
-- 2026-10-15T1424 · Luca
