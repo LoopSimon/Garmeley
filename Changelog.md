@@ -1,4 +1,6 @@
-- 2026-11-08T1959 · Sredit
+- 2026-11-08T2209 · Goash Mab
+- 2026-11-08T2151 · White Sister
+- 2026-11-08T2005 · Sredit
 - 2026-11-08T1927 · Complete Timeline
 - 2026-11-08T1259 · Mogyr Rules
 - 2026-11-08T1242 · Mogyr
@@ -396,5 +398,3 @@
 - 2026-10-15T1724 · Elven Dynasties
 - 2026-10-15T1723 · Behera
 - 2026-10-15T1722 · Globus
-- 2026-10-15T1721 · Elf
-- 2026-10-15T1719 · Sphinx
