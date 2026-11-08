@@ -1,3 +1,5 @@
+- 2026-11-08T2331 · Roxeria
+- 2026-11-08T2331 · Ganoa Valley
 - 2026-11-08T2211 · Goash Mab
 - 2026-11-08T2151 · White Sister
 - 2026-11-08T2005 · Sredit
@@ -23,7 +25,6 @@
 - 2026-11-07T0043 · Jink
 - 2026-11-06T2342 · Azuvke
 - 2026-11-06T2342 · Kheri
-- 2026-11-06T2342 · Roxeria
 - 2026-11-06T2341 · Javalim
 - 2026-11-06T2335 · Ekkam
 - 2026-11-06T2247 · Lycanthropy
@@ -397,4 +398,3 @@
 - 2026-10-15T1724 · Elven Paragonworship
 - 2026-10-15T1724 · Elven Dynasties
 - 2026-10-15T1723 · Behera
-- 2026-10-15T1722 · Globus
