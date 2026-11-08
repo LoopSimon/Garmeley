@@ -43,7 +43,7 @@ The Steppe Bihra live among the larger and lesser Khaganates and tribes of the N
 12. **Frilled Crest:** A wide frill of skin rings the Bihra's head. Once per combat, the Bihra can flare it to demoralize an opponent with Intimidate as a move action instead of a standard action.
 13. **Grass-Coloured Scales:** The Bihra's scales shift slowly to match their surroundings. They gain a +4 racial bonus on Stealth checks in grassland, forest and other natural terrain, as long as they move no more than half their speed.
 14. **Runner's Legs:** The Bihra has long, digitigrade legs built for the open steppe. Their base speed increases by 10 feet.
-15. **Second Heart:** The Bihra has a second heart that keeps them alive through terrible wounds. They automatically stabilize when below 0 hit points, and gain a +4 racial bonus on Fortitude saves against death from massive damage.
+15. **Second Heart:** The Bihra has a second heart that keeps them alive through terrible wounds. They automatically stabilize when below 0 hit points, and gain a +4 racial bonus on Fortitude saves against death from massive damage, this can only be used once every 40 days.
 
 Steppe Bihra can take the Further Mutation feat to gain more mutations.
 
