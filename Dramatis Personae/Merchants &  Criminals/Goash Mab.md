@@ -4,8 +4,6 @@
 [[Majir]]
 [[Ganoan]]
 [[Ganoan Dye]]
-[[Mystics Guild]]
-[[Orc]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Goash Mab</h4>
