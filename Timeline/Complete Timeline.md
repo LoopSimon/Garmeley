@@ -516,9 +516,9 @@
             <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins;<br>The Sons of the Flame tear down the Great Stones at Praum</div>
             <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Bulug;<br>Siege of Furel begins</div>
-            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br>Dobrov Szinmo and four of his sons are executed, the Vadcy of Szievek is cut down by two thirds</div>
+            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br>Dobrov Szinmo and four of his sons are executed, the Vadcy of Szievek is cut down by two thirds;<br>Furel falls to the Roxanae and becomes the City of Spears</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
-            <div class="timeline-item" data-date="564PA">Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
+            <div class="timeline-item" data-date="564PA">Rox defeats the Azuvken army near Alkon and kills Nitol the Good;<br>Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
             <div class="timeline-item" data-date="565PA">The ottian Arcanist Xarelius codifies the Cilenax Principle</div>
             <div class="timeline-item" data-date="572PA">End of the Leveli Civil War, Foundation of Richelet</div>
             <div class="timeline-item" data-date="573PA">Rebellion of Tur Filash ends; <br>Union of Tur Filash succeeds the Kingdom of Tur Filash</div>
@@ -786,9 +786,9 @@
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition; <br>King Folk II of Gelmsburg dies of the Blight of Merbridge, Klovis I becomes King of Gelmsburg</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
-            <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr;<br>War breaks out between Jink and Majir in the Ganoa Valley</div>
+            <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr</div>
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
-            <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom</div>
+            <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom;<br>Riots break out in Majir and the Mystic Ulissa Verzo is killed, by winter war breaks out between Jink and Majir in the Ganoa Valley</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresess the public at the University of Jera, birth of Diarism</div>
 	        <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr;<br>A truce between Jink and Majir ends the war in the Ganoa Valley</div>
 	        <div class="timeline-item" data-date="896PA">War of 896, Turv passes from Gelmsburg to Gisvale after a coup in the city, backed by the Archduke, and the march of his knights</div>
@@ -802,6 +802,7 @@
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="900PA">Treaty of Lotsprings regulates western trade between Blijgrat and Meadrath;<br> Alinanora is founded in the New World on the eastern coast of Peadyr</div>
 	        <div class="timeline-item" data-date="901PA">Grevenni Plot of Insurrection is foiled;<br>Diarism is spreading in western Mead- and Weadland as well as in central Othirdon;<br>Lady Eleanor Grig dies in a riding accident</div>
+	        <div class="timeline-item" data-date="902PA">Aatal is elected Consul of Majir</div>
             <div class="timeline-item" data-date="903PA">The Printing Press is widely spreading throughout Ilrakhan, Behera and Nirydia, printed copies of the White Book circulate </div>
             <div class="timeline-item" data-date="904PA">Mini Campaign 3: The Bad Omen & The Golden Ring;<br>The Academy of Visdack is founded in Weisch</div>
             <div class="timeline-item" data-date="905PA">Ulrike Metzen publishes "Conflux: Tide of the Stars";<br> Dalesire is chartered as a colony of Runsby on the Loreli Islands in the New World</div>
@@ -817,7 +818,7 @@
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Orthel II is elected High-Bisop of Iztaw;<br>Xer-Kol begins refining and manufacturing black powder</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment;<br>The Karajal School of Insight accepts the Wheeling of Gahenna;<br>Battle of Cefran, first use of black powder weapons on a surface battlefield;<br>Battle of Modim Cave;</div>
             <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
-            <div class="timeline-item" data-date="918PA">Independence Movements grow once again in Droil</div>
+            <div class="timeline-item" data-date="918PA">Independence Movements grow once again in Droil;<br>The kethric missionary known as the White Sister arrives in the Ganoa Valley</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport;<br>Coster of Melmbirth marries Princess Lena of Eldmar</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World</div>

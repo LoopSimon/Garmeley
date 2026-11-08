@@ -1,9 +1,20 @@
-- 2026-11-08T2331 · Roxeria
+- 2026-11-09T0026 · Complete Timeline
+- 2026-11-09T0025 · Azuvke
+- 2026-11-09T0024 · Para
+- 2026-11-09T0024 · Ganoan Dye
+- 2026-11-09T0024 · Karaluk
+- 2026-11-09T0024 · Javalim
+- 2026-11-09T0023 · Ganoan
+- 2026-11-09T0023 · Kethricism
+- 2026-11-09T0023 · Mystics Guild
+- 2026-11-09T0022 · Revolution of Rox
+- 2026-11-09T0022 · Roxeria
+- 2026-11-09T0022 · Goash Mab
+- 2026-11-09T0021 · White Sister
+- 2026-11-09T0021 · Majir
+- 2026-11-09T0020 · Jink
 - 2026-11-08T2331 · Ganoa Valley
-- 2026-11-08T2211 · Goash Mab
-- 2026-11-08T2151 · White Sister
 - 2026-11-08T2005 · Sredit
-- 2026-11-08T1927 · Complete Timeline
 - 2026-11-08T1259 · Mogyr Rules
 - 2026-11-08T1242 · Mogyr
 - 2026-11-08T0216 · Xolor Rules
@@ -21,11 +32,7 @@
 - 2026-11-08T0016 · Twintail Imperium
 - 2026-11-08T0006 · Black Powder
 - 2026-11-07T1929 · Tim the Enchanter
-- 2026-11-07T0045 · Majir
-- 2026-11-07T0043 · Jink
-- 2026-11-06T2342 · Azuvke
 - 2026-11-06T2342 · Kheri
-- 2026-11-06T2341 · Javalim
 - 2026-11-06T2335 · Ekkam
 - 2026-11-06T2247 · Lycanthropy
 - 2026-11-06T2246 · Shifting
@@ -33,8 +40,6 @@
 - 2026-11-06T2241 · Sadizka Ovoletru
 - 2026-11-06T2214 · Rox
 - 2026-11-06T2212 · Fenhir
-- 2026-11-06T2212 · Revolution of Rox
-- 2026-11-06T2128 · Ganoan
 - 2026-11-06T2033 · Blodrise Dark
 - 2026-11-06T2032 · Ral
 - 2026-11-06T2031 · Soulbond
@@ -45,16 +50,12 @@
 - 2026-11-06T1319 · Kareli Hierarchy
 - 2026-11-06T1313 · Nine Great Guilds
 - 2026-11-06T1313 · Roxerian Glass
-- 2026-11-06T1313 · Ganoan Dye
-- 2026-11-06T1312 · Para
 - 2026-11-06T0129 · Jevana
-- 2026-11-06T0012 · Mystics Guild
 - 2026-11-05T2357 · Bihra Shamanism
 - 2026-11-05T2220 · Niryd Steppe
 - 2026-11-05T2218 · Vas Ira
 - 2026-11-05T2217 · Luchun Khaganate
 - 2026-11-05T2217 · Gaden
-- 2026-11-05T2206 · Karaluk
 - 2026-11-05T2159 · Noorism
 - 2026-11-05T2159 · Az
 - 2026-11-05T2121 · Vol
@@ -397,4 +398,3 @@
 - 2026-10-15T1752 · Kasthemis
 - 2026-10-15T1724 · Elven Paragonworship
 - 2026-10-15T1724 · Elven Dynasties
-- 2026-10-15T1723 · Behera
