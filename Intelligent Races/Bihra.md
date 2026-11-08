@@ -7,7 +7,7 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Kobold1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>A mutated Steppe Bihra</i></small>
 </div>
-<small><i> This race as a unique rule set for play in Pathfinder 1e, see <a href="Bihra Rules" class="internal-link">Bihra Rules</a></i></small>
+<small><i> This race has a unique rule set for play in Pathfinder 1e, see <a href="Bihra Rules" class="internal-link">Bihra Rules</a></i></small>
 <p>Known to the humans of Kher as the Kobolds, generally smaller sized, Bihra are bipedal, scaled reptilian humanoids that tend to weigh about 120kg, in the case of the steppe bihra standing at up to  2 metres. They are native to the continent of <a href="Nirydia" class="internal-link">Nirydia</a> and show variance in phenotype based on their environment: There are reports for significant differing in size, head- and tail shape based on regional origin, as well as the striking change in the tint of their scale colour.</p>
 <p>A sub group of Bihra, living in the hostile <a href="Niryd Steppe" class="internal-link">Steppe of Nirydia</a>, are abnormally prone to mutation and worship stronger and more exotic variants among them religiously and culturally, this can take on extremes such as some Bihra standing at almost 9 metres tall and possessing 2 or even 3 heads and other abnormal characteristics.
 Although they like claim kinship to <a href="Dragon" class="internal-link">Dragonkind</a>, there is no evidence outside of the mythological that would agree with the idea the two races are related. </p>

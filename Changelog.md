@@ -1,3 +1,9 @@
+- 2026-11-09T0053 · Wispmer
+- 2026-11-09T0053 · Mogyr
+- 2026-11-09T0053 · Xolor
+- 2026-11-09T0053 · Bihra
+- 2026-11-09T0053 · Shirin
+- 2026-11-09T0052 · Wispmer Rules
 - 2026-11-09T0043 · Bihra Rules
 - 2026-11-09T0026 · Complete Timeline
 - 2026-11-09T0025 · Azuvke
@@ -17,11 +23,7 @@
 - 2026-11-08T2331 · Ganoa Valley
 - 2026-11-08T2005 · Sredit
 - 2026-11-08T1259 · Mogyr Rules
-- 2026-11-08T1242 · Mogyr
 - 2026-11-08T0216 · Xolor Rules
-- 2026-11-08T0215 · Xolor
-- 2026-11-08T0046 · Bihra
-- 2026-11-08T0024 · Shirin
 - 2026-11-08T0023 · Shirin Rules
 - 2026-11-08T0016 · Karlaz the Razor
 - 2026-11-08T0016 · Kubil no Vang
@@ -396,5 +398,3 @@
 - 2026-10-15T1831 · Cult of the Dancing God
 - 2026-10-15T1830 · Luna Minor
 - 2026-10-15T1752 · Kasthemis
-- 2026-10-15T1724 · Elven Paragonworship
-- 2026-10-15T1724 · Elven Dynasties
