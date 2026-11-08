@@ -1,7 +1,6 @@
 %%  
 [[Twintail Imperium]]  
 [[Liandar]]  
-[[Shirin]]  
 [[Ott]]  
 [[The Ottian Syndicate]]  
 [[Artificery]]  

@@ -1,5 +1,5 @@
 %%
-[[Lakalism]] [[Shirin]] [[Vigzil]] [[Niryd Steppe]] [[Red Iron Towers]] [[Bigronism]] [[Jorvistan]] [[Liandar]] [[Greater Aatar]][[Greater Chihim]][[Rulers of the Shirin]] [[Natan VI]][[Khulki]][[Miarat]][[Kubil no Vang]]
+[[Lakalism]] [[Intelligent Races/Shirin]] [[Vigzil]] [[Niryd Steppe]] [[Red Iron Towers]] [[Bigronism]] [[Jorvistan]] [[Liandar]] [[Greater Aatar]][[Greater Chihim]][[Rulers of the Shirin]] [[Natan VI]][[Khulki]][[Miarat]][[Kubil no Vang]]
 %%
 
 <div class="wiki-infobox">

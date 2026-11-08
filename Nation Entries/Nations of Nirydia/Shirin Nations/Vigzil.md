@@ -1,5 +1,5 @@
 %%
-[[Zuhurism]] [[Shirin]] 
+[[Zuhurism]] [[Intelligent Races/Shirin]] 
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Vigzil</h4>

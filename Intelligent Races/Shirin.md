@@ -4,13 +4,14 @@
 [[Greater Aatar]]
 [[Lakalism]]
 [[Goarism]]
-[[Vigzil]]
+[[Vigzil
+[[Shirin Rules]]
 %%
 
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/shirin.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 <small><i>Shirin Archer, mixed heritage, Greater Chihim Period</i></small>  
 </div>
-
+<small><i> This race as a unique rule set for play in Pathfinder 1e, see <a href="Shirin Rules" class="internal-link">Shirin Rules</a></i></small>
 <p>Also known as the "Ratfolk", a derogatory term most commonly used as an insult by outsiders, the Shirin of Nirydia are the most numerous race on the continent, having dominated the Mondi Delta and its surrounding river plain for millennia and ruled the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> for centuries. The Shirin are not a biologically uniform people but are the product of thousands of years of intermingling between two distinct ancestral lineages, the Valfir and the Gelfir, whose convergence in the Mondi Delta during the Bronze Age produced the mixed population that constitutes the overwhelming majority of Shirin alive today.</p>
 
 <h2>Biology and Physical Characteristics</h2>

@@ -1,5 +1,5 @@
 %%
-[[Shirin]]
+[[Intelligent Races/Shirin]]
 [[Goarism]]
 [[Lakalism]]
 [[Greater Chihim]]

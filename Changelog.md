@@ -1,7 +1,24 @@
+- 2026-11-08T1959 · Sredit
+- 2026-11-08T1927 · Complete Timeline
+- 2026-11-08T1259 · Mogyr Rules
+- 2026-11-08T1242 · Mogyr
+- 2026-11-08T0216 · Xolor Rules
+- 2026-11-08T0215 · Xolor
+- 2026-11-08T0056 · Bihra Rules
+- 2026-11-08T0046 · Bihra
+- 2026-11-08T0024 · Shirin
+- 2026-11-08T0023 · Shirin Rules
+- 2026-11-08T0016 · Karlaz the Razor
+- 2026-11-08T0016 · Kubil no Vang
+- 2026-11-08T0016 · Greater Aatar
+- 2026-11-08T0016 · Greater Chihim
+- 2026-11-08T0016 · Zondust
+- 2026-11-08T0016 · Vigzil
+- 2026-11-08T0016 · Twintail Imperium
+- 2026-11-08T0006 · Black Powder
 - 2026-11-07T1929 · Tim the Enchanter
 - 2026-11-07T0045 · Majir
 - 2026-11-07T0043 · Jink
-- 2026-11-06T2343 · Complete Timeline
 - 2026-11-06T2342 · Azuvke
 - 2026-11-06T2342 · Kheri
 - 2026-11-06T2342 · Roxeria
@@ -30,7 +47,6 @@
 - 2026-11-06T0129 · Jevana
 - 2026-11-06T0012 · Mystics Guild
 - 2026-11-05T2357 · Bihra Shamanism
-- 2026-11-05T2355 · Bihra
 - 2026-11-05T2220 · Niryd Steppe
 - 2026-11-05T2218 · Vas Ira
 - 2026-11-05T2217 · Luchun Khaganate
@@ -45,9 +61,7 @@
 - 2026-11-05T0742 · Auroch
 - 2026-11-04T1853 · Muglig Ruv
 - 2026-11-04T1735 · Muxul
-- 2026-11-04T1602 · Twintail Imperium
 - 2026-11-04T1601 · Liandar
-- 2026-11-04T1548 · Black Powder
 - 2026-11-04T1547 · Xerental
 - 2026-11-04T1547 · The Ottian Syndicate
 - 2026-11-04T0140 · Yaalwe
@@ -384,17 +398,3 @@
 - 2026-10-15T1722 · Globus
 - 2026-10-15T1721 · Elf
 - 2026-10-15T1719 · Sphinx
-- 2026-10-15T1718 · Jawahr
-- 2026-10-15T1713 · Viago I
-- 2026-10-15T1658 · Nua
-- 2026-10-15T1621 · Aisligos
-- 2026-10-15T1620 · Alder
-- 2026-10-15T1620 · Wispmer
-- 2026-10-15T1618 · Qalmyr
-- 2026-10-15T1618 · Qinari
-- 2026-10-15T1617 · Path of the Second Moon
-- 2026-10-15T1617 · Zolra
-- 2026-10-15T1617 · Qastor
-- 2026-10-15T1612 · Luna Major
-- 2026-10-15T1426 · Salvia
-- 2026-10-15T1425 · Ilonism

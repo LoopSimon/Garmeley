@@ -1,6 +1,6 @@
 %%
 [[Twintail Imperium]]
-[[Shirin]]
+[[Intelligent Races/Shirin]]
 [[Lakalism]]
 [[Niryd Steppe]]
 %%
