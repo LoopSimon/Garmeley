@@ -35,10 +35,15 @@ The Steppe Bihra live among the larger and lesser Khaganates and tribes of the N
 4. **Vestigial Arm:** The Bihra has a small third arm. It can hold an object, retrieve a stowed item as a swift action or carry a buckler or light shield, but cannot wield a weapon or make attacks.
 5. **Spined Hide:** Bony spines grow through the Bihra's scales. A creature that grapples the Bihra or is grappled by them takes 1d4 points of piercing damage at the start of each of its turns.
 6. **Fire Gullet:** Once per day, the Bihra can breathe a 15-foot cone of fire as a standard action. It deals 1d6 points of fire damage per two character levels (minimum 1d6), and a successful Reflex save (DC 10 + 1/2 the Bihra's character level + the Bihra's Constitution modifier) halves the damage.
-7. **Shaman's Mark:** The Bihra has extra eyes, a second partial head or another anomaly that Bihra see as the sign of a shaman. They gain a +2 racial bonus on Will saves against possession and spells and effects that would expel or harm their soul, and cast spells from the shaman class at +1 caster level. A Bihra with a full second head should be agreed with the GM.
-8. **Armoured Plates:** Thick bony plates grow over the Bihra's scales. Their natural armor bonus increases by 1.
+7. **Shaman's Mark:** The Bihra has extra eyes, a second partial head or another anomaly that Bihra see as the sign of a shaman. They gain a +2 racial bonus on Will saves against possession and spells and effects that would expel or harm their soul, and the save DCs of their spells from the shaman class increase by 1. A Bihra with a full second head should be agreed with the GM.
+8. **Armoured Plates:** Thick bony plates grow over the Bihra's scales. They gain DR 1/-, which increases to DR 2/- at 10th level.
 9. **Heat Pits:** Pits along the Bihra's snout sense warmth. They gain blindsense with a range of 15 feet, which only detects living creatures that are warmer than their surroundings.
 10. **Gliding Membranes:** Folds of skin stretch between the Bihra's arms and flanks. They take no damage from falling, as if under a constant feather fall effect, and while falling can move 5 feet horizontally for every 5 feet they fall.
+11. **Venomous Bite:** The Bihra has a natural bite attack that deals 1d4 points of damage. It is a secondary natural attack when used alongside manufactured weapons. Once per day, when the Bihra hits with the bite, the target must succeed at a Fortitude save (DC 10 + 1/2 the Bihra's character level + the Bihra's Constitution modifier) or take 1d2 points of Dexterity damage.
+12. **Frilled Crest:** A wide frill of skin rings the Bihra's head. Once per combat, the Bihra can flare it to demoralize an opponent with Intimidate as a move action instead of a standard action.
+13. **Grass-Coloured Scales:** The Bihra's scales shift slowly to match their surroundings. They gain a +4 racial bonus on Stealth checks in grassland, forest and other natural terrain, as long as they move no more than half their speed.
+14. **Runner's Legs:** The Bihra has long, digitigrade legs built for the open steppe. Their base speed increases by 10 feet.
+15. **Second Heart:** The Bihra has a second heart that keeps them alive through terrible wounds. They automatically stabilize when below 0 hit points, and gain a +4 racial bonus on Fortitude saves against death from massive damage.
 
 Steppe Bihra can take the Further Mutation feat to gain more mutations.
 
@@ -64,7 +69,7 @@ The Mainland Bihra live across eastern and southern Nirydia and make up the majo
 
 The Durenni Bihra live on the island of Durennis, where the Omnas of Lisava, Zilkand and Raximan succeeded the old Bihra realm of Japhal. They are much smaller than their mainland kin, and most live in the monsoon jungles of northern Durennis and the Pepper Islands, where they grow the spices of the Vanpur Pepper Trade. The Durenni are known as traders, spice growers and perfumers, and the city of Prankabur in Lisava is said to hold the most advanced school of medicine in the world.
 
-- **Ability Score Modifiers:** +2 Dexterity, +2 Wisdom, −2 Strength. Durenni Bihra are quick and studied philosophers, but small and feeble in statue.
+- **Ability Score Modifiers:** +2 Dexterity, +2 Wisdom, −2 Strength. Durenni Bihra are quick and studied philosophers, but small and feeble in stature.
 - **Size:** Durenni Bihra are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a −1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.
 - **Speed:** Durenni Bihra have a base speed of 30 feet.
 - **Monsoon Born:** Durenni Bihra grow up among jungle rivers and seasonal floods. They have a swim speed of 20 feet, gaining a +8 racial bonus on Swim checks, and can move through jungle undergrowth, mud and shallow bog at normal speed. They take no penalties on Perception checks from rain, and gain a +2 racial bonus on Fortitude saves against disease.
@@ -93,4 +98,3 @@ Lineage makes no difference to age, but it does to build. Male and female Bihra 
 
 - **Salamander Bond (Steppe):** The Bihra shares a soul with a Gnarlskin Salamander, in the western shamanic tradition. They gain a +4 racial bonus on Handle Animal and Ride checks with salamanders, and if they gain an animal companion or mount from a class feature, it can be a salamander with the statistics of a monitor lizard. This trait replaces Triumph of the Physical.
 - **Tame Blood (Mainland or Durenni):** A few Zibihra are born with a true mutation, often treated as a sign of a future shaman. The Bihra gains one mutation from the Steppe mutation list. This trait replaces Colour-Scaled for Mainland Bihra or Durenni Learning for Durenni Bihra.
-
