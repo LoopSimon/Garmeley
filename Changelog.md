@@ -1,3 +1,5 @@
+- 2026-11-09T0117 · Safir
+- 2026-11-09T0117 · Safir Rules
 - 2026-11-09T0057 · Bihra Rules
 - 2026-11-09T0053 · Wispmer
 - 2026-11-09T0053 · Mogyr
@@ -396,5 +398,3 @@
 - 2026-10-15T1832 · Ulrike Metzen
 - 2026-10-15T1831 · Starworship
 - 2026-10-15T1831 · Cult of the Dancing God
-- 2026-10-15T1830 · Luna Minor
-- 2026-10-15T1752 · Kasthemis

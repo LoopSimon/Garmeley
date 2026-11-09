@@ -5,12 +5,13 @@
 [[Astafir]]
 [[Singer Worship]]
 [[Tageyo]]
+[[Safir Rules]]
 %%
 
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/yariginru.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Zechelon, a Pravi Safir</i></small>
 </div>
-
+<small><i> This race has a unique rule set for play in Pathfinder 1e, see <a href="Safir Rules" class="internal-link">Safir Rules</a></i></small>
 <p>The Safir are a broad family of reptiloid humanoids native to the jungle regions of southern <a href="Behera" class="internal-link">Behera</a>, the subcontinents of Kaito to the east and Vinjira to the west of the Smaragd Sea and the most numerous and politically significant non human species in the southern parts of the Continent. The term itself is a generalization, covering four distinct colour groups whose geographic distribution, cultural character and biological appearance differ considerably, united by common descent from the <a href="Astafir" class="internal-link">Astafir</a> precursor genus and by the defining biological influence of <a href="Yari" class="internal-link">Yari</a> Ichor on their evolutionary history. Beheran human cultures know them as the Naga, a term carrying mythological weight in the <a href="Pravazik Pantheon" class="internal-link">Pravazik Pantheon</a>, where they are described as the children of the sea Yari Aleac, though the Safir themselves do not use this name. The dominant Safir civilization, the <a href="Pravazik" class="internal-link">Empire of Pravazik</a>, is one of the most populated and powerful political entities in the known world, its Pravi dominated imperial culture extending across both subcontinents in a claim of sovereignty over all Safir peoples that the other colour groups observe with varying degrees of compliance and indifference.</p>
 
 <h2>The Astafir and the Gift of Atul</h2>
