@@ -1,7 +1,7 @@
 %%
 [[Garmeley]]
 [[Garmish Succession Crisis]]
-[[Hynek.png]]
+[[Hynek of Forrington]]
 [[Eldmar]]
 [[Urien]]
 [[Alfin I]]
