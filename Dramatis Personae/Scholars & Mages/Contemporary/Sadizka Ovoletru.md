@@ -17,7 +17,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Culture</strong>  
- <span><a href="Gorati" class="internal-link">Gorati</a> <a href="Human" class="internal-link">Human</a></span>  
+ <span><a href="Gorati" class="internal-link">Zepri</a> <a href="Human" class="internal-link">Human</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Born</strong>  

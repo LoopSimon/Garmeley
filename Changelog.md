@@ -1,8 +1,9 @@
+- 2026-11-09T1425 · Sadizka Ovoletru
+- 2026-11-09T1425 · Suzana Dragović
 - 2026-11-09T1424 · Gorat
 - 2026-11-09T1424 · Gorati
 - 2026-11-09T1411 · Bruša
 - 2026-11-09T1411 · Dišela
-- 2026-11-09T1410 · Suzana Dragović
 - 2026-11-09T1409 · Jateš
 - 2026-11-09T1409 · Amlija
 - 2026-11-09T1235 · Roxerian Glass
@@ -50,7 +51,6 @@
 - 2026-11-06T2247 · Lycanthropy
 - 2026-11-06T2246 · Shifting
 - 2026-11-06T2241 · Rivid Tepor
-- 2026-11-06T2241 · Sadizka Ovoletru
 - 2026-11-06T2214 · Rox
 - 2026-11-06T2212 · Fenhir
 - 2026-11-06T2033 · Blodrise Dark
