@@ -19,7 +19,7 @@ All Bihra have the following racial traits, whatever their lineage.
 
 The Steppe Bihra live among the larger and lesser Khaganates and tribes of the Niryd Steppe. They stand up to 2 metres tall and are heavily built, often weighing 150 kilograms or more. Their tough hides let them live among the razor-edged Aspira bladegrass that makes the central steppe uninhabitable for most other peoples. Their culture rests on the triumph of the physical, the belief that spiritual worth is proven through strength, mutation and victory, and their most mutated members are revered as leaders and shamans.
 
-- **Ability Score Modifiers:** +2 Strength, +2 Constitution, −2 Intelligence. Steppe Bihra are powerful and enduring, but their warrior culture values strength over learning.
+- **Ability Score Modifiers:** +2 Strength, +2 Wisdom, −2 Intelligence. Steppe Bihra are powerful, but their warrior culture values strength over learning.
 - **Size:** Steppe Bihra are Medium creatures and have no bonuses or penalties due to their size.
 - **Speed:** Steppe Bihra have a base speed of 30 feet.
 - **Bladegrass Hide:** Steppe Bihra take no damage from bladegrass, thorns, briars and other cutting plants, and can move through such undergrowth at normal speed. They also gain a +4 racial bonus on saving throws against bleed effects.

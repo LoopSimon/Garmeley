@@ -43,7 +43,7 @@
     </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Disela_Flag_2.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>Dišela is an aristocratic maritime Republic centered on the city of Diprije on the Island of Zelarvo, in central Gorat. It controls the entire Island as well as a number of coastal settlements and merchant towns in the Hyktamok and is one of the most commercially dominant political entities in all of Nirydia. The Republic has recently entered an era of decline, following the events of the <a href="Bruša" class="internal-link">Bruša</a> Emancipation.</p>
+<p>Dišela is an aristocratic maritime Republic centered on the city of Diprije on the Island of Zelarvo, in central Gorat. It controls the entire Island as well as a number of coastal settlements and merchant towns in the Gavivag Bay and the Gorati Sea and is one and is one of the most commercially dominant political entities in all of Nirydia. The Republic has recently entered an era of decline, following the events of the <a href="Bruša" class="internal-link">Bruša</a> Emancipation.</p>
 
 
 

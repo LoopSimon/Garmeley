@@ -1,6 +1,15 @@
+- 2026-11-09T1411 · Bruša
+- 2026-11-09T1411 · Dišela
+- 2026-11-09T1410 · Suzana Dragović
+- 2026-11-09T1409 · Jateš
+- 2026-11-09T1409 · Amlija
+- 2026-11-09T1235 · Roxerian Glass
+- 2026-11-09T1233 · Paqor
+- 2026-11-09T1231 · Roxeria
+- 2026-11-09T0957 · Shirin Rules
+- 2026-11-09T0955 · Bihra Rules
 - 2026-11-09T0117 · Safir
 - 2026-11-09T0117 · Safir Rules
-- 2026-11-09T0057 · Bihra Rules
 - 2026-11-09T0053 · Wispmer
 - 2026-11-09T0053 · Mogyr
 - 2026-11-09T0053 · Xolor
@@ -17,7 +26,6 @@
 - 2026-11-09T0023 · Kethricism
 - 2026-11-09T0023 · Mystics Guild
 - 2026-11-09T0022 · Revolution of Rox
-- 2026-11-09T0022 · Roxeria
 - 2026-11-09T0022 · Goash Mab
 - 2026-11-09T0021 · White Sister
 - 2026-11-09T0021 · Majir
@@ -26,7 +34,6 @@
 - 2026-11-08T2005 · Sredit
 - 2026-11-08T1259 · Mogyr Rules
 - 2026-11-08T0216 · Xolor Rules
-- 2026-11-08T0023 · Shirin Rules
 - 2026-11-08T0016 · Karlaz the Razor
 - 2026-11-08T0016 · Kubil no Vang
 - 2026-11-08T0016 · Greater Aatar
@@ -49,11 +56,9 @@
 - 2026-11-06T2031 · Soulbond
 - 2026-11-06T1836 · Nural
 - 2026-11-06T1836 · Ruginë
-- 2026-11-06T1320 · Paqor
 - 2026-11-06T1320 · Velvet Caravan
 - 2026-11-06T1319 · Kareli Hierarchy
 - 2026-11-06T1313 · Nine Great Guilds
-- 2026-11-06T1313 · Roxerian Glass
 - 2026-11-06T0129 · Jevana
 - 2026-11-05T2357 · Bihra Shamanism
 - 2026-11-05T2220 · Niryd Steppe
@@ -393,8 +398,3 @@
 - 2026-10-15T2010 · The Tis
 - 2026-10-15T2010 · Tripparch
 - 2026-10-15T1836 · Shimun
-- 2026-10-15T1833 · Jiravid
-- 2026-10-15T1832 · Korman van Schipwig
-- 2026-10-15T1832 · Ulrike Metzen
-- 2026-10-15T1831 · Starworship
-- 2026-10-15T1831 · Cult of the Dancing God

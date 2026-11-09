@@ -24,7 +24,7 @@ All Shirin have the following racial traits, whatever their lineage.
 
 The Valfir are the larger and older of the two lineages. They are heavy and robust, with dark, coarse fur, a long snout and large forward-set incisors. They are the look most outsiders mean when they say "Ratfolk", and the older delta farming and river communities trace back to them.
 
-- **Ability Score Modifiers:** +2 Strength, +2 Constitution, −2 Charisma. Valfir are strong and hardy, but their appearance draws the most prejudice from outsiders.
+- **Ability Score Modifiers:** +2 Strength, +2 Dexterity, −2 Charisma. Valfir are strong and hardy, but their appearance draws the most prejudice from outsiders.
 - **Gnawing Incisors:** Valfir have a natural bite attack that deals 1d4 points of damage. It is a secondary natural attack, made at the Valfir's full base attack bonus −5, when used alongside manufactured weapons.
 - **Anchoring Tail:** A Valfir braces themselves with their heavy tail. They gain a +4 racial bonus to CMD against bull rush and trip attempts while standing on the ground.
 - **Wide Gaze:** A Valfir's eyes sit far to the sides of the skull and give them a very wide field of view. Opponents flanking a Valfir gain only a +1 bonus on attack rolls instead of +2. In exchange, the Valfir's poor depth perception gives them an additional −1 penalty on ranged attack rolls beyond the first range increment.
