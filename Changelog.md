@@ -1,3 +1,5 @@
+- 2026-11-09T1424 · Gorat
+- 2026-11-09T1424 · Gorati
 - 2026-11-09T1411 · Bruša
 - 2026-11-09T1411 · Dišela
 - 2026-11-09T1410 · Suzana Dragović
@@ -177,8 +179,6 @@
 - 2026-10-24T0318 · Codex Thereticum
 - 2026-10-24T0300 · The Anak
 - 2026-10-24T0300 · Veziva
-- 2026-10-24T0259 · Gorati
-- 2026-10-24T0259 · Gorat
 - 2026-10-23T2225 · Manymirror
 - 2026-10-23T2014 · The Pillars of Myan
 - 2026-10-23T1610 · Szuan
