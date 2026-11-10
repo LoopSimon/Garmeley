@@ -1,5 +1,6 @@
 %%
 [[Zuhurism]] 
+[[Vimgalab Monsis]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Nessos</h4>
@@ -26,7 +27,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Pagri <a href="Human" class="internal-link">Human</a></span>
+        <span>Terenni <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

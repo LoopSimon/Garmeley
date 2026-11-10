@@ -21,7 +21,7 @@
  </div>
  <div class="wiki-row">
  <strong>Born</strong>
- <span>ca. 648PA, near Bardrab</span>
+<span>ca. 586PA, near Bardrab</span>
  </div>
  <div class="wiki-row">
  <strong>Died</strong>

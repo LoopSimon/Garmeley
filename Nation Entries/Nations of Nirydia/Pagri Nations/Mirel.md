@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
-        <span></span>
+ <span>Sunstar Falls</span>
     </div>
     <div class="wiki-row">
         <strong>Heraldic Symbol</strong>

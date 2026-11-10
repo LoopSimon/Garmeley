@@ -197,7 +197,7 @@
             <div class="timeline-item" data-date="503BA">The Muyra Dynasty begins when Muyra Enil is raised as "Lord of Lords" in southern Tal, following his defeat of the forces of the Melop, End of the Melop Dynasty</div>
             <div class="timeline-item" data-date="489BA">Aessymia Palatea commits suicide by Tanlea</div>
 	        <div class="timeline-item" data-date="488BA">Rakhian Conquest of Sakra, modern day Hainach</div>
-	        <div class="timeline-item" data-date="468PA">The Dwarves of Untizin establish the Great Order around the Godsfall of modern day Tizin-Kol, following the proclamations of High-Priestess Neabascar</div>
+	        <div class="timeline-item" data-date="468BA">The Dwarves of Untizin establish the Great Order around the Godsfall of modern day Tizin-Kol, following the proclamations of High-Priestess Neabascar</div>
             <div class="timeline-item" data-date="450BA">Earliest records of magical circles on Mørbrig;<br>Approximate departure of the third gnomish tribe, the Xan Il, from the island of Vokt, heading east to the Ilkiztis</div>
             <div class="timeline-item" data-date="445BA">Death of the Sects in Mitimgar, <br>Timgar Silver Age ends and Timgar Age of Decline begins</div>
             <div class="timeline-item" data-date="440BA">Rakhi Conquest of Kerlean;<br>Iltani of Entusa finds that eclipses of the Moon return in a cycle that can be counted and foretold</div>
@@ -457,17 +457,19 @@
             <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opuzna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
+             <div class="timeline-item" data-date="466PA">The Seventeen Sons of Gav raise the Eye of Zuhur on Gavivag Isle, only the youngest, Miodas, survives the casting</div>  
 			<div class="timeline-item" data-date="469PA">Death of Siegmar V "the last Tree", the last of the House von Weide; <br>Gernot I von Kor takes the throne of Korsfall</div>
             <div class="timeline-item" data-date="470PA">Empire of Pravazik is formed around the Bay of Arishi on the ruins of the Great Rite of Pra and the Diacor Empire</div>
             <div class="timeline-item" data-date="471PA">Second Kethric Conclave at Volazc, <br>Kherova declares independence from Iztaw, <br>Archbishop Adzul becomes Patriarch Adzul I as the Kethric Schism is completed</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
 			<div class="timeline-item" data-date="475PA">Marlina I "the White Lady" becomes Queen of Gisvale</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
+             <div class="timeline-item" data-date="479PA">King Morac of Zepria is assassinated at a feast, his daughter Suzana takes the throne</div>  
 			<div class="timeline-item" data-date="485PA">The Kamerzin sail east from the Qahori Archipelago and settle on Durennis</div>
             <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
-            <div class="timeline-item" data-date="491PA">Suzana "the Cruel" forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
+            <div class="timeline-item" data-date="491PA">Suzana "the Cruel" is crowned Sun Empress by the Oracle of the Organius in Aviv and forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
             <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby;<br>The Kingdom of Naigan is declared by Lord Aung Shant of Naigan, who no longer recognises the Golden Rule</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
@@ -490,7 +492,7 @@
             <div class="timeline-item" data-date="517PA">Baeling Empire is declared, <br>Conversion of Trykkerog</div>
             <div class="timeline-item" data-date="518PA">Siege of Sulbra-Kol ends</div>
             <div class="timeline-item" data-date="519PA">Antigor of Kisnau declares Grevennen Independence;<br>Kar II "the Seer King" becomes King of Korsfall</div>
-            <div class="timeline-item" data-date="520PA">The Duke of Battvia declares himself Prince, formation of modern day Battvia as a Kingdom</div>
+            <div class="timeline-item" data-date="520PA">The Duke of Battvia declares himself Prince, formation of modern day Battvia as a Kingdom;<br>Death of Suzana "the Cruel", her daughter Morana succeeds her</div>
             <div class="timeline-item" data-date="521PA">Edict of the Sultan elevates the School of Karajal</div>
             <div class="timeline-item" data-date="522PA">The Dukes of Turpador and Jeledo declare independence and reject Battvian Hegemony</div>
             <div class="timeline-item" data-date="524PA">The Vanpuri successor state of Faarmish fully loses its hold on Ynkal, falling to various local warlords, <br>Era of warring Hordes begins on Ynkal</div>
@@ -538,13 +540,13 @@
             <div class="timeline-item" data-date="585PA">Founding of the Kherovan Inquisition;<br>The comets of the Tis return and are seen over the following years</div>
             <div class="timeline-item" data-date="586PA">Meadi reconquest of Dirdale, the old Diralais, from Tintarol</div>
             <div class="timeline-item" data-date="587PA">Destruction of Alahmid</div>
-            <div class="timeline-item" data-date="588PA">A young Cearic begins his work under the Duke of Morelle</div>
+            <div class="timeline-item" data-date="588PA">A young Cearic begins his work under the Duke of Morelle;<br>Accession of Emperor Jožek, end of the Zeprian Golden Age</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire; <br>Mindano emerges as self-governing city-state following the Collapse of Cevolis;<br>Weadland is not restored, and petty lords and warders rise along its coast</div>
-            <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere;<br> Following the Death of Oxiter, Eokil assumes control within the One Order and promises reform</div>
+            <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere;<br> Following the Death of Oxiter, Eokil assumes control within the One Order of Tizin-Kol and promises reform;<br>The Nighmilk Plague breaks out in Gorat</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon;<br> Conclave of 592 canonises Luca Cadente of Cefran, Patron Saint of Cevolia</div>
             <div class="timeline-item" data-date="593PA">End of the Khari Dynasty in Kherova, Era of the Empty Seat begins.</div>
-            <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil</div>
+            <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil;<br>The Nighmilk Plague ends in Gorat</div>
             <div class="timeline-item" data-date="595PA">Cearic creates his first Warden </div>
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
@@ -565,7 +567,7 @@
             <div class="timeline-item" data-date="620PA">First Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean & End of the Kingdom of Rean;<br>Death of Diedrik of Medlan, King of Gisvale, his son Ringil I succeeds him</div>
-            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurzefec and ascends</div>
+            <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurzefec and ascends;<br>Empress Nataša is crowned in Aviv, the last Zeprian ruler to be crowned there</div>
             <div class="timeline-item" data-date="625PA">2nd Vihri-Leoki War ends;<br> Rascy zi Dalniz is formed, end of the Rascy zi Leok</div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”;<br>
@@ -587,7 +589,7 @@
             <div class="timeline-item" data-date="652PA">Theris I of Pikris unites the Princedom of Hainach; <br>The Eight Years War ends in a Garmish victory</div>
 			 <div class="timeline-item" data-date="655PA">Battle of Wormill, the last two sons of Giselher of Gisvale fall, Count Heinrich von Lot takes the old seat of Medlan</div>
             <div class="timeline-item" data-date="656PA">The Path of the Old Gods forms within Riarang, creating deep ideological tensions within the Empire</div>
-            <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian Defeat</div>
+            <div class="timeline-item" data-date="657PA">Battle of Brina during the Pagri Campaigns, Zeprian defeat against the undead of Zologos</div>
             <div class="timeline-item" data-date="658PA">Construction of the Vimgalab Monsis in Nessos is finished; <br> Bayratha of Naigan declares himself Emperor of the Purple Sea, the Kingdom of Naigan becomes the Empire of Naigan</div>
             <div class="timeline-item" data-date="659PA">Dissolution of Levelix and Creation of Balerey and Sebera; <br>Battle of Summerlake, death of the Count of Mussling; decisive loyalist victory breaks the last Medlan field army.</div>
             <div class="timeline-item" data-date="660PA">Yellow War begins;<br>Death of Ringil I of Medlan, Liara I von Gismar is restored as Queen of Gisvale</div>
@@ -641,9 +643,11 @@
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="714PA">Prince Arno di Battivas great hunts and attempts to steal the holy book of names of the Elfrealm of Rogyn reach their zenith</div>
             <div class="timeline-item" data-date="715PA">The inhabitants of Jurland vanish for reasons unknown</div>
+             <div class="timeline-item" data-date="716PA">Fall of the witch king Zologos ends the Third Zuhuri Holy War, Umo is divided between the new realms of Uriston and Nessos</div>  
             <div class="timeline-item" data-date="719PA">>Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos;<br>Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
             <div class="timeline-item" data-date="722PA">Post Rebellion Reforms at their height under Imperator Yoroy II</div>
+             <div class="timeline-item" data-date="724PA">Buzinci Delegation Incident, imperial tax collectors are slaughtered in southern Gorat and the imperial envoys are arrested in Rashice</div>  
             <div class="timeline-item" data-date="730PA">Black powder reaches Ott along the Ziflis Trade</div>
             <div class="timeline-item" data-date="731PA">Council of Patwin Tower</div>
             <div class="timeline-item" data-date="733PA">Izrafur theorizes the 4-Axis Model</div>
@@ -662,15 +666,15 @@
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
             <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
-            <div class="timeline-item" data-date="758PA">The Republic of Runsby is formed on the Runsby & Lipley Isles</div>
+            <div class="timeline-item" data-date="758PA">The Republic of Runsby is formed on the Runsby & Lipley Isles;<br>The Opmani and Buzinci have all but abandoned Zeprian imperial rule</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
-             <div class="timeline-item" data-date="760PA">Battle of Minea;<br>Mamus Rolim is born in Tizin-Kol</div>
+             <div class="timeline-item" data-date="760PA">Mamus Rolim is born in Tizin-Kol</div>
 			 <div class="timeline-item" data-date="761PA">Plague and strife in the Empire of Naigan, the Imperial City of Kiamar seals itself away for a decade</div>
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, <br>1st War of Elbae Aggression ends</div>
              <div class="timeline-item" data-date="763PA">Conclave of 763 under High-Bisop Manral I, Canonisation of Fredric and begin of the Gethric Pogroms;<br>Rivid Tepor publishes "Between Fang and Finger: My Journeys with the Ral"</div>
-            <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism</div>
+            <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism;<br>Feud between the houses of Rizev and Ohodrev breaks out again, Crown Prince Matjar of Zepria fails to restore the peace</div>
             <div class="timeline-item" data-date="766PA">Remillion usurps the Trifflands</div>
-            <div class="timeline-item" data-date="767PA">Dissolution of the Zeprian Empire, Remillion slaughters the ducal Host and slays Duke Ingemar of Triff</div>
+            <div class="timeline-item" data-date="767PA">Radov the Silver turns himself and his court into silver in a failed invocation, dissolution of the Zeprian Empire;<br>Remillion slaughters the ducal Host and slays Duke Ingemar of Triff</div>
              <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins;<br>Rivid Tepor is killed by a werewolf in the Blodrise Dark</div>
             <div class="timeline-item" data-date="769PA">The Ottian Syndicate publishes the Ottian Codex, a grading manual for Artefacts according to Prosum </div>
             <div class="timeline-item" data-date="770PA">Blijgrat League is formed when Schipwig, Hevn and Geldfields swear the Blijgrat Agreement at Blijgrat</div>
@@ -695,7 +699,7 @@
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
             <div class="timeline-item" data-date="790PA">Conquest of Hainach and 2nd War of Elbae Aggression ends</div>
               <div class="timeline-item" data-date="791PA">Remillion is gone from the Trifflands, the Council of Triff takes over and administers his domain</div>
-            <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out;<br>Battle of Gialo;<br>Battle of Fiarco</div>
+            <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out;<br>Battle of Gialo;<br>Battle of Fiarco;<br>Battle of Minea ends the Fifth Zuhuri Holy War</div>
             <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
             <div class="timeline-item" data-date="794PA">Battle of Adsal and end of the Jigallori Khaganate</div>
             <div class="timeline-item" data-date="795PA">Weadi traders open the Kelzen Route sealane, linking the Torn Sea to the Gerjodi Islands and the northern shores of Aisligos</div>
@@ -768,8 +772,9 @@
             <div class="timeline-item" data-date="869PA">Andre of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again</div>
             <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
+	         <div class="timeline-item" data-date="872PA">Gavivag War between Plašato and Cirinzel begins</div>  
             <div class="timeline-item" data-date="874PA">Andre of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world;<br>First Ottian Rifles are produced</div>
-            <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr</div>
+            <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr;<br>Gavivag War ends, Plašato holds Gavivag Isle and the Eye of Zuhur</div>
             <div class="timeline-item" data-date="876PA">Andre of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="878PA">Port Faarhovn is founded on Jurland by the G.U.V.; the Diviner Adreliz opens talks with the Kavi through telepathy, securing trading rights in Kavi communities;<br>Nale Dirrenger ends his fourth voyage, having charted the southern seas and set up supply posts between Nalesland and the Dark Islands</div>
