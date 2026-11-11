@@ -597,6 +597,7 @@
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends;<br>Liara I of Gisvale marries Gunther III of Korsfall, the Union of Meadrath is proclaimed;<br>Diago di Locci publishes "The Great Index"</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels; <br>Naigan conquers the Safiri cities of the western Antulun Bay</div>
             <div class="timeline-item" data-date="666PA">The Necromancer Morfeld is captured by Lyandra of Fairriver, later tried and burned alive in Uhl</div>
+             <div class="timeline-item" data-date="667PA">Cirinzel takes Trilom and the Eye of Zuhur from the Zeprian Empire</div>  
             <div class="timeline-item" data-date="668PA">Yellow War ends after the Peace at Kulum</div>
             <div class="timeline-item" data-date="669PA">Imperator Lisil IIIs Decree of Divinity</div>
             <div class="timeline-item" data-date="670PA">Opening of Ott;<br>Dorian founds the Shields of Summer Chapter within the Knights of the Gryphon</div>
