@@ -1,3 +1,4 @@
+- 2026-11-11T2259 · Kethricism
 - 2026-11-11T2058 · Plašato
 - 2026-11-11T1626 · Vanpur Pepper Trade
 - 2026-11-11T1625 · Dišela
@@ -52,7 +53,6 @@
 - 2026-11-09T0024 · Karaluk
 - 2026-11-09T0024 · Javalim
 - 2026-11-09T0023 · Ganoan
-- 2026-11-09T0023 · Kethricism
 - 2026-11-09T0023 · Mystics Guild
 - 2026-11-09T0022 · Revolution of Rox
 - 2026-11-09T0022 · Goash Mab
