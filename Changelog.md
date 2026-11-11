@@ -1,3 +1,4 @@
+- 2026-11-11T0624 · Shirin Rules
 - 2026-11-10T1748 · Gorati
 - 2026-11-10T1748 · Gorat
 - 2026-11-10T1748 · Sadizka Ovoletru
@@ -34,7 +35,6 @@
 - 2026-11-09T1235 · Roxerian Glass
 - 2026-11-09T1233 · Paqor
 - 2026-11-09T1231 · Roxeria
-- 2026-11-09T0957 · Shirin Rules
 - 2026-11-09T0955 · Bihra Rules
 - 2026-11-09T0117 · Safir
 - 2026-11-09T0117 · Safir Rules
