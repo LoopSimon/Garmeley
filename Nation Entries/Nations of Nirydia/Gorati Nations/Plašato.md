@@ -23,7 +23,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Head of State</strong>  
- <span>Nbrut Lovro of House Nadrej</span>  
+ <span>Ubrut Lovro of House Nadrej</span>  
  </div>  
  <div class="wiki-row">  
  <strong>Capital</strong>  

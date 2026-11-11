@@ -1,12 +1,13 @@
+- 2026-11-11T0648 · Zuhurism
+- 2026-11-11T0648 · Hastermon Temple
+- 2026-11-11T0641 · Plašato
 - 2026-11-11T0633 · Complete Timeline
-- 2026-11-11T0633 · Plašato
 - 2026-11-11T0632 · Zuhuri Holy Wars
 - 2026-11-11T0632 · Zepria
 - 2026-11-11T0632 · Twintail Imperium
 - 2026-11-11T0631 · Red Iron Towers
 - 2026-11-11T0631 · Gorati
 - 2026-11-11T0631 · Organius of Aviv
-- 2026-11-11T0630 · Zuhurism
 - 2026-11-11T0629 · Cirinzel
 - 2026-11-11T0628 · Eye of Zuhur
 - 2026-11-11T0626 · Shirin Rules
@@ -16,7 +17,6 @@
 - 2026-11-10T1747 · Veziva
 - 2026-11-10T1326 · Sredit
 - 2026-11-10T1151 · Suzana Dragović
-- 2026-11-10T1046 · Hastermon Temple
 - 2026-11-10T1044 · Calendars
 - 2026-11-10T1033 · Umo
 - 2026-11-10T0103 · Gavivag Isle
