@@ -774,6 +774,7 @@
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again</div>
             <div class="timeline-item" data-date="871PA">Diplomacy between Qarzi and Risen Reef breaks down fully, Golomid-Elbae War begins</div>
 	         <div class="timeline-item" data-date="872PA">Gavivag War between Plašato and Cirinzel begins</div>  
+	        <div class="timeline-item" data-date="873PA">Mandate of 873 allows the Shirin of Amlija houses of worship of their own</div>  
             <div class="timeline-item" data-date="874PA">Andre of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world;<br>First Ottian Rifles are produced</div>
             <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr;<br>Gavivag War ends, Plašato holds Gavivag Isle and the Eye of Zuhur</div>
             <div class="timeline-item" data-date="876PA">Andre of Trydlew is canonized as a Saint at the Conclave of 876PA</div>

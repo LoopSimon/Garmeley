@@ -76,6 +76,39 @@ The Durenni Bihra live on the island of Durennis, where the Omnas of Lisava, Zil
 - **Durenni Learning:** Durenni Bihra gain a +2 racial bonus on Craft (alchemy), Heal and Perception checks.
 - **Languages:** Durenni Bihra begin play speaking Durenni. Durenni Bihra with high Intelligence scores can choose any bonus languages of the player's choice.
 
+## Racial feats
+
+**Jaws and Steel (Combat)**
+Bihra fighters are trained from youth to bite and claw between the strokes of their weapons.
+Prerequisites: Bihra, base attack bonus +3, a natural bite, claw, gore or tail slap attack.
+Benefit: When you make secondary natural attacks alongside manufactured weapons, you take a −3 penalty on them instead of −5.
+
+**Tail Sweep (Combat)**
+A heavy Bihra tail can take a foe's legs out from under them in the middle of a brawl.
+Prerequisites: Bihra, Str 13, Improved Unarmed Strike or a natural attack.
+Benefit: Once per round, when you hit a creature with an unarmed strike or a natural attack, you can attempt to trip that creature as a free action at a −4 penalty. This does not provoke an attack of opportunity. If the trip fails by 10 or more, you are not knocked prone in return.
+
+**Flesh Ascendant (General)**
+Your mutations grow stronger with age and battle, as the Khans say a true Bihra's should.
+Prerequisites: Steppe Bihra, at least two mutations, character level 5th.
+Benefit: Choose one mutation you have. If it grants a natural attack, the attack's damage increases by one step (1d4 to 1d6, 1d6 to 1d8). If it can be used a limited number of times per day or per combat, you can use it one additional time in that period. If it grants a racial bonus, that bonus increases by 2.
+Special: You can take this feat more than once. Each time, choose a different mutation.
+
+**Coloured Breath (General)**
+The element of your scales burns in your throat as it does in the old stories of the dragons.
+Prerequisites: Mainland Bihra, Colour-Scaled racial trait, character level 3rd.
+Benefit: Once per day as a standard action, you can breathe a 15-foot cone of the energy type your Colour-Scaled trait protects you against. It deals 1d6 points of damage of that type per two character levels (minimum 1d6), and a successful Reflex save (DC 10 + 1/2 your character level + your Constitution modifier) halves the damage. At 10th level, you can use this ability twice per day.
+
+**Mesmeric Gaze (General)**
+The stories told of Bihra eyes are true in your case.
+Prerequisites: Bihra, Cha 13, Hypnotic Eyes racial trait.
+Benefit: You can use Hypnotic Eyes three times per day. A creature fascinated by your gaze also takes a −2 penalty on Will saves against your enchantment spells and on Sense Motive checks against you until the end of your next turn after the fascination ends.
+
+**Prankabur Physician (General)**
+You trained in the medical traditions of Lisava, the most advanced in the world.
+Prerequisites: Durenni Bihra, Heal 3 ranks.
+Benefit: You can treat deadly wounds on the same creature twice per day, and creatures under your long-term care recover 2 additional hit points per character level each day. You gain a +4 bonus on Heal checks to treat poison and disease.
+
 ## Age, height and weight
 
 Lineage makes no difference to age, but it does to build. Male and female Bihra use the same table.
@@ -98,3 +131,9 @@ Lineage makes no difference to age, but it does to build. Male and female Bihra 
 
 - **Salamander Bond (Steppe):** The Bihra shares a soul with a Gnarlskin Salamander, in the western shamanic tradition. They gain a +4 racial bonus on Handle Animal and Ride checks with salamanders, and if they gain an animal companion or mount from a class feature, it can be a salamander with the statistics of a monitor lizard. This trait replaces Triumph of the Physical.
 - **Tame Blood (Mainland or Durenni):** A few Zibihra are born with a true mutation, often treated as a sign of a future shaman. The Bihra gains one mutation from the Steppe mutation list. This trait replaces Colour-Scaled for Mainland Bihra or Durenni Learning for Durenni Bihra.
+- **Hypnotic Eyes:** Some Bihra are said to hold the eyes of the old dragons, and this Bihra is one of them. Once per day as a standard action, they can fix their gaze on one creature within 30 feet that can see them. The target must succeed on a Will save (DC 10 + 1/2 the Bihra's character level + the Bihra's Charisma modifier) or be fascinated for 1d4 rounds. A creature that is in combat or threatened gains a +4 bonus on the save. While the target is fascinated, the Bihra gains a +2 racial bonus on Bluff and Diplomacy checks against it. This is a mind-affecting gaze effect. This trait replaces Spirit Tradition.
+- **Khan's Wrestler (Steppe):** The Steppe Bihra was raised on the wrestling bouts that settle quarrels in the camps of the Khaganates. They gain a +2 racial bonus on combat maneuver checks to grapple and to their CMD against grapple attempts, and can deal lethal damage with unarmed strikes without taking a penalty on the attack roll. This trait replaces Bladegrass Hide.
+- **Banded Scales (Mainland):** The Bihra's scales are banded or patched in two colours, which Mainland Bihra see as a mark of good fortune in trade. They choose two colours from the Colour-Scaled list and gain resistance 5 against both matching energy types, but the natural armor bonus from their scales stays at +1. This trait replaces Hard Scales.
+- **Raking Claws (Mainland or Durenni):** The Bihra fights with the claws of their hands rather than their jaws. They have two claw attacks that are primary natural attacks and deal 1d4 points of damage (1d3 for Durenni). This trait replaces Powerful Jaws for Mainland Bihra or Monsoon Born for Durenni Bihra.
+- **Weather-Wise:** The Bihra was raised in the weather rites at the heart of Bihra shamanism. They gain a +2 racial bonus on Survival checks and on saving throws against wind and weather effects, and can predict the weather for the next 24 hours as a free action without a check. This trait replaces Spirit Tradition.
+- **Cold-Blooded Stamina:** The Bihra's slow reptilian body endures where others falter. They can hold their breath for a number of rounds equal to four times their Constitution score, and gain a +4 racial bonus on Fortitude saves against starvation, thirst and hot environments. This trait replaces Darkvision.
