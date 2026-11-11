@@ -692,7 +692,7 @@
             <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; <br>Battle of the Storms; <br>Warlord Piri Cao, the Hungering Wave, is murdered; <br>The Forlorn Shield is forged in Ak-Saray, the last known work of its Wyrdrock masters</div>
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
-            <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin</div>
+            <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin, first proclaimed as the will of Pen Zuhur at Hastermon Temple</div>
             <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat;<br> The Ravlander explorer Balan Reyd lands on the north-eastern shores of Peadyr and founds Camp Reyd, but he and many of his men die of disease within a week and the survivors return home with a map of the north-eastern coast</div>
             <div class="timeline-item" data-date="786PA">Treaty of Leis ends the Twins War, the Archduchy of Gisvale is created for Kilean von Kor</div>
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
@@ -753,7 +753,7 @@
              <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan; <br>The Peace of Chezin ends the Period of the Bleeding Heron as Koshtir, Chezin and Rikarma make peace with Hanshi</div>
              <div class="timeline-item" data-date="850PA">"Dance of Husks" devastates urban population of Kherova and Grevenna</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts<br> Battle of the Bow</div>
-            <div class="timeline-item" data-date="852PA">Battle of the Bay</div>
+            <div class="timeline-item" data-date="852PA">Battle of the Bay;<br>Days of Ire between Hastermon Temple and Ubrut Uroš of Amlija, who is ritually blinded before being forgiven</div>
              <div class="timeline-item" data-date="853PA">1st Battle of Tears;<br> Kisras Miskomir relieves the Siege of Uhl;<br>The Keyzal Visor is first sold to the mercenaries of the Mistspire Underlands</div>
              <div class="timeline-item" data-date="854PA">"Dance of Husks" in southern Vihr and most dominantly affects Garmeley, central and southern Ur and the lands around the Stormy Sea, slowly reaches Cevolia but doesn't seem to be as effective in the northern lands.</div>
             <div class="timeline-item" data-date="855PA">Meadi forces under Warder von Inberg retake Gardhil;<br> "Dance of Husks" ravages Cevolia and reaches Sertova </div>

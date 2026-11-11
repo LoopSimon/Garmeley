@@ -1,7 +1,7 @@
+- 2026-11-11T0649 · Complete Timeline
 - 2026-11-11T0648 · Zuhurism
 - 2026-11-11T0648 · Hastermon Temple
 - 2026-11-11T0641 · Plašato
-- 2026-11-11T0633 · Complete Timeline
 - 2026-11-11T0632 · Zuhuri Holy Wars
 - 2026-11-11T0632 · Zepria
 - 2026-11-11T0632 · Twintail Imperium
