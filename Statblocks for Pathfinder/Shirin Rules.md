@@ -65,8 +65,8 @@ Benefit: You can drink a potion, elixir, extract or mutagen as a move action. On
 
 **Symmetric Casting (General)**
 Your spells take the paired form that Lakalist scholars call consonant, reaching two targets as easily as one.
-Prerequisites: Shirin, Int 13, ability to cast 3rd-level arcane spells.
-Benefit: Once per day, when you cast an arcane spell of 2nd level or lower that targets a single creature, you can have it target a second creature within range. Both targets must be within 30 feet of each other. This does not change the spell's level or casting time.
+Prerequisites: Shirin, Int 13, ability to cast 2nd-level  spells.
+Benefit: Once per day, when you cast a spell of 2nd level or lower that targets a single creature, you can have it target a second creature within range. Both targets must be within 30 feet of each other. This does not change the spell's level or casting time.
 
 **Unbroken Form (General)**
 Like many Shirin, you see healing magic as an intrusion into the body's own balance, and you heal by rest, medicine and the Lian alone.
