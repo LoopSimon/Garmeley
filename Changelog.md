@@ -198,7 +198,6 @@
 - 2026-10-25T0208 · Thandar
 - 2026-10-25T0205 · Yellow Eyed Man
 - 2026-10-24T0329 · Zheguan
-- 2026-10-24T0318 · Codex Thereticum
 - 2026-10-24T0300 · The Anak
 - 2026-10-23T2225 · Manymirror
 - 2026-10-23T2014 · The Pillars of Myan
@@ -398,3 +397,4 @@
 - 2026-10-16T2253 · Rivalt du Chian
 - 2026-10-16T2006 · Leok
 - 2026-10-16T1932 · Ralzig
+- 2026-10-16T1501 · Lizion
