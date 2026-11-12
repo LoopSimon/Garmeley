@@ -34,7 +34,7 @@
  <span><a href="Twintail Imperium" class="internal-link">Twintail Imperium</a></span>  
  </div>  
  <hr class="wiki-hr">  
- <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Tucao.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Shirin6.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 </div>  
 <p>Tucao Chuwen is an admiral of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> and the commander of the Ting Fleet, currently stationed at the Free City of <a href="Sredit" class="internal-link">Sredit</a>. One of the most illustrious members of the Nan of War and a personal appointee and loyalist of <a href="Kubil no Vang" class="internal-link">Kubil no Vang</a>, the Commander of the Southern Legions, he made his name at the Battle of Segao in 924PA and has commanded at Sredit since late 926PA. As the commander of the Shirin forces in Sredit he is inarguably the most powerful person in the city.</p>  
 <h2>The Battle of Segao</h2>  
