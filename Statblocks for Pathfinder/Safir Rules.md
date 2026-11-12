@@ -67,13 +67,63 @@ Choose one body form. Bipedal forms are most common in lineages with a long hist
 - **Serpentine:** The Safir's lower half is a long serpent body. Their base speed is 30 feet and they have a climb speed of 15 feet. They gain a +4 racial bonus to CMD against trip attempts and a +2 racial bonus on Stealth checks, but cannot wear boots or other items worn on the feet.
 - **Tail:** The Safir has arms and a massive tail in place of legs. Their base speed is 20 feet, but they gain a swim speed of 30 feet (or increase an existing swim speed by 10 feet). They gain a +4 racial bonus to CMD against trip and bull rush attempts, but cannot wear boots or other items worn on the feet.
 
-## Feats
+## Racial feats
 
 **Yari Ichor (General)**
 You have drunk the Ichor of a Yari, and the divine blood that first changed your people still works within you.
 Prerequisites: Safir, character level 3rd.
 Benefit: You gain a +2 sacred bonus on saving throws against poison and disease. Once per day, when you fail a saving throw, you can reroll it with a +2 sacred bonus and must take the second result.
 Special: If you have the Ichor-Fed racial trait, you can use Ichor-Fed one additional time per day, and its duration increases to 1 round per character level.
+
+**Ginru Oath (General)**
+You have sworn yourself to a Yari as one of its Ginru, the chosen servants who carry its word into the mortal world.
+Prerequisites: Safir, Cha 13 or Wis 13, Yari Ichor or the Ichor-Fed racial trait.
+Benefit: Choose one Yari as your patron, such as Arishi, Queen of the Moon, Ihisa, the Pale Oracle, or Aleac, the Deep Hunter. Together with the GM, choose one 1st-level spell that fits your patron's nature. You can cast it once per day as a spell-like ability, with a caster level equal to your character level. At 7th level, you can choose one 2nd-level spell that fits your patron and cast it once per day as well. If you openly act against your patron's will, you lose these abilities until the GM decides you have made amends.
+
+**Glimpse of the Yarimanji (General)**
+The Ichor in your blood grants you a flicker of the prescience of those who have absorbed a Yari whole.
+Prerequisites: Safir, Yari Ichor, character level 7th.
+Benefit: You gain uncanny dodge, as the rogue class feature. If you already have uncanny dodge, you gain improved uncanny dodge instead, treating your character level as your rogue level. Once per day, you can add a +4 insight bonus to your AC against one attack after it is declared but before the attack roll is made.
+
+**Field-Born (General)**
+You grew up under the Tageyo Field, where the planes press thin and summoned things falter, and the Field's stillness has settled into you.
+Prerequisites: Safir.
+Benefit: You gain a +2 racial bonus on saving throws against conjuration (calling), conjuration (summoning) and conjuration (teleportation) effects, and against the spells and spell-like abilities of outsiders. Summoned creatures take a −1 penalty on attack rolls against you. You gain a +2 bonus on Knowledge (planes) checks, and it is always a class skill for you.
+
+**Field Anchor (General)**
+You carry a piece of the Field's stillness with you, and can turn it against those who would bend the planes near you.
+Prerequisites: Safir, Field-Born, character level 5th.
+Benefit: Once per day as an immediate action, when a creature within 30 feet of you casts a conjuration spell or uses a conjuration spell-like ability, you can force the caster to make a concentration check (DC 15 + twice the spell's level). On a failure, the spell is lost with no effect. At 11th level, you can use this ability twice per day.
+
+**Constricting Coils (Combat)**
+Your serpent body can crush the breath out of a foe once it has them.
+Prerequisites: Safir, Str 13, Serpentine or Tail body form.
+Benefit: You gain a +2 bonus on combat maneuver checks to grapple. Whenever you successfully maintain a grapple, you deal 1d4 points of bludgeoning damage plus your Strength modifier to the creature you are grappling, in addition to any other effect you choose.
+
+**Potent Venom (General)**
+Your venom glands are larger and fouler than most.
+Prerequisites: Safir, Con 13, Serpent Venom racial trait.
+Benefit: The save DC of your Serpent Venom increases by 2. When you envenom a weapon, you can choose for the venom to deal Strength or Constitution damage instead of Dexterity damage.
+
+**Voice of Pravazik (General)**
+You were raised among the courts and ministries of the Empire, where the right words open every door.
+Prerequisites: Safir, Pravi colour group.
+Benefit: You can take 10 on Diplomacy and Knowledge (nobility) checks even when distracted or threatened. Once per day, you can reroll a failed Diplomacy or Intimidate check against a Safir and must take the second result.
+
+**Shadow of the Caves (General)**
+The dark of the caves and the desert night are home to you.
+Prerequisites: Safir, Vekti colour group.
+Benefit: The range of your darkvision increases by 30 feet. You gain a +2 bonus on Stealth checks in dim light or darkness, and can attempt Stealth checks in dim light without needing cover or concealment.
+
+**Canopy Ambusher (Combat)**
+You strike from the branches of the God Trees before your prey knows you are there.
+Prerequisites: Safir, Irud colour group, Canopy Dweller racial trait.
+Benefit: When you attack a creature that is lower than you, such as from a branch, a ledge or the end of a climb, you gain a +1 bonus on attack and damage rolls. On the first round of combat, if your target has not yet acted, this bonus increases to +2.
+
+**Deep Diver (General)**
+You have followed the reefs of the Smaragd Sea down into the dark water.
+Prerequisites: Safir, Zoroi colour group.
+Benefit: Your swim speed increases by 10 feet. You gain cold resistance 5, take no damage or penalties from water pressure at any depth, and gain a +2 bonus on Perception checks while underwater.
 
 ## Age, height and weight
 

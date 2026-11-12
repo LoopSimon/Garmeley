@@ -1,3 +1,6 @@
+- 2026-11-12T1709 · Twintail Imperium
+- 2026-11-12T1649 · Safir Rules
+- 2026-11-12T1640 · Xolor Rules
 - 2026-11-12T1625 · Wispmer Rules
 - 2026-11-12T1553 · Mogyr Rules
 - 2026-11-12T1243 · Tucao Chuwen
@@ -17,7 +20,6 @@
 - 2026-11-12T0257 · Xolor
 - 2026-11-12T0257 · Gorat
 - 2026-11-12T0256 · Red Iron Towers
-- 2026-11-12T0255 · Twintail Imperium
 - 2026-11-12T0255 · Kubil no Vang
 - 2026-11-12T0119 · Amlija
 - 2026-11-12T0119 · Plašato
@@ -49,7 +51,6 @@
 - 2026-11-09T1233 · Paqor
 - 2026-11-09T1231 · Roxeria
 - 2026-11-09T0117 · Safir
-- 2026-11-09T0117 · Safir Rules
 - 2026-11-09T0053 · Wispmer
 - 2026-11-09T0053 · Mogyr
 - 2026-11-09T0053 · Bihra
@@ -67,7 +68,6 @@
 - 2026-11-09T0021 · Majir
 - 2026-11-09T0020 · Jink
 - 2026-11-08T2331 · Ganoa Valley
-- 2026-11-08T0216 · Xolor Rules
 - 2026-11-08T0016 · Karlaz the Razor
 - 2026-11-08T0016 · Greater Aatar
 - 2026-11-08T0016 · Greater Chihim

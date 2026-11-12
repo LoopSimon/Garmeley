@@ -24,13 +24,29 @@ The <a href="Xolor" class="internal-link">Xolor</a> are a people of far-eastern 
   - Most peoples see this practice as a horror, and a Xolor seen doing it can expect to be treated as a monster.
 - **Languages:** Xolor begin play speaking Xolor. Xolor with high Intelligence scores can choose any bonus languages of the player's choice.
 
-## Feat
+## Racial feats
 
 **Flesh Remembers (General)**
 What you eat becomes part of you, a first step on the road towards the Chimera.
 Prerequisites: Con 13, Xolor, Memory Eating racial trait, character level 5th.
 Benefit: When you use Memory Eating on a creature that had darkvision, low-light vision, scent, a climb speed, a swim speed or a natural attack, you can also gain that one ability for 24 hours. A gained natural attack deals damage as normal for its kind for a Medium creature and is a secondary attack when used alongside manufactured weapons. A speed gained this way cannot be higher than your base speed.
 Special: Each time you use this feat, the GM may ask for a DC 15 Will save. On a failure, some small physical trace of the creature stays with you permanently, such as a patch of scales or a change in your voice or eyes, with no game effect.
+
+**Feast of Many (General)**
+You can keep more than one guest at your table, and their voices do not drown each other out.
+Prerequisites: Wis 13, Xolor, Memory Eating racial trait, character level 7th.
+Benefit: You can hold the memories of two creatures at once. Each meal gives its own benefits from Memory Eating, but you can only use the Instinct benefit from one of them at a time, chosen when you finish the second meal. A third meal replaces the oldest memories. You gain a +2 bonus on Will saves against Overwhelming Memories.
+
+**Bulwark of Flesh (Combat)**
+You have learned to throw your weight into a fight and let blows sink into the fat that protects you.
+Prerequisites: Con 13, Xolor, Protective Fat racial trait.
+Benefit: You gain a +2 bonus on combat maneuver checks to bull rush and overrun, and are treated as one size category larger when determining whether you can be bull rushed, overrun, grappled or tripped. Once per day, when you are hit by a critical hit or a sneak attack, you can choose to take the extra damage as nonlethal damage.
+
+**Chimeric Graft (General)**
+What you have eaten no longer leaves you when the memories fade. You have taken the first step from which no Xolor returns, and the hunger of the Chimera has begun to stir.
+Prerequisites: Con 15, Xolor, Flesh Remembers, character level 9th.
+Benefit: Choose one ability you have gained through Flesh Remembers while holding a creature's memories. That ability becomes a permanent part of your body and stays when the memories fade. Your body changes visibly to match, with new eyes, scales, gills, claws or similar features, and most peoples will see you as a monster.
+Special: You can take this feat more than once, choosing a different ability each time. From the moment you first take it, you hunger for the flesh of thinking creatures. If you go more than seven days without using Memory Eating, you become fatigued until you do. Each additional time you take this feat, this period is reduced by two days (to a minimum of one day), and you take a cumulative −2 penalty on Diplomacy checks with creatures that are not Xolor. A Xolor who has taken this feat three or more times is a Chimera, and the GM may decide that further changes to their body and mind take place.
 
 ## Age, height and weight
 
@@ -51,5 +67,5 @@ Male and female Xolor use the same table.
 ## Alternate racial traits
 
 - **Abstainer:** The Xolor refuses to eat the flesh of thinking creatures, whether from conviction, fear of becoming a Chimera or a wish to live among other peoples. They gain a +2 racial bonus on Diplomacy checks with non-Xolor and on saving throws against effects that cause hunger, nausea or compulsion. This trait replaces Memory Eating.
-- **Pervanti Feaster:** The Xolor was raised in the meat cult of Pervantes, which joins the Vas Ira with the memory feast. While holding a creature's memories through Memory Eating, they also gain a +1 morale bonus on Will saves and cast divine spells at +1 caster level. This trait replaces Darkvision.
+- **Pervanti Feaster:** The Xolor was raised in the meat cult of Pervantes, which joins the Vas Ira with the memory feast. While holding a creature's memories through Memory Eating, they also gain a +1 morale bonus on Will saves. In addition, a Pervanti Feaster who can cast divine spells gains one additional divine spell slot per day, of any level they can cast up to 3rd level. They can use this slot to prepare or cast a spell as normal for their class, and it is lost when the memories fade. This trait replaces Darkvision.
 - **Starwatcher:** The Xolor keeps the old star worship of Vanpur and steers by the night sky. They gain a +2 racial bonus on Knowledge (geography) and Survival checks, and can always find true north on a night when the stars are visible. This trait replaces Islander.

@@ -48,6 +48,9 @@
 <small><i>see <a href="Rulers of the Shirin" class="internal-link">The Rulers of the Shirin</a></i></small>
 <h2>Geography</h2>
 <p>The Imperium stretches from the far lands of <a href="Jorvistan" class="internal-link">Jorvistan</a> and <a href="Girdineux" class="internal-link">Girdineux</a> in the west, along the Trejor and Mondi Rivers all the Way to the Gavivag Bay in central Nirydia. The Country is dominated by its extensive and densely populated alluvial plains and the Mondi delta itself. The local climate is dominantly temperate without dry seasons, and rather hot summers.</p>
+<iframe src="https://flanz1.github.io/world-globe-embed/v/aerthos/?region=twintailborder&amp;view=globe"
+        width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
+        loading="lazy" allow="fullscreen" title="twintailborder (Aerthos)"></iframe>
 <h2>Economy</h2>
 <p>The Twintail Imperium's economy is best understood as a hydraulic agrarian Empire whose wealth originates in the management of river fed agricultural land, and whose political structure is organized around extracting and redistributing that agricultural surplus. Its commercial and manufacturing sectors are substantial but ultimately secondary to this agrarian foundation. It is wealthy, densely populated and institutionally sophisticated, but its fundamental vulnerability will always be a sustained disruption to agricultural production.</p>
 
