@@ -10,7 +10,7 @@
 %%
 
 <p>Kethricism is the dominant faith of the <a href="Kherova" class="internal-link">Khatrym of Kherova</a> and the <a href="Azuvke" class="internal-link">Principality of Azuvke</a>, and one of the three major denominations of the Gethric faith alongside High Gethricism and Trinicism. It is headed by the Patriarch of Kherova, currently Viktrik I, whose seat is in the city of Kher. The Patriarch of Azuvke leads a separate but closely aligned Kethric see. Unlike the Church of Iztaw, whose authority extends across much of the known world, and Trinicism, which has spread through Meadland, Urland and Cevolia, Kethricism is almost entirely regional as its geography is defined by the Kheri peoples, their dwarven neighbours, and the communities that have grown from centuries of their shared life. What it lacks in geographic reach it possesses in theological depth and cultural rootedness: Kethricism is not a faith imposed on the Kheri but one that grew from within them, shaped by their history, their traumas, and their particular understanding of what the divine asks of a person.</p>
-<iframe src="https://flanz1.github.io/world-globe-embed/v/aerthos/?region=kethregion&amp;view=globe"
+<iframe src="https://flanz1.github.io/world-globe-embed/v/inara/?region=kethregion&amp;view=globe"
         width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
         loading="lazy" allow="fullscreen" title="kethregion (Aerthos)"></iframe>
         

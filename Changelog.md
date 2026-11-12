@@ -1,4 +1,6 @@
-- 2026-11-12T1724 · Twintail Imperium
+- 2026-11-12T1726 · Kethricism
+- 2026-11-12T1726 · Welcome
+- 2026-11-12T1725 · Twintail Imperium
 - 2026-11-12T1649 · Safir Rules
 - 2026-11-12T1640 · Xolor Rules
 - 2026-11-12T1625 · Wispmer Rules
@@ -23,7 +25,6 @@
 - 2026-11-12T0255 · Kubil no Vang
 - 2026-11-12T0119 · Amlija
 - 2026-11-12T0119 · Plašato
-- 2026-11-11T2259 · Kethricism
 - 2026-11-11T1626 · Vanpur Pepper Trade
 - 2026-11-11T1519 · Bihra Rules
 - 2026-11-11T0653 · Shirin Rules
@@ -108,7 +109,6 @@
 - 2026-11-04T0140 · Yaalwe
 - 2026-11-03T1113 · Zurán Barbeshvili
 - 2026-11-03T0111 · Tizin-Kol
-- 2026-11-02T1739 · Welcome
 - 2026-11-02T1604 · Mamus Rolim
 - 2026-11-02T1601 · Magda Bazena Nib
 - 2026-11-02T1453 · Crisis of the Untouched

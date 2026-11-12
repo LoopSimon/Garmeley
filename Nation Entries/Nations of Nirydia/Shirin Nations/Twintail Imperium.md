@@ -48,7 +48,7 @@
 <small><i>see <a href="Rulers of the Shirin" class="internal-link">The Rulers of the Shirin</a></i></small>
 <h2>Geography</h2>
 <p>The Imperium stretches from the far lands of <a href="Jorvistan" class="internal-link">Jorvistan</a> and <a href="Girdineux" class="internal-link">Girdineux</a> in the west, along the Trejor and Mondi Rivers all the Way to the Gavivag Bay in central Nirydia. The Country is dominated by its extensive and densely populated alluvial plains and the Mondi delta itself. The local climate is dominantly temperate without dry seasons, and rather hot summers. The extremely arable lands of the Mondi River are full of rice fields and the temperate climate of the Bay and Riverlands have allowed the Imperium to grow and maintain a population in the tens of millions. To the south-west of the Imperium, between the heartland and the Niryd Steppe, stand the famous <a href="Red Iron Towers" class="internal-link">Red Iron Towers</a> and between them the massive military fortifications of the shirin, erected against the ever present danger  the Bihra Khans of the Bladegrass Steppe pose .</p>
-<iframe src="https://flanz1.github.io/world-globe-embed/v/aerthos/?region=twintailborder&amp;view=globe"
+<iframe src="https://flanz1.github.io/world-globe-embed/v/inara/?region=twintailborder&amp;view=globe"
         width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
         loading="lazy" allow="fullscreen" title="twintailborder (Aerthos)"></iframe>
 <h2>Economy</h2>
