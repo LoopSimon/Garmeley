@@ -1,3 +1,4 @@
+- 2026-11-12T1553 · Mogyr Rules
 - 2026-11-12T1243 · Tucao Chuwen
 - 2026-11-12T1219 · Complete Timeline
 - 2026-11-12T1219 · Gorati
@@ -66,7 +67,6 @@
 - 2026-11-09T0021 · Majir
 - 2026-11-09T0020 · Jink
 - 2026-11-08T2331 · Ganoa Valley
-- 2026-11-08T1259 · Mogyr Rules
 - 2026-11-08T0216 · Xolor Rules
 - 2026-11-08T0016 · Karlaz the Razor
 - 2026-11-08T0016 · Greater Aatar
