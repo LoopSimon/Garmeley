@@ -394,7 +394,7 @@
             <div class="timeline-item" data-date="321PA">Death and Awakening of the last Paragon, Irimaa Anhur</div>
             <div class="timeline-item" data-date="323PA">The Alliance of the Old Moon grows</div>
             <div class="timeline-item" data-date="324PA">Arester betrays Kerleas and lays siege to Gullspire</div>
-            <div class="timeline-item" data-date="325PA">The comets of the Tis return and are seen over the following years, the years in which Ralzig writes the Ordered Heavens; <br>First mention of the united Ruginë Principality</div>
+            <div class="timeline-item" data-date="325PA">The comets of the Tis return and are seen over the following years, the years in which Ralzig writes the Ordered Heavens; <br>Tar-Rugin unites the Northern Opmani and begins the construction of Proske, first mention of the united Ruginë Principality</div>
             <div class="timeline-item" data-date="327PA">The United Forces of Arester and Urland conquer Kerleas, Kerlan nobility and resistance flees into the southern  Wilderness</div>
             <div class="timeline-item" data-date="328PA">Ralzig, a Gethric Minister, writes the Ordered Heavens, the Globus-centred Cosmology that will hold the schools of the west for nearly six centuries</div>
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
@@ -786,7 +786,7 @@
              <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal;<br>Lady Eleanor Grig leads a Spurshey expedition through the Spring Sea and discovers Grigs Landing and the Loreli Islands;<br>Mamus Rolim is assassinated, the Crisis of the Untouched ends</div>
             <div class="timeline-item" data-date="883PA">2nd War of the Gryphon Begins;<br> Battle at Garlin;<br>Gisela III the Kind becomes Queen of Meadrath</div>
              <div class="timeline-item" data-date="884PA">The Great Hanshi's Divine Edict outlaws the Pillars of Myan and founds the School of Chorol</div>
-            <div class="timeline-item" data-date="885PA">Bruša gains Independence</div>
+            <div class="timeline-item" data-date="885PA">Bruša gains Independence from Dišela in the Emancipation, after five Duždi of Dišela are assassinated within a single year in the Bleeding of the Shark</div>
 			 <div class="timeline-item" data-date="886PA">The Gryphpons League takes Merbridge;<br>Magda Bazena Nib becomes Chair of the Council of Tizin-Kol</div>
             <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge;<br> Battle of the Lost Crowns;<br>Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br>End of the 2nd War of the Gryphon</div>
@@ -831,9 +831,9 @@
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World</div>
             <div class="timeline-item" data-date="922PA">Mini Campaign 1: Death of Duchess Agnes of Garmeley;<br> Mini Campaign 2: Fairriver Incident;<br> Dwarven Invasion of Yokosch</div>
              <div class="timeline-item" data-date="923PA">Campaign 1: The Chestbearers;<br> Mossbrook Affair;<br>Niedrest Incident;<br>Garmish Civil War breaks out;<br>Lady Regia of Forrington is taken hostage by the Green Banner League;<br>Siege of Dolm begins;<br>The Keyzal Workshop creates the Keyzal 21</div>
-            <div class="timeline-item" data-date="924PA">The Voyage of the Cylla and discovery of Sirenna;<br> Sack of Sunminster; <br>Dwarven Invasion of Yokosch fails</div>
+            <div class="timeline-item" data-date="924PA">The Voyage of the Cylla and discovery of Sirenna;<br> Sack of Sunminster; <br>Dwarven Invasion of Yokosch fails;<br>Battle of Segao, Admiral Tucao Chuwen defeats the Manyfingers</div>
             <div class="timeline-item" data-date="925PA">Rylla is captured by Lord Eric Zallon of Almersport and taken to the Old World, where she is burned alive in Karsord; the Odise take up arms as a whole against Almersport;<br>Battle of Jestrick Fields;<br>Kherova condemns the Trinvale Republic and backs the Green Banner League;<br> Entusul Uprising is put down by Emir Zazir Brahmis;<br>Korman van Schipwig, Rector of Reanport University, falls to his death from the Cloud Tower;<br>The Church of Iztaw proclaims the use of firearms in the cause of the Candleflame just and right</div>
-            <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment;<br> International Intervention in the Garmish Civil War;<br>Battle of Lanfield;<br>Siege of Dolm ends;<br>Siege of Redflow Keep begins;<br>The pirate Kylian Juz seizes a cevoli ship carrying Narzoi slaves half a day out of Alinanora</div>
+            <div class="timeline-item" data-date="926PA">Di Pora Revolution in Academic Circles begins as Wermian accords are largely questioned by the Trinicist Establishment;<br> International Intervention in the Garmish Civil War;<br>Battle of Lanfield;<br>Siege of Dolm ends;<br>Siege of Redflow Keep begins;<br>The pirate Kylian Juz seizes a cevoli ship carrying Narzoi slaves half a day out of Alinanora;<br>Admiral Tucao Chuwen and the Ting Fleet arrive at Sredit</div>
             <div class="timeline-item" data-date="927PA">Campaign 2;<br> Hynek of Forrington is assassinated;<br>Slaughter of Karolrest;<br>Standoff at Dimrods Shrine;<br>The 927 Falcons Flight tournament season</div>
         </div>
     </div>

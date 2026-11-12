@@ -1,7 +1,8 @@
 %%
 [[The Amanita Cartel]]
 [[Kareli Hierarchy]]
-[[Plašato]]
+[[Amlija]]
+[[Ruginë]]
 [[Grand Ziflis Company]]
 [[Nine Great Guilds]]
 %%

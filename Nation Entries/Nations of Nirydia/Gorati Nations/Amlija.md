@@ -37,7 +37,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span>Gorati <a href="Human" class="internal-link">Human</a></span>  
+ <span><a href="Gorati" class="internal-link">Buzinci</a> <a href="Human" class="internal-link">Human</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  

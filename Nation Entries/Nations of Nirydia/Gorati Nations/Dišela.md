@@ -1,7 +1,6 @@
 %%  
 [[Zuhurism]]   
 [[Gorat]]   
-[[Gorati]]   
 [[Zepria]]   
 [[Amlija]]   
 [[Plašato]]   
@@ -37,7 +36,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span>Gorati <a href="Human" class="internal-link">Human</a></span>  
+ <span><a href="Gorati" class="internal-link">Gorati</a> <a href="Human" class="internal-link">Human</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  
@@ -59,7 +58,7 @@
 <p>Almost all of the great towns and population centres of Dišela lie on Zelarvo, the island across the Strait of Zelarvo from the Gorati mainland. Besides the capital Diprije, the island holds the old port of Kroz, which together with Malvic on the mainland once formed the heart of the Malvic League. South-east of Zelarvo lies the small island of Itka, whose mine yields great amounts of tin for the Republic. Beyond these the Republic holds islands and trading posts throughout the Gavivag Bay, the Gorati Sea, the Vanpur Ocean and the Pepper Islands, which serve its fleets as harbours along the Pepper Road.</p>  
 <h2>History</h2>  
 <p>Long before the Empire, the trade through the Strait of Zelarvo was controlled by the Malvic League, an alliance of merchant cities whose greatest members were Malvic on the mainland and Kroz on Zelarvo. In the 5th century PA the League was subjugated by King Morac of Zepria, the father of <a href="Suzana Dragović" class="internal-link">Suzana Dragović</a>, and its cities became part of the <a href="Zepria" class="internal-link">Zeprian Empire</a>, under which the merchants of Zelarvo grew rich on the trade of the bay.</p>  
-<p>When the Empire fell in 767PA the great merchant houses of Zelarvo took power over the island and founded the Republic. For more than a century Dišela kept itself apart from the rivalry of <a href="Amlija" class="internal-link">Amlija</a> and <a href="Plašato" class="internal-link">Plašato</a> and grew into the foremost sea power of Gorat. Its fortunes turned in the 880s, when the city of <a href="Bruša" class="internal-link">Bruša</a> on Sgar Isle, a subject of the Republic since its founding by refugees of the Empire, rose against Diprije with the support of Amlija and won its freedom in 885PA. The loss of Bruša, which commands the passage from the Gorati Sea to the Vanpur Ocean and the route by which spices reach Amlija and the Velvet Road, marked the beginning of the Republic's decline, and Dišela has held a firmly anti-Amlijan stance ever since.</p>  
+<p>When the Empire fell in 767PA the great merchant houses of Zelarvo took power over the island and founded the Republic. For more than a century Dišela kept itself apart from the rivalry of <a href="Amlija" class="internal-link">Amlija</a> and <a href="Plašato" class="internal-link">Plašato</a> and grew into the foremost sea power of Gorat. Its fortunes turned in the 880s, when the city of <a href="Bruša" class="internal-link">Bruša</a> on Sgar Isle, which had been founded by anti-imperial dissidents in the time of the Empire, had grown into a port on the investment of Diprije and had been claimed by the Republic in 767PA, rose against Diprije with the support of Amlija. During the revolt five Duždi were assassinated within a single year, a period known as the Bleeding of the Shark, and Bruša won its freedom in 885PA. The loss of Bruša, which commands the passage from the Gorati Sea to the Vanpur Ocean and the route by which spices reach Amlija and the Velvet Road, marked the beginning of the Republic's decline, and Dišela has held a firmly anti-Amlijan stance ever since.</p>  
 <h2>Government</h2>  
 <p>Dišela is ruled by the Five Families, the patrician houses of Vranjić, Kaštelan, Sanfelice, Loscalzo and Gradić, together with a wider circle of lesser patrician families whose names are inscribed in the Golden Book of Diprije. All adult men of these houses sit in the Great Council, the sovereign body of the Republic, which elects the magistrates and votes on the laws. At the head of the state stands the Dužd, who is elected for life by the Great Council through a long sequence of ballots and drawings of lots meant to prevent any one family from buying the office. The Dužd presides over the councils and represents the Republic abroad, but is bound by an oath sworn on election that limits the powers of the office, and can do nothing without the Minor Council, in which each of the Five Families holds one seat. The security of the state lies with the Quiet Council, a small and secretive body elected from the Great Council that watches over conspiracies, foreign agents and the conduct of the patricians themselves.</p>  
 <p>The current Dužd is Ottavio Sanfelice. Although the Five Families share the rule of the Republic, they compete fiercely with one another for office, trade and the command of the fleet, and the loss of Bruša left a lasting rift between the houses over who was to blame.</p>  

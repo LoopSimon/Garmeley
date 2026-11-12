@@ -1,6 +1,7 @@
 %%
 [[Twintail Imperium]]
-[[Intelligent Races/Shirin]]
+[[Tucao Chuwen]]
+[[Shirin]]
 [[Lakalism]]
 [[Niryd Steppe]]
 %%
@@ -59,3 +60,4 @@
 <p>Kubils campaign of 914PA drove Tuchewa forces progressively southward over several months of sustained pressure, leveraging his superior logistical preparation to maintain operational tempo through terrain and weather conditions that had defeated previous punitive expeditions. The decisive engagement at the Amethyst Caverns, a complex of mineral caves in the southern steppe margin that Tuchewa Khan had chosen as a defensible last position, was concluded in a single day of fighting that left the Khaganates military leadership either dead or captured and its political structure effectively dissolved. Kubil's decision to offer generous terms to the surviving Tuchewa population rather than pursue further destruction has been variously praised as wise and criticized by more hawkish elements within the Nan of War as an unnecessary restraint that left the door open to future reorganization of Tuchewa identity under a new Khan.</p>
 
 <p>In 923PA this criticism has not been vindicated. The former Tuchewa territories remain pacified, and Kubil no Vang commands the Tower line from his headquarters at the 4th Tower with a combination of personal authority and institutional standing that makes him one of the most powerful Shirin alive outside the palace administration itself.</p>
+<p>Kubil's patronage extends beyond the Tower line. Among his most prominent protégés is Admiral <a href="Tucao Chuwen" class="internal-link">Tucao Chuwen</a>, the victor of the Battle of Segao in 924PA, whom Kubil personally appointed and who since late 926PA has commanded the Ting Fleet and the cohorts of the 5th Legion stationed at the Free City of <a href="Sredit" class="internal-link">Sredit</a>.</p>
