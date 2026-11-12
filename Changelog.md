@@ -1,3 +1,4 @@
+- 2026-11-12T1625 · Wispmer Rules
 - 2026-11-12T1553 · Mogyr Rules
 - 2026-11-12T1243 · Tucao Chuwen
 - 2026-11-12T1219 · Complete Timeline
@@ -53,7 +54,6 @@
 - 2026-11-09T0053 · Mogyr
 - 2026-11-09T0053 · Bihra
 - 2026-11-09T0053 · Shirin
-- 2026-11-09T0052 · Wispmer Rules
 - 2026-11-09T0025 · Azuvke
 - 2026-11-09T0024 · Para
 - 2026-11-09T0024 · Ganoan Dye
