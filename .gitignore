@@ -1,4 +1,16 @@
-.obsidian/workspace
+# Per-user UI state (changes constantly, causes conflicts)
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Caches and trash
 .obsidian/cache
 .trash/
+
+# Obsidian Git plugin's local data
+.obsidian/plugins/obsidian-git/data.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
