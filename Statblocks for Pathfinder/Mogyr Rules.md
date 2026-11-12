@@ -39,6 +39,43 @@ A Mogyr's shroom passes from parent to child, so each type of shroom marks one o
 
 A Mogyr can lose their shroom as punishment for grave crimes or through magic that ends the bond. A shroomless Mogyr loses Fungal Symbiosis, Bonded Shroom and Shroom-Boost, and is shunned by almost all other Mogyri. A new shroom can only be bonded if someone is willing to give up part of their own.
 
+## Racial feats
+
+**Deep Reservoir (General)**
+Your shroom has grown large and stores far more than most.
+Prerequisites: Mogyr, Con 13, Shroom-Boost racial trait, character level 7th.
+Benefit: You can use Shroom-Boost one additional time per day.
+
+**Lingering Rush (General)**
+The outpouring of your shroom ebbs away slowly rather than all at once.
+Prerequisites: Mogyr, Shroom-Boost racial trait, character level 3rd.
+Benefit: Your Shroom-Boost lasts 3 additional rounds. When it ends, you gain a +2 bonus on your next saving throw against fatigue or exhaustion made before the end of your next turn.
+
+**Clear Rush (General)**
+Years of Tsurigist meditation let you ride the visions of your shroom instead of being ridden by them.
+Prerequisites: Mogyr, Wis 13, Shroom-Boost racial trait.
+Benefit: You no longer take the −2 penalty on Perception checks and on saving throws against illusions during a Shroom-Boost. Instead, you gain a +2 bonus on saving throws against illusions while it lasts.
+
+**Spore Veil (General)**
+When your shroom wakes, it fills the air around you with a drifting haze of spores.
+Prerequisites: Mogyr, Shroom-Boost racial trait, character level 5th.
+Benefit: When you start a Shroom-Boost, you can release a 10-foot-radius cloud of spores centred on you that lasts for the duration of the boost, or until a strong wind disperses it. Creatures within the cloud, other than you, have concealment (20% miss chance). The cloud does not move with you.
+
+**Shared Rush (General)**
+As your people give part of their shroom to their children, you can share its strength with those you trust.
+Prerequisites: Mogyr, Shroom-Boost racial trait, character level 3rd.
+Benefit: Once per day when you start a Shroom-Boost, you can touch one willing adjacent ally as a free action. That ally gains the +2 racial bonus to Strength from your Shroom-Boost, and the same −2 penalty on Perception checks and on saving throws against illusions, for as long as your boost lasts. The ally does not gain the effect of your shroom type.
+
+**Bounding Charge (Combat)**
+You close the distance on all fours and rise to strike at the last moment.
+Prerequisites: Mogyr, Dex 13, All Fours racial trait.
+Benefit: You can drop to all fours as a swift action instead of a move action. When you charge while on all fours, you can stand up and draw a light or one-handed weapon as part of the charge, and use your all-fours speed for the charge.
+
+**Drizan Spear Tradition (Combat)**
+The tall Mogyri of Drizan have long fought with spears, lances and polearms, holding foes at the end of their reach.
+Prerequisites: Mogyr, base attack bonus +1, proficiency with at least one spear, lance or polearm.
+Benefit: You gain a +1 bonus on attack rolls with spears, lances and polearms. When you make an attack of opportunity with one of these weapons against a creature that enters a square you threaten, you gain a +2 bonus on the damage roll. During a Shroom-Boost, this damage bonus increases to +4.
+
 ## Age, height and weight
 
 Male and female Mogyri use the same table. Height is measured standing upright.
