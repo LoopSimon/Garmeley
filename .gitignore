@@ -1,16 +1,11 @@
-# Per-user UI state (changes constantly, causes conflicts)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/workspaces.json
+# All Obsidian settings stay per-person (appearance.json, plugins, workspace)
+.obsidian/
 
-# Caches and trash
-.obsidian/cache
+# Trash
 .trash/
-
-# Obsidian Git plugin's local data
-.obsidian/plugins/obsidian-git/data.json
 
 # OS junk
 .DS_Store
 Thumbs.db
 desktop.ini
+.directory
