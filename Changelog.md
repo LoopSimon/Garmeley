@@ -1,3 +1,4 @@
+- 2026-11-13T0149 · Gethricism
 - 2026-11-13T0142 · Kethricism
 - 2026-11-13T0138 · Welcome
 - 2026-11-13T0134 · Diarism
@@ -191,7 +192,6 @@
 - 2026-11-13T0114 · Dorian
 - 2026-11-13T0114 · The Incursion
 - 2026-11-13T0114 · Razmyrism
-- 2026-11-13T0114 · Gethricism
 - 2026-11-13T0114 · Gethricism in the New World
 - 2026-11-13T0114 · Kaarminism
 - 2026-11-13T0114 · Faigin
