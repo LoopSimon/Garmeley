@@ -10,6 +10,7 @@
 [[Trydlew]]
 [[Gethric Pogroms]]
 [[Ravenleaf Forest]]
+[[The Great Schism]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Rascy zi Vihr</h4>

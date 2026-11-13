@@ -5,6 +5,7 @@
 [[Nuv Werm]]
 [[Lyandra]]
 [[Gethric Pogroms]]
+[[The Great Schism]]
 %%
 <div class="wiki-infobox">
  <h4 class="wiki-header">Order of the Silver Wheel</h4>
@@ -39,7 +40,7 @@
 <h2>History</h2>
 <p>In the early days of Gethricism these warrior monks guarded the roads from Urland to Iztaw, their Paladins bearing great silver wheels to smite any daemonic aberration that might still lurk in the Desolation of Wermia. Saint <a href="Lyandra" class="internal-link">Lyandra of Fairriver</a> served as a Knight of the Silver Wheel in the 7th century.</p>
 <p>Although the order is independent of the Vihri throne in Zavlech, it is sponsored by and closely tied to the High-Bisop of Iztaw, and in past ages it has raised its banner in political wars such as the Wars of Elbae Aggression, in which it fought on the side of the Gethric Alliance.</p>
-<p>Ahead of the Great Schism of 764PA, the order attempted to dissolve the Conclave at Trinfurt by force and was met in arms by local heroes and the forces of the Meadi king. Its failure, and the split of the faith that followed, have left the order with far less influence on the world stage in the modern age.</p>
+<p>Ahead of the <a href="The Great Schism" class="internal-link">Great Schism</a> of 764PA, the order, led by its Grand Master Vaskor zi Myrg, attempted to dissolve the Conclave at Trinfurt by force and was met in arms by local heroes and the forces of the Meadi queen.. Its failure, and the split of the faith that followed, have left the order with far less influence on the world stage in the modern age.</p>
 <h2>The Order Today</h2>
 <p>The holy mandate of the order is still the protection of the Pilgrims Path through Wermia, but many knights of the Silver Wheel roam the lands of the Ilrakhani and Vihir subcontinents in search of daemons and heretics, and often come into conflict with local authorities and magistrates in doing so.</p>
 <p>Racial prejudice and radical Gethricism remain present within the order to this day. Many doubt its self-described holy and good motives and see it as little more than a band of roaming strongmen seeking a way to rebuild their lost power and glory.</p>
