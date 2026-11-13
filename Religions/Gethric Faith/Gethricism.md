@@ -1,14 +1,24 @@
-For the Church, its hierarchies and organisation, see: [[Church of Iztaw]]
-For the worldly Realm of Iztaw, governed by the Church under the Ras of Vihr, see: [[Iztaw]]
-For the events leading up to the creation of the Church and the founding of the Faith, 
-see: [[The Incursion]].
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/GethricBurialRite.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Painting of a Gethric Wake</i></small>
 </div>
 
+For the Church, its hierarchies and organisation, see: [[Church of Iztaw]]
+For the worldly Realm of Iztaw, governed by the Church under the Ras of Vihr, see: [[Iztaw]]
+For the events leading up to the creation of the Church and the founding of the Faith, 
+see: [[The Incursion]].
+
+
 The dominant Faith in Ilrakhan, Gethricist Practice is founded on the writings of Gethric's Companions, the Church fathers, of whom some are revered as Saints. It is split into three major denominations, Gethricism, also known as High-Gethricism, [[Kethricism]] and [[Trinicism]].
 Important Holidays include the Silver Procession, a week of celebrations held in the first month of the year and the Day of the Prophet, which is celebrated at the end of Summer.
+
+
 The different denominations of the Gethric Faith worship many Saints, statues of these are widespread among all denominations, although most prominently venerated in Kherova.
+
+<iframe src="https://editor.garmeley.com/v/inara/?region=gethricism&amp;view=flat"
+        width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
+        loading="lazy" allow="fullscreen" title="gethricism (Inara)"></iframe>
+ <small><i> The Spread of the gethric Faith by 927PA</i></small>
+
 
 ### Central Belief
 
