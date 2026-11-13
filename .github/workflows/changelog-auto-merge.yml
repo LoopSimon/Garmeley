@@ -31,7 +31,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           before="$(git rev-parse HEAD)"
-          .github/scripts/sync_pr_branch.sh
+          bash .github/scripts/sync_pr_branch.sh
           if [ "$(git rev-parse HEAD)" != "$before" ]; then
             git push origin "HEAD:refs/heads/$HEAD_REF"
           fi
