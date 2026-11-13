@@ -1,5 +1,6 @@
-# All Obsidian settings stay per-person (appearance.json, plugins, workspace)
-.obsidian/
+# Obsidian settings stay per-person, except CSS snippets
+.obsidian/*
+!.obsidian/snippets/
 
 # Trash
 .trash/
