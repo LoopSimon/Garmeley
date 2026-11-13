@@ -1,7 +1,8 @@
+- 2026-11-13T1121 · Welcome
+- 2026-11-13T1121 · Kethricism
 - 2026-11-13T0218 · Gethric
 - 2026-11-13T0217 · Gethricism
 - 2026-11-13T0216 · Complete Timeline
-- 2026-11-13T0215 · Kethricism
 - 2026-11-13T0215 · Diarism
 - 2026-11-13T0215 · Razmyr
 - 2026-11-13T0214 · Razmyrism
@@ -21,7 +22,6 @@
 - 2026-11-13T0207 · Kherovan Inquisition
 - 2026-11-13T0206 · Church of Iztaw
 - 2026-11-12T2254 · Twintail Imperium
-- 2026-11-12T1726 · Welcome
 - 2026-11-12T1649 · Safir Rules
 - 2026-11-12T1640 · Xolor Rules
 - 2026-11-12T1625 · Wispmer Rules

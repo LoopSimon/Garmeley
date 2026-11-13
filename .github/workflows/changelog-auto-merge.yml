@@ -1,0 +1,37 @@
+name: Auto-resolve changelog conflicts
+
+# Keeps PR branches mergeable: merges the PR's base branch into the PR branch and, if the only
+# conflict is Changelog.md, combines both sides' entries (newest first).
+# Any other conflict fails the job so a human resolves it.
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+permissions: {}
+
+jobs:
+  pr:
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: changelog-sync-${{ github.event.pull_request.head.ref }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+      - name: Sync branch with main
+        env:
+          HEAD_REF: ${{ github.event.pull_request.head.ref }}
+          BASE_BRANCH: ${{ github.event.pull_request.base.ref }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          before="$(git rev-parse HEAD)"
+          bash .github/scripts/sync_pr_branch.sh
+          if [ "$(git rev-parse HEAD)" != "$before" ]; then
+            git push origin "HEAD:refs/heads/$HEAD_REF"
+          fi
