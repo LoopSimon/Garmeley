@@ -1,22 +1,35 @@
+- 2026-11-13T1220 · Berengar
+- 2026-11-13T1220 · Ralond
+- 2026-11-13T1219 · Fellows of the Dancing Flame
+- 2026-11-13T1218 · Complete Timeline
+- 2026-11-13T1204 · Andre
+- 2026-11-13T1204 · Fredric
+- 2026-11-13T1204 · Yahrwick
+- 2026-11-13T1204 · Kifrir
+- 2026-11-13T1204 · Lyandra
+- 2026-11-13T1204 · Dorian
+- 2026-11-13T1203 · Yelena
+- 2026-11-13T1203 · Kasimir
+- 2026-11-13T1203 · Palus
+- 2026-11-13T1203 · Tytus
+- 2026-11-13T1203 · Igor
+- 2026-11-13T1203 · Vazena
+- 2026-11-13T1202 · Tronos
+- 2026-11-13T1202 · Melmer
+- 2026-11-13T1202 · Razmyr
+- 2026-11-13T1202 · Volboris
 - 2026-11-13T1126 · Gethricism
 - 2026-11-13T1124 · Kethricism
 - 2026-11-13T1123 · Welcome
 - 2026-11-13T0218 · Gethric
-- 2026-11-13T0216 · Complete Timeline
 - 2026-11-13T0215 · Diarism
-- 2026-11-13T0215 · Razmyr
 - 2026-11-13T0214 · Razmyrism
-- 2026-11-13T0214 · Lyandra
 - 2026-11-13T0214 · The Incursion
 - 2026-11-13T0213 · Luca
 - 2026-11-13T0212 · Adzul I
 - 2026-11-13T0211 · Wermian Accords
 - 2026-11-13T0210 · Sisterhood of the Morning
 - 2026-11-13T0210 · Opuzna
-- 2026-11-13T0209 · Dorian
-- 2026-11-13T0209 · Yelena
-- 2026-11-13T0209 · Tytus
-- 2026-11-13T0209 · Palus
 - 2026-11-13T0208 · Order of the Silver Wheel
 - 2026-11-13T0207 · Trinicism
 - 2026-11-13T0207 · Kherovan Inquisition
@@ -199,7 +212,6 @@
 - 2026-10-27T1403 · Moira I
 - 2026-10-27T1259 · 90 Days War
 - 2026-10-27T0442 · Nestor IX
-- 2026-10-27T0441 · Andre
 - 2026-10-27T0441 · Kabernos
 - 2026-10-27T0440 · Gisvale
 - 2026-10-27T0440 · Gelmsburg Circle
@@ -361,7 +373,6 @@
 - 2026-10-19T0058 · Karrod
 - 2026-10-19T0058 · Urden
 - 2026-10-19T0018 · Alfin I
-- 2026-10-18T1837 · Yahrwick
 - 2026-10-18T1836 · Torvald I
 - 2026-10-18T1836 · Korsfall College
 - 2026-10-18T1836 · Trinmo
@@ -387,14 +398,3 @@
 - 2026-10-18T0350 · Ivanova Orin
 - 2026-10-18T0350 · Kylian Juz
 - 2026-10-18T0347 · Pieter van Dielen
-- 2026-10-18T0253 · Jan van de Spiegel
-- 2026-10-18T0109 · Sigil
-- 2026-10-18T0107 · Shymon Epios
-- 2026-10-18T0057 · Seal of Epios
-- 2026-10-18T0030 · Treaty of Lotsprings
-- 2026-10-18T0029 · Weisch
-- 2026-10-18T0023 · Kaspar Vasser
-- 2026-10-18T0021 · Baeling Empire
-- 2026-10-18T0019 · Gesellschaft für Westmeadischen Handel
-- 2026-10-18T0019 · Meadhavn
-- 2026-10-18T0018 · Mear

@@ -348,8 +348,8 @@
             <div class="timeline-item" data-date="226PA">2nd Wermian Incursion</div>
             <div class="timeline-item" data-date="237PA">Danbry Warlord Caelmer declares himself the first King of Spursley</div>
             <div class="timeline-item" data-date="238PA">Azuvke conquers Uzra Vol, end of the Empire of Vol</div>
-            <div class="timeline-item" data-date="240PA">Founding of the Gethric Church</div>
-            <div class="timeline-item" data-date="241PA">Viago I "Firespear" proclaims the Kingdom of Vihr;<br> Vihri Wars of Unification begin</div>
+            <div class="timeline-item" data-date="240PA">End of the 2nd Wermian Incursion;<br> Formation of the holy realm of Iztaw</div>
+            <div class="timeline-item" data-date="241PA">Founding of the Gethric Church at Iztaw;<br> Viago I "Firespear" proclaims the Kingdom of Vihr;<br> Vihri Wars of Unification begin</div>
             <div class="timeline-item" data-date="246PA">Battle of Tlok Valley</div>
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="251PA">Battle of Glancz; <br>The Urlander ruling Dynasty of Dunling goes to the Cadet branch of the House of Chloris</div>
@@ -448,7 +448,7 @@
             <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs amidst the 1st underwar</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishing Nuv Werm</div>
             <div class="timeline-item" data-date="445PA">The Church of Faigin is officially created from the Motherly Priesthood in Richelet</div>
-            <div class="timeline-item" data-date="446PA">The Conclave of 446 canonises Ralond the Scaleslayer</div>
+            <div class="timeline-item" data-date="446PA">The Conclave of 446 canonises Ralond the Scaleslayer & Berengar Starknife</div>
             <div class="timeline-item" data-date="450PA">Late Natan Period begins in the Twintail Imperium</div>
             <div class="timeline-item" data-date="451PA">The Kingdom of Tur Filash is almost destroyed in the Crisis of the 4th Period</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, <br>Golden Age of Urland begins</div>

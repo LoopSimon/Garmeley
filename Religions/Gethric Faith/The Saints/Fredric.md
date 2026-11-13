@@ -3,10 +3,49 @@
 [[Niedrest]]
 [[Gethricism]]
 %%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Fredric.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-<small><i>Saint Fredric</i></small>
+<div class="wiki-infobox">
+ <h4 class="wiki-header">Fredric</h4>
+ <div class="wiki-row">
+ <strong>Title</strong>
+ <span>Foehammer,<br>Hero of Danipol</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Represents</strong>
+ <span>Glory and War</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Favoured Weapon</strong>
+ <span>Warhammer</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Culture</strong>
+ <span><a href="Urland" class="internal-link">Urien</a> <a href="Human" class="internal-link">Human</a></span>
+ </div>
+ <div class="wiki-row">
+ <strong>Born</strong>
+ <span>720PA</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Died</strong>
+ <span>762PA, Danipol</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Cause of Death</strong>
+ <span>fell in battle<br>42 years of age</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Canonised</strong>
+ <span>Conclave of 763PA,<br>High-Bisop Manral I</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Venerated in</strong>
+ <span><a href="Gethricism" class="internal-link">Gethricism</a>,<br><a href="Kethricism" class="internal-link">Kethricism</a>,<br><a href="Trinicism" class="internal-link">Trinicism</a></span>
+ </div>
+ <hr class="wiki-hr">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Fredric.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
+ <small><i>Saint Fredric</i></small>
 </div>
-<p></p>
-<p>Saint Fredric Foehammer represents Glory and War within the Gethric Canon, his favoured weapon is the Warhammer. Fredric was born a urien human in 720PA and died at the age of 42 in 762PA, he was canonised at the Conclave of 763 in the same year that would also ratify the controversial Gethric Pogroms, ultimately leading to the Great Schism.</p>
-<p>The Hero of Danipol, Slayer of the Hydra of Ravenleaf, and Legend of the  First War of Elbae Aggression, sanctified after his death on the Battlefield and worshipped by Warriors. Fredrics weapon, the Foehammer, is a holy relic of the church that was stolen in the 9th century, his skull has been hardened in Gold and is preserved within St-Fredrics Cathedral in the urien city of Niedrest.</p>
-<p>Fredric is seen as the ultimate symbol of the warrior, an ideal to aspire to for every man & woman marching into battle for a cause they believe in. Those who wish to be remembered for mighty deeds and legendary battles more than to live a long live and be forgotten pray to Fredric and grants them the strength of his hammer and the power of his conviction.</p>
+<p>Saint Fredric Foehammer represents Glory and War within the Gethric Canon, his favoured weapon is the Warhammer. Fredric was born an Urien human in 720PA and died at the age of 42 in 762PA, he was canonised at the Conclave of 763 in the same year that would also ratify the controversial Gethric Pogroms, ultimately leading to the Great Schism.</p>
+<p>The Hero of Danipol, Slayer of the Hydra of Ravenleaf, and Legend of the First War of Elbae Aggression, sanctified after his death on the Battlefield and worshipped by Warriors. Fredric's weapon, the Foehammer, is a holy relic of the church that was stolen in the 9th century, his skull has been hardened in Gold and is preserved within St-Fredrics Cathedral in the urien city of Niedrest.</p>
+<p>Fredric is seen as the ultimate symbol of the warrior, an ideal to aspire to for every man & woman marching into battle for a cause they believe in. Those who wish to be remembered for mighty deeds and legendary battles more than to live a long life and be forgotten pray to Fredric, and he grants them the strength of his hammer and the power of his conviction.</p>
