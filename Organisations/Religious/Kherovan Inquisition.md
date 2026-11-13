@@ -1,46 +1,57 @@
-%%[[Kherova]] [[Kethricism]]%%
-
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/EyeofInquisition.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-<small><i>The Eye of the Inquisition</i></small>
+%%
+[[Kherova]]
+[[Kethricism]]
+[[Wermian Accords]]
+[[Treaty of Kulum]]
+[[Bihra Shamanism]]
+[[Vazena]]
+%%
+<div class="wiki-infobox">
+ <h4 class="wiki-header">Kherovan Inquisition</h4>
+ <div class="wiki-row">
+ <strong>Denomination</strong>
+ <span><a href="Kethricism" class="internal-link">Kethricism</a></span>
+ </div>
+ <div class="wiki-row">
+ <strong>Head</strong>
+ <span>The Patriarch of Kherova,<br>High Inquisitorial Council</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Seat</strong>
+ <span>The Silent Monastery, Kher</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Founded</strong>
+ <span>585PA</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Members</strong>
+ <span>ca. 300 Inquisitors,<br>over 1000 personnel</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Emblem</strong>
+ <span>The All-Seeing Eye of Truth</span>
+ </div>
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/EyeofInquisition.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-Founded in the Year 585PA, as a response to the findings of the Great Expedition in Rakh, 
-this institution is under the direct control of the Patriarch of Kher as the head of the Kethric denomination.
-The symbol of the Inquisition is the All-Seeying Eye of Truth engulfed in the Flames of Kethric.
-
-
-The Inquisition bemoans the Wermian Accords as the main agreement to regulate Magic, as it is in their words “a near 400 year old document that could not fathom the cruel ingenuity to come”, and is officially tasked with enforcing Magical Law within Kher itself.
-
-However due to the good relationship with Vihr and Grevenna that Kher keeps, as well as their economic power as the main trade route to Nirydia, Kherovan Inquisitors often operate outside of their country, and can even hold royal mandates allowing the pursuit and handling of any Fugitive, Criminal or Threat to Kher and her people.
-
-In reality most stories around Kher Inquisitors or “Witchfinders” as they are known outside the eastern country are not nearly as negative as one would believe, while stories of them ripping away children from parents or burning citizens on a pyre exist, they are usually paired with reports of the Inquisitors genuinely helping commonfolk, detaining and hunting down aberrations or pacifying rogue and criminal casters.
-
-
-The Treaty of Kulum, signed by most nations on the continent as a result of the rise and fall of Ahrmiz Saceren, commonly known as Ahrmiz the Conjurer, gave Kherovan Inquisitors international legal authority to apprehend remnants of the Cult, a practice that is often criticised by local lords and authorities as well abused by individual agents of the Inquisition that use it as an opportunity to enact secret missions and witch-hunts across the Continent.
-
-The Seat of the Inquisition is the Capital city of Kher, at the Silent Monastery, it is organized in 9 Tribunals each with their own hierarchies, tasks and histories.
-Each Tribunal serves under a High Inquisitor who all sit on the High Inquisitorial Council that heads the Organization and is itself only subject to the will of the Patriarch of Kher.
-The Inquisitorial Hierarchy within the Tribunals consists of one High Inquisitor, the Inquisitors of the Tribunals itself over all Tribunals combined totalling at about 300, the Acolytes of the Tribunals that seek to ascend to the rank of Inquisitor themselves and can range between Tribunals from a mere dozen to over a hundred in number and below them the Inquisitorial Personal that totals easily over a thousand and consists of soldiers, clerks, writers, envoys and many more aides.
-
-
-
-The Tribunals are as of 927PA:
-
-The Tribunal of the Marble Script, concerned with religious peace and the persecution of heretics and heathens within Kherova. Founded in 585PA.
-
-The Tribunal of the Final Peace, tasked with the protection of burial rites and the hunt of necromancers. Founded in 585PA.
-
-The Tribunal of the Open Face, the diplomatic arm of the Inquisition formed as delegations to the offices of trinicist and gethricist Institutions and Courts in foreign countries. Founded in 585PA.
-
-The Tribunal of Nirydia, experts in [[Bihra Shamanism]], [[Bihra]] Magic and Guardians of the East, working closely with the Eastern Fortresses. Founded in 585PA.
-
-The Tribunal of the Clear Soul, Hunters of Wizards and Arcanists within Kherova that do not fall under the jurisdiction of the Tribunal of the Final Peace, although these often collaborate. 
-Founded in 585PA.
-
-The Order of the White Hall, dwarven Sages and Scholars within the Inquisition, concerned with heresy in dwarven communities in Kherova. They also seek, contain and destroy powerful magical relics for the Inquisition. Founded in 599PA.
-
-The Spellbreaker Guard, military personal of the inquisition within the Kherovan Army, acting as an anti-magic force in combat. Founded in 710PA.
-
-The Keepers of the Pale Truth, an internal police-corp within the inquisition and clergy. 
-Founded in 710PA.
-
-The Hunters of the Onyx Cult, concerned with the destruction of the Cult of Ahrmiz and his relics, as well as the safeguarding and cleansing of Kulum. Founded in 908PA.
+<p>The Kherovan Inquisition is the enforcement arm of <a href="Kethricism" class="internal-link">Kethricism</a>, founded in 585PA in response to the findings of the Great Expedition in Rakh. It stands under the direct control of the Patriarch of Kherova as head of the Kethric denomination, and is officially tasked with enforcing magical law within <a href="Kherova" class="internal-link">Kherova</a>. Its symbol is the All-Seeing Eye of Truth engulfed in the flames of Kethric. Outside Kherova its agents are commonly known as Witchfinders.</p>
+<h2>Doctrine and Mandate</h2>
+<p>The Inquisition is the institutional expression of the Doctrine of Dualism, which holds that arcane power corrupts the soul of its user. It regards the <a href="Wermian Accords" class="internal-link">Wermian Accords</a>, the principal agreement regulating magic, as inadequate, describing them in its own words as "a near 400 year old document that could not fathom the cruel ingenuity to come".</p>
+<h2>Operations Abroad</h2>
+<p>Owing to the good relations Kherova keeps with <a href="Vihr" class="internal-link">Vihr</a> and <a href="Grevenna" class="internal-link">Grevenna</a>, and to its economic weight as the main trade route to Nirydia, Kherovan Inquisitors often operate beyond their own country. Some hold royal mandates that allow them to pursue and deal with any fugitive, criminal or threat to Kherova and her people.</p>
+<p>The <a href="Treaty of Kulum" class="internal-link">Treaty of Kulum</a>, signed by most nations of the continent after the rise and fall of Ahrmiz Saceren, commonly known as Ahrmiz the Conjurer, gave Kherovan Inquisitors international legal authority to apprehend the remnants of his cult. Local lords and authorities often criticise the practice, and individual agents are accused of abusing it to carry out secret missions and witch-hunts across the continent. Since the Niedrest Incident of 923PA, in which the entire Inquisition delegation to southern Urland was assassinated, western nations have begun to withdraw the authority one by one.</p>
+<p>Most stories about the Witchfinders are less dark than their reputation suggests. Tales of children torn from their parents and citizens burned on the pyre exist, but they are usually matched by reports of Inquisitors genuinely helping common folk, hunting down aberrations and pacifying rogue and criminal casters.</p>
+<h2>Organisation</h2>
+<p>The seat of the Inquisition is the Silent Monastery in Kher, the capital of Kherova. It is organised in nine Tribunals, each with its own hierarchy, tasks and history. Each Tribunal serves under a High Inquisitor, and the High Inquisitors together form the High Inquisitorial Council, which heads the organisation and is subject only to the will of the Patriarch of Kherova.</p>
+<p>Within the Tribunals the hierarchy runs from the High Inquisitor to the Inquisitors, of whom there are about 300 across all Tribunals, and to the Acolytes who seek to rise to the rank of Inquisitor themselves, numbering from a mere dozen to over a hundred depending on the Tribunal. Below them stands the inquisitorial personnel, easily over a thousand soldiers, clerks, scribes, envoys and other aides.</p>
+<h2>Tribunals</h2>
+<p>The Tribunal of the Marble Script is concerned with religious peace and the persecution of heretics and heathens within Kherova. It was founded in 585PA.</p>
+<p>The Tribunal of the Final Peace protects burial rites and hunts necromancers. It was founded in 585PA.</p>
+<p>The Tribunal of the Open Face is the diplomatic arm of the Inquisition, formed of the delegations to Trinicist and Gethric institutions and courts in foreign countries. It was founded in 585PA.</p>
+<p>The Tribunal of Nirydia holds the experts in <a href="Bihra Shamanism" class="internal-link">Bihra Shamanism</a> and <a href="Bihra" class="internal-link">Bihra</a> magic, the Guardians of the East, who work closely with the Eastern Fortresses. It was founded in 585PA.</p>
+<p>The Tribunal of the Clear Soul hunts wizards and arcanists within Kherova who do not fall under the jurisdiction of the Tribunal of the Final Peace, although the two often collaborate. It was founded in 585PA.</p>
+<p>The Order of the White Hall gathers the dwarven sages and scholars of the Inquisition and deals with heresy in the dwarven communities of Kherova. It also seeks, contains and destroys powerful magical relics. It was founded in 599PA.</p>
+<p>The Spellbreaker Guard is the military arm of the Inquisition within the Kherovan army, an anti-magic force in battle that carries the mirror shields first devised by Saint <a href="Vazena" class="internal-link">Vazena</a>. It was founded in 710PA.</p>
+<p>The Keepers of the Pale Truth are an internal police corps within the Inquisition and the clergy. They were founded in 710PA.</p>
+<p>The Hunters of the Onyx Cult are dedicated to the destruction of the Cult of Ahrmiz and its relics, and to the safeguarding and cleansing of Kulum. They were founded in 908PA.</p>

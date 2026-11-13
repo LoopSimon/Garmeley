@@ -9,15 +9,15 @@
     <strong>Signatories:</strong>
 	<hr class=wiki-hr>
     <div class="wiki-row" style="display: block;">
-        The Patriarch of Kher and Head of <a href="Kethricism">Kethricism</a><br>
-        The High-Bishop of Iztaw, Head of <a href="Gethricism">Gethricism</a><br>
+         The Patriarch of Kherova, Head of <a href="Kethricism">Kethricism</a><br>
+        The High-Bisop of Iztaw, Head of <a href="Gethricism">High Gethricism</a><br>
         The Ras of <a href="Vihr">Vihr</a><br>
         The Khat of <a href="Kherova">Kherova</a><br>
         The Khat of <a href="Azuvke">Azuvke</a><br>
         The Bagram of <a href="Grachy">Grachy</a><br>
         The Queen of <a href="Meadrath">Meadrath</a><br>
         The Archduke of <a href="Gisvale">Gisvale</a><br>
-        The Duke of <a href="Lesmere">Gisvale</a><br>
+        The Duke of <a href="Lesmere">Lesmere</a><br>
         The Stadtholder of <a href="Blijgrat">Blijgrat</a><br>
         The King of <a href="Baeling">Baeling</a><br>
         The King of <a href="Juelfluk">Juelfluk</a><br>
@@ -41,7 +41,7 @@
 </div>
 <p>A set of rules and restrictions regarding Magical Practice instated roughly 300 years after the <a href="Wermia">Wermian</a> <a href="The Incursion" class="internal-link">Incursions</a> , referencing them as an example of the havoc and destruction unchecked magic can wreak upon the material Plane.
 Primarily enforced by at first only Followers of <a href="Gethricism">Gethricism</a> but later virtually all nations on Ilrakhan. The Saint <a href="Palus" class="internal-link">Palus Aergestes</a> was the then Bishop responsible for the international congregation agreeing to the Accords and is hailed as the Father to the document, it is seen as an effort of near unrivalled diplomacy especially for its time, but has come under more scrutiny in recent years by academic movements such as the <a href="Luminists" class="internal-link">Luminists</a>.</p>
-<p>The Elbae Sultanate does not officially acknowledge the full extend of the Accords, but in effect practices them, particularly in its northern cities and ports, and refers to them by letter often.</p>
+<p>The Elbae Sultanate does not officially acknowledge the full extent of the Accords, but in effect practices them, particularly in its northern cities and ports, and refers to them by letter often.</p>
 
 <hr class="wiki-hr">
 

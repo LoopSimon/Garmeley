@@ -1,23 +1,47 @@
-%% [[Gethricism]] [[Wermia]]  [[Dorian]] [[Nuv Werm]]%%
-<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Silver_Wheel_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-<small><i>Heraldry of the Silver Wheel</i></small>
+%%
+[[Gethricism]]
+[[Church of Iztaw]]
+[[Wermia]]
+[[Nuv Werm]]
+[[Lyandra]]
+[[Gethric Pogroms]]
+%%
+<div class="wiki-infobox">
+ <h4 class="wiki-header">Order of the Silver Wheel</h4>
+ <div class="wiki-row">
+ <strong>Type</strong>
+ <span>Order of warrior monks</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Leader</strong>
+ <span>Grand Master Fyor Ziminastrus</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Seat</strong>
+ <span>The High Castle, Nurk</span>
+ </div>
+ <div class="wiki-row">
+ <strong>Founded</strong>
+ <span>398PA</span>
+ </div>
+ <hr class="wiki-hr">
+ <div class="wiki-row">
+ <strong>Faith</strong>
+ <span><a href="Gethricism" class="internal-link">High Gethricism</a></span>
+ </div>
+ <div class="wiki-row">
+ <strong>Allegiance</strong>
+ <span><a href="Church of Iztaw" class="internal-link">Church of Iztaw</a></span>
+ </div>
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Silver_Wheel_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>A paramilitary organisation founded by Gethric monks in 398PA looking to protect the pilgrimage to Iztaw throughout lost Wermia. The Knights are led by a Grand-Master who tends to reside at their High Castle in Nurk and four Paladins representing the Highest ranking knights of the order.
-During the early days of Gethricism, these warrior monks would guard the roads from Urland to Iztaw, its Paladins wearing mighty silver wheels to smite any and all demonic aberration that may linger and lurk in the Desolation of Wermia. </p>
-
-<p>Although the Order operates independent from the Vihr Throne in Zavlech, it is sponsored and likely tied with the High Bishopric of Iztaw itself and has in ages past raised their banner in support of political wars, like the Wars of Elbae Agression, where they fought on the side of the Gethric Alliance. </p>
-
-<p>Ahead of the Schism of 764, the Order attempted to interfere and forcibly dissolve the Conclave at Trinfurt, and was challenged by local heroes and armed forces of the Meadi King in armed conflict, their failure and the inevitable Split of the Faith have left the Order with much less influence on the world stage in the modern age.
-Although their holy mandate is still the protection of the Pilgrims Path through Wermia, many Scions of the Silver Wheel roam the lands of the Ilrakhani and Vihir Subcontinents on the search for demons and heretics, often coming in conflict with local authorities and magistrates in doing so.</p>
-
-<p>Racial prejudice and radical Gethricism are still ever present within the order to this day, and many doubt their self described holy and good motives, seeing them as little more than a band of roaming strongmen that seeks ways to rebuild their lost power and glory.</p>
-
-Notable members of the Knights of the Silver Wheel include:
-
-Fyor Ziminastrus, Grand Master of the Silver Wheel
-Rekha of Torring, Paladin of the Silver Wheel
-Talion of Gelm, Paladin of the Silver Wheel
-Zanislaw of Morset, Paladin of the Silver Wheel
-Slivomir of Tryd, Paladin of the Silver Wheel, 
-
-
+<p>The Order of the Silver Wheel is a paramilitary order founded by <a href="Gethricism" class="internal-link">Gethric</a> monks in 398PA to protect the pilgrimage to <a href="Iztaw" class="internal-link">Iztaw</a> through lost <a href="Wermia" class="internal-link">Wermia</a>. The knights are led by a Grand Master, who usually resides at the High Castle in Nurk, and by four Paladins, the highest-ranking knights of the order.</p>
+<h2>History</h2>
+<p>In the early days of Gethricism these warrior monks guarded the roads from Urland to Iztaw, their Paladins bearing great silver wheels to smite any daemonic aberration that might still lurk in the Desolation of Wermia. Saint <a href="Lyandra" class="internal-link">Lyandra of Fairriver</a> served as a Knight of the Silver Wheel in the 7th century.</p>
+<p>Although the order is independent of the Vihri throne in Zavlech, it is sponsored by and closely tied to the High-Bisop of Iztaw, and in past ages it has raised its banner in political wars such as the Wars of Elbae Aggression, in which it fought on the side of the Gethric Alliance.</p>
+<p>Ahead of the Great Schism of 764PA, the order attempted to dissolve the Conclave at Trinfurt by force and was met in arms by local heroes and the forces of the Meadi king. Its failure, and the split of the faith that followed, have left the order with far less influence on the world stage in the modern age.</p>
+<h2>The Order Today</h2>
+<p>The holy mandate of the order is still the protection of the Pilgrims Path through Wermia, but many knights of the Silver Wheel roam the lands of the Ilrakhani and Vihir subcontinents in search of daemons and heretics, and often come into conflict with local authorities and magistrates in doing so.</p>
+<p>Racial prejudice and radical Gethricism remain present within the order to this day. Many doubt its self-described holy and good motives and see it as little more than a band of roaming strongmen seeking a way to rebuild their lost power and glory.</p>
+<h2>People of Interest</h2>
+<p>Fyor Ziminastrus, Grand Master of the Silver Wheel<br>Rekha of Torring, Paladin of the Silver Wheel<br>Talion of Gelm, Paladin of the Silver Wheel<br>Zanislaw of Morset, Paladin of the Silver Wheel<br>Slivomir of Tryd, Paladin of the Silver Wheel<br><a href="Lyandra" class="internal-link">Saint Lyandra of Fairriver</a>, Knight of the Silver Wheel</p>

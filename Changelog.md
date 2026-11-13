@@ -1,15 +1,32 @@
-- 2026-11-13T0131 · Gethricism
+- 2026-11-13T0218 · Gethric
+- 2026-11-13T0217 · Gethricism
+- 2026-11-13T0216 · Complete Timeline
+- 2026-11-13T0215 · Kethricism
+- 2026-11-13T0215 · Diarism
+- 2026-11-13T0215 · Razmyr
+- 2026-11-13T0214 · Razmyrism
+- 2026-11-13T0214 · Lyandra
+- 2026-11-13T0214 · The Incursion
+- 2026-11-13T0213 · Luca
+- 2026-11-13T0212 · Adzul I
+- 2026-11-13T0211 · Wermian Accords
+- 2026-11-13T0210 · Sisterhood of the Morning
+- 2026-11-13T0210 · Opuzna
+- 2026-11-13T0209 · Dorian
+- 2026-11-13T0209 · Yelena
+- 2026-11-13T0209 · Tytus
+- 2026-11-13T0209 · Palus
+- 2026-11-13T0208 · Order of the Silver Wheel
+- 2026-11-13T0207 · Trinicism
+- 2026-11-13T0207 · Kherovan Inquisition
+- 2026-11-13T0206 · Church of Iztaw
 - 2026-11-12T2254 · Twintail Imperium
-- 2026-11-12T2252 · Kethricism
-- 2026-11-12T2251 · Diarism
-- 2026-11-12T1745 · Razmyrism
 - 2026-11-12T1726 · Welcome
 - 2026-11-12T1649 · Safir Rules
 - 2026-11-12T1640 · Xolor Rules
 - 2026-11-12T1625 · Wispmer Rules
 - 2026-11-12T1553 · Mogyr Rules
 - 2026-11-12T1243 · Tucao Chuwen
-- 2026-11-12T1219 · Complete Timeline
 - 2026-11-12T1219 · Gorati
 - 2026-11-12T1218 · Hastermon Temple
 - 2026-11-12T1218 · Zepria
@@ -141,7 +158,6 @@
 - 2026-10-29T1551 · Chian Genzin
 - 2026-10-29T1550 · Myan-Bond
 - 2026-10-29T1457 · Golem
-- 2026-10-29T0732 · Palus
 - 2026-10-28T2142 · Garmish Succession Crisis
 - 2026-10-28T2135 · Waxborn
 - 2026-10-28T1554 · Eight Years War
@@ -336,7 +352,6 @@
 - 2026-10-19T0159 · Korsfall
 - 2026-10-19T0158 · Royal Congress
 - 2026-10-19T0158 · Giselstatt
-- 2026-10-19T0157 · Church of Iztaw
 - 2026-10-19T0156 · Meadi
 - 2026-10-19T0155 · Deacon
 - 2026-10-19T0059 · Tholmir
@@ -383,18 +398,3 @@
 - 2026-10-18T0019 · Gesellschaft für Westmeadischen Handel
 - 2026-10-18T0019 · Meadhavn
 - 2026-10-18T0018 · Mear
-- 2026-10-18T0018 · Zmalig
-- 2026-10-18T0015 · Weadland
-- 2026-10-17T2325 · The 927 Falcons Flight
-- 2026-10-17T2201 · Jorj
-- 2026-10-17T2157 · Orlatz
-- 2026-10-17T2108 · Timut
-- 2026-10-17T1442 · Lesmere
-- 2026-10-17T1423 · Perrin Diar
-- 2026-10-17T1422 · Jean du Jera
-- 2026-10-17T0339 · Freelands
-- 2026-10-17T0316 · Gismar
-- 2026-10-17T0315 · Wulfrick
-- 2026-10-16T2349 · Meadi Othiri War
-- 2026-10-16T2258 · Turvik Paganism
-- 2026-10-16T2258 · Situation in the Paper Cities

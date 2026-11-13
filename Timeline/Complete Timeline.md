@@ -454,13 +454,13 @@
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, <br>Golden Age of Urland begins</div>
             <div class="timeline-item" data-date="456PA">Invention of Gunpowder, called Huling, by alchemists of Lian in Bardrab</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, <br>Successful end of Qahori Subjugation</div>
-            <div class="timeline-item" data-date="458PA">First Kethric Conclave at Opuzna confirms Doctrine of Dualism under Archbishop Adzul of Kherova</div>
+            <div class="timeline-item" data-date="458PA">First Council of Opuzna confirms the Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
             <div class="timeline-item" data-date="465PA">Valund Baeling unites the Lords of Melmers Bay</div>
              <div class="timeline-item" data-date="466PA">The Seventeen Sons of Gav raise the Eye of Zuhur on Gavivag Isle, only the youngest, Miodas, survives the casting</div>  
 			<div class="timeline-item" data-date="469PA">Death of Siegmar V "the last Tree", the last of the House von Weide; <br>Gernot I von Kor takes the throne of Korsfall</div>
             <div class="timeline-item" data-date="470PA">Empire of Pravazik is formed around the Bay of Arishi on the ruins of the Great Rite of Pra and the Diacor Empire</div>
-            <div class="timeline-item" data-date="471PA">Second Kethric Conclave at Volazc, <br>Kherova declares independence from Iztaw, <br>Archbishop Adzul becomes Patriarch Adzul I as the Kethric Schism is completed</div>
+            <div class="timeline-item" data-date="471PA">Second Council of Volazc, <br>Kherova declares independence from Iztaw, <br>Archbishop Adzul becomes Patriarch Adzul I as the Kethric Schism is completed</div>
             <div class="timeline-item" data-date="473PA">Siege of Sulbra-Kol begins</div>
 			<div class="timeline-item" data-date="475PA">Marlina I "the White Lady" becomes Queen of Gisvale</div>
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
@@ -673,7 +673,7 @@
 			 <div class="timeline-item" data-date="761PA">Plague and strife in the Empire of Naigan, the Imperial City of Kiamar seals itself away for a decade</div>
             <div class="timeline-item" data-date="762PA">2nd Battle of Danipol, <br>1st War of Elbae Aggression ends</div>
              <div class="timeline-item" data-date="763PA">Conclave of 763 under High-Bisop Manral I, Canonisation of Fredric and begin of the Gethric Pogroms;<br>Rivid Tepor publishes "Between Fang and Finger: My Journeys with the Ral"</div>
-            <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and Gethric Schism;<br>Feud between the houses of Rizev and Ohodrev breaks out again, Crown Prince Matjar of Zepria fails to restore the peace</div>
+            <div class="timeline-item" data-date="764PA">Conclave at Trinfurt and the Great Schism;<br>Feud between the houses of Rizev and Ohodrev breaks out again, Crown Prince Matjar of Zepria fails to restore the peace</div>
             <div class="timeline-item" data-date="766PA">Remillion usurps the Trifflands</div>
             <div class="timeline-item" data-date="767PA">Radov the Silver turns himself and his court into silver in a failed invocation, dissolution of the Zeprian Empire;<br>Remillion slaughters the ducal Host and slays Duke Ingemar of Triff</div>
              <div class="timeline-item" data-date="768PA">Wealsworth Incident in Niedrest, Revolution against the Duke of Nied begins;<br>Rivid Tepor is killed by a werewolf in the Blodrise Dark</div>
