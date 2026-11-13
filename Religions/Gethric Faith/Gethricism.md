@@ -18,39 +18,9 @@
 [[Gethric Pogroms]]
 [[Gethricism in the New World]]
 %%
-<div class="wiki-infobox">
- <h4 class="wiki-header">Gethric Faith</h4>
- <div class="wiki-row">
- <strong>Prophet</strong>
- <span><a href="Gethric" class="internal-link">Gethric</a></span>
- </div>
- <div class="wiki-row">
- <strong>Companions</strong>
- <span><a href="Volboris" class="internal-link">Volboris the Healer</a>,<br><a href="Razmyr" class="internal-link">Razmyr the Soul Shepherd</a></span>
- </div>
- <div class="wiki-row">
- <strong>Founded</strong>
- <span>240PA, <a href="Iztaw" class="internal-link">Iztaw</a></span>
- </div>
- <div class="wiki-row">
- <strong>Scripture</strong>
- <span>The White Book</span>
- </div>
- <div class="wiki-row">
- <strong>Afterlife</strong>
- <span>The Homestead Beyond</span>
- </div>
- <div class="wiki-row">
- <strong>Symbol</strong>
- <span>The Gethric Candleflame</span>
- </div>
- <hr class="wiki-hr">
- <div class="wiki-row">
- <strong>Denominations</strong>
- <span>High Gethricism,<br><a href="Kethricism" class="internal-link">Kethricism</a>,<br><a href="Trinicism" class="internal-link">Trinicism</a>,<br><a href="Diarism" class="internal-link">Diarism</a>,<br><a href="Razmyrism" class="internal-link">Razmyrism</a></span>
- </div>
- <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/GethricBurialRite.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
- <small><i>Painting of a Gethric Wake</i></small>
+
+<div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/GethricBurialRite.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+<small><i>A traditional Gethric Wake, performed by a Father of the Church</i></small>
 </div>
 <p>For the Church, its hierarchy and organisation, see the <a href="Church of Iztaw" class="internal-link">Church of Iztaw</a>. For the worldly realm of Iztaw, governed by the Church under the Ras of Vihr, see <a href="Iztaw" class="internal-link">Iztaw</a>. For the events that led to the founding of the faith, see <a href="The Incursion" class="internal-link">The Incursion</a>.</p>
 <p>Gethricism, also called the Gethric Faith, is the dominant faith of Ilrakhan. It is founded on the life of the Prophet <a href="Gethric" class="internal-link">Gethric</a>, who ended the Wermian Incursion in 240PA, and on the writings of his companions, the Church fathers, of whom some are revered as Saints. The faith rejects the worship of creator deities and all-powerful gods. Its believers instead venerate the Prophet and the Saints, figures of history believed to have led truly holy and principled lives, and hold that oaths sworn and kept with conviction allow the soul to endure death and join the Prophet in the Homestead Beyond.</p>
