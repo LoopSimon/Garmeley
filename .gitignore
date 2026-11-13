@@ -1,4 +1,12 @@
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/cache
+# Obsidian settings stay per-person, except CSS snippets
+.obsidian/*
+!.obsidian/snippets/
+
+# Trash
 .trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
