@@ -1,3 +1,4 @@
+- 2026-11-13T0131 · Gethricism
 - 2026-11-12T2254 · Twintail Imperium
 - 2026-11-12T2252 · Kethricism
 - 2026-11-12T2251 · Diarism
@@ -397,4 +398,3 @@
 - 2026-10-16T2349 · Meadi Othiri War
 - 2026-10-16T2258 · Turvik Paganism
 - 2026-10-16T2258 · Situation in the Paper Cities
-- 2026-10-16T2254 · Knights of the Green Tree
