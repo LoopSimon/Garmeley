@@ -51,6 +51,7 @@
 <iframe src="https://flanz1.github.io/world-globe-embed/v/inara/?region=twintailborder&amp;view=globe"
         width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
         loading="lazy" allow="fullscreen" title="twintailborder (Aerthos)"></iframe>
+<small><i>The Twintail Imperium by 927PA</i></small>
 <h2>Economy</h2>
 <p>The Twintail Imperium's economy is best understood as a hydraulic agrarian Empire whose wealth originates in the management of river fed agricultural land, and whose political structure is organized around extracting and redistributing that agricultural surplus. Its commercial and manufacturing sectors are substantial but ultimately secondary to this agrarian foundation. It is wealthy, densely populated and institutionally sophisticated, but its fundamental vulnerability will always be a sustained disruption to agricultural production.</p>
 

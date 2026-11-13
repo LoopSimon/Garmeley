@@ -13,7 +13,7 @@
 <iframe src="https://flanz1.github.io/world-globe-embed/v/inara/?region=kethregion&amp;view=globe"
         width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
         loading="lazy" allow="fullscreen" title="kethregion (Aerthos)"></iframe>
-        
+ <small><i> The Spread of Kethricism by 927PA</i></small>
 <h2>Origins, The Kethric Character Before the Schism</h2>
 
 <p>The Kheri peoples converted to Gethricism in 284PA under Khat Tiblin II, less than half a century after the faiths founding. The Kheri arrived at the faith carrying two centuries of accumulated horror at what arcane power could do. The shadow of <a href="Merzigal" class="internal-link">Merzigal of Alahmid</a>, the northern Witch-King whose life extending sacrifices and daemon consultation had tormented the lake basin communities for generations, was still living memory when the first Gethric missionaries arrived. The story of the <a href="The Incursion" class="internal-link">Wermian Incursion</a> was not, to the Kheri, a distant theological parable. It was the answer to a question they had already asked and answered in their own history: what does unchecked arcane power produce? The demon slaying Gethric latched onto this inheritance immediately and naturally. What in Iztaw was understood as the Prophets greatest spiritual achievement was understood in Kher as the most dramatic possible confirmation of what the Kheri already knew.</p>

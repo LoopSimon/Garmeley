@@ -1,7 +1,8 @@
+- 2026-11-12T2254 · Twintail Imperium
+- 2026-11-12T2252 · Kethricism
+- 2026-11-12T2251 · Diarism
 - 2026-11-12T1745 · Razmyrism
-- 2026-11-12T1726 · Kethricism
 - 2026-11-12T1726 · Welcome
-- 2026-11-12T1725 · Twintail Imperium
 - 2026-11-12T1649 · Safir Rules
 - 2026-11-12T1640 · Xolor Rules
 - 2026-11-12T1625 · Wispmer Rules
@@ -397,4 +398,3 @@
 - 2026-10-16T2258 · Turvik Paganism
 - 2026-10-16T2258 · Situation in the Paper Cities
 - 2026-10-16T2254 · Knights of the Green Tree
-- 2026-10-16T2253 · Rivalt du Chian
