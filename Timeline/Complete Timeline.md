@@ -666,6 +666,7 @@
             <div class="timeline-item" data-date="750PA">1st War of Elbae Aggression begins</div>
             <div class="timeline-item" data-date="751PA">Fourth Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="752PA">Kareli Hierarchy forms</div>
+            <div class="timeline-item" data-date="753PA">The Hobgoblin Tazdirt writes the Four Sayings</div>
             <div class="timeline-item" data-date="754PA">Grand Ziflis Company is founded by the Sultanate</div>
             <div class="timeline-item" data-date="758PA">The Republic of Runsby is formed on the Runsby & Lipley Isles;<br>The Opmani and Buzinci have all but abandoned Zeprian imperial rule</div>
             <div class="timeline-item" data-date="759PA"> Alzheman al Bil founds the Institute for Practical Energies of Almadus</div>
@@ -752,7 +753,7 @@
              <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate as White Wars begin in Behera;<br>Iris Keyzal founds the Keyzal Workshop as the research arm of the Inos Mining Cartel</div>
              <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan; <br>The Peace of Chezin ends the Period of the Bleeding Heron as Koshtir, Chezin and Rikarma make peace with Hanshi</div>
              <div class="timeline-item" data-date="850PA">"Dance of Husks" devastates urban population of Kherova and Grevenna</div>
-            <div class="timeline-item" data-date="851PA">War of Horn and Fang starts<br> Battle of the Bow</div>
+            <div class="timeline-item" data-date="851PA">War of Horn and Fang starts;<br> Battle of the Bow;<br>Founding of Guadaxerra</div>
             <div class="timeline-item" data-date="852PA">Battle of the Bay;<br>Days of Ire between Hastermon Temple and Ubrut Uroš of Amlija, who is ritually blinded before being forgiven</div>
              <div class="timeline-item" data-date="853PA">1st Battle of Tears;<br> Kisras Miskomir relieves the Siege of Uhl;<br>The Keyzal Visor is first sold to the mercenaries of the Mistspire Underlands</div>
              <div class="timeline-item" data-date="854PA">"Dance of Husks" in southern Vihr and most dominantly affects Garmeley, central and southern Ur and the lands around the Stormy Sea, slowly reaches Cevolia but doesn't seem to be as effective in the northern lands.</div>
@@ -816,7 +817,7 @@
             <div class="timeline-item" data-date="906PA">Kulyat Incident starts with the Death of Baron Kulyat</div>
              <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal;<br> Tourney at Mitrad;<br>Magda Bazena Nib retires from the Council of Tizin-Kol</div>
             <div class="timeline-item" data-date="908PA">Treaty of Kulum;<br>The magi towers of Patwin and Edessa adopt the Wheeling of Gahenna</div>
-            <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published</div>
+            <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published;<br>Saghor of Aït Ouzal elected Amghar.</div>
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach;<br>Vorellan Wars begin;<br>Death of Gisela III, Gisela IV becomes Queen of Meadrath</div>
              <div class="timeline-item" data-date="911PA">9th War of Baeling Succession;<br>Death of Magda Bazena Nib</div>
              <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina;<br>Sadizka Ovoletru of Rivno publishes "The Afterimage of the Beast"</div>

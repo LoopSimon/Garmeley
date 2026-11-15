@@ -7,3 +7,4 @@ Popular Kaladi include:
 2. Tirbo the kaladi associated with order, divine rule, power and might. He is the patron Kaladi of Tirbo Lake, the large Lake in western urland, and the foremost Kaladi of the Tirbi of [[Ak-Saray]]. See [[Tirbo]].
     
 3. Jibey of the Blue Fire the kaladi associated with the past and the dead. Jibey was a great leader and mage of the old cave clans, from the time before the escape from the caves, and was once the most worshipped of all Kaladi. Since the escape his role has changed: power and might have passed to Tirbo, and Jibey has become the Kaladi of the past and the dead.
+4. Tazdirt the Unmixed, honoured by the hobgoblins of Tal, associated with the four elements and balance.

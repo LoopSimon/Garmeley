@@ -4,7 +4,7 @@
 [[Rakhi-Meter Wars]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header">Ptamon Akbril</h4>
+    <h4 class="wiki-header">Ptamon Akbil</h4>
     <div class="wiki-row">
         <strong>Occupation</strong>
         <span>Keeper of Rahzalbis</span>
