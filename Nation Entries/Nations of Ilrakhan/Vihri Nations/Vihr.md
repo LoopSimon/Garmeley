@@ -173,7 +173,7 @@ Orthel, second of his Name
 	Head of the Gethric Church
 	
 Dorman of the White Sea
-	Master of the Order of the Unicorn
+	Kurzęk of the Order of the Unicorn
 	
 Henrietta of House Tryn
 	Varina of Levazci
