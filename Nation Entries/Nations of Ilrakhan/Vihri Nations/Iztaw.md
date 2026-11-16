@@ -67,6 +67,6 @@
 <h2>Economy</h2>
 <p>The wealth of Iztaw is the wealth of the Church: the tithe raised by Gethric Bishops across the faithful lands, the gifts of pilgrims, and the trade in candles, relics and holy books. The realm pays almost no tax to the crown. The port of Brov on the coast to the north serves the city.</p>
 <h2>Places of Note</h2>
-<p>The Voldom, named for Volboris, is the cathedral of the High-Bisop and the great church of the faith. The rebuilt walls of Tawring still ring the old city. The ruins of the old keep are kept as a shrine to the siege, and the Pilgrims' Gate is the end of the long road from Urland. Brov, the port on the coast to the north, serves the city.</p>
+<p>The Voldom, named for Volboris, is the cathedral of the High-Bisop and the great church of the faith. Volboris rests in its deepest chamber, beside Razmyr's original manuscript of the <a href="White Book" class="internal-link">White Book</a>. The rebuilt walls of Tawring still ring the old city. The ruins of the old keep are kept as a shrine to the siege, and the Pilgrims' Gate is the end of the long road from Urland. Brov, the port on the coast to the north, serves the city.</p>
 <h2>People of Interest</h2>
 <p>Orthel II, High-Bisop of Iztaw<br>Volboris the Healer, first High-Bisop<br>Morzin I, High-Bisop of Iztaw in 377PA<br>Taromir I, High-Bisop of Iztaw in 471PA<br>Manral I, High-Bisop of Iztaw in 763PA</p>

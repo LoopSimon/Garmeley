@@ -354,9 +354,10 @@
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="251PA">Battle of Glancz; <br>The Urlander ruling Dynasty of Dunling goes to the Cadet branch of the House of Chloris</div>
             <div class="timeline-item" data-date="253PA">The alleged Birth of Sochor as a human</div>
-            <div class="timeline-item" data-date="254PA">Gethric Doctrine of human exceptionalism is first mentioned</div>
+            <div class="timeline-item" data-date="254PA">Council of 254, the Gethric Doctrine of human exceptionalism is first mentioned</div>
             <div class="timeline-item" data-date="255PA">The Lower leveli form the Vocas a Levelix around the Lonely Peak</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
+            <div class="timeline-item" data-date="258PA">Official date of the Institutiones of Volboris, the oldest part of the White Book</div>
             <div class="timeline-item" data-date="259PA">First official mention of Sisters of Morning in church records as a group independent from clergy</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, the Breaking of the Circle</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite during the Day of Brothers</div>
@@ -364,16 +365,17 @@
 	        <div class="timeline-item" data-date="264PA">The City of Halgrach is first mentioned</div>
             <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends troops to Timoq, essentially occupying the city after killings houndreds of locals</div>
             <div class="timeline-item" data-date="268PA">Founding of the Omna of Az</div>
+            <div class="timeline-item" data-date="271PA">Radomir the Scribe joins the writings of Razmyr and Volboris into the White Book</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
-			 <div class="timeline-item" data-date="273PA">Ardol I of the House of Gismar forms the Kingdom of Gisvale</div>
+			 <div class="timeline-item" data-date="273PA">Ardol I of the House of Gismar forms the Kingdom of Gisvale;<br>Saint Razmyr is called to the Prophet's side</div>
             <div class="timeline-item" data-date="275PA">The myth of Sochor ends as Sochor ascends and becomes a God; the followers of Sochor begin the Holy Work, later known as the Golden Rule</div>
             <div class="timeline-item" data-date="277PA">Kingdom of the Les is formed around the Les River north of the Kranmoor</div>
             <div class="timeline-item" data-date="280PA">Qahori sailors map the entire Beheran Coast</div>
             <div class="timeline-item" data-date="281PA">The Holy Work of Sochor, led by the Ashcult, recognizes the 3 year old boy Chusfun as the reincarnation of Sochor, he is declared as "Ngalas" and raised to the office of Osafar, this effectively begins the institutionalised Ashcult</div>
             <div class="timeline-item" data-date="282PA">War between Morelle & Korsfall breaks out</div>
             <div class="timeline-item" data-date="283PA">Laizin the Strong, King of Rin, converts to the Ashcult and is proclaimed as the Guardian of the Ngalas, effectively founding the Golden Empire</div>
-            <div class="timeline-item" data-date="284PA">Conversion of Kher</div>
-             <div class="timeline-item" data-date="285PA">Morelle submits following the Battle of the Voiceless, <br>Korsfall dominates northern Meadland;<br>Kwarzimi of Corbaik, Keeper of Rahzalbis, is murdered</div>
+            <div class="timeline-item" data-date="284PA">Conversion of Kher;<br>Saint Volboris dies in his sleep at Iztaw</div>
+             <div class="timeline-item" data-date="285PA">Morelle submits following the Battle of the Voiceless, <br>Korsfall dominates northern Meadland;<br>Kwarzimi of Corbaik, Keeper of Rahzalbis, is murdered;<br>Tronos of the Veils Thesis at Gelmsburg</div>
              <div class="timeline-item" data-date="286PA">Founding of the Omna of Ekkam</div>
             <div class="timeline-item" data-date="287PA">Jateš is founded</div>
             <div class="timeline-item" data-date="291PA">Reani-Vihri War breaks out following King Salkon I du Reans declaration</div>
@@ -405,7 +407,6 @@
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
 			<div class="timeline-item" data-date="345PA">Ardol III "Ogre Hammer" becomes King of Gisvale; <br>his reign sees the ogres driven from the eastern foothills near the Bend of the Trinmo</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
-            <div class="timeline-item" data-date="354PA">Tronos of the Veils Thesis at Gelmsburg</div>
 			 <div class="timeline-item" data-date="361PA">Morelle is raised to an Archduchy</div>
             <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
@@ -511,7 +512,7 @@
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
             <div class="timeline-item" data-date="551PA">The Luchun Khaganate subjugates the Omna of Ekkam</div>
             <div class="timeline-item" data-date="553PA">End of the Szinmo Dynasty in Vihr; <br>Vihri War of Succession begins</div>
-            <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity</div>
+            <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity;<br>The same Conclave strikes the Apocryphae of Tronos from the White Book and fixes its text</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="557PA">Rebellion of Tur Filash begins</div>
             <div class="timeline-item" data-date="558PA">Fenhir the Seer becomes the Prophet of the Javalim in the eastern cities of Azuvke</div>
@@ -777,7 +778,7 @@
 	         <div class="timeline-item" data-date="872PA">Gavivag War between Plašato and Cirinzel begins</div>  
 	        <div class="timeline-item" data-date="873PA">Mandate of 873 allows the Shirin of Amlija houses of worship of their own</div>  
             <div class="timeline-item" data-date="874PA">Andre of Trydlew dies of unknown circumstances, suspected poisoning;<br> The Spurshey explorer Nale Dirrenger sails on the first of four voyages to the new world;<br>First Ottian Rifles are produced</div>
-            <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr;<br>Gavivag War ends, Plašato holds Gavivag Isle and the Eye of Zuhur</div>
+            <div class="timeline-item" data-date="875PA">In the shadow of the Golomid-Elbae War, the Path of the Third Moon emerges as a distinct denomination of Qalmyr;<br>Gavivag War ends, Plašato holds Gavivag Isle and the Eye of Zuhur;<br>The Church of Iztaw begins printing the White Book</div>
             <div class="timeline-item" data-date="876PA">Andre of Trydlew is canonized as a Saint at the Conclave of 876PA</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="878PA">Port Faarhovn is founded on Jurland by the G.U.V.; the Diviner Adreliz opens talks with the Kavi through telepathy, securing trading rights in Kavi communities;<br>Nale Dirrenger ends his fourth voyage, having charted the southern seas and set up supply posts between Nalesland and the Dark Islands</div>

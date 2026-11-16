@@ -61,4 +61,4 @@
 <h3>Priest</h3>
 <p>A Priest is a member of the clergy who has completed the Minor Cudra but not yet the Maior Cudra. The great majority of clerical officials hold this rank and take on most administrative and spiritual tasks, and many are mentored by a Father or a Minister.</p>
 <h3>Disciple</h3>
-<p>A Disciple is a person who has given themselves to the Church but has not yet passed the first clerical examination, the Minor Cudra. Disciples may not sit the Minor Cudra before the age of 15, and most do not complete it before the age of 22.</p>
+<p>A Disciple is a person who has given themselves to the Church but has not yet passed the first clerical examination, the Minor Cudra, which examines the candidate on the White Book. Disciples may not sit the Minor Cudra before the age of 15, and most do not complete it before the age of 22.</p>
