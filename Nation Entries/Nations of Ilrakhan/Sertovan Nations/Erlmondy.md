@@ -2,6 +2,7 @@
 [[Aerlan]]
 [[Gnome]]
 [[Kalbinism]]
+[[Sertova]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Erlmondy</h4>
