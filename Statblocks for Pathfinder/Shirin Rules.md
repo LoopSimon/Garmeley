@@ -11,7 +11,7 @@ The <a href="Shirin" class="internal-link">Shirin</a> are rodent-like humanoids 
 All Shirin have the following racial traits, whatever their lineage.
 
 - **Type:** Shirin are humanoids with the shirin subtype.
-- **Size:** Shirin are Medium creatures if Valfir, Small Creatures if Gelfir, and have no bonuses or penalties due to their size.
+- **Size:** Valfir Shirin are Medium creature and have no bonuses or penalties due to their size, Gelfir Shiring are Small creatures and thus gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks.
 - **Speed:** Shirin have a base speed of 30 feet.
 - **Low-Light Vision:** Shirin can see twice as far as humans in conditions of dim light.
 - **Prehensile Tail:** A Shirin's tail is strong and as long as their body. As a swift action, a Shirin can use it to draw a small, stowed object carried on their person. The tail cannot wield weapons or carry heavy objects.
