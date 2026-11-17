@@ -10,7 +10,7 @@
  <h4 class="wiki-header">Milan Kabaar</h4>  
  <div class="wiki-row">  
  <strong>Occupation</strong>  
- <span>Arcanist, Summoner</span>  
+ <span>Arcanist</span>  
  </div>  
  <div class="wiki-row">  
  <strong>Culture</strong>  
@@ -18,7 +18,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Born</strong>  
- <span>6th century PA</span>  
+ <span>549PA century PA</span>  
  </div>  
  <div class="wiki-row">  
  <strong>Died</strong>  
