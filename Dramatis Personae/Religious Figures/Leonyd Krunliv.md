@@ -2,6 +2,7 @@
 [[Gethricism]]
 [[Vihri]]
 [[Beryl Lenkov]]
+[[Kortyr]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Leonyd Krunliv</h4>
@@ -41,4 +42,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Krunliv.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Leonyd Krunliv is a Father within the Gethric Church of Grachy, with unknown clerical career except that he was once Father at Soludha Abbey but has since relinquished the post. Krunliv was part of <a href="Beryl Lenkov" class="internal-link">Boyar Beryl Lenkovs</a> Hunting Party in May of 927PA during which the latter tragically passed away.</p>
+<p>Leonyd Krunliv was a Father within the Gethric Church of Grachy, with unknown clerical career except that he was once Father at Soludha Abbey but has since relinquished the post. Krunliv was part of <a href="Beryl Lenkov" class="internal-link">Boyar Beryl Lenkovs</a> Hunting Party in May of 927PA during which the latter tragically passed away, but had worked longer as the spiritual guide for the Ulyanov Family, first Boyar Andre Ulyanov and then later after his death his daughter Katerina Ulyanov. He was instrumental in the Ulyanovs desire to achieve immortality, wich they pursued relentlessly together with the Gri of Perliav, Moreslav zi Perliav, and became known as the Oracle of the Pale, for his studies into the legend of <a href="Kortyr" class="internal-link">Kortyr Paleblood</a>, around which legend the Ulyanovs and Perliavs wrought their design.</p>
