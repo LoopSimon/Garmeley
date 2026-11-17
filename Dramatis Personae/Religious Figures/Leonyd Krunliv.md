@@ -10,6 +10,10 @@
         <span><a href="Gethricism" class="internal-link">High-Gethricism</a></span>
     </div>
     <div class="wiki-row">
+        <strong>Epithet</strong>
+        <span>Oracle of the Pale</span>
+    </div>
+    <div class="wiki-row">
         <strong>Occupation</strong>
         <span>Gethric Father</span>
     </div>
@@ -19,15 +23,19 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>865PA, Churovsky</span>
+        <span>879PA, Churovsky</span>
 	    </div>
     <div class="wiki-row">
-        <strong>Age</strong>
-        <span>62</span>
+        <strong>Died</strong>
+        <span>927PA, Lenkov Estate</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Cause of Death</strong>
+        <span>mauled to Death by Havu<br> 48 years of age</span>
     </div>
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span><a href="Church of Iztaw" class="internal-link">Gethric Church of Iztaw</a>, <br><a href="Grachy" class="internal-link">Republic of Grachy</a><span>
+        <span><a href="Church of Iztaw" class="internal-link">Gethric Church of Iztaw</a>, <br>The Ulyanov Family<span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Krunliv.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
