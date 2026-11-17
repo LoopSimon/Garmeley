@@ -1,15 +1,14 @@
 %%   
-[[The Veilcurse]]   
-[[Daemon]]   
+[[The Veilcurse]]    
 [[The Abyss]]   
-[[Elf]]   
 [[Alparaz]]   
 [[Milan Kabaar]]   
 [[Korsfall College]]   
 [[Mural Theory]]   
 %%   
-<p>Masakh, from the old elven word of Behera for "monstrosity", is the name given both to a curse that strikes casters who summon or call upon entities beyond themselves and to those it strikes. Most of its victims are elves. Under one name or another the curse is told of in the folklore of many peoples, and its oldest records reach back to the old elves of Behera in the 2nd millennium BA.</p>   
-<p>The curse is often counted as a form of <a href="The Veilcurse" class="internal-link">the Veilcurse</a>, and like it falls on casters who channel more than they can hold. What sets it apart is that it falls almost only on those who reach outward: conjurers and summoners above all, but also those who call on spirits, ancestors or the dead. Many of its victims were not aware of reaching for anything at all. Those Masakh who can still speak of it tend to say the same thing, that something answered.</p>   
+<p>Masakh, from the old elven word of Behera for "monstrosity", is the name given both to a curse that strikes casters who summon or call upon entities beyond themselves and to those it strikes. Most of its victims are elves. Under one name or another the curse is told of in the folklore of many peoples, and its oldest records reach back to the old elves of Behera in the 2nd millennium BA. This phenomenon has only been recorded in greater number among the Elfs, whose natural pre-disposition to the energies of the beyond invite this feared result.</p>   
+<p>This result of a failed invocation is often counted as a form of <a href="The Veilcurse" class="internal-link">the Veilcurse</a>, and like it falls on casters who channel more than they can hold. What sets it apart is that it falls almost only on those who reach outward: conjurers and summoners above all, but also those who call on spirits, ancestors or the dead. Many of its victims were not aware of reaching for anything at all. Those Masakh who can still speak of it tend to say the same thing, that something answered. There are few, crazed or confident enough to try, that have purposefully undergone the Masakh and transformed themselves, in search for power, enlightenment or ascension.</p>   
+ 
 <h2>The Three Curses</h2>   
 <p>The elven summoner <a href="Milan Kabaar" class="internal-link">Milan Kabaar</a> set out the three curses in the 6th century PA, and her division is still followed.</p>   
 <p>The first and by far the most common is deformity. The caster's body twists out of its shape, sometimes in the moment of casting and sometimes over the days that follow, until little of the person can be recognised in it. Physicians who have seen both note that where the Veilcursed change without order, the deformities of a Masakh repeat themselves, as though the flesh had been given a shape to grow toward. No cure is known, and exorcism has never helped.</p>   
@@ -19,3 +18,4 @@
 <h2>Study</h2>   
 <p>Beyond folklore, the oldest accounts of the Masakh are found in the Vyr-Ench Scrolls, the so-called Book of Promise, in which the summoner-pharaoh <a href="Alparaz" class="internal-link">Alparaz IV</a> recorded his decades of conversation with the bound <a href="Daemon" class="internal-link">daemon</a> Grahul. Milan Kabaar worked from transcriptions of these scrolls, and argued that the curse falls when a summoner's call reaches further than they meant and is answered by something from <a href="The Abyss" class="internal-link">the Abyss</a>. She later became Masakh herself, and what became of her is unknown.</p>   
 <p>In the west the Masakh are studied, when at all, alongside the Veilcursed at <a href="Korsfall College" class="internal-link">Korsfall College</a>, where several have been kept at the House of Chimes. Some Wallwardens hold that the Masakh are no separate curse but the Veilcurse as it shows in those who were reaching for something when their wall came down.</p>   
+<p> <a href="Shuyat" class="internal-link">The Shuyat</a>, whose existence many doubt to begin with, is rumoured to employ the Roher as assets of destruction, agents within their schemes and operations, while the policy of the official Asafi of Suhur within the Sultanate, the organ of governance tasked with matters of the arcane, is to eradicate anyone attempting to undergo this transformation and hunt those who do and become known as survivors down like dangerous beasts.</p>  
