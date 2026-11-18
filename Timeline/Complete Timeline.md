@@ -562,8 +562,9 @@
             <div class="timeline-item" data-date="609PA">Dolm Catastrophe</div>
             <div class="timeline-item" data-date="610PA">Galiatar's elven translations</div>
             <div class="timeline-item" data-date="615PA">Eokil seals the City and declares himself High-Priest of Untizin, assuming similar powers to Oxiter</div>
-            <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk</div>
-            <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh"</div>
+            <div class="timeline-item" data-date="616PA">Ivo Tetivić kills the imperial reeve of Tirata; <br>The Oath of Zorište, five valleys of the Limsul Peaks swear to stand together against the Zeprian Empire</div>
+            <div class="timeline-item" data-date="617PA">Rossgi I founds the Kingdom of Juelfluk;<br>Battle of the Ledena Gorge, the valleys of Tirata rout an imperial army of Zižka II</div>
+            <div class="timeline-item" data-date="618PA">Larkomas writes the "Essence of Rakh";<br>Emperor Zižka II withdraws his reeves from the valleys, the League of Tirata wins its independence from the Zeprian Empire</div>
             <div class="timeline-item" data-date="619PA">2nd Vihri-Leoki War breaks out</div>
             <div class="timeline-item" data-date="620PA">First Zuhuri Holy War begins</div>
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>

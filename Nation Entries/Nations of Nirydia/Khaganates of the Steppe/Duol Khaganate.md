@@ -1,5 +1,5 @@
 %%
-[[Bihra]] [[Bihra Shamanism]] [[Kareli Hierarchy]] [[Kherova]] [[Jigallor Khaganate]]
+[[Bihra]] [[Bihra Shamanism]] [[Kareli Hierarchy]] [[Kherova]] [[Jigallor Khaganate]] [[Niryd Steppe]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Duol Khaganate</h4>
