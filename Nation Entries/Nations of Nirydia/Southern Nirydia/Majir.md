@@ -1,7 +1,7 @@
 %%  
 [[Ganoan Dye]]  
 [[Para]]  
-[[Bihra]]  
+[[Azbihra]]
 [[Jink]]  
 [[Kareli Hierarchy]]  
 [[Roxeria]]  
@@ -39,7 +39,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span><a href="Ganoan" class="internal-link">Ganoan</a> <a href="Human" class="internal-link">Human</a>,<br>Ganoan <a href="Bihra" class="internal-link">Bihra</a></span>  
+ <span><a href="Ganoan" class="internal-link">Ganoan</a> <a href="Human" class="internal-link">Human</a>,<br>Ganoan <a href="Azbihra" class="internal-link">Azbihra</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  

@@ -1,5 +1,5 @@
 %%
-[[Bihra]]
+[[Azbihra]]
 [[Kareli Hierarchy]]
 [[Bigronism]]
 %%
@@ -11,7 +11,7 @@
     </div>
     <div class="wiki-row">
         <strong>Culture</strong>
-        <span>Kareli <a href="Bihra" class="internal-link">Bihra</a></span>
+        <span>Kareli <a href="Azbihra" class="internal-link">Azbihra</a></span>
     </div>
     <div class="wiki-row">
         <strong>Born</strong>

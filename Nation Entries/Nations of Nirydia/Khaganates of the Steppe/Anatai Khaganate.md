@@ -1,6 +1,6 @@
 %%  
-[[Bihra]] [[Bihra Shamanism]] [[Niryd Steppe]] [[Great Khaganates of the Steppe]]  
-[[Jigallor Khaganate]] [[Duol Khaganate]] [[Kherova]]  
+[[Bihra Shamanism]] [[Niryd Steppe]] [[Great Khaganates of the Steppe]]  
+[[Jigallor Khaganate]] [[Duol Khaganate]] [[Kherova]]  [[Steppe Bihra]]
 %%  
 <div class="wiki-infobox">  
  <h4 class="wiki-header">Anatai Khaganate</h4>  
@@ -27,7 +27,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span>Steppe <a href="Bihra" class="internal-link">Bihra</a></span>  
+ <span><a href="Steppe Bihra" class="internal-link">Steppe Bihra</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  

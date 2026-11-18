@@ -1,4 +1,4 @@
-%%[[Orc]] [[Yl-Lhatsi]] [[Gaden]][[Karaluk]][[Az]][[Ekkam]][[Ganoan]] [[Nine Great Guilds]] [[Mystics Guild]]
+%%[[Orc]] [[Yl-Lhatsi]] [[Gaden]][[Karaluk]][[Az]][[Ekkam]][[Ganoan]] [[Nine Great Guilds]] [[Mystics Guild[](Azbihra.md)]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kareli Hierarchy</h4>
@@ -25,7 +25,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Kareli <a href="Bihra" class="internal-link">Bihra</a>,<br>Qahori <a href="Orc" class="internal-link">Orcs</a>,<br><a href="Ganoan" class="internal-link">Ganoan</a> <a href="Human" class="internal-link">Human</a></span>
+        <span>Kareli <a href="Azbihra" class="internal-link">Azbihra</a>,<br>Qahori <a href="Orc" class="internal-link">Orcs</a>,<br><a href="Ganoan" class="internal-link">Ganoan</a> <a href="Human" class="internal-link">Human</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

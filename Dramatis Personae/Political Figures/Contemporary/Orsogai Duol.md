@@ -18,7 +18,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Culture</strong>  
- <span>Steppe <a href="Bihra" class="internal-link">Bihra</a></span>  
+ <span><a href="Steppe Bihra" class="internal-link">Steppe Bihra</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Born</strong>  

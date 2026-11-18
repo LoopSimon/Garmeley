@@ -1,7 +1,7 @@
 %%
 [[Kareli Hierarchy]]
 [[Gaden]]
-[[Bihra]]
+[[Steppe Bihra]]
 [[Bihra Shamanism]]
 %%
 <div class="wiki-infobox">
@@ -29,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Steppe <a href="Bihra" class="internal-link">Bihra</a></span>
+        <span><a href="Steppe Bihra" class="internal-link">Steppe Bihra</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

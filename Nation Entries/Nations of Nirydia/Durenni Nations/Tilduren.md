@@ -26,7 +26,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <span>Durenni<a href="Zuhurism" class="internal-link">Zuhurism</a></span>
+        <span>Durenni <a href="Zuhurism" class="internal-link">Zuhurism</a></span>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>

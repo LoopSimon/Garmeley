@@ -1,5 +1,5 @@
 %%  
-[[Bihra]] [[Bihra Shamanism]] [[Niryd Steppe]] [[Great Khaganates of the Steppe]]  
+ [[Bihra Shamanism]] [[Niryd Steppe]] [[Great Khaganates of the Steppe]]  [[Steppe Bihra]]
 [[Jigallor Khaganate]] [[Duol Khaganate]] [[Tizin-Kol]] [[Pintrixaz]] [[Lugosch]] [[Jorvistan]]  
 %%  
 <div class="wiki-infobox">  
@@ -27,7 +27,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span>Steppe <a href="Bihra" class="internal-link">Bihra</a></span>  
+ <span><a href="Steppe Bihra" class="internal-link">Steppe Bihra</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  

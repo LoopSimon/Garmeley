@@ -2,6 +2,7 @@
 [[Minotaur]]
 [[Yeorite]]
 [[Iratism]]
+
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Great Gaal</h4>
@@ -28,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Terenni <a href="Minotaur" class="internal-link">Minotaur</a>,<br>Terenni <a href="Human" class="internal-link">Human</a>,<br> Terenni <a href="Bihra" class="internal-link">Bihra</a></span>
+        <span>Terenni <a href="Minotaur" class="internal-link">Minotaur</a>,<br>Terenni <a href="Human" class="internal-link">Human</a>,<br> Terenni [[Azbihra]]</span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

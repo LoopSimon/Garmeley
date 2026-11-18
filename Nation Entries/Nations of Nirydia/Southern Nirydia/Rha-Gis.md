@@ -1,5 +1,5 @@
 %%
-[[Bihra]] [[Bihra Shamanism]][[Dragon]]
+[[Azbihra]] [[Bihra Shamanism]][[Dragon]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">High Temple of Rha-Gis</h4>
@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Rhagi <a href="Bihra" class="internal-link">Bihra</a></span>
+        <span>Rhagi <a href="Azbihra" class="internal-link">Azbihra</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

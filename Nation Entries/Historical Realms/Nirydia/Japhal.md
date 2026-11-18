@@ -2,6 +2,7 @@
 [[Rayadan]]
 [[Vas Ira]]
 [[Vanpur]]
+[[Durbihra]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Omna of Japhal</h4>
@@ -28,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Durenni <a href="Sunborn" class="internal-link">Sunborn</a>,<br> Durenni <a href="Bihra" class="internal-link">Bihra</a></span>
+        <span>Durenni <a href="Sunborn" class="internal-link">Sunborn</a>,<br><a href="Durbihra" class="internal-link">Durbihra</a></span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>

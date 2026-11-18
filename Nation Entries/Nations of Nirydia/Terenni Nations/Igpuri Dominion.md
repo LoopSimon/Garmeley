@@ -26,7 +26,7 @@
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
-        <span>Terenni <a href="Bihra" class="internal-link">Bihra</a></span>
+        <span>Terenni [[Azbihra]]</span>
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
