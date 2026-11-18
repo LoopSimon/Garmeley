@@ -705,13 +705,15 @@
               <div class="timeline-item" data-date="791PA">Remillion is gone from the Trifflands, the Council of Triff takes over and administers his domain</div>
             <div class="timeline-item" data-date="792PA">Battvian Civil War breaks out;<br>Battle of Gialo;<br>Battle of Fiarco;<br>Battle of Minea ends the Fifth Zuhuri Holy War</div>
             <div class="timeline-item" data-date="793PA">Battle of Fierra</div>
-            <div class="timeline-item" data-date="794PA">Battle of Adsal and end of the Jigallori Khaganate</div>
+            <div class="timeline-item" data-date="794PA">Battle of Adsal, the last Jigallor falls and the Jigallor Khaganate breaks apart</div>
             <div class="timeline-item" data-date="795PA">Weadi traders open the Kelzen Route sealane, linking the Torn Sea to the Gerjodi Islands and the northern shores of Aisligos</div>
-            <div class="timeline-item" data-date="797PA">Battle under the Olive Trees</div>
-            <div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador;<br>Battle of Bereggio</div>
+            <div class="timeline-item" data-date="796PA">Founding of the Anatai Khaganate by heirs of the Jigallor</div>
+			<div class="timeline-item" data-date="797PA">Battle under the Olive Trees</div>
+            <div class="timeline-item" data-date="798PA">Founding of the Yadu Khaganate by heirs of the Jigallor</div>
+			<div class="timeline-item" data-date="799PA">Cult of Vibattu gains notoriety in Turpador;<br>Battle of Bereggio</div>
             <div class="timeline-item" data-date="800PA">Paper Cities unite as the Battvian Civil War ends in peace;<br>King Gildher III ends the unrest in Zeeport with the Zeeport Agreement</div>
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
-            <div class="timeline-item" data-date="802PA">House Tryn is raised to the Vadcy of Levazci after the House zi Kerv dies out</div>
+            <div class="timeline-item" data-date="802PA">House Tryn is raised to the Vadcy of Levazci after the House zi Kerv dies out;<br>Founding of the Gökol Khaganate by heirs of the Jigallor</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Gun</div>
             <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
@@ -755,7 +757,7 @@
              <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate as White Wars begin in Behera;<br>Iris Keyzal founds the Keyzal Workshop as the research arm of the Inos Mining Cartel</div>
              <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan; <br>The Peace of Chezin ends the Period of the Bleeding Heron as Koshtir, Chezin and Rikarma make peace with Hanshi</div>
              <div class="timeline-item" data-date="850PA">"Dance of Husks" devastates urban population of Kherova and Grevenna</div>
-            <div class="timeline-item" data-date="851PA">War of Horn and Fang starts;<br> Battle of the Bow;<br>Founding of Guadaxerra</div>
+            <div class="timeline-item" data-date="851PA">War of Horn and Fang starts;<br> Battle of the Bow;<br>Founding of Guadaxerra;<br>The Duol Khan is acclaimed overlord by the great Khaganates of the Niryd Steppe and takes the title Khan of Khans</div>
             <div class="timeline-item" data-date="852PA">Battle of the Bay;<br>Days of Ire between Hastermon Temple and Ubrut Uroš of Amlija, who is ritually blinded before being forgiven</div>
              <div class="timeline-item" data-date="853PA">1st Battle of Tears;<br> Kisras Miskomir relieves the Siege of Uhl;<br>The Keyzal Visor is first sold to the mercenaries of the Mistspire Underlands</div>
              <div class="timeline-item" data-date="854PA">"Dance of Husks" in southern Vihr and most dominantly affects Garmeley, central and southern Ur and the lands around the Stormy Sea, slowly reaches Cevolia but doesn't seem to be as effective in the northern lands.</div>
@@ -801,7 +803,7 @@
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom;<br>Riots break out in Majir and the Mystic Ulissa Verzo is killed, by winter war breaks out between Jink and Majir in the Ganoa Valley</div>
             <div class="timeline-item" data-date="894PA">Perrin Diar adresess the public at the University of Jera, birth of Diarism</div>
 	        <div class="timeline-item" data-date="895PA">Grand Tourney of Uhl;<br> Almersport is founded in the New World on the south-eastern coast of Peadyr;<br>A truce between Jink and Majir ends the war in the Ganoa Valley</div>
-	        <div class="timeline-item" data-date="896PA">War of 896, Turv passes from Gelmsburg to Gisvale after a coup in the city, backed by the Archduke, and the march of his knights</div>
+	        <div class="timeline-item" data-date="896PA">War of 896, Turv passes from Gelmsburg to Gisvale after a coup in the city, backed by the Archduke, and the march of his knights;<br>The Yadu Khaganate is the last of the great Khaganates to refuse the Duol service</div>
             <div class="timeline-item" data-date="897PA">Treaty of Paqor sees the city become autonomous from the Hierarchy under international pressure;<br>Reanport University, under Korman van Schipwig, takes up the treatise of Gahenna and teaches the Wheeling beside the Cosmology of Ralzig</div>
             <div class="timeline-item" data-date="898PA">Odrick von Fulmer is appointed High-Chancellor of Meadrath;<br>Gisela III founds the Royal Congress</div>
             <div class="timeline-item" data-date="899PA">"Visian League" is formed as a defensive military cooperation between Lissvalley, Cimfon & Erlmondy;<br>The Eye of Kasimir is completed in Szievek</div>
@@ -820,15 +822,15 @@
              <div class="timeline-item" data-date="907PA">Mycomother Suolang ascends and disbands the Rash Gopal;<br> Tourney at Mitrad;<br>Magda Bazena Nib retires from the Council of Tizin-Kol</div>
             <div class="timeline-item" data-date="908PA">Treaty of Kulum;<br>The magi towers of Patwin and Edessa adopt the Wheeling of Gahenna</div>
             <div class="timeline-item" data-date="909PA">"Triquetra" by Carassa al-Kael is published;<br>Saghor of Aït Ouzal elected Amghar.</div>
-            <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach;<br>Vorellan Wars begin;<br>Death of Gisela III, Gisela IV becomes Queen of Meadrath</div>
+            <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach;<br>Vorellan Wars begin;<br>Death of Gisela III, Gisela IV becomes Queen of Meadrath;<br>Open war breaks out between the Gökol Khaganate and Tizin-Kol over the dam at Zian Station</div>
              <div class="timeline-item" data-date="911PA">9th War of Baeling Succession;<br>Death of Magda Bazena Nib</div>
-             <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina;<br>Sadizka Ovoletru of Rivno publishes "The Afterimage of the Beast"</div>
+             <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina;<br>Sadizka Ovoletru of Rivno publishes "The Afterimage of the Beast";<br>The Elek, vassals of the Yadu, take the mountains and hills between the Niryd Steppe and the Gorati Highlands</div>
             <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Jean du Jera leaves court for Jera after Gisela IV takes full governance;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath</div>
-            <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caves;<br>Archibald Grig, first Lord-Governour of Dalesire, dies</div>
+            <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caverns, Kubil no Vang destroys the Tuchewa Khaganate;<br>Archibald Grig, first Lord-Governour of Dalesire, dies</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Orthel II is elected High-Bisop of Iztaw;<br>Xer-Kol begins refining and manufacturing black powder</div>
             <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment;<br>The Karajal School of Insight accepts the Wheeling of Gahenna;<br>Battle of Cefran, first use of black powder weapons on a surface battlefield;<br>Battle of Modim Cave;</div>
             <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
-            <div class="timeline-item" data-date="918PA">Independence Movements grow once again in Droil;<br>The kethric missionary known as the White Sister arrives in the Ganoa Valley</div>
+            <div class="timeline-item" data-date="918PA">Independence Movements grow once again in Droil;<br>The kethric missionary known as the White Sister arrives in the Ganoa Valley;<br>Orsogai Duol becomes Khan of the Duol at the age of 19</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport;<br>Coster of Melmbirth marries Princess Lena of Eldmar</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>
             <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World</div>
