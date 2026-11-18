@@ -4,6 +4,7 @@
 [[Rulers of Kherova]]
 [[Daban-Kol]]
 [[Yellow War]]
+[[Niryd Steppe]]  [[Jigallor Khaganate]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">The Khatrym of Kherova</h4>
@@ -53,7 +54,7 @@
 
 <h3>Geography</h3>
 <p>The defining feature of Kherova is the great Lake Kher, which sits in the Kher-Basin at the southern slopes of the <a href="Mistspires" class="internal-link">Mistspires</a>. Often described as the Kher Sea, it is the world's largest lake by far and reaches depths of over 1000 metres.</p>
-<p>The Kulum Lowlands in the south are the country's access to the rich trade of the Pilvian Gulf and the climate grows notably warmer here, whereas the eastern half of the nation reaches into the <a href="Nirydia" class="internal-link">Nirydian Steppe</a> and the desolated northern wastes of Thamiras Rest.</p>
+<p>The Kulum Lowlands in the south are the country's access to the rich trade of the Pilvian Gulf and the climate grows notably warmer here, whereas in the north-east the land rises into the Dalhills, and beyond the forts of the Kurini Mountains the desolated wastes of Thamiras Rest lead out onto the <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a>.</p>
 <p>The lake itself is also bordered by the smaller Kurini mountains in the south.</p>
 <p>Central Kherova is hilly and temperate, the lake itself creating a very welcoming and hospitable climate.</p>
 
@@ -105,9 +106,9 @@
 <h3>Wars of Elbae aggression</h3>
 <p>When the elven <a href="Elbae" class="internal-link">Sultanat</a> attacked <a href="Grevenna" class="internal-link">Grevenna</a> in what is now known as the 1st War of Elbae in 750PA, Kherovan forces joined in the defensive coalition together with the nations of <a href="Vihr" class="internal-link">Vihr</a> and <a href="Grachy" class="internal-link">Grachy</a> to defend their neighbour.</p>
 <p>After the conclusion of the war and the defeat of the Sultanate, Kherova gained international renown for its fierce warriors and extremely useful anti-magical expertise against the magical supremacy of the Sultanate.</p>
-<p>Nineteen years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the <a href="Bihra" class="internal-link">Bihra</a> Khans of <a href="Nirydia" class="internal-link">Nirydia</a> had united for the first time in recorded history under a creature by the name of Jigallor, his grandson had since taken control of this Khaganate and used the distracted position of Kherova to strike the eastern cities in 782PA.</p>
+<p>Nineteen years later, Kherovan troops were once again ready to defend their western allies during the 2nd Elbae Invasion disaster struck: the ancient enemies to the east, the <a href="Steppe Bihra" class="internal-link">Steppe Bihra</a> Khans of the <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a>, had once more been gathered under a single Great Khan. The reigning Khan of the <a href="Jigallor Khaganate" class="internal-link">Jigallor Khaganate</a>, Jigallor son of Jigallor, used the distracted position of Kherova to strike the eastern cities in 782PA.</p>
 <p>Jigallors Horde devastated eastern Kherova, destroying the Fortress Cities of Adsal and Iblis, laying waste to Dalkil and laying siege to Erbil, one of the three jewels of Kherova.</p>
-<p>The Invaders were beaten back, the siege relieved and Jigallor fell during the Battle of Erbil, however the sudden retreat of the extremely valuable kherovan forces spelled Doom for <a href="Grevenna" class="internal-link">Grevenna</a>, and was largely responsible for the loss of the 2nd War of Elbae Aggression leading to hostilities and enmity between Grevenna and Kherova to this date.</p>
+<p>The Invaders were beaten back at the Battle of Erbil and the siege relieved, though the Khan himself escaped onto the steppe, and his line endured until the last Jigallor fell at the Battle of Adsal in 794PA. The sudden retreat of the extremely valuable kherovan forces spelled Doom for <a href="Grevenna" class="internal-link">Grevenna</a>, and was largely responsible for the loss of the 2nd War of Elbae Aggression leading to hostilities and enmity between Grevenna and Kherova to this date.</p>
 <p>Kherova would not join the 3rd Coalition and maintain neutral relations to the <a href="Elbae" class="internal-link">Sultanat</a>, even going so far as to refuse to sign the <a href="Treaty of Danipol" class="internal-link">Treaty of Danipol</a> in 815PA.</p>
 
 <hr class="wiki-hr">

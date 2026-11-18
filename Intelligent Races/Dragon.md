@@ -1,6 +1,8 @@
 
 A list of known Dragons
 
+True Dragons are so rare that they are barely documented, and scholars believe that the common tales of fire-breathing dragons stem from sightings of the <a href="Gnarlskin Salamander" class="internal-link">Gnarlskin Salamanders</a> of the <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a>, to which they are unrelated.
+
 ***Raugfur***
 	 "The Great Shadow", a creature more myth than even legend is often considered the ancestral father of all Dragons and winged god of life and death. He is worshipped under many names in various cultures of the northern hemisphere and mentioned in the Bykmali, Nostroyan Saga Cycles as well as Nirydian and even Zefelli sources as the greatest of all Dragons.
 
@@ -14,7 +16,7 @@ A list of known Dragons
 	mythical Dragon of [[Trykkerog]] mentioned in the  [[Fjorisjom Saga]].
 
 ***Thamira***
-	The Antagonist in *"The Fated Journey of Khariel"*, a Kherovan tale describing the real life figure of Khariel, likely dated to the Era of Cities in the history of [[Kherova]], Thamira's Rest, the rocky lands on the south-eastern slopes of the <a href="Mistspires" class="internal-link">Mistspires</a>, are named after this Wyrm.
+	The Antagonist in *"The Fated Journey of Khariel"*, a Kherovan tale describing the real life figure of Khariel, likely dated to the Era of Cities in the history of [[Kherova]], Thamira's Rest,the wastes between the Kurini Mountains and the open <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a>, are named after this Wyrm.
 	Attempts to reconstruct the origin of the tale have largely been hindered by the [[Kherovan Inquisition]]s lockdown of the Ruins of Alahmid, following the exploits of the Wizard Merzigal,
 	but there are those who believe Thamira may not have been a Dragon at all, but instead perhaps a creation of the "Great Sculptor" or even an entity from beyond our Plane of existence.
 

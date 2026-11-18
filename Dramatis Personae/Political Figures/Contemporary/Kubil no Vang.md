@@ -4,6 +4,7 @@
 [[Shirin]]
 [[Lakalism]]
 [[Niryd Steppe]]
+[[Yadu Khaganate]]
 %%
 
 <div class="wiki-infobox">
@@ -55,7 +56,7 @@
 
 <h3>The Battle of the Amethyst Caverns</h3>
 
-<p>The Tuchewa Khaganate of the monstrous <a href="Bihra" class="internal-link">Bihra</a> of the Steppe had occupied a contested zone south of the Tower line for several decades, alternating between periods of accommodation with the Imperium and aggressive raiding of the border prefectures when imperial attention was directed elsewhere. By the early 910s their raids had grown sufficiently damaging to the agricultural output of the southern Taonoat prefectures that the Nan of Revenues formal assessment of the economic cost reached the Imperial Secretary's desk, triggering a political decision to resolve the question definitively rather than continue managing it reactively.</p>
+<p>The Tuchewa Khaganate of the monstrous <a href="Steppe Bihra" class="internal-link">Steppe Bihra</a>, a vassal of the <a href="Yadu Khaganate" class="internal-link">Yadu</a>, had occupied a contested zone south of the Tower line for several decades, alternating between periods of accommodation with the Imperium and aggressive raiding of the border prefectures when imperial attention was directed elsewhere. By the early 910s their raids had grown sufficiently damaging to the agricultural output of the southern Taonoat prefectures that the Nan of Revenues formal assessment of the economic cost reached the Imperial Secretary's desk, triggering a political decision to resolve the question definitively rather than continue managing it reactively.</p>
 
 <p>Kubils campaign of 914PA drove Tuchewa forces progressively southward over several months of sustained pressure, leveraging his superior logistical preparation to maintain operational tempo through terrain and weather conditions that had defeated previous punitive expeditions. The decisive engagement at the Amethyst Caverns, a complex of mineral caves in the southern steppe margin that Tuchewa Khan had chosen as a defensible last position, was concluded in a single day of fighting that left the Khaganates military leadership either dead or captured and its political structure effectively dissolved. Kubil's decision to offer generous terms to the surviving Tuchewa population rather than pursue further destruction has been variously praised as wise and criticized by more hawkish elements within the Nan of War as an unnecessary restraint that left the door open to future reorganization of Tuchewa identity under a new Khan.</p>
 

@@ -5,7 +5,8 @@
 [[Sredit]]   
 [[Twintail Imperium]]   
 [[Veziva]]   
-[[Rha-Gis]]   
+[[Rha-Gis]]
+ [[Yadu Khaganate]]
 [[Black Powder]]   
 %%  
 <div class="wiki-infobox">  
@@ -57,7 +58,9 @@
 <h2>History</h2>  
 <p>Jateš was founded in 287PA, making it one of the oldest Gorati realms, though unlike <a href="Ruginë" class="internal-link">Ruginë</a> it did not keep its independence through the centuries that followed. Its position on the border of the Shirin lands made it a prize for both its neighbours, and it passed between Zeprian and Shirin rule several times. Even under the Empire it kept its status as a duchy.</p>  
 <p>In the last years of the Empire the old feud between the Mustari house of Rizev and the Kraguvci house of Ohodrev broke out again in 764PA, and the Crown Prince Matjar, who came north in support of the Ohodrev, was met in battle by the Rizev and laughed off by his own allies. With the fall of the Empire in 767PA Jateš regained its independence from Gorati and Shirin overlords alike.</p>  
-<p>In 880PA the duchy lost Sredit, once known as the pearl of Jateš. Under the influence of Zeprian politicians at the court, the tobacco tax on Shirin merchants from the north had been raised yet again, and with the backing of the Twintail Imperium, which promised experimental Huling weapons, great ships and protection should Plašato support a reconquest, the patricians of Sredit renounced the overlordship of Jateš. The secession also drew on the rivalry of the Mustari of the city with the Kraguvci. In the early 10th century <a href="Black Powder" class="internal-link">black powder</a> weapons have begun to spread into Jateš from the north.</p>  
+<p>In 880PA the duchy lost Sredit, once known as the pearl of Jateš. Under the influence of Zeprian politicians at the court, the tobacco tax on Shirin merchants from the north had been raised yet again, and with the backing of the Twintail Imperium, which promised experimental Huling weapons, great ships and protection should Plašato support a reconquest, the patricians of Sredit renounced the overlordship of Jateš. The secession also drew on the rivalry of the Mustari of the city with the Kraguvci. In the early 10th century <a href="Black Powder" class="internal-link">black powder</a> weapons have begun to spread into Jateš from the north.</p>
+
+<p>In 912PA the Elek, a Khaganate of the <a href="Steppe Bihra" class="internal-link">Steppe Bihra</a> and vassals of the <a href="Yadu Khaganate" class="internal-link">Yadu</a>, took the mountains and hills between the <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a> and the Gorati Highlands with large hosts. Keeping to the high ground to avoid the Shirin legions of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a>, they spilled into the lands of Jateš and the Mustari.</p>
 <h2>Politics</h2>  
 <p>The Khir of Jateš rules over a nobility of many major and minor houses, among them the counts of Rizev and Ohodrev, whose feud continues to divide the duchy along the old line between Mustari and Kraguvci. The current Khir is Dragan od Hajdarević.</p>  
 <p>Jateš has never claimed to be of equal rank with Plašato and has kept the ducal status it held under the Empire. It is allied to Plašato but pays no tribute and shows no other sign of fealty to Rivno. Neither Plašato nor the Twintail Imperium can march on the duchy without provoking an all-out defence of it by the other, and so both pursue their aims there through diplomacy and manipulation, while Jateš manoeuvres deftly between them. Above all else it seeks to regain Sredit, which is protected by the Twintail, and this desire is the greatest source of conflict in the region.</p>  
