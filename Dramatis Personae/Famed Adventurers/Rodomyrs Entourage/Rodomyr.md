@@ -29,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>slain by Marianna Kaminski, aged 50</span>
+        <span>slain by Jan of Kolglade, aged 50</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
