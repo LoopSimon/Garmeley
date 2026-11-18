@@ -402,10 +402,12 @@
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="331PA">Karajal founds the School of Insight at Alparak</div>
             <div class="timeline-item" data-date="332PA">The Duchy of Nied is created by the Kings of Urland to oversee old Kerlaen</div>
+            <div class="timeline-item" data-date="338PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
             <div class="timeline-item" data-date="340PA">The Dovesplague breaks out in major ports of the Torn Sea</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
 			<div class="timeline-item" data-date="345PA">Ardol III "Ogre Hammer" becomes King of Gisvale; <br>his reign sees the ogres driven from the eastern foothills near the Bend of the Trinmo</div>
+			<div class="timeline-item" data-date="346PA">Shirin-Xungin Wars end with the defeat of the Xungin Khaganate south of the Mondi River</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
 			 <div class="timeline-item" data-date="361PA">Morelle is raised to an Archduchy</div>
             <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire</div>
@@ -426,10 +428,9 @@
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", <br>Gethricism has become the most popular religion on the Continent</div>
             <div class="timeline-item" data-date="401PA">The Plague of Flesh breaks out in the Empire of Vanpur</div>
-            <div class="timeline-item" data-date="402PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
             <div class="timeline-item" data-date="403PA">Crisis of the Golden Throne ends</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
-            <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil, Shiring-Xungin Wars end</div>
+            <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants;<br>Karrod, the red Omen Star, flares in the night sky above Qa; the Qahori later remember it as the beginning of Zolra's whispering</div>
             <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin</div>
             <div class="timeline-item" data-date="414PA">Fall of the Onari Empire</div>
