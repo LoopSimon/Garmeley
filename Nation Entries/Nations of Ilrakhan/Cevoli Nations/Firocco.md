@@ -51,5 +51,6 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Firocco_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>An ancient City on the Grizani Islands south of <a href="Cevolia" class="internal-link">Cevolia</a>, Firocco was likey founded by <a href="Orestis" class="internal-link">oresti</a> settlers in the 4th century BA, before falling under cevoli hands. After the Fall of the Molina Kings and the end of the greater Kingdom of <a href="Cevolis" class="internal-link">Cevolis</a> in the 6th century it was nominally under the domain of the Duc of <a href="Jeledo" class="internal-link">Jeledo</a> but declared independence under the rule of the Sorcerer Tyrant <a href="Salvia" class="internal-link">Salvia</a> in 709PA as the so called "Firocco Hegemony". In the year 881PA the then ruler Vulgia was overthrown and the leaders of the city declared the Independent Firocco Republic, that exists to this day.</p>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Firocco1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
+<iframe src="https://editor.garmeley.com/v/inara/?region=firocco&amp;view=flat"
+        width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
+        loading="lazy" allow="fullscreen" title="firocco (Inara)"></iframe>
