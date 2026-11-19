@@ -1,5 +1,6 @@
 %%
 [[Jeledo]]
+[[Trinicism]]
 [[Cevolia]]
 %%
 <div class="wiki-infobox">

@@ -65,10 +65,14 @@
 <p>Natan IV, 245PA - 268PA</p>
 <p>Natan V, 268PA - 298PA</p>
 <p>Natan VI "the Wise", 298PA - 340PA</p>
-<p>Natan VII, 340PA - 358PA</p>
+<p>Natan VII "the Red", 340PA - 358PA</p>
 <p>Natan VIII, 358PA - 377PA</p>
 <p>Natan IX, 377PA - 395PA</p>
 <p>Natan X "Irontail", 395PA - 422PA</p>
+
+*1st Leveli-Shirin War, 399PA - 402PA*  
+*2nd Leveli-Shirin War, 413PA - 416PA, conquest of the Rimagna Valley*
+
 <p>Natan XI, 422PA - 444PA</p>
 <p>Natan XII, 444PA - 467PA</p>
 

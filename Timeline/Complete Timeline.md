@@ -402,9 +402,9 @@
             <div class="timeline-item" data-date="329PA">Sultan Lizun declares the Doctrine of Elbae Exceptionalism</div>
             <div class="timeline-item" data-date="331PA">Karajal founds the School of Insight at Alparak</div>
             <div class="timeline-item" data-date="332PA">The Duchy of Nied is created by the Kings of Urland to oversee old Kerlaen</div>
-            <div class="timeline-item" data-date="338PA">Shirin-Xungin Wars begin under Natan X "Irontail"</div>
+            <div class="timeline-item" data-date="338PA">Shirin-Xungin Wars begin under the crown prince of Natan VI, later Natan VII "the Red"</div>  
             <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
-            <div class="timeline-item" data-date="340PA">The Dovesplague breaks out in major ports of the Torn Sea</div>
+            <div class="timeline-item" data-date="340PA">The Dovesplague breaks out in major ports of the Torn Sea;<br>Death of Natan VI "the Wise", Natan VII "the Red" becomes Imperator of the Twintail</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
 			<div class="timeline-item" data-date="345PA">Ardol III "Ogre Hammer" becomes King of Gisvale; <br>his reign sees the ogres driven from the eastern foothills near the Bend of the Trinmo</div>
 			<div class="timeline-item" data-date="346PA">Shirin-Xungin Wars end with the defeat of the Xungin Khaganate south of the Mondi River</div>
@@ -426,18 +426,22 @@
 			<div class="timeline-item" data-date="390PA">The majority of Korsfall is now Gethric, as is Gisvale; <br>the kings of Korsfall soon take Gethric oaths after their coronations and cathedrals to the Candleflame are built</div>
             <div class="timeline-item" data-date="392PA">Approximate first Inamid Council of the Zreni Vannsi in Jeturlund</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
-            <div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", <br>Gethricism has become the most popular religion on the Continent</div>
+            <div class="timeline-item" data-date="399PA">First Leveli-Shirin War begins</div>  
+			<div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", <br>Gethricism has become the most popular religion on the Continent</div>
             <div class="timeline-item" data-date="401PA">The Plague of Flesh breaks out in the Empire of Vanpur</div>
+			<div class="timeline-item" data-date="402PA">First Leveli-Shirin War ends in stalemate on the Mondi River;<br>Natan X "Irontail" begins the Natani military reforms</div>  
             <div class="timeline-item" data-date="403PA">Crisis of the Golden Throne ends</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
             <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants;<br>Karrod, the red Omen Star, flares in the night sky above Qa; the Qahori later remember it as the beginning of Zolra's whispering</div>
-            <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin</div>
-            <div class="timeline-item" data-date="414PA">Fall of the Onari Empire</div>
-            <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia</div>
+            <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin;<br>Second Leveli-Shirin War begins, the Twintail crosses the Mondi at the Tiachen Bridge</div>  
+            <div class="timeline-item" data-date="414PA">Fall of the Onari Empire;<br>Battle of the Rimagna Valley</div>  
+            <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia;<br>Battle of the Hazen River</div>  
+			<div class="timeline-item" data-date="416PA">Second Leveli-Shirin War ends, the southern armies of Levelix surrender and General Hinseou presents his Iril to Natan X "Irontail"</div>  
+			<div class="timeline-item" data-date="417PA">Construction of Fort Nutun on the Hazen River begins</div>  
             <div class="timeline-item" data-date="418PA">The Hold of Fogor-Kol begins to rapidly expand in the beheri underlands</div>
             <div class="timeline-item" data-date="419PA">The Beast of Errel emerges as the first recorded member of the Zuzka</div>
-            <div class="timeline-item" data-date="422PA">Fogor-Kol and Avdan-Kol ally and divide the central beheri underlands between them</div>
+            <div class="timeline-item" data-date="422PA">Fogor-Kol and Avdan-Kol ally and divide the central beheri underlands between them;<br>Death of Natan X "Irontail", Late Natani Decline begins in the Twintail Imperium</div>  
             <div class="timeline-item" data-date="423PA">Despot Hargio takes leadership of the beheri ocean Krestasi after the fall of the Onari Empire</div>
             <div class="timeline-item" data-date="427PA">Following nearly 3 decades of death, the Empire of Vanpur collapses under the plague, splintering into numerous island kingdoms and city states</div>
             <div class="timeline-item" data-date="428PA">Ralond of Erbil defeats Vulg</div>
@@ -755,7 +759,7 @@
             <div class="timeline-item" data-date="845PA">Nilborg is granted its Charter and becomes a unique national entity under the crown of Juelfluk in northern Nirydia;<br>The comets of the Tis return, as they do every few centuries, and are seen over the following years</div>
             <div class="timeline-item" data-date="846PA">Burning of the Alltree and beginning of the Great Eastern War;<br>"Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms;<br>The united sertovi colony of New Rav on Peadyr is destroyed following hostile encounters with the local Narzoi tribe of the Rele</div>
-             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate as White Wars begin in Behera;<br>Iris Keyzal founds the Keyzal Workshop as the research arm of the Inos Mining Cartel</div>
+             <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate as White Wars begin in Behera;<br>Iris Keyzal founds the Keyzal Workshop as the research arm of the Inos Mining Cartel;<br>Rimagna War, Girdineux conquers the Rimagna Valley and much of the Alev Swamp from the Twintail Imperium</div>
              <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan; <br>The Peace of Chezin ends the Period of the Bleeding Heron as Koshtir, Chezin and Rikarma make peace with Hanshi</div>
              <div class="timeline-item" data-date="850PA">"Dance of Husks" devastates urban population of Kherova and Grevenna</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts;<br> Battle of the Bow;<br>Founding of Guadaxerra;<br>The Duol Khan is acclaimed overlord by the great Khaganates of the Niryd Steppe and takes the title Khan of Khans</div>
