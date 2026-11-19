@@ -30,7 +30,7 @@
         <span><a href="Majir" class="internal-link">City of Majir</a></span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Damok.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/SarDamok.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>Sar Damok is a blue-scaled <a href="Ganoan" class="internal-link">Ganoan</a> <a href="Bihra" class="internal-link">Bihra</a> of <a href="Majir" class="internal-link">Majir</a> and the present Second Consul of the free city. He is the leading voice of the radicals of Majir, a growing movement that rejects the compromises of the truce of 895PA and is ready to risk a second war with <a href="Jink" class="internal-link">Jink</a>, and has steadily gained ground on the moderates of the First Consul, <a href="Serilla Yan" class="internal-link">Serilla Yan</a>.</p>

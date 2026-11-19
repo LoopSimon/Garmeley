@@ -1,3 +1,4 @@
+
 %%
 [[Majir]]
 [[Jink]]
@@ -28,7 +29,7 @@
         <span><a href="Majir" class="internal-link">City of Majir</a></span>
     </div>
     <hr class="wiki-hr">
-	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Serilla.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/SerillaYan.webp" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
 <p>Serilla Yan is a <a href="Ganoan" class="internal-link">Ganoan</a> politician of <a href="Majir" class="internal-link">Majir</a> and the present First Consul of the free city. She is the leading figure of the moderate establishment that has governed Majir for most of the time since the truce of 895PA, and stands for the preservation of the truce with <a href="Jink" class="internal-link">Jink</a> and the steady running of the <a href="Parabol Domes" class="internal-link">Parabol Domes</a>. Her position has weakened in recent years with the rise of the radicals under the Second Consul, <a href="Sar Damok" class="internal-link">Sar Damok</a>.</p>

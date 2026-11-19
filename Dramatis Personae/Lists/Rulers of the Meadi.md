@@ -65,7 +65,7 @@
 
 <p><i>Thorsten I "the Sailor" opened the Trinmo to river trade and fleets. The name von Weide recalls Weidhill, the hill of willows from which the dynasty rose, and Torvald I was called the Tall for his height and the hill he ruled from. Thorvald II "the Small" was a strong ruler, and the name refers to the young age at which he took the throne and above all to Torvald the Tall. Siegmar V was given the name "the last Tree" after his death, as the last ruler of the Willows. The von Kor were castellans of the von Weide and one of the emerging houses of the realm, with records going back to the middle of the 4th century. When Siegmar V died, his sons having died before him, Gernot I claimed that Siegmar had chosen him on his deathbed, a claim that is heavily debated and largely unverifiable. Kar II "The Seer King" was rumoured to be an oracle able to foretell the future to a limited degree, and later scholars believe it true. Ulrike I "The Hazel Queen" was said to be the most beautiful woman in the lands of Trinmo and Mead, with hazel locks flowing down her shoulders.</i></p>
 <h3>Monarchs following the Union of Meadrath in 664PA.</h3>
-<small>664PA - present<small>
+<small>664PA - present</small>
 <p>Gildher I "Springbringer" von Kor, 664PA - 680PA </p>
 <p>Gisela I von Kor, 680PA - 682PA </p>
 <p>Gildher II von Kor, 682PA - 704PA</p>

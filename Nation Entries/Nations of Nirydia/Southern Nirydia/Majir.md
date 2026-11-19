@@ -22,7 +22,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Head of State</strong>  
- <span>First Consul Serilla Yan,<br>Second Consul Sar Damok</span>  
+ <span>1st Consul <a href="Serilla Yan" class="internal-link">Serilla Yan</a>,<br>2nd Consul <a href="Sar Damok" class="internal-link">Sar Damok</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Capital</strong>  
