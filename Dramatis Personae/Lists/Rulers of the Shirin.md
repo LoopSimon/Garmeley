@@ -76,15 +76,17 @@
 <p>Natan XI, 422PA - 444PA</p>
 <p>Natan XII, 444PA - 467PA</p>
 
-*Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins 479PA*
+*Natan XII prohibits Bigronism in Jorvistan 465PA, Jorvi Freedom War begins 467PA*
 
 <p>Natan XIII, 467PA - 488PA</p>
 <p>Natan XIV, 488PA - 507PA</p>
 <p>Natan XV, 507PA - 522PA</p>
 <p>Natan XVI, 522PA - 537PA</p>
+
+*Jorvistan gains effective autonomy under Natan XVI, 530PA*
+
 <p>Natan XVII, 537PA - 558PA</p>
 
-*Jorvi Freedom War ends 530PA, Jorvistan gains effective independence under Natan XVII*
 
 <p>Natan XVIII, 558PA - 560PA</p>
 <p>Natan XIX "Illseed", 560PA - 560PA</p>
@@ -100,6 +102,9 @@
 
 <p>Lisil I "the Consolidator", 572PA - 596PA</p>
 <p>Lisil II, 596PA - 610PA</p>
+
+*Jorvistan refuses the last tribute, end of the Jorvi Freedom War, 598PA*
+
 <p>Lisil III, 610PA - 621PA</p>
 
 *Khulki Rebellion begins 612PA under Lisil III's decree on divine right*
