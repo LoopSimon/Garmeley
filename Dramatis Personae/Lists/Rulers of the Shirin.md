@@ -123,4 +123,7 @@
 <p>Yoroy X, 798PA - 816PA</p>
 <p>Yoroy XI, 816PA - 835PA</p>
 <p>Yoroy XII, 835PA - 856PA</p>
-<p>Yoroy XIII, 856PA - present</p>
+<p>Yoroy XIII, 856PA - 876PA</p>  
+<p>Yoroy XIV "Firefang", 876PA - 912PA</p>  
+<p>Yoroy XV "the Mad", 912PA - 926PA</p>  
+<p>Yoroy XVI, 926PA - present</p>

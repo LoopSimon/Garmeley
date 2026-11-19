@@ -12,7 +12,7 @@
 <small><i>Shirin Archer, mixed heritage, Greater Chihim Period</i></small>  
 </div>
 <small><i> This race has a unique rule set for play in Pathfinder 1e, see <a href="Shirin Rules" class="internal-link">Shirin Rules</a></i></small>
-<p>Also known as the "Ratfolk", a derogatory term most commonly used as an insult by outsiders, the Shirin of Nirydia are the most numerous race on the continent, having dominated the Mondi Delta and its surrounding river plain for millennia and ruled the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> for centuries. The Shirin are not a biologically uniform people but are the product of thousands of years of intermingling between two distinct ancestral lineages, the Valfir and the Gelfir, whose convergence in the Mondi Delta during the Bronze Age produced the mixed population that constitutes the overwhelming majority of Shirin alive today.</p>
+<p>Also known as the "Ratfolk", a derogatory term most commonly used as an insult by outsiders, the Shirin of Nirydia are among the most numerous peoples of the continent, having dominated the Mondi Delta and its surrounding river plain for millennia and ruled the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> for centuries. The Shirin are not a biologically uniform people but are the product of thousands of years of intermingling between two distinct ancestral lineages, the Valfir and the Gelfir, whose convergence in the Mondi Delta during the Bronze Age produced the mixed population that constitutes the overwhelming majority of Shirin alive today.</p>
 
 <h2>Biology and Physical Characteristics</h2>
 
@@ -55,7 +55,7 @@
 
 <p>The Gelfirs later arrival into a delta environment already partially settled by Valfir communities shaped their early development differently from their predecessors. Gelfir settlements concentrated initially in the upper river plain and the delta margins between existing Valfir centers, producing a geographic interleaving of the two populations that accelerated interbreeding from a relatively early period. The scribal and mathematical traditions that would eventually provide the intellectual foundations for Lakalism developed primarily within the Gelfir scholarly communities of the middle period, reflecting the Gelfir tendency toward the kinds of precise quantitative observation that the subterranean navigational demands of their ancestors may have selected for.</p>
 
-<p>The term Gelfir itself, from which the Old Gelfir language takes its name, is the oldest surviving self designation of this lineage and predates the unified Shirin identity by several thousand years.</p>
+<p>The term Gelfir itself, from which the Old Gelfir language takes its name, is the oldest surviving self designation of this lineage and predates the unified Shirin identity by several thousand years. Because the Gelfir were the first to use script and the written word, and spoke a more uniform tongue than the many dialects of the Valfir, their language was gradually adopted by Shirin of both lineages over thousands of years. Its descendant, High Gelfir, is today the language of the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a>, and is not regarded as belonging to either lineage, the culture of the Imperium being simply that of the Valfir and Gelfir Shirin together.</p>
 
 <h3>Interbreeding and the Mixed Population</h3>
 

@@ -32,7 +32,7 @@
  </div>
  <div class="wiki-row">
  <strong>Primary Culture</strong>
- <span>Gelfiri <a href="Shirin" class="internal-link">Shirin</a></span>
+ <span>Valfir & Gelfir <a href="Shirin" class="internal-link">Shirin</a></span>
  </div>
  <div class="wiki-row">
  <strong>Official Language</strong>
@@ -66,7 +66,7 @@
 
 <p>The Goara faith remained the official religious framework of the early Greater Aatar, but its relationship to the new ruling house was more transactional than the quasi identification that had characterized Chihim legitimacy. The Aatar presented themselves not as the embodiment of Goaric natural harmony but as its disciplined custodians, a more modest claim that nonetheless served the same legitimizing function without requiring the ruling house to maintain the elaborate theological apparatus the Chihim had built around their person. The Goaric priesthood, having survived the succession wars with its major temple institutions largely intact, accommodated the new rulers with the pragmatic flexibility of an institution that had learned not to bind its survival too closely to any particular dynasty.</p>
 
-<p>The early Aatar period saw significant reconstruction of the river plain infrastructure damaged during the succession wars, the reestablishment of systematic trade networks along the Mondi corridor, and a gradual recovery of the population levels the Chihim had achieved at their height. Two new cities of significance emerged during this period, Prasarp on the southern delta margins and Tonot on the upper river plain, both founded as Aatar administrative centres rather than as organic growths from earlier settlement patterns, and both destined to outlast the empire that created them.</p>
+<p>The early Aatar period saw significant reconstruction of the river plain infrastructure damaged during the succession wars, the reestablishment of systematic trade networks along the Mondi corridor, and a gradual recovery of the population levels the Chihim had achieved at their height. Two new cities of significance emerged during this period, Prasarp on the Pastur River in the south-west of the river plain and Tonot on the upper Mondi both founded as Aatar administrative centres rather than as organic growths from earlier settlement patterns, and both destined to outlast the empire that created them.</p>
 
 <h2>The Middle Aatar Period (200BA - 120BA)</h2>
 
