@@ -2,7 +2,7 @@
 [[Vaergriff]]  
 [[Trazlova]]  
 [[Trazlov Consortium]]  
-[[Tanya zi Syd]]  
+[[Black Tanya]]  
 [[Thiar]]  
 [[Espir]]  
 [[Signa Nylldottr]]  
@@ -37,7 +37,7 @@
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/IronHole.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
  <small><i>The Iron Hole in the distance during a storm</i></small>  
 </div>  
-<p>The Iron Hole is a prison fortress on the southern coast of Sydrow Isle in the Torn Sea, north of Trazlov Bay. It is built over a sea cave on the ruins of Syd Keep, the castle of the old Gri of Sydrow and the seat of the witch <a href="Tanya zi Syd" class="internal-link">Black Tanya</a>. The island belongs in name to the Vadcy of <a href="Trazlova" class="internal-link">Trazlova</a>, but the Iron Hole is in the hands of the <a href="Vaergriff" class="internal-link">Vaergriff</a>, and it is no prison for ordinary criminals. Those sent to it are high value political prisoners, dangerous individuals and others whom the Crown and its Secretariat want kept out of the world, and few of them ever leave it.</p>  
+<p>The Iron Hole is a prison fortress on the southern coast of Sydrow Isle in the Torn Sea, north of Trazlov Bay. It is built over a sea cave on the ruins of Syd Keep, the castle of the old Gri of Sydrow and the seat of the witch <a href="Black Tanya" class="internal-link">Black Tanya</a>. The island belongs in name to the Vadcy of <a href="Trazlova" class="internal-link">Trazlova</a>, but the Iron Hole is in the hands of the <a href="Vaergriff" class="internal-link">Vaergriff</a>, and it is no prison for ordinary criminals. Those sent to it are high value political prisoners, dangerous individuals and others whom the Crown and its Secretariat want kept out of the world, and few of them ever leave it.</p>  
 <h2>Geography</h2>  
 <p>Sydrow Isle is a poor and rugged island of moor, bog and rock. Its only town of any size, Sydrow, lies on the north coast, a port of call and a town of merchants that serves as the unofficial home of the fleet of the <a href="Trazlov Consortium" class="internal-link">Trazlov Consortium</a>. The Iron Hole stands far from it on the southern cape, where the cliffs fall straight into the Torn Sea. The fortress sits on the clifftop, and below it the sea has hollowed a great cave into the rock, in which the cells of the prison are cut. The interior of the island between the town and the prison is wild and largely empty. <a href="Cormian" class="internal-link">Cormians</a> haunt its bogs and pools, <a href="Ghant" class="internal-link">Ghants</a> are said to sleep in its moors, and the islanders hold that the dead walk there.</p>  
 <h2>History</h2>  
@@ -53,4 +53,4 @@
 <h2>Ghosts of Sydrow</h2>  
 <p>Sydrow is said to be haunted, and the Iron Hole most of all. Sailors, islanders and guards tell of voices in the sea cave, lights moving on the moors and figures seen on the cliffs at night, but the tales do not agree on who the ghosts are. Some say they are the prisoners who died in the cells and never left them. Others say they are the builders and workers who raised the prison, all of whom are said to have been killed when the work was done so that no one would know its secrets. Others again say they are the native people of Sydrow, who were killed hundreds of years ago during the Gethric missions to the island when they refused to convert, and the victims that Black Tanya took from among them before that.</p>  
 <h2>People of Interest</h2>  
-<p><a href="Tadeuz Pilsud" class="internal-link">Tadeuz Pilsud</a>, Sekretar of the Realm and Head of the Vaergriff<br>Manus Orsaw, first Sekretar of the Vaergriff, who made Syd Keep a prison<br>Belia zi Syd, first Gri of Sydrow, who built Syd Keep<br><a href="Tanya zi Syd" class="internal-link">Tanya zi Syd</a>, "Black Tanya", witch and Gri of Sydrow</p>  
+<p><a href="Tadeuz Pilsud" class="internal-link">Tadeuz Pilsud</a>, Sekretar of the Realm and Head of the Vaergriff<br>Manus Orsaw, first Sekretar of the Vaergriff, who made Syd Keep a prison<br>Belia zi Syd, first Gri of Sydrow, who built Syd Keep<br><a href="Black Tanya" class="internal-link">Black Tanya</a>, born Tanya zi Syd, witch and Gri of Sydrow</p>  
