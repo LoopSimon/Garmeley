@@ -6,6 +6,7 @@
 [[Lyandra]]
 [[Gethric Pogroms]]
 [[The Great Schism]]
+[[Fairriver]]
 %%
 <div class="wiki-infobox">
  <h4 class="wiki-header">Order of the Silver Wheel</h4>
@@ -42,7 +43,7 @@
 <p>Although the order is independent of the Vihri throne in Zavlech, it is sponsored by and closely tied to the High-Bisop of Iztaw, and in past ages it has raised its banner in political wars such as the Wars of Elbae Aggression, in which it fought on the side of the Gethric Alliance.</p>
 <p>Ahead of the <a href="The Great Schism" class="internal-link">Great Schism</a> of 764PA, the order, led by its Grand Master Vaskor zi Myrg, attempted to dissolve the Conclave at Trinfurt by force and was met in arms by local heroes and the forces of the Meadi queen. Its failure, and the split of the faith that followed, have left the order with far less influence on the world stage in the modern age.</p>
 <h2>The Order Today</h2>
-<p>The holy mandate of the order is still the protection of the Pilgrims Path through Wermia, but many knights of the Silver Wheel roam the lands of the Ilrakhani and Vihir subcontinents in search of daemons and heretics, and often come into conflict with local authorities and magistrates in doing so.</p>
+<p>The holy mandate of the order is still the protection of the Pilgrims Path through Wermia, but many knights of the Silver Wheel roam the lands of the Ilrakhani and Vihir subcontinents in search of daemons and heretics, and often come into conflict with local authorities and magistrates in doing so. The order once kept a strong chapterhouse at <a href="Fairriver" class="internal-link">Fairriver</a> in honour of Lyandra, but it has dwindled with the order, and only a few knights of the Wheel still stay there. The adventurer Marianna Kaminski trained there under Zanislaw of Morset, Paladin of the Silver Wheel.</p>
 <p>Racial prejudice and radical Gethricism remain present within the order to this day. Many doubt its self-described holy and good motives and see it as little more than a band of roaming strongmen seeking a way to rebuild their lost power and glory.</p>
 <h2>People of Interest</h2>
 <p>Fyor Ziminastrus, Grand Master of the Silver Wheel<br>Rekha of Torring, Paladin of the Silver Wheel<br>Talion of Gelm, Paladin of the Silver Wheel<br>Zanislaw of Morset, Paladin of the Silver Wheel<br>Slivomir of Tryd, Paladin of the Silver Wheel<br><a href="Lyandra" class="internal-link">Saint Lyandra of Fairriver</a>, Knight of the Silver Wheel</p>

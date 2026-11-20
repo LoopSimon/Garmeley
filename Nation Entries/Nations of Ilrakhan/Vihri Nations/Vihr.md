@@ -9,6 +9,7 @@
 [[Zavlech]]
 [[Trydlew]]
 [[Gethric Pogroms]]
+[[Eight Years War]]
 [[Ravenleaf Forest]]
 [[The Great Schism]]
 %%
@@ -66,7 +67,7 @@
 <p>The Climate in Vihr is temperate transitional and varies from oceanic in the north and south to continental in the central regions.</p>
 <p>Forests occupy a decent amount of Vihrs land area, the largest of which is the <a href="Ravenleaf Forest" class="internal-link">Ravenleaf Forest</a> in the southeast.</p>
 <p>The Plains of the Vihri Expanse, between the three mighty Rivers Lehva, Tryd and Opuzna are flat and temperate, offering rich farmlands and in the southern parts the wide grasslands of the Vihri Unicorn, the national animal of the Kingdom.</p>
-<p>The Opuzna River runs south-east from the city of Opuzna at the edge of the Ravenleaf Forest, where unbroken tribesmen and ogres still live. The Tlok River gives its valley its name, and the Royal Woods separate that valley from the Tryd country of Breza. The Ibor River runs through Selbia, whose southern tip at Fairriver lies on the Pilv, which marks the southern edge of the realm. Beyond it lie the Grevi Mountains, which are ogre country and dangerous to cross. East of Fairriver, north of the Grevi Mountains, stands Edessa Tower, which both Vihr and Grevenna claim and neither holds. In the east the Hyllpass, between Orzebachi and Tuskwatch, is the great road through the Grachhyll to Nostroya.</p>
+<p>The Opuzna River runs south-east from the city of Opuzna at the edge of the Ravenleaf Forest, where unbroken tribesmen and ogres still live. The Tlok River gives its valley its name, and the Royal Woods separate that valley from the Tryd country of Breza. The Ibor River runs through Selbia, whose southern tip at <a href="Fairriver" class="internal-link">Fairriver</a> lies on the Pilv which marks the southern edge of the realm. Beyond it lie the Grevi Mountains, which are ogre country and dangerous to cross. East of Fairriver, north of the Grevi Mountains, stands Edessa Tower, which both Vihr and Grevenna claim and neither holds. In the east the Hyllpass, between Orzebachi and Tuskwatch, is the great road through the Grachhyll to Nostroya.</p>
 
 
 <h2>Demographics</h2>
@@ -111,7 +112,7 @@ By the end of the 7th century Vihr had an economy dominated by rented farms and 
 <small><i>see <a href="Breza" class="internal-link">Breza</a></i></small>
 <p>Breza is the Sarloni heartland of the Expanse, the home of Trydlew, the old capital of the Vihrmen, and of the Knights of the Unicorn at Madzar. House Dibrevi holds it under Varina Milva and is not itself Sarloni, though most of its subjects are.</p>
 <small><i>see <a href="Selbia" class="internal-link">Selbia</a></i></small>
-<p>Selbia is the southernmost Vadcy, with a strong military culture and the famous Selbia Brigade. House Sribo holds it under Var Provim from Ibozka, and Fairriver, the abbey town at its southern tip, is practically neutral.</p>
+<p>Selbia is the southernmost Vadcy, with a strong military culture and the famous Selbia Brigade. House Sribo holds it under Var Provim from Ibozka, and <a href="Fairriver" class="internal-link">Fairriver</a>, the abbey town at its southern tip, is ruled by its abbey and practically neutral.</p>
 <small><i>see <a href="Levazci" class="internal-link">Levazci</a></i></small>
 <p>Levazci is the border with Grachy, where the Hyllpass carries the trade of Nostroya into the realm. House Tryn has held it under Varina Henrietta since 802PA, and Tuskwatch at the far end of the pass was lost in the Brothers War.</p>
 <small><i>see <a href="Tloky" class="internal-link">Tloky</a></i></small>
