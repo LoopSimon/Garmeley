@@ -55,4 +55,4 @@
 <h2>Places of Note</h2>  
 <p>Silverslach is the chief town, with the Warden's house, the great smelting works and the market of the Silverslach Trade. Rudno is the oldest of the upland mining towns. Srebnik holds the richest seams of Gleamig, most of them dwarf-owned. Wysoka, the highest of the four, stands nearest the mouth of the Xer-Kol tunnel.</p>  
 <h2>People of Interest</h2>  
-<p>Maciej Dorn, Warden of the Silver Towns<br>Miskomir I, Ras of Vihr, who granted the Silver Charter</p>  
+<p>Maciej Dorn, Warden of the Silver Towns</p>  
