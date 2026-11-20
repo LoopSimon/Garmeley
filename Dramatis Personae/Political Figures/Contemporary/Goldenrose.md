@@ -7,27 +7,36 @@
 [[Opuzna]]  
 [[Waśko Ralpia]]  
 %%  
-<div class="wiki-infobox">  
- <h4 class="wiki-header">Goldenrose</h4>  
- <div class="wiki-row">  
- <strong>Occupation</strong>  
- <span>Wytlord, Bandit Chief</span>  
- </div>  
- <div class="wiki-row">  
- <strong>Holds</strong>  
- <span>Dag Valley</span>  
- </div>  
- <div class="wiki-row">  
- <strong>Culture</strong>  
- <span>presumed <a href="Vihri" class="internal-link">Wyt</a> Human</span>  
- </div>  
- <div class="wiki-row">  
- <strong>Active since</strong>  
- <span>late 910s PA</span>  
- </div>  
- <hr class="wiki-hr">  
- <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Goldenrose1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
-</div>  
+<div class="wiki-infobox">
+    <h4 class="wiki-header">Goldenrose</h4>
+    <div class="wiki-row">
+        <strong>Occupation</strong>
+        <span>Wytlord of Dag Valley</span>
+    </div>
+    <div class="wiki-row">
+        <strong>Culture</strong>
+        <span>presumed <a href="Vihri" class="internal-link">Wyt</a> <a href="Human" class="internal-link">Human</a></span>
+    </div>
+    <div class="wiki-row">
+        <strong>Born</strong>
+        <span>unknown</span>
+	    </div>
+    <div class="wiki-row">
+        <strong>Age</strong>
+        <span>unknown</span>
+    </div>
+    <hr class="wiki-hr">
+    
+    <div class="wiki-row">
+        <strong>Allegiance</strong>
+        <span>The Goldenrose Bandits</span>
+    </div>
+    
+    <hr class="wiki-hr">
+	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Goldenrose1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
+
+</div>
+
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Goldenrose2.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 <small><i>Goldenrose in the woods of the Wytlands</i></small>  
 </div>
