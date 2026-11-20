@@ -410,7 +410,7 @@
 			<div class="timeline-item" data-date="346PA">Shirin-Xungin Wars end with the defeat of the Xungin Khaganate south of the Mondi River</div>
             <div class="timeline-item" data-date="349PA">Niedrest grows around Pale Rock Castle</div>
 			 <div class="timeline-item" data-date="361PA">Morelle is raised to an Archduchy</div>
-            <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire</div>
+            <div class="timeline-item" data-date="362PA">Neo-Kalbinist Rebells form the Nahri League, which would later become the Blessed Republic of Nahr and oppose the Aerlian Empire;<br> Tanya zi Syd, later known as Black Tanya, comes to rule Sydrow</div>
             <div class="timeline-item" data-date="372PA">Melmers first Voyage to Trykkerog</div>
             <div class="timeline-item" data-date="375PA">The Kingdom of Korsfall declares war on the King of Rulais</div>
             <div class="timeline-item" data-date="377PA">Vihri League of Lords is formed</div>
@@ -427,13 +427,13 @@
             <div class="timeline-item" data-date="392PA">Approximate first Inamid Council of the Zreni Vannsi in Jeturlund</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
             <div class="timeline-item" data-date="399PA">First Leveli-Shirin War begins</div>  
-			<div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", <br>Gethricism has become the most popular religion on the Continent</div>
+			<div class="timeline-item" data-date="400PA">Religious laws in Vihr and Urland ban the worship of so called "pagan gods", <br>Gethricism has become the most popular religion on the Continent;<br> Approximate death of Black Tanya at Syd Keep at the hands of the Heroes of Sydrow</div>
             <div class="timeline-item" data-date="401PA">The Plague of Flesh breaks out in the Empire of Vanpur</div>
 			<div class="timeline-item" data-date="402PA">First Leveli-Shirin War ends in stalemate on the Mondi River;<br>Natan X "Irontail" begins the Natani military reforms</div>  
             <div class="timeline-item" data-date="403PA">Crisis of the Golden Throne ends</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
             <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil</div>
-            <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali merchants;<br>Karrod, the red Omen Star, flares in the night sky above Qa; the Qahori later remember it as the beginning of Zolra's whispering</div>
+            <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali and vihri merchants and adventurers, among them Sir Espir of the Oathhills;<br>Karrod, the red Omen Star, flares in the night sky above Qa; the Qahori later remember it as the beginning of Zolra's whispering</div>
             <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin;<br>Second Leveli-Shirin War begins, the Twintail crosses the Mondi at the Tiachen Bridge</div>  
             <div class="timeline-item" data-date="414PA">Fall of the Onari Empire;<br>Battle of the Rimagna Valley</div>  
             <div class="timeline-item" data-date="415PA">Rise of Khan Odovo in Nirydia;<br>Battle of the Hazen River</div>  
@@ -556,7 +556,7 @@
             <div class="timeline-item" data-date="596PA">Yelena of Dreva slays the Witch Bezelia</div>
             <div class="timeline-item" data-date="597PA">Following their Civil Conflicts and the breakaway of Richelet, Levelix declares itself a theocratic Ervocas</div>
             <div class="timeline-item" data-date="598PA">End of the Jorvi Freedom War, Jorvistan gains Independence</div>
-            <div class="timeline-item" data-date="599PA">The Buteran Guild is founded</div>
+            <div class="timeline-item" data-date="599PA">The Buteran Guild is founded;<br> Approximate opening of the Iron Hole on Sydrow by Manus Orsaw, first Sekretar of the Vaergriff</div>
             <div class="timeline-item" data-date="600PA">Rox the Chosen steps into the Pillar of the One and disintegrates; Crisis of Dihil Peak between Ott and Ogul-Vosko;<br> Fenhir proclaims the Chosen Realm of Roxeria</div>
             <div class="timeline-item" data-date="601PA">Roymer-Grachi war breaks out again following the Day of the Elk</div>
             <div class="timeline-item" data-date="602PA">Itharian Expedition returns</div>
