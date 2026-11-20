@@ -1,6 +1,5 @@
 %%  
 [[Vaergriff]]  
-[[Trazlova]]  
 [[Trazlov Consortium]]  
 [[Black Tanya]]  
 [[Thiar]]  
