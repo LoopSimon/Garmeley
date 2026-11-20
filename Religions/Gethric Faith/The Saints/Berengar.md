@@ -5,6 +5,7 @@
 [[Meadrath]]
 [[Urland]]
 [[Ralond]]
+[[Thiar]]
 %%
 <div class="wiki-infobox">
  <h4 class="wiki-header">Berengar</h4>
@@ -51,7 +52,8 @@
 <p>Two deeds stand above the rest of his legend. The first is the slaying of the Djinn of Redoubt. The second is his victory over Akaros of Trevi, a heathen warrior with supernatural powers. During their battle Berengar is said to have called down a great rain of fire and rocks from the stars upon the army of Akaros. He was said to be able to read the will and righteousness of a person with a single glance, and his eyes are said to have shone with the light of a hundred stars.</p>
 <p>Berengar is remembered as one of the founding members of the Fellows of the Dancing Flame, the order of Gethric knights that carried the faith into Cevolis by force from 383PA.</p>
 <h2>The Silverhearts</h2>
-<p>The story of Berengar and his companions has become popular folklore, and the members of his party take on different characters depending on the region where it is told. Ulmo is usually a human with a knack for magic. In some tellings he is a wise old man and a father figure to the Saint, while in others he is a drunken ruffian in a more comedic role. Thiar is in some stories a converted elf and Berengar's best friend, the only one in the party able to equal him with a blade, while in others, among them the Vihri and Grachi folk tales, he is not an elf at all but a roguish human who changes faces to solve problems.</p>
+<p>The story of Berengar and his companions has become popular folklore, and the members of his party take on different characters depending on the region where it is told. Ulmo is usually a human with a knack for magic. In some tellings he is a wise old man and a father figure to the Saint, while in others he is a drunken ruffian in a more comedic role. <a href="Thiar" class="internal-link">Thiar</a> is in some stories a converted elf and Berengar's best friend, the only one in the party able to equal him with a blade, while in others, among them the Vihri and Grachi folk tales, he is not an elf at all but a roguish human who changes faces to solve problems. Thiar outlived Berengar, and in Vihr he is remembered as one of the Heroes of Sydrow, who killed the witch <a href="Black Tanya" class="internal-link">Black Tanya</a> around 400PA.</p>
+
 <p>Masova is the most controversial figure of the party. In some stories she is clearly a love interest of both Berengar and Thiar. In others she is a devout and motherly figure who exemplifies the holy virtues, and in others still she is a sinful woman who at first tried to bring ruin to the party and to seduce its members, until she was converted by Berengar's true heart.</p>
 <h2>Relics and Depiction</h2>
 <p>Berengar's own falchion is known as the Starknife, and the name has become his epithet. Among his other relics is the Helm of Ruin, a helmet that is said to have given him great powers while drawing on his own life energy. He wore a famous blue robe, which one of the stories says was given to him by the witch of Nailtrees. In art he is often depicted with the firmament of stars lit up behind him upon the night sky.</p>

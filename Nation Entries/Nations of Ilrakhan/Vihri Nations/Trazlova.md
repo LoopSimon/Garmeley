@@ -6,7 +6,10 @@
 [[Honoured Assembly]]
 [[Iztaw]]
 [[Valenty Sykes]]
-[[Jana Rikolore]]
+[[Jana Rikolore]]  
+[[Iron Hole]]  
+[[Black Tanya]]  
+
 
 %%
 <div class="wiki-infobox">
@@ -71,6 +74,6 @@
 <p>Trazlov is one of the "three great Ports" of the Torn Sea, alongside Sallesand and Uhl, and the largest port in Vihr. The <a href="Trazlov Consortium" class="internal-link">Trazlov Consortium for Free Trade</a> has its home here, and under its Headman Jan Pisudski, the owner of the Pisudski shipping company, it commands the mercantile trade of the eastern Torn Sea. It has tried hard to stay apolitical in conflicts like the <a href="Great Eastern War" class="internal-link">Great Eastern War</a> and protects its interests with agents called Fingers. The <a href="The Alchemists Guild" class="internal-link">Men of Glass</a> keep their headquarters in the Violet Hall within the city's walls, and train their members at the Guilds College there. The city depends on the produce of Grachy, above all on phosphorite, pitchblende and Graccum, which makes the war on its eastern border a constant concern for its merchants.</p>
 <h2>Places of Note</h2>
 <p>Trazlov, the capital, is a port of over 120,000 people, larger than the capital Zavlech itself. The Violet Hall and the Guilds College stand within its walls. The Lehva carries the trade of the Expanse down to its docks, and the Grachhyll and the Iron Claw to the east form the frontier with Grachy.</p>  
-<p>Sydrow Isle lies in the Torn Sea north of Trazlov Bay. Sydrow town, on the north of the island, is a port of call and a town of merchants, and the unofficial home of the Consortium's fleet. In the south of the island, far from the town, stands the Iron Hole, the prison of the Vadcy. The few prisoners who have escaped it have mostly died in the harsh waves of the Torn Sea or been lost forever in the interior of the island, to <a href="Cormian" class="internal-link">Cormians</a>, Ghants and ghosts, and the island is said to be haunted.</p>
+<p>Sydrow Isle lies in the Torn Sea north of Trazlov Bay. Sydrow town, on the north of the island, is a port of call and a town of merchants, and the unofficial home of the Consortium's fleet.In the south of the island, far from the town, stands the <a href="Iron Hole" class="internal-link">Iron Hole</a>, built on the ruins of Syd Keep, where the witch <a href="Black Tanya" class="internal-link">Black Tanya</a> ruled as Gri of Sydrow until the Heroes of Sydrow killed her around 400PA. Trazlova holds the island in name, but the prison belongs to the <a href="Vaergriff" class="internal-link">Vaergriff</a>, which keeps political prisoners and dangerous individuals there. The few prisoners who have escaped it have mostly died in the harsh waves of the Torn Sea or been lost forever in the interior of the island, to <a href="Cormian" class="internal-link">Cormians</a>, Ghants and ghosts, and the island is said to be haunted.</p>
 <h2>People of Interest</h2>
 <p>Osran of House Lawchlaw, Var of Trazlova and Foreman of the Honoured Assembly<br>Jan Pisudski, Headman of the Trazlov Consortium<br><a href="Valenty Sykes" class="internal-link">Valenty Sykes</a>, Grandmaster of the Alchemists Guild<br><a href="Jana Rikolore" class="internal-link">Jana Rikolore</a>, adventurer, born in Trazlov<br>Benilav Ankov, Gri, holder of Kanyak Keep</p>

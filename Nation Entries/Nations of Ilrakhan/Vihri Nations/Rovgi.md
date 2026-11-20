@@ -66,4 +66,4 @@
 <h2>Places of Note</h2>
 <p>Wogrov is the capital, a castle town north of the Oathhills and the seat of House Wogrov. Its cathedral is the seat of the Bishop of Wogrov, who is by tradition the Archbishop of Vihr. Pjaz is the last large settlement before the western frontier. The Rebka River divides the Vadcy from the country of the Silver Wheel, and Holweid, the town where the Second Incursion began, lies north of the hills. The Ruby Valley in the south-west is the home of the ogres, and Ahmsk is a town on the Tryd River in the east of the Vadcy.</p>
 <h2>People of Interest</h2>
-<p>Zeslav of House Wogrov, Var of Rovgi, brother of Maroza<br>Maroza zi Wogrov, late Gras of Vihr</p>
+<p>Zeslav of House Wogrov, Var of Rovgi, brother of Maroza<br>Maroza zi Wogrov, late Gras of Vihr<br><a href="Espir" class="internal-link">Sir Espir of the Oathhills</a>, Knight of Grand Renown, one of the Heroes of Sydrow and a founder of Jallbreg</p>
