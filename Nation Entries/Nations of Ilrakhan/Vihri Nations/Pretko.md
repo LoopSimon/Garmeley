@@ -19,11 +19,7 @@
  <div class="wiki-row">  
  <strong>Government</strong>  
  <span>Free City of the Crown, ruled by the Wojt and the Rada</span>  
- </div>  
- <div class="wiki-row">  
- <strong>Population</strong>  
- <span>ca. 15000</span>  
- </div>  
+ </div>   
  <div class="wiki-row">  
  <strong>Heraldic Symbol</strong>  
  <span>Quartered: an Armoured Fist, a Sheaf, a White Falcon and a Golden Coin</span>  

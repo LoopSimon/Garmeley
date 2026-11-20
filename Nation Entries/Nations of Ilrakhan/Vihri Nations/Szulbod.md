@@ -18,11 +18,7 @@
  <div class="wiki-row">  
  <strong>Government</strong>  
  <span>Free City of the Crown, ruled by the Royal Starost and the Council of Guests</span>  
- </div>  
- <div class="wiki-row">  
- <strong>Population</strong>  
- <span>ca. 9000</span>  
- </div>  
+ </div>   
  <div class="wiki-row">  
  <strong>Heraldic Symbol</strong>  
  <span>Three Golden Bears on a White Pale, on red ground</span>  
