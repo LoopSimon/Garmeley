@@ -6,7 +6,6 @@
 [[Dalniz]]  
 [[Turvik Paganism]]  
 %%
-%%
 <p>The Vihri peoples are descendants of the old "Men of the Horn", the literal translation of Vihrmen and likely in reference to the Unicorns of the expanse. While all three groups share distinct lingual roots, they are usually broadly divided into the so called "Three old Families" of the Vihri, the Grachi and the Wermi peoples.</p>
 <h2>The Vihri</h2>
 <p>The largest of the Families, the Vihri or often called Vihrmen are those humans living in the rich lands east of the <a href="Trollbacks" class="internal-link">Trollback</a> mountains, and the vast majority of them live within the borders of the opulent and powerful <a href="Vihr" class="internal-link">Rascy zi Vihr</a>. They share the Vihri tongue and for the most part the Gethric faith, but they are not one people. Five peoples are counted among them: the High Vihri of the hills and moors of the west, the Low Vihri of the river plains, the Tloky of the Tlok Valley, the Wyt of the south and the Sarloni of the Expanse. The Low Vihri are by far the most numerous, followed by the High Vihri and the Sarloni, while the Tloky are fewer and the Wyt fewest of all. Each people speaks Vihri in its own way, but the court and the Church use High Vihri, which takes its name from the speech of the hill country, and Old Vihri, its older form, is still read at Mass.</p>  
