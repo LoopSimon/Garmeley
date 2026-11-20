@@ -5,13 +5,10 @@
 [[Ravenleaf Forest]]  
 [[Goldenrose]]  
 [[Zawis I]]  
-[[Waśko Ralpia]]  
-[[Vaergriff]]  
 [[Daban-Kol]]  
 [[Tizin-Kol]]  
 [[Grachy]]  
 [[Turvik Paganism]]  
-[[Vihrmen Federation]]  
 %%  
 <div class="wiki-infobox">  
  <h4 class="wiki-header">The Wytlands</h4>  
