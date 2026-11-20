@@ -520,10 +520,10 @@
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="557PA">Rebellion of Tur Filash begins</div>
             <div class="timeline-item" data-date="558PA">Fenhir the Seer becomes the Prophet of the Javalim in the eastern cities of Azuvke</div>
-            <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia</div>
+            <div class="timeline-item" data-date="559PA">Start of the Leveli Civil War in central Nirydia;<br> Dobrov Szinmo lays siege to Pretko, which holds out for five months</div>
             <div class="timeline-item" data-date="560PA">Revolution of Rox begins;<br>The Sons of the Flame tear down the Great Stones at Praum;<br>Natan XIX "Illseed" dies without a clear successor as the Silent War begins in the Imperial Palace</div>
             <div class="timeline-item" data-date="561PA">The Exodus of the Hiqae, one in a houndred of survives as the Hiqae arcs cross from Eressa north through the Tempest and land in Bulug;<br>Siege of Furel begins</div>
-            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br>Dobrov Szinmo and four of his sons are executed, the Vadcy of Szievek is cut down by two thirds;<br>Furel falls to the Roxanae and becomes the City of Spears</div>
+            <div class="timeline-item" data-date="562PA">End of Vihri War of Succession, Ascension of Zawis "Silverbeard" I of House Worocek;<br>Dobrov Szinmo and four of his sons are executed, the Vadcy of Szievek is cut down by two thirds and Pretko is made a free city of the crown;<br>Furel falls to the Roxanae and becomes the City of Spears</div>
             <div class="timeline-item" data-date="563PA">Baeling Conquest of Droil and northern Tintarol</div>
             <div class="timeline-item" data-date="564PA">Rox defeats the Azuvken army near Alkon and kills Nitol the Good;<br>Revolution of Rox ends;<br>Principality of Roxeria is founded as Azuvke loses its hold on the eastern Bay</div>
             <div class="timeline-item" data-date="565PA">The ottian Arcanist Xarelius codifies the Cilenax Principle</div>
@@ -548,7 +548,7 @@
             <div class="timeline-item" data-date="588PA">A young Cearic begins his work under the Duke of Morelle;<br>Accession of Emperor Jožek, end of the Zeprian Golden Age</div>
             <div class="timeline-item" data-date="589PA">Diedrik of Medlan becomes King of Gisvale</div>
             <div class="timeline-item" data-date="590PA">Fall of the House of Baeling and end of the Baeling Empire; <br>Mindano emerges as self-governing city-state following the Collapse of Cevolis;<br>Weadland is not restored, and petty lords and warders rise along its coast</div>
-            <div class="timeline-item" data-date="591PA">Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere;<br> Following the Death of Oxiter, Eokil assumes control within the One Order of Tizin-Kol and promises reform;<br>The Nighmilk Plague breaks out in Gorat</div>
+            <div class="timeline-item" data-date="591PA">Ras Miskomir I grants the Silver Charter to the Silver Towns of Gleamig;<br> Free from baeling influence, the von Kran dynasty lays claim to greater Lesmere;<br> Following the Death of Oxiter, Eokil assumes control within the One Order of Tizin-Kol and promises reform;<br>The Nighmilk Plague breaks out in Gorat</div>
             <div class="timeline-item" data-date="592PA">First mention of the Kingdom of Cimfon;<br> Conclave of 592 canonises Luca Cadente of Cefran, Patron Saint of Cevolia</div>
             <div class="timeline-item" data-date="593PA">End of the Khari Dynasty in Kherova, Era of the Empty Seat begins.</div>
             <div class="timeline-item" data-date="594PA">Vignasoya takes over governance in Droil;<br>The Nighmilk Plague ends in Gorat</div>
@@ -691,10 +691,10 @@
             <div class="timeline-item" data-date="775PA">Following their successful Revolution, the Trinvale Republics form after a rejection of old nobility in favour of a new Patrician class</div>
             <div class="timeline-item" data-date="776PA">Treeplague ravages Ur and southern Vihr</div>
             <div class="timeline-item" data-date="777PA">Fifth Zuhuri Holy War begins, <br>Great Fire of Tesegith, <br>Treeplague reaches Grevenna, Kherova and Garmeley and fades in the southern climates</div>
-            <div class="timeline-item" data-date="778PA">Ras Orian I of Vihr ends the Gethric Pogroms;<br>Fostwen is the first city to join the Blijgrat League</div>
+            <div class="timeline-item" data-date="778PA">Ras Orian I of Vihr ends the Gethric Pogroms and grants Szulbod the Guest Charter;<br>Fostwen is the first city to join the Blijgrat League</div>
             <div class="timeline-item" data-date="779PA">Halfling Supremacists secede from Nahr and form Revelle in western Sertova</div>
             <div class="timeline-item" data-date="780PA">Twins War begins in Meadrath</div>
-            <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression</div>
+            <div class="timeline-item" data-date="781PA">2nd War of Elbae Aggression;<br> The Royal Mint of Vihr moves from Zavlech to Szulbod</div>
             <div class="timeline-item" data-date="782PA">Jigallor son of Jigallor attacks Kherova; <br>Battle of the Storms; <br>Warlord Piri Cao, the Hungering Wave, is murdered; <br>The Forlorn Shield is forged in Ak-Saray, the last known work of its Wyrdrock masters</div>
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin, first proclaimed as the will of Pen Zuhur at Hastermon Temple</div>
