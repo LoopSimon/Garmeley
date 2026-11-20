@@ -354,10 +354,10 @@
             <div class="timeline-item" data-date="247PA">Istrov Pact is declared between the Grachi and Roymer in southern Nostroya</div>
             <div class="timeline-item" data-date="251PA">Battle of Glancz; <br>The Urlander ruling Dynasty of Dunling goes to the Cadet branch of the House of Chloris</div>
             <div class="timeline-item" data-date="253PA">The alleged Birth of Sochor as a human</div>
-            <div class="timeline-item" data-date="254PA">Council of 254, the Gethric Doctrine of human exceptionalism is first mentioned</div>
+            <div class="timeline-item" data-date="254PA">Council of 254, the Gethric Doctrine of human exceptionalism is first mentioned;<br> Death of Viago I "Firespear", his son Jakub I becomes Ras of Vihr</div>
             <div class="timeline-item" data-date="255PA">The Lower leveli form the Vocas a Levelix around the Lonely Peak</div>
             <div class="timeline-item" data-date="256PA">Demise of the Ekazadi in Drizan</div>
-            <div class="timeline-item" data-date="258PA">Official date of the Institutiones of Volboris, the oldest part of the White Book</div>
+            <div class="timeline-item" data-date="258PA">Official date of the Institutiones of Volboris, the oldest part of the White Book;<br> Death of Ras Jakub I, his son Viago II becomes Ras of Vihr</div>
             <div class="timeline-item" data-date="259PA">First official mention of Sisters of Morning in church records as a group independent from clergy</div>
             <div class="timeline-item" data-date="260PA">Fall of the Auguri Dominion, the Breaking of the Circle</div>
             <div class="timeline-item" data-date="262PA">Daban-Kol and Kher unite during the Day of Brothers</div>
@@ -787,7 +787,7 @@
             <div class="timeline-item" data-date="876PA">Andre of Trydlew is canonized as a Saint at the Conclave of 876PA;<br>Yoroy XIV "Firefang" becomes Imperator of the Twintail</div>
             <div class="timeline-item" data-date="877PA">Sultans Peace is signed</div>
             <div class="timeline-item" data-date="878PA">Port Faarhovn is founded on Jurland by the G.U.V.; the Diviner Adreliz opens talks with the Kavi through telepathy, securing trading rights in Kavi communities;<br>Nale Dirrenger ends his fourth voyage, having charted the southern seas and set up supply posts between Nalesland and the Dark Islands</div>
-             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognized as the Lord of Tar by Ras Orian II;<br>The Crisis of the Untouched breaks out in Tizin-Kol</div>
+             <div class="timeline-item" data-date="879PA">The Gri zi Taar is officially recognised as a subject under the protection of the Crown of Vihr by Ras Orian II;<br>The Crisis of the Untouched breaks out in Tizin-Kol</div>
             <div class="timeline-item" data-date="880PA">New Fryd is founded in the New World on the north-eastern tip of Peadyr, at the Ruins of New Rav;<br>Archduke Gisrol II builds Castle von Mart in Giselstatt;<br>Sredit Incident: Jates loses control over the City</div>
             <div class="timeline-item" data-date="881PA">"Astral Space" by Carassa al-Kael, is published in elven, gnomish and meadi simultaneously;<br>Firocco Rebellion overthrows the Tyrant Vulgia and the Firocco Republic is declared</div>
              <div class="timeline-item" data-date="882PA">Kur Pharabal becomes the 9th Karnak of Gaal;<br>Lady Eleanor Grig leads a Spurshey expedition through the Spring Sea and discovers Grigs Landing and the Loreli Islands;<br>Mamus Rolim is assassinated, the Crisis of the Untouched ends</div>
