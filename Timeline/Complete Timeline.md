@@ -800,7 +800,7 @@
             <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br>End of the 2nd War of the Gryphon</div>
             <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
             Kherovan Inquisition; <br>King Folk II of Gelmsburg dies of the Blight of Merbridge, Klovis I becomes King of Gelmsburg</div>
-            <div class="timeline-item" data-date="890PA">Thieves War between Grivil an Hainach</div>
+            <div class="timeline-item" data-date="890PA">Thieves War between Grivil and Hainach;<br> Treaty of Fairriver between Vihr and Grevenna</div>
             <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr</div>
             <div class="timeline-item" data-date="892PA">Jallbreg Affair</div>
             <div class="timeline-item" data-date="893PA">Golomid-Elbae War ends inconclusively after the Peace at Algolom;<br>Riots break out in Majir and the Mystic Ulissa Verzo is killed, by winter war breaks out between Jink and Majir in the Ganoa Valley</div>
