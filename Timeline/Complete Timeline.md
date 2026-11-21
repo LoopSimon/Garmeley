@@ -422,7 +422,7 @@
             <div class="timeline-item" data-date="383PA">The Fellows of the Dancing Flame propagate Gethricism militarily in Cevolis</div>
             <div class="timeline-item" data-date="384PA">League of Lords becomes the Honoured Assembly</div>
             <div class="timeline-item" data-date="385PA">The Alliance of the Old Moon, now lead by Kamer of the New Fire, attack Timoq and reconquer it from elven rule,as the Sultanate is unable to effectively respond due to the Crisis of the Golden Throne.</div>
-            <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, <br>Begin of the Age of Disgrace for the Empire of Aerlan</div>
+            <div class="timeline-item" data-date="388PA">Wrath of Isara hits Sertovis & Othirdon, <br>Begin of the Age of Disgrace for the Empire of Aerlan;<br>Death of Ras Zervind II, his son Boris I "the Pious" becomes Ras of Vihr at the age of fifteen</div>
 			<div class="timeline-item" data-date="390PA">The majority of Korsfall is now Gethric, as is Gisvale; <br>the kings of Korsfall soon take Gethric oaths after their coronations and cathedrals to the Candleflame are built</div>
             <div class="timeline-item" data-date="392PA">Approximate first Inamid Council of the Zreni Vannsi in Jeturlund</div>
             <div class="timeline-item" data-date="398PA">Order of the Silver Wheel is declared</div>
@@ -432,7 +432,8 @@
 			<div class="timeline-item" data-date="402PA">First Leveli-Shirin War ends in stalemate on the Mondi River;<br>Natan X "Irontail" begins the Natani military reforms</div>  
             <div class="timeline-item" data-date="403PA">Crisis of the Golden Throne ends</div>
             <div class="timeline-item" data-date="404PA">First Korre of Vignasoya is declared</div>
-            <div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil</div>
+            <div class="timeline-item" data-date="407PA">Death of Ras Boris I "the Pious", his son Jasper III becomes Ras of Vihr</div>  
+			<div class="timeline-item" data-date="410PA">The Conclave of 410 canonises Melmer of Uhl & Tronos of the Veil</div>
             <div class="timeline-item" data-date="411PA">The Town of Jallbreg is founded at the Hagshorn by bykmali and vihri merchants and adventurers, among them Sir Espir of the Oathhills;<br>Karrod, the red Omen Star, flares in the night sky above Qa; the Qahori later remember it as the beginning of Zolra's whispering</div>
             <div class="timeline-item" data-date="413PA">Wars of Qahori Subjugation begin;<br>Second Leveli-Shirin War begins, the Twintail crosses the Mondi at the Tiachen Bridge</div>  
             <div class="timeline-item" data-date="414PA">Fall of the Onari Empire;<br>Battle of the Rimagna Valley</div>  
@@ -450,14 +451,16 @@
             <div class="timeline-item" data-date="431PA">Dwarven warriors attack drow settlements and threaten connecting caves between Fogor and Elbae underland territory</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins as the beheri dwarves attack the elbae underlands, <br>End of the Kingdom of Les</div>
             <div class="timeline-item" data-date="433PA">The Omna of Ekkam retakes the Ganoa Valley from Azuvke and founds Jink on Lake Ganoa</div>
-            <div class="timeline-item" data-date="434PA">1st Vihri-Leoki War ends in Leoki defeat, <br>Conquest of Volazc</div>
-            <div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs amidst the 1st underwar</div>
+            <div class="timeline-item" data-date="434PA">Battle of the Dim Shades, Stanisław zi Usily, Var of Opuzna and called the Rambreaker, defeats the Leoki host;<br>1st Vihri-Leoki War ends in Leoki defeat, <br>Conquest of Volazc</div>
+            <div class="timeline-item" data-date="438PA">Death of Ras Jasper III, his son Martis I becomes Ras of Vihr</div>  
+			<div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs amidst the 1st underwar</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishing Nuv Werm</div>
             <div class="timeline-item" data-date="445PA">The Church of Faigin is officially created from the Motherly Priesthood in Richelet</div>
             <div class="timeline-item" data-date="446PA">The Conclave of 446 canonises Ralond the Scaleslayer & Berengar Starknife</div>
-            <div class="timeline-item" data-date="451PA">The Kingdom of Tur Filash is almost destroyed in the Crisis of the 4th Period</div>
+            <div class="timeline-item" data-date="450PA">Death of Ras Martis I, his son Martis II becomes Ras of Vihr</div>  
+			<div class="timeline-item" data-date="451PA">The Kingdom of Tur Filash is almost destroyed in the Crisis of the 4th Period</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, <br>Golden Age of Urland begins</div>
-            <div class="timeline-item" data-date="456PA">Invention of Gunpowder, called Huling, by alchemists of Lian in Bardrab</div>
+            <div class="timeline-item" data-date="456PA">Invention of Gunpowder, called Huling, by alchemists of Lian in Bardrab;<br>Ras Martis II is killed fighting the Zuzka, his brother Viago V "the Merry" becomes Ras of Vihr</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, <br>Successful end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="458PA">First Council of Opuzna confirms the Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
@@ -472,7 +475,8 @@
             <div class="timeline-item" data-date="476PA">Elbae conquest of Southern Rean</div>
              <div class="timeline-item" data-date="479PA">King Morac of Zepria is assassinated at a feast, his daughter Suzana takes the throne</div>  
 			<div class="timeline-item" data-date="485PA">The Kamerzin sail east from the Qahori Archipelago and settle on Durennis</div>
-            <div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
+            <div class="timeline-item" data-date="486PA">Death of Ras Viago V "the Merry", his son Martis III "the Unlucky" becomes Ras of Vihr</div>  
+			<div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" is crowned Sun Empress by the Oracle of the Organius in Aviv and forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
@@ -480,13 +484,14 @@
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="495PA">Leveli conquest of central Amurez, Conclave of 495 canonises Vazena of Kairos</div>
-            <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan</div>
+            <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan;<br>Ras Martis III refuses to quarantine the cities of southern Vihr</div>
             <div class="timeline-item" data-date="497PA">Gahenna of Jiravid writes On the Wheeling of the Globus, the first known account of a Globus that circles the Sun, which finds no following;<br>The Thuni Narzoi of Bethun begin crossing the Heroes Grave and make first contact with the Senso of southern Peadyr</div>
 			<div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
             <div class="timeline-item" data-date="499PA">Ogrelords splinter;<br>The royal court of Weadland moves to Grisden, where it stays until the Baeling conquest</div>
-            <div class="timeline-item" data-date="501PA">End of the House of Zav in Vihr</div>
+            <div class="timeline-item" data-date="501PA">Death of Ras Martis III "the Unlucky", whose four heirs had died of the Red Pestilence, End of the House of Zav in Vihr;<br>Kasimir I "the Elder", Var of Szievek, becomes the first Ras of the House of Szinmo and is crowned with the Sapphire Band</div>
+			<div class="timeline-item" data-date="503PA">Boris Uprising in Vihr, Kasimir I breaks the rebellion of his son Boris, the zi Brediv lose Breza to House Dibrevi</div>  
 			<div class="timeline-item" data-date="504PA">Death of Marlina I; <br>her younger sister's son becomes King Ardol VI of Gisvale</div>
-			<div class="timeline-item" data-date="505PA">The Tyrant Oxiter becomes the Ruler of the One Order in the central Mistspires</div>
+			<div class="timeline-item" data-date="505PA">The Tyrant Oxiter becomes the Ruler of the One Order in the central Mistspires;<br>Kisras Boris Szinmo is stabbed in a tavern brawl in Zavlech</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
@@ -505,9 +510,9 @@
             <div class="timeline-item" data-date="527PA">Palus Argestes creates the first Waxborn</div>
 	        <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, <br>Lissean Kingdom forms</div>
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble; <br>Sarloni Uprising is put down</div>
-            <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends;<br>Natan XVI grants Jorvistan effective autonomy</div>  
+            <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends;<br>Natan XVI grants Jorvistan effective autonomy;<br>Death of Ras Kasimir II, his grandson Viago VI "the Boy King" becomes Ras of Vihr under the regency of his aunt Katerina</div>  
 			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall</div>
-			<div class="timeline-item" data-date="532PA">Naigan takes Fiyang and the last Golden Emperor is killed, the ancient city of Char is razed on purpose, end of the Golden Rule</div>
+			<div class="timeline-item" data-date="532PA">Naigan takes Fiyang and the last Golden Emperor is killed, the ancient city of Char is razed on purpose, end of the Golden Rule;<br>Death of Viago VI "the Boy King", Katerina I becomes the first woman to rule Vihr in her own right</div>
             <div class="timeline-item" data-date="536PA">The Wermian Accords; <br>Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="544PA">Urland conquers lands east of Lake Dim from Garmeley in the War of the Lake</div>

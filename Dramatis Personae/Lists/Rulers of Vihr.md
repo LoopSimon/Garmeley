@@ -33,15 +33,24 @@
 <p>Jasper III, 407PA - 438PA</p>  
 <p>Martis I, 438PA - 450PA</p>  
 <p>Martis II, 450PA - 456PA</p>  
-<p>Viago V "the Merry", 456PA - 486PA</p>  
-<p>Martis III "the Unlucky", 486PA - 501PA</p>  
+  
+<p><a href="Viago V" class="internal-link">Viago V "the Merry"</a>, 456PA - 486PA</p>
+<p><a href="Martis III" class="internal-link">Martis III "the Unlucky"</a>, 486PA - 501PA</p>   
+  
+*The Red Pestilence killed all four heirs of Martis III, and the senior line of the Zav ended with him.*   
   
 <h3>The Szinmo Dynasty</h3>  
 <small>501PA - 553PA</small>  
   
-<p>Kasimir I "the Elder", 501PA - 508PA</p>  
+<p><a href="Kasimir I" class="internal-link">Kasimir I "the Elder"</a>, 501PA - 508PA</p>   
+  
+*Boris Uprising 503PA, Kasimir I's eldest son Boris rose against him, pardoned but later killed his son Kasimir becomes Kisras.* 
+  
 <p>Kasimir II "the Younger", 508PA - 530PA</p>  
-<p>Viago VI "the Boy King", 530PA - 532PA</p>  
+<p>Viago VI "the Boy King", 530PA - 532PA</p>   
+  
+*Viago VI reigned as a child under the regency of his aunt Katerina and died of a fever at eight.*   
+  
 <p>Katerina I, 532PA - 553PA</p>  
   
 *Vihri War of Succession, 553PA - 562PA. Dobrov Szinmo of Szievek claimed the crown against Zawis of Nediv.*  
