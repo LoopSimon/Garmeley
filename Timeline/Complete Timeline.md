@@ -480,7 +480,7 @@
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
             <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" is crowned Sun Empress by the Oracle of the Organius in Aviv and forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
-            <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby;<br>The Kingdom of Naigan is declared by Lord Aung Shant of Naigan, who no longer recognises the Golden Rule</div>
+            <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby;<br>The Kingdom of Naigan is declared by Lord Aung Shant of Naigan, who no longer recognises the Golden Rule;<br>Ras Martis III raises the Statue of the Firespear on an island in Lake Zav in honour of Viago I</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
             <div class="timeline-item" data-date="494PA">With the last recognised Dunling dying, the Royal line of Urland ends, Golden Age of Urland ends</div>
             <div class="timeline-item" data-date="495PA">Leveli conquest of central Amurez, Conclave of 495 canonises Vazena of Kairos</div>
