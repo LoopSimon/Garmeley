@@ -1,4 +1,4 @@
-%%[[Orc]] [[Yl-Lhatsi]] [[Gaden]][[Karaluk]][[Az]][[Ekkam]][[Ganoan]] [[Nine Great Guilds]] [[Mystics Guild]] [[Azbihra]] 
+%%[[Orc]] [[Yl-Lhatsi][](Gaden.md)]][[Karaluk]][[Az]][[Ekkam]][[Ganoan]] [[Nine Great Guilds]] [[Mystics Guild]] [[Azbihra]] 
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kareli Hierarchy</h4>

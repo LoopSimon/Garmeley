@@ -1,3 +1,3 @@
-%%[[Zepria]] [[Suzana Dragović]]
+%%[[Zepria][](Suzana%20Dragović.md)]]
 %%
 <p>The Rian is the most popular currency of central Nirydia. It was first struck under <a href="Suzana Dragović" class="internal-link">Suzana the Cruel</a>, the founder of the <a href="Zepria" class="internal-link">Zeprian Empire</a>, who was adamant about the importance of a unified currency in her Empire, and it soon became the common coin of all Gorat. Carried abroad by Gorati traders, it was adopted by traders in Cirinzel and the wider region of Pagri, in the Kareli Hierarchy and in many ports of the Pepper Islands and southern Nirydia, and in the late 8th century, during the Yoroy Period, largely by the Twintail Imperium as well. By the dawn of the 10th century almost 70% of all commercial dealings in Nirydia are handled in the Rian, making it the single most important currency on the continent.</p>
