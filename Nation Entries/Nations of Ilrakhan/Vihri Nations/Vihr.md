@@ -60,7 +60,7 @@
 
 
 <h2>Etymology</h2>
-<p>Rascy zi Vihr, in Old Vihri literally the "Kingdom of the Vihr" or colloquially just Vihr is derived from the tribe of the vihrmen that organized in a greater federation in the Lands of the Lehva and Tryd River, vihrmen meaning literally "men of the horn" likely stemming from the unicorns of their homeland.</p>
+<p>Rascy zi Vihr, in Old Vihri literally the "Kingdom of the Vihr" or colloquially just Vihr is derived from the tribe of the vihrmen that organized in a greater federation in the Lands of the Lehva and Tryd River, vihrmen meaning literally "men of the horn" likely stemming from the unicorns of their homeland. The Unicorn has long been the national animal of Vihr and finds itself on much of vihri Iconography.</p>
 
 
 <h2>Geography</h2>
