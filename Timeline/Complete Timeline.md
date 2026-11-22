@@ -451,7 +451,7 @@
             <div class="timeline-item" data-date="431PA">Dwarven warriors attack drow settlements and threaten connecting caves between Fogor and Elbae underland territory</div>
             <div class="timeline-item" data-date="432PA">1st Great Underwar begins as the beheri dwarves attack the elbae underlands, <br>End of the Kingdom of Les</div>
             <div class="timeline-item" data-date="433PA">The Omna of Ekkam retakes the Ganoa Valley from Azuvke and founds Jink on Lake Ganoa</div>
-            <div class="timeline-item" data-date="434PA">Battle of the Dim Shades, Stanisław zi Usily, Var of Opuzna and called the Rambreaker, defeats the Leoki host;<br>1st Vihri-Leoki War ends in Leoki defeat, <br>Conquest of Volazc</div>
+            <div class="timeline-item" data-date="434PA">Battle of the Dim Shades, Stanisław zi Usily, Var of Opuzna and called the Rambreaker, defeats the Leoki host;<br>1st Vihri-Leoki War ends in Leoki defeat, <br>Conquest of Volazc and the northern lands of Leok</div>
             <div class="timeline-item" data-date="438PA">Death of Ras Jasper III, his son Martis I becomes Ras of Vihr</div>  
 			<div class="timeline-item" data-date="439PA">Sultan Irater I organizes the Golden Dusk as the official guardians of the Paragon Tombs amidst the 1st underwar</div>
             <div class="timeline-item" data-date="441PA">Vihr declares the remnants of Wermia de jure under her protection, establishing Nuv Werm</div>
@@ -511,7 +511,7 @@
 	        <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, <br>Lissean Kingdom forms</div>
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble; <br>Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends;<br>Natan XVI grants Jorvistan effective autonomy;<br>Death of Ras Kasimir II, his grandson Viago VI "the Boy King" becomes Ras of Vihr under the regency of his aunt Katerina</div>  
-			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall</div>
+			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall;<br>The regency of Katerina orders that ill tidings among the Sarloni be carried by Wyt envoys, and among the Wyt by Sarloni ones</div>
 			<div class="timeline-item" data-date="532PA">Naigan takes Fiyang and the last Golden Emperor is killed, the ancient city of Char is razed on purpose, end of the Golden Rule;<br>Death of Viago VI "the Boy King", Katerina I becomes the first woman to rule Vihr in her own right</div>
             <div class="timeline-item" data-date="536PA">The Wermian Accords; <br>Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
@@ -581,7 +581,7 @@
             <div class="timeline-item" data-date="621PA">Reanport Uprising</div>
             <div class="timeline-item" data-date="622PA">Fall of the House of du Rean & End of the Kingdom of Rean;<br>Death of Diedrik of Medlan, King of Gisvale, his son Ringil I succeeds him</div>
             <div class="timeline-item" data-date="624PA">Hilcarax kills the Yari Pnurzefec and ascends;<br>Empress Nataša is crowned in Aviv, the last Zeprian ruler to be crowned there</div>
-            <div class="timeline-item" data-date="625PA">2nd Vihri-Leoki War ends;<br> Rascy zi Dalniz is formed, end of the Rascy zi Leok</div>
+            <div class="timeline-item" data-date="625PA">2nd Vihri-Leoki War ends;<br> Rascy zi Dalniz is formed by the Vihri lords who conquered Leok, end of the Rascy zi Leok</div>
             <div class="timeline-item" data-date="626PA">Demise of Fogor-Kol</div>
 			<div class="timeline-item" data-date="627PA">Unut Gelzil breaks the Great Rebellion and becomes Imperator Yoroy I,<br>Early Yoroy Period begins in the Twintail Imperium</div>  
             <div class="timeline-item" data-date="628PA">Wulfrick the Elders finishes the “Theorem Arcanum”</div>
