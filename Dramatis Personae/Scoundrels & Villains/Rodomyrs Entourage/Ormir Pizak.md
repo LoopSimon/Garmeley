@@ -21,7 +21,7 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>827PA, Sargov</span>
+        <span>927PA, Sargov</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>

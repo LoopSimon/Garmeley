@@ -19,7 +19,7 @@
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>827PA, Lenkov Estate</span>
+        <span>927PA, Lenkov Estate</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>

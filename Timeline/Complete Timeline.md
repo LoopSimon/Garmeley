@@ -492,7 +492,7 @@
 			<div class="timeline-item" data-date="503PA">Boris Uprising in Vihr, Kasimir I breaks the rebellion of his son Boris, the zi Brediv lose Breza to House Dibrevi</div>  
 			<div class="timeline-item" data-date="504PA">Death of Marlina I; <br>her younger sister's son becomes King Ardol VI of Gisvale</div>
 			<div class="timeline-item" data-date="505PA">The Tyrant Oxiter becomes the Ruler of the One Order in the central Mistspires;<br>Kisras Boris Szinmo is stabbed in a tavern brawl in Zavlech</div>
-            <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach.</div>
+            <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach;<br>Death of Ras Kasimir I "the Elder", his son Kasimir II "the Younger" becomes Ras of Vihr</div>
             <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
             <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>

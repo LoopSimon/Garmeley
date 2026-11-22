@@ -44,7 +44,7 @@
   
 <p><a href="Kasimir I" class="internal-link">Kasimir I "the Elder"</a>, 501PA - 508PA</p>   
   
-*Boris Uprising 503PA, Kasimir I's eldest son Boris rose against him, pardoned but later killed his son Kasimir becomes Kisras.* 
+*Boris Uprising 503PA: Kasimir I's eldest son Boris rose against him and was pardoned, but was killed in 505PA, and his younger son Kasimir became Kisras.*
   
 <p>Kasimir II "the Younger", 508PA - 530PA</p>  
 <p>Viago VI "the Boy King", 530PA - 532PA</p>   
