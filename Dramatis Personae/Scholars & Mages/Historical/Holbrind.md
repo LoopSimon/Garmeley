@@ -13,20 +13,20 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span></span>
+        <span>421PA,</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span></span>
+        <span>509PA,</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span></span>
+        <span> 88 Years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
-        <span></span>
+        <span>Varymancy</span>
     </div>
     <hr class="wiki-hr">
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Holbrind.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
