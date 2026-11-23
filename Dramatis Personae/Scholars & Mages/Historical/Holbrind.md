@@ -16,22 +16,25 @@
     </div>
     <div class="wiki-row">
         <strong>Born</strong>
-        <span>421PA,</span>
+        <span>421PA, presumed Oathhills</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>
-        <span>509PA,</span>
+        <span>509PA, Featherlight Tower, near Pjaz</span>
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span> 88 Years of Age</span>
+        <span>unknown, 88 Years of Age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Field of Research</strong>
         <span>Varymancy</span>
     </div>
-    <hr class="wiki-hr">
+    <div class="wiki-row">
+        <strong>Known Students</strong>
+        <span>David Thal, <br>Sidra of Krud</span>
+    </div>
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Holbrind.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
