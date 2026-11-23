@@ -460,7 +460,7 @@
             <div class="timeline-item" data-date="450PA">Death of Ras Martis I, his son Martis II becomes Ras of Vihr</div>  
 			<div class="timeline-item" data-date="451PA">The Kingdom of Tur Filash is almost destroyed in the Crisis of the 4th Period</div>
             <div class="timeline-item" data-date="454PA">Arester is defeated and conquered at the end of the Unification Wars, <br>Golden Age of Urland begins</div>
-            <div class="timeline-item" data-date="456PA">Invention of Gunpowder, called Huling, by alchemists of Lian in Bardrab;<br>Ras Martis II is killed fighting the Zuzka, his brother Viago V "the Merry" becomes Ras of Vihr</div>
+            <div class="timeline-item" data-date="456PA">Invention of Gunpowder, called Huling, by alchemists of Lian in Bardrab;<br>Ras Martis II is killed fighting the Zuzka, his brother Viago V "the Merry" becomes Ras of Vihr, Holbrind becomes his Kar-Zavr</div>
             <div class="timeline-item" data-date="457PA">Destruction of Qa, <br>Successful end of Qahori Subjugation</div>
             <div class="timeline-item" data-date="458PA">First Council of Opuzna confirms the Doctrine of Dualism under Archbishop Adzul of Kherova</div>
             <div class="timeline-item" data-date="460PA">The Qahori Federation is founded under the House of Tihiok on the Qahori Archipelago</div>
@@ -478,7 +478,7 @@
             <div class="timeline-item" data-date="486PA">Death of Ras Viago V "the Merry", his son Martis III "the Unlucky" becomes Ras of Vihr</div>  
 			<div class="timeline-item" data-date="487PA">Usse of Roygviil breaks the Istrov Pact and war between Roygviil and Halgrach breaks out. Splintering of the Aeldcircle</div>
             <div class="timeline-item" data-date="488PA">Red Pestilence is first seen in Azuvke in southern Nirydia, killing thousands</div>
-            <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka</div>
+            <div class="timeline-item" data-date="489PA">Death of the Ogre Yagund, Father of the Zuzka, slain by Darmil of Perliav with the Holmace of Holbrind</div>
             <div class="timeline-item" data-date="491PA">Suzana "the Cruel" is crowned Sun Empress by the Oracle of the Organius in Aviv and forms the Zeprian Empire;<br>Queen Marlina I builds Castle Gis in Giselstatt</div>
             <div class="timeline-item" data-date="492PA">Drow make contact with geoli and spurshey sailors on the island of Runsby;<br>The Kingdom of Naigan is declared by Lord Aung Shant of Naigan, who no longer recognises the Golden Rule;<br>Ras Martis III raises the Statue of the Firespear on an island in Lake Zav in honour of Viago I</div>
             <div class="timeline-item" data-date="493PA">The Kingdom of Cimfon is formed following the Battle of Wightswound</div>
@@ -493,7 +493,7 @@
 			<div class="timeline-item" data-date="504PA">Death of Marlina I; <br>her younger sister's son becomes King Ardol VI of Gisvale</div>
 			<div class="timeline-item" data-date="505PA">The Tyrant Oxiter becomes the Ruler of the One Order in the central Mistspires;<br>Kisras Boris Szinmo is stabbed in a tavern brawl in Zavlech</div>
             <div class="timeline-item" data-date="508PA">Roygviil concedes and cedes vast stretches of Land to Halgrach;<br>Death of Ras Kasimir I "the Elder", his son Kasimir II "the Younger" becomes Ras of Vihr</div>
-            <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis</div>
+            <div class="timeline-item" data-date="509PA">Royal Line of Molina ends, fall of the Kings of Cevolis;<br>Death of the Great Mage Holbrind at Featherlight Tower</div>
             <div class="timeline-item" data-date="510PA">Kulum is founded by pilvian and Kherovan Settlers</div>
             <div class="timeline-item" data-date="511PA">Merzigal's Curse is seen for the first time</div>
             <div class="timeline-item" data-date="512PA">Last sighting of Rasmur at Farsen Peak</div>
