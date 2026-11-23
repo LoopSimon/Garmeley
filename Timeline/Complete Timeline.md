@@ -519,6 +519,7 @@
             <div class="timeline-item" data-date="545PA">Tytus defeats the Lich Mendizaba, the Skullbringer, at Xurugam, ending the undead occupation of Xer-Kol</div>
             <div class="timeline-item" data-date="546PA">Frog Sickness breaks out in Il-Haena and eastern Behera</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland;<br>Culling of 549, the royal procession of Katerina I is attacked on the road to Mesziev and her children Matjez and Annrietta are killed</div>
+			<div class="timeline-item" data-date="550PA">Miskos zi Wogrov, husband of Katerina I, takes his own life over the death of their children</div>
             <div class="timeline-item" data-date="551PA">The Luchun Khaganate subjugates the Omna of Ekkam</div>
             <div class="timeline-item" data-date="553PA">Death of Katerina I "the Owl", end of the Szinmo Dynasty in Vihr;<br>Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity;<br>The same Conclave strikes the Apocryphae of Tronos from the White Book and fixes its text</div>
