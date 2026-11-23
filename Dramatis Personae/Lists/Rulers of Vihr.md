@@ -17,7 +17,7 @@
 <p>Viago II, 258PA - 262PA</p>  
 <p>Jasper I, 262PA - 262PA</p>  
   
-*Jasper I died within the year, poisoned.*  
+<small>  Jasper I died within the year, poisoned.  </small>  
   
 <p>Zervind I, 262PA - 289PA</p>  
 <p>Viago III, 289PA - 299PA</p>  
@@ -25,9 +25,9 @@
 <p>Viago IV, 351PA - 375PA</p>  
 <p><a href="Zervind II" class="internal-link">Zervind II "Kneelgood"</a>, 375PA - 388PA</p>  
   
-*Lords' Crisis 377PA, Zervind II held by the Candleguard, Lords march on Zavlech*  
+<small>  Lords' Crisis 377PA, Zervind II held by the Candleguard, Lords march on Zavlech</small>  
   
-*[[Honoured Assembly]] formally established 384PA under Zervind II*  
+<small>  <a href="Honoured Assembly" class="internal-link">Honoured Assembly</a> formally established 384PA under Zervind II</small>  
   
 <p>Boris I "the Pious", 388PA - 407PA</p>  
 <p>Jasper III, 407PA - 438PA</p>  
@@ -37,23 +37,24 @@
 <p><a href="Viago V" class="internal-link">Viago V "the Merry"</a>, 456PA - 486PA</p>
 <p><a href="Martis III" class="internal-link">Martis III "the Unlucky"</a>, 486PA - 501PA</p>   
   
-*The Red Pestilence killed all four heirs of Martis III, and the senior line of the Zav ended with him.*   
+<small>  The Red Pestilence killed all four heirs of Martis III, and the senior line of the Zav ended with him.</small>  
   
 <h3>The Szinmo Dynasty</h3>  
 <small>501PA - 553PA</small>  
   
 <p><a href="Kasimir I" class="internal-link">Kasimir I "the Elder"</a>, 501PA - 508PA</p>   
   
-*Boris Uprising 503PA: Kasimir I's eldest son Boris rose against him and was pardoned, but was killed in 505PA, and his younger son Kasimir became Kisras.*
+<small>  Boris Uprising 503PA: Kasimir I's eldest son Boris rose against him and was pardoned, but was killed in 505PA, and his younger son Kasimir became Kisras.</small>  
   
 <p>Kasimir II "the Younger", 508PA - 530PA</p>  
 <p>Viago VI "the Boy King", 530PA - 532PA</p>   
   
-*Viago VI reigned as a child under the regency of his aunt Katerina and died of a fever at eight.*   
+<small>  Viago VI reigned as a child under the regency of his aunt Katerina and died of a fever at eight.</small>  
+
   
-<span><a href="Katerina I" class="internal-link">Katerina I "the Owl" zi Szinmo</a></span>
+<p>  <span><a href="Katerina I" class="internal-link">Katerina I "the Owl" zi Szinmo</a></span>, 532PA - 553PA</p>  
   
-*Vihri War of Succession, 553PA - 562PA. Dobrov Szinmo of Szievek claimed the crown against Zawis of Nediv.*  
+<small>  Vihri War of Succession, 553PA - 562PA. Dobrov Szinmo of Szievek claimed the crown against Zawis of Nediv.</small>  
   
 <h3>The Worocek Dynasty</h3>  
 <small>562PA - 692PA</small>  
@@ -64,7 +65,7 @@
 <p>Kasimir III "the Pale", 629PA - 635PA</p>  
 <p>Boris II "Hornsword", 635PA - 648PA</p>  
   
-*Eight Years War with Garmeley, 644PA - 652PA. Boris II died in 648PA, and Valena I saw the war to its end.*  
+<small>  Eight Years War with Garmeley, 644PA - 652PA. Boris II died in 648PA, and Valena I saw the war to its end.</small>  
   
 <p>Valena I, 648PA - 674PA</p>  
 <p>Zawis III, 674PA - 692PA</p>  
