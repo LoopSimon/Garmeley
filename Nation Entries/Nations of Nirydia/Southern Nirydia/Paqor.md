@@ -1,6 +1,6 @@
 %%  
 [[Kareli Hierarchy]]  
-[[Bihra]]  
+[[Azbihra]]
 [[Karaluk]]  
 [[Orc]]  
 [[Para]]  
@@ -32,7 +32,7 @@
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
- <span>Paqori <a href="Bihra" class="internal-link">Bihra</a>, <br>Qahori <a href="Orc" class="internal-link">Orcs</a>,<br> Kheri <a href="Human" class="internal-link">Human</a></span>  
+ <span>Paqori <a href="Azbihra" class="internal-link">Azbihra</a>, <br>Qahori <a href="Orc" class="internal-link">Orcs</a>,<br> Kheri <a href="Human" class="internal-link">Human</a></span>  
  </div>  
  <div class="wiki-row">  
  <strong>Official Language</strong>  

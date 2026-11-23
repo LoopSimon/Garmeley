@@ -1,5 +1,5 @@
 %%
-[[Dwarf]] [[Underlands]] [[Terem-Zal]] [[Mistspires]]
+[[Dwarf]] [[Underlands]] [[Terem-Zal]] [[Mistspires]] [[Niryd Steppe]][[Gökol Khaganate]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Serene Republic of Tizin-Kol</h4>
@@ -43,3 +43,5 @@
 </div>
 <p>The Hold of Tizin-Kol is located near the Godsfall of Untizin, known to the worshippers of the Terem-Zal as the Lawgiver, in the Nirydian Underlands within the central <a href="Mistspires" class="internal-link">Mistspire Mountains</a>. In the modern day Tizin-Kol is a spectacular marvel of current-engineering and, even among other underland empires, a place like no other thats to it being the birthplace and largely only worldwide centre of <a href="Currentbending" class="internal-link">Currentbending</a>. Unlike other Holds, Tizin-Kol has always expanded significantly in the eastern Underlands while staying actively connected with both the surface and other Underland realms. </p>
 <p>The Mistspire dwarfs of Tizin-Kol are often hailed as the greatest "no-mag engineers" in the world, a title contested by their cousins to the west in Xer-Kol, and its workshops and Deepforges run day and night. But the discoveries and scientific advancements have also had a tremendous impact on the cultural and religious make-up of the Hold in the last century, seen never more clear than during the tragic days of the <a href="Crisis of the Untouched" class="internal-link">Crisis of the Untouched</a> and the following societal reforms. While it is easy to look at Tizin-Kol as perhaps the most technologically advanced realm of all dwarvenkind, they are strongly principled about order and law, and follow harsh mandates to secure and keep secrete their daring inventions, especially as it pertains to weaponry.</p>
+
+<p>Tizin-Kol claims the surface lands above its eastern halls, where the Mistspires descend onto the north-western <a href="Niryd Steppe" class="internal-link">Niryd Steppe</a>. In the 890s the Hold began damming the waters at Zian Station to harness their power, flooding the land into an artificial swamp in which the Aspira of the steppe cannot grow. The dam drowned grazing land and caravan routes of the <a href="Gökol Khaganate" class="internal-link">Gökol Khaganate</a>, and open war broke out around 910PA. It has since settled into a long state of war, in which Gökol raids on the dam works are met by the defences of the dwarves.</p>

@@ -1,0 +1,19 @@
+%%  
+[[Majir]]  
+[[Jink]]  
+[[Ganoa Valley]]  
+[[Parabol Domes]]  
+[[Ganoan Dye]]  
+[[Karaluk]]  
+[[Javalim]]  
+[[Luchun Khaganate]]  
+[[Calendars]]
+%%  
+<p>The Long Breath is the greatest festival of the <a href="Ganoa Valley" class="internal-link">Ganoa Valley</a>, held over three days at the end of autumn in the cities of <a href="Jink" class="internal-link">Jink</a> and <a href="Majir" class="internal-link">Majir</a> and in the villages around Lake Ganoa. It is the only time in the year when the <a href="Parabol Domes" class="internal-link">Parabol Domes</a> of Majir are cooled and fall silent, the air over the southern shore clears of their fumes and the city rests. The festival is known by different names across the valley. The Majiri call it the Long Breath, the people of Jink and many in the valley know it by its older name, the Hunger, and in the villages of the lake and among the sect of the One it is called the Dance of the Kara, after the masked dances of the Greats of the <a href="Karaluk" class="internal-link">Karaluk</a>, with whose name the word shares its root.</p>  
+<h2>Origin</h2>  
+<p>The festival is held to have begun as a remembrance of the hungry winters under the Khans of the <a href="Luchun Khaganate" class="internal-link">Luchun Khaganate</a>, when the valley gave up its harvest as tribute every autumn and starved through the winter that followed, which gave it the name of the Hunger. In Jink it became a harvest feast of Ginyaka the Mother. Its present form in Majir dates from the raising of the Parabol Domes in the 820s, when the Domes were first cooled for the festival, and from the truce of 895PA between the two cities, which is renewed on its last night.</p>  
+<p>The festival falls when the leaves of the valley have turned, which is taken as a good omen for the year's <a href="Ganoan Dye" class="internal-link">Ganoan Dye</a>, as the leaves are said to take on the colours of the dye. Leaves that turn black early, the colour the dye takes at night, are held to be a bad omen. An old saying of the valley holds that the Hunger is fed once the leaves have fully turned. Like most of the valley's feasts it is reckoned by the Zuhuri calendar, which the Ganoa Valley adopted long ago (see <a href="Calendars" class="internal-link">Calendars</a>).</p>  
+<h2>The Three Days</h2>  
+<p>On the first day, known in Majir as the Cooling, the valves of the Domes are closed at noon and the shift bells fall silent, and at dusk the red oculus of the Dome known as the Red Eye goes dark, the only night of the year on which it does. The gangs of Majir open their cooled Domes for gatherings, the one time in the year that the inside of a Dome can be safely visited, while the Mystics of the Twin Spires use the cold furnaces to carry out the repairs that cannot be made at any other time. In Jink the Archon opens the Hunger at the Temple of Ginyaka, and the wealthy parade through the city at sunset dressed in Ganoan Dye, so that their clothes turn with the light.</p>  
+<p>The second day is the day of the masks. In Majir the dome workers paint their masks in the colours of the turning leaves and walk in procession from the Dome known as Mupat's Mouth down Mask Row to the Wheelhouse, where the high priest of Mupat blesses the city and drinks to the god for the year he spared them. In Jink it is the day of the Feeding, on which bread is floated on the lake at dawn, the cats of Ginyaka are fed at every shrine and the great houses hold their feasts.</p>  
+<p>On the third night both shores send lantern boats out onto the lake, which meet above the flower fields between the cities. The Consuls of Majir row out to meet the Archon of Jink on a raft above the fields, where the truce of 895PA is renewed, together with the price of the flowers and the contract for the medicine of the north. At dawn after the third night the Domes of Majir are lit again.</p>  

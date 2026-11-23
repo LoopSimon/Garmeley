@@ -2,7 +2,9 @@
 [[Faigin]]
 [[Richelet]]
 [[Sebera]]
+[[Balerey]]
 [[Hobgoblin]]
+[[Leveli-Shirin Wars]]
 %%
 
 <div class="wiki-infobox">
@@ -52,4 +54,4 @@
     </div>
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Levelix_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>The Ervocas a Levelix was one of the first united realms of the Leveli created following the Era of Patience after the times of Aecelcor the Great. Levelix became the great nation of the united lower Leveli, even conquering vast parts of its eastern rival <a href="Amurez" class="internal-link">Amurez</a> and declaring itself the Vocas a Vocati, or simply the Ervocas of all the Leveli peoples. Following the end of the line of the Vil-Bautiste, the Ervocas fell apart and the nations of <a href="Richelet" class="internal-link">Richelet</a> and <a href="Sebera" class="internal-link">Sebera</a> were formed as a result of the ensuring conflict between its Hobgoblin and Human population. </p>
+<p>The Ervocas a Levelix was one of the first united realms of the Leveli created following the Era of Patience after the times of Aecelcor the Great. Levelix became the great nation of the united lower Leveli, even conquering vast parts of its eastern rival <a href="Amurez" class="internal-link">Amurez</a> and declaring itself the Vocas a Vocati, or simply the Ervocas of all the Leveli peoples. Before it turned east, its expansion to the south had been checked by the <a href="Twintail Imperium" class="internal-link">Twintail Imperium</a> in the <a href="Leveli-Shirin Wars" class="internal-link">Leveli-Shirin Wars</a> of 399PA to 402PA and 413PA to 416PA, which cost it the Rimagna Valley and much of the southern Leveli Lowlands. At the end of the Leveli Civil War in 572PA the <a href="Richelet" class="internal-link">Vocas a Richelet</a> broke away from the realm, and in 597PA what remained of Levelix declared itself a theocratic Ervocas. Following the end of the line of the Vil-Bautiste, the Ervocas fell apart in 659PA, and the nations of <a href="Balerey" class="internal-link">Balerey</a> and <a href="Sebera" class="internal-link">Sebera</a> were formed as a result of the ensuing conflict between its Human and Hobgoblin population.</p>

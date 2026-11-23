@@ -48,8 +48,9 @@
 </div>
 
 <p> The Duchy used to be directly under the control of the the <a href="Cevolis" class="internal-link">cevoli</a> Kings of old, but with the fall of the Kings of Molina at the beginning of the 6th century, the Ducs of <a href="Jeledo" class="internal-link">Jeledo</a> and Turpador would reject <a href="Battvia" class="internal-link">battvian</a> authority and declare full independence. Turpador has launched various expeditions across the Tirean Ocean to middling success but managed to discover the ruins of an unknown civilization on the large island of Cilvins Poins, in the middle of the Smoking Sea itself. The Duchy has been the more reliable cevolian ally of the people of <a href="Martella" class="internal-link">Martella</a> in the Lions Bay and its capital Vilgao is often used as the connecting port between Sertova and Cevolia.</p>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Turpadori.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div><small><i>Map of Turpador & Bassira, dated 927PA</i></small>
+<iframe src="https://editor.garmeley.com/v/inara/?region=turpador&amp;view=flat"
+        width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
+        loading="lazy" allow="fullscreen" title="turpador (Inara)"></iframe><small><i>Map of Turpador & Bassira, dated 927PA</i></small>
 <h2>People of Interest</h2>
 
 Alina, first of her Name of House Sevir

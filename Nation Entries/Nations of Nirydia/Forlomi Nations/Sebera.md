@@ -4,10 +4,10 @@
 [[Levelix]]
 %%
 <div class="wiki-infobox">
-    <h4 class="wiki-header"></h4>
+    <h4 class="wiki-header"> Vocas a Sebera</h4>
     <div class="wiki-row">
         <strong>Government</strong>
-        <span></span>
+        <span>Leveli Hobgoblin Vocas</span>
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>

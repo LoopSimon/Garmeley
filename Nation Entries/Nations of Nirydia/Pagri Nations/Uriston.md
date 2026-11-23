@@ -5,10 +5,10 @@
 [[Nessos]]  
 %%  
 <div class="wiki-infobox">  
- <h4 class="wiki-header">Uriston</h4>  
+ <h4 class="wiki-header">Uriston Baronies</h4>  
  <div class="wiki-row">  
  <strong>Government</strong>  
- <span></span>  
+ <span>Aristocratic League</span>  
  </div>  
  <div class="wiki-row">  
  <strong>Head of State</strong>  
@@ -41,4 +41,4 @@
  <span>Umo</span>  
  </div>  
 </div>  
-<p>Uriston is a Pagri realm of the Pagri Valley in eastern Nirydia. It was founded in the lands of Umo after that realm's fall at the end of the Third <a href="Zuhuri Holy Wars" class="internal-link">Zuhuri Holy War</a>, when the witch king Zologos, who had crowned himself the reborn Pen Zuhur, was overthrown. Since its founding Uriston has been a loyal ally of the Zuhuri cause and fought on the side of the <a href="League of Aviv" class="internal-link">League of Aviv</a> in the Fourth and Fifth Holy Wars.</p>  
+<p>The Uriston are a league of baronies located in the Pagri Valley in eastern Nirydia. They were founded in the lands of Umo after that realm's fall at the end of the Third <a href="Zuhuri Holy Wars" class="internal-link">Zuhuri Holy War</a>, when the witch king Zologos, who had crowned himself the reborn Pen Zuhur, was overthrown. Since its founding Uriston has been a loyal ally of the Zuhuri cause and fought on the side of the <a href="League of Aviv" class="internal-link">League of Aviv</a> in the Fourth and Fifth Holy Wars.</p>  

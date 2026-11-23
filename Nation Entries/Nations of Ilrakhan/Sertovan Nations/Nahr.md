@@ -46,5 +46,6 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Nahr_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>Nahr, also known as the Home of the Penitent, is a nyrkalbinist republic in far western<a href="Sertova" class="internal-link">Sertova</a>, it was founded on liberal principles and a new interpretation of Kalbinism, largely in contrast to the ancient Empire of <a href="Aerlan" class="internal-link">Aerlan</a>. Its Capital Vissy is one of the largest ports in Sertova and a popular harbour for voyages to the New World across the Tirean Ocean, the lands of <a href="Aisligos" class="internal-link">Aisligos</a>. Nahrs chequered past with the other aerlian successor states, especially its former eastern half, the now independent country of <a href="Revelle" class="internal-link">Revelle</a>, has defined its diplomatic standing in Sertova with Nahrs greatest allies being the cevoli Grand Duchy of <a href="Martella" class="internal-link">Martella</a>.</p>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Nahr1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
+<iframe src="https://editor.garmeley.com/v/inara/?region=nahr&amp;view=globe"
+        width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
+        loading="lazy" allow="fullscreen" title="nahr (Inara)"></iframe>

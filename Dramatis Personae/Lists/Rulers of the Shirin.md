@@ -65,22 +65,28 @@
 <p>Natan IV, 245PA - 268PA</p>
 <p>Natan V, 268PA - 298PA</p>
 <p>Natan VI "the Wise", 298PA - 340PA</p>
-<p>Natan VII, 340PA - 358PA</p>
+<p>Natan VII "the Red", 340PA - 358PA</p>
 <p>Natan VIII, 358PA - 377PA</p>
 <p>Natan IX, 377PA - 395PA</p>
 <p>Natan X "Irontail", 395PA - 422PA</p>
+
+*1st Leveli-Shirin War, 399PA - 402PA*  
+*2nd Leveli-Shirin War, 413PA - 416PA, conquest of the Rimagna Valley*
+
 <p>Natan XI, 422PA - 444PA</p>
 <p>Natan XII, 444PA - 467PA</p>
 
-*Natan XII prohibits Bigronism in Jorvistan, Jorvi Freedom War begins 479PA*
+*Natan XII prohibits Bigronism in Jorvistan 465PA, Jorvi Freedom War begins 467PA*
 
 <p>Natan XIII, 467PA - 488PA</p>
 <p>Natan XIV, 488PA - 507PA</p>
 <p>Natan XV, 507PA - 522PA</p>
 <p>Natan XVI, 522PA - 537PA</p>
+
+*Jorvistan gains effective autonomy under Natan XVI, 530PA*
+
 <p>Natan XVII, 537PA - 558PA</p>
 
-*Jorvi Freedom War ends 530PA, Jorvistan gains effective independence under Natan XVII*
 
 <p>Natan XVIII, 558PA - 560PA</p>
 <p>Natan XIX "Illseed", 560PA - 560PA</p>
@@ -96,6 +102,9 @@
 
 <p>Lisil I "the Consolidator", 572PA - 596PA</p>
 <p>Lisil II, 596PA - 610PA</p>
+
+*Jorvistan refuses the last tribute, end of the Jorvi Freedom War, 598PA*
+
 <p>Lisil III, 610PA - 621PA</p>
 
 *Khulki Rebellion begins 612PA under Lisil III's decree on divine right*
@@ -119,4 +128,7 @@
 <p>Yoroy X, 798PA - 816PA</p>
 <p>Yoroy XI, 816PA - 835PA</p>
 <p>Yoroy XII, 835PA - 856PA</p>
-<p>Yoroy XIII, 856PA - present</p>
+<p>Yoroy XIII, 856PA - 876PA</p>  
+<p>Yoroy XIV "Firefang", 876PA - 912PA</p>  
+<p>Yoroy XV "the Mad", 912PA - 926PA</p>  
+<p>Yoroy XVI, 926PA - present</p>

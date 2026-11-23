@@ -2,6 +2,7 @@
 [[Aerlan]]
 [[Gnome]]
 [[Kalbinism]]
+[[Sertova]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Kingdom of Erlmondy</h4>
@@ -46,6 +47,8 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Erlmondy_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 <p>The Kingdom of Erlmondy is the most populous nation in Sertova and the self proclaimed successor to the mighty but fallen Aerlian Empire, having risen as a lose Union of nobility in the wake of the end of the last imperial dynasty during the great of the ravi in the early 7th century. It has never forgiven its northern neighbour for their deeds and continues to view Ravland as its greatest rival and enemy, even going to all out war during the <a href="War of Kin" class="internal-link">War of Kin</a> in the early 9th century. Erlmondy is allied with the Lissvalley Federation and in modern times also the locni realms of Cimfon and Tintarol, who have forged a military partnership in Othirdon against possible meadi invasions. Erlmondy is predominately Kalbinist with panricist and nyrkalbinist minorities.</p>
+
 <p>The Kingdom is a founding member of the so called "Visian League", aiming to protect its members from imperialist attacks by neighbouring countries, primarily Meadrath, together with the Lissvalley Federation and Cimfon.</p>
-<div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Maps/Erlmondy1.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
-</div>
+<iframe src="https://editor.garmeley.com/v/inara/?region=erlmondy&amp;view=globe"
+        width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
+        loading="lazy" allow="fullscreen" title="erlmondy (Inara)"></iframe>

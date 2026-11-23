@@ -43,7 +43,7 @@
     </div>
     <div class="wiki-row">
         <strong>Formed</strong>
-        <span>597PA</span>
+        <span>572PA</span>
     </div>
     <div class="wiki-row">
         <strong>Disbanded</strong>
