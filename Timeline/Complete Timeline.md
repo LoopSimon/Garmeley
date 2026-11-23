@@ -513,14 +513,14 @@
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends;<br>Natan XVI grants Jorvistan effective autonomy;<br>Death of Ras Kasimir II, his grandson Viago VI "the Boy King" becomes Ras of Vihr under the regency of his aunt Katerina</div>  
 			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall;<br>The regency of Katerina orders that ill tidings among the Sarloni be carried by Wyt envoys, and among the Wyt by Sarloni ones</div>
 			<div class="timeline-item" data-date="532PA">Naigan takes Fiyang and the last Golden Emperor is killed, the ancient city of Char is razed on purpose, end of the Golden Rule;<br>Death of Viago VI "the Boy King", Katerina I becomes the first woman to rule Vihr in her own right</div>
-            <div class="timeline-item" data-date="536PA">The Wermian Accords; <br>Khan Luchun rises in Nirydia</div>
+            <div class="timeline-item" data-date="536PA">The Wermian Accords are signed at Morael, hosted by Katerina I of Vihr; <br>Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
             <div class="timeline-item" data-date="544PA">Urland conquers lands east of Lake Dim from Garmeley in the War of the Lake</div>
-            <div class="timeline-item" data-date="545PA">Tytus defeats the Lich Mendizaba at Xurugam, ending the undead occupation of Xer-Kol</div>
+            <div class="timeline-item" data-date="545PA">Tytus defeats the Lich Mendizaba, the Skullbringer, at Xurugam, ending the undead occupation of Xer-Kol</div>
             <div class="timeline-item" data-date="546PA">Frog Sickness breaks out in Il-Haena and eastern Behera</div>
-            <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland</div>
+            <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland;<br>Culling of 549, the royal procession of Katerina I is attacked on the road to Mesziev and her children Matjez and Annrietta are killed</div>
             <div class="timeline-item" data-date="551PA">The Luchun Khaganate subjugates the Omna of Ekkam</div>
-            <div class="timeline-item" data-date="553PA">End of the Szinmo Dynasty in Vihr; <br>Vihri War of Succession begins</div>
+            <div class="timeline-item" data-date="553PA">Death of Katerina I "the Owl", end of the Szinmo Dynasty in Vihr;<br>Vihri War of Succession begins</div>
             <div class="timeline-item" data-date="555PA">Conclave of 555 canonises Tytus of Pinopki and establishes him as a symbol of the Wermian Accords necessity;<br>The same Conclave strikes the Apocryphae of Tronos from the White Book and fixes its text</div>
             <div class="timeline-item" data-date="556PA">Korsfall College of Astronomy and Magicks is founded</div>
             <div class="timeline-item" data-date="557PA">Rebellion of Tur Filash begins</div>

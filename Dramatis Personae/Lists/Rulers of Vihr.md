@@ -51,7 +51,7 @@
   
 *Viago VI reigned as a child under the regency of his aunt Katerina and died of a fever at eight.*   
   
-<p>Katerina I, 532PA - 553PA</p>  
+<span><a href="Katerina I" class="internal-link">Katerina I "the Owl" zi Szinmo</a></span>
   
 *Vihri War of Succession, 553PA - 562PA. Dobrov Szinmo of Szievek claimed the crown against Zawis of Nediv.*  
   
