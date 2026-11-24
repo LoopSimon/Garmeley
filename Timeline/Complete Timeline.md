@@ -655,23 +655,24 @@
             <div class="timeline-item" data-date="712PA">Battle of Morfwen Plains</div>
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="714PA">Prince Arno di Battivas great hunts and attempts to steal the holy book of names of the Elfrealm of Rogyn reach their zenith</div>
-            <div class="timeline-item" data-date="715PA">The inhabitants of Jurland vanish for reasons unknown</div>
+            <div class="timeline-item" data-date="715PA">The inhabitants of Jurland vanish for reasons unknown;<br>The pirate called the Dead Shark sacks the Grachi port of Durilsk</div>
              <div class="timeline-item" data-date="716PA">Fall of the witch king Zologos ends the Third Zuhuri Holy War, Umo is divided between the new realms of Uriston and Nessos;<br>Ras Vormil I renounces the twentieth seat at the Table of Trazlov and grants the Table rights that hold before the laws of the Vadcy, and builds the White Fleet with the proceeds</div>  
 			 <div class="timeline-item" data-date="717PA">The Table of Trazlov is renamed the Trazlov Consortium</div>
             <div class="timeline-item" data-date="719PA">>Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos;<br>Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
              <div class="timeline-item" data-date="724PA">Buzinci Delegation Incident, imperial tax collectors are slaughtered in southern Gorat and the imperial envoys are arrested in Rashice</div>  
             <div class="timeline-item" data-date="730PA">Black powder reaches Ott along the Ziflis Trade</div>
-            <div class="timeline-item" data-date="731PA">Council of Patwin Tower</div>
+            <div class="timeline-item" data-date="731PA">Council of Patwin Tower;<br>Ras Vormil I sends the Kar-Zavr and a procession of mages through Vihr with ministers of Iztaw, until 737PA</div>
             <div class="timeline-item" data-date="733PA">Izrafur theorizes the 4-Axis Model</div>
-            <div class="timeline-item" data-date="735PA">Uhl accepts Vihr as her liege as Duke Kaspar I von Kran threatens to lay siege to its Walls</div>
+            <div class="timeline-item" data-date="735PA">Uhl accepts Vihr as her liege as Duke Kaspar I von Kran threatens to lay siege to its Walls, and Ras Vormil I leads the White Fleet into the Bay of Uhl</div>
             <div class="timeline-item" data-date="736PA">Knights of the Gryphon refound themselves at Urbridge Keep and create the Order of Urbridge in central Ur</div>
             <div class="timeline-item" data-date="737PA">Battle of Zeeport, <br>Canonization of Yahrwick</div>
              <div class="timeline-item" data-date="738PA">Crisis of 738, <br>Kur Pharabal slays Vezan the Great Other</div>
             <div class="timeline-item" data-date="739PA">Queen Gisela II creates the Landgraviate of Weisch on the northern Coast of Meadland</div>
              <div class="timeline-item" data-date="740PA">The Treaty of 740 confirms the independence of Bassira</div>
-            <div class="timeline-item" data-date="743PA">Death of Gaden and End of Mogyri Golden Age</div>
-            <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II; <br>Ichori Choir is created</div>
+            <div class="timeline-item" data-date="742PA">Ras Vormil I "Seaborn" is killed by an owlbear in the royal woods, Jerziv I becomes Ras of Vihr</div>  
+			<div class="timeline-item" data-date="743PA">Death of Gaden and End of Mogyri Golden Age</div>
+            <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II; <br>Ichori Choir is created;<br>Siege of Borna, Ras Jerziv I of Vihr is killed fighting the Child of Winds, Jasper IV becomes Ras</div>
              <div class="timeline-item" data-date="746PA">The Followers of Duria emerge victorious from the fall of Riarang, birth of the Path of Duria</div>
             <div class="timeline-item" data-date="747PA">Spursley Disaster; <br>Belen Yun takes the throne of the Empire of Naigan at the age of 18</div>
              <div class="timeline-item" data-date="748PA">Prince Anselmo I of Battvia grants the Great Privilege to the Cities of the Bay</div>
