@@ -44,5 +44,5 @@
 <p>The Consortium has true rivals only among those who share its space. The <a href="Xerental" class="internal-link">Xerental</a>, the trade arm of Xer-Kol, competes with it in Vihr and at times works beside it. The Vrieman Bank of Uhl outweighs it in banking and coin. On the Torn Sea it competes fiercely with the Blijgrat League, with Uhl and with others for the carrying trade, and in every town it deals with there are local and regional troublemakers who would gladly see it weakened.</p>  
 <h2>Politics</h2>  
 <p>The Consortium is deeply ingrained in the life of Vihr and stands removed from the authority of any local ruler. Its rights come from the crown and hold before the laws of the Vadcy, and in Trazlov itself the Var has long had to govern alongside it. It tries to keep out of wars and quarrels, but it is not without friends at court. The <a href="Vaergriff" class="internal-link">Vaergriff</a> makes use of its network, and members of the Consortium are among those who back the reforms of the Kisras <a href="Waśko Ralpia" class="internal-link">Waśko</a> in the <a href="Garmish Succession Crisis" class="internal-link">Garmish Succession Crisis</a>.</p>  
-<h2>People of Interest</h2>  
-<p>Jan Pisudski, Headman of the Trazlov Consortium and owner of the Pisudski shipping company<br>Vormil I "Seaborn", Ras of Vihr, who renounced the twentieth seat in 716PA<br>The Dead Shark, pirate of Iffelin, broken by the White Fleet</p>
+
+
