@@ -37,6 +37,8 @@
  <strong>Original kept</strong>  
  <span><a href="Szievek" class="internal-link">Szievek</a> University</span>  
  </div>  
+ <hr class="wiki-hr">  
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Speculum.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 </div>  
 <p>The Speculum Regni, the Mirror of the Realm, is the great codex of law of <a href="Vihr" class="internal-link">Vihr</a>. It was compiled between 724 and 741PA by <a href="Radosław of Szievek" class="internal-link">Radosław of Szievek</a>, the Bishop of Szievek, on the joint commission of Ras <a href="Vormil I" class="internal-link">Vormil I</a> and the High-Bisop of Iztaw, and it gathers into one work the canon law of the <a href="Church of Iztaw" class="internal-link">Church</a>, the rights of the crown, the customs of the Vadcy and the charters of the realm. It was the first time that the laws of Vihr were written down together, and it has been the common reference of every court in the realm ever since. It does not make the law of Vihr one law. It holds up a mirror to the many laws the realm already had, which is what its name was meant to say.</p>  
 <h2>Background</h2>  
