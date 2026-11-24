@@ -12,7 +12,7 @@
     </div>
     <div class="wiki-row">
         <strong>Grade</strong>
-        <span>Kheled</span>
+        <span>Banr</span>
     </div>
     <div class="wiki-row">
         <strong>Creator</strong>

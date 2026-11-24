@@ -1,0 +1,4 @@
+%%
+[[Gethricism]]
+[[Leonyd Krunliv]]
+%%

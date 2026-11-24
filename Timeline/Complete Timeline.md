@@ -511,7 +511,7 @@
 	        <div class="timeline-item" data-date="528PA">Lissvalley Rebellions against Aerlan, <br>Lissean Kingdom forms</div>
             <div class="timeline-item" data-date="529PA">The Conclave of 529 canonises Igor the Humble; <br>Sarloni Uprising is put down</div>
             <div class="timeline-item" data-date="530PA">Sachmon du Rean dies at Sea, Grevennen Rebellion ends;<br>Natan XVI grants Jorvistan effective autonomy;<br>Death of Ras Kasimir II, his grandson Viago VI "the Boy King" becomes Ras of Vihr under the regency of his aunt Katerina</div>  
-			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall;<br>The regency of Katerina orders that ill tidings among the Sarloni be carried by Wyt envoys, and among the Wyt by Sarloni ones</div>
+			<div class="timeline-item" data-date="531PA">Ulrike I "the Hazel Queen" becomes Queen of Korsfall;<br>The regency of Katerina orders that ill tidings among the Sarloni be carried by Wyt envoys, and among the Wyt by Sarloni ones;<br>A royal charter raises the Selbia Brigade as a standing force to hold the south</div>
 			<div class="timeline-item" data-date="532PA">Naigan takes Fiyang and the last Golden Emperor is killed, the ancient city of Char is razed on purpose, end of the Golden Rule;<br>Death of Viago VI "the Boy King", Katerina I becomes the first woman to rule Vihr in her own right</div>
             <div class="timeline-item" data-date="536PA">The Wermian Accords are signed at Morael, hosted by Katerina I of Vihr; <br>Khan Luchun rises in Nirydia</div>
             <div class="timeline-item" data-date="540PA">2nd Great Underwar begins</div>
@@ -749,7 +749,7 @@
             <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova;<br> Battle under the Red Cloud</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
-            <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
+            <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach, all but confirmed to be the work of the Vaergriff;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>

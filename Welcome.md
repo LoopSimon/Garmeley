@@ -5,7 +5,7 @@
 As this world is constantly under development, some articles may still be awaiting construction or maintenance, but we will get to them in due time, if you'd like to contribute in any way please let me know.
 If you are a player in one of the games and worried about spoilers, you can always ping me and double check about a certain page.
 </p>
-<p>Page of the day: <a href="Vihri" class="internal-link">Vihri Culture</a></p>
+<p>Page of the day: <a href="Triarog" class="internal-link">The Triarog</a></p>
 </div>
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <iframe src="https://editor.garmeley.com/v/inara/" width="100%" height="480" style="border:0;border-radius:8px;background:transparent" loading="lazy" allow="fullscreen" title="Inara globe"></iframe>
 </div>

@@ -1,4 +1,4 @@
-Belligerents: The Kingdoms of  [[Nation Entries/Historical Realms/Ilrakhan/Halgrach]] and [[Vihr]].
+Belligerents: The Kingdoms of [[Halgrach]]and [[Vihr]].
 
 *Date:  828 PA - 835 PA 
 
@@ -7,7 +7,7 @@ Belligerents: The Kingdoms of  [[Nation Entries/Historical Realms/Ilrakhan/Halgr
 
 *Result:* White Peace, End of the Kingdom of Halgrach
 
-<p>At the end of the Brothers War the King of Halgrach died on the battlefield while commanding a weak position against the advise of his general staff and the supporting grachy nobility. As sentiment had turned against Oleksandr, who was seen as having squandered an unlikely victory against the numerically superior foe of Vihr,  his death was a turning point in the History of the grachy who organised the country under the Ushkyn System into the Grachy Republic.
+<p>At the end of the Brothers War the King of Halgrach died on the battlefield while commanding a weak position against the advice of his general staff and the supporting grachy nobility. It is all but confirmed that the <a href="Vaergriff" class="internal-link">Vaergriff</a> of Vihr was behind his death. As sentiment had turned against Oleksandr, who was seen as having squandered an unlikely victory against the numerically superior foe of Vihr,  his death was a turning point in the History of the grachy who organised the country under the Ushkyn System into the Grachy Republic.
 The Grachy Generals sued for peace with vihr who had been at the backfoot for a majority of the war as the internal change in Grachy demanded a peace as fast as possible.</p>
 
 
