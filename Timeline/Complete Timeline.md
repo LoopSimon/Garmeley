@@ -364,7 +364,7 @@
             <div class="timeline-item" data-date="263PA">Gethric Teachings are spreading beyond Vihr in Meadland, Urland and Grachy</div>
 	        <div class="timeline-item" data-date="264PA">The City of Halgrach is first mentioned</div>
             <div class="timeline-item" data-date="265PA">Slaughter of Timoq, elven radicalists attack orcs at the Great Trade hub of Timoq on the southern coast, after elven merchants die, the Sultanate sends troops to Timoq, essentially occupying the city after killings houndreds of locals</div>
-            <div class="timeline-item" data-date="268PA">Founding of the Omna of Az</div>
+            <div class="timeline-item" data-date="268PA">Founding of the Omna of Az;<br>Ras Zervind I of Vihr declares the Crown Pleas and sends the first royal judges riding circuit</div>
             <div class="timeline-item" data-date="271PA">Radomir the Scribe joins the writings of Razmyr and Volboris into the White Book</div>
             <div class="timeline-item" data-date="272PA">First permanent Gurita settlements on the Sub Sirennan Coast</div>
 			 <div class="timeline-item" data-date="273PA">Ardol I of the House of Gismar forms the Kingdom of Gisvale;<br>Saint Razmyr is called to the Prophet's side</div>
@@ -660,7 +660,7 @@
 			 <div class="timeline-item" data-date="717PA">The Table of Trazlov is renamed the Trazlov Consortium</div>
             <div class="timeline-item" data-date="719PA">>Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos;<br>Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
-             <div class="timeline-item" data-date="724PA">Buzinci Delegation Incident, imperial tax collectors are slaughtered in southern Gorat and the imperial envoys are arrested in Rashice</div>  
+             <div class="timeline-item" data-date="724PA">Buzinci Delegation Incident, imperial tax collectors are slaughtered in southern Gorat and the imperial envoys are arrested in Rashice;<br>Ras Vormil I and the High-Bisop commission Radosław of Szievek to compile the laws of Vihr</div>
             <div class="timeline-item" data-date="730PA">Black powder reaches Ott along the Ziflis Trade</div>
             <div class="timeline-item" data-date="731PA">Council of Patwin Tower;<br>Ras Vormil I sends the Kar-Zavr and a procession of mages through Vihr with ministers of Iztaw, until 737PA</div>
             <div class="timeline-item" data-date="733PA">Izrafur theorizes the 4-Axis Model</div>
@@ -670,7 +670,8 @@
              <div class="timeline-item" data-date="738PA">Crisis of 738, <br>Kur Pharabal slays Vezan the Great Other</div>
             <div class="timeline-item" data-date="739PA">Queen Gisela II creates the Landgraviate of Weisch on the northern Coast of Meadland</div>
              <div class="timeline-item" data-date="740PA">The Treaty of 740 confirms the independence of Bassira</div>
-            <div class="timeline-item" data-date="742PA">Ras Vormil I "Seaborn" is killed by an owlbear in the royal woods, Jerziv I becomes Ras of Vihr</div>  
+            <div class="timeline-item" data-date="741PA">Radosław of Szievek completes the Speculum Regni, the codex of the laws of Vihr</div>  
+			<div class="timeline-item" data-date="742PA">Ras Vormil I "Seaborn" is killed by an owlbear in the royal woods, Jerziv I becomes Ras of Vihr</div> 
 			<div class="timeline-item" data-date="743PA">Death of Gaden and End of Mogyri Golden Age</div>
             <div class="timeline-item" data-date="745PA">Collegiate Reforms under Gisela II; <br>Ichori Choir is created;<br>Siege of Borna, Ras Jerziv I of Vihr is killed fighting the Child of Winds, Jasper IV becomes Ras</div>
              <div class="timeline-item" data-date="746PA">The Followers of Duria emerge victorious from the fall of Riarang, birth of the Path of Duria</div>
@@ -806,7 +807,7 @@
 			 <div class="timeline-item" data-date="886PA">The Gryphpons League takes Merbridge;<br>Magda Bazena Nib becomes Chair of the Council of Tizin-Kol</div>
             <div class="timeline-item" data-date="887PA">Mikael Bivaldi slays the Troll of Tirbridge;<br> Battle of the Lost Crowns;<br>Gnomish Artificer Charatov Podlim unveils the first single core Automaton</div>
             <div class="timeline-item" data-date="888PA">Treaty of Nzhun;<br> Battle of Merbridge;<br> Zurgush of Ak-Saray ends the League's momentum with plague magic, the coalition falls apart;<br>End of the 2nd War of the Gryphon</div>
-            <div class="timeline-item" data-date="889PA">Reclamation of Kulum by the 
+            <div class="timeline-item" data-date="889PA">Ras Jakub II of Vihr issues the Jakubine Speculum, founding the Royal Tribunal at Zavlech and granting the Peasants' Plea;<br>Reclamation of Kulum by the 
             Kherovan Inquisition; <br>King Folk II of Gelmsburg dies of the Blight of Merbridge, Klovis I becomes King of Gelmsburg</div>
             <div class="timeline-item" data-date="890PA">Thieves War between Grivil and Hainach;<br> Treaty of Fairriver between Vihr and Grevenna</div>
             <div class="timeline-item" data-date="891PA">Great Charter of 891 in Blijgrat;<br>Vaggerport is founded in the New World as a trading outpost of Nahr</div>
