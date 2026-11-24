@@ -64,6 +64,6 @@
 <h2>Economy</h2>
 <p>Torry lives by its coast. Its harbours send out fishing fleets and coastal traders, and like the rest of the northern coast most of the local shipping works within reach of the <a href="Trazlov Consortium" class="internal-link">Consortium</a>. Pilgrims bound for Iztaw, by sea or by the Pilgrims Path through Wermia, pass along its roads and through its ports, and the Vadcy has been happy to charge them for the privilege.</p>
 <h2>Places of Note</h2>
-<p>Torring is the capital and chief harbour, a seaport on the northern coast where the Var keeps his seat, and it is home to a surprisingly diverse population, with a large number of non-Vihri burghers. Inland, the small towns of Udjem and Ilrid lie on the roads that run south toward Pjaz and Rovgi and east toward Iztaw.</p>
+<p>Torring is the capital and chief harbour, a seaport on the northern coast where the Var keeps his seat, and it is home to a surprisingly diverse population, with a large number of non-Vihri burghers. Torring is also the harbour of the White Fleet, the royal fleet that Ras Vormil I built in the 8th century. Inland, the small towns of Udjem and Ilrid lie on the roads that run south toward Pjaz and Rovgi and east toward Iztaw.</p>
 <h2>People of Interest</h2>
 <p>Volboris of House Torry, Var of Torry<br>Rekha of Torring, Paladin of the Silver Wheel</p>

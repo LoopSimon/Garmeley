@@ -592,7 +592,7 @@
             <div class="timeline-item" data-date="632PA">Insurrection of Tizin-Kol begins</div>
             <div class="timeline-item" data-date="633PA">The Goblins of Pintrixaz coem to the aid of the Tizin-Kol insurrectionists; <br>Fall of the Great Order, Dwarves establish the Serene Republic of Tizin-Kol in the wake of Oxiter & Eokils Tyranny</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
-            <div class="timeline-item" data-date="639PA">Trazlov Consortium is founded</div>
+            <div class="timeline-item" data-date="639PA">The Var of Trazlova founds the Table of Trazlov, the Table of the 19, forerunner of the Trazlov Consortium</div>
             <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis</div>
             <div class="timeline-item" data-date="643PA">Tihir Szuan theories the Myan-Bond between Elemental and Spiritual Will.</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley begins the Eight Years War</div>
@@ -656,7 +656,8 @@
             <div class="timeline-item" data-date="713PA">The last King of Lissean gives up power, Lissvalley Federation forms</div>
             <div class="timeline-item" data-date="714PA">Prince Arno di Battivas great hunts and attempts to steal the holy book of names of the Elfrealm of Rogyn reach their zenith</div>
             <div class="timeline-item" data-date="715PA">The inhabitants of Jurland vanish for reasons unknown</div>
-             <div class="timeline-item" data-date="716PA">Fall of the witch king Zologos ends the Third Zuhuri Holy War, Umo is divided between the new realms of Uriston and Nessos</div>  
+             <div class="timeline-item" data-date="716PA">Fall of the witch king Zologos ends the Third Zuhuri Holy War, Umo is divided between the new realms of Uriston and Nessos;<br>Ras Vormil I renounces the twentieth seat at the Table of Trazlov and grants the Table rights that hold before the laws of the Vadcy, and builds the White Fleet with the proceeds</div>  
+			 <div class="timeline-item" data-date="717PA">The Table of Trazlov is renamed the Trazlov Consortium</div>
             <div class="timeline-item" data-date="719PA">>Settlers from Cimfon, Vignasoya and Baeling found the colony of Grynborg near Aisligos;<br>Duke Abelard II von Kran conquers Hasterhall</div>
             <div class="timeline-item" data-date="720PA">Baeling reconquest of Hags Horn, <br>The Conclave of 720 canonises Kifrir the Mirror-Dwarf</div>
              <div class="timeline-item" data-date="724PA">Buzinci Delegation Incident, imperial tax collectors are slaughtered in southern Gorat and the imperial envoys are arrested in Rashice</div>  

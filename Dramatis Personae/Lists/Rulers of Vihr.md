@@ -74,7 +74,8 @@
 <small>692PA - present</small>  
   
 <p>Miskomir II, 692PA - 713PA</p>  
-<p>Vormil I "Seaborn", 713PA - 742PA</p>  
+<p>Vormil I "Seaborn", 713PA - 742PA</p>   
+<small> Vormil I renounced the twentieth seat at the Table of Trazlov in 716PA and built the White Fleet.</small>
 <p>Jasper IV, 742PA - 753PA</p>  
 <p>Miskomir III "the Black", 753PA - 778PA</p>  
 <p>Orian I, 778PA - 786PA</p>  
