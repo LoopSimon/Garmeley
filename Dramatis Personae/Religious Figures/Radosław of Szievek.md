@@ -41,6 +41,8 @@
 <strong>Allegiance</strong>   
 <span><a href="Church of Iztaw" class="internal-link">Church of Iztaw</a></span>   
 </div>   
+ <hr class="wiki-hr">  
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Radoslaw.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 </div>   
 <p>Radosław of Szievek, called the Lawgiver, was Bishop of <a href="Szievek" class="internal-link">Szievek</a> and a master of its University, and the compiler of the <a href="Speculum Regni" class="internal-link">Speculum Regni</a>, the great codex of the laws of <a href="Vihr" class="internal-link">Vihr</a>. Commissioned in 724PA by Ras <a href="Vormil I" class="internal-link">Vormil I</a> and the High-Bisop of Iztaw, he spent seventeen years gathering the canon law of the Church, the rights of the crown, the customs of the Vadcy and the charters of the realm into one work, and he completed it in 741PA. He is remembered as the man who first wrote down the laws of Vihr, and as the teacher of Nidislaw the Keen.</p>   
 <h2>Early Life</h2>   
