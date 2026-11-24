@@ -19,9 +19,10 @@
   
 <small>  Jasper I died within the year, poisoned.  </small>  
   
-<p>Zervind I, 262PA - 289PA</p>  
+<p>Zervind I "the Eagle", 262PA - 289PA</p>  
 <p>Viago III, 289PA - 299PA</p>  
-<p>Jasper II "the Old", 299PA - 351PA</p>  
+<p>Jasper II "the Old", 299PA - 339PA</p>  
+<p>Tragomir I, 339PA - 351PA</p>  
 <p>Viago IV, 351PA - 375PA</p>  
 <p><a href="Zervind II" class="internal-link">Zervind II "Kneelgood"</a>, 375PA - 388PA</p>  
   
@@ -44,7 +45,7 @@
   
 <p><a href="Kasimir I" class="internal-link">Kasimir I "the Elder"</a>, 501PA - 508PA</p>   
   
-<small>  Boris Uprising 503PA: Kasimir I's eldest son Boris rose against him and was pardoned, but was killed in 505PA, and his younger son Kasimir became Kisras.</small>  
+<small>  Boris Uprising 503PA: Kasimir I's eldest son <a href="Boris Szinmo" class="internal-link">Boris zi Szinmo</a> rose against him and was pardoned, but was killed in 505PA, and his younger son Kasimir became Kisras.</small>  
   
 <p>Kasimir II "the Younger", 508PA - 530PA</p>  
 <p>Viago VI "the Boy King", 530PA - 532PA</p>   
