@@ -33,7 +33,7 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Sarloni</span>
+        <span> Old Sarloni Vihri</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

@@ -21,7 +21,7 @@
   
 <p>Zervind I "the Eagle", 262PA - 289PA</p>  
 <p>Viago III, 289PA - 299PA</p>  
-<p>Jasper II "the Old", 299PA - 339PA</p>  
+<p><a href="Jasper II" class="internal-link">Jasper II "the Old"</a>, 299PA - 339PA</p>
 <p>Tragomir I, 339PA - 351PA</p>  
 <p>Viago IV, 351PA - 375PA</p>  
 <p><a href="Zervind II" class="internal-link">Zervind II "Kneelgood"</a>, 375PA - 388PA</p>  

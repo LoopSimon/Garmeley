@@ -384,8 +384,8 @@
             <div class="timeline-item" data-date="296PA">Pieter the Rich becomes Highlord of Weadland</div>
             <div class="timeline-item" data-date="297PA">Hagrash of Ynkal leads thousands of Minotaurs into rebellion against their Vanpuri Slavemasters</div>
             <div class="timeline-item" data-date="298PA">Rise of Khan Genbela in Nirydia</div>
-            <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll, <br>Ras Viago III dies at the Battle of the Pilv against Reani forces</div>
-            <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Urland;<br>Turvik practice is fading across Ilrakhan, <br>Vihri victory against Rean and conquest of the Pilv Valley</div>
+            <div class="timeline-item" data-date="299PA">Halgrach Kingdom is formed by the Grachi tribes west of the Grachhyll, <br>Ras Viago III dies at the Battle of the Pilv against Reani forces;<br>Jasper II "the Old" becomes Ras of Vihr</div>
+            <div class="timeline-item" data-date="306PA">Gethricism becomes the state religion of Urland;<br>Turvik practice is fading across Ilrakhan, <br>Vihri victory against Rean, the Peace of the Pilv and conquest of the Pilv Valley</div>
             <div class="timeline-item" data-date="308PA">Banishment of the Four</div>
             <div class="timeline-item" data-date="312PA">Council of the Old Moon, Baqamon unites almost all the tribes in a defensive alliance</div>
             <div class="timeline-item" data-date="315PA">Ineria Mandukh Gilraman codifies the Mandukh and writes the Six Ways of Zuhurism</div>
@@ -403,7 +403,7 @@
             <div class="timeline-item" data-date="331PA">Karajal founds the School of Insight at Alparak</div>
             <div class="timeline-item" data-date="332PA">The Duchy of Nied is created by the Kings of Urland to oversee old Kerlaen</div>
             <div class="timeline-item" data-date="338PA">Shirin-Xungin Wars begin under the crown prince of Natan VI, later Natan VII "the Red"</div>  
-            <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan</div>
+            <div class="timeline-item" data-date="339PA">Toskar of Medlan declares himself Lord of the Highlands and forms the Realm of Medlan;<br>Death of Ras Jasper II "the Old" of Vihr after forty years of rule, Tragomir I becomes Ras</div>
             <div class="timeline-item" data-date="340PA">The Dovesplague breaks out in major ports of the Torn Sea;<br>Death of Natan VI "the Wise", Natan VII "the Red" becomes Imperator of the Twintail</div>
             <div class="timeline-item" data-date="342PA">Jibey defeats the armies of Pravazik and loots Yokosch</div>
 			<div class="timeline-item" data-date="345PA">Ardol III "Ogre Hammer" becomes King of Gisvale; <br>his reign sees the ogres driven from the eastern foothills near the Bend of the Trinmo</div>
