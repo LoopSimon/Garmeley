@@ -785,8 +785,8 @@
             <div class="timeline-item" data-date="863PA">Droil is granted nominal autonomy under the Crown of Tintarol to appease Independence movements</div>
             <div class="timeline-item" data-date="864PA">Qarzi diplomats successfully establish an embassy on the risen reef</div>
             <div class="timeline-item" data-date="865PA">Battle of Gadly Bridge Andre of Trydlew kills Muriel von Gloss</div>
-            <div class="timeline-item" data-date="866PA"> 2nd Battle of Tears;<br> Treaty of Uhl ends the War of Horn & Fang</div>
-            <div class="timeline-item" data-date="867PA">Founding of New Kulum;<br> Tusul surrenders to the Sultanate, end of the White Wars</div>
+            <div class="timeline-item" data-date="866PA"> 2nd Battle of Tears;<br>Death Quick Idrov at Ibozka;<br> Treaty of Uhl ends the War of Horn & Fang</div>
+            <div class="timeline-item" data-date="867PA">Founding of New Kulum;<br> Tusul surrenders to the Sultanate, end of the White Wars;<br>The crown of Vihr creates the Idrovstar, first bestowed on Idrov zi Sribo and the heroes of the War of Horn and Fang</div>
             <div class="timeline-item" data-date="868PA">Xolor Purges end after around 99% of Xolori living in eastern Nirydia have been murdered, imprisoned or exiled for over a century, blamed for the Dance of Husks;<br>Nuznud Incident at Sulbra Kol after Stone Chronologists attempt to measure the Terem Zal.</div>
             <div class="timeline-item" data-date="869PA">Andre of Trydlew founds the Knights of the Unicorn;<br> Qarzi-Golomid relations worsen following a string of communication based incidents</div>
             <div class="timeline-item" data-date="870PA">Vihri Council of 870, Creation of Torry;<br>Elbae traders strand on the Risen Reef and are never heard from again</div>
