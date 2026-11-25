@@ -101,5 +101,7 @@
 <p>In addition to the Bagram of Halgrach and the seventeen Gram of the republics Regions, the Lord-General of the Republic, currently <a href="Vasily Surovsky" class="internal-link">Vasily Surovsky</a> and the Archbishop of Grachy, currently Yury Goruky, hold major seats within the Grand Ushkyn. A greater number of various Boyar of the Republic hold lesser seats within the Grand Ushkyn.</p>
 <h2>History</h2>
 <small><i>for a History of Halgrach until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
-<h2>Other People of Interest</h2>
+<p>From 828PA to 835PA Halgrach fought the <a href="Brothers War" class="internal-link">Brothers War</a> against Vihr, which the Grachi call the Great Southern War. Vihr had the better of its first two years and took Fidograd, but Ras <a href="Oleksandr IV" class="internal-link">Oleksandr IV</a> turned the war at the Battle under the Red Cloud in 830PA and pushed the Vihri back across the whole of the Iron Claw, while <a href="Karelya Modriv" class="internal-link">Karelya Modriv</a> held Tuskwatch at the end of the Hyllpass for the whole war. Oleksandr died at Gorling Vale in 834PA, and with no clear heir to follow him the Ushkyn assembled in the Blue Palace and declared the Republic. Its generals made a white peace with Vihr in 835PA, and Tuskwatch stayed Grachi.</p>  
+<h2>Other People of Interest</h2>  
+<p><a href="Karelya Modriv" class="internal-link">Karelya Modriv</a>, Boyar of Izhevk, defender of Tuskwatch in the Great Southern War and first Gram of the Hyllpass Region</p>
 

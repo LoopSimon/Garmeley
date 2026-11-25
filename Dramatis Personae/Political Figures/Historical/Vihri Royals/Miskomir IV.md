@@ -54,6 +54,8 @@
 <strong>Dynasty</strong>  
 <span>zi Ralpia</span>  
 </div>  
+<hr class="wiki-hr">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/MiskomirIV.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>  
 <p>Miskomir IV zi Ralpia was Ras of <a href="Vihr" class="internal-link">Vihr</a> from 786 to 813PA. He came to the throne in the middle of the <a href="Second War of Elbae Aggression" class="internal-link">Second War of Elbae Aggression</a>, a war he had spoken against as Kisras, and he reigned through its defeat and through most of the <a href="Third War of Elbae Aggression" class="internal-link">Third War</a>. He is remembered above all for the wars with the elves, and he is sometimes blamed for the great defeat of the coalition in the Second War, though he had little part in causing it. Less often credited are the sewers and bathhouses he built in the towns of Vihr and the Royal Medicae Academy he founded in 804PA. His reputation has risen a great deal in recent times, and it is sometimes said that had he lived in another age he might have been one of the greatest kings Vihr has had.</p>  
 <h2>Early Life</h2>  

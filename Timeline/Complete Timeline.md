@@ -709,7 +709,7 @@
             <div class="timeline-item" data-date="783PA">Battle of Rozbarg</div>
             <div class="timeline-item" data-date="784PA">Zuhurist Purges of the Xolor begin, first proclaimed as the will of Pen Zuhur at Hastermon Temple</div>
             <div class="timeline-item" data-date="785PA">Remillion defeats the Tristen the Ironguard in personal Combat;<br> The Ravlander explorer Balan Reyd lands on the north-eastern shores of Peadyr and founds Camp Reyd, but he and many of his men die of disease within a week and the survivors return home with a map of the north-eastern coast</div>
-            <div class="timeline-item" data-date="786PA">Treaty of Leis ends the Twins War, the Archduchy of Gisvale is created for Kilean von Kor</div>
+            <div class="timeline-item" data-date="786PA">Treaty of Leis ends the Twins War, the Archduchy of Gisvale is created for Kilean von Kor;<br>Death of Ras Orian I of Vihr, Miskomir IV becomes Ras</div>
             <div class="timeline-item" data-date="787PA">Morfeld resurfaces after death, taking possession of Falia Venwick</div>
             <div class="timeline-item" data-date="788PA">The Night of Zolrai on the Fazaar Isles: Glarraq becomes Elabar and founds the Path of the Second Moon</div>
             <div class="timeline-item" data-date="789PA">Battle of Ankros</div>
@@ -727,14 +727,14 @@
             <div class="timeline-item" data-date="801PA">The Heroes of Narav slay the dark Beast Selator in southern Nostroya</div>
             <div class="timeline-item" data-date="802PA">House Tryn is raised to the Vadcy of Levazci after the House zi Kerv dies out;<br>Founding of the Gökol Khaganate by heirs of the Jigallor</div>
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Gun</div>
-            <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao</div>
+            <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao;<br>Ras Miskomir IV founds the Royal Medicae Academy at Zavlech</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
             <div class="timeline-item" data-date="806PA">Battle of the Crossing; <br>Komukha Naman completes the Circumnavigation of Behera </div>
              <div class="timeline-item" data-date="807PA">Mamus Rolim publishes his discovery of the Current, the founding of Currentbending</div>
             <div class="timeline-item" data-date="810PA">Battle of Belzena;<br>Kranvalley Flood;<br>Salvia of Firocco is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars; <br>Rivalt du Chian destroys the Silver Brotherhood</div>
             <div class="timeline-item" data-date="812PA">Battle under the Stars;<br> Ahrmiz Saceren becomes Lord-Elect of Kulum<br>Death of Muglig Ruv in a Nabat workshop explosion</div>
-             <div class="timeline-item" data-date="813PA">Battle of Orzina;<br>The first currentbent signal-lines are laid in the Inos Mines of Tizin-Kol</div>
+             <div class="timeline-item" data-date="813PA">Battle of Orzina;<br>The first currentbent signal-lines are laid in the Inos Mines of Tizin-Kol;<br>Ras Miskomir IV of Vihr dies in Gleamig after cockatrices attack his entourage, Viago VII becomes Ras</div>
             <div class="timeline-item" data-date="814PA">Jurahim al Biad destroys the Isthmus of Horad and the 3rd War of Elbae Aggression ends</div>
             <div class="timeline-item" data-date="815PA">Treaty of Danipol</div>
             <div class="timeline-item" data-date="816PA">Barzin Laram ascends as the Lord of Marrow in Erlmondy</div>
@@ -742,17 +742,18 @@
             <div class="timeline-item" data-date="818PA">Council of 818 in Pikris</div>
             <div class="timeline-item" data-date="820PA">Fall of Kulum;<br> Bykmali Explorers set foot on mainland Aisligos again, a plague quickly begins to spread in Grynborg and adjacent settlements in the tirean isles are quarantined;<br>Margaret II von Kor becomes Queen of Meadrath</div>
             <div class="timeline-item" data-date="821PA">Freelands are recognized at Korsfall in the Charter of 821, amid a civil war between pro Meadi and pro Cimfon communities</div>
-            <div class="timeline-item" data-date="822PA">Majir raises its first Parabol Domes</div>
+            <div class="timeline-item" data-date="822PA">Majir raises its first Parabol Domes;<br>Death of Ras Viago VII of Vihr, his brother Vormil II "Axebreaker" becomes Ras</div>
             <div class="timeline-item" data-date="824PA">Meadi-Othiri War Begins;<br> Battle of Skyroar</div>
             <div class="timeline-item" data-date="825PA">Battle of Arvale</div>
              <div class="timeline-item" data-date="826PA">Battle of Red Oak, Prince Giselher is left crippled;<br>Floating ore carts of deepforged silver run in the Inos Mines</div>
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
-            <div class="timeline-item" data-date="828PA">Brothers War begins in Vihr and Nostroya</div>
+            <div class="timeline-item" data-date="828PA">Brothers War begins in Vihr and Nostroya, and the Vihri fleet under Gri Mezekil zi Brov takes Fidograd</div>
             <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes;<br>Giselher I von Kor becomes King of Meadrath</div>
-            <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova;<br> Battle under the Red Cloud</div>
+            <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova;<br> Battle under the Red Cloud, Ras Vormil II of Vihr loses an eye</div>  
+			 <div class="timeline-item" data-date="831PA">Battle of Kanyak Keep, Idrov zi Sribo kills Gri Volodmir zi Bryansk</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
             <div class="timeline-item" data-date="833PA">Morelle is stripped of its rights as Archduchy, creation of the Duchy of Mear</div>
-            <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach, all but confirmed to be the work of the Vaergriff;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
+            <div class="timeline-item" data-date="834PA">Battle of White Bear Crag;<br> Death of Oleksandr IV of Stir, last Monarch of Halgrach, at Gorling Vale, all but confirmed to be the work of the Vaergriff;<br> The Weadi seafarer Jurim Eykszoon charts much of Peadyr's shores and the isles to its north and lands on Jurland Island, but never sets foot on Peadyr itself, forbidden to do so by his sponsor, the Archmage Teriador, who fears a plague</div>
             <div class="timeline-item" data-date="835PA">End of the Brothers War and Grachy is reorganized as a Republic; <br>A wave of discoveries and tales from the new world of Aisligos begins to spread in Othridon, Sertova, Cevolia and Meadland</div>
             <div class="timeline-item" data-date="836PA">War of Kin ends</div>
             <div class="timeline-item" data-date="837PA">"Dance of Husks" first breaks out in Far Nirydia, blamed on the Xolori;<br> Meynar of Jorrenstead's "Historiae Uriorum" is published</div>
@@ -767,7 +768,7 @@
             <div class="timeline-item" data-date="846PA">Burning of the Alltree and beginning of the Great Eastern War;<br>"Dance of Husks" ravages the pagri and gorati, shirin seem largely untouched.</div>
             <div class="timeline-item" data-date="847PA">Grivil Council forms;<br>The united sertovi colony of New Rav on Peadyr is destroyed following hostile encounters with the local Narzoi tribe of the Rele</div>
              <div class="timeline-item" data-date="848PA">Tusul declares war on the Sultanate as White Wars begin in Behera;<br>Iris Keyzal founds the Keyzal Workshop as the research arm of the Inos Mining Cartel;<br>Rimagna War, Girdineux conquers the Rimagna Valley and much of the Alev Swamp from the Twintail Imperium</div>
-             <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan; <br>The Peace of Chezin ends the Period of the Bleeding Heron as Koshtir, Chezin and Rikarma make peace with Hanshi</div>
+             <div class="timeline-item" data-date="849PA">"Dance of Husks" claims millions reaching the Urban Kareli Hierarchy and is in Drizan, sea routes carry it to population centres in Ilrakhan; <br>The Peace of Chezin ends the Period of the Bleeding Heron as Koshtir, Chezin and Rikarma make peace with Hanshi;<br>Death of Ras Vormil II "Axebreaker" of Vihr, Jerziv II becomes Ras</div>
              <div class="timeline-item" data-date="850PA">"Dance of Husks" devastates urban population of Kherova and Grevenna</div>
             <div class="timeline-item" data-date="851PA">War of Horn and Fang starts;<br> Battle of the Bow;<br>Founding of Guadaxerra;<br>The Duol Khan is acclaimed overlord by the great Khaganates of the Niryd Steppe and takes the title Khan of Khans</div>
             <div class="timeline-item" data-date="852PA">Battle of the Bay;<br>Days of Ire between Hastermon Temple and Ubrut Uroš of Amlija, who is ritually blinded before being forgiven</div>

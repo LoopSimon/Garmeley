@@ -7,7 +7,6 @@
 [[Oleksandr IV]]  
 [[Miskomir IV]]  
 [[Selbia]]  
-[[Orenburg Pact]]  
 [[League of the Gryphon]]  
 [[Honoured Assembly]]  
 %%  
@@ -62,6 +61,8 @@
 <strong>Dynasty</strong>  
 <span>zi Ralpia</span>  
 </div>  
+<hr class="wiki-hr">
+ <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/VormilII.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>  
 <p>Vormil II zi Ralpia, called Axebreaker, was Ras of <a href="Vihr" class="internal-link">Vihr</a> from 822 to 849PA. Before he was king he governed the realm for his brother Viago VII in all but name, and he came to the throne with a reputation for competence. He spent it on the <a href="Brothers War" class="internal-link">Brothers War</a> against the Kingdom of <a href="Halgrach" class="internal-link">Halgrach</a>, which he began in 828PA and in which he lost an eye and nearly his life at the Battle under the Red Cloud. The war ended in 835PA in a white peace that Vihr counted as a humiliation, and the name Axebreaker, which he had taken with pride, became a joke at his expense. He is remembered badly in Vihr to this day, even by those who are otherwise inclined to be fair to him.</p>  
 <h2>Early Life</h2>  

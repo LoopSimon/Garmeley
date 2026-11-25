@@ -83,9 +83,9 @@
 <p>Jasper IV, 745PA - 753PA</p>
 <p>Miskomir III "the Black", 753PA - 778PA</p>  
 <p>Orian I, 778PA - 786PA</p>  
-<p>Miskomir IV, 786PA - 813PA</p>  
+<p><a href="Miskomir IV" class="internal-link">Miskomir IV</a>, 786PA - 813PA</p>
 <p>Viago VII, 813PA - 822PA</p>  
-<p>Vormil II "Axebreaker", 822PA - 849PA</p>  
+<p><a href="Vormil II" class="internal-link">Vormil II "Axebreaker"</a>, 822PA - 849PA</p>
 <p>Jerziv II, 849PA - 860PA</p>  
 <p>Orian II, 860PA - 881PA</p>  
 <p>Jakub II "the Good", 881PA - 901PA</p>  
