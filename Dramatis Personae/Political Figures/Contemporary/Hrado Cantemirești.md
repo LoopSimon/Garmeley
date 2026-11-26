@@ -24,7 +24,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
-        <span>Marek Cantemirești, Despina Cantemirești</span>
+        <span>Marek Cantemirești,<br>Despina Cantemirești</span>
     </div>
     <div class="wiki-row">
         <strong>Dynasty</strong>
