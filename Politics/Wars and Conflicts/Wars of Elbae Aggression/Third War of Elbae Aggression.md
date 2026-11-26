@@ -54,7 +54,7 @@
  Helena of Kontini †<br>
  <br>
  <em>Coalition:</em><br>
- Rezvyr zi Sribo, Var of Selbia †<br>
+ <a href="Rezvyr zi Sribo" class="internal-link">Rezvyr zi Sribo</a>, Var of Selbia †<br>
  Grand Lord Torsal I <br>
  Marfenna of Grevenna †<br>
  Lord Tabis of Slobosi † <br>
@@ -75,7 +75,7 @@
 <div class="wiki-infobox" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Torsal.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">  
 <small><i>Torsal I, Grand Lord of Grevenna</i></small>  
 </div>
-<p>The coalitions supreme commander was Rezvyr zi Sribo, Var of Selbia, a Vihri military mind whose appointment reflected a genuine assessment of ability rather than political convenience, and who proved across the wars ten years to be the finest coalition commander of all three conflicts. Grand Lord Torsal I of Grevenna commanded his nation's forces, his sister Marfenna, a renowned duellist who had urged him to war with a persuasiveness that some later histories would hold partly responsible for what followed, fighting alongside him. The elder Lord Arjak of Bilin, Grevennas veteran of the First and Second Wars, had died before the Third began, leaving the coalition without the man who had achieved its only naval victory. On the Sultanates side, the central theatre at the Horad Isthmus was commanded by Masir Meas Arsifan Elbae, the Sultans third son and a former student of Masir Ulrun Parak, who himself managed the western theatre in Hainach at an older age, charged with holding the frontier against Garmish and Urbridge pressure.</p>
+<p>The coalitions supreme commander was <a href="Rezvyr zi Sribo" class="internal-link">Rezvyr zi Sribo</a>, Var of Selbia,, a Vihri military mind whose appointment reflected a genuine assessment of ability rather than political convenience, and who proved across the wars ten years to be the finest coalition commander of all three conflicts. Grand Lord Torsal I of Grevenna commanded his nation's forces, his sister Marfenna, a renowned duellist who had urged him to war with a persuasiveness that some later histories would hold partly responsible for what followed, fighting alongside him. The elder Lord Arjak of Bilin, Grevennas veteran of the First and Second Wars, had died before the Third began, leaving the coalition without the man who had achieved its only naval victory. On the Sultanates side, the central theatre at the Horad Isthmus was commanded by Masir Meas Arsifan Elbae, the Sultans third son and a former student of Masir Ulrun Parak, who himself managed the western theatre in Hainach at an older age, charged with holding the frontier against Garmish and Urbridge pressure.</p>
 
 <h2>The Opening, Ialopis and the Crossing</h2>
 

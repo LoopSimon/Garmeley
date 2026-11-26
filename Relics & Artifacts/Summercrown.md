@@ -8,7 +8,7 @@
     <h4 class="wiki-header">The Summercrown</h4>
     <div class="wiki-row">
         <strong>Date of Creation</strong>
-        <span>827PA</span>
+        <span>927PA</span>
     </div>
     <div class="wiki-row">
         <strong>Grade</strong>
@@ -20,11 +20,11 @@
     </div>
     <div class="wiki-row">
         <strong>Current Owner <br>or Location</strong>
-        <span>Havu</span>
+        <span>Danusz</span>
     </div>
     <div class="wiki-row">
         <strong>Past Owners</strong>
-        <span>unknown</span>
+        <span>Havu</span>
     </div>
     <div class="wiki-row">
         <strong>Affiliation</strong>

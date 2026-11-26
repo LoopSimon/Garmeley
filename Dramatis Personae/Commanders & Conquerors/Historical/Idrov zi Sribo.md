@@ -43,7 +43,7 @@
 </div>  
 <div class="wiki-row">  
 <strong>Parents</strong>  
-<span>Rezvyr zi Sribo</span>  
+<span><a href="Rezvyr zi Sribo" class="internal-link">Rezvyr zi Sribo</a></span>
 </div>  
 <div class="wiki-row">  
 <strong>Issue</strong>  

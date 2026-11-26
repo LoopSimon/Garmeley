@@ -15,7 +15,7 @@
  </div>
  <div class="wiki-row">
  <strong>Head</strong>
- <span>High-Bisop Orthel II</span>
+ <span>High-Bisop <a href="Orthel II" class="internal-link">Orthel II</a></span>
  </div>
  <div class="wiki-row">
  <strong>Seat</strong>
@@ -40,7 +40,7 @@
  </div>
  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Iztaw.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
-<p>The Church of Iztaw is the clergy of the <a href="Gethricism" class="internal-link">Gethric</a> faith and the institution of its oldest denomination, High Gethricism. It has canonised almost every Saint in the history of the faith. Its head is the High-Bisop of Iztaw, "Bisop" being the Vihri form of the title, and the present High-Bisop is the blessed Orthel II. For the political entity, see <a href="Iztaw" class="internal-link">Iztaw</a>.</p>
+<p>The Church of Iztaw is the clergy of the <a href="Gethricism" class="internal-link">Gethric</a> faith and the institution of its oldest denomination, High Gethricism. It has canonised almost every Saint in the history of the faith. Its head is the High-Bisop of Iztaw, "Bisop" being the Vihri form of the title, and the present High-Bisop is the blessed <a href="Orthel II" class="internal-link">Orthel II</a>.For the political entity, see <a href="Iztaw" class="internal-link">Iztaw</a>.</p>
 <p>The clerics and priests of Iztaw keep chapels and churches across the known world. What sets them apart from the clergy of <a href="Trinicism" class="internal-link">Trinicism</a>, beyond their teachings, is their organisation: the clergy of Iztaw follows a strict hierarchy of priests, clerics and bishops, all of whom answer to the office of the High-Bisop.</p>
 <p>The wealth of the Church and its hold on the faithful have often led observers to treat it as little less than a nation of its own, and for many decades of history the High-Bisop was a more powerful man in <a href="Vihr" class="internal-link">Vihr</a> than the King in Zavlech. Agents of the Church are said to take on every shape and guise, working from the light of the altar as much as from the shadows of an alleyway. Above all else the clergy values discretion, so its methods and its part in events are usually left to speculation.</p>
 <h2>Ranks of the Clergy</h2>
