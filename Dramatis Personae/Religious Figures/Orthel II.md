@@ -4,13 +4,10 @@
 [[Gethricism]]  
 [[Vihr]]  
 [[Rovgi]]  
-[[Honoured Assembly]]  
 [[Kabernos]]  
 [[Wermian Accords]]  
-[[Garmish Succession Crisis]]  
 [[Tadeuz Pilsud]]  
 [[Order of the Silver Wheel]]  
-[[Nestor IX]]  
 %%  
 <div class="wiki-infobox">  
 <h4 class="wiki-header">Orthel II</h4>  

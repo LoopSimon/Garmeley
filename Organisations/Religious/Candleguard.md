@@ -20,4 +20,4 @@
 <h2>The Candleguard Abroad</h2>
 <p>In Zavlech a detachment keeps the cathedral of the Bishop. In Izhevk in Grachy the Candleguard, there called the Candleflame Guard, watches the Church of Remembrance and the Nightingale Library inside it, one of the great archives of Nostroya. Outside the holy city the duty is mostly quiet: standing at the doors, guarding relics, keeping order at great feasts, and walking the Silver Procession, and keeping the ground and standing witness when a <a href="Candle Oath" class="internal-link">Candle Oath</a> is sworn on church ground. Its soldiers swear to the Church and not to any lord, a fact the lords of Vihr have not forgotten.</p>
 <h2>People of Interest</h2>
-<p>Orthel II, High-Bisop of Iztaw<br>Morzin I, High-Bisop of Iztaw in 377PA<br><a href="Zervind II" class="internal-link">Zervind II</a>, Ras of Vihr, held by the Candleguard<br>Dreywin, Bisop of Izhevk</p>
+<p><a href="Orthel II" class="internal-link">Orthel II</a>, High-Bisop of Iztaw<br>Morzin I, High-Bisop of Iztaw in 377PA<br><a href="Zervind II" class="internal-link">Zervind II</a>, Ras of Vihr, held by the Candleguard<br>Dreywin, Bisop of Izhevk</p>
