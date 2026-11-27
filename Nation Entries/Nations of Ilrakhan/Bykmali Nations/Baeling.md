@@ -53,8 +53,5 @@
 <p>The Kingdom is centred around Melmers Bay, named after the Gethric Saint <a href="Melmer" class="internal-link">Melmer</a>, whose voyages in the later 4th century began the conversion of the northern lands to the faith of the Prophet, and mainly populated by the Olbellinge peoples of the larger bykmål culture group. The largest city on the entire island is the Port of <a href="Sallesand" class="internal-link">Sallesand</a>, which is nominally under the Baeling crown but so powerful and so closely tied to the <a href="Trazlov Consortium" class="internal-link">Trazlov Consortium</a> that it is in practice independent. Within the kingdom proper, the cities of Rillberg, Troese and the capital of Alsebyn are imposing towns by bykmål standards.</p>
 <h2>People of Interest</h2>
 
-Varald, first of his Name of House 
-	King of Baeling and Lord-Keeper of Jallbreg
-
-Sten Billstrom
-	Keeper of Sallesand
+<p><a href="Varald I" class="internal-link">Varald I</a><br>King of Baeling and Lord-Keeper of Jallbreg</p>
+<p>Sten Billstrom<br>Keeper of Sallesand</p>
