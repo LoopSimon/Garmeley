@@ -486,7 +486,7 @@
             <div class="timeline-item" data-date="496PA">Red Pestilence spreads throughout Ilrakhan;<br>Ras Martis III refuses to quarantine the cities of southern Vihr</div>
             <div class="timeline-item" data-date="497PA">Gahenna of Jiravid writes On the Wheeling of the Globus, the first known account of a Globus that circles the Sun, which finds no following;<br>The Thuni Narzoi of Bethun begin crossing the Heroes Grave and make first contact with the Senso of southern Peadyr</div>
 			<div class="timeline-item" data-date="498PA">After a period of instability, Versil of Rassel is declared new King of Urland </div>
-            <div class="timeline-item" data-date="499PA">Ogrelords splinter;<br>The royal court of Weadland moves to Grisden, where it stays until the Baeling conquest</div>
+            <div class="timeline-item" data-date="499PA">Ogrelords splinter;<br>The royal court of Weadland moves to Grisden, where it stays until the Baeling conquest;<br>Death of Valund Baeling, his son Erik I becomes King of the Bay</div>
             <div class="timeline-item" data-date="501PA">Death of Ras Martis III "the Unlucky", whose four heirs had died of the Red Pestilence, End of the House of Zav in Vihr;<br>Kasimir I "the Elder", Var of Szievek, becomes the first Ras of the House of Szinmo and is crowned with the Sapphire Band</div>
 			<div class="timeline-item" data-date="503PA">Boris Uprising in Vihr, Kasimir I breaks the rebellion of his son Boris, the zi Brediv lose Breza to House Dibrevi</div>  
 			<div class="timeline-item" data-date="504PA">Death of Marlina I; <br>her younger sister's son becomes King Ardol VI of Gisvale</div>
@@ -517,6 +517,7 @@
             <div class="timeline-item" data-date="544PA">Urland conquers lands east of Lake Dim from Garmeley in the War of the Lake</div>
             <div class="timeline-item" data-date="545PA">Tytus defeats the Lich Mendizaba, the Skullbringer, at Xurugam, ending the undead occupation of Xer-Kol</div>
             <div class="timeline-item" data-date="546PA">Frog Sickness breaks out in Il-Haena and eastern Behera</div>
+            <div class="timeline-item" data-date="548PA">Emperor Ragnvald I of Baeling takes Mannelik, Korre Hjalmar II of Vignasoya falls in its defence and the Great Thing chooses Eyvind Roering, Jarl of Skeppbirk, as Korre</div>
             <div class="timeline-item" data-date="549PA">Baeling Conquest of Weadland;<br>Culling of 549, the royal procession of Katerina I is attacked on the road to Mesziev and her children Matjez and Annrietta are killed</div>
 			<div class="timeline-item" data-date="550PA">Miskos zi Wogrov, husband of Katerina I, takes his own life over the death of their children</div>
             <div class="timeline-item" data-date="551PA">The Luchun Khaganate subjugates the Omna of Ekkam</div>
@@ -592,7 +593,7 @@
             <div class="timeline-item" data-date="633PA">The Goblins of Pintrixaz coem to the aid of the Tizin-Kol insurrectionists; <br>Fall of the Great Order, Dwarves establish the Serene Republic of Tizin-Kol in the wake of Oxiter & Eokils Tyranny</div>
             <div class="timeline-item" data-date="637PA">Hilcarax becomes Great Sage of Koshtir</div>
             <div class="timeline-item" data-date="639PA">The Var of Trazlova founds the Table of Trazlov, the Table of the 19, forerunner of the Trazlov Consortium</div>
-            <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis</div>
+            <div class="timeline-item" data-date="641PA">Battle of Nuckheim, Death of Giselher of Gis;<br>Haddr the Great, Korre of Vignasoya, proclaims the Great Kingdom of Skorland</div>
             <div class="timeline-item" data-date="643PA">Tihir Szuan theories the Myan-Bond between Elemental and Spiritual Will.</div>
             <div class="timeline-item" data-date="644PA">Vihr Invasion of Garmeley begins the Eight Years War</div>
             <div class="timeline-item" data-date="645PA">Second Zuhuri Holy War begins;<br>Promulgation of the Timit Codex under Yoroy II "the Great"</div>  
@@ -611,7 +612,7 @@
             <div class="timeline-item" data-date="664PA">Wars of Trout and Drake ends;<br>Liara I of Gisvale marries Gunther III of Korsfall, the Union of Meadrath is proclaimed;<br>Diago di Locci publishes "The Great Index"</div>
             <div class="timeline-item" data-date="665PA">Dorians Travels; <br>Naigan conquers the Safiri cities of the western Antulun Bay</div>
             <div class="timeline-item" data-date="666PA">The Necromancer Morfeld is captured by Lyandra of Fairriver, later tried and burned alive in Uhl</div>
-             <div class="timeline-item" data-date="667PA">Cirinzel takes Trilom and the Eye of Zuhur from the Zeprian Empire</div>  
+             <div class="timeline-item" data-date="667PA">Cirinzel takes Trilom and the Eye of Zuhur from the Zeprian Empire;<br>Death of Haddr the Great, the Great Kingdom of Skorland breaks apart and Rensköldsvik regains its independence</div>
             <div class="timeline-item" data-date="668PA">Yellow War ends after the Peace at Kulum</div>
             <div class="timeline-item" data-date="670PA">Opening of Ott;<br>Dorian founds the Shields of Summer Chapter within the Knights of the Gryphon</div>
             <div class="timeline-item" data-date="671PA"> Battle of Verivale and End of the Luchun Khaganate;<br>Jink regains its independence</div>
@@ -728,7 +729,7 @@
             <div class="timeline-item" data-date="803PA">Invention of the Ottian Gun</div>
             <div class="timeline-item" data-date="804PA">Riot of 804 in Vilgao;<br>Ras Miskomir IV founds the Royal Medicae Academy at Zavlech</div>
             <div class="timeline-item" data-date="805PA">3rd War of Elbae Aggression</div>
-            <div class="timeline-item" data-date="806PA">Battle of the Crossing; <br>Komukha Naman completes the Circumnavigation of Behera </div>
+            <div class="timeline-item" data-date="806PA">Battle of the Crossing; <br>Komukha Naman completes the Circumnavigation of Behera ;<br>The 6th War of Baeling Succession ends, Tversby becomes an independent city-state under the Archbishop of Trykkerog</div>
              <div class="timeline-item" data-date="807PA">Mamus Rolim publishes his discovery of the Current, the founding of Currentbending</div>
             <div class="timeline-item" data-date="810PA">Battle of Belzena;<br>Kranvalley Flood;<br>Salvia of Firocco is betrayed and usurped by her student Harvina</div>
             <div class="timeline-item" data-date="811PA">Begin of the Keywars; <br>Rivalt du Chian destroys the Silver Brotherhood</div>
@@ -837,15 +838,15 @@
             <div class="timeline-item" data-date="910PA">The Wolfsplague in Urland, Garmeley, Vihr, Grevenna and Hainach;<br>Vorellan Wars begin;<br>Death of Gisela III, Gisela IV becomes Queen of Meadrath;<br>Open war breaks out between the Gökol Khaganate and Tizin-Kol over the dam at Zian Station</div>
              <div class="timeline-item" data-date="911PA">9th War of Baeling Succession;<br>Death of Magda Bazena Nib</div>
              <div class="timeline-item" data-date="912PA">Following an assassination attempt, Perrin Diar is granted protection by the Lord of Ballina;<br>Sadizka Ovoletru of Rivno publishes "The Afterimage of the Beast";<br>The Elek, vassals of the Yadu, take the mountains and hills between the Niryd Steppe and the Gorati Highlands;<br>Yoroy XV "the Mad" becomes Imperator of the Twintail</div>
-            <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Jean du Jera leaves court for Jera after Gisela IV takes full governance;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath</div>
+            <div class="timeline-item" data-date="913PA">Kabernos is arrested in Gelmsburg for sorcerous crimes against the Accords;<br>Jean du Jera leaves court for Jera after Gisela IV takes full governance;<br>Marrin Andil founds the Lordship of Ulbreek in the New World after the fall of the Duke du Jeras faction in Meadrath;<br>Death of Håkan V of Baeling during the 9th War of Baeling Succession, his son Varald I becomes King of Baeling</div>
             <div class="timeline-item" data-date="914PA">Battle of the Amethyst Caverns, Kubil no Vang destroys the Tuchewa Khaganate;<br>Archibald Grig, first Lord-Governour of Dalesire, dies</div>
             <div class="timeline-item" data-date="915PA">Cartographer Viande jeh Kaldin publishes his "Atlas of the known World";<br>Karlaz the Razor sacks the port of Kalsad;<br>Death of High-Bisop Eskomir I "the Kind", <a href="Orthel II" class="internal-link">Orthel II</a> is elected High-Bisop of Iztaw;<br>Xer-Kol begins refining and manufacturing black powder</div>
-            <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment;<br>The Karajal School of Insight accepts the Wheeling of Gahenna;<br>Battle of Cefran, first use of black powder weapons on a surface battlefield;<br>Battle of Modim Cave;</div>
+            <div class="timeline-item" data-date="916PA">Urien Post is established in Uhl;<br> Shymon Epios Grimoire Paralis is finished and immediately banned, only a few copies circulate as the book is barred from official publishment;<br>The Karajal School of Insight accepts the Wheeling of Gahenna;<br>Battle of Cefran, first use of black powder weapons on a surface battlefield;<br>Battle of Modim Cave;;<br>The 9th War of Baeling Succession ends with Baeling holding Troese</div>
             <div class="timeline-item" data-date="917PA">The Odise Stormcaller Rylla of the Flaia gathers warriors from many Odise tribes and begins raiding the camps of Almersport;<br>Korman van Schipwig finishes “The Fractal Bridge”</div>
             <div class="timeline-item" data-date="918PA">Independence Movements grow once again in Droil;<br>The kethric missionary known as the White Sister arrives in the Ganoa Valley;<br>Orsogai Duol becomes Khan of the Duol at the age of 19</div>
             <div class="timeline-item" data-date="919PA">Vorellan Wars end; <br>Gram Derianov of Durilsk rises up against the Grand Ushkyn at Halgrach;<br> The Goblin Poet Taggazan performs at the Rectors Ball of Reanport;<br>Coster of Melmbirth marries Princess Lena of Eldmar</div>
             <div class="timeline-item" data-date="920PA">Korsfall lifts the ban on Enchantment Magics, going against the Wermian Accords;<br> Gaal-Renessi War breaks out</div>
-            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World</div>
+            <div class="timeline-item" data-date="921PA">The Mandukh becomes the most printed text in the world;<br> The Derianov Uprising is put down;<br>Dueren is founded in the New World;<br>Death of Bjark II of Juelfluk, his daughter Madeley IV becomes Queen of Juelfluk</div>
             <div class="timeline-item" data-date="922PA">Mini Campaign 1: Death of Duchess Agnes of Garmeley;<br> Mini Campaign 2: Fairriver Incident;<br>Beladoz the Black is killed by Carguez di Mindano in the Candle Oath between Selbia and Opuzna;<br> Dwarven Invasion of Yokosch;<br>Yoroy XV "the Mad" of the Twintail openly succumbs to his madness as a Rodor</div>
              <div class="timeline-item" data-date="923PA">Campaign 1: The Chestbearers;<br> Mossbrook Affair;<br>Niedrest Incident;<br>Garmish Civil War breaks out;<br>Lady Regia of Forrington is taken hostage by the Green Banner League;<br>Siege of Dolm begins;<br>The Keyzal Workshop creates the Keyzal 21</div>
             <div class="timeline-item" data-date="924PA">The Voyage of the Cylla and discovery of Sirenna;<br> Sack of Sunminster; <br>Dwarven Invasion of Yokosch fails;<br>Battle of Segao, Admiral Tucao Chuwen defeats the Manyfingers</div>
