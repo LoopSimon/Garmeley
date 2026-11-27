@@ -42,6 +42,7 @@
  <strong>Allegiance</strong>  
  <span>Throne of <a href="Vihr" class="internal-link">Vihr</a></span>  
  </div>  
+  <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Brigade_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>  
 <p>The Selbia Brigade is a standing regiment of <a href="Vihr" class="internal-link">Vihr</a>, quartered in the Vadcy of <a href="Selbia" class="internal-link">Selbia</a> and commanded by the Hetman of the Brigade. Up to five thousand strong, it is among the most famous bodies of warriors on the continent and is feared far beyond the borders of the Rascy. It was raised after the Sarloni Uprising of 529PA to hold the south of the realm, and in the centuries since it has answered every call of the Ras and fought in every war of the crown. To the Vihri it is a byword for loyalty and for the strength of the realm, while many of the Sarloni of <a href="Breza" class="internal-link">Breza</a> and <a href="Opuzna" class="internal-link">Opuzna</a> see in its red shields the sign of Vihri dominance and of their own oppression.</p>  
 <h2>History</h2>  
