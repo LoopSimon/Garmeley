@@ -624,7 +624,7 @@
             <div class="timeline-item" data-date="681PA">Death & Canonisation of Dorian the Kind;<br>Gyedo falls to the Empire of Naigan and is horrifically sacked, the Channeler Szuan dies during the storming of the city.</div>
             <div class="timeline-item" data-date="682PA">The Meadi Highlands are given to the newly creates Dukes of Risfalt & Wargel following the Unification of Meadrath; <br>Urgil Cave collapses following the Shroomfever, cutting the Tirbo Clan off from the Mitimgar cave network</div>
             <div class="timeline-item" data-date="683PA">End of the Vocas a Amurez, <br>Birth of Labella south of the Templi Heights</div>
-            <div class="timeline-item" data-date="684PA">Baeling Resurgence</div>
+            <div class="timeline-item" data-date="684PA">Baeling Resurgence, Sivdil the Tall of the Runeblade Mercenary Company claims the Baeling name and founds the Kingdom of Baeling</div>
             <div class="timeline-item" data-date="685PA">Rise of Khan Jigallor in Nirydia</div>
             <div class="timeline-item" data-date="686PA">Establishment of the Gaal Empire on Ynkal;<br>The Usily Plot against Zawis III is uncovered, House Terjan is raised to the Vadcy of Opuzna</div>
             <div class="timeline-item" data-date="687PA">The first Great Tazamosch of Yokosch leads his people against Pravazik</div>
@@ -747,7 +747,7 @@
              <div class="timeline-item" data-date="826PA">Battle of Red Oak, Prince Giselher is left crippled;<br>Floating ore carts of deepforged silver run in the Inos Mines</div>
             <div class="timeline-item" data-date="827PA">Meadi-Othiri War Ends</div>
             <div class="timeline-item" data-date="828PA">Brothers War begins in Vihr and Nostroya, and the Vihri fleet under Gri Mezekil zi Brov takes Fidograd</div>
-            <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes;<br>Giselher I von Kor becomes King of Meadrath</div>
+            <div class="timeline-item" data-date="829PA">1st Death of Ahrmiz the Conjurer at the hand of unnamed heroes;<br>Giselher I von Kor becomes King of Meadrath;<br>Levangr War of Independence, Levangr breaks away from Baeling in alliance with the Blijgrat League</div>
             <div class="timeline-item" data-date="830PA">War of Kin breaks out in eastern Sertova;<br> Battle under the Red Cloud, Ras Vormil II of Vihr loses an eye</div>  
 			 <div class="timeline-item" data-date="831PA">Battle of Kanyak Keep, Idrov zi Sribo kills Gri Volodmir zi Bryansk</div>
             <div class="timeline-item" data-date="832PA">Giselher I of Meadrath is almost killed in an assassination attempt known as the Fiseux Uprising</div>
