@@ -3,7 +3,7 @@
 [[Baeling Empire]]
 [[Nilborg]]
 [[Madeley IV]]
-
+[[Wars of Baeling Succession]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Jueli Kingdom</h4>
@@ -13,7 +13,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>Queen <a href="Madeley IV">Madeley IV</a></span>
+        <span>Queen <a href="Madeley IV" class="internal-link">Madeley IV</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -53,4 +53,4 @@
 <div class="grid-item" style="overflow: hidden; display: flex; flex-direction: column;"> <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/juelfluk.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 </div>
 <p>In the modern day, under the rule of the much beloved Queen <a href="Madeley IV">Madeley IV</a>, fourth of her Name of House Udry, Juelfluk is looking to profit of the instability within her neighbours, civil unrests and conflicts between Baeling and <a href="Jallbreg" class="internal-link">Jallbreg</a> are in jueli interest, as are the eternal wars between the decentralised Boyars of <a href="Grachy" class="internal-link">Grachy</a> and the entrenched Pheki of <a href="Ukiolla" class="internal-link">Ukiolla</a> within <a href="Nostroya" class="internal-link">Nostroya</a>.</p>
-<p>Juelfluks own colonial venture across the passage east in the meanwhile has grown roots: In 848PA King Munja II of House Udry granted the colony of Juelfluk its Charter of rights in 848PA and with it the first Lord of Hremny became its leader. To day Nilborg has grown into a sizeable enterprise and represents the growing hope of the jueli people in the east, its unique position as the only such ilrakhani colony in northern nirydia giving their merchants a monopoly on various luxury goods, although travel through Henmars Passage is only possible for around three months per year due to the weather conditions.</p>
+<p>Juelfluks own colonial venture across the passage east in the meanwhile has grown roots: In 845PA King Munja II of House Udry granted the colony of Nilborg its Charter of rights and with it the first Lord of Hremny became its leader. To day Nilborg has grown into a sizeable enterprise and represents the growing hope of the jueli people in the east, its unique position as the only such ilrakhani colony in northern nirydia giving their merchants a monopoly on various luxury goods, although travel through Henmars Passage is only possible for around three months per year due to the weather conditions.</p>

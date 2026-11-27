@@ -14,7 +14,7 @@
     </div>
     <div class="wiki-row">
         <strong>Head of State</strong>
-        <span>King <a href="Varald I">Varald I</a></span>
+        <span>King <a href="Varald I" class="internal-link">Varald I</a></span>
     </div>
     <div class="wiki-row">
         <strong>Capital</strong>
@@ -49,8 +49,8 @@
     <img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Flags/Baeling_2_Flag.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;">
 </div>
 
-<p> The Baeling Kingdom derives its name from the near mythical House of Baeling that ruled the Baeling Empire since the 5th century. Although in constantly dispute and conflict with the neighbouring powers of <a href="Trykkerog" class="internal-link">Trykerogg </a>such as <a href="Wars of Baeling Succession" class="internal-link">the Wars of Baeling Succession</a> with the Lords of <a href="Juelfluk" class="internal-link">Juelburg</a>, it is nevertheless the undisputed strongest power on the northern Continent stretching even across the Bay to the City of <a href="Jallbreg" class="internal-link">Jallbreg</a>. </p>
-<p>The Kingdom is centred around Melmers Bay, named after the Gethric <a href="Melmer" class="internal-link">Melmer</a> who converted the northern lands to the faith of the Prophet in the later 4th century, and mainly populated by the Olbellinge peoples of the larger bykmål culture group. The largest City in not only the country but on the entire Island is without a doubt the Port of Sallesand, although the cities of Rillberg, Troese and the Capital of Alsebyn are imposing towns for bykmål standards as well. </p>
+<p> The Baeling Kingdom derives its name from the near mythical House of Baeling that ruled the Baeling Empire since the 5th century. Although in constantly dispute and conflict with the neighbouring powers of <a href="Trykkerog" class="internal-link">Trykkerog</a>, such as <a href="Wars of Baeling Succession" class="internal-link">the Wars of Baeling Succession</a> with the Kings and Queens of <a href="Juelfluk" class="internal-link">Juelfluk</a>, it is nevertheless the undisputed strongest power on the northern Continent stretching even across the Bay to the City of <a href="Jallbreg" class="internal-link">Jallbreg</a>. </p>
+<p>The Kingdom is centred around Melmers Bay, named after the Gethric Saint <a href="Melmer" class="internal-link">Melmer</a>, whose voyages in the later 4th century began the conversion of the northern lands to the faith of the Prophet, and mainly populated by the Olbellinge peoples of the larger bykmål culture group. The largest city on the entire island is the Port of <a href="Sallesand" class="internal-link">Sallesand</a>, which is nominally under the Baeling crown but so powerful and so closely tied to the <a href="Trazlov Consortium" class="internal-link">Trazlov Consortium</a> that it is in practice independent. Within the kingdom proper, the cities of Rillberg, Troese and the capital of Alsebyn are imposing towns by bykmål standards.</p>
 <h2>People of Interest</h2>
 
 Varald, first of his Name of House 
@@ -58,6 +58,3 @@ Varald, first of his Name of House
 
 Sten Billstrom
 	Keeper of Sallesand
-
-Ulrik Roering
-	Lord-Reaver of Skeppbirk

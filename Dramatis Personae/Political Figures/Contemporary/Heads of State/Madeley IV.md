@@ -32,7 +32,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Issue</strong>
-        <span>Emil of Udrig,<br>Signe of Udry</span>
+        <span>Emil of Udry,<br>Signe of Udry</span>
     </div>
     <div class="wiki-row">
         <strong>Dynasty</strong>

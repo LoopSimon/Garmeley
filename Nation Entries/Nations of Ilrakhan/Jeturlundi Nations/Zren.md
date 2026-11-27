@@ -1,5 +1,5 @@
 %%
-[[Vannsi Deep Worship]][[Trykkerog]][[Bykmåli]][[Skemfing]]
+[[Vannsi Deep Worship]][[Trykkerog]][[Bykmåli]][[Skemfing]] [[Vannsi]]
 %%
 
 <div class="wiki-infobox">
@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<p>The Zren is the name given to the <a href="Vannsi" class="internal-link">Vannsi</a> civilisation of eastern <a href="Trykkerog" class="internal-link">Trykkerog</a>, occupying the Zreni Wetlands, a geothermally warmed network of rivers, hot springs and marshlands that lies east of the central mountain range and below the Kaldverjod. Volcanic heat rising through the bedrock keeps the rivers from freezing and sustains an ecosystem of unusual warmth and richness for so northerly a latitude, creating conditions that have allowed a stable Vannsi culture to thrive here for centuries. The Zren represents the largest and most organised of the Vannsi cultures in the northern seas and serves as the primary point of contact between the Vannsi and the human world of <a href="Ilrakhan" class="internal-link">Ilrakhan</a>.</p>
+<p>The Zren is the name given to the <a href="Vannsi" class="internal-link">Vannsi</a> civilisation of north-eastern <a href="Trykkerog" class="internal-link">Trykkerog</a>, occupying the Zreni Wetlands, a geothermally warmed network of rivers, hot springs and marshlands that lies east of the central mountain range and below the Kaldverjod. Volcanic heat rising through the bedrock keeps the rivers from freezing and sustains an ecosystem of unusual warmth and richness for so northerly a latitude, creating conditions that have allowed a stable Vannsi culture to thrive here for centuries. The Zren represents the largest and most organised of the Vannsi cultures in the northern seas and serves as the primary point of contact between the Vannsi and the human world of <a href="Ilrakhan" class="internal-link">Ilrakhan</a>.</p>
 
 <p>The Zren is governed by the Inamid, a Council of seven Sages drawn from among the most accomplished and wise of the Zreni Tideseers. The Inamid gathers sporadically rather than continuously, convening at its seat on the geyser plateau in the elevated lands east of the lower wetlands in a place of considerable spiritual significance, where columns of hot water rise from the earth in testament to the geothermal forces beneath. When the Sages speak, all clans of the Zren defer to their judgement; between gatherings, individual clans govern themselves through their own elders, who may bring disputes or troubles before the Inamid when the occasion demands. The position of Speaker of the Inamid leads the council, though decisions of consequence are made collectively. A Sage serves until death, at which point the remaining council members select a successor from among those they deem worthy in a process that prizes wisdom and political judgement as much as shamanic ability, and one that many capable Tideseers deliberately avoid, preferring the freedom of seafaring life to a lifetime of service.</p>
 

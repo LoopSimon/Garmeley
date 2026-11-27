@@ -1,3 +1,6 @@
+%%
+[[Fjorisjom Saga]]
+%%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Gudrun</h4>
     <div class="wiki-row">

@@ -24,7 +24,7 @@
  </div>  
  <div class="wiki-row">
         <strong>Born</strong>
-        <span>382PA, Juelfluk </span>
+        <span>382PA, Malksbay</span>
 	    </div>
     <div class="wiki-row">
         <strong>Died</strong>

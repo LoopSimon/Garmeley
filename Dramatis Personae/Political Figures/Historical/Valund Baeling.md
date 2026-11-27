@@ -9,7 +9,7 @@
     </div>
     <div class="wiki-row">
         <strong>Occupation</strong>
-        <span>Emperor of the Baeling</span>
+        <span>King of the Bay</span>
     </div>
     <div class="wiki-row">
         <strong>Successor</strong>
@@ -29,7 +29,7 @@
     </div>
     <div class="wiki-row">
         <strong>Cause of Death</strong>
-        <span>Stroke, <br> 66 years of age</span>
+        <span>Stroke, <br> 67 years of age</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">
@@ -48,4 +48,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Valund.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
-<p>Valund "the Whale" Baeling was the legendary ancestor of the House of Baeling and the founder of the eponymous Baeling Empire that would rule over vast stretches of land around the Torn Sea during the 5th and 6th century. His status as a near mythical Conqueror and Ruler has been cemented in history and he has left a massive cultural footprint lasting well into the modern day. Following the end of his direct line and the Fall of the Baeling Empire as well as an ensuing period of chaos, Sivdil the Tall a war leader of Melmers Bay would claim to be a direct descendent of Valund and embrace the Baeling name, creating a Kingdom based around the olbellinge cities of the Bay and Valunds original seat of Power known as the modern day Kingdom of Baeling. </p>
+<p>Valund "the Whale" Baeling was the legendary ancestor of the House of Baeling and the founder of the dynasty behind the eponymous Baeling Empire, which his successors proclaimed in 517PA and which counts him as its first Emperor. The Empire would rule over vast stretches of land around the Torn Sea during the 5th and 6th century. His status as a near mythical Conqueror and Ruler has been cemented in history and he has left a massive cultural footprint lasting well into the modern day. Following the end of his direct line and the Fall of the Baeling Empire as well as an ensuing period of chaos, Sivdil the Tall a war leader of Melmers Bay would claim to be a direct descendent of Valund and embrace the Baeling name, creating a Kingdom based around the olbellinge cities of the Bay and Valunds original seat of Power known as the modern day Kingdom of Baeling. </p>
