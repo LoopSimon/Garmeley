@@ -24,7 +24,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Bykmali Paganism">Bykmali Paganism</a>
+     <span><a href="Bykmali Paganism">Bykmali Paganism</a></span>    
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -32,7 +32,7 @@
     </div>
     <div class="wiki-row">
         <strong>Official Language</strong>
-        <span>Old Bykmål</span>
+        <span>Upper Bykmål</span>
     </div>
     <hr class="wiki-hr">
     <div class="wiki-row">

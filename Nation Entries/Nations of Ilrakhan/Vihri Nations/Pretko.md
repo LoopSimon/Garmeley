@@ -27,7 +27,7 @@
  <hr class="wiki-hr">  
  <div class="wiki-row">  
  <strong>Primary Religion</strong>  
- <a href="Gethricism" class="internal-link">Gethricism</a>  
+ <span>  <a href="Gethricism" class="internal-link">Gethricism</a></span>    
  </div>  
  <div class="wiki-row">  
  <strong>Primary Culture</strong>  
