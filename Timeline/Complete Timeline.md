@@ -7,6 +7,7 @@
         <h3>Age of Stone</h3>
         <div class="timeline-list">
 	        <div class="timeline-item" data-date="2.8M BA"> Earliest use of Stone Tools by the Idrim</div>
+	        <div class="timeline-item" data-date="2.5M BA"> The Binding of the Gods; End of the Aldubyggja</div>
 	        <div class="timeline-item" data-date="700000BA">Likely evolution of the Purman in southern Behera</div>
 	        <div class="timeline-item" data-date="300000BA">The modern day human evolves in Behera replacing and interbreeding with its Purman ancestor</div>
 	        <div class="timeline-item" data-date="250000BA">Underland Trolls slowly evolve into the smaller Trogs</div>
@@ -25,7 +26,7 @@
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
 			<div class="timeline-item" data-date="30500BA">Fellwins Comet hits in the southern beheran Desert</div>
 			<div class="timeline-item" data-date="30000BA">Nua Elfs are rapidly being replaced by the Drow</div>
-			<div class="timeline-item" data-date="29000BA">The Binding of the Gods; End of the Aldubyggja</div>
+			<div class="timeline-item" data-date="29000BA">The Nárauðna is built in the mountains of Trykkerog</div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, a distant star bursts and outshines Luna Major for weeks, the greatest Super Conflux in the history of the Globe, a surge of cosmic radiation hits the Globe, most severe in the caves of eastern Behera</div>  
 			 <div class="timeline-item" data-date="24800BA">The magnetic field of the Globe is at its weakest for centuries, cosmic radiation stays raised and auroras are seen far from the poles</div>  
