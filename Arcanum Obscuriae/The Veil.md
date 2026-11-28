@@ -7,7 +7,7 @@
 [[Dulmic Gate]]  
 [[Realmatic Nativism]]  
 [[Tronos]]  
-[[Aeldcult]]  
+[[Aeld Faith]]  
 [[Darmiga]]  
 [[Kalbinism]]  
 [[Zuhurism]]  

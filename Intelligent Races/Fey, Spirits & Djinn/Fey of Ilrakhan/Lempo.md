@@ -1,6 +1,6 @@
 %%
 [[Fey]]
-[[Aeldcult]]
+[[Aeld Faith]]
 [[Nostroya]]
 [[Trykkerog]]
 [[Crown of the World]]

@@ -1,7 +1,7 @@
 %%
 [[Otso]]
 [[Leonyd Krunliv]]
-[[Aeldcult]]
+[[Aeld Faith]]
 [[Pehki]]
 %%
 <div class="wiki-infobox">

@@ -1,5 +1,5 @@
 %%
-[[Aeldcult]]
+[[Aeld Faith]]
 [[Nostroya]]
 [[Fey]]
 [[Hubert of Tanverley]]

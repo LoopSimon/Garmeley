@@ -5,7 +5,7 @@
 [[Realmatic Nativism]]  
 [[Weaving]]  
 [[Conflux]]  
-[[Aeldcult]]  
+[[Aeld Faith]]  
 [[The Incursion]]  
 [[Strait of Horad]]  
 [[Jurahim al-Biad]]  

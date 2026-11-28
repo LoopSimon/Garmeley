@@ -6,7 +6,7 @@
 [[Giant]]
 [[Ogre]]
 [[Troll]]
-[[Bykmali Paganism]]
+[[Forrvegur]]
 %%
 <div class="wiki-infobox">
 <h4 class="wiki-header">Hvirfill</h4>

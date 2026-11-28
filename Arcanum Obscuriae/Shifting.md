@@ -2,7 +2,7 @@
 [[Ral]]   
 [[Weaving]]   
 [[Lycanthropy]]   
-[[Aeldcult]]   
+[[Aeld Faith]]   
 [[The Veilcurse]]   
 [[Ruginë]]   
 [[Rivid Tepor]]   

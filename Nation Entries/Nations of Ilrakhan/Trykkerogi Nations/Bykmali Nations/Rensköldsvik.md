@@ -2,7 +2,7 @@
 [[Trykkerog]]
 [[Vignasoya]]
 [[Baeling Empire]]
-[[Bykmali Paganism]]
+[[Forrvegur]]
 [[Zmalig]]
 [[Blijgrat]]
 %%
@@ -63,4 +63,4 @@
 <p>The people of Rensköldsvik are Skori and speak Upper Bykmål, but generations of trade and foreign service have made them the most outward looking of the Skori. The jarldom is divided in faith. The countryside keeps the old gods of <a href="Bykmali Paganism" class="internal-link">Bykmali Paganism</a>, the harbours have Gethric churches, and traders from Blijgrat and Meadrath have brought a <a href="Trinicism" class="internal-link">Trinicist</a> minority. The Jarls have generally kept peace between the three by favouring none of them openly.</p>
 
 <h2>History</h2>
-<p>In the 5th century the jarls of the Rensvik Bay were among the Skori lords who swore their arms to the Korre of Vignasoya. The <a href="Baeling Empire" class="internal-link">Baeling Empire</a> brought the bay under its rule in the 6th century, and when the Empire fell in 590PA the Jarls of Rensköldsvik did not return to the Korre, ruling instead as independent lords in the decades that followed. In 641PA Haddr the Great, Korre of Vignasoya, subdued the jarldom and made it part of his Great Kingdom of Skorland, but when Skorland broke apart after his death in 667PA, Rensköldsvik regained its independence. Since then it has remained a jarldom of independent traders and mercenaries around the Rensvik Bay, wary of Vignasoya, friendly with whichever of the southern powers pays best, and too poor in land and too rich in fighting men to be worth anyone's conquest.</p>
+<p>In the 5th century the jarls of the Rensvik Bay were among the Skori lords who swore their arms to the Korre of Vignasoya. The <a href="Baeling Empire" class="internal-link">Baeling Empire</a> brought the bay under its rule in the 6th century, and when the Empire fell in 590PA the Jarls of Rensköldsvik did not return to the Korre, ruling instead as independent lords in the decades that followed. In 641PA Haddr the Great, Korre of Vignasoya, subdued the jarldom and made it part of his <a href="Great Kingdom of Skorland" class="internal-link">Great Kingdom of Skorland</a>, but when Skorland broke apart after his death in 667PA, Rensköldsvik regained its independence. Since then it has remained a jarldom of independent traders and mercenaries around the Rensvik Bay, wary of Vignasoya, friendly with whichever of the southern powers pays best, and too poor in land and too rich in fighting men to be worth anyone's conquest.</p>

@@ -1,5 +1,5 @@
 %%
-[[Aeldcult]]
+[[Aeld Faith]]
 [[Nostroya]]
 [[Great Eastern War]]
 [[Roygviil]]

@@ -1,8 +1,8 @@
 %%
 [[Fjorisjom Saga]]
-[[Bykmali Paganism]]
+[[Forrvegur]]
 [[Juelfluk]]
-[[Aeldcult]]
+[[Aeld Faith]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Toski Golleki</h4>

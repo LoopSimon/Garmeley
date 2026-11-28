@@ -1,9 +1,9 @@
 %%
 [[Nyllena]]
 [[Vignasoya]]
-[[Bykmali Paganism]]
+[[Forrvegur]]
 [[Fjorisjom Saga]]
-[[Aeldcult]]
+[[Aeld Faith]]
 %%
 <div class="wiki-infobox">
     <h4 class="wiki-header">Egill Bylgjurek</h4>

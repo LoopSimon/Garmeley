@@ -1,6 +1,6 @@
 %%
 [[Nostroya]]
-[[Aeldcult]]
+[[Aeld Faith]]
 [[Lempo]]
 [[The Dance of Nissa]]
 %%

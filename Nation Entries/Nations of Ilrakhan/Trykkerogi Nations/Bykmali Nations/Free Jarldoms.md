@@ -1,7 +1,7 @@
 %%
 [[Trykkerog]]
 [[Vignasoya]]
-[[Bykmali Paganism]]
+[[Forrvegur]]
 [[Rensköldsvik]]
 %%
 <div class="wiki-infobox">

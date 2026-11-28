@@ -2,7 +2,7 @@
 [[Trykkerog]]  
 [[Melmer]]  
 [[Gethricism]]  
-[[Bykmali Paganism]]  
+[[Forrvegur]]  
 [[Black Tanya]]  
 [[Iron Hole]]  
 [[Thiar]]  

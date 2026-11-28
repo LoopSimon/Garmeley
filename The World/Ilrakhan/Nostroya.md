@@ -1,5 +1,5 @@
 %%
-[[Aeldcult]]
+[[Aeld Faith]]
 [[Ukiolla]]
 [[Grachy]]
 [[Giant]]

@@ -1,6 +1,6 @@
 %%
-[[Aeldcult]]
-[[Bykmali Paganism]]
+[[Aeld Faith]]
+[[Forrvegur]]
 [[Giant]]
 [[The Jättilkivi]]
 %%

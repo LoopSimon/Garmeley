@@ -1,8 +1,8 @@
 %%
 [[Juelfluk]]
 [[Fjorisjom Saga]]
-[[Bykmali Paganism]]
-[[Aeldcult]]
+[[Forrvegur]]
+[[Aeld Faith]]
 [[Baeling]]
 [[Baeling Empire]]
 [[Dragon]]

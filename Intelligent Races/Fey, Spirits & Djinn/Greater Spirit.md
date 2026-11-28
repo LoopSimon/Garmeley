@@ -2,7 +2,7 @@
 [[Yari]]  
 [[Kindly Lords]]  
 [[Terem-Zal]]  
-[[Aeldcult]]  
+[[Aeld Faith]]  
 [[Fey]]  
 [[Myan-Bond]]  
 [[Szuan]]  
