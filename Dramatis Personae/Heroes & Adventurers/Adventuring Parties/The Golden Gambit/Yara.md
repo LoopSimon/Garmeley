@@ -31,3 +31,4 @@
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Yara.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<small><i>this article concerns a Player Character played by Tombo during Campaign 2</i></small>

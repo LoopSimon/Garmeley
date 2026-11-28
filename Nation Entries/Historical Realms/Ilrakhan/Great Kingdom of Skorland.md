@@ -28,7 +28,7 @@
 <hr class="wiki-hr">
 <div class="wiki-row">
 <strong>Primary Religion</strong>
-<span><a href="Bykmali Paganism" class="internal-link">Bykmali Paganism</a></span>
+<span><a href="Forrvegur" class="internal-link">Forrvegur</a></span>
 </div>
 <div class="wiki-row">
 <strong>Primary Culture</strong>

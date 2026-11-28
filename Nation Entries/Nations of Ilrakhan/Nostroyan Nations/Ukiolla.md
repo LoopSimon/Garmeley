@@ -25,7 +25,7 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Primary Religion</strong>
-        <a href="Aeldcult" class="internal-link">Aeldcult</a>
+        <a href="Aeld Faith" class="internal-link">Aeld Faith</a>
     </div>
     <div class="wiki-row">
         <strong>Primary Culture</strong>
@@ -60,26 +60,20 @@ While the southern parts of Ukiolla are still predominantly agricultural, forest
 <h2>Demographics</h2>
 
 <p>Approximating the Ukiollan population is almost impossible due to there being no official census and the country being very decentralized in general.  Around 90% of the countries population is made up by Pehki Humans, the natives of not only modern day Ukiolla but also the lands further south where the Grachy Republic now rules. The Sehvki, men of the mountains, make up most of  the remaining population. Their relationship with the pehki is amicable but clearly defined, as they live mostly isolated and in small communities, usually at the slopes of the Mistspires or within the reaches of the Eldveil. There are some northern Sehvki tribes that roam the Waelajokull, but contact with them is rare and it would be hard to describe them as citizens of the Principality. The Roymer that originally inhabited southern Nostroya where almost entirely eradicated, subsumed or displaced by the Grachian Expansionist policies, today few of them are still alive, many of them living in smaller communities within the Jättilkivi or having fled north towards the Principality.</p>
-<p> In Ukiolla Clans and Elders rule local communities, natural order stretches from religion into worldly tradition and to rise above ones station of birth is not only functionally impossible but also looked down upon as heathen notion. Gender norms are very rigid here, the Aeldcult being dominated by female figures and the Clans ruled essentially entirely by men. Often times the druidic clergy class is given higher reverence than even worldly rulers and they dominate the political structures of Ukiolla through influence to a large extent, largely creating the circumstances for a large country like Ukiolla to exist in these climates by communing and changing the land and weather.</p>
+<p> In Ukiolla Clans and Elders rule local communities, natural order stretches from religion into worldly tradition and to rise above ones station of birth is not only functionally impossible but also looked down upon as heathen notion. Gender norms are very rigid here, the Aeld Faith being dominated by female figures and the Clans ruled essentially entirely by men. Often times the druidic clergy class is given higher reverence than even worldly rulers and they dominate the political structures of Ukiolla through influence to a large extent, largely creating the circumstances for a large country like Ukiolla to exist in these climates by communing and changing the land and weather.</p>
 <h2>Economy</h2>
 <p>Having undergone large reforms in recent times, the Ukiollan economy is in a state of change. The Green Tithe, a simplification and standardization of taxes and levies is a recent introduction to the realm, increasing crown tax revenue and balancing the pay between nobility and farmer within the country. This assessment of tax based on ability to pay is  welcomed by many and perceived as fair and just.</p>
 <p>Mercantilism and Trade is a larger part of ukiollan economy than one might expect on first glance. The port of Hakkepenki may not be as large as Sallesand or Uhl, but it is a large destination for Jueli traders nonetheless, and the cogs of the <a href="Trazlov Consortium" class="internal-link">Trazlov Consortium</a> call there as evenly as they call at Voblag in Grachy. The recent reignition of the <a href="Great Eastern War" class="internal-link">War with Grachy</a>, has however led to a stagnation of Trade as ukiolland merchants are not welcome in Grachy and the sea routes have become less safe for pehki traders.</p>
 <p>The Ukiollan economy is almost entirely agrarian, exporting mainly livestock, fur, fish and Copper.
 The incredible amount of untapped timber of the highest quality within the country has been the source of conflict with its neighbours as religious and cultural traditions forbid the pehki from harming the plant life of the region.
 On the flipside, many beaver and bear pelts of great refine are exported alongside rare minerals such as copper and tin. On the grand scale of things the Ukiollan economy is however undeniably poor, owing certainly to the isolation of its traders due to the conflict with Grachy as discussed above. 
-Nevertheless, the land provides for the pehki and sevhki that care for it, as Ukiolla is perhaps the only country in the known world where the relationship between state and clergy, or in this case the druidic circles of <a href="Aeldcult" class="internal-link">the Aeldcult</a>, has resulted in a real positive for the agricultural economy of the country: famines are almost non existent within Ukiolla, the lands around the Asza are unnaturally fertile and warm, especially for the climate, and the animals are fertile and healthy.</p>
+Nevertheless, the land provides for the pehki and sevhki that care for it, as Ukiolla is perhaps the only country in the known world where the relationship between state and clergy, or in this case the druidic circles of the <a href="Aeld Faith" class="internal-link">Aeld Faith</a>, has resulted in a real positive for the agricultural economy of the country: famines are almost non existent within Ukiolla, the lands around the Asza are unnaturally fertile and warm, especially for the climate, and the animals are fertile and healthy.</p>
 <h2>Religion</h2>
-<small><i>see <a href="Aeldcult" class="internal-link">the Aeldcult</a></i></small>
-<p>Initial attempts of converting the Pehki and Sevhki peoples to Gethricism in the 4th century failed quickly due to the deep roots of the Aeldcult within the smallest social structures of the tribes and later wars with the predominantly Gethric Grachi only proofed to bolster the internal resistance against this foreign faith, which became unanimous with the symbol fo the southern invaders that had taken the land of the pehki.
-The first druid of the Aeld, is a position that is almost as influential as the Prince within the greater cultural context of Ukiolla and she is traditionally married to the Halontsaari monarch, giving him legitimacy among his people and reinforcing the "Great Promise", the task to protect the lands of the Eldveil from southern heathens.</p>
-
-<p><p>
+<small><i>see <a href="Aeld Faith" class="internal-link">the Aeld Faith</a></i></small>
+<p>Attempts to convert the Pehki and Sehvki peoples to Gethricism in the 4th century failed quickly because of the deep roots of the Aeld Faith in the smallest social structures of the tribes, and the later wars with the predominantly Gethric Grachi only strengthened the resistance against a foreign faith that became the symbol of the southern invaders who had taken the land of the Pehki.</p>
+<p>The office of the First Druid of the Aeld is almost as influential as that of the Grand Prince within the greater cultural life of Ukiolla. The First Druid is traditionally married to the Halontsaari monarch, which gives him legitimacy among his people and reinforces the "Great Promise", the task of protecting the lands of the Eldveil from the southern heathens.</p>
 <h2>History</h2>
 <small><i>for a History of Nostroya until the 8th century see <a href="Nostroya" class="internal-link">A broad history of Nostroya</a></i></small>
 <h2>People of Interest</h2>
-
-Kallevo, ninth of his Name of Clan Halontsaari
-	Grand Prince of Ukiolla
-
-Tarja Roglender
-	First Druid of the Aeld
+<p>Kallevo, ninth of his Name of Clan Halontsaari<br>Grand Prince of Ukiolla</p>
+<p>Tarja Roglender<br>First Druid of the Aeld</p>

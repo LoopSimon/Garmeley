@@ -25,7 +25,7 @@
 <hr class="wiki-hr">
 <div class="wiki-row">
 <strong>Primary Religion</strong>
-<span><a href="Bykmali Paganism" class="internal-link">Bykmali Paganism</a></span>
+<span><a href="Forrvegur" class="internal-link">Forrvegur</a></span>
 </div>
 <div class="wiki-row">
 <strong>Primary Culture</strong>
@@ -57,7 +57,7 @@
         width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
         loading="lazy" allow="fullscreen" title="Free Jarldoms (Inara)"></iframe>
 <h2>Faith</h2>
-<p>The Free Jarldoms are the stronghold of the old faith of <a href="Bykmali Paganism" class="internal-link">Bykmali Paganism</a>, which is kept here in its most traditional forms. There are few Gethric churches north of the Onje, and Gethric priests who travel into the jarldoms do so at the pleasure of the local jarl.</p>
+<p>The Free Jarldoms are the stronghold of <a href="Forrvegur" class="internal-link">Forrvegur</a>, the old faith, which is kept here in its most traditional forms. There are few Gethric churches north of the Onje, and Gethric priests who travel into the jarldoms do so at the pleasure of the local jarl.</p>
 
 <h2>History</h2>
 <p>In the early history of Vignasoya the north-west was firmly part of the Korringe. When the <a href="Baeling Empire" class="internal-link">Baeling Empire</a> conquered the southern coast of Vignasoya in the 6th century, the Korres held out around the Onje River and the Gotjebay, and the jarls of the north-west were among their most loyal supporters. Their loyalty did not outlast the age of Skori power. After the Great Kingdom of Skorland broke apart in 667PA and the Skori lost their overseas holdings in the 8th century, the Korres had little to offer the northern jarls, and one after another they ceased to come to the Great Thing or to send their men to the Korre's wars. By the end of the 8th century the jarldoms were in practice independent, and the Korres, too weak to bring them back by force, have never formally given up their claim.</p>

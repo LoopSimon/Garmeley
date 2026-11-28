@@ -25,6 +25,7 @@
 			<div class="timeline-item" data-date="32000BA">First Evidence of Proto-Mogyri Shroombondage in the Drizan Jungle </div>
 			<div class="timeline-item" data-date="30500BA">Fellwins Comet hits in the southern beheran Desert</div>
 			<div class="timeline-item" data-date="30000BA">Nua Elfs are rapidly being replaced by the Drow</div>
+			<div class="timeline-item" data-date="29000BA">The Binding of the Gods; End of the Aldubyggja</div>
 			<div class="timeline-item" data-date="28000BA">Safir fully replace Astafir as the dominant species of inland Behera</div>
 	        <div class="timeline-item" data-date="25000BA">Nawiunic Event, a distant star bursts and outshines Luna Major for weeks, the greatest Super Conflux in the history of the Globe, a surge of cosmic radiation hits the Globe, most severe in the caves of eastern Behera</div>  
 			 <div class="timeline-item" data-date="24800BA">The magnetic field of the Globe is at its weakest for centuries, cosmic radiation stays raised and auroras are seen far from the poles</div>  
@@ -75,6 +76,7 @@
 	        <div class="timeline-item" data-date="2600BA">Bronze Smelting is developed, first records of Bronze tools and weapons</div>
 	        <div class="timeline-item" data-date="2580BA">The First Mitimgar is built near Timgar Lake in the northern Underlands by the Timgari Goblins</div>
 	        <div class="timeline-item" data-date="2550BA">Empire of the Horad dominates northern Behera</div>
+	        <div class="timeline-item" data-date="2510BA">The Aeld is first worshiped by the humans of Nostroya</div>
 	        <div class="timeline-item" data-date="2500BA">Birth of the modern Dwarf, marked by drow records in Tur-Enzal, that hint at biologically altered trogg colonies emerging from the Terem-Zal awakening sites,</div>
 	        <div class="timeline-item" data-date="2450BA">Earliest supposed date for the domestication of the horse</div>
 	        <div class="timeline-item" data-date="2430BA">Era of Civil Wars in Tur Enzal begins</div>
@@ -190,7 +192,6 @@
             <div class="timeline-item" data-date="585BA">End of Cyracli Age of Cities as more and more city states unite under religious authorities and against threats from the east</div>
             <div class="timeline-item" data-date="575BA">Arzum Cults spread across Dandry and Geol</div>
             <div class="timeline-item" data-date="560BA">Rakhian Conquest of Palmunis</div>
-            <div class="timeline-item" data-date="550BA">The Binding of the Gods, Aeld Cult worship begins</div>
             <div class="timeline-item" data-date="540BA">Prigam of Tasch builds the Great Palace of Tasch</div>
             <div class="timeline-item" data-date="520BA">Approximate completion of the Record of Eclipses by Tesimene of Lorqis at the Great Library of Lorqis</div>
             <div class="timeline-item" data-date="511BA">Rakhi Invasion of Cyraclion fails at the Battle of Milasam</div>

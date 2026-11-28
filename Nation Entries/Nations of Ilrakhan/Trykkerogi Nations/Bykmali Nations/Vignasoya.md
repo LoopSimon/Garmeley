@@ -4,7 +4,9 @@
 [[Baeling Empire]]
 [[Rulers of Trykkerog]]
 [[Droil]]
+[[Free Jarldoms]]
 [[Zeeport]]
+[[Great Kingdom of Skorland]]
 [[The Discovery of Aisligos]]
 [[Grynborg]]
 [[Rensköldsvik]]
@@ -32,7 +34,7 @@
 <hr class="wiki-hr">
 <div class="wiki-row">
 <strong>Primary Religion</strong>
-<span><a href="Bykmali Paganism" class="internal-link">Bykmali Paganism</a></span>
+<span><a href="Forrvegur" class="internal-link">Forrvegur</a></span>
 </div>
 <div class="wiki-row">
 <strong>Primary Culture</strong>
@@ -61,7 +63,7 @@
 
 <h2>Government and Society</h2>
 <p>Even within its borders Vignasoya adheres only nominally to a single authority. The Korre is chosen at the Great Thing of the Skori from among the kin of the royal house, and his rule rests on the jarls who acknowledge him there. Powerful nobles such as the Jarl of Braki and the Jarl of Skeppbirk, traditionally styled the Lord Reaver and at present Ulrik Roering, are largely autonomous and have sworn their arms in war to the Korre of Vignasoya through ancient oaths based on religious rites. Their bond to the crown is not comparable to the clearly defined relationships of the southern nobility, or to the firmer grip the monarchs of Baeling and <a href="Juelfluk" class="internal-link">Juelfluk</a> hold on their subjects. The Skori still keep thralls, a custom the Gethric realms of the island have long given up, and service in the warbands that sail abroad remains the surest road to wealth and fame for a young Skori.</p>
-<p>The faith of Vignasoya is the old faith of <a href="Bykmali Paganism" class="internal-link">Bykmali Paganism</a>, and much of the Skori sense of self is still defined by their long resistance to the Gethric conversion. The Olbellinge of Melmers Bay have long called them "wolfsmen", a name the Skori have taken up with some pride. The countryside keeps entirely to the old gods, while the towns of the Wolfsbay are mixed, with Gethric communities and a <a href="Trinicism" class="internal-link">Trinicist</a> minority brought by traders from <a href="Blijgrat" class="internal-link">Blijgrat</a> and Meadrath living beside the followers of the old faith.</p>
+<p>The faith of Vignasoya is <a href="Forrvegur" class="internal-link">Forrvegur</a>, the Old Road of the Bykmåli, and much of the Skori sense of self is still defined by their long resistance to the Gethric conversion. The Olbellinge of Melmers Bay have long called them "wolfsmen", a name the Skori have taken up with some pride. The countryside keeps entirely to the old gods, while the towns of the Wolfsbay are mixed, with Gethric communities and a <a href="Trinicism" class="internal-link">Trinicist</a> minority brought by traders from <a href="Blijgrat" class="internal-link">Blijgrat</a> and Meadrath living beside the followers of the old faith.</p>
 <iframe src="https://editor.garmeley.com/v/inara/?region=vignasoya&amp;view=globe&amp;label=0"
         width="100%" height="480" style="border:0;border-radius:8px;background:transparent"
         loading="lazy" allow="fullscreen" title="Vignasoya (Inara)"></iframe>

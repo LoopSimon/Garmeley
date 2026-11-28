@@ -2,8 +2,10 @@
 [[Otso]]
 [[Leonyd Krunliv]]
 [[Aeld Faith]]
+[[Liverleaf Amulet]]
 [[Pehki]]
 %%
+
 <div class="wiki-infobox">
     <h4 class="wiki-header">Havu</h4>
     <div class="wiki-row">
@@ -29,9 +31,10 @@
     <hr class="wiki-hr">
     <div class="wiki-row">
         <strong>Allegiance</strong>
-        <span><a href="Aeldcult" class="internal-link">Druids of Nostroya</a><br><a href="Otso" class="internal-link">Otso, King of Bear & Giant</a></span>
+        <span><a href="Aeld Faith" class="internal-link">Druids of Nostroya</a><br><a href="Otso" class="internal-link">Otso, King of Bear & Giant</a></span>
     </div>
     <hr class="wiki-hr">
 	<img src="https://raw.githubusercontent.com/LoopSimon/Garmeley/refs/heads/main/Media/Havu.png" style="width: 100%; height: 100%; object-fit: cover; display: block; flex-grow: 1;"> 
 
 </div>
+<small><i>this article concerns a Player Character played by Olle during Campaign 2</i></small>

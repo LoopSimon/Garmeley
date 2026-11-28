@@ -37,5 +37,5 @@
 
 </div>
 
-<p>Egill Bylgjurek, also known as "Foambeard", "Ekkilbyl" or "Egill Bylg" is a legendary hero of <a href="Bykmali Paganism" class="internal-link">bykmali</a> and <a href="Aeldcult" class="internal-link">aeld</a> tradition who is said to have been chosen by the Saltmother, Nyllena and defeated the Fire Giant Sjodur, the Roiling Fury.</p>
+<p>Egill Bylgjurek, also known as "Foambeard", "Ekkilbyl" or "Egill Bylg" is a legendary hero of the <a href="Forrvegur" class="internal-link">Forrvegur</a> and <a href="Aeld Faith" class="internal-link">Aeld</a> traditionswho is said to have been chosen by the Saltmother, Nyllena and defeated the Fire Giant Sjodur, the Roiling Fury.</p>
 <p>Egill is one of the four legendary Captains in the Saga of the Fjorisjom, leading the crew of the Öldubring within the tale.</p>
